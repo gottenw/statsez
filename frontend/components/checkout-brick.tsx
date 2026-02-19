@@ -3,7 +3,9 @@
 import { initMercadoPago, Payment } from "@mercadopago/sdk-react";
 import { getUser, getToken } from "../lib/api";
 
-initMercadoPago(process.env.NEXT_PUBLIC_MERCADOPAGO_PUBLIC_KEY || "");
+initMercadoPago(process.env.NEXT_PUBLIC_MERCADOPAGO_PUBLIC_KEY || "", {
+  locale: "pt-BR",
+});
 
 interface CheckoutBrickProps {
   amount: number;
