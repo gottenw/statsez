@@ -28,14 +28,14 @@ app.post('/process', async (c) => {
       external_reference: `${userId}|${body.planName || 'dev'}|${body.sport || 'football'}`
     });
     
-    // Vincular o pagamento ao usuário real
+    // Vincular o pagamento ao usuário real (sem subscription ainda)
     await prisma.payment.create({
       data: {
         amount: result.transaction_amount || 0,
         status: result.status || 'pending',
         provider: 'mercadopago',
         providerId: String(result.id),
-        subscriptionId: 'pending', // Será atualizado quando o webhook confirmar
+        subscriptionId: null, // Será atualizado quando o webhook confirmar
         userId: userId,
       }
     });

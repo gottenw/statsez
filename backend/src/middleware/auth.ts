@@ -42,6 +42,12 @@ export const apiKeyAuth = (allowedSport?: Sport): MiddlewareHandler => {
 
     const subscription = keyRecord.subscription
 
+    if (!subscription) {
+      return c.json({
+        success: false,
+        error: 'Assinatura não encontrada para esta API Key.'
+      }, 403)
+    }
     
     if (!subscription.isActive) {
       return c.json({

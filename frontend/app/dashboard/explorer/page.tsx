@@ -3,15 +3,62 @@
 import { useState } from "react";
 
 const endpoints = [
-  { id: "01_LIGAS", path: "/v1/football/leagues", method: "GET", description: "Listar todas as ligas suportadas" },
-  { id: "02_PARTIDAS", path: "/v1/football/fixtures", method: "GET", description: "Listar resultados e placares de partidas" },
-  { id: "03_CLASSIFICAÇÃO", path: "/v1/football/standings", params: "?league=england-premier-league-2025-2026", method: "GET", description: "Tabela completa da liga" },
-  { id: "04_ESTATÍSTICAS", path: "/v1/football/fixtures/lbnqyVFq/stats", method: "GET", description: "Métricas detalhadas de performance" },
-  { id: "05_ESCALAÇÕES", path: "/v1/football/fixtures/lbnqyVFq/lineups", method: "GET", description: "Titulares e formações táticas" },
-  { id: "06_EVENTOS", path: "/v1/football/fixtures/lbnqyVFq/events", method: "GET", description: "Linha do tempo de gols, cartões e substituições" },
-  { id: "07_TIMES", path: "/v1/football/teams", params: "?league=england-premier-league-2025-2026", method: "GET", description: "Listar clubes de uma competição" },
-  { id: "08_PARTIDAS_TIME", path: "/v1/football/teams/Liverpool/fixtures", method: "GET", description: "Histórico de partidas de um time específico" },
-  { id: "09_ESTATS_LIGA", path: "/v1/football/leagues/england-premier-league-2025-2026/stats", method: "GET", description: "Estatísticas agregadas da temporada" },
+  { 
+    id: "01_LEAGUES", 
+    path: "/v1/football/leagues", 
+    method: "GET", 
+    description: "Listar todas as ligas suportadas" 
+  },
+  { 
+    id: "02_FIXTURES", 
+    path: "/v1/football/fixtures", 
+    method: "GET", 
+    description: "Listar resultados e placares de partidas" 
+  },
+  { 
+    id: "03_STANDINGS", 
+    path: "/v1/football/standings", 
+    params: "?league=england-premier-league-2025-2026", 
+    method: "GET", 
+    description: "Tabela completa da liga" 
+  },
+  { 
+    id: "04_STATS", 
+    path: "/v1/football/fixtures/{id}/stats", 
+    method: "GET", 
+    description: "Estatísticas detalhadas da partida" 
+  },
+  { 
+    id: "05_LINEUPS", 
+    path: "/v1/football/fixtures/{id}/lineups", 
+    method: "GET", 
+    description: "Escalações e formações táticas" 
+  },
+  { 
+    id: "06_EVENTS", 
+    path: "/v1/football/fixtures/{id}/events", 
+    method: "GET", 
+    description: "Eventos da partida: gols, cartões, substituições" 
+  },
+  { 
+    id: "07_TEAMS", 
+    path: "/v1/football/teams", 
+    params: "?league=england-premier-league-2025-2026", 
+    method: "GET", 
+    description: "Listar times de uma competição" 
+  },
+  { 
+    id: "08_TEAM_FIXTURES", 
+    path: "/v1/football/teams/{teamName}/fixtures", 
+    method: "GET", 
+    description: "Histórico de partidas de um time" 
+  },
+  { 
+    id: "09_LEAGUE_STATS", 
+    path: "/v1/football/leagues/{leagueId}/stats", 
+    method: "GET", 
+    description: "Estatísticas agregadas da temporada" 
+  },
 ];
 
 export default function ExplorerPage() {
@@ -22,11 +69,11 @@ export default function ExplorerPage() {
 
   const runRequest = async () => {
     if (!apiKey) {
-      alert("ERRO: CHAVE_API_OBRIGATÓRIA");
+      alert("ERRO: CHAVE_API_OBRIGATORIA");
       return;
     }
     setLoading(true);
-    setResult({ status: "CONECTANDO_AOS_NÓS_DE_PRODUÇÃO..." });
+    setResult({ status: "CONECTANDO..." });
 
     try {
       const url = `https://api.statsez.com${selected.path}${selected.params || ""}`;
@@ -36,7 +83,7 @@ export default function ExplorerPage() {
       const data = await res.json();
       setResult(data);
     } catch (err) {
-      setResult({ error: "TIMEOUT_DO_GATEWAY", details: "Verifique sua conexão ou status da chave API." });
+      setResult({ error: "ERRO_DE_CONEXAO", details: "Verifique sua chave API." });
     } finally {
       setLoading(false);
     }
@@ -45,23 +92,23 @@ export default function ExplorerPage() {
   return (
     <div className="p-8 md:p-12 max-w-7xl mx-auto space-y-12">
       <header className="border-b border-border pb-8">
-        <span className="text-sm font-mono font-bold tracking-widest text-foreground/50 uppercase">
-          SISTEMA_DE_DEBUG
+        <span className="text-base font-mono font-bold tracking-widest text-foreground/50 uppercase">
+          DEBUG
         </span>
         <h1 className="font-sans text-3xl font-medium uppercase mt-2 tracking-tight">
-          Explorador de API
+          API Explorer
         </h1>
         <p className="font-mono text-base text-red-500 mt-4 font-bold uppercase tracking-wider">
-          AVISO: A execução deduzirá 1 unidade da sua quota quinzenal.
+          AVISO: Cada requisicao consome 1 unidade da quota.
         </p>
       </header>
 
       <div className="grid grid-cols-12 gap-12">
-        {/* Sidebar Selection */}
+        {/* Sidebar */}
         <div className="col-span-12 lg:col-span-4 space-y-8">
           <div className="space-y-4">
             <label className="text-base font-mono font-bold uppercase tracking-widest text-foreground/50">
-              Chave de Produção
+              API Key
             </label>
             <input 
               type="password" 
@@ -74,9 +121,9 @@ export default function ExplorerPage() {
 
           <div className="space-y-4">
             <label className="text-base font-mono font-bold uppercase tracking-widest text-foreground/50">
-              Endpoints Disponíveis
+              Endpoints
             </label>
-            <div className="border border-border divide-y divide-border max-h-[400px] overflow-y-auto custom-scrollbar">
+            <div className="border border-border divide-y divide-border max-h-[400px] overflow-y-auto">
               {endpoints.map((ep) => (
                 <button
                   key={ep.id}
@@ -89,9 +136,6 @@ export default function ExplorerPage() {
                   <p className={`font-mono text-sm mt-1 ${selected.id === ep.id ? "opacity-70" : "text-muted-foreground"}`}>
                     {ep.path}
                   </p>
-                  <p className={`font-mono text-xs mt-2 ${selected.id === ep.id ? "opacity-70" : "text-muted-foreground"}`}>
-                    {ep.description}
-                  </p>
                 </button>
               ))}
             </div>
@@ -102,29 +146,29 @@ export default function ExplorerPage() {
             disabled={loading}
             className="w-full font-mono text-base font-bold bg-foreground text-background py-6 hover:bg-foreground/90 transition-all uppercase tracking-[0.2em]"
           >
-              {loading ? "PROCESSANDO_REQUISIÇÃO..." : "EXECUTAR_CONSULTA"}
+            {loading ? "PROCESSANDO..." : "EXECUTAR"}
           </button>
         </div>
 
-        {/* Output Area */}
+        {/* Output */}
         <div className="col-span-12 lg:col-span-8 flex flex-col border border-border">
           <div className="p-5 border-b border-border flex justify-between items-center bg-foreground/[0.02]">
             <span className="text-base font-mono font-bold uppercase tracking-widest">
-              Saída_JSON
+              Resposta JSON
             </span>
             <span className="text-sm font-mono bg-green-500/10 text-green-600 px-2 py-1 font-bold">
               PRONTO
             </span>
           </div>
-          <div className="flex-1 p-8 overflow-auto max-h-[700px] custom-scrollbar bg-background">
+          <div className="flex-1 p-8 overflow-auto max-h-[700px] bg-background">
             {result ? (
-              <pre className="font-mono text-base leading-relaxed text-foreground whitespace-pre-wrap">
+              <pre className="font-mono text-base text-foreground whitespace-pre-wrap">
                 <code>{JSON.stringify(result, null, 2)}</code>
               </pre>
             ) : (
               <div className="h-64 flex items-center justify-center border-2 border-dashed border-border/50">
-                <span className="font-mono text-base text-muted-foreground uppercase tracking-[0.2em]">
-                  Aguardando execução...
+                <span className="font-mono text-base text-muted-foreground uppercase">
+                  Aguardando execucao...
                 </span>
               </div>
             )}

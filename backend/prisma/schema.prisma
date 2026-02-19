@@ -57,7 +57,7 @@ model ApiKey {
   createdAt      DateTime     @default(now())
   lastUsedAt     DateTime?
   
-  subscription   Subscription @relation(fields: [subscriptionId], references: [id], onDelete: Cascade)
+  subscription   Subscription? @relation(fields: [subscriptionId], references: [id], onDelete: Cascade)
   
   @@index([key])
 }
@@ -98,7 +98,7 @@ model RequestLog {
 // Pagamentos
 model Payment {
   id             String       @id @default(uuid())
-  subscriptionId String
+  subscriptionId String?      // Opcional até o webhook confirmar
   userId         String
   amount         Decimal      @db.Decimal(10, 2)
   currency       String       @default("BRL")
@@ -109,7 +109,7 @@ model Payment {
   createdAt      DateTime     @default(now())
   updatedAt      DateTime     @updatedAt
   
-  subscription   Subscription @relation(fields: [subscriptionId], references: [id], onDelete: Cascade)
+  subscription   Subscription? @relation(fields: [subscriptionId], references: [id], onDelete: Cascade)
   user           User         @relation(fields: [userId], references: [id], onDelete: Cascade)
   
   @@index([subscriptionId])
