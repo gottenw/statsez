@@ -1,4 +1,5 @@
 import * as sportdb from './sportdb.js';
+import { getCache, setCache } from './cache.js';
 import type {
   FixtureResponse,
   LeagueResponse,
@@ -13,15 +14,16 @@ import type {
 // ============================================
 // LEAGUE REGISTRY
 // Maps competition ID → upstream API path info
+// Cached in PostgreSQL (24h) + in-memory Map
 // ============================================
 
 interface LeagueEntry {
   id: string;
   name: string;
   countryName: string;
-  countryParam: string;   // "slug:id" for API calls
+  countryParam: string;
   leagueSlug: string;
-  leagueParam: string;    // "slug:id" for API calls
+  leagueParam: string;
 }
 
 const leagueRegistry = new Map<string, LeagueEntry>();
@@ -40,10 +42,27 @@ async function ensureRegistry(): Promise<void> {
 }
 
 async function buildRegistry(): Promise<void> {
+  // 1) Try loading from PostgreSQL cache first
+  try {
+    const cached = await getCache<LeagueEntry[]>('football', 'league-registry', {});
+    if (cached && cached.length > 0) {
+      for (const entry of cached) {
+        leagueRegistry.set(entry.id, entry);
+      }
+      registryBuilt = true;
+      console.log(`[Registry] Loaded ${cached.length} leagues from cache`);
+      return;
+    }
+  } catch {
+    // cache miss or error, build from API
+  }
+
+  // 2) Build from sportsdb.dev API
   try {
     const countries = await sportdb.getCountries();
+    console.log(`[Registry] Building from API: ${countries.length} countries...`);
 
-    const BATCH_SIZE = 10;
+    const BATCH_SIZE = 50;
     for (let i = 0; i < countries.length; i += BATCH_SIZE) {
       const batch = countries.slice(i, i + BATCH_SIZE);
       const results = await Promise.allSettled(
@@ -69,13 +88,23 @@ async function buildRegistry(): Promise<void> {
           }
         }
       }
+      console.log(`[Registry] Batch ${Math.floor(i / BATCH_SIZE) + 1}/${Math.ceil(countries.length / BATCH_SIZE)}: ${leagueRegistry.size} leagues`);
     }
 
     registryBuilt = true;
+    console.log(`[Registry] Built: ${leagueRegistry.size} leagues total`);
+
+    // 3) Save to PostgreSQL cache (24h TTL)
+    const entries = Array.from(leagueRegistry.values());
+    await setCache({ sport: 'football', endpoint: 'league-registry', params: {}, ttlSeconds: 86400 }, entries);
+    console.log(`[Registry] Saved to cache`);
   } catch (error) {
-    console.error('Failed to build league registry');
+    console.error('[Registry] Failed to build:', error);
   }
 }
+
+// Start building in background on module load
+ensureRegistry().catch(() => {});
 
 async function resolveLeagueSeason(entry: LeagueEntry): Promise<string | null> {
   try {
