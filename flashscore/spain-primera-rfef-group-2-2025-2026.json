@@ -1,0 +1,9281 @@
+{
+  "league": "Primera RFEF - Group 2",
+  "country": "spain",
+  "season": "2025-2026",
+  "collectedAt": "2026-02-10T19:14:28.926Z",
+  "totalMatches": 236,
+  "matches": [
+    {
+      "id": "0SC0v2V6",
+      "date": "2026-02-08T17:15:00.000Z",
+      "round": "Round 23",
+      "homeTeam": "Gimnastic",
+      "awayTeam": "Villarreal B",
+      "homeScore": 0,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "53%",
+          "47%"
+        ],
+        "Total shots": [
+          "10",
+          "15"
+        ],
+        "Shots on target": [
+          "4",
+          "10"
+        ],
+        "Corner kicks": [
+          "7",
+          "2"
+        ],
+        "Yellow cards": [
+          "1",
+          "2"
+        ],
+        "Red cards": [
+          "1",
+          "1"
+        ],
+        "Shots off target": [
+          "6",
+          "5"
+        ]
+      }
+    },
+    {
+      "id": "02HpphJP",
+      "date": "2026-02-08T11:00:00.000Z",
+      "round": "Round 23",
+      "homeTeam": "Betis Deportivo",
+      "awayTeam": "UD Ibiza",
+      "homeScore": 3,
+      "awayScore": 2,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "45%",
+          "55%"
+        ],
+        "Total shots": [
+          "9",
+          "17"
+        ],
+        "Shots on target": [
+          "6",
+          "8"
+        ],
+        "Corner kicks": [
+          "0",
+          "8"
+        ],
+        "Yellow cards": [
+          "6",
+          "2"
+        ],
+        "Shots off target": [
+          "3",
+          "9"
+        ]
+      }
+    },
+    {
+      "id": "dzGqrpWs",
+      "date": "2026-02-07T20:00:00.000Z",
+      "round": "Round 23",
+      "homeTeam": "Eldense",
+      "awayTeam": "Sabadell",
+      "homeScore": 2,
+      "awayScore": 1,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "57%",
+          "43%"
+        ],
+        "Total shots": [
+          "9",
+          "5"
+        ],
+        "Shots on target": [
+          "6",
+          "3"
+        ],
+        "Corner kicks": [
+          "5",
+          "3"
+        ],
+        "Yellow cards": [
+          "4",
+          "3"
+        ],
+        "Shots off target": [
+          "3",
+          "2"
+        ]
+      }
+    },
+    {
+      "id": "Wp8GvWtm",
+      "date": "2026-02-07T17:30:00.000Z",
+      "round": "Round 23",
+      "homeTeam": "Atletico Madrid B",
+      "awayTeam": "Alcorcon",
+      "homeScore": 0,
+      "awayScore": 0,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "49%",
+          "51%"
+        ],
+        "Total shots": [
+          "5",
+          "9"
+        ],
+        "Shots on target": [
+          "1",
+          "5"
+        ],
+        "Corner kicks": [
+          "4",
+          "5"
+        ],
+        "Yellow cards": [
+          "1",
+          "5"
+        ],
+        "Red cards": [
+          "1",
+          "1"
+        ],
+        "Shots off target": [
+          "4",
+          "4"
+        ]
+      }
+    },
+    {
+      "id": "AyTkgVet",
+      "date": "2026-02-07T15:15:00.000Z",
+      "round": "Round 23",
+      "homeTeam": "SD Tarazona",
+      "awayTeam": "Atletico Sanluqueno",
+      "homeScore": 0,
+      "awayScore": 2,
+      "htHome": 0,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "52%",
+          "48%"
+        ],
+        "Total shots": [
+          "11",
+          "4"
+        ],
+        "Shots on target": [
+          "5",
+          "3"
+        ],
+        "Corner kicks": [
+          "7",
+          "0"
+        ],
+        "Yellow cards": [
+          "7",
+          "3"
+        ],
+        "Shots off target": [
+          "6",
+          "1"
+        ]
+      }
+    },
+    {
+      "id": "YuB8xt0J",
+      "date": "2026-02-06T20:15:00.000Z",
+      "round": "Round 23",
+      "homeTeam": "CE Europa",
+      "awayTeam": "Hercules",
+      "homeScore": 1,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "47%",
+          "53%"
+        ],
+        "Total shots": [
+          "14",
+          "8"
+        ],
+        "Shots on target": [
+          "6",
+          "4"
+        ],
+        "Corner kicks": [
+          "6",
+          "2"
+        ],
+        "Yellow cards": [
+          "4",
+          "2"
+        ],
+        "Red cards": [
+          "1",
+          "0"
+        ],
+        "Shots off target": [
+          "8",
+          "4"
+        ]
+      }
+    },
+    {
+      "id": "d8JfZFmA",
+      "date": "2026-02-01T19:30:00.000Z",
+      "round": "Round 22",
+      "homeTeam": "Alcorcon",
+      "awayTeam": "Gimnastic",
+      "homeScore": 1,
+      "awayScore": 1,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "61%",
+          "39%"
+        ],
+        "Total shots": [
+          "12",
+          "2"
+        ],
+        "Shots on target": [
+          "7",
+          "1"
+        ],
+        "Corner kicks": [
+          "11",
+          "1"
+        ],
+        "Yellow cards": [
+          "2",
+          "4"
+        ],
+        "Shots off target": [
+          "5",
+          "1"
+        ]
+      }
+    },
+    {
+      "id": "ULH2XgIM",
+      "date": "2026-02-01T17:15:00.000Z",
+      "round": "Round 22",
+      "homeTeam": "Sabadell",
+      "awayTeam": "Juventud Torremolinos CF",
+      "homeScore": 2,
+      "awayScore": 2,
+      "htHome": 1,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "58%",
+          "42%"
+        ],
+        "Total shots": [
+          "12",
+          "9"
+        ],
+        "Shots on target": [
+          "6",
+          "5"
+        ],
+        "Corner kicks": [
+          "6",
+          "3"
+        ],
+        "Yellow cards": [
+          "6",
+          "4"
+        ],
+        "Shots off target": [
+          "6",
+          "4"
+        ]
+      }
+    },
+    {
+      "id": "l6bZRXup",
+      "date": "2026-02-01T15:00:00.000Z",
+      "round": "Round 22",
+      "homeTeam": "Algeciras CF",
+      "awayTeam": "Eldense",
+      "homeScore": 1,
+      "awayScore": 1,
+      "htHome": 1,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "52%",
+          "48%"
+        ],
+        "Total shots": [
+          "9",
+          "5"
+        ],
+        "Shots on target": [
+          "6",
+          "3"
+        ],
+        "Corner kicks": [
+          "4",
+          "2"
+        ],
+        "Yellow cards": [
+          "2",
+          "1"
+        ],
+        "Shots off target": [
+          "3",
+          "2"
+        ]
+      }
+    },
+    {
+      "id": "dW1sQBAd",
+      "date": "2026-02-01T15:00:00.000Z",
+      "round": "Round 22",
+      "homeTeam": "UD Ibiza",
+      "awayTeam": "Atletico Madrid B",
+      "homeScore": 2,
+      "awayScore": 0,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "42%",
+          "58%"
+        ],
+        "Total shots": [
+          "14",
+          "8"
+        ],
+        "Shots on target": [
+          "6",
+          "2"
+        ],
+        "Corner kicks": [
+          "1",
+          "9"
+        ],
+        "Yellow cards": [
+          "2",
+          "6"
+        ],
+        "Shots off target": [
+          "8",
+          "6"
+        ]
+      }
+    },
+    {
+      "id": "nPnRP2GD",
+      "date": "2026-02-01T11:00:00.000Z",
+      "round": "Round 22",
+      "homeTeam": "Marbella FC",
+      "awayTeam": "Antequera",
+      "homeScore": 0,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "46%",
+          "54%"
+        ],
+        "Total shots": [
+          "6",
+          "7"
+        ],
+        "Shots on target": [
+          "2",
+          "3"
+        ],
+        "Corner kicks": [
+          "6",
+          "6"
+        ],
+        "Yellow cards": [
+          "4",
+          "3"
+        ],
+        "Shots off target": [
+          "4",
+          "4"
+        ]
+      }
+    },
+    {
+      "id": "xSvUmF23",
+      "date": "2026-02-01T11:00:00.000Z",
+      "round": "Round 22",
+      "homeTeam": "Teruel",
+      "awayTeam": "Real Murcia",
+      "homeScore": 0,
+      "awayScore": 0,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "46%",
+          "54%"
+        ],
+        "Total shots": [
+          "10",
+          "5"
+        ],
+        "Shots on target": [
+          "7",
+          "3"
+        ],
+        "Corner kicks": [
+          "4",
+          "3"
+        ],
+        "Yellow cards": [
+          "8",
+          "3"
+        ],
+        "Shots off target": [
+          "3",
+          "2"
+        ]
+      }
+    },
+    {
+      "id": "C2vDm68K",
+      "date": "2026-01-31T17:30:00.000Z",
+      "round": "Round 22",
+      "homeTeam": "Atletico Sanluqueno",
+      "awayTeam": "Betis Deportivo",
+      "homeScore": 1,
+      "awayScore": 4,
+      "htHome": 0,
+      "htAway": 3,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "50%",
+          "50%"
+        ],
+        "Total shots": [
+          "12",
+          "8"
+        ],
+        "Shots on target": [
+          "5",
+          "6"
+        ],
+        "Corner kicks": [
+          "7",
+          "4"
+        ],
+        "Yellow cards": [
+          "5",
+          "3"
+        ],
+        "Shots off target": [
+          "7",
+          "2"
+        ]
+      }
+    },
+    {
+      "id": "IqeATpHl",
+      "date": "2026-01-31T17:30:00.000Z",
+      "round": "Round 22",
+      "homeTeam": "Villarreal B",
+      "awayTeam": "SD Tarazona",
+      "homeScore": 1,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "56%",
+          "44%"
+        ],
+        "Total shots": [
+          "9",
+          "7"
+        ],
+        "Shots on target": [
+          "6",
+          "3"
+        ],
+        "Corner kicks": [
+          "4",
+          "1"
+        ],
+        "Yellow cards": [
+          "5",
+          "7"
+        ],
+        "Shots off target": [
+          "3",
+          "4"
+        ]
+      }
+    },
+    {
+      "id": "jcgIROo1",
+      "date": "2026-01-31T13:00:00.000Z",
+      "round": "Round 22",
+      "homeTeam": "Sevilla Atletico",
+      "awayTeam": "CE Europa",
+      "homeScore": 0,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "55%",
+          "45%"
+        ],
+        "Total shots": [
+          "8",
+          "12"
+        ],
+        "Shots on target": [
+          "4",
+          "6"
+        ],
+        "Corner kicks": [
+          "0",
+          "3"
+        ],
+        "Yellow cards": [
+          "5",
+          "5"
+        ],
+        "Red cards": [
+          "1",
+          "0"
+        ],
+        "Shots off target": [
+          "4",
+          "6"
+        ]
+      }
+    },
+    {
+      "id": "OrwxngXF",
+      "date": "2026-01-30T20:15:00.000Z",
+      "round": "Round 22",
+      "homeTeam": "Hercules",
+      "awayTeam": "FC Cartagena",
+      "homeScore": 2,
+      "awayScore": 0,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "58%",
+          "42%"
+        ],
+        "Total shots": [
+          "9",
+          "5"
+        ],
+        "Shots on target": [
+          "3",
+          "2"
+        ],
+        "Corner kicks": [
+          "7",
+          "4"
+        ],
+        "Yellow cards": [
+          "1",
+          "5"
+        ],
+        "Shots off target": [
+          "6",
+          "3"
+        ]
+      }
+    },
+    {
+      "id": "lhJ0DYQj",
+      "date": "2026-01-25T19:30:00.000Z",
+      "round": "Round 21",
+      "homeTeam": "Real Murcia",
+      "awayTeam": "Algeciras CF",
+      "homeScore": 0,
+      "awayScore": 2,
+      "htHome": 0,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "42%",
+          "58%"
+        ],
+        "Total shots": [
+          "15",
+          "9"
+        ],
+        "Shots on target": [
+          "6",
+          "4"
+        ],
+        "Corner kicks": [
+          "8",
+          "1"
+        ],
+        "Yellow cards": [
+          "3",
+          "3"
+        ],
+        "Shots off target": [
+          "9",
+          "5"
+        ]
+      }
+    },
+    {
+      "id": "dY2o8wkB",
+      "date": "2026-01-25T17:15:00.000Z",
+      "round": "Round 21",
+      "homeTeam": "Eldense",
+      "awayTeam": "Teruel",
+      "homeScore": 2,
+      "awayScore": 0,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "60%",
+          "40%"
+        ],
+        "Total shots": [
+          "12",
+          "2"
+        ],
+        "Shots on target": [
+          "6",
+          "1"
+        ],
+        "Corner kicks": [
+          "6",
+          "4"
+        ],
+        "Yellow cards": [
+          "2",
+          "3"
+        ],
+        "Shots off target": [
+          "6",
+          "1"
+        ]
+      }
+    },
+    {
+      "id": "dfvMKGYG",
+      "date": "2026-01-25T11:00:00.000Z",
+      "round": "Round 21",
+      "homeTeam": "SD Tarazona",
+      "awayTeam": "Hercules",
+      "homeScore": 2,
+      "awayScore": 2,
+      "htHome": 1,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "38%",
+          "62%"
+        ],
+        "Total shots": [
+          "8",
+          "5"
+        ],
+        "Shots on target": [
+          "6",
+          "3"
+        ],
+        "Corner kicks": [
+          "2",
+          "0"
+        ],
+        "Yellow cards": [
+          "2",
+          "2"
+        ],
+        "Shots off target": [
+          "2",
+          "2"
+        ]
+      }
+    },
+    {
+      "id": "GbBnyxJc",
+      "date": "2026-01-25T11:00:00.000Z",
+      "round": "Round 21",
+      "homeTeam": "Juventud Torremolinos CF",
+      "awayTeam": "Sevilla Atletico",
+      "homeScore": 2,
+      "awayScore": 0,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "48%",
+          "52%"
+        ],
+        "Total shots": [
+          "11",
+          "8"
+        ],
+        "Shots on target": [
+          "7",
+          "5"
+        ],
+        "Corner kicks": [
+          "5",
+          "3"
+        ],
+        "Yellow cards": [
+          "5",
+          "2"
+        ],
+        "Shots off target": [
+          "4",
+          "3"
+        ]
+      }
+    },
+    {
+      "id": "4KsUIf3T",
+      "date": "2026-01-24T20:00:00.000Z",
+      "round": "Round 21",
+      "homeTeam": "Gimnastic",
+      "awayTeam": "UD Ibiza",
+      "homeScore": 1,
+      "awayScore": 0,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "44%",
+          "56%"
+        ],
+        "Total shots": [
+          "11",
+          "8"
+        ],
+        "Shots on target": [
+          "6",
+          "5"
+        ],
+        "Corner kicks": [
+          "1",
+          "8"
+        ],
+        "Yellow cards": [
+          "2",
+          "2"
+        ],
+        "Shots off target": [
+          "5",
+          "3"
+        ]
+      }
+    },
+    {
+      "id": "4vQCObZi",
+      "date": "2026-01-24T17:30:00.000Z",
+      "round": "Round 21",
+      "homeTeam": "Betis Deportivo",
+      "awayTeam": "Marbella FC",
+      "homeScore": 0,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "51%",
+          "49%"
+        ],
+        "Total shots": [
+          "11",
+          "12"
+        ],
+        "Shots on target": [
+          "6",
+          "8"
+        ],
+        "Corner kicks": [
+          "6",
+          "3"
+        ],
+        "Yellow cards": [
+          "3",
+          "2"
+        ],
+        "Shots off target": [
+          "5",
+          "4"
+        ]
+      }
+    },
+    {
+      "id": "Imif6HJN",
+      "date": "2026-01-24T17:30:00.000Z",
+      "round": "Round 21",
+      "homeTeam": "FC Cartagena",
+      "awayTeam": "CE Europa",
+      "homeScore": 2,
+      "awayScore": 2,
+      "htHome": 0,
+      "htAway": 2,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "55%",
+          "45%"
+        ],
+        "Total shots": [
+          "14",
+          "7"
+        ],
+        "Shots on target": [
+          "11",
+          "6"
+        ],
+        "Corner kicks": [
+          "11",
+          "4"
+        ],
+        "Yellow cards": [
+          "1",
+          "5"
+        ],
+        "Shots off target": [
+          "3",
+          "1"
+        ]
+      }
+    },
+    {
+      "id": "lWsQ0eso",
+      "date": "2026-01-24T15:15:00.000Z",
+      "round": "Round 21",
+      "homeTeam": "Antequera",
+      "awayTeam": "Atletico Sanluqueno",
+      "homeScore": 2,
+      "awayScore": 0,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "54%",
+          "46%"
+        ],
+        "Total shots": [
+          "15",
+          "3"
+        ],
+        "Shots on target": [
+          "7",
+          "2"
+        ],
+        "Corner kicks": [
+          "13",
+          "2"
+        ],
+        "Yellow cards": [
+          "1",
+          "3"
+        ],
+        "Shots off target": [
+          "8",
+          "1"
+        ]
+      }
+    },
+    {
+      "id": "xhOKMx44",
+      "date": "2026-01-24T15:15:00.000Z",
+      "round": "Round 21",
+      "homeTeam": "Sabadell",
+      "awayTeam": "Alcorcon",
+      "homeScore": 0,
+      "awayScore": 0,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "61%",
+          "39%"
+        ],
+        "Total shots": [
+          "11",
+          "4"
+        ],
+        "Shots on target": [
+          "4",
+          "2"
+        ],
+        "Corner kicks": [
+          "8",
+          "1"
+        ],
+        "Yellow cards": [
+          "2",
+          "6"
+        ],
+        "Shots off target": [
+          "7",
+          "2"
+        ]
+      }
+    },
+    {
+      "id": "jy0wAaKb",
+      "date": "2026-01-24T13:00:00.000Z",
+      "round": "Round 21",
+      "homeTeam": "Atletico Madrid B",
+      "awayTeam": "Villarreal B",
+      "homeScore": 1,
+      "awayScore": 1,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "47%",
+          "53%"
+        ],
+        "Total shots": [
+          "11",
+          "10"
+        ],
+        "Shots on target": [
+          "3",
+          "4"
+        ],
+        "Corner kicks": [
+          "1",
+          "1"
+        ],
+        "Yellow cards": [
+          "2",
+          "2"
+        ],
+        "Shots off target": [
+          "8",
+          "6"
+        ]
+      }
+    },
+    {
+      "id": "vcWKiI4U",
+      "date": "2026-01-18T19:30:00.000Z",
+      "round": "Round 20",
+      "homeTeam": "Atletico Sanluqueno",
+      "awayTeam": "Gimnastic",
+      "homeScore": 1,
+      "awayScore": 0,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "53%",
+          "47%"
+        ],
+        "Total shots": [
+          "12",
+          "9"
+        ],
+        "Shots on target": [
+          "4",
+          "4"
+        ],
+        "Corner kicks": [
+          "2",
+          "2"
+        ],
+        "Yellow cards": [
+          "1",
+          "1"
+        ],
+        "Shots off target": [
+          "8",
+          "5"
+        ]
+      }
+    },
+    {
+      "id": "fTSTgmU0",
+      "date": "2026-01-18T17:15:00.000Z",
+      "round": "Round 20",
+      "homeTeam": "UD Ibiza",
+      "awayTeam": "Real Murcia",
+      "homeScore": 2,
+      "awayScore": 0,
+      "htHome": 2,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "45%",
+          "55%"
+        ],
+        "Total shots": [
+          "9",
+          "8"
+        ],
+        "Shots on target": [
+          "3",
+          "4"
+        ],
+        "Corner kicks": [
+          "2",
+          "5"
+        ],
+        "Yellow cards": [
+          "3",
+          "5"
+        ],
+        "Shots off target": [
+          "6",
+          "4"
+        ]
+      }
+    },
+    {
+      "id": "tOXmar6t",
+      "date": "2026-01-18T15:00:00.000Z",
+      "round": "Round 20",
+      "homeTeam": "Algeciras CF",
+      "awayTeam": "Betis Deportivo",
+      "homeScore": 2,
+      "awayScore": 0,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "41%",
+          "59%"
+        ],
+        "Total shots": [
+          "11",
+          "3"
+        ],
+        "Shots on target": [
+          "4",
+          "0"
+        ],
+        "Corner kicks": [
+          "2",
+          "4"
+        ],
+        "Yellow cards": [
+          "4",
+          "1"
+        ],
+        "Shots off target": [
+          "7",
+          "3"
+        ]
+      }
+    },
+    {
+      "id": "f96UBLkn",
+      "date": "2026-01-18T11:00:00.000Z",
+      "round": "Round 20",
+      "homeTeam": "Teruel",
+      "awayTeam": "Sabadell",
+      "homeScore": 0,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "49%",
+          "51%"
+        ],
+        "Total shots": [
+          "7",
+          "6"
+        ],
+        "Shots on target": [
+          "3",
+          "3"
+        ],
+        "Corner kicks": [
+          "6",
+          "4"
+        ],
+        "Yellow cards": [
+          "3",
+          "4"
+        ],
+        "Shots off target": [
+          "4",
+          "3"
+        ]
+      }
+    },
+    {
+      "id": "A3P4e055",
+      "date": "2026-01-18T11:00:00.000Z",
+      "round": "Round 20",
+      "homeTeam": "Juventud Torremolinos CF",
+      "awayTeam": "Eldense",
+      "homeScore": 1,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "44%",
+          "56%"
+        ],
+        "Total shots": [
+          "5",
+          "12"
+        ],
+        "Shots on target": [
+          "3",
+          "5"
+        ],
+        "Corner kicks": [
+          "1",
+          "7"
+        ],
+        "Yellow cards": [
+          "4",
+          "4"
+        ],
+        "Red cards": [
+          "1",
+          "0"
+        ],
+        "Shots off target": [
+          "2",
+          "7"
+        ]
+      }
+    },
+    {
+      "id": "Uoqk1VyR",
+      "date": "2026-01-17T17:30:00.000Z",
+      "round": "Round 20",
+      "homeTeam": "Alcorcon",
+      "awayTeam": "Antequera",
+      "homeScore": 2,
+      "awayScore": 1,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "50%",
+          "50%"
+        ],
+        "Total shots": [
+          "11",
+          "11"
+        ],
+        "Shots on target": [
+          "5",
+          "1"
+        ],
+        "Corner kicks": [
+          "6",
+          "8"
+        ],
+        "Yellow cards": [
+          "3",
+          "2"
+        ],
+        "Shots off target": [
+          "6",
+          "10"
+        ]
+      }
+    },
+    {
+      "id": "llydcMzg",
+      "date": "2026-01-17T15:15:00.000Z",
+      "round": "Round 20",
+      "homeTeam": "CE Europa",
+      "awayTeam": "Atletico Madrid B",
+      "homeScore": 2,
+      "awayScore": 2,
+      "htHome": 1,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "59%",
+          "41%"
+        ],
+        "Total shots": [
+          "15",
+          "7"
+        ],
+        "Shots on target": [
+          "7",
+          "4"
+        ],
+        "Corner kicks": [
+          "10",
+          "3"
+        ],
+        "Yellow cards": [
+          "5",
+          "3"
+        ],
+        "Shots off target": [
+          "8",
+          "3"
+        ]
+      }
+    },
+    {
+      "id": "StRyhRbD",
+      "date": "2026-01-17T15:15:00.000Z",
+      "round": "Round 20",
+      "homeTeam": "Marbella FC",
+      "awayTeam": "SD Tarazona",
+      "homeScore": 0,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "50%",
+          "50%"
+        ],
+        "Total shots": [
+          "0",
+          "0"
+        ],
+        "Shots on target": [
+          "0",
+          "0"
+        ],
+        "Corner kicks": [
+          "0",
+          "0"
+        ],
+        "Shots off target": [
+          "0",
+          "0"
+        ]
+      }
+    },
+    {
+      "id": "0UZKe9al",
+      "date": "2026-01-17T13:00:00.000Z",
+      "round": "Round 20",
+      "homeTeam": "Hercules",
+      "awayTeam": "Sevilla Atletico",
+      "homeScore": 0,
+      "awayScore": 0,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "60%",
+          "40%"
+        ],
+        "Total shots": [
+          "13",
+          "5"
+        ],
+        "Shots on target": [
+          "5",
+          "3"
+        ],
+        "Corner kicks": [
+          "8",
+          "4"
+        ],
+        "Yellow cards": [
+          "3",
+          "1"
+        ],
+        "Shots off target": [
+          "8",
+          "2"
+        ]
+      }
+    },
+    {
+      "id": "rVxCgvzI",
+      "date": "2026-01-16T18:00:00.000Z",
+      "round": "Round 20",
+      "homeTeam": "Villarreal B",
+      "awayTeam": "FC Cartagena",
+      "homeScore": 1,
+      "awayScore": 0,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "46%",
+          "54%"
+        ],
+        "Total shots": [
+          "8",
+          "8"
+        ],
+        "Shots on target": [
+          "4",
+          "4"
+        ],
+        "Corner kicks": [
+          "2",
+          "6"
+        ],
+        "Yellow cards": [
+          "4",
+          "2"
+        ],
+        "Shots off target": [
+          "4",
+          "4"
+        ]
+      }
+    },
+    {
+      "id": "MNngsApe",
+      "date": "2026-01-11T17:00:00.000Z",
+      "round": "Round 19",
+      "homeTeam": "Real Murcia",
+      "awayTeam": "Hercules",
+      "homeScore": 1,
+      "awayScore": 1,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "47%",
+          "53%"
+        ],
+        "Total shots": [
+          "7",
+          "6"
+        ],
+        "Shots on target": [
+          "4",
+          "3"
+        ],
+        "Corner kicks": [
+          "4",
+          "4"
+        ],
+        "Yellow cards": [
+          "0",
+          "4"
+        ],
+        "Shots off target": [
+          "3",
+          "3"
+        ]
+      }
+    },
+    {
+      "id": "Ma46jEN8",
+      "date": "2026-01-11T15:30:00.000Z",
+      "round": "Round 19",
+      "homeTeam": "Betis Deportivo",
+      "awayTeam": "Juventud Torremolinos CF",
+      "homeScore": 2,
+      "awayScore": 0,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "60%",
+          "40%"
+        ],
+        "Total shots": [
+          "13",
+          "14"
+        ],
+        "Shots on target": [
+          "8",
+          "11"
+        ],
+        "Corner kicks": [
+          "7",
+          "5"
+        ],
+        "Yellow cards": [
+          "2",
+          "3"
+        ],
+        "Shots off target": [
+          "5",
+          "3"
+        ]
+      }
+    },
+    {
+      "id": "dbUXyF8F",
+      "date": "2026-01-11T15:30:00.000Z",
+      "round": "Round 19",
+      "homeTeam": "Eldense",
+      "awayTeam": "Atletico Sanluqueno",
+      "homeScore": 1,
+      "awayScore": 0,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "56%",
+          "44%"
+        ],
+        "Total shots": [
+          "4",
+          "10"
+        ],
+        "Shots on target": [
+          "4",
+          "5"
+        ],
+        "Corner kicks": [
+          "6",
+          "7"
+        ],
+        "Yellow cards": [
+          "4",
+          "2"
+        ],
+        "Shots off target": [
+          "0",
+          "5"
+        ]
+      }
+    },
+    {
+      "id": "tQ2fulF7",
+      "date": "2026-01-11T15:30:00.000Z",
+      "round": "Round 19",
+      "homeTeam": "Sabadell",
+      "awayTeam": "Marbella FC",
+      "homeScore": 5,
+      "awayScore": 0,
+      "htHome": 3,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "56%",
+          "44%"
+        ],
+        "Total shots": [
+          "18",
+          "1"
+        ],
+        "Shots on target": [
+          "12",
+          "0"
+        ],
+        "Corner kicks": [
+          "5",
+          "3"
+        ],
+        "Yellow cards": [
+          "1",
+          "3"
+        ],
+        "Shots off target": [
+          "6",
+          "1"
+        ]
+      }
+    },
+    {
+      "id": "t4RJSAV1",
+      "date": "2026-01-11T13:00:00.000Z",
+      "round": "Round 19",
+      "homeTeam": "Antequera",
+      "awayTeam": "Atletico Madrid B",
+      "homeScore": 2,
+      "awayScore": 4,
+      "htHome": 0,
+      "htAway": 2,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "50%",
+          "50%"
+        ],
+        "Total shots": [
+          "0",
+          "0"
+        ],
+        "Shots on target": [
+          "0",
+          "0"
+        ],
+        "Corner kicks": [
+          "0",
+          "0"
+        ],
+        "Shots off target": [
+          "0",
+          "0"
+        ]
+      }
+    },
+    {
+      "id": "UBSuzgwS",
+      "date": "2026-01-11T11:00:00.000Z",
+      "round": "Round 19",
+      "homeTeam": "FC Cartagena",
+      "awayTeam": "UD Ibiza",
+      "homeScore": 1,
+      "awayScore": 4,
+      "htHome": 1,
+      "htAway": 2,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "51%",
+          "49%"
+        ],
+        "Total shots": [
+          "8",
+          "17"
+        ],
+        "Shots on target": [
+          "6",
+          "12"
+        ],
+        "Corner kicks": [
+          "8",
+          "5"
+        ],
+        "Yellow cards": [
+          "3",
+          "3"
+        ],
+        "Red cards": [
+          "0",
+          "1"
+        ],
+        "Shots off target": [
+          "2",
+          "5"
+        ]
+      }
+    },
+    {
+      "id": "ld9CUW0k",
+      "date": "2026-01-11T11:00:00.000Z",
+      "round": "Round 19",
+      "homeTeam": "Gimnastic",
+      "awayTeam": "Teruel",
+      "homeScore": 0,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "58%",
+          "42%"
+        ],
+        "Total shots": [
+          "10",
+          "8"
+        ],
+        "Shots on target": [
+          "2",
+          "3"
+        ],
+        "Corner kicks": [
+          "4",
+          "5"
+        ],
+        "Yellow cards": [
+          "1",
+          "1"
+        ],
+        "Red cards": [
+          "0",
+          "1"
+        ],
+        "Shots off target": [
+          "8",
+          "5"
+        ]
+      }
+    },
+    {
+      "id": "8Wft3i7E",
+      "date": "2026-01-11T11:00:00.000Z",
+      "round": "Round 19",
+      "homeTeam": "SD Tarazona",
+      "awayTeam": "Algeciras CF",
+      "homeScore": 2,
+      "awayScore": 2,
+      "htHome": 2,
+      "htAway": 2,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "46%",
+          "54%"
+        ],
+        "Total shots": [
+          "2",
+          "11"
+        ],
+        "Shots on target": [
+          "2",
+          "4"
+        ],
+        "Corner kicks": [
+          "0",
+          "4"
+        ],
+        "Yellow cards": [
+          "7",
+          "4"
+        ],
+        "Shots off target": [
+          "0",
+          "7"
+        ]
+      }
+    },
+    {
+      "id": "lAloqWFr",
+      "date": "2026-01-10T13:00:00.000Z",
+      "round": "Round 19",
+      "homeTeam": "CE Europa",
+      "awayTeam": "Alcorcon",
+      "homeScore": 0,
+      "awayScore": 0,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "45%",
+          "55%"
+        ],
+        "Total shots": [
+          "10",
+          "6"
+        ],
+        "Shots on target": [
+          "4",
+          "2"
+        ],
+        "Corner kicks": [
+          "4",
+          "7"
+        ],
+        "Yellow cards": [
+          "2",
+          "2"
+        ],
+        "Shots off target": [
+          "6",
+          "4"
+        ]
+      }
+    },
+    {
+      "id": "UP7ElhhL",
+      "date": "2026-01-09T18:00:00.000Z",
+      "round": "Round 19",
+      "homeTeam": "Sevilla Atletico",
+      "awayTeam": "Villarreal B",
+      "homeScore": 0,
+      "awayScore": 0,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "59%",
+          "41%"
+        ],
+        "Total shots": [
+          "8",
+          "8"
+        ],
+        "Shots on target": [
+          "3",
+          "1"
+        ],
+        "Corner kicks": [
+          "10",
+          "7"
+        ],
+        "Yellow cards": [
+          "1",
+          "2"
+        ],
+        "Shots off target": [
+          "5",
+          "7"
+        ]
+      }
+    },
+    {
+      "id": "2y9bNFgM",
+      "date": "2026-01-04T20:00:00.000Z",
+      "round": "Round 18",
+      "homeTeam": "Atletico Sanluqueno",
+      "awayTeam": "Real Murcia",
+      "homeScore": 0,
+      "awayScore": 2,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "42%",
+          "58%"
+        ],
+        "Total shots": [
+          "10",
+          "13"
+        ],
+        "Shots on target": [
+          "3",
+          "8"
+        ],
+        "Corner kicks": [
+          "3",
+          "10"
+        ],
+        "Yellow cards": [
+          "1",
+          "2"
+        ],
+        "Shots off target": [
+          "7",
+          "5"
+        ]
+      }
+    },
+    {
+      "id": "YeHsRcfc",
+      "date": "2026-01-04T17:45:00.000Z",
+      "round": "Round 18",
+      "homeTeam": "Betis Deportivo",
+      "awayTeam": "CE Europa",
+      "homeScore": 2,
+      "awayScore": 2,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "51%",
+          "49%"
+        ],
+        "Total shots": [
+          "6",
+          "15"
+        ],
+        "Shots on target": [
+          "4",
+          "6"
+        ],
+        "Corner kicks": [
+          "1",
+          "8"
+        ],
+        "Yellow cards": [
+          "1",
+          "4"
+        ],
+        "Shots off target": [
+          "2",
+          "9"
+        ]
+      }
+    },
+    {
+      "id": "fZmwGXod",
+      "date": "2026-01-04T17:45:00.000Z",
+      "round": "Round 18",
+      "homeTeam": "Villarreal B",
+      "awayTeam": "Marbella FC",
+      "homeScore": 3,
+      "awayScore": 1,
+      "htHome": 3,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "44%",
+          "56%"
+        ],
+        "Total shots": [
+          "12",
+          "3"
+        ],
+        "Shots on target": [
+          "10",
+          "1"
+        ],
+        "Corner kicks": [
+          "5",
+          "3"
+        ],
+        "Yellow cards": [
+          "2",
+          "2"
+        ],
+        "Red cards": [
+          "1",
+          "0"
+        ],
+        "Shots off target": [
+          "2",
+          "2"
+        ]
+      }
+    },
+    {
+      "id": "69FkPyP9",
+      "date": "2026-01-04T11:00:00.000Z",
+      "round": "Round 18",
+      "homeTeam": "UD Ibiza",
+      "awayTeam": "Eldense",
+      "homeScore": 0,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "10%",
+          "90%"
+        ],
+        "Total shots": [
+          "2",
+          "0"
+        ],
+        "Shots on target": [
+          "1",
+          "0"
+        ],
+        "Corner kicks": [
+          "2",
+          "0"
+        ],
+        "Shots off target": [
+          "1",
+          "0"
+        ]
+      }
+    },
+    {
+      "id": "ClLPyfiI",
+      "date": "2026-01-03T20:00:00.000Z",
+      "round": "Round 18",
+      "homeTeam": "Hercules",
+      "awayTeam": "Sabadell",
+      "homeScore": 1,
+      "awayScore": 5,
+      "htHome": 1,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "42%",
+          "58%"
+        ],
+        "Total shots": [
+          "5",
+          "12"
+        ],
+        "Shots on target": [
+          "4",
+          "11"
+        ],
+        "Corner kicks": [
+          "2",
+          "1"
+        ],
+        "Yellow cards": [
+          "2",
+          "1"
+        ],
+        "Red cards": [
+          "1",
+          "0"
+        ],
+        "Shots off target": [
+          "1",
+          "1"
+        ]
+      }
+    },
+    {
+      "id": "ImmcJoyi",
+      "date": "2026-01-03T17:45:00.000Z",
+      "round": "Round 18",
+      "homeTeam": "Algeciras CF",
+      "awayTeam": "Sevilla Atletico",
+      "homeScore": 3,
+      "awayScore": 0,
+      "htHome": 2,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "51%",
+          "49%"
+        ],
+        "Total shots": [
+          "10",
+          "3"
+        ],
+        "Shots on target": [
+          "8",
+          "2"
+        ],
+        "Corner kicks": [
+          "4",
+          "1"
+        ],
+        "Yellow cards": [
+          "1",
+          "3"
+        ],
+        "Red cards": [
+          "0",
+          "2"
+        ],
+        "Shots off target": [
+          "2",
+          "1"
+        ]
+      }
+    },
+    {
+      "id": "0WzPwyv3",
+      "date": "2026-01-03T15:30:00.000Z",
+      "round": "Round 18",
+      "homeTeam": "Teruel",
+      "awayTeam": "Antequera",
+      "homeScore": 0,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "54%",
+          "46%"
+        ],
+        "Total shots": [
+          "11",
+          "2"
+        ],
+        "Shots on target": [
+          "6",
+          "2"
+        ],
+        "Corner kicks": [
+          "6",
+          "1"
+        ],
+        "Yellow cards": [
+          "4",
+          "3"
+        ],
+        "Shots off target": [
+          "5",
+          "0"
+        ]
+      }
+    },
+    {
+      "id": "r9T8uxhg",
+      "date": "2026-01-03T15:00:00.000Z",
+      "round": "Round 18",
+      "homeTeam": "Atletico Madrid B",
+      "awayTeam": "SD Tarazona",
+      "homeScore": 1,
+      "awayScore": 1,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "56%",
+          "44%"
+        ],
+        "Total shots": [
+          "7",
+          "7"
+        ],
+        "Shots on target": [
+          "3",
+          "4"
+        ],
+        "Corner kicks": [
+          "3",
+          "3"
+        ],
+        "Yellow cards": [
+          "3",
+          "5"
+        ],
+        "Shots off target": [
+          "4",
+          "3"
+        ]
+      }
+    },
+    {
+      "id": "YJaUHgHq",
+      "date": "2026-01-03T15:00:00.000Z",
+      "round": "Round 18",
+      "homeTeam": "Juventud Torremolinos CF",
+      "awayTeam": "Gimnastic",
+      "homeScore": 2,
+      "awayScore": 0,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "49%",
+          "51%"
+        ],
+        "Total shots": [
+          "8",
+          "7"
+        ],
+        "Shots on target": [
+          "6",
+          "2"
+        ],
+        "Corner kicks": [
+          "7",
+          "10"
+        ],
+        "Yellow cards": [
+          "3",
+          "1"
+        ],
+        "Shots off target": [
+          "2",
+          "5"
+        ]
+      }
+    },
+    {
+      "id": "jZWGwGM5",
+      "date": "2026-01-03T13:15:00.000Z",
+      "round": "Round 18",
+      "homeTeam": "Alcorcon",
+      "awayTeam": "FC Cartagena",
+      "homeScore": 1,
+      "awayScore": 1,
+      "htHome": 1,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "49%",
+          "51%"
+        ],
+        "Total shots": [
+          "20",
+          "3"
+        ],
+        "Shots on target": [
+          "8",
+          "1"
+        ],
+        "Corner kicks": [
+          "8",
+          "1"
+        ],
+        "Yellow cards": [
+          "3",
+          "2"
+        ],
+        "Shots off target": [
+          "12",
+          "2"
+        ]
+      }
+    },
+    {
+      "id": "MqObNfxP",
+      "date": "2025-12-21T19:30:00.000Z",
+      "round": "Round 17",
+      "homeTeam": "Real Murcia",
+      "awayTeam": "CE Europa",
+      "homeScore": 3,
+      "awayScore": 1,
+      "htHome": 3,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "51%",
+          "49%"
+        ],
+        "Total shots": [
+          "7",
+          "7"
+        ],
+        "Shots on target": [
+          "5",
+          "3"
+        ],
+        "Corner kicks": [
+          "2",
+          "4"
+        ],
+        "Yellow cards": [
+          "3",
+          "2"
+        ],
+        "Shots off target": [
+          "2",
+          "4"
+        ]
+      }
+    },
+    {
+      "id": "rZCaEagf",
+      "date": "2025-12-21T17:15:00.000Z",
+      "round": "Round 17",
+      "homeTeam": "FC Cartagena",
+      "awayTeam": "Juventud Torremolinos CF",
+      "homeScore": 3,
+      "awayScore": 0,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "57%",
+          "43%"
+        ],
+        "Total shots": [
+          "14",
+          "11"
+        ],
+        "Shots on target": [
+          "10",
+          "6"
+        ],
+        "Corner kicks": [
+          "3",
+          "4"
+        ],
+        "Yellow cards": [
+          "2",
+          "2"
+        ],
+        "Shots off target": [
+          "4",
+          "5"
+        ]
+      }
+    },
+    {
+      "id": "dxwZSb8m",
+      "date": "2025-12-21T15:00:00.000Z",
+      "round": "Round 17",
+      "homeTeam": "Sevilla Atletico",
+      "awayTeam": "Atletico Sanluqueno",
+      "homeScore": 2,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "55%",
+          "45%"
+        ],
+        "Total shots": [
+          "11",
+          "3"
+        ],
+        "Shots on target": [
+          "4",
+          "2"
+        ],
+        "Corner kicks": [
+          "7",
+          "1"
+        ],
+        "Yellow cards": [
+          "4",
+          "4"
+        ],
+        "Red cards": [
+          "1",
+          "0"
+        ],
+        "Shots off target": [
+          "7",
+          "1"
+        ]
+      }
+    },
+    {
+      "id": "dIEiGLOs",
+      "date": "2025-12-21T11:00:00.000Z",
+      "round": "Round 17",
+      "homeTeam": "Alcorcon",
+      "awayTeam": "UD Ibiza",
+      "homeScore": 2,
+      "awayScore": 2,
+      "htHome": 0,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "65%",
+          "35%"
+        ],
+        "Total shots": [
+          "14",
+          "8"
+        ],
+        "Shots on target": [
+          "4",
+          "4"
+        ],
+        "Corner kicks": [
+          "11",
+          "2"
+        ],
+        "Yellow cards": [
+          "4",
+          "6"
+        ],
+        "Shots off target": [
+          "10",
+          "4"
+        ]
+      }
+    },
+    {
+      "id": "CE4GAHhJ",
+      "date": "2025-12-20T20:00:00.000Z",
+      "round": "Round 17",
+      "homeTeam": "Antequera",
+      "awayTeam": "Gimnastic",
+      "homeScore": 4,
+      "awayScore": 2,
+      "htHome": 3,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "46%",
+          "54%"
+        ],
+        "Total shots": [
+          "9",
+          "7"
+        ],
+        "Shots on target": [
+          "4",
+          "2"
+        ],
+        "Corner kicks": [
+          "1",
+          "7"
+        ],
+        "Yellow cards": [
+          "1",
+          "2"
+        ],
+        "Red cards": [
+          "1",
+          "0"
+        ],
+        "Shots off target": [
+          "5",
+          "5"
+        ]
+      }
+    },
+    {
+      "id": "IiRsRxw0",
+      "date": "2025-12-20T20:00:00.000Z",
+      "round": "Round 17",
+      "homeTeam": "Sabadell",
+      "awayTeam": "Atletico Madrid B",
+      "homeScore": 2,
+      "awayScore": 0,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "54%",
+          "46%"
+        ],
+        "Total shots": [
+          "9",
+          "11"
+        ],
+        "Shots on target": [
+          "7",
+          "6"
+        ],
+        "Corner kicks": [
+          "5",
+          "8"
+        ],
+        "Yellow cards": [
+          "5",
+          "3"
+        ],
+        "Shots off target": [
+          "2",
+          "5"
+        ]
+      }
+    },
+    {
+      "id": "v168CwO6",
+      "date": "2025-12-20T17:30:00.000Z",
+      "round": "Round 17",
+      "homeTeam": "SD Tarazona",
+      "awayTeam": "Teruel",
+      "homeScore": 3,
+      "awayScore": 2,
+      "htHome": 1,
+      "htAway": 2,
+      "status": "FINISHED",
+      "stats": {
+        "Total shots": [
+          "0",
+          "0"
+        ]
+      }
+    },
+    {
+      "id": "QHUkPG7C",
+      "date": "2025-12-20T15:15:00.000Z",
+      "round": "Round 17",
+      "homeTeam": "Marbella FC",
+      "awayTeam": "Hercules",
+      "homeScore": 0,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "56%",
+          "44%"
+        ],
+        "Total shots": [
+          "7",
+          "3"
+        ],
+        "Shots on target": [
+          "3",
+          "3"
+        ],
+        "Corner kicks": [
+          "6",
+          "4"
+        ],
+        "Yellow cards": [
+          "1",
+          "1"
+        ],
+        "Shots off target": [
+          "4",
+          "0"
+        ]
+      }
+    },
+    {
+      "id": "xdb8sbNt",
+      "date": "2025-12-20T13:00:00.000Z",
+      "round": "Round 17",
+      "homeTeam": "Eldense",
+      "awayTeam": "Betis Deportivo",
+      "homeScore": 2,
+      "awayScore": 0,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "50%",
+          "50%"
+        ],
+        "Total shots": [
+          "12",
+          "6"
+        ],
+        "Shots on target": [
+          "7",
+          "2"
+        ],
+        "Corner kicks": [
+          "6",
+          "3"
+        ],
+        "Yellow cards": [
+          "2",
+          "4"
+        ],
+        "Shots off target": [
+          "5",
+          "4"
+        ]
+      }
+    },
+    {
+      "id": "SMn3YKpQ",
+      "date": "2025-12-19T18:00:00.000Z",
+      "round": "Round 17",
+      "homeTeam": "Algeciras CF",
+      "awayTeam": "Villarreal B",
+      "homeScore": 0,
+      "awayScore": 0,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "60%",
+          "40%"
+        ],
+        "Total shots": [
+          "3",
+          "8"
+        ],
+        "Shots on target": [
+          "0",
+          "5"
+        ],
+        "Corner kicks": [
+          "3",
+          "6"
+        ],
+        "Yellow cards": [
+          "0",
+          "2"
+        ],
+        "Shots off target": [
+          "3",
+          "3"
+        ]
+      }
+    },
+    {
+      "id": "QeyB7itA",
+      "date": "2025-12-14T19:30:00.000Z",
+      "round": "Round 16",
+      "homeTeam": "Atletico Madrid B",
+      "awayTeam": "Sevilla Atletico",
+      "homeScore": 1,
+      "awayScore": 0,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "57%",
+          "43%"
+        ],
+        "Total shots": [
+          "12",
+          "4"
+        ],
+        "Shots on target": [
+          "6",
+          "1"
+        ],
+        "Corner kicks": [
+          "1",
+          "5"
+        ],
+        "Yellow cards": [
+          "2",
+          "2"
+        ],
+        "Shots off target": [
+          "6",
+          "3"
+        ]
+      }
+    },
+    {
+      "id": "GbgI1M9l",
+      "date": "2025-12-14T17:15:00.000Z",
+      "round": "Round 16",
+      "homeTeam": "Gimnastic",
+      "awayTeam": "FC Cartagena",
+      "homeScore": 2,
+      "awayScore": 0,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "60%",
+          "40%"
+        ],
+        "Total shots": [
+          "11",
+          "3"
+        ],
+        "Shots on target": [
+          "5",
+          "1"
+        ],
+        "Corner kicks": [
+          "4",
+          "3"
+        ],
+        "Yellow cards": [
+          "2",
+          "2"
+        ],
+        "Shots off target": [
+          "6",
+          "2"
+        ]
+      }
+    },
+    {
+      "id": "CWcn7rnR",
+      "date": "2025-12-14T17:15:00.000Z",
+      "round": "Round 16",
+      "homeTeam": "Atletico Sanluqueno",
+      "awayTeam": "Hercules",
+      "homeScore": 1,
+      "awayScore": 1,
+      "htHome": 1,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "46%",
+          "54%"
+        ],
+        "Total shots": [
+          "6",
+          "16"
+        ],
+        "Shots on target": [
+          "1",
+          "9"
+        ],
+        "Corner kicks": [
+          "2",
+          "11"
+        ],
+        "Yellow cards": [
+          "3",
+          "3"
+        ],
+        "Red cards": [
+          "0",
+          "1"
+        ],
+        "Shots off target": [
+          "5",
+          "7"
+        ]
+      }
+    },
+    {
+      "id": "CpwLLs1K",
+      "date": "2025-12-14T15:00:00.000Z",
+      "round": "Round 16",
+      "homeTeam": "Teruel",
+      "awayTeam": "Algeciras CF",
+      "homeScore": 1,
+      "awayScore": 0,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "44%",
+          "56%"
+        ],
+        "Total shots": [
+          "4",
+          "6"
+        ],
+        "Shots on target": [
+          "3",
+          "3"
+        ],
+        "Corner kicks": [
+          "4",
+          "6"
+        ],
+        "Yellow cards": [
+          "3",
+          "1"
+        ],
+        "Shots off target": [
+          "1",
+          "3"
+        ]
+      }
+    },
+    {
+      "id": "GpEqmNfe",
+      "date": "2025-12-14T11:00:00.000Z",
+      "round": "Round 16",
+      "homeTeam": "UD Ibiza",
+      "awayTeam": "Villarreal B",
+      "homeScore": 0,
+      "awayScore": 0,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "42%",
+          "58%"
+        ],
+        "Total shots": [
+          "7",
+          "7"
+        ],
+        "Shots on target": [
+          "2",
+          "6"
+        ],
+        "Corner kicks": [
+          "3",
+          "2"
+        ],
+        "Yellow cards": [
+          "3",
+          "3"
+        ],
+        "Shots off target": [
+          "5",
+          "1"
+        ]
+      }
+    },
+    {
+      "id": "OAHio1P7",
+      "date": "2025-12-13T20:00:00.000Z",
+      "round": "Round 16",
+      "homeTeam": "Real Murcia",
+      "awayTeam": "Sabadell",
+      "homeScore": 0,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "56%",
+          "44%"
+        ],
+        "Total shots": [
+          "11",
+          "12"
+        ],
+        "Shots on target": [
+          "5",
+          "8"
+        ],
+        "Corner kicks": [
+          "8",
+          "3"
+        ],
+        "Yellow cards": [
+          "1",
+          "3"
+        ],
+        "Shots off target": [
+          "6",
+          "4"
+        ]
+      }
+    },
+    {
+      "id": "drbrkqQr",
+      "date": "2025-12-13T15:15:00.000Z",
+      "round": "Round 16",
+      "homeTeam": "Eldense",
+      "awayTeam": "SD Tarazona",
+      "homeScore": 1,
+      "awayScore": 0,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "68%",
+          "32%"
+        ],
+        "Total shots": [
+          "8",
+          "1"
+        ],
+        "Shots on target": [
+          "3",
+          "0"
+        ],
+        "Corner kicks": [
+          "10",
+          "1"
+        ],
+        "Yellow cards": [
+          "3",
+          "5"
+        ],
+        "Shots off target": [
+          "5",
+          "1"
+        ]
+      }
+    },
+    {
+      "id": "lCiQa0v1",
+      "date": "2025-12-13T13:00:00.000Z",
+      "round": "Round 16",
+      "homeTeam": "Juventud Torremolinos CF",
+      "awayTeam": "Marbella FC",
+      "homeScore": 1,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "39%",
+          "61%"
+        ],
+        "Total shots": [
+          "10",
+          "6"
+        ],
+        "Shots on target": [
+          "1",
+          "4"
+        ],
+        "Corner kicks": [
+          "3",
+          "5"
+        ],
+        "Yellow cards": [
+          "7",
+          "2"
+        ],
+        "Red cards": [
+          "1",
+          "0"
+        ],
+        "Shots off target": [
+          "9",
+          "2"
+        ]
+      }
+    },
+    {
+      "id": "pvoZcv9D",
+      "date": "2025-12-12T19:30:00.000Z",
+      "round": "Round 16",
+      "homeTeam": "CE Europa",
+      "awayTeam": "Antequera",
+      "homeScore": 2,
+      "awayScore": 0,
+      "htHome": 2,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "53%",
+          "47%"
+        ],
+        "Total shots": [
+          "11",
+          "8"
+        ],
+        "Shots on target": [
+          "6",
+          "5"
+        ],
+        "Corner kicks": [
+          "6",
+          "5"
+        ],
+        "Yellow cards": [
+          "4",
+          "6"
+        ],
+        "Red cards": [
+          "0",
+          "1"
+        ],
+        "Shots off target": [
+          "5",
+          "3"
+        ]
+      }
+    },
+    {
+      "id": "46fv94HE",
+      "date": "2025-12-12T18:00:00.000Z",
+      "round": "Round 16",
+      "homeTeam": "Betis Deportivo",
+      "awayTeam": "Alcorcon",
+      "homeScore": 2,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "55%",
+          "45%"
+        ],
+        "Total shots": [
+          "10",
+          "9"
+        ],
+        "Shots on target": [
+          "7",
+          "4"
+        ],
+        "Corner kicks": [
+          "4",
+          "0"
+        ],
+        "Yellow cards": [
+          "4",
+          "3"
+        ],
+        "Shots off target": [
+          "3",
+          "5"
+        ]
+      }
+    },
+    {
+      "id": "tYSgH78r",
+      "date": "2025-12-10T14:30:00.000Z",
+      "round": "Round 13",
+      "homeTeam": "Marbella FC",
+      "awayTeam": "Atletico Madrid B",
+      "homeScore": 0,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "50%",
+          "50%"
+        ],
+        "Total shots": [
+          "11",
+          "12"
+        ],
+        "Shots on target": [
+          "8",
+          "6"
+        ],
+        "Corner kicks": [
+          "3",
+          "3"
+        ],
+        "Yellow cards": [
+          "1",
+          "1"
+        ],
+        "Shots off target": [
+          "3",
+          "6"
+        ]
+      }
+    },
+    {
+      "id": "UTs29DBc",
+      "date": "2025-12-08T17:30:00.000Z",
+      "round": "Round 15",
+      "homeTeam": "SD Tarazona",
+      "awayTeam": "CE Europa",
+      "homeScore": 0,
+      "awayScore": 0,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "46%",
+          "54%"
+        ],
+        "Total shots": [
+          "10",
+          "3"
+        ],
+        "Shots on target": [
+          "7",
+          "2"
+        ],
+        "Corner kicks": [
+          "2",
+          "4"
+        ],
+        "Yellow cards": [
+          "4",
+          "2"
+        ],
+        "Shots off target": [
+          "3",
+          "1"
+        ]
+      }
+    },
+    {
+      "id": "WKz3vgCN",
+      "date": "2025-12-08T17:15:00.000Z",
+      "round": "Round 15",
+      "homeTeam": "FC Cartagena",
+      "awayTeam": "Real Murcia",
+      "homeScore": 0,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "50%",
+          "50%"
+        ],
+        "Total shots": [
+          "6",
+          "6"
+        ],
+        "Shots on target": [
+          "3",
+          "6"
+        ],
+        "Corner kicks": [
+          "5",
+          "5"
+        ],
+        "Yellow cards": [
+          "2",
+          "2"
+        ],
+        "Shots off target": [
+          "3",
+          "0"
+        ]
+      }
+    },
+    {
+      "id": "IkEqiWeT",
+      "date": "2025-12-07T17:15:00.000Z",
+      "round": "Round 15",
+      "homeTeam": "Villarreal B",
+      "awayTeam": "Teruel",
+      "homeScore": 1,
+      "awayScore": 2,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "54%",
+          "46%"
+        ],
+        "Total shots": [
+          "11",
+          "9"
+        ],
+        "Shots on target": [
+          "4",
+          "4"
+        ],
+        "Corner kicks": [
+          "8",
+          "2"
+        ],
+        "Yellow cards": [
+          "2",
+          "4"
+        ],
+        "Shots off target": [
+          "7",
+          "5"
+        ]
+      }
+    },
+    {
+      "id": "rDJKdzSi",
+      "date": "2025-12-07T15:00:00.000Z",
+      "round": "Round 15",
+      "homeTeam": "Antequera",
+      "awayTeam": "Betis Deportivo",
+      "homeScore": 2,
+      "awayScore": 1,
+      "htHome": 2,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "50%",
+          "50%"
+        ],
+        "Total shots": [
+          "0",
+          "0"
+        ],
+        "Shots on target": [
+          "0",
+          "0"
+        ],
+        "Corner kicks": [
+          "0",
+          "0"
+        ],
+        "Shots off target": [
+          "0",
+          "0"
+        ]
+      }
+    },
+    {
+      "id": "ChByghRG",
+      "date": "2025-12-07T15:00:00.000Z",
+      "round": "Round 15",
+      "homeTeam": "Sabadell",
+      "awayTeam": "UD Ibiza",
+      "homeScore": 2,
+      "awayScore": 0,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "56%",
+          "44%"
+        ],
+        "Total shots": [
+          "5",
+          "9"
+        ],
+        "Shots on target": [
+          "3",
+          "2"
+        ],
+        "Corner kicks": [
+          "0",
+          "6"
+        ],
+        "Yellow cards": [
+          "0",
+          "3"
+        ],
+        "Shots off target": [
+          "2",
+          "7"
+        ]
+      }
+    },
+    {
+      "id": "GQHSfEd4",
+      "date": "2025-12-07T11:00:00.000Z",
+      "round": "Round 15",
+      "homeTeam": "Algeciras CF",
+      "awayTeam": "Atletico Madrid B",
+      "homeScore": 1,
+      "awayScore": 0,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "44%",
+          "56%"
+        ],
+        "Total shots": [
+          "9",
+          "8"
+        ],
+        "Shots on target": [
+          "6",
+          "5"
+        ],
+        "Corner kicks": [
+          "4",
+          "9"
+        ],
+        "Yellow cards": [
+          "3",
+          "1"
+        ],
+        "Shots off target": [
+          "3",
+          "3"
+        ]
+      }
+    },
+    {
+      "id": "2uqnryDb",
+      "date": "2025-12-06T17:15:00.000Z",
+      "round": "Round 15",
+      "homeTeam": "Alcorcon",
+      "awayTeam": "Eldense",
+      "homeScore": 1,
+      "awayScore": 1,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "53%",
+          "47%"
+        ],
+        "Total shots": [
+          "10",
+          "8"
+        ],
+        "Shots on target": [
+          "7",
+          "6"
+        ],
+        "Corner kicks": [
+          "4",
+          "5"
+        ],
+        "Yellow cards": [
+          "4",
+          "3"
+        ],
+        "Shots off target": [
+          "3",
+          "2"
+        ]
+      }
+    },
+    {
+      "id": "S4yYYWZp",
+      "date": "2025-12-06T15:15:00.000Z",
+      "round": "Round 15",
+      "homeTeam": "Marbella FC",
+      "awayTeam": "Atletico Sanluqueno",
+      "homeScore": 1,
+      "awayScore": 0,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "58%",
+          "42%"
+        ],
+        "Total shots": [
+          "5",
+          "9"
+        ],
+        "Shots on target": [
+          "4",
+          "5"
+        ],
+        "Corner kicks": [
+          "1",
+          "8"
+        ],
+        "Yellow cards": [
+          "4",
+          "5"
+        ],
+        "Shots off target": [
+          "1",
+          "4"
+        ]
+      }
+    },
+    {
+      "id": "A5nftFsB",
+      "date": "2025-12-06T15:00:00.000Z",
+      "round": "Round 15",
+      "homeTeam": "Hercules",
+      "awayTeam": "Juventud Torremolinos CF",
+      "homeScore": 2,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "61%",
+          "39%"
+        ],
+        "Total shots": [
+          "14",
+          "2"
+        ],
+        "Shots on target": [
+          "6",
+          "1"
+        ],
+        "Corner kicks": [
+          "11",
+          "4"
+        ],
+        "Yellow cards": [
+          "2",
+          "3"
+        ],
+        "Red cards": [
+          "0",
+          "1"
+        ],
+        "Shots off target": [
+          "8",
+          "1"
+        ]
+      }
+    },
+    {
+      "id": "2NkGoAJj",
+      "date": "2025-12-05T19:30:00.000Z",
+      "round": "Round 15",
+      "homeTeam": "Sevilla Atletico",
+      "awayTeam": "Gimnastic",
+      "homeScore": 1,
+      "awayScore": 2,
+      "htHome": 0,
+      "htAway": 2,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "51%",
+          "49%"
+        ],
+        "Total shots": [
+          "17",
+          "8"
+        ],
+        "Shots on target": [
+          "6",
+          "5"
+        ],
+        "Corner kicks": [
+          "2",
+          "3"
+        ],
+        "Yellow cards": [
+          "2",
+          "3"
+        ],
+        "Shots off target": [
+          "11",
+          "3"
+        ]
+      }
+    },
+    {
+      "id": "tjvUIKqm",
+      "date": "2025-11-30T19:30:00.000Z",
+      "round": "Round 14",
+      "homeTeam": "Atletico Madrid B",
+      "awayTeam": "Teruel",
+      "homeScore": 3,
+      "awayScore": 0,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "48%",
+          "52%"
+        ],
+        "Total shots": [
+          "10",
+          "8"
+        ],
+        "Shots on target": [
+          "7",
+          "4"
+        ],
+        "Corner kicks": [
+          "2",
+          "6"
+        ],
+        "Yellow cards": [
+          "2",
+          "1"
+        ],
+        "Shots off target": [
+          "3",
+          "4"
+        ]
+      }
+    },
+    {
+      "id": "SMU3VcTh",
+      "date": "2025-11-30T17:15:00.000Z",
+      "round": "Round 14",
+      "homeTeam": "Real Murcia",
+      "awayTeam": "Alcorcon",
+      "homeScore": 2,
+      "awayScore": 1,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "62%",
+          "38%"
+        ],
+        "Total shots": [
+          "7",
+          "7"
+        ],
+        "Shots on target": [
+          "4",
+          "3"
+        ],
+        "Corner kicks": [
+          "3",
+          "1"
+        ],
+        "Yellow cards": [
+          "1",
+          "2"
+        ],
+        "Shots off target": [
+          "3",
+          "4"
+        ]
+      }
+    },
+    {
+      "id": "lxJCTyb5",
+      "date": "2025-11-30T15:00:00.000Z",
+      "round": "Round 14",
+      "homeTeam": "Gimnastic",
+      "awayTeam": "Hercules",
+      "homeScore": 2,
+      "awayScore": 2,
+      "htHome": 2,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "43%",
+          "57%"
+        ],
+        "Total shots": [
+          "7",
+          "8"
+        ],
+        "Shots on target": [
+          "5",
+          "4"
+        ],
+        "Corner kicks": [
+          "1",
+          "1"
+        ],
+        "Yellow cards": [
+          "5",
+          "1"
+        ],
+        "Red cards": [
+          "1",
+          "1"
+        ],
+        "Shots off target": [
+          "2",
+          "4"
+        ]
+      }
+    },
+    {
+      "id": "pryoFxqC",
+      "date": "2025-11-30T11:00:00.000Z",
+      "round": "Round 14",
+      "homeTeam": "Juventud Torremolinos CF",
+      "awayTeam": "Villarreal B",
+      "homeScore": 0,
+      "awayScore": 3,
+      "htHome": 0,
+      "htAway": 2,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "46%",
+          "54%"
+        ],
+        "Total shots": [
+          "4",
+          "12"
+        ],
+        "Shots on target": [
+          "2",
+          "6"
+        ],
+        "Corner kicks": [
+          "3",
+          "3"
+        ],
+        "Yellow cards": [
+          "2",
+          "1"
+        ],
+        "Red cards": [
+          "1",
+          "0"
+        ],
+        "Shots off target": [
+          "2",
+          "6"
+        ]
+      }
+    },
+    {
+      "id": "6Dkwpcrn",
+      "date": "2025-11-30T11:00:00.000Z",
+      "round": "Round 14",
+      "homeTeam": "UD Ibiza",
+      "awayTeam": "Algeciras CF",
+      "homeScore": 3,
+      "awayScore": 0,
+      "htHome": 2,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "45%",
+          "55%"
+        ],
+        "Total shots": [
+          "9",
+          "13"
+        ],
+        "Shots on target": [
+          "4",
+          "4"
+        ],
+        "Corner kicks": [
+          "4",
+          "8"
+        ],
+        "Yellow cards": [
+          "2",
+          "2"
+        ],
+        "Shots off target": [
+          "5",
+          "9"
+        ]
+      }
+    },
+    {
+      "id": "j1FTPgcU",
+      "date": "2025-11-29T19:00:00.000Z",
+      "round": "Round 14",
+      "homeTeam": "Eldense",
+      "awayTeam": "Antequera",
+      "homeScore": 1,
+      "awayScore": 3,
+      "htHome": 1,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "56%",
+          "44%"
+        ],
+        "Total shots": [
+          "7",
+          "11"
+        ],
+        "Shots on target": [
+          "5",
+          "6"
+        ],
+        "Corner kicks": [
+          "13",
+          "4"
+        ],
+        "Yellow cards": [
+          "2",
+          "4"
+        ],
+        "Shots off target": [
+          "2",
+          "5"
+        ]
+      }
+    },
+    {
+      "id": "d2MKRFSH",
+      "date": "2025-11-29T17:30:00.000Z",
+      "round": "Round 14",
+      "homeTeam": "Sevilla Atletico",
+      "awayTeam": "Marbella FC",
+      "homeScore": 1,
+      "awayScore": 0,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "53%",
+          "47%"
+        ],
+        "Total shots": [
+          "4",
+          "5"
+        ],
+        "Shots on target": [
+          "2",
+          "2"
+        ],
+        "Corner kicks": [
+          "2",
+          "3"
+        ],
+        "Yellow cards": [
+          "2",
+          "2"
+        ],
+        "Shots off target": [
+          "2",
+          "3"
+        ]
+      }
+    },
+    {
+      "id": "IeZhDGDO",
+      "date": "2025-11-29T15:15:00.000Z",
+      "round": "Round 14",
+      "homeTeam": "Atletico Sanluqueno",
+      "awayTeam": "SD Tarazona",
+      "homeScore": 2,
+      "awayScore": 1,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "62%",
+          "38%"
+        ],
+        "Total shots": [
+          "10",
+          "10"
+        ],
+        "Shots on target": [
+          "4",
+          "5"
+        ],
+        "Corner kicks": [
+          "4",
+          "5"
+        ],
+        "Yellow cards": [
+          "2",
+          "3"
+        ],
+        "Shots off target": [
+          "6",
+          "5"
+        ]
+      }
+    },
+    {
+      "id": "lGsxHbEa",
+      "date": "2025-11-28T20:15:00.000Z",
+      "round": "Round 14",
+      "homeTeam": "CE Europa",
+      "awayTeam": "Sabadell",
+      "homeScore": 2,
+      "awayScore": 0,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "61%",
+          "39%"
+        ],
+        "Total shots": [
+          "9",
+          "8"
+        ],
+        "Shots on target": [
+          "5",
+          "4"
+        ],
+        "Corner kicks": [
+          "2",
+          "3"
+        ],
+        "Yellow cards": [
+          "1",
+          "1"
+        ],
+        "Shots off target": [
+          "4",
+          "4"
+        ]
+      }
+    },
+    {
+      "id": "KdReXJbt",
+      "date": "2025-11-28T18:00:00.000Z",
+      "round": "Round 14",
+      "homeTeam": "Betis Deportivo",
+      "awayTeam": "FC Cartagena",
+      "homeScore": 0,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "56%",
+          "44%"
+        ],
+        "Total shots": [
+          "15",
+          "9"
+        ],
+        "Shots on target": [
+          "8",
+          "4"
+        ],
+        "Corner kicks": [
+          "4",
+          "9"
+        ],
+        "Yellow cards": [
+          "3",
+          "3"
+        ],
+        "Shots off target": [
+          "7",
+          "5"
+        ]
+      }
+    },
+    {
+      "id": "h8OUGwc2",
+      "date": "2025-11-23T19:30:00.000Z",
+      "round": "Round 13",
+      "homeTeam": "Sabadell",
+      "awayTeam": "Sevilla Atletico",
+      "homeScore": 1,
+      "awayScore": 0,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "53%",
+          "47%"
+        ],
+        "Total shots": [
+          "9",
+          "4"
+        ],
+        "Shots on target": [
+          "7",
+          "1"
+        ],
+        "Corner kicks": [
+          "5",
+          "4"
+        ],
+        "Yellow cards": [
+          "1",
+          "2"
+        ],
+        "Shots off target": [
+          "2",
+          "3"
+        ]
+      }
+    },
+    {
+      "id": "ADKADP77",
+      "date": "2025-11-23T17:30:00.000Z",
+      "round": "Round 13",
+      "homeTeam": "UD Ibiza",
+      "awayTeam": "CE Europa",
+      "homeScore": 1,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "55%",
+          "45%"
+        ],
+        "Total shots": [
+          "11",
+          "4"
+        ],
+        "Shots on target": [
+          "6",
+          "2"
+        ],
+        "Corner kicks": [
+          "11",
+          "2"
+        ],
+        "Yellow cards": [
+          "4",
+          "1"
+        ],
+        "Shots off target": [
+          "5",
+          "2"
+        ]
+      }
+    },
+    {
+      "id": "QcvjOL4S",
+      "date": "2025-11-23T17:15:00.000Z",
+      "round": "Round 13",
+      "homeTeam": "FC Cartagena",
+      "awayTeam": "Eldense",
+      "homeScore": 0,
+      "awayScore": 0,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "52%",
+          "48%"
+        ],
+        "Total shots": [
+          "14",
+          "10"
+        ],
+        "Shots on target": [
+          "10",
+          "5"
+        ],
+        "Corner kicks": [
+          "16",
+          "5"
+        ],
+        "Yellow cards": [
+          "3",
+          "3"
+        ],
+        "Shots off target": [
+          "4",
+          "5"
+        ]
+      }
+    },
+    {
+      "id": "hptrQszG",
+      "date": "2025-11-23T11:00:00.000Z",
+      "round": "Round 13",
+      "homeTeam": "Alcorcon",
+      "awayTeam": "SD Tarazona",
+      "homeScore": 1,
+      "awayScore": 0,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "46%",
+          "54%"
+        ],
+        "Total shots": [
+          "8",
+          "6"
+        ],
+        "Shots on target": [
+          "6",
+          "2"
+        ],
+        "Corner kicks": [
+          "3",
+          "3"
+        ],
+        "Yellow cards": [
+          "3",
+          "4"
+        ],
+        "Shots off target": [
+          "2",
+          "4"
+        ]
+      }
+    },
+    {
+      "id": "MmnNMTpL",
+      "date": "2025-11-23T11:00:00.000Z",
+      "round": "Round 13",
+      "homeTeam": "Algeciras CF",
+      "awayTeam": "Atletico Sanluqueno",
+      "homeScore": 3,
+      "awayScore": 0,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "55%",
+          "45%"
+        ],
+        "Total shots": [
+          "8",
+          "1"
+        ],
+        "Shots on target": [
+          "7",
+          "1"
+        ],
+        "Corner kicks": [
+          "3",
+          "3"
+        ],
+        "Yellow cards": [
+          "3",
+          "4"
+        ],
+        "Red cards": [
+          "0",
+          "1"
+        ],
+        "Shots off target": [
+          "1",
+          "0"
+        ]
+      }
+    },
+    {
+      "id": "M1ReyTaE",
+      "date": "2025-11-22T20:00:00.000Z",
+      "round": "Round 13",
+      "homeTeam": "Hercules",
+      "awayTeam": "Betis Deportivo",
+      "homeScore": 2,
+      "awayScore": 0,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "51%",
+          "49%"
+        ],
+        "Total shots": [
+          "12",
+          "9"
+        ],
+        "Shots on target": [
+          "8",
+          "5"
+        ],
+        "Corner kicks": [
+          "1",
+          "4"
+        ],
+        "Yellow cards": [
+          "3",
+          "4"
+        ],
+        "Shots off target": [
+          "4",
+          "4"
+        ]
+      }
+    },
+    {
+      "id": "prLMIaSk",
+      "date": "2025-11-22T17:30:00.000Z",
+      "round": "Round 13",
+      "homeTeam": "Teruel",
+      "awayTeam": "Juventud Torremolinos CF",
+      "homeScore": 0,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "49%",
+          "51%"
+        ],
+        "Total shots": [
+          "6",
+          "4"
+        ],
+        "Shots on target": [
+          "4",
+          "2"
+        ],
+        "Corner kicks": [
+          "6",
+          "3"
+        ],
+        "Yellow cards": [
+          "4",
+          "3"
+        ],
+        "Shots off target": [
+          "2",
+          "2"
+        ]
+      }
+    },
+    {
+      "id": "zXmFOkG8",
+      "date": "2025-11-22T13:00:00.000Z",
+      "round": "Round 13",
+      "homeTeam": "Antequera",
+      "awayTeam": "Real Murcia",
+      "homeScore": 0,
+      "awayScore": 2,
+      "htHome": 0,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "50%",
+          "50%"
+        ],
+        "Total shots": [
+          "0",
+          "0"
+        ],
+        "Shots on target": [
+          "0",
+          "0"
+        ],
+        "Corner kicks": [
+          "0",
+          "0"
+        ],
+        "Shots off target": [
+          "0",
+          "0"
+        ]
+      }
+    },
+    {
+      "id": "hptrQszG",
+      "date": "2025-11-23T11:00:00.000Z",
+      "round": "Round 13",
+      "homeTeam": "Alcorcon",
+      "awayTeam": "SD Tarazona",
+      "homeScore": 1,
+      "awayScore": 0,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "46%",
+          "54%"
+        ],
+        "Total shots": [
+          "8",
+          "6"
+        ],
+        "Shots on target": [
+          "6",
+          "2"
+        ],
+        "Corner kicks": [
+          "3",
+          "3"
+        ],
+        "Yellow cards": [
+          "3",
+          "4"
+        ],
+        "Shots off target": [
+          "2",
+          "4"
+        ]
+      }
+    },
+    {
+      "id": "MmnNMTpL",
+      "date": "2025-11-23T11:00:00.000Z",
+      "round": "Round 13",
+      "homeTeam": "Algeciras CF",
+      "awayTeam": "Atletico Sanluqueno",
+      "homeScore": 3,
+      "awayScore": 0,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "55%",
+          "45%"
+        ],
+        "Total shots": [
+          "8",
+          "1"
+        ],
+        "Shots on target": [
+          "7",
+          "1"
+        ],
+        "Corner kicks": [
+          "3",
+          "3"
+        ],
+        "Yellow cards": [
+          "3",
+          "4"
+        ],
+        "Red cards": [
+          "0",
+          "1"
+        ],
+        "Shots off target": [
+          "1",
+          "0"
+        ]
+      }
+    },
+    {
+      "id": "M1ReyTaE",
+      "date": "2025-11-22T20:00:00.000Z",
+      "round": "Round 13",
+      "homeTeam": "Hercules",
+      "awayTeam": "Betis Deportivo",
+      "homeScore": 2,
+      "awayScore": 0,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "51%",
+          "49%"
+        ],
+        "Total shots": [
+          "12",
+          "9"
+        ],
+        "Shots on target": [
+          "8",
+          "5"
+        ],
+        "Corner kicks": [
+          "1",
+          "4"
+        ],
+        "Yellow cards": [
+          "3",
+          "4"
+        ],
+        "Shots off target": [
+          "4",
+          "4"
+        ]
+      }
+    },
+    {
+      "id": "prLMIaSk",
+      "date": "2025-11-22T17:30:00.000Z",
+      "round": "Round 13",
+      "homeTeam": "Teruel",
+      "awayTeam": "Juventud Torremolinos CF",
+      "homeScore": 0,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "49%",
+          "51%"
+        ],
+        "Total shots": [
+          "6",
+          "4"
+        ],
+        "Shots on target": [
+          "4",
+          "2"
+        ],
+        "Corner kicks": [
+          "6",
+          "3"
+        ],
+        "Yellow cards": [
+          "4",
+          "3"
+        ],
+        "Shots off target": [
+          "2",
+          "2"
+        ]
+      }
+    },
+    {
+      "id": "zXmFOkG8",
+      "date": "2025-11-22T13:00:00.000Z",
+      "round": "Round 13",
+      "homeTeam": "Antequera",
+      "awayTeam": "Real Murcia",
+      "homeScore": 0,
+      "awayScore": 2,
+      "htHome": 0,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "50%",
+          "50%"
+        ],
+        "Total shots": [
+          "0",
+          "0"
+        ],
+        "Shots on target": [
+          "0",
+          "0"
+        ],
+        "Corner kicks": [
+          "0",
+          "0"
+        ],
+        "Shots off target": [
+          "0",
+          "0"
+        ]
+      }
+    },
+    {
+      "id": "EoR1Fowe",
+      "date": "2025-11-21T18:00:00.000Z",
+      "round": "Round 13",
+      "homeTeam": "Villarreal B",
+      "awayTeam": "Gimnastic",
+      "homeScore": 0,
+      "awayScore": 0,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "54%",
+          "46%"
+        ],
+        "Total shots": [
+          "9",
+          "2"
+        ],
+        "Shots on target": [
+          "4",
+          "1"
+        ],
+        "Corner kicks": [
+          "4",
+          "3"
+        ],
+        "Yellow cards": [
+          "3",
+          "3"
+        ],
+        "Shots off target": [
+          "5",
+          "1"
+        ]
+      }
+    },
+    {
+      "id": "AP6v6Mrp",
+      "date": "2025-11-16T20:00:00.000Z",
+      "round": "Round 12",
+      "homeTeam": "CE Europa",
+      "awayTeam": "FC Cartagena",
+      "homeScore": 2,
+      "awayScore": 0,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "57%",
+          "43%"
+        ],
+        "Total shots": [
+          "14",
+          "5"
+        ],
+        "Shots on target": [
+          "9",
+          "5"
+        ],
+        "Corner kicks": [
+          "8",
+          "6"
+        ],
+        "Yellow cards": [
+          "1",
+          "3"
+        ],
+        "Red cards": [
+          "0",
+          "1"
+        ],
+        "Shots off target": [
+          "5",
+          "0"
+        ]
+      }
+    },
+    {
+      "id": "hAPYb5yH",
+      "date": "2025-11-16T15:30:00.000Z",
+      "round": "Round 12",
+      "homeTeam": "Eldense",
+      "awayTeam": "Hercules",
+      "homeScore": 2,
+      "awayScore": 0,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "57%",
+          "43%"
+        ],
+        "Total shots": [
+          "8",
+          "13"
+        ],
+        "Shots on target": [
+          "5",
+          "6"
+        ],
+        "Corner kicks": [
+          "3",
+          "4"
+        ],
+        "Yellow cards": [
+          "3",
+          "4"
+        ],
+        "Red cards": [
+          "1",
+          "0"
+        ],
+        "Shots off target": [
+          "3",
+          "7"
+        ]
+      }
+    },
+    {
+      "id": "Wvem40Dd",
+      "date": "2025-11-16T13:15:00.000Z",
+      "round": "Round 12",
+      "homeTeam": "Gimnastic",
+      "awayTeam": "Marbella FC",
+      "homeScore": 1,
+      "awayScore": 0,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "48%",
+          "52%"
+        ],
+        "Total shots": [
+          "9",
+          "9"
+        ],
+        "Shots on target": [
+          "3",
+          "7"
+        ],
+        "Corner kicks": [
+          "3",
+          "1"
+        ],
+        "Yellow cards": [
+          "3",
+          "1"
+        ],
+        "Shots off target": [
+          "6",
+          "2"
+        ]
+      }
+    },
+    {
+      "id": "nDMQ0R64",
+      "date": "2025-11-16T11:00:00.000Z",
+      "round": "Round 12",
+      "homeTeam": "Alcorcon",
+      "awayTeam": "Atletico Madrid B",
+      "homeScore": 0,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "39%",
+          "61%"
+        ],
+        "Total shots": [
+          "7",
+          "13"
+        ],
+        "Shots on target": [
+          "3",
+          "10"
+        ],
+        "Corner kicks": [
+          "7",
+          "5"
+        ],
+        "Yellow cards": [
+          "2",
+          "3"
+        ],
+        "Red cards": [
+          "1",
+          "0"
+        ],
+        "Shots off target": [
+          "4",
+          "3"
+        ]
+      }
+    },
+    {
+      "id": "0Gn0FQLc",
+      "date": "2025-11-16T11:00:00.000Z",
+      "round": "Round 12",
+      "homeTeam": "Antequera",
+      "awayTeam": "Sevilla Atletico",
+      "homeScore": 1,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "50%",
+          "50%"
+        ],
+        "Total shots": [
+          "0",
+          "0"
+        ],
+        "Shots on target": [
+          "0",
+          "0"
+        ],
+        "Corner kicks": [
+          "0",
+          "0"
+        ],
+        "Yellow cards": [
+          "0",
+          "3"
+        ],
+        "Red cards": [
+          "0",
+          "1"
+        ],
+        "Shots off target": [
+          "0",
+          "0"
+        ]
+      }
+    },
+    {
+      "id": "EPDscq6T",
+      "date": "2025-11-16T11:00:00.000Z",
+      "round": "Round 12",
+      "homeTeam": "Real Murcia",
+      "awayTeam": "Teruel",
+      "homeScore": 0,
+      "awayScore": 0,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "62%",
+          "38%"
+        ],
+        "Total shots": [
+          "6",
+          "6"
+        ],
+        "Shots on target": [
+          "3",
+          "4"
+        ],
+        "Corner kicks": [
+          "8",
+          "2"
+        ],
+        "Yellow cards": [
+          "0",
+          "1"
+        ],
+        "Shots off target": [
+          "3",
+          "2"
+        ]
+      }
+    },
+    {
+      "id": "bomZR353",
+      "date": "2025-11-16T11:00:00.000Z",
+      "round": "Round 12",
+      "homeTeam": "Juventud Torremolinos CF",
+      "awayTeam": "Algeciras CF",
+      "homeScore": 1,
+      "awayScore": 1,
+      "htHome": 1,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "50%",
+          "50%"
+        ],
+        "Total shots": [
+          "0",
+          "0"
+        ],
+        "Shots on target": [
+          "0",
+          "0"
+        ],
+        "Corner kicks": [
+          "0",
+          "0"
+        ],
+        "Yellow cards": [
+          "4",
+          "4"
+        ],
+        "Shots off target": [
+          "0",
+          "0"
+        ]
+      }
+    },
+    {
+      "id": "vsG8BrLM",
+      "date": "2025-11-15T19:30:00.000Z",
+      "round": "Round 12",
+      "homeTeam": "Atletico Sanluqueno",
+      "awayTeam": "UD Ibiza",
+      "homeScore": 0,
+      "awayScore": 0,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "49%",
+          "51%"
+        ],
+        "Total shots": [
+          "6",
+          "14"
+        ],
+        "Shots on target": [
+          "2",
+          "6"
+        ],
+        "Corner kicks": [
+          "3",
+          "8"
+        ],
+        "Yellow cards": [
+          "7",
+          "3"
+        ],
+        "Shots off target": [
+          "4",
+          "8"
+        ]
+      }
+    },
+    {
+      "id": "p84DiNTj",
+      "date": "2025-11-15T15:00:00.000Z",
+      "round": "Round 12",
+      "homeTeam": "SD Tarazona",
+      "awayTeam": "Villarreal B",
+      "homeScore": 2,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "57%",
+          "43%"
+        ],
+        "Total shots": [
+          "18",
+          "9"
+        ],
+        "Shots on target": [
+          "12",
+          "3"
+        ],
+        "Corner kicks": [
+          "11",
+          "1"
+        ],
+        "Yellow cards": [
+          "2",
+          "4"
+        ],
+        "Red cards": [
+          "0",
+          "1"
+        ],
+        "Shots off target": [
+          "6",
+          "6"
+        ]
+      }
+    },
+    {
+      "id": "YTp8D4jA",
+      "date": "2025-11-14T18:00:00.000Z",
+      "round": "Round 12",
+      "homeTeam": "Betis Deportivo",
+      "awayTeam": "Sabadell",
+      "homeScore": 1,
+      "awayScore": 2,
+      "htHome": 0,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "49%",
+          "51%"
+        ],
+        "Total shots": [
+          "9",
+          "16"
+        ],
+        "Shots on target": [
+          "5",
+          "9"
+        ],
+        "Corner kicks": [
+          "2",
+          "10"
+        ],
+        "Yellow cards": [
+          "1",
+          "5"
+        ],
+        "Shots off target": [
+          "4",
+          "7"
+        ]
+      }
+    },
+    {
+      "id": "bitWvppo",
+      "date": "2025-11-09T19:30:00.000Z",
+      "round": "Round 11",
+      "homeTeam": "Villarreal B",
+      "awayTeam": "Atletico Sanluqueno",
+      "homeScore": 2,
+      "awayScore": 0,
+      "htHome": 2,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "68%",
+          "32%"
+        ],
+        "Total shots": [
+          "6",
+          "3"
+        ],
+        "Shots on target": [
+          "4",
+          "0"
+        ],
+        "Corner kicks": [
+          "2",
+          "1"
+        ],
+        "Yellow cards": [
+          "5",
+          "5"
+        ],
+        "Red cards": [
+          "0",
+          "1"
+        ],
+        "Shots off target": [
+          "2",
+          "3"
+        ]
+      }
+    },
+    {
+      "id": "dKys1z1m",
+      "date": "2025-11-09T11:00:00.000Z",
+      "round": "Round 11",
+      "homeTeam": "Marbella FC",
+      "awayTeam": "Alcorcon",
+      "homeScore": 1,
+      "awayScore": 2,
+      "htHome": 1,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "55%",
+          "45%"
+        ],
+        "Total shots": [
+          "3",
+          "9"
+        ],
+        "Shots on target": [
+          "2",
+          "6"
+        ],
+        "Corner kicks": [
+          "5",
+          "1"
+        ],
+        "Yellow cards": [
+          "5",
+          "5"
+        ],
+        "Shots off target": [
+          "1",
+          "3"
+        ]
+      }
+    },
+    {
+      "id": "QyoB6dwQ",
+      "date": "2025-11-09T11:00:00.000Z",
+      "round": "Round 11",
+      "homeTeam": "Sevilla Atletico",
+      "awayTeam": "Juventud Torremolinos CF",
+      "homeScore": 1,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "46%",
+          "54%"
+        ],
+        "Total shots": [
+          "16",
+          "6"
+        ],
+        "Shots on target": [
+          "7",
+          "4"
+        ],
+        "Corner kicks": [
+          "9",
+          "0"
+        ],
+        "Yellow cards": [
+          "4",
+          "2"
+        ],
+        "Shots off target": [
+          "9",
+          "2"
+        ]
+      }
+    },
+    {
+      "id": "joTH2mxh",
+      "date": "2025-11-09T11:00:00.000Z",
+      "round": "Round 11",
+      "homeTeam": "UD Ibiza",
+      "awayTeam": "Betis Deportivo",
+      "homeScore": 0,
+      "awayScore": 0,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "51%",
+          "49%"
+        ],
+        "Total shots": [
+          "12",
+          "4"
+        ],
+        "Shots on target": [
+          "5",
+          "1"
+        ],
+        "Corner kicks": [
+          "6",
+          "1"
+        ],
+        "Yellow cards": [
+          "2",
+          "2"
+        ],
+        "Shots off target": [
+          "7",
+          "3"
+        ]
+      }
+    },
+    {
+      "id": "d6d8nynf",
+      "date": "2025-11-08T20:00:00.000Z",
+      "round": "Round 11",
+      "homeTeam": "Real Murcia",
+      "awayTeam": "Gimnastic",
+      "homeScore": 3,
+      "awayScore": 2,
+      "htHome": 2,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "45%",
+          "55%"
+        ],
+        "Total shots": [
+          "5",
+          "7"
+        ],
+        "Shots on target": [
+          "4",
+          "4"
+        ],
+        "Corner kicks": [
+          "2",
+          "3"
+        ],
+        "Yellow cards": [
+          "1",
+          "2"
+        ],
+        "Shots off target": [
+          "1",
+          "3"
+        ]
+      }
+    },
+    {
+      "id": "AT2OrgoJ",
+      "date": "2025-11-08T17:00:00.000Z",
+      "round": "Round 11",
+      "homeTeam": "Algeciras CF",
+      "awayTeam": "Antequera",
+      "homeScore": 1,
+      "awayScore": 0,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "45%",
+          "55%"
+        ],
+        "Total shots": [
+          "6",
+          "9"
+        ],
+        "Shots on target": [
+          "2",
+          "7"
+        ],
+        "Corner kicks": [
+          "3",
+          "1"
+        ],
+        "Yellow cards": [
+          "4",
+          "3"
+        ],
+        "Shots off target": [
+          "4",
+          "2"
+        ]
+      }
+    },
+    {
+      "id": "4jOcch0C",
+      "date": "2025-11-08T15:15:00.000Z",
+      "round": "Round 11",
+      "homeTeam": "Hercules",
+      "awayTeam": "CE Europa",
+      "homeScore": 1,
+      "awayScore": 0,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "46%",
+          "54%"
+        ],
+        "Total shots": [
+          "6",
+          "4"
+        ],
+        "Shots on target": [
+          "2",
+          "1"
+        ],
+        "Corner kicks": [
+          "1",
+          "4"
+        ],
+        "Yellow cards": [
+          "1",
+          "4"
+        ],
+        "Shots off target": [
+          "4",
+          "3"
+        ]
+      }
+    },
+    {
+      "id": "IZPkaEVa",
+      "date": "2025-11-08T13:00:00.000Z",
+      "round": "Round 11",
+      "homeTeam": "Teruel",
+      "awayTeam": "FC Cartagena",
+      "homeScore": 1,
+      "awayScore": 2,
+      "htHome": 1,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "43%",
+          "57%"
+        ],
+        "Total shots": [
+          "8",
+          "3"
+        ],
+        "Shots on target": [
+          "6",
+          "2"
+        ],
+        "Corner kicks": [
+          "6",
+          "2"
+        ],
+        "Yellow cards": [
+          "4",
+          "5"
+        ],
+        "Shots off target": [
+          "2",
+          "1"
+        ]
+      }
+    },
+    {
+      "id": "ltg0lcHs",
+      "date": "2025-11-07T20:15:00.000Z",
+      "round": "Round 11",
+      "homeTeam": "Atletico Madrid B",
+      "awayTeam": "Eldense",
+      "homeScore": 1,
+      "awayScore": 1,
+      "htHome": 1,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "42%",
+          "58%"
+        ],
+        "Total shots": [
+          "8",
+          "9"
+        ],
+        "Shots on target": [
+          "4",
+          "4"
+        ],
+        "Corner kicks": [
+          "4",
+          "3"
+        ],
+        "Yellow cards": [
+          "6",
+          "2"
+        ],
+        "Red cards": [
+          "1",
+          "0"
+        ],
+        "Shots off target": [
+          "4",
+          "5"
+        ]
+      }
+    },
+    {
+      "id": "xG4GpFG6",
+      "date": "2025-11-07T18:00:00.000Z",
+      "round": "Round 11",
+      "homeTeam": "Sabadell",
+      "awayTeam": "SD Tarazona",
+      "homeScore": 0,
+      "awayScore": 0,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "52%",
+          "48%"
+        ],
+        "Total shots": [
+          "9",
+          "7"
+        ],
+        "Shots on target": [
+          "4",
+          "6"
+        ],
+        "Corner kicks": [
+          "4",
+          "6"
+        ],
+        "Yellow cards": [
+          "1",
+          "4"
+        ],
+        "Red cards": [
+          "0",
+          "1"
+        ],
+        "Shots off target": [
+          "5",
+          "1"
+        ]
+      }
+    },
+    {
+      "id": "Q1U1uKvR",
+      "date": "2025-11-02T19:30:00.000Z",
+      "round": "Round 10",
+      "homeTeam": "Gimnastic",
+      "awayTeam": "Atletico Madrid B",
+      "homeScore": 0,
+      "awayScore": 3,
+      "htHome": 0,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "44%",
+          "56%"
+        ],
+        "Total shots": [
+          "10",
+          "11"
+        ],
+        "Shots on target": [
+          "3",
+          "7"
+        ],
+        "Corner kicks": [
+          "2",
+          "8"
+        ],
+        "Yellow cards": [
+          "3",
+          "4"
+        ],
+        "Shots off target": [
+          "7",
+          "4"
+        ]
+      }
+    },
+    {
+      "id": "xtl7JxI7",
+      "date": "2025-11-02T15:00:00.000Z",
+      "round": "Round 10",
+      "homeTeam": "Antequera",
+      "awayTeam": "Hercules",
+      "homeScore": 1,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "50%",
+          "50%"
+        ],
+        "Total shots": [
+          "0",
+          "0"
+        ],
+        "Shots on target": [
+          "0",
+          "0"
+        ],
+        "Corner kicks": [
+          "0",
+          "0"
+        ],
+        "Shots off target": [
+          "0",
+          "0"
+        ]
+      }
+    },
+    {
+      "id": "IyRgstAE",
+      "date": "2025-11-02T11:00:00.000Z",
+      "round": "Round 10",
+      "homeTeam": "Betis Deportivo",
+      "awayTeam": "Real Murcia",
+      "homeScore": 1,
+      "awayScore": 2,
+      "htHome": 0,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "60%",
+          "40%"
+        ],
+        "Total shots": [
+          "8",
+          "10"
+        ],
+        "Shots on target": [
+          "4",
+          "5"
+        ],
+        "Corner kicks": [
+          "8",
+          "5"
+        ],
+        "Yellow cards": [
+          "5",
+          "6"
+        ],
+        "Red cards": [
+          "1",
+          "0"
+        ],
+        "Shots off target": [
+          "4",
+          "5"
+        ]
+      }
+    },
+    {
+      "id": "pnBYZc2l",
+      "date": "2025-11-02T11:00:00.000Z",
+      "round": "Round 10",
+      "homeTeam": "SD Tarazona",
+      "awayTeam": "UD Ibiza",
+      "homeScore": 0,
+      "awayScore": 0,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "48%",
+          "52%"
+        ],
+        "Total shots": [
+          "5",
+          "5"
+        ],
+        "Shots on target": [
+          "3",
+          "2"
+        ],
+        "Corner kicks": [
+          "2",
+          "5"
+        ],
+        "Yellow cards": [
+          "3",
+          "2"
+        ],
+        "Shots off target": [
+          "2",
+          "3"
+        ]
+      }
+    },
+    {
+      "id": "x2PsWF1D",
+      "date": "2025-11-02T11:00:00.000Z",
+      "round": "Round 10",
+      "homeTeam": "Teruel",
+      "awayTeam": "Marbella FC",
+      "homeScore": 1,
+      "awayScore": 0,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "53%",
+          "47%"
+        ],
+        "Total shots": [
+          "10",
+          "5"
+        ],
+        "Shots on target": [
+          "4",
+          "1"
+        ],
+        "Corner kicks": [
+          "10",
+          "0"
+        ],
+        "Yellow cards": [
+          "2",
+          "2"
+        ],
+        "Shots off target": [
+          "6",
+          "4"
+        ]
+      }
+    },
+    {
+      "id": "WroaLbme",
+      "date": "2025-11-01T20:00:00.000Z",
+      "round": "Round 10",
+      "homeTeam": "CE Europa",
+      "awayTeam": "Atletico Sanluqueno",
+      "homeScore": 2,
+      "awayScore": 1,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "50%",
+          "50%"
+        ],
+        "Total shots": [
+          "11",
+          "10"
+        ],
+        "Shots on target": [
+          "8",
+          "6"
+        ],
+        "Corner kicks": [
+          "8",
+          "4"
+        ],
+        "Yellow cards": [
+          "3",
+          "5"
+        ],
+        "Shots off target": [
+          "3",
+          "4"
+        ]
+      }
+    },
+    {
+      "id": "zHijNKIr",
+      "date": "2025-11-01T17:00:00.000Z",
+      "round": "Round 10",
+      "homeTeam": "FC Cartagena",
+      "awayTeam": "Villarreal B",
+      "homeScore": 0,
+      "awayScore": 2,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "60%",
+          "40%"
+        ],
+        "Total shots": [
+          "8",
+          "6"
+        ],
+        "Shots on target": [
+          "5",
+          "3"
+        ],
+        "Corner kicks": [
+          "8",
+          "5"
+        ],
+        "Yellow cards": [
+          "1",
+          "2"
+        ],
+        "Shots off target": [
+          "3",
+          "3"
+        ]
+      }
+    },
+    {
+      "id": "48HTgJgK",
+      "date": "2025-11-01T15:15:00.000Z",
+      "round": "Round 10",
+      "homeTeam": "Eldense",
+      "awayTeam": "Algeciras CF",
+      "homeScore": 3,
+      "awayScore": 2,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "59%",
+          "41%"
+        ],
+        "Total shots": [
+          "7",
+          "10"
+        ],
+        "Shots on target": [
+          "5",
+          "4"
+        ],
+        "Corner kicks": [
+          "9",
+          "4"
+        ],
+        "Yellow cards": [
+          "3",
+          "4"
+        ],
+        "Red cards": [
+          "1",
+          "0"
+        ],
+        "Shots off target": [
+          "2",
+          "6"
+        ]
+      }
+    },
+    {
+      "id": "Ia9tYyX0",
+      "date": "2025-11-01T15:00:00.000Z",
+      "round": "Round 10",
+      "homeTeam": "Juventud Torremolinos CF",
+      "awayTeam": "Sabadell",
+      "homeScore": 1,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "39%",
+          "61%"
+        ],
+        "Total shots": [
+          "9",
+          "12"
+        ],
+        "Shots on target": [
+          "3",
+          "7"
+        ],
+        "Corner kicks": [
+          "3",
+          "7"
+        ],
+        "Yellow cards": [
+          "4",
+          "2"
+        ],
+        "Shots off target": [
+          "6",
+          "5"
+        ]
+      }
+    },
+    {
+      "id": "vo6KSteL",
+      "date": "2025-10-31T20:15:00.000Z",
+      "round": "Round 10",
+      "homeTeam": "Alcorcon",
+      "awayTeam": "Sevilla Atletico",
+      "homeScore": 0,
+      "awayScore": 0,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "49%",
+          "51%"
+        ],
+        "Total shots": [
+          "3",
+          "6"
+        ],
+        "Shots on target": [
+          "1",
+          "4"
+        ],
+        "Corner kicks": [
+          "5",
+          "10"
+        ],
+        "Yellow cards": [
+          "1",
+          "1"
+        ],
+        "Red cards": [
+          "1",
+          "0"
+        ],
+        "Shots off target": [
+          "2",
+          "2"
+        ]
+      }
+    },
+    {
+      "id": "tExfGC5b",
+      "date": "2025-10-26T19:30:00.000Z",
+      "round": "Round 9",
+      "homeTeam": "Atletico Madrid B",
+      "awayTeam": "CE Europa",
+      "homeScore": 2,
+      "awayScore": 0,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "54%",
+          "46%"
+        ],
+        "Total shots": [
+          "12",
+          "13"
+        ],
+        "Shots on target": [
+          "5",
+          "4"
+        ],
+        "Corner kicks": [
+          "4",
+          "7"
+        ],
+        "Yellow cards": [
+          "1",
+          "2"
+        ],
+        "Shots off target": [
+          "7",
+          "9"
+        ]
+      }
+    },
+    {
+      "id": "SU0yTkk4",
+      "date": "2025-10-26T17:15:00.000Z",
+      "round": "Round 9",
+      "homeTeam": "Sevilla Atletico",
+      "awayTeam": "Hercules",
+      "homeScore": 2,
+      "awayScore": 0,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "49%",
+          "51%"
+        ],
+        "Total shots": [
+          "7",
+          "5"
+        ],
+        "Shots on target": [
+          "4",
+          "0"
+        ],
+        "Corner kicks": [
+          "7",
+          "3"
+        ],
+        "Yellow cards": [
+          "3",
+          "2"
+        ],
+        "Shots off target": [
+          "3",
+          "5"
+        ]
+      }
+    },
+    {
+      "id": "lvt2EjzB",
+      "date": "2025-10-26T11:00:00.000Z",
+      "round": "Round 9",
+      "homeTeam": "Eldense",
+      "awayTeam": "Real Murcia",
+      "homeScore": 1,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "57%",
+          "43%"
+        ],
+        "Total shots": [
+          "13",
+          "4"
+        ],
+        "Shots on target": [
+          "8",
+          "2"
+        ],
+        "Corner kicks": [
+          "10",
+          "2"
+        ],
+        "Yellow cards": [
+          "2",
+          "2"
+        ],
+        "Shots off target": [
+          "5",
+          "2"
+        ]
+      }
+    },
+    {
+      "id": "OdfpRTJG",
+      "date": "2025-10-26T11:00:00.000Z",
+      "round": "Round 9",
+      "homeTeam": "Marbella FC",
+      "awayTeam": "FC Cartagena",
+      "homeScore": 0,
+      "awayScore": 0,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "45%",
+          "55%"
+        ],
+        "Total shots": [
+          "10",
+          "7"
+        ],
+        "Shots on target": [
+          "2",
+          "4"
+        ],
+        "Corner kicks": [
+          "6",
+          "7"
+        ],
+        "Yellow cards": [
+          "1",
+          "2"
+        ],
+        "Shots off target": [
+          "8",
+          "3"
+        ]
+      }
+    },
+    {
+      "id": "AgUACU4N",
+      "date": "2025-10-26T11:00:00.000Z",
+      "round": "Round 9",
+      "homeTeam": "UD Ibiza",
+      "awayTeam": "Teruel",
+      "homeScore": 0,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "56%",
+          "44%"
+        ],
+        "Total shots": [
+          "9",
+          "6"
+        ],
+        "Shots on target": [
+          "3",
+          "4"
+        ],
+        "Corner kicks": [
+          "6",
+          "2"
+        ],
+        "Yellow cards": [
+          "0",
+          "4"
+        ],
+        "Shots off target": [
+          "6",
+          "2"
+        ]
+      }
+    },
+    {
+      "id": "jBAQ6aY1",
+      "date": "2025-10-26T11:00:00.000Z",
+      "round": "Round 9",
+      "homeTeam": "Villarreal B",
+      "awayTeam": "Antequera",
+      "homeScore": 1,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "52%",
+          "48%"
+        ],
+        "Total shots": [
+          "12",
+          "6"
+        ],
+        "Shots on target": [
+          "5",
+          "3"
+        ],
+        "Corner kicks": [
+          "5",
+          "1"
+        ],
+        "Yellow cards": [
+          "2",
+          "1"
+        ],
+        "Shots off target": [
+          "7",
+          "3"
+        ]
+      }
+    },
+    {
+      "id": "UeMH8L3k",
+      "date": "2025-10-25T16:30:00.000Z",
+      "round": "Round 9",
+      "homeTeam": "Sabadell",
+      "awayTeam": "Gimnastic",
+      "homeScore": 0,
+      "awayScore": 0,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "58%",
+          "42%"
+        ],
+        "Total shots": [
+          "19",
+          "4"
+        ],
+        "Shots on target": [
+          "9",
+          "2"
+        ],
+        "Corner kicks": [
+          "11",
+          "1"
+        ],
+        "Yellow cards": [
+          "2",
+          "5"
+        ],
+        "Shots off target": [
+          "10",
+          "2"
+        ]
+      }
+    },
+    {
+      "id": "txLt78Sp",
+      "date": "2025-10-25T16:30:00.000Z",
+      "round": "Round 9",
+      "homeTeam": "Atletico Sanluqueno",
+      "awayTeam": "Juventud Torremolinos CF",
+      "homeScore": 0,
+      "awayScore": 2,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "53%",
+          "47%"
+        ],
+        "Total shots": [
+          "11",
+          "11"
+        ],
+        "Shots on target": [
+          "3",
+          "5"
+        ],
+        "Corner kicks": [
+          "4",
+          "3"
+        ],
+        "Yellow cards": [
+          "6",
+          "5"
+        ],
+        "Red cards": [
+          "1",
+          "0"
+        ],
+        "Shots off target": [
+          "8",
+          "6"
+        ]
+      }
+    },
+    {
+      "id": "rJCBU2Q8",
+      "date": "2025-10-25T14:15:00.000Z",
+      "round": "Round 9",
+      "homeTeam": "SD Tarazona",
+      "awayTeam": "Betis Deportivo",
+      "homeScore": 1,
+      "awayScore": 0,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "43%",
+          "57%"
+        ],
+        "Total shots": [
+          "7",
+          "11"
+        ],
+        "Shots on target": [
+          "3",
+          "0"
+        ],
+        "Corner kicks": [
+          "4",
+          "6"
+        ],
+        "Yellow cards": [
+          "4",
+          "1"
+        ],
+        "Red cards": [
+          "1",
+          "0"
+        ],
+        "Shots off target": [
+          "4",
+          "11"
+        ]
+      }
+    },
+    {
+      "id": "fH2TUBKi",
+      "date": "2025-10-25T12:00:00.000Z",
+      "round": "Round 9",
+      "homeTeam": "Algeciras CF",
+      "awayTeam": "Alcorcon",
+      "homeScore": 1,
+      "awayScore": 0,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "46%",
+          "54%"
+        ],
+        "Total shots": [
+          "5",
+          "6"
+        ],
+        "Shots on target": [
+          "3",
+          "5"
+        ],
+        "Corner kicks": [
+          "4",
+          "8"
+        ],
+        "Yellow cards": [
+          "5",
+          "3"
+        ],
+        "Red cards": [
+          "1",
+          "1"
+        ],
+        "Shots off target": [
+          "2",
+          "1"
+        ]
+      }
+    },
+    {
+      "id": "OGEUjyLk",
+      "date": "2025-10-22T17:00:00.000Z",
+      "round": "Round 7",
+      "homeTeam": "Hercules",
+      "awayTeam": "Atletico Madrid B",
+      "homeScore": 3,
+      "awayScore": 0,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "46%",
+          "54%"
+        ],
+        "Total shots": [
+          "9",
+          "7"
+        ],
+        "Shots on target": [
+          "6",
+          "1"
+        ],
+        "Corner kicks": [
+          "1",
+          "6"
+        ],
+        "Yellow cards": [
+          "4",
+          "2"
+        ],
+        "Shots off target": [
+          "3",
+          "6"
+        ]
+      }
+    },
+    {
+      "id": "th1J3ZLh",
+      "date": "2025-10-19T18:30:00.000Z",
+      "round": "Round 8",
+      "homeTeam": "Betis Deportivo",
+      "awayTeam": "Atletico Sanluqueno",
+      "homeScore": 1,
+      "awayScore": 0,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "62%",
+          "38%"
+        ],
+        "Total shots": [
+          "10",
+          "9"
+        ],
+        "Shots on target": [
+          "4",
+          "4"
+        ],
+        "Corner kicks": [
+          "6",
+          "2"
+        ],
+        "Yellow cards": [
+          "5",
+          "3"
+        ],
+        "Red cards": [
+          "1",
+          "0"
+        ],
+        "Shots off target": [
+          "6",
+          "5"
+        ]
+      }
+    },
+    {
+      "id": "lpqC5eit",
+      "date": "2025-10-19T16:15:00.000Z",
+      "round": "Round 8",
+      "homeTeam": "Antequera",
+      "awayTeam": "Marbella FC",
+      "homeScore": 3,
+      "awayScore": 1,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "50%",
+          "50%"
+        ],
+        "Total shots": [
+          "0",
+          "0"
+        ],
+        "Shots on target": [
+          "0",
+          "0"
+        ],
+        "Corner kicks": [
+          "0",
+          "0"
+        ],
+        "Shots off target": [
+          "0",
+          "0"
+        ]
+      }
+    },
+    {
+      "id": "AXhz0iLH",
+      "date": "2025-10-19T16:15:00.000Z",
+      "round": "Round 8",
+      "homeTeam": "Real Murcia",
+      "awayTeam": "UD Ibiza",
+      "homeScore": 0,
+      "awayScore": 2,
+      "htHome": 0,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "63%",
+          "37%"
+        ],
+        "Total shots": [
+          "12",
+          "6"
+        ],
+        "Shots on target": [
+          "4",
+          "4"
+        ],
+        "Corner kicks": [
+          "7",
+          "3"
+        ],
+        "Yellow cards": [
+          "1",
+          "5"
+        ],
+        "Red cards": [
+          "0",
+          "2"
+        ],
+        "Shots off target": [
+          "8",
+          "2"
+        ]
+      }
+    },
+    {
+      "id": "MBMhIYzn",
+      "date": "2025-10-19T14:15:00.000Z",
+      "round": "Round 8",
+      "homeTeam": "Teruel",
+      "awayTeam": "Sevilla Atletico",
+      "homeScore": 1,
+      "awayScore": 0,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "48%",
+          "52%"
+        ],
+        "Total shots": [
+          "5",
+          "6"
+        ],
+        "Shots on target": [
+          "3",
+          "2"
+        ],
+        "Corner kicks": [
+          "3",
+          "6"
+        ],
+        "Yellow cards": [
+          "2",
+          "3"
+        ],
+        "Red cards": [
+          "0",
+          "1"
+        ],
+        "Shots off target": [
+          "2",
+          "4"
+        ]
+      }
+    },
+    {
+      "id": "hfyu7mBm",
+      "date": "2025-10-19T10:00:00.000Z",
+      "round": "Round 8",
+      "homeTeam": "Atletico Madrid B",
+      "awayTeam": "Juventud Torremolinos CF",
+      "homeScore": 3,
+      "awayScore": 1,
+      "htHome": 2,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "64%",
+          "36%"
+        ],
+        "Total shots": [
+          "12",
+          "9"
+        ],
+        "Shots on target": [
+          "9",
+          "6"
+        ],
+        "Corner kicks": [
+          "8",
+          "4"
+        ],
+        "Yellow cards": [
+          "3",
+          "3"
+        ],
+        "Red cards": [
+          "0",
+          "1"
+        ],
+        "Shots off target": [
+          "3",
+          "3"
+        ]
+      }
+    },
+    {
+      "id": "8jR31quP",
+      "date": "2025-10-19T10:00:00.000Z",
+      "round": "Round 8",
+      "homeTeam": "Gimnastic",
+      "awayTeam": "SD Tarazona",
+      "homeScore": 2,
+      "awayScore": 1,
+      "htHome": 2,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "60%",
+          "40%"
+        ],
+        "Total shots": [
+          "7",
+          "15"
+        ],
+        "Shots on target": [
+          "4",
+          "7"
+        ],
+        "Corner kicks": [
+          "6",
+          "2"
+        ],
+        "Yellow cards": [
+          "4",
+          "2"
+        ],
+        "Shots off target": [
+          "3",
+          "8"
+        ]
+      }
+    },
+    {
+      "id": "27kS1Dj5",
+      "date": "2025-10-18T19:00:00.000Z",
+      "round": "Round 8",
+      "homeTeam": "CE Europa",
+      "awayTeam": "Eldense",
+      "homeScore": 1,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "57%",
+          "43%"
+        ],
+        "Total shots": [
+          "12",
+          "8"
+        ],
+        "Shots on target": [
+          "6",
+          "3"
+        ],
+        "Corner kicks": [
+          "4",
+          "3"
+        ],
+        "Yellow cards": [
+          "1",
+          "5"
+        ],
+        "Red cards": [
+          "0",
+          "1"
+        ],
+        "Shots off target": [
+          "6",
+          "5"
+        ]
+      }
+    },
+    {
+      "id": "zwTe35AC",
+      "date": "2025-10-18T14:15:00.000Z",
+      "round": "Round 8",
+      "homeTeam": "Hercules",
+      "awayTeam": "Villarreal B",
+      "homeScore": 2,
+      "awayScore": 1,
+      "htHome": 1,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "49%",
+          "51%"
+        ],
+        "Total shots": [
+          "10",
+          "8"
+        ],
+        "Shots on target": [
+          "4",
+          "4"
+        ],
+        "Corner kicks": [
+          "2",
+          "2"
+        ],
+        "Yellow cards": [
+          "0",
+          "3"
+        ],
+        "Shots off target": [
+          "6",
+          "4"
+        ]
+      }
+    },
+    {
+      "id": "6anqbVkU",
+      "date": "2025-10-17T19:15:00.000Z",
+      "round": "Round 8",
+      "homeTeam": "FC Cartagena",
+      "awayTeam": "Algeciras CF",
+      "homeScore": 2,
+      "awayScore": 0,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "52%",
+          "48%"
+        ],
+        "Total shots": [
+          "7",
+          "7"
+        ],
+        "Shots on target": [
+          "6",
+          "5"
+        ],
+        "Corner kicks": [
+          "4",
+          "2"
+        ],
+        "Yellow cards": [
+          "1",
+          "5"
+        ],
+        "Shots off target": [
+          "1",
+          "2"
+        ]
+      }
+    },
+    {
+      "id": "vBZn5Ru0",
+      "date": "2025-10-17T17:00:00.000Z",
+      "round": "Round 8",
+      "homeTeam": "Alcorcon",
+      "awayTeam": "Sabadell",
+      "homeScore": 0,
+      "awayScore": 3,
+      "htHome": 0,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "49%",
+          "51%"
+        ],
+        "Total shots": [
+          "5",
+          "8"
+        ],
+        "Shots on target": [
+          "2",
+          "3"
+        ],
+        "Corner kicks": [
+          "4",
+          "2"
+        ],
+        "Yellow cards": [
+          "2",
+          "1"
+        ],
+        "Shots off target": [
+          "3",
+          "5"
+        ]
+      }
+    },
+    {
+      "id": "WtIxkFk2",
+      "date": "2025-10-12T16:45:00.000Z",
+      "round": "Round 7",
+      "homeTeam": "Gimnastic",
+      "awayTeam": "Alcorcon",
+      "homeScore": 1,
+      "awayScore": 2,
+      "htHome": 0,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "59%",
+          "41%"
+        ],
+        "Total shots": [
+          "11",
+          "10"
+        ],
+        "Shots on target": [
+          "7",
+          "6"
+        ],
+        "Corner kicks": [
+          "3",
+          "4"
+        ],
+        "Yellow cards": [
+          "3",
+          "2"
+        ],
+        "Shots off target": [
+          "4",
+          "4"
+        ]
+      }
+    },
+    {
+      "id": "tG7Ml6eJ",
+      "date": "2025-10-12T16:15:00.000Z",
+      "round": "Round 7",
+      "homeTeam": "Atletico Sanluqueno",
+      "awayTeam": "Antequera",
+      "homeScore": 1,
+      "awayScore": 3,
+      "htHome": 0,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "62%",
+          "38%"
+        ],
+        "Total shots": [
+          "13",
+          "10"
+        ],
+        "Shots on target": [
+          "4",
+          "5"
+        ],
+        "Corner kicks": [
+          "4",
+          "0"
+        ],
+        "Yellow cards": [
+          "2",
+          "4"
+        ],
+        "Red cards": [
+          "0",
+          "1"
+        ],
+        "Shots off target": [
+          "9",
+          "5"
+        ]
+      }
+    },
+    {
+      "id": "plEDjSQ6",
+      "date": "2025-10-12T14:30:00.000Z",
+      "round": "Round 7",
+      "homeTeam": "Sevilla Atletico",
+      "awayTeam": "FC Cartagena",
+      "homeScore": 0,
+      "awayScore": 0,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "47%",
+          "53%"
+        ],
+        "Total shots": [
+          "12",
+          "3"
+        ],
+        "Shots on target": [
+          "6",
+          "3"
+        ],
+        "Corner kicks": [
+          "6",
+          "6"
+        ],
+        "Yellow cards": [
+          "1",
+          "1"
+        ],
+        "Shots off target": [
+          "6",
+          "0"
+        ]
+      }
+    },
+    {
+      "id": "MXcbbJSF",
+      "date": "2025-10-12T10:00:00.000Z",
+      "round": "Round 7",
+      "homeTeam": "Sabadell",
+      "awayTeam": "Teruel",
+      "homeScore": 0,
+      "awayScore": 0,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "56%",
+          "44%"
+        ],
+        "Total shots": [
+          "8",
+          "7"
+        ],
+        "Shots on target": [
+          "4",
+          "4"
+        ],
+        "Corner kicks": [
+          "4",
+          "1"
+        ],
+        "Yellow cards": [
+          "2",
+          "2"
+        ],
+        "Shots off target": [
+          "4",
+          "3"
+        ]
+      }
+    },
+    {
+      "id": "IyNdfARs",
+      "date": "2025-10-12T10:00:00.000Z",
+      "round": "Round 7",
+      "homeTeam": "Juventud Torremolinos CF",
+      "awayTeam": "UD Ibiza",
+      "homeScore": 3,
+      "awayScore": 0,
+      "htHome": 3,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "52%",
+          "48%"
+        ],
+        "Total shots": [
+          "9",
+          "7"
+        ],
+        "Shots on target": [
+          "6",
+          "3"
+        ],
+        "Corner kicks": [
+          "5",
+          "5"
+        ],
+        "Yellow cards": [
+          "0",
+          "2"
+        ],
+        "Red cards": [
+          "0",
+          "1"
+        ],
+        "Shots off target": [
+          "3",
+          "4"
+        ]
+      }
+    },
+    {
+      "id": "fod6dccS",
+      "date": "2025-10-11T16:30:00.000Z",
+      "round": "Round 7",
+      "homeTeam": "Algeciras CF",
+      "awayTeam": "CE Europa",
+      "homeScore": 2,
+      "awayScore": 3,
+      "htHome": 1,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "52%",
+          "48%"
+        ],
+        "Total shots": [
+          "7",
+          "7"
+        ],
+        "Shots on target": [
+          "4",
+          "4"
+        ],
+        "Corner kicks": [
+          "1",
+          "5"
+        ],
+        "Yellow cards": [
+          "2",
+          "1"
+        ],
+        "Shots off target": [
+          "3",
+          "3"
+        ]
+      }
+    },
+    {
+      "id": "CzG5hldf",
+      "date": "2025-10-11T14:15:00.000Z",
+      "round": "Round 7",
+      "homeTeam": "SD Tarazona",
+      "awayTeam": "Real Murcia",
+      "homeScore": 1,
+      "awayScore": 0,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "44%",
+          "56%"
+        ],
+        "Total shots": [
+          "4",
+          "6"
+        ],
+        "Shots on target": [
+          "1",
+          "3"
+        ],
+        "Corner kicks": [
+          "2",
+          "2"
+        ],
+        "Yellow cards": [
+          "7",
+          "5"
+        ],
+        "Red cards": [
+          "0",
+          "1"
+        ],
+        "Shots off target": [
+          "3",
+          "3"
+        ]
+      }
+    },
+    {
+      "id": "CxePCIs9",
+      "date": "2025-10-11T14:00:00.000Z",
+      "round": "Round 7",
+      "homeTeam": "Marbella FC",
+      "awayTeam": "Eldense",
+      "homeScore": 1,
+      "awayScore": 0,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "47%",
+          "53%"
+        ],
+        "Total shots": [
+          "7",
+          "5"
+        ],
+        "Shots on target": [
+          "3",
+          "2"
+        ],
+        "Corner kicks": [
+          "2",
+          "4"
+        ],
+        "Yellow cards": [
+          "4",
+          "1"
+        ],
+        "Shots off target": [
+          "4",
+          "3"
+        ]
+      }
+    },
+    {
+      "id": "8Ma8C9mQ",
+      "date": "2025-10-11T12:00:00.000Z",
+      "round": "Round 7",
+      "homeTeam": "Villarreal B",
+      "awayTeam": "Betis Deportivo",
+      "homeScore": 4,
+      "awayScore": 1,
+      "htHome": 2,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "49%",
+          "51%"
+        ],
+        "Total shots": [
+          "9",
+          "10"
+        ],
+        "Shots on target": [
+          "5",
+          "3"
+        ],
+        "Corner kicks": [
+          "2",
+          "7"
+        ],
+        "Yellow cards": [
+          "2",
+          "3"
+        ],
+        "Shots off target": [
+          "4",
+          "7"
+        ]
+      }
+    },
+    {
+      "id": "vkt8m2Ec",
+      "date": "2025-10-05T16:15:00.000Z",
+      "round": "Round 6",
+      "homeTeam": "FC Cartagena",
+      "awayTeam": "SD Tarazona",
+      "homeScore": 3,
+      "awayScore": 0,
+      "htHome": 2,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "53%",
+          "47%"
+        ],
+        "Total shots": [
+          "11",
+          "5"
+        ],
+        "Shots on target": [
+          "4",
+          "2"
+        ],
+        "Corner kicks": [
+          "1",
+          "2"
+        ],
+        "Yellow cards": [
+          "1",
+          "2"
+        ],
+        "Shots off target": [
+          "7",
+          "3"
+        ]
+      }
+    },
+    {
+      "id": "baC3xx6d",
+      "date": "2025-10-05T14:00:00.000Z",
+      "round": "Round 6",
+      "homeTeam": "Teruel",
+      "awayTeam": "Hercules",
+      "homeScore": 2,
+      "awayScore": 1,
+      "htHome": 2,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "41%",
+          "59%"
+        ],
+        "Total shots": [
+          "6",
+          "7"
+        ],
+        "Shots on target": [
+          "4",
+          "4"
+        ],
+        "Corner kicks": [
+          "3",
+          "2"
+        ],
+        "Yellow cards": [
+          "2",
+          "1"
+        ],
+        "Shots off target": [
+          "2",
+          "3"
+        ]
+      }
+    },
+    {
+      "id": "8UXOqKDM",
+      "date": "2025-10-05T10:00:00.000Z",
+      "round": "Round 6",
+      "homeTeam": "Antequera",
+      "awayTeam": "Sabadell",
+      "homeScore": 0,
+      "awayScore": 0,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "55%",
+          "45%"
+        ],
+        "Total shots": [
+          "7",
+          "11"
+        ],
+        "Shots on target": [
+          "1",
+          "3"
+        ],
+        "Corner kicks": [
+          "11",
+          "3"
+        ],
+        "Yellow cards": [
+          "1",
+          "0"
+        ],
+        "Shots off target": [
+          "6",
+          "8"
+        ]
+      }
+    },
+    {
+      "id": "E7CkVKbT",
+      "date": "2025-10-04T16:30:00.000Z",
+      "round": "Round 6",
+      "homeTeam": "UD Ibiza",
+      "awayTeam": "Gimnastic",
+      "homeScore": 0,
+      "awayScore": 2,
+      "htHome": 0,
+      "htAway": 2,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "47%",
+          "53%"
+        ],
+        "Total shots": [
+          "24",
+          "9"
+        ],
+        "Shots on target": [
+          "10",
+          "6"
+        ],
+        "Corner kicks": [
+          "11",
+          "3"
+        ],
+        "Yellow cards": [
+          "0",
+          "3"
+        ],
+        "Shots off target": [
+          "14",
+          "3"
+        ]
+      }
+    },
+    {
+      "id": "pSKYY2a4",
+      "date": "2025-10-04T14:15:00.000Z",
+      "round": "Round 6",
+      "homeTeam": "Alcorcon",
+      "awayTeam": "Atletico Sanluqueno",
+      "homeScore": 0,
+      "awayScore": 0,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "41%",
+          "59%"
+        ],
+        "Total shots": [
+          "10",
+          "3"
+        ],
+        "Shots on target": [
+          "4",
+          "0"
+        ],
+        "Corner kicks": [
+          "2",
+          "1"
+        ],
+        "Yellow cards": [
+          "3",
+          "4"
+        ],
+        "Shots off target": [
+          "6",
+          "3"
+        ]
+      }
+    },
+    {
+      "id": "hhOtXtUG",
+      "date": "2025-10-04T14:15:00.000Z",
+      "round": "Round 6",
+      "homeTeam": "Eldense",
+      "awayTeam": "Juventud Torremolinos CF",
+      "homeScore": 3,
+      "awayScore": 3,
+      "htHome": 1,
+      "htAway": 2,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "35%",
+          "65%"
+        ],
+        "Total shots": [
+          "14",
+          "11"
+        ],
+        "Shots on target": [
+          "10",
+          "10"
+        ],
+        "Corner kicks": [
+          "6",
+          "3"
+        ],
+        "Yellow cards": [
+          "2",
+          "3"
+        ],
+        "Shots off target": [
+          "4",
+          "1"
+        ]
+      }
+    },
+    {
+      "id": "C2vGotqA",
+      "date": "2025-10-04T14:00:00.000Z",
+      "round": "Round 6",
+      "homeTeam": "CE Europa",
+      "awayTeam": "Marbella FC",
+      "homeScore": 2,
+      "awayScore": 1,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "40%",
+          "60%"
+        ],
+        "Total shots": [
+          "3",
+          "5"
+        ],
+        "Shots on target": [
+          "2",
+          "2"
+        ],
+        "Corner kicks": [
+          "3",
+          "7"
+        ],
+        "Yellow cards": [
+          "4",
+          "3"
+        ],
+        "Red cards": [
+          "1",
+          "1"
+        ],
+        "Shots off target": [
+          "1",
+          "3"
+        ]
+      }
+    },
+    {
+      "id": "Q54k0ub3",
+      "date": "2025-10-04T12:00:00.000Z",
+      "round": "Round 6",
+      "homeTeam": "Betis Deportivo",
+      "awayTeam": "Algeciras CF",
+      "homeScore": 1,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "50%",
+          "50%"
+        ],
+        "Total shots": [
+          "13",
+          "6"
+        ],
+        "Shots on target": [
+          "9",
+          "3"
+        ],
+        "Corner kicks": [
+          "2",
+          "2"
+        ],
+        "Yellow cards": [
+          "3",
+          "3"
+        ],
+        "Red cards": [
+          "0",
+          "1"
+        ],
+        "Shots off target": [
+          "4",
+          "3"
+        ]
+      }
+    },
+    {
+      "id": "OtbLPbMj",
+      "date": "2025-10-03T19:15:00.000Z",
+      "round": "Round 6",
+      "homeTeam": "Real Murcia",
+      "awayTeam": "Sevilla Atletico",
+      "homeScore": 1,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "53%",
+          "47%"
+        ],
+        "Total shots": [
+          "13",
+          "9"
+        ],
+        "Shots on target": [
+          "4",
+          "2"
+        ],
+        "Corner kicks": [
+          "5",
+          "4"
+        ],
+        "Yellow cards": [
+          "2",
+          "3"
+        ],
+        "Shots off target": [
+          "9",
+          "7"
+        ]
+      }
+    },
+    {
+      "id": "xpOfvbyp",
+      "date": "2025-10-03T17:00:00.000Z",
+      "round": "Round 6",
+      "homeTeam": "Villarreal B",
+      "awayTeam": "Atletico Madrid B",
+      "homeScore": 1,
+      "awayScore": 3,
+      "htHome": 1,
+      "htAway": 3,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "42%",
+          "58%"
+        ],
+        "Total shots": [
+          "15",
+          "14"
+        ],
+        "Shots on target": [
+          "6",
+          "10"
+        ],
+        "Corner kicks": [
+          "6",
+          "6"
+        ],
+        "Yellow cards": [
+          "4",
+          "2"
+        ],
+        "Shots off target": [
+          "9",
+          "4"
+        ]
+      }
+    },
+    {
+      "id": "2BPFMY9s",
+      "date": "2025-09-28T18:30:00.000Z",
+      "round": "Round 5",
+      "homeTeam": "Atletico Madrid B",
+      "awayTeam": "UD Ibiza",
+      "homeScore": 2,
+      "awayScore": 0,
+      "htHome": 2,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "54%",
+          "46%"
+        ],
+        "Total shots": [
+          "12",
+          "5"
+        ],
+        "Shots on target": [
+          "6",
+          "2"
+        ],
+        "Corner kicks": [
+          "3",
+          "12"
+        ],
+        "Yellow cards": [
+          "3",
+          "1"
+        ],
+        "Shots off target": [
+          "6",
+          "3"
+        ]
+      }
+    },
+    {
+      "id": "63MWIj96",
+      "date": "2025-09-28T16:15:00.000Z",
+      "round": "Round 5",
+      "homeTeam": "Algeciras CF",
+      "awayTeam": "Real Murcia",
+      "homeScore": 1,
+      "awayScore": 0,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "50%",
+          "50%"
+        ],
+        "Total shots": [
+          "0",
+          "0"
+        ],
+        "Shots on target": [
+          "0",
+          "0"
+        ],
+        "Corner kicks": [
+          "0",
+          "0"
+        ],
+        "Shots off target": [
+          "0",
+          "0"
+        ]
+      }
+    },
+    {
+      "id": "GYmqOoon",
+      "date": "2025-09-28T14:00:00.000Z",
+      "round": "Round 5",
+      "homeTeam": "Hercules",
+      "awayTeam": "Alcorcon",
+      "homeScore": 0,
+      "awayScore": 0,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "46%",
+          "54%"
+        ],
+        "Total shots": [
+          "5",
+          "5"
+        ],
+        "Shots on target": [
+          "0",
+          "2"
+        ],
+        "Corner kicks": [
+          "7",
+          "4"
+        ],
+        "Yellow cards": [
+          "2",
+          "5"
+        ],
+        "Shots off target": [
+          "5",
+          "3"
+        ]
+      }
+    },
+    {
+      "id": "pEu0K3pB",
+      "date": "2025-09-28T10:00:00.000Z",
+      "round": "Round 5",
+      "homeTeam": "Atletico Sanluqueno",
+      "awayTeam": "FC Cartagena",
+      "homeScore": 3,
+      "awayScore": 0,
+      "htHome": 3,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "53%",
+          "47%"
+        ],
+        "Total shots": [
+          "14",
+          "8"
+        ],
+        "Shots on target": [
+          "8",
+          "3"
+        ],
+        "Corner kicks": [
+          "5",
+          "4"
+        ],
+        "Yellow cards": [
+          "3",
+          "2"
+        ],
+        "Red cards": [
+          "0",
+          "1"
+        ],
+        "Shots off target": [
+          "6",
+          "5"
+        ]
+      }
+    },
+    {
+      "id": "vHKvHUwJ",
+      "date": "2025-09-28T10:00:00.000Z",
+      "round": "Round 5",
+      "homeTeam": "Sevilla Atletico",
+      "awayTeam": "SD Tarazona",
+      "homeScore": 0,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "59%",
+          "41%"
+        ],
+        "Total shots": [
+          "13",
+          "5"
+        ],
+        "Shots on target": [
+          "4",
+          "3"
+        ],
+        "Corner kicks": [
+          "7",
+          "3"
+        ],
+        "Yellow cards": [
+          "2",
+          "2"
+        ],
+        "Shots off target": [
+          "9",
+          "2"
+        ]
+      }
+    },
+    {
+      "id": "hvq8IsFN",
+      "date": "2025-09-28T10:00:00.000Z",
+      "round": "Round 5",
+      "homeTeam": "Teruel",
+      "awayTeam": "CE Europa",
+      "homeScore": 1,
+      "awayScore": 0,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "53%",
+          "47%"
+        ],
+        "Total shots": [
+          "9",
+          "6"
+        ],
+        "Shots on target": [
+          "5",
+          "1"
+        ],
+        "Corner kicks": [
+          "3",
+          "12"
+        ],
+        "Yellow cards": [
+          "4",
+          "0"
+        ],
+        "Shots off target": [
+          "4",
+          "5"
+        ]
+      }
+    },
+    {
+      "id": "ObiiMPFb",
+      "date": "2025-09-27T19:00:00.000Z",
+      "round": "Round 5",
+      "homeTeam": "Gimnastic",
+      "awayTeam": "Eldense",
+      "homeScore": 3,
+      "awayScore": 0,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "53%",
+          "47%"
+        ],
+        "Total shots": [
+          "8",
+          "7"
+        ],
+        "Shots on target": [
+          "6",
+          "3"
+        ],
+        "Corner kicks": [
+          "3",
+          "4"
+        ],
+        "Yellow cards": [
+          "2",
+          "2"
+        ],
+        "Shots off target": [
+          "2",
+          "4"
+        ]
+      }
+    },
+    {
+      "id": "l0RPzPUi",
+      "date": "2025-09-27T19:00:00.000Z",
+      "round": "Round 5",
+      "homeTeam": "Marbella FC",
+      "awayTeam": "Betis Deportivo",
+      "homeScore": 1,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "47%",
+          "53%"
+        ],
+        "Total shots": [
+          "12",
+          "4"
+        ],
+        "Shots on target": [
+          "6",
+          "2"
+        ],
+        "Corner kicks": [
+          "4",
+          "4"
+        ],
+        "Yellow cards": [
+          "5",
+          "5"
+        ],
+        "Shots off target": [
+          "6",
+          "2"
+        ]
+      }
+    },
+    {
+      "id": "AyTNKCvf",
+      "date": "2025-09-27T16:30:00.000Z",
+      "round": "Round 5",
+      "homeTeam": "Sabadell",
+      "awayTeam": "Villarreal B",
+      "homeScore": 1,
+      "awayScore": 0,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "50%",
+          "50%"
+        ],
+        "Total shots": [
+          "8",
+          "7"
+        ],
+        "Shots on target": [
+          "3",
+          "3"
+        ],
+        "Corner kicks": [
+          "9",
+          "6"
+        ],
+        "Yellow cards": [
+          "2",
+          "2"
+        ],
+        "Shots off target": [
+          "5",
+          "4"
+        ]
+      }
+    },
+    {
+      "id": "d6vvDLxo",
+      "date": "2025-09-27T14:15:00.000Z",
+      "round": "Round 5",
+      "homeTeam": "Juventud Torremolinos CF",
+      "awayTeam": "Antequera",
+      "homeScore": 1,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "46%",
+          "54%"
+        ],
+        "Total shots": [
+          "6",
+          "14"
+        ],
+        "Shots on target": [
+          "3",
+          "4"
+        ],
+        "Corner kicks": [
+          "5",
+          "3"
+        ],
+        "Yellow cards": [
+          "3",
+          "1"
+        ],
+        "Red cards": [
+          "1",
+          "0"
+        ],
+        "Shots off target": [
+          "3",
+          "10"
+        ]
+      }
+    },
+    {
+      "id": "Iq9hlu4F",
+      "date": "2025-09-24T15:00:00.000Z",
+      "round": "Round 3",
+      "homeTeam": "Sabadell",
+      "awayTeam": "FC Cartagena",
+      "homeScore": 0,
+      "awayScore": 0,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "57%",
+          "43%"
+        ],
+        "Total shots": [
+          "2",
+          "2"
+        ],
+        "Shots on target": [
+          "1",
+          "0"
+        ],
+        "Corner kicks": [
+          "3",
+          "1"
+        ],
+        "Yellow cards": [
+          "1",
+          "1"
+        ],
+        "Shots off target": [
+          "1",
+          "2"
+        ],
+        "Goalkeeper saves": [
+          "0",
+          "1"
+        ]
+      }
+    },
+    {
+      "id": "IwlqSfnK",
+      "date": "2025-09-21T18:30:00.000Z",
+      "round": "Round 4",
+      "homeTeam": "UD Ibiza",
+      "awayTeam": "Antequera",
+      "homeScore": 1,
+      "awayScore": 1,
+      "htHome": 1,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "45%",
+          "55%"
+        ],
+        "Total shots": [
+          "8",
+          "5"
+        ],
+        "Shots on target": [
+          "1",
+          "1"
+        ],
+        "Corner kicks": [
+          "4",
+          "0"
+        ],
+        "Yellow cards": [
+          "1",
+          "3"
+        ],
+        "Shots off target": [
+          "7",
+          "4"
+        ]
+      }
+    },
+    {
+      "id": "jDXFiEA7",
+      "date": "2025-09-21T16:15:00.000Z",
+      "round": "Round 4",
+      "homeTeam": "FC Cartagena",
+      "awayTeam": "Hercules",
+      "homeScore": 2,
+      "awayScore": 1,
+      "htHome": 1,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "48%",
+          "52%"
+        ],
+        "Total shots": [
+          "12",
+          "13"
+        ],
+        "Shots on target": [
+          "3",
+          "6"
+        ],
+        "Corner kicks": [
+          "5",
+          "7"
+        ],
+        "Yellow cards": [
+          "2",
+          "3"
+        ],
+        "Red cards": [
+          "0",
+          "1"
+        ],
+        "Shots off target": [
+          "9",
+          "7"
+        ]
+      }
+    },
+    {
+      "id": "OK4t8Zfl",
+      "date": "2025-09-21T16:15:00.000Z",
+      "round": "Round 4",
+      "homeTeam": "Atletico Sanluqueno",
+      "awayTeam": "Teruel",
+      "homeScore": 1,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "47%",
+          "53%"
+        ],
+        "Total shots": [
+          "17",
+          "3"
+        ],
+        "Shots on target": [
+          "6",
+          "1"
+        ],
+        "Corner kicks": [
+          "3",
+          "2"
+        ],
+        "Yellow cards": [
+          "3",
+          "4"
+        ],
+        "Red cards": [
+          "0",
+          "1"
+        ],
+        "Shots off target": [
+          "11",
+          "2"
+        ]
+      }
+    },
+    {
+      "id": "nLzaedBr",
+      "date": "2025-09-21T14:00:00.000Z",
+      "round": "Round 4",
+      "homeTeam": "Eldense",
+      "awayTeam": "Sevilla Atletico",
+      "homeScore": 1,
+      "awayScore": 0,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "44%",
+          "56%"
+        ],
+        "Total shots": [
+          "2",
+          "10"
+        ],
+        "Shots on target": [
+          "0",
+          "2"
+        ],
+        "Corner kicks": [
+          "4",
+          "3"
+        ],
+        "Yellow cards": [
+          "1",
+          "2"
+        ],
+        "Shots off target": [
+          "2",
+          "8"
+        ]
+      }
+    },
+    {
+      "id": "h0dc4ifD",
+      "date": "2025-09-21T10:00:00.000Z",
+      "round": "Round 4",
+      "homeTeam": "SD Tarazona",
+      "awayTeam": "Marbella FC",
+      "homeScore": 0,
+      "awayScore": 0,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "42%",
+          "58%"
+        ],
+        "Total shots": [
+          "7",
+          "12"
+        ],
+        "Shots on target": [
+          "4",
+          "7"
+        ],
+        "Corner kicks": [
+          "4",
+          "4"
+        ],
+        "Yellow cards": [
+          "6",
+          "2"
+        ],
+        "Shots off target": [
+          "3",
+          "5"
+        ]
+      }
+    },
+    {
+      "id": "W8A2FH2E",
+      "date": "2025-09-20T19:00:00.000Z",
+      "round": "Round 4",
+      "homeTeam": "CE Europa",
+      "awayTeam": "Gimnastic",
+      "homeScore": 2,
+      "awayScore": 0,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "44%",
+          "56%"
+        ],
+        "Total shots": [
+          "11",
+          "7"
+        ],
+        "Shots on target": [
+          "6",
+          "4"
+        ],
+        "Corner kicks": [
+          "8",
+          "2"
+        ],
+        "Yellow cards": [
+          "2",
+          "3"
+        ],
+        "Shots off target": [
+          "5",
+          "3"
+        ]
+      }
+    },
+    {
+      "id": "jkkT0ImL",
+      "date": "2025-09-20T16:30:00.000Z",
+      "round": "Round 4",
+      "homeTeam": "Alcorcon",
+      "awayTeam": "Juventud Torremolinos CF",
+      "homeScore": 1,
+      "awayScore": 1,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "53%",
+          "47%"
+        ],
+        "Total shots": [
+          "7",
+          "5"
+        ],
+        "Shots on target": [
+          "4",
+          "2"
+        ],
+        "Corner kicks": [
+          "3",
+          "6"
+        ],
+        "Yellow cards": [
+          "1",
+          "1"
+        ],
+        "Shots off target": [
+          "3",
+          "3"
+        ]
+      }
+    },
+    {
+      "id": "4zO9DeXQ",
+      "date": "2025-09-20T14:15:00.000Z",
+      "round": "Round 4",
+      "homeTeam": "Algeciras CF",
+      "awayTeam": "Sabadell",
+      "homeScore": 1,
+      "awayScore": 2,
+      "htHome": 0,
+      "htAway": 2,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "54%",
+          "46%"
+        ],
+        "Total shots": [
+          "5",
+          "4"
+        ],
+        "Shots on target": [
+          "0",
+          "2"
+        ],
+        "Corner kicks": [
+          "3",
+          "4"
+        ],
+        "Yellow cards": [
+          "5",
+          "6"
+        ],
+        "Red cards": [
+          "1",
+          "2"
+        ],
+        "Shots off target": [
+          "5",
+          "2"
+        ]
+      }
+    },
+    {
+      "id": "dY2l6DP0",
+      "date": "2025-09-20T10:00:00.000Z",
+      "round": "Round 4",
+      "homeTeam": "Betis Deportivo",
+      "awayTeam": "Atletico Madrid B",
+      "homeScore": 0,
+      "awayScore": 2,
+      "htHome": 0,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "42%",
+          "58%"
+        ],
+        "Total shots": [
+          "6",
+          "5"
+        ],
+        "Shots on target": [
+          "3",
+          "1"
+        ],
+        "Corner kicks": [
+          "4",
+          "3"
+        ],
+        "Yellow cards": [
+          "3",
+          "5"
+        ],
+        "Red cards": [
+          "1",
+          "0"
+        ],
+        "Shots off target": [
+          "3",
+          "4"
+        ]
+      }
+    },
+    {
+      "id": "rmU7gzte",
+      "date": "2025-09-19T19:30:00.000Z",
+      "round": "Round 4",
+      "homeTeam": "Real Murcia",
+      "awayTeam": "Villarreal B",
+      "homeScore": 1,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "52%",
+          "48%"
+        ],
+        "Total shots": [
+          "0",
+          "0"
+        ],
+        "Shots on target": [
+          "0",
+          "0"
+        ],
+        "Corner kicks": [
+          "0",
+          "0"
+        ],
+        "Yellow cards": [
+          "1",
+          "3"
+        ],
+        "Shots off target": [
+          "0",
+          "0"
+        ]
+      }
+    },
+    {
+      "id": "8Y7C4uXb",
+      "date": "2025-09-14T10:00:00.000Z",
+      "round": "Round 3",
+      "homeTeam": "Atletico Madrid B",
+      "awayTeam": "Real Murcia",
+      "homeScore": 1,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "54%",
+          "46%"
+        ],
+        "Total shots": [
+          "15",
+          "9"
+        ],
+        "Shots on target": [
+          "6",
+          "5"
+        ],
+        "Corner kicks": [
+          "5",
+          "3"
+        ],
+        "Yellow cards": [
+          "5",
+          "1"
+        ],
+        "Shots off target": [
+          "9",
+          "4"
+        ],
+        "Goalkeeper saves": [
+          "4",
+          "5"
+        ]
+      }
+    },
+    {
+      "id": "xnPgnJYR",
+      "date": "2025-09-14T10:00:00.000Z",
+      "round": "Round 3",
+      "homeTeam": "Juventud Torremolinos CF",
+      "awayTeam": "SD Tarazona",
+      "homeScore": 2,
+      "awayScore": 1,
+      "htHome": 1,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "58%",
+          "42%"
+        ],
+        "Total shots": [
+          "16",
+          "4"
+        ],
+        "Shots on target": [
+          "3",
+          "3"
+        ],
+        "Corner kicks": [
+          "3",
+          "5"
+        ],
+        "Yellow cards": [
+          "2",
+          "3"
+        ],
+        "Shots off target": [
+          "13",
+          "1"
+        ],
+        "Goalkeeper saves": [
+          "2",
+          "1"
+        ]
+      }
+    },
+    {
+      "id": "KUxhpBop",
+      "date": "2025-09-13T19:00:00.000Z",
+      "round": "Round 3",
+      "homeTeam": "Antequera",
+      "awayTeam": "Alcorcon",
+      "homeScore": 1,
+      "awayScore": 2,
+      "htHome": 0,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "50%",
+          "50%"
+        ],
+        "Total shots": [
+          "0",
+          "0"
+        ],
+        "Shots on target": [
+          "0",
+          "0"
+        ],
+        "Corner kicks": [
+          "0",
+          "0"
+        ],
+        "Shots off target": [
+          "0",
+          "0"
+        ],
+        "Goalkeeper saves": [
+          "0",
+          "0"
+        ]
+      }
+    },
+    {
+      "id": "djdK2vJ8",
+      "date": "2025-09-13T19:00:00.000Z",
+      "round": "Round 3",
+      "homeTeam": "Sevilla Atletico",
+      "awayTeam": "Betis Deportivo",
+      "homeScore": 1,
+      "awayScore": 0,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "50%",
+          "50%"
+        ],
+        "Total shots": [
+          "7",
+          "4"
+        ],
+        "Shots on target": [
+          "3",
+          "2"
+        ],
+        "Corner kicks": [
+          "5",
+          "5"
+        ],
+        "Yellow cards": [
+          "1",
+          "5"
+        ],
+        "Red cards": [
+          "0",
+          "1"
+        ],
+        "Shots off target": [
+          "4",
+          "2"
+        ],
+        "Goalkeeper saves": [
+          "2",
+          "2"
+        ]
+      }
+    },
+    {
+      "id": "0tQJ2J1B",
+      "date": "2025-09-13T16:30:00.000Z",
+      "round": "Round 3",
+      "homeTeam": "Gimnastic",
+      "awayTeam": "Atletico Sanluqueno",
+      "homeScore": 1,
+      "awayScore": 3,
+      "htHome": 0,
+      "htAway": 2,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "50%",
+          "50%"
+        ],
+        "Total shots": [
+          "6",
+          "11"
+        ],
+        "Shots on target": [
+          "2",
+          "8"
+        ],
+        "Corner kicks": [
+          "7",
+          "4"
+        ],
+        "Yellow cards": [
+          "4",
+          "3"
+        ],
+        "Red cards": [
+          "2",
+          "0"
+        ],
+        "Shots off target": [
+          "4",
+          "3"
+        ],
+        "Goalkeeper saves": [
+          "5",
+          "1"
+        ]
+      }
+    },
+    {
+      "id": "pWApj1Z2",
+      "date": "2025-09-13T14:15:00.000Z",
+      "round": "Round 3",
+      "homeTeam": "Marbella FC",
+      "awayTeam": "UD Ibiza",
+      "homeScore": 1,
+      "awayScore": 1,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "49%",
+          "51%"
+        ],
+        "Total shots": [
+          "5",
+          "9"
+        ],
+        "Shots on target": [
+          "2",
+          "3"
+        ],
+        "Corner kicks": [
+          "2",
+          "7"
+        ],
+        "Yellow cards": [
+          "1",
+          "3"
+        ],
+        "Shots off target": [
+          "3",
+          "6"
+        ],
+        "Goalkeeper saves": [
+          "2",
+          "1"
+        ]
+      }
+    },
+    {
+      "id": "Sft0rkGd",
+      "date": "2025-09-13T14:15:00.000Z",
+      "round": "Round 3",
+      "homeTeam": "Teruel",
+      "awayTeam": "Eldense",
+      "homeScore": 1,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "45%",
+          "55%"
+        ],
+        "Total shots": [
+          "12",
+          "3"
+        ],
+        "Shots on target": [
+          "5",
+          "2"
+        ],
+        "Corner kicks": [
+          "3",
+          "4"
+        ],
+        "Yellow cards": [
+          "3",
+          "1"
+        ],
+        "Shots off target": [
+          "7",
+          "1"
+        ],
+        "Goalkeeper saves": [
+          "1",
+          "4"
+        ]
+      }
+    },
+    {
+      "id": "8UFPtcdk",
+      "date": "2025-09-13T14:15:00.000Z",
+      "round": "Round 3",
+      "homeTeam": "Villarreal B",
+      "awayTeam": "CE Europa",
+      "homeScore": 3,
+      "awayScore": 3,
+      "htHome": 0,
+      "htAway": 2,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "55%",
+          "45%"
+        ],
+        "Total shots": [
+          "10",
+          "11"
+        ],
+        "Shots on target": [
+          "8",
+          "10"
+        ],
+        "Corner kicks": [
+          "7",
+          "12"
+        ],
+        "Yellow cards": [
+          "2",
+          "2"
+        ],
+        "Red cards": [
+          "0",
+          "1"
+        ],
+        "Shots off target": [
+          "2",
+          "1"
+        ],
+        "Goalkeeper saves": [
+          "7",
+          "5"
+        ]
+      }
+    },
+    {
+      "id": "djdK2vJ8",
+      "date": "2025-09-13T19:00:00.000Z",
+      "round": "Round 3",
+      "homeTeam": "Sevilla Atletico",
+      "awayTeam": "Betis Deportivo",
+      "homeScore": 1,
+      "awayScore": 0,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "50%",
+          "50%"
+        ],
+        "Total shots": [
+          "7",
+          "4"
+        ],
+        "Shots on target": [
+          "3",
+          "2"
+        ],
+        "Corner kicks": [
+          "5",
+          "5"
+        ],
+        "Yellow cards": [
+          "1",
+          "5"
+        ],
+        "Red cards": [
+          "0",
+          "1"
+        ],
+        "Shots off target": [
+          "4",
+          "2"
+        ],
+        "Goalkeeper saves": [
+          "2",
+          "2"
+        ]
+      }
+    },
+    {
+      "id": "0tQJ2J1B",
+      "date": "2025-09-13T16:30:00.000Z",
+      "round": "Round 3",
+      "homeTeam": "Gimnastic",
+      "awayTeam": "Atletico Sanluqueno",
+      "homeScore": 1,
+      "awayScore": 3,
+      "htHome": 0,
+      "htAway": 2,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "50%",
+          "50%"
+        ],
+        "Total shots": [
+          "6",
+          "11"
+        ],
+        "Shots on target": [
+          "2",
+          "8"
+        ],
+        "Corner kicks": [
+          "7",
+          "4"
+        ],
+        "Yellow cards": [
+          "4",
+          "3"
+        ],
+        "Red cards": [
+          "2",
+          "0"
+        ],
+        "Shots off target": [
+          "4",
+          "3"
+        ],
+        "Goalkeeper saves": [
+          "5",
+          "1"
+        ]
+      }
+    },
+    {
+      "id": "pWApj1Z2",
+      "date": "2025-09-13T14:15:00.000Z",
+      "round": "Round 3",
+      "homeTeam": "Marbella FC",
+      "awayTeam": "UD Ibiza",
+      "homeScore": 1,
+      "awayScore": 1,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "49%",
+          "51%"
+        ],
+        "Total shots": [
+          "5",
+          "9"
+        ],
+        "Shots on target": [
+          "2",
+          "3"
+        ],
+        "Corner kicks": [
+          "2",
+          "7"
+        ],
+        "Yellow cards": [
+          "1",
+          "3"
+        ],
+        "Shots off target": [
+          "3",
+          "6"
+        ],
+        "Goalkeeper saves": [
+          "2",
+          "1"
+        ]
+      }
+    },
+    {
+      "id": "Sft0rkGd",
+      "date": "2025-09-13T14:15:00.000Z",
+      "round": "Round 3",
+      "homeTeam": "Teruel",
+      "awayTeam": "Eldense",
+      "homeScore": 1,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "45%",
+          "55%"
+        ],
+        "Total shots": [
+          "12",
+          "3"
+        ],
+        "Shots on target": [
+          "5",
+          "2"
+        ],
+        "Corner kicks": [
+          "3",
+          "4"
+        ],
+        "Yellow cards": [
+          "3",
+          "1"
+        ],
+        "Shots off target": [
+          "7",
+          "1"
+        ],
+        "Goalkeeper saves": [
+          "1",
+          "4"
+        ]
+      }
+    },
+    {
+      "id": "8UFPtcdk",
+      "date": "2025-09-13T14:15:00.000Z",
+      "round": "Round 3",
+      "homeTeam": "Villarreal B",
+      "awayTeam": "CE Europa",
+      "homeScore": 3,
+      "awayScore": 3,
+      "htHome": 0,
+      "htAway": 2,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "55%",
+          "45%"
+        ],
+        "Total shots": [
+          "10",
+          "11"
+        ],
+        "Shots on target": [
+          "8",
+          "10"
+        ],
+        "Corner kicks": [
+          "7",
+          "12"
+        ],
+        "Yellow cards": [
+          "2",
+          "2"
+        ],
+        "Red cards": [
+          "0",
+          "1"
+        ],
+        "Shots off target": [
+          "2",
+          "1"
+        ],
+        "Goalkeeper saves": [
+          "7",
+          "5"
+        ]
+      }
+    },
+    {
+      "id": "Uq4YvyR1",
+      "date": "2025-09-12T17:15:00.000Z",
+      "round": "Round 3",
+      "homeTeam": "Hercules",
+      "awayTeam": "Algeciras CF",
+      "homeScore": 0,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "47%",
+          "53%"
+        ],
+        "Total shots": [
+          "6",
+          "11"
+        ],
+        "Shots on target": [
+          "3",
+          "7"
+        ],
+        "Corner kicks": [
+          "3",
+          "9"
+        ],
+        "Yellow cards": [
+          "3",
+          "5"
+        ],
+        "Red cards": [
+          "1",
+          "1"
+        ],
+        "Shots off target": [
+          "3",
+          "4"
+        ],
+        "Goalkeeper saves": [
+          "6",
+          "3"
+        ]
+      }
+    },
+    {
+      "id": "YiR3ys3C",
+      "date": "2025-09-07T16:15:00.000Z",
+      "round": "Round 2",
+      "homeTeam": "Real Murcia",
+      "awayTeam": "Juventud Torremolinos CF",
+      "homeScore": 1,
+      "awayScore": 0,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "55%",
+          "45%"
+        ],
+        "Total shots": [
+          "12",
+          "4"
+        ],
+        "Shots on target": [
+          "7",
+          "1"
+        ],
+        "Corner kicks": [
+          "11",
+          "5"
+        ],
+        "Yellow cards": [
+          "2",
+          "2"
+        ],
+        "Shots off target": [
+          "5",
+          "3"
+        ],
+        "Goalkeeper saves": [
+          "1",
+          "6"
+        ]
+      }
+    },
+    {
+      "id": "dfvfnbHU",
+      "date": "2025-09-07T16:15:00.000Z",
+      "round": "Round 2",
+      "homeTeam": "Atletico Sanluqueno",
+      "awayTeam": "Sabadell",
+      "homeScore": 2,
+      "awayScore": 2,
+      "htHome": 0,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "51%",
+          "49%"
+        ],
+        "Total shots": [
+          "15",
+          "8"
+        ],
+        "Shots on target": [
+          "12",
+          "3"
+        ],
+        "Corner kicks": [
+          "10",
+          "3"
+        ],
+        "Yellow cards": [
+          "2",
+          "5"
+        ],
+        "Red cards": [
+          "1",
+          "1"
+        ],
+        "Shots off target": [
+          "3",
+          "5"
+        ],
+        "Goalkeeper saves": [
+          "1",
+          "10"
+        ]
+      }
+    },
+    {
+      "id": "pWfMgOIt",
+      "date": "2025-09-07T10:00:00.000Z",
+      "round": "Round 2",
+      "homeTeam": "Algeciras CF",
+      "awayTeam": "Marbella FC",
+      "homeScore": 0,
+      "awayScore": 0,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "57%",
+          "43%"
+        ],
+        "Total shots": [
+          "8",
+          "4"
+        ],
+        "Shots on target": [
+          "3",
+          "2"
+        ],
+        "Corner kicks": [
+          "5",
+          "2"
+        ],
+        "Yellow cards": [
+          "1",
+          "2"
+        ],
+        "Shots off target": [
+          "5",
+          "2"
+        ],
+        "Goalkeeper saves": [
+          "2",
+          "3"
+        ]
+      }
+    },
+    {
+      "id": "C6E3612n",
+      "date": "2025-09-07T10:00:00.000Z",
+      "round": "Round 2",
+      "homeTeam": "SD Tarazona",
+      "awayTeam": "Antequera",
+      "homeScore": 1,
+      "awayScore": 0,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "52%",
+          "48%"
+        ],
+        "Total shots": [
+          "10",
+          "6"
+        ],
+        "Shots on target": [
+          "6",
+          "3"
+        ],
+        "Corner kicks": [
+          "5",
+          "6"
+        ],
+        "Yellow cards": [
+          "2",
+          "1"
+        ],
+        "Shots off target": [
+          "4",
+          "3"
+        ],
+        "Goalkeeper saves": [
+          "3",
+          "5"
+        ]
+      }
+    },
+    {
+      "id": "0SpolKnI",
+      "date": "2025-09-06T19:15:00.000Z",
+      "round": "Round 2",
+      "homeTeam": "UD Ibiza",
+      "awayTeam": "Hercules",
+      "homeScore": 2,
+      "awayScore": 1,
+      "htHome": 2,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "54%",
+          "46%"
+        ],
+        "Total shots": [
+          "5",
+          "7"
+        ],
+        "Shots on target": [
+          "3",
+          "5"
+        ],
+        "Corner kicks": [
+          "2",
+          "5"
+        ],
+        "Yellow cards": [
+          "3",
+          "2"
+        ],
+        "Shots off target": [
+          "2",
+          "2"
+        ],
+        "Goalkeeper saves": [
+          "4",
+          "1"
+        ]
+      }
+    },
+    {
+      "id": "65PBZKXO",
+      "date": "2025-09-06T17:00:00.000Z",
+      "round": "Round 2",
+      "homeTeam": "CE Europa",
+      "awayTeam": "Sevilla Atletico",
+      "homeScore": 1,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "60%",
+          "40%"
+        ],
+        "Total shots": [
+          "15",
+          "5"
+        ],
+        "Shots on target": [
+          "8",
+          "2"
+        ],
+        "Corner kicks": [
+          "4",
+          "6"
+        ],
+        "Yellow cards": [
+          "0",
+          "3"
+        ],
+        "Shots off target": [
+          "7",
+          "3"
+        ],
+        "Goalkeeper saves": [
+          "1",
+          "7"
+        ]
+      }
+    },
+    {
+      "id": "WSUnuP3m",
+      "date": "2025-09-06T14:00:00.000Z",
+      "round": "Round 2",
+      "homeTeam": "Alcorcon",
+      "awayTeam": "Teruel",
+      "homeScore": 2,
+      "awayScore": 1,
+      "htHome": 1,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "57%",
+          "43%"
+        ],
+        "Total shots": [
+          "10",
+          "4"
+        ],
+        "Shots on target": [
+          "5",
+          "1"
+        ],
+        "Corner kicks": [
+          "7",
+          "1"
+        ],
+        "Yellow cards": [
+          "2",
+          "4"
+        ],
+        "Shots off target": [
+          "5",
+          "3"
+        ],
+        "Goalkeeper saves": [
+          "0",
+          "3"
+        ]
+      }
+    },
+    {
+      "id": "vgYfw3Ya",
+      "date": "2025-09-06T10:00:00.000Z",
+      "round": "Round 2",
+      "homeTeam": "Eldense",
+      "awayTeam": "Villarreal B",
+      "homeScore": 1,
+      "awayScore": 0,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "42%",
+          "58%"
+        ],
+        "Total shots": [
+          "7",
+          "7"
+        ],
+        "Shots on target": [
+          "5",
+          "3"
+        ],
+        "Corner kicks": [
+          "11",
+          "6"
+        ],
+        "Yellow cards": [
+          "2",
+          "2"
+        ],
+        "Shots off target": [
+          "2",
+          "4"
+        ],
+        "Goalkeeper saves": [
+          "3",
+          "4"
+        ]
+      }
+    },
+    {
+      "id": "EBnwjtI5",
+      "date": "2025-09-05T19:30:00.000Z",
+      "round": "Round 2",
+      "homeTeam": "FC Cartagena",
+      "awayTeam": "Atletico Madrid B",
+      "homeScore": 3,
+      "awayScore": 2,
+      "htHome": 1,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "59%",
+          "41%"
+        ],
+        "Total shots": [
+          "14",
+          "8"
+        ],
+        "Shots on target": [
+          "10",
+          "7"
+        ],
+        "Corner kicks": [
+          "8",
+          "3"
+        ],
+        "Yellow cards": [
+          "4",
+          "4"
+        ],
+        "Shots off target": [
+          "4",
+          "1"
+        ],
+        "Goalkeeper saves": [
+          "5",
+          "7"
+        ]
+      }
+    },
+    {
+      "id": "hdbUi2mg",
+      "date": "2025-09-05T17:15:00.000Z",
+      "round": "Round 2",
+      "homeTeam": "Betis Deportivo",
+      "awayTeam": "Gimnastic",
+      "homeScore": 2,
+      "awayScore": 2,
+      "htHome": 2,
+      "htAway": 2,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "58%",
+          "42%"
+        ],
+        "Total shots": [
+          "14",
+          "9"
+        ],
+        "Shots on target": [
+          "7",
+          "5"
+        ],
+        "Corner kicks": [
+          "2",
+          "0"
+        ],
+        "Yellow cards": [
+          "1",
+          "1"
+        ],
+        "Shots off target": [
+          "7",
+          "4"
+        ],
+        "Goalkeeper saves": [
+          "3",
+          "5"
+        ]
+      }
+    },
+    {
+      "id": "S8apiZ55",
+      "date": "2025-09-01T19:30:00.000Z",
+      "round": "Round 1",
+      "homeTeam": "Marbella FC",
+      "awayTeam": "Real Murcia",
+      "homeScore": 2,
+      "awayScore": 1,
+      "htHome": 1,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "51%",
+          "49%"
+        ],
+        "Total shots": [
+          "6",
+          "7"
+        ],
+        "Shots on target": [
+          "3",
+          "4"
+        ],
+        "Corner kicks": [
+          "6",
+          "5"
+        ],
+        "Yellow cards": [
+          "3",
+          "4"
+        ],
+        "Shots off target": [
+          "3",
+          "3"
+        ],
+        "Goalkeeper saves": [
+          "3",
+          "1"
+        ]
+      }
+    },
+    {
+      "id": "OG2TfH6t",
+      "date": "2025-09-01T17:30:00.000Z",
+      "round": "Round 1",
+      "homeTeam": "Atletico Madrid B",
+      "awayTeam": "Atletico Sanluqueno",
+      "homeScore": 0,
+      "awayScore": 0,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "60%",
+          "40%"
+        ],
+        "Total shots": [
+          "7",
+          "11"
+        ],
+        "Shots on target": [
+          "2",
+          "3"
+        ],
+        "Corner kicks": [
+          "3",
+          "4"
+        ],
+        "Yellow cards": [
+          "1",
+          "1"
+        ],
+        "Red cards": [
+          "0",
+          "1"
+        ],
+        "Shots off target": [
+          "5",
+          "8"
+        ],
+        "Goalkeeper saves": [
+          "3",
+          "2"
+        ]
+      }
+    },
+    {
+      "id": "KODgmi5U",
+      "date": "2025-09-01T17:30:00.000Z",
+      "round": "Round 1",
+      "homeTeam": "Villarreal B",
+      "awayTeam": "Alcorcon",
+      "homeScore": 1,
+      "awayScore": 0,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "51%",
+          "49%"
+        ],
+        "Total shots": [
+          "10",
+          "7"
+        ],
+        "Shots on target": [
+          "6",
+          "3"
+        ],
+        "Corner kicks": [
+          "5",
+          "1"
+        ],
+        "Yellow cards": [
+          "2",
+          "1"
+        ],
+        "Shots off target": [
+          "4",
+          "4"
+        ],
+        "Goalkeeper saves": [
+          "3",
+          "5"
+        ]
+      }
+    },
+    {
+      "id": "0MchkDzI",
+      "date": "2025-08-31T17:30:00.000Z",
+      "round": "Round 1",
+      "homeTeam": "Antequera",
+      "awayTeam": "FC Cartagena",
+      "homeScore": 0,
+      "awayScore": 0,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "46%",
+          "54%"
+        ],
+        "Total shots": [
+          "9",
+          "5"
+        ],
+        "Shots on target": [
+          "4",
+          "2"
+        ],
+        "Corner kicks": [
+          "7",
+          "5"
+        ],
+        "Yellow cards": [
+          "2",
+          "2"
+        ],
+        "Shots off target": [
+          "5",
+          "3"
+        ],
+        "Goalkeeper saves": [
+          "2",
+          "4"
+        ]
+      }
+    },
+    {
+      "id": "4E00qr4d",
+      "date": "2025-08-31T15:00:00.000Z",
+      "round": "Round 1",
+      "homeTeam": "Teruel",
+      "awayTeam": "Betis Deportivo",
+      "homeScore": 0,
+      "awayScore": 0,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "53%",
+          "47%"
+        ],
+        "Total shots": [
+          "4",
+          "5"
+        ],
+        "Shots on target": [
+          "1",
+          "3"
+        ],
+        "Corner kicks": [
+          "5",
+          "5"
+        ],
+        "Yellow cards": [
+          "0",
+          "4"
+        ],
+        "Shots off target": [
+          "3",
+          "2"
+        ],
+        "Goalkeeper saves": [
+          "3",
+          "1"
+        ]
+      }
+    },
+    {
+      "id": "Wt6ygeyg",
+      "date": "2025-08-30T19:30:00.000Z",
+      "round": "Round 1",
+      "homeTeam": "Hercules",
+      "awayTeam": "SD Tarazona",
+      "homeScore": 1,
+      "awayScore": 0,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "56%",
+          "44%"
+        ],
+        "Total shots": [
+          "10",
+          "5"
+        ],
+        "Shots on target": [
+          "5",
+          "0"
+        ],
+        "Corner kicks": [
+          "9",
+          "5"
+        ],
+        "Yellow cards": [
+          "2",
+          "2"
+        ],
+        "Shots off target": [
+          "5",
+          "5"
+        ]
+      }
+    },
+    {
+      "id": "W2sC5YKb",
+      "date": "2025-08-30T19:30:00.000Z",
+      "round": "Round 1",
+      "homeTeam": "Sevilla Atletico",
+      "awayTeam": "UD Ibiza",
+      "homeScore": 1,
+      "awayScore": 2,
+      "htHome": 0,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "48%",
+          "52%"
+        ],
+        "Total shots": [
+          "6",
+          "9"
+        ],
+        "Shots on target": [
+          "3",
+          "5"
+        ],
+        "Corner kicks": [
+          "3",
+          "4"
+        ],
+        "Yellow cards": [
+          "1",
+          "2"
+        ],
+        "Shots off target": [
+          "3",
+          "4"
+        ]
+      }
+    },
+    {
+      "id": "vTpK3CkB",
+      "date": "2025-08-30T17:30:00.000Z",
+      "round": "Round 1",
+      "homeTeam": "Juventud Torremolinos CF",
+      "awayTeam": "CE Europa",
+      "homeScore": 0,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "46%",
+          "54%"
+        ],
+        "Total shots": [
+          "7",
+          "8"
+        ],
+        "Shots on target": [
+          "5",
+          "3"
+        ],
+        "Corner kicks": [
+          "3",
+          "5"
+        ],
+        "Yellow cards": [
+          "2",
+          "5"
+        ],
+        "Red cards": [
+          "2",
+          "1"
+        ],
+        "Shots off target": [
+          "2",
+          "5"
+        ]
+      }
+    },
+    {
+      "id": "Amg37fjn",
+      "date": "2025-08-30T17:15:00.000Z",
+      "round": "Round 1",
+      "homeTeam": "Sabadell",
+      "awayTeam": "Eldense",
+      "homeScore": 0,
+      "awayScore": 0,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "50%",
+          "50%"
+        ],
+        "Total shots": [
+          "9",
+          "4"
+        ],
+        "Shots on target": [
+          "4",
+          "1"
+        ],
+        "Corner kicks": [
+          "4",
+          "3"
+        ],
+        "Yellow cards": [
+          "3",
+          "3"
+        ],
+        "Red cards": [
+          "0",
+          "1"
+        ],
+        "Shots off target": [
+          "5",
+          "3"
+        ]
+      }
+    },
+    {
+      "id": "W02ho4Zq",
+      "date": "2025-08-29T19:30:00.000Z",
+      "round": "Round 1",
+      "homeTeam": "Gimnastic",
+      "awayTeam": "Algeciras CF",
+      "homeScore": 2,
+      "awayScore": 1,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "52%",
+          "48%"
+        ],
+        "Total shots": [
+          "6",
+          "9"
+        ],
+        "Shots on target": [
+          "3",
+          "4"
+        ],
+        "Corner kicks": [
+          "3",
+          "5"
+        ],
+        "Yellow cards": [
+          "3",
+          "2"
+        ],
+        "Shots off target": [
+          "3",
+          "5"
+        ]
+      }
+    }
+  ]
+}

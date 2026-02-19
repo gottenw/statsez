@@ -1,0 +1,178 @@
+@import "tailwindcss";
+
+:root {
+  --background: #0a0a0a;
+  --foreground: #fafafa;
+  --muted: #737373;
+  --muted-foreground: #a3a3a3;
+  --border: #262626;
+  --grid-line: #1a1a1a;
+  --accent: #e5e5e5;
+}
+
+@theme {
+  --color-background: #0a0a0a;
+  --color-foreground: #fafafa;
+  --color-muted: #737373;
+  --color-muted-foreground: #a3a3a3;
+  --color-border: #262626;
+  --color-grid-line: #1a1a1a;
+  --color-accent: #e5e5e5;
+  --color-accent-foreground: #0a0a0a;
+  --color-data-primary: #00ff88;
+  --color-data-secondary: #0088ff;
+  --color-data-tertiary: #ff0055;
+  --color-data-quaternary: #ffaa00;
+  
+  --font-sans: var(--font-inter-tight), system-ui, sans-serif;
+  --font-mono: var(--font-jetbrains-mono), monospace;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  background-color: var(--background);
+  color: var(--foreground);
+  font-feature-settings: "ss01", "ss02", "cv01";
+}
+
+::selection {
+  background-color: var(--foreground);
+  color: var(--background);
+}
+
+/* Grid System */
+.grid-system {
+  background-image: 
+    linear-gradient(to right, var(--grid-line) 1px, transparent 1px),
+    linear-gradient(to bottom, var(--grid-line) 1px, transparent 1px);
+  background-size: 80px 80px;
+}
+
+.grid-system-fine {
+  background-image: 
+    linear-gradient(to right, rgba(26, 26, 26, 0.5) 1px, transparent 1px),
+    linear-gradient(to bottom, rgba(26, 26, 26, 0.5) 1px, transparent 1px);
+  background-size: 20px 20px;
+}
+
+/* Borders */
+.border-border {
+  border-color: var(--border);
+}
+
+.bg-border {
+  background-color: var(--border);
+}
+
+.bg-foreground {
+  background-color: var(--foreground);
+}
+
+.bg-background {
+  background-color: var(--background);
+}
+
+.text-muted {
+  color: var(--muted);
+}
+
+.text-muted-foreground {
+  color: var(--muted-foreground);
+}
+
+.text-foreground {
+  color: var(--foreground);
+}
+
+.text-background {
+  color: var(--background);
+}
+
+/* Data Labels */
+.data-label {
+  font-family: var(--font-jetbrains-mono), monospace;
+  font-size: 0.75rem;
+  text-transform: uppercase;
+  letter-spacing: 0.1em;
+  color: var(--muted-foreground);
+}
+
+.data-value {
+  font-family: var(--font-jetbrains-mono), monospace;
+  font-size: 0.875rem;
+  font-variant-numeric: tabular-nums;
+}
+
+/* Typography */
+.display-text {
+  font-size: clamp(3rem, 15vw, 12rem);
+  line-height: 0.85;
+  letter-spacing: -0.04em;
+  font-weight: 500;
+}
+
+.headline-text {
+  font-size: clamp(2rem, 8vw, 6rem);
+  line-height: 0.9;
+  letter-spacing: -0.03em;
+  font-weight: 500;
+}
+
+.subhead-text {
+  font-size: clamp(1rem, 3vw, 1.5rem);
+  line-height: 1.2;
+  letter-spacing: -0.02em;
+}
+
+/* Section Padding */
+.section-padding {
+  padding-left: 1.5rem;
+  padding-right: 1.5rem;
+}
+
+@media (min-width: 768px) {
+  .section-padding {
+    padding-left: 3rem;
+    padding-right: 3rem;
+  }
+}
+
+@media (min-width: 1024px) {
+  .section-padding {
+    padding-left: 5rem;
+    padding-right: 5rem;
+  }
+}
+
+/* Utilities */
+.no-scrollbar::-webkit-scrollbar {
+  display: none;
+}
+
+.no-scrollbar {
+  -ms-overflow-style: none;
+  scrollbar-width: none;
+}
+
+.bg-data-primary {
+  background-color: #00ff88;
+}
+
+/* Animation */
+@keyframes pulse {
+  0%, 100% { opacity: 1; }
+  50% { opacity: 0.5; }
+}
+
+.animate-pulse {
+  animation: pulse 2s cubic-bezier(0.4, 0, 0.6, 1) infinite;
+}

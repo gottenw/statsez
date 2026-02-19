@@ -1,0 +1,2237 @@
+{
+  "league": "League One",
+  "country": "scotland",
+  "season": "2025-2026",
+  "collectedAt": "2026-02-10T18:24:08.658Z",
+  "totalMatches": 121,
+  "matches": [
+    {
+      "id": "xvwXZxFk",
+      "date": "2026-02-07T15:00:00.000Z",
+      "round": "Round 24",
+      "homeTeam": "Cove Rangers",
+      "awayTeam": "Queen of South",
+      "homeScore": 1,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Yellow cards": [
+          "5",
+          "4"
+        ]
+      }
+    },
+    {
+      "id": "bqOReKy9",
+      "date": "2026-02-07T15:00:00.000Z",
+      "round": "Round 24",
+      "homeTeam": "Inverness CT",
+      "awayTeam": "East Fife",
+      "homeScore": 3,
+      "awayScore": 0,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Yellow cards": [
+          "1",
+          "0"
+        ]
+      }
+    },
+    {
+      "id": "hYNXwnGN",
+      "date": "2026-01-31T15:00:00.000Z",
+      "round": "Round 23",
+      "homeTeam": "Alloa",
+      "awayTeam": "Cove Rangers",
+      "homeScore": 2,
+      "awayScore": 2,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Yellow cards": [
+          "0",
+          "1"
+        ]
+      }
+    },
+    {
+      "id": "CI44YPwo",
+      "date": "2026-01-31T15:00:00.000Z",
+      "round": "Round 23",
+      "homeTeam": "East Fife",
+      "awayTeam": "Montrose",
+      "homeScore": 2,
+      "awayScore": 3,
+      "htHome": 1,
+      "htAway": 2,
+      "status": "FINISHED",
+      "stats": {
+        "Yellow cards": [
+          "1",
+          "3"
+        ]
+      }
+    },
+    {
+      "id": "4CijdTVi",
+      "date": "2026-01-31T15:00:00.000Z",
+      "round": "Round 23",
+      "homeTeam": "Kelty Hearts",
+      "awayTeam": "Hamilton",
+      "homeScore": 0,
+      "awayScore": 0,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Yellow cards": [
+          "1",
+          "3"
+        ]
+      }
+    },
+    {
+      "id": "APMjf704",
+      "date": "2026-01-31T15:00:00.000Z",
+      "round": "Round 23",
+      "homeTeam": "Queen of South",
+      "awayTeam": "Inverness CT",
+      "homeScore": 2,
+      "awayScore": 2,
+      "htHome": 1,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Yellow cards": [
+          "3",
+          "4"
+        ]
+      }
+    },
+    {
+      "id": "IkQbhoVG",
+      "date": "2026-01-31T15:00:00.000Z",
+      "round": "Round 23",
+      "homeTeam": "Stenhousemuir",
+      "awayTeam": "Peterhead",
+      "homeScore": 2,
+      "awayScore": 2,
+      "htHome": 0,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Yellow cards": [
+          "5",
+          "3"
+        ]
+      }
+    },
+    {
+      "id": "OhWGsUGb",
+      "date": "2026-01-24T17:30:00.000Z",
+      "round": "Round 22",
+      "homeTeam": "Kelty Hearts",
+      "awayTeam": "Stenhousemuir",
+      "homeScore": 0,
+      "awayScore": 2,
+      "htHome": 0,
+      "htAway": 2,
+      "status": "FINISHED",
+      "stats": {
+        "Yellow cards": [
+          "4",
+          "1"
+        ],
+        "Red cards": [
+          "1",
+          "0"
+        ]
+      }
+    },
+    {
+      "id": "6HajR8WH",
+      "date": "2026-01-24T15:00:00.000Z",
+      "round": "Round 22",
+      "homeTeam": "East Fife",
+      "awayTeam": "Queen of South",
+      "homeScore": 1,
+      "awayScore": 5,
+      "htHome": 0,
+      "htAway": 2,
+      "status": "FINISHED",
+      "stats": {
+        "Red cards": [
+          "1",
+          "0"
+        ]
+      }
+    },
+    {
+      "id": "vVcbPn1U",
+      "date": "2026-01-24T15:00:00.000Z",
+      "round": "Round 22",
+      "homeTeam": "Hamilton",
+      "awayTeam": "Cove Rangers",
+      "homeScore": 2,
+      "awayScore": 0,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Yellow cards": [
+          "1",
+          "2"
+        ]
+      }
+    },
+    {
+      "id": "IeT8qjnn",
+      "date": "2026-01-24T15:00:00.000Z",
+      "round": "Round 22",
+      "homeTeam": "Inverness CT",
+      "awayTeam": "Alloa",
+      "homeScore": 3,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Yellow cards": [
+          "2",
+          "2"
+        ]
+      }
+    },
+    {
+      "id": "GSp8EVnC",
+      "date": "2026-01-20T19:45:00.000Z",
+      "round": "Round 21",
+      "homeTeam": "Alloa",
+      "awayTeam": "Montrose",
+      "homeScore": 4,
+      "awayScore": 1,
+      "htHome": 2,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Yellow cards": [
+          "3",
+          "3"
+        ]
+      }
+    },
+    {
+      "id": "61T0vwlo",
+      "date": "2026-01-20T19:45:00.000Z",
+      "round": "Round 16",
+      "homeTeam": "East Fife",
+      "awayTeam": "Inverness CT",
+      "homeScore": 0,
+      "awayScore": 2,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Yellow cards": [
+          "2",
+          "0"
+        ]
+      }
+    },
+    {
+      "id": "2JJQWC2t",
+      "date": "2026-01-17T15:00:00.000Z",
+      "round": "Round 21",
+      "homeTeam": "Peterhead",
+      "awayTeam": "Hamilton",
+      "homeScore": 2,
+      "awayScore": 3,
+      "htHome": 1,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Yellow cards": [
+          "2",
+          "2"
+        ]
+      }
+    },
+    {
+      "id": "CfvHC9HO",
+      "date": "2026-01-10T15:00:00.000Z",
+      "round": "Round 21",
+      "homeTeam": "Cove Rangers",
+      "awayTeam": "Inverness CT",
+      "homeScore": 0,
+      "awayScore": 0,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Yellow cards": [
+          "3",
+          "1"
+        ]
+      }
+    },
+    {
+      "id": "OY7ZUjXh",
+      "date": "2026-01-10T15:00:00.000Z",
+      "round": "Round 21",
+      "homeTeam": "Queen of South",
+      "awayTeam": "Kelty Hearts",
+      "homeScore": 3,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Yellow cards": [
+          "1",
+          "3"
+        ]
+      }
+    },
+    {
+      "id": "Ak6sTU15",
+      "date": "2026-01-10T15:00:00.000Z",
+      "round": "Round 21",
+      "homeTeam": "Stenhousemuir",
+      "awayTeam": "East Fife",
+      "homeScore": 5,
+      "awayScore": 0,
+      "htHome": 2,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Yellow cards": [
+          "0",
+          "2"
+        ]
+      }
+    },
+    {
+      "id": "25vhIDmm",
+      "date": "2026-01-03T15:00:00.000Z",
+      "round": "Round 20",
+      "homeTeam": "Kelty Hearts",
+      "awayTeam": "Alloa",
+      "homeScore": 1,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Yellow cards": [
+          "4",
+          "2"
+        ]
+      }
+    },
+    {
+      "id": "rFn0GiIa",
+      "date": "2026-01-03T15:00:00.000Z",
+      "round": "Round 20",
+      "homeTeam": "Stenhousemuir",
+      "awayTeam": "Queen of South",
+      "homeScore": 2,
+      "awayScore": 0,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Yellow cards": [
+          "4",
+          "2"
+        ]
+      }
+    },
+    {
+      "id": "8Ofk21ck",
+      "date": "2025-12-27T15:00:00.000Z",
+      "round": "Round 19",
+      "homeTeam": "Alloa",
+      "awayTeam": "Stenhousemuir",
+      "homeScore": 0,
+      "awayScore": 0,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Yellow cards": [
+          "3",
+          "3"
+        ]
+      }
+    },
+    {
+      "id": "Uwqb0uS1",
+      "date": "2025-12-27T15:00:00.000Z",
+      "round": "Round 19",
+      "homeTeam": "East Fife",
+      "awayTeam": "Kelty Hearts",
+      "homeScore": 0,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Yellow cards": [
+          "1",
+          "4"
+        ]
+      }
+    },
+    {
+      "id": "dpypOrK8",
+      "date": "2025-12-27T15:00:00.000Z",
+      "round": "Round 19",
+      "homeTeam": "Montrose",
+      "awayTeam": "Inverness CT",
+      "homeScore": 2,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Yellow cards": [
+          "1",
+          "0"
+        ],
+        "Red cards": [
+          "0",
+          "1"
+        ]
+      }
+    },
+    {
+      "id": "jogI5z4s",
+      "date": "2025-12-27T15:00:00.000Z",
+      "round": "Round 19",
+      "homeTeam": "Peterhead",
+      "awayTeam": "Cove Rangers",
+      "homeScore": 0,
+      "awayScore": 4,
+      "htHome": 0,
+      "htAway": 2,
+      "status": "FINISHED",
+      "stats": {
+        "Yellow cards": [
+          "3",
+          "1"
+        ]
+      }
+    },
+    {
+      "id": "ObiQ3EYg",
+      "date": "2025-12-27T15:00:00.000Z",
+      "round": "Round 19",
+      "homeTeam": "Queen of South",
+      "awayTeam": "Hamilton",
+      "homeScore": 4,
+      "awayScore": 1,
+      "htHome": 2,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Yellow cards": [
+          "3",
+          "3"
+        ]
+      }
+    },
+    {
+      "id": "KQUA5Fnp",
+      "date": "2025-12-20T15:00:00.000Z",
+      "round": "Round 18",
+      "homeTeam": "East Fife",
+      "awayTeam": "Peterhead",
+      "homeScore": 0,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Yellow cards": [
+          "3",
+          "2"
+        ]
+      }
+    },
+    {
+      "id": "hhrI3gHd",
+      "date": "2025-12-20T15:00:00.000Z",
+      "round": "Round 18",
+      "homeTeam": "Hamilton",
+      "awayTeam": "Alloa",
+      "homeScore": 1,
+      "awayScore": 0,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Yellow cards": [
+          "2",
+          "2"
+        ]
+      }
+    },
+    {
+      "id": "ATC2B5z3",
+      "date": "2025-12-20T15:00:00.000Z",
+      "round": "Round 18",
+      "homeTeam": "Kelty Hearts",
+      "awayTeam": "Cove Rangers",
+      "homeScore": 2,
+      "awayScore": 5,
+      "htHome": 2,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Yellow cards": [
+          "2",
+          "1"
+        ]
+      }
+    },
+    {
+      "id": "rsBA9q5F",
+      "date": "2025-12-20T15:00:00.000Z",
+      "round": "Round 18",
+      "homeTeam": "Queen of South",
+      "awayTeam": "Montrose",
+      "homeScore": 1,
+      "awayScore": 0,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Yellow cards": [
+          "2",
+          "2"
+        ]
+      }
+    },
+    {
+      "id": "v94J7NZR",
+      "date": "2025-12-20T15:00:00.000Z",
+      "round": "Round 18",
+      "homeTeam": "Stenhousemuir",
+      "awayTeam": "Inverness CT",
+      "homeScore": 1,
+      "awayScore": 0,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Yellow cards": [
+          "5",
+          "1"
+        ],
+        "Red cards": [
+          "1",
+          "0"
+        ]
+      }
+    },
+    {
+      "id": "MkT4dxAT",
+      "date": "2025-12-13T15:00:00.000Z",
+      "round": "Round 17",
+      "homeTeam": "Alloa",
+      "awayTeam": "Queen of South",
+      "homeScore": 0,
+      "awayScore": 2,
+      "htHome": 0,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Yellow cards": [
+          "4",
+          "5"
+        ]
+      }
+    },
+    {
+      "id": "v79yiGXj",
+      "date": "2025-12-13T15:00:00.000Z",
+      "round": "Round 17",
+      "homeTeam": "Cove Rangers",
+      "awayTeam": "East Fife",
+      "homeScore": 0,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "W0dNEJPc",
+      "date": "2025-12-13T15:00:00.000Z",
+      "round": "Round 17",
+      "homeTeam": "Inverness CT",
+      "awayTeam": "Hamilton",
+      "homeScore": 4,
+      "awayScore": 0,
+      "htHome": 2,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Yellow cards": [
+          "0",
+          "2"
+        ]
+      }
+    },
+    {
+      "id": "SSkWCcfA",
+      "date": "2025-12-13T15:00:00.000Z",
+      "round": "Round 17",
+      "homeTeam": "Montrose",
+      "awayTeam": "Stenhousemuir",
+      "homeScore": 3,
+      "awayScore": 0,
+      "htHome": 2,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Yellow cards": [
+          "2",
+          "1"
+        ]
+      }
+    },
+    {
+      "id": "zggvByPM",
+      "date": "2025-12-13T15:00:00.000Z",
+      "round": "Round 17",
+      "homeTeam": "Peterhead",
+      "awayTeam": "Kelty Hearts",
+      "homeScore": 3,
+      "awayScore": 2,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Yellow cards": [
+          "1",
+          "0"
+        ],
+        "Red cards": [
+          "1",
+          "0"
+        ]
+      }
+    },
+    {
+      "id": "AVsVqaQN",
+      "date": "2025-12-06T15:00:00.000Z",
+      "round": "Round 16",
+      "homeTeam": "Alloa",
+      "awayTeam": "Peterhead",
+      "homeScore": 4,
+      "awayScore": 0,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Yellow cards": [
+          "2",
+          "1"
+        ]
+      }
+    },
+    {
+      "id": "ppYu2tth",
+      "date": "2025-12-06T15:00:00.000Z",
+      "round": "Round 16",
+      "homeTeam": "Kelty Hearts",
+      "awayTeam": "Montrose",
+      "homeScore": 0,
+      "awayScore": 3,
+      "htHome": 0,
+      "htAway": 2,
+      "status": "FINISHED",
+      "stats": {
+        "Yellow cards": [
+          "2",
+          "3"
+        ]
+      }
+    },
+    {
+      "id": "hAyl0KA4",
+      "date": "2025-12-06T15:00:00.000Z",
+      "round": "Round 16",
+      "homeTeam": "Queen of South",
+      "awayTeam": "Cove Rangers",
+      "homeScore": 1,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Yellow cards": [
+          "0",
+          "2"
+        ]
+      }
+    },
+    {
+      "id": "EPPdbbuH",
+      "date": "2025-12-06T15:00:00.000Z",
+      "round": "Round 16",
+      "homeTeam": "Stenhousemuir",
+      "awayTeam": "Hamilton",
+      "homeScore": 0,
+      "awayScore": 0,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Yellow cards": [
+          "2",
+          "4"
+        ]
+      }
+    },
+    {
+      "id": "CbE4XUz1",
+      "date": "2025-11-25T19:45:00.000Z",
+      "round": "Round 14",
+      "homeTeam": "Alloa",
+      "awayTeam": "Inverness CT",
+      "homeScore": 1,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Yellow cards": [
+          "1",
+          "1"
+        ]
+      }
+    },
+    {
+      "id": "pOd5k3dn",
+      "date": "2025-11-22T17:30:00.000Z",
+      "round": "Round 15",
+      "homeTeam": "Inverness CT",
+      "awayTeam": "Queen of South",
+      "homeScore": 4,
+      "awayScore": 0,
+      "htHome": 2,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Yellow cards": [
+          "1",
+          "2"
+        ]
+      }
+    },
+    {
+      "id": "vZXop8K6",
+      "date": "2025-11-22T15:00:00.000Z",
+      "round": "Round 15",
+      "homeTeam": "Cove Rangers",
+      "awayTeam": "Alloa",
+      "homeScore": 0,
+      "awayScore": 0,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Yellow cards": [
+          "4",
+          "1"
+        ]
+      }
+    },
+    {
+      "id": "z1RfrnkJ",
+      "date": "2025-11-22T15:00:00.000Z",
+      "round": "Round 15",
+      "homeTeam": "Hamilton",
+      "awayTeam": "Kelty Hearts",
+      "homeScore": 3,
+      "awayScore": 1,
+      "htHome": 1,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Yellow cards": [
+          "3",
+          "2"
+        ]
+      }
+    },
+    {
+      "id": "6woEmsRb",
+      "date": "2025-11-22T15:00:00.000Z",
+      "round": "Round 15",
+      "homeTeam": "Montrose",
+      "awayTeam": "East Fife",
+      "homeScore": 2,
+      "awayScore": 1,
+      "htHome": 2,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Yellow cards": [
+          "0",
+          "2"
+        ]
+      }
+    },
+    {
+      "id": "E3lMoLeB",
+      "date": "2025-11-22T15:00:00.000Z",
+      "round": "Round 15",
+      "homeTeam": "Peterhead",
+      "awayTeam": "Stenhousemuir",
+      "homeScore": 1,
+      "awayScore": 4,
+      "htHome": 0,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Yellow cards": [
+          "3",
+          "3"
+        ]
+      }
+    },
+    {
+      "id": "0KfagCcK",
+      "date": "2025-11-15T17:00:00.000Z",
+      "round": "Round 14",
+      "homeTeam": "East Fife",
+      "awayTeam": "Stenhousemuir",
+      "homeScore": 1,
+      "awayScore": 0,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Yellow cards": [
+          "4",
+          "3"
+        ]
+      }
+    },
+    {
+      "id": "KOHCV85D",
+      "date": "2025-11-15T15:00:00.000Z",
+      "round": "Round 14",
+      "homeTeam": "Cove Rangers",
+      "awayTeam": "Hamilton",
+      "homeScore": 2,
+      "awayScore": 1,
+      "htHome": 2,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Yellow cards": [
+          "1",
+          "0"
+        ]
+      }
+    },
+    {
+      "id": "AgtVmjLs",
+      "date": "2025-11-15T15:00:00.000Z",
+      "round": "Round 14",
+      "homeTeam": "Kelty Hearts",
+      "awayTeam": "Queen of South",
+      "homeScore": 1,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Yellow cards": [
+          "3",
+          "3"
+        ]
+      }
+    },
+    {
+      "id": "6LZwnUkf",
+      "date": "2025-11-15T15:00:00.000Z",
+      "round": "Round 14",
+      "homeTeam": "Peterhead",
+      "awayTeam": "Montrose",
+      "homeScore": 1,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Yellow cards": [
+          "1",
+          "4"
+        ]
+      }
+    },
+    {
+      "id": "xt0MKiie",
+      "date": "2025-11-08T15:00:00.000Z",
+      "round": "Round 13",
+      "homeTeam": "Hamilton",
+      "awayTeam": "Peterhead",
+      "homeScore": 3,
+      "awayScore": 0,
+      "htHome": 2,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Yellow cards": [
+          "1",
+          "2"
+        ]
+      }
+    },
+    {
+      "id": "belVIVL7",
+      "date": "2025-11-08T15:00:00.000Z",
+      "round": "Round 13",
+      "homeTeam": "Inverness CT",
+      "awayTeam": "Cove Rangers",
+      "homeScore": 1,
+      "awayScore": 0,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Yellow cards": [
+          "0",
+          "1"
+        ]
+      }
+    },
+    {
+      "id": "Q1tHtZDE",
+      "date": "2025-11-08T15:00:00.000Z",
+      "round": "Round 13",
+      "homeTeam": "Montrose",
+      "awayTeam": "Alloa",
+      "homeScore": 0,
+      "awayScore": 4,
+      "htHome": 0,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Yellow cards": [
+          "0",
+          "1"
+        ]
+      }
+    },
+    {
+      "id": "K0ZPvDrR",
+      "date": "2025-11-08T15:00:00.000Z",
+      "round": "Round 13",
+      "homeTeam": "Queen of South",
+      "awayTeam": "East Fife",
+      "homeScore": 3,
+      "awayScore": 0,
+      "htHome": 2,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Yellow cards": [
+          "0",
+          "4"
+        ]
+      }
+    },
+    {
+      "id": "GWKeZj6l",
+      "date": "2025-11-08T15:00:00.000Z",
+      "round": "Round 13",
+      "homeTeam": "Stenhousemuir",
+      "awayTeam": "Kelty Hearts",
+      "homeScore": 2,
+      "awayScore": 2,
+      "htHome": 0,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Yellow cards": [
+          "3",
+          "3"
+        ]
+      }
+    },
+    {
+      "id": "4bfm8E7k",
+      "date": "2025-11-01T15:00:00.000Z",
+      "round": "Round 12",
+      "homeTeam": "Alloa",
+      "awayTeam": "Kelty Hearts",
+      "homeScore": 3,
+      "awayScore": 0,
+      "htHome": 2,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Yellow cards": [
+          "5",
+          "6"
+        ]
+      }
+    },
+    {
+      "id": "COce6hx2",
+      "date": "2025-11-01T15:00:00.000Z",
+      "round": "Round 12",
+      "homeTeam": "Cove Rangers",
+      "awayTeam": "Peterhead",
+      "homeScore": 1,
+      "awayScore": 2,
+      "htHome": 1,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Yellow cards": [
+          "2",
+          "3"
+        ]
+      }
+    },
+    {
+      "id": "SWurUeU8",
+      "date": "2025-11-01T15:00:00.000Z",
+      "round": "Round 12",
+      "homeTeam": "East Fife",
+      "awayTeam": "Hamilton",
+      "homeScore": 1,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Yellow cards": [
+          "1",
+          "2"
+        ]
+      }
+    },
+    {
+      "id": "0pvjSZbL",
+      "date": "2025-11-01T15:00:00.000Z",
+      "round": "Round 12",
+      "homeTeam": "Inverness CT",
+      "awayTeam": "Montrose",
+      "homeScore": 1,
+      "awayScore": 0,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Yellow cards": [
+          "2",
+          "2"
+        ]
+      }
+    },
+    {
+      "id": "UFdEMDMr",
+      "date": "2025-11-01T15:00:00.000Z",
+      "round": "Round 12",
+      "homeTeam": "Queen of South",
+      "awayTeam": "Stenhousemuir",
+      "homeScore": 1,
+      "awayScore": 1,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Yellow cards": [
+          "4",
+          "3"
+        ]
+      }
+    },
+    {
+      "id": "KQIGDzpS",
+      "date": "2025-10-25T14:00:00.000Z",
+      "round": "Round 11",
+      "homeTeam": "Alloa",
+      "awayTeam": "Stenhousemuir",
+      "homeScore": 0,
+      "awayScore": 0,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Yellow cards": [
+          "4",
+          "3"
+        ],
+        "Red cards": [
+          "1",
+          "0"
+        ]
+      }
+    },
+    {
+      "id": "Q7ZDgFhd",
+      "date": "2025-10-25T14:00:00.000Z",
+      "round": "Round 11",
+      "homeTeam": "Kelty Hearts",
+      "awayTeam": "East Fife",
+      "homeScore": 0,
+      "awayScore": 3,
+      "htHome": 0,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Yellow cards": [
+          "1",
+          "2"
+        ]
+      }
+    },
+    {
+      "id": "I1MaHIp3",
+      "date": "2025-10-25T14:00:00.000Z",
+      "round": "Round 11",
+      "homeTeam": "Montrose",
+      "awayTeam": "Cove Rangers",
+      "homeScore": 0,
+      "awayScore": 3,
+      "htHome": 0,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Yellow cards": [
+          "0",
+          "2"
+        ]
+      }
+    },
+    {
+      "id": "ETF8FdFF",
+      "date": "2025-10-25T14:00:00.000Z",
+      "round": "Round 11",
+      "homeTeam": "Peterhead",
+      "awayTeam": "Inverness CT",
+      "homeScore": 0,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Yellow cards": [
+          "6",
+          "4"
+        ],
+        "Red cards": [
+          "1",
+          "0"
+        ]
+      }
+    },
+    {
+      "id": "Uut5eyOq",
+      "date": "2025-10-24T18:45:00.000Z",
+      "round": "Round 11",
+      "homeTeam": "Hamilton",
+      "awayTeam": "Queen of South",
+      "homeScore": 1,
+      "awayScore": 2,
+      "htHome": 0,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Yellow cards": [
+          "1",
+          "3"
+        ]
+      }
+    },
+    {
+      "id": "pjJXDqvB",
+      "date": "2025-10-18T16:30:00.000Z",
+      "round": "Round 10",
+      "homeTeam": "Peterhead",
+      "awayTeam": "Queen of South",
+      "homeScore": 3,
+      "awayScore": 0,
+      "htHome": 2,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Yellow cards": [
+          "2",
+          "4"
+        ]
+      }
+    },
+    {
+      "id": "4WcbapPH",
+      "date": "2025-10-18T14:00:00.000Z",
+      "round": "Round 10",
+      "homeTeam": "Alloa",
+      "awayTeam": "East Fife",
+      "homeScore": 1,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Yellow cards": [
+          "2",
+          "3"
+        ]
+      }
+    },
+    {
+      "id": "xpd6cOgU",
+      "date": "2025-10-18T14:00:00.000Z",
+      "round": "Round 10",
+      "homeTeam": "Cove Rangers",
+      "awayTeam": "Stenhousemuir",
+      "homeScore": 0,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Yellow cards": [
+          "4",
+          "3"
+        ]
+      }
+    },
+    {
+      "id": "GARGHRvn",
+      "date": "2025-10-18T14:00:00.000Z",
+      "round": "Round 10",
+      "homeTeam": "Inverness CT",
+      "awayTeam": "Kelty Hearts",
+      "homeScore": 2,
+      "awayScore": 2,
+      "htHome": 1,
+      "htAway": 2,
+      "status": "FINISHED",
+      "stats": {
+        "Yellow cards": [
+          "0",
+          "3"
+        ]
+      }
+    },
+    {
+      "id": "OzVOF59b",
+      "date": "2025-10-18T14:00:00.000Z",
+      "round": "Round 10",
+      "homeTeam": "Montrose",
+      "awayTeam": "Hamilton",
+      "homeScore": 0,
+      "awayScore": 4,
+      "htHome": 0,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Yellow cards": [
+          "2",
+          "4"
+        ],
+        "Red cards": [
+          "1",
+          "0"
+        ]
+      }
+    },
+    {
+      "id": "KAUMLIJb",
+      "date": "2025-10-07T18:45:00.000Z",
+      "round": "Round 3",
+      "homeTeam": "Kelty Hearts",
+      "awayTeam": "Alloa",
+      "homeScore": 0,
+      "awayScore": 2,
+      "htHome": 0,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Yellow cards": [
+          "4",
+          "1"
+        ],
+        "Red cards": [
+          "1",
+          "0"
+        ]
+      }
+    },
+    {
+      "id": "Gdnr3SPh",
+      "date": "2025-10-04T16:30:00.000Z",
+      "round": "Round 9",
+      "homeTeam": "Queen of South",
+      "awayTeam": "Alloa",
+      "homeScore": 1,
+      "awayScore": 0,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Yellow cards": [
+          "6",
+          "5"
+        ]
+      }
+    },
+    {
+      "id": "pG2On7uC",
+      "date": "2025-10-04T14:00:00.000Z",
+      "round": "Round 9",
+      "homeTeam": "East Fife",
+      "awayTeam": "Cove Rangers",
+      "homeScore": 2,
+      "awayScore": 0,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Yellow cards": [
+          "1",
+          "1"
+        ]
+      }
+    },
+    {
+      "id": "4IIPpoAO",
+      "date": "2025-10-04T14:00:00.000Z",
+      "round": "Round 9",
+      "homeTeam": "Hamilton",
+      "awayTeam": "Inverness CT",
+      "homeScore": 3,
+      "awayScore": 1,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Yellow cards": [
+          "2",
+          "1"
+        ]
+      }
+    },
+    {
+      "id": "fsbZ4let",
+      "date": "2025-10-04T14:00:00.000Z",
+      "round": "Round 9",
+      "homeTeam": "Kelty Hearts",
+      "awayTeam": "Peterhead",
+      "homeScore": 1,
+      "awayScore": 2,
+      "htHome": 1,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Yellow cards": [
+          "3",
+          "0"
+        ]
+      }
+    },
+    {
+      "id": "OMkj16f5",
+      "date": "2025-10-04T14:00:00.000Z",
+      "round": "Round 9",
+      "homeTeam": "Stenhousemuir",
+      "awayTeam": "Montrose",
+      "homeScore": 3,
+      "awayScore": 1,
+      "htHome": 2,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Yellow cards": [
+          "1",
+          "3"
+        ]
+      }
+    },
+    {
+      "id": "dWiqjLU6",
+      "date": "2025-09-27T14:00:00.000Z",
+      "round": "Round 8",
+      "homeTeam": "Cove Rangers",
+      "awayTeam": "Kelty Hearts",
+      "homeScore": 0,
+      "awayScore": 2,
+      "htHome": 0,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Yellow cards": [
+          "3",
+          "4"
+        ]
+      }
+    },
+    {
+      "id": "2TfilaaJ",
+      "date": "2025-09-27T14:00:00.000Z",
+      "round": "Round 8",
+      "homeTeam": "Hamilton",
+      "awayTeam": "Stenhousemuir",
+      "homeScore": 2,
+      "awayScore": 0,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Yellow cards": [
+          "1",
+          "3"
+        ]
+      }
+    },
+    {
+      "id": "phKydBIP",
+      "date": "2025-09-27T14:00:00.000Z",
+      "round": "Round 8",
+      "homeTeam": "Inverness CT",
+      "awayTeam": "East Fife",
+      "homeScore": 4,
+      "awayScore": 1,
+      "htHome": 1,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "GzB7jktm",
+      "date": "2025-09-27T14:00:00.000Z",
+      "round": "Round 8",
+      "homeTeam": "Montrose",
+      "awayTeam": "Queen of South",
+      "homeScore": 2,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Yellow cards": [
+          "4",
+          "2"
+        ]
+      }
+    },
+    {
+      "id": "C24GlTAa",
+      "date": "2025-09-27T14:00:00.000Z",
+      "round": "Round 8",
+      "homeTeam": "Peterhead",
+      "awayTeam": "Alloa",
+      "homeScore": 2,
+      "awayScore": 1,
+      "htHome": 2,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Yellow cards": [
+          "3",
+          "2"
+        ]
+      }
+    },
+    {
+      "id": "fqT1wro1",
+      "date": "2025-09-20T14:00:00.000Z",
+      "round": "Round 7",
+      "homeTeam": "Alloa",
+      "awayTeam": "Cove Rangers",
+      "homeScore": 2,
+      "awayScore": 1,
+      "htHome": 2,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Yellow cards": [
+          "1",
+          "2"
+        ]
+      }
+    },
+    {
+      "id": "GbHAyMFD",
+      "date": "2025-09-20T14:00:00.000Z",
+      "round": "Round 7",
+      "homeTeam": "East Fife",
+      "awayTeam": "Montrose",
+      "homeScore": 1,
+      "awayScore": 1,
+      "htHome": 1,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Yellow cards": [
+          "2",
+          "2"
+        ]
+      }
+    },
+    {
+      "id": "86JeaP7K",
+      "date": "2025-09-20T14:00:00.000Z",
+      "round": "Round 7",
+      "homeTeam": "Kelty Hearts",
+      "awayTeam": "Hamilton",
+      "homeScore": 0,
+      "awayScore": 4,
+      "htHome": 0,
+      "htAway": 3,
+      "status": "FINISHED",
+      "stats": {
+        "Yellow cards": [
+          "2",
+          "1"
+        ],
+        "Red cards": [
+          "1",
+          "0"
+        ]
+      }
+    },
+    {
+      "id": "Sj0Sg3Vs",
+      "date": "2025-09-20T14:00:00.000Z",
+      "round": "Round 7",
+      "homeTeam": "Queen of South",
+      "awayTeam": "Inverness CT",
+      "homeScore": 0,
+      "awayScore": 2,
+      "htHome": 0,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Yellow cards": [
+          "2",
+          "5"
+        ]
+      }
+    },
+    {
+      "id": "04bzhs0f",
+      "date": "2025-09-20T14:00:00.000Z",
+      "round": "Round 7",
+      "homeTeam": "Stenhousemuir",
+      "awayTeam": "Peterhead",
+      "homeScore": 3,
+      "awayScore": 1,
+      "htHome": 1,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Yellow cards": [
+          "4",
+          "3"
+        ]
+      }
+    },
+    {
+      "id": "6PRQyV9d",
+      "date": "2025-09-13T16:30:00.000Z",
+      "round": "Round 6",
+      "homeTeam": "Cove Rangers",
+      "awayTeam": "Inverness CT",
+      "homeScore": 0,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Yellow cards": [
+          "4",
+          "2"
+        ]
+      }
+    },
+    {
+      "id": "baOIwiup",
+      "date": "2025-09-13T14:00:00.000Z",
+      "round": "Round 6",
+      "homeTeam": "Alloa",
+      "awayTeam": "Montrose",
+      "homeScore": 0,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Yellow cards": [
+          "0",
+          "4"
+        ]
+      }
+    },
+    {
+      "id": "K49DaY13",
+      "date": "2025-09-13T14:00:00.000Z",
+      "round": "Round 6",
+      "homeTeam": "East Fife",
+      "awayTeam": "Queen of South",
+      "homeScore": 2,
+      "awayScore": 1,
+      "htHome": 1,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Yellow cards": [
+          "4",
+          "4"
+        ]
+      }
+    },
+    {
+      "id": "hI7LcCWF",
+      "date": "2025-09-13T14:00:00.000Z",
+      "round": "Round 6",
+      "homeTeam": "Kelty Hearts",
+      "awayTeam": "Stenhousemuir",
+      "homeScore": 0,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Yellow cards": [
+          "2",
+          "3"
+        ]
+      }
+    },
+    {
+      "id": "nJPgu4Gl",
+      "date": "2025-09-13T14:00:00.000Z",
+      "round": "Round 6",
+      "homeTeam": "Peterhead",
+      "awayTeam": "Hamilton",
+      "homeScore": 2,
+      "awayScore": 2,
+      "htHome": 1,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Yellow cards": [
+          "3",
+          "4"
+        ]
+      }
+    },
+    {
+      "id": "zLaKUD2T",
+      "date": "2025-08-30T16:30:00.000Z",
+      "round": "Round 5",
+      "homeTeam": "Hamilton",
+      "awayTeam": "Cove Rangers",
+      "homeScore": 0,
+      "awayScore": 0,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Yellow cards": [
+          "1",
+          "1"
+        ]
+      }
+    },
+    {
+      "id": "f5tiPiQj",
+      "date": "2025-08-30T14:00:00.000Z",
+      "round": "Round 5",
+      "homeTeam": "Inverness CT",
+      "awayTeam": "Alloa",
+      "homeScore": 1,
+      "awayScore": 0,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Yellow cards": [
+          "2",
+          "1"
+        ]
+      }
+    },
+    {
+      "id": "naTxmeIc",
+      "date": "2025-08-30T14:00:00.000Z",
+      "round": "Round 5",
+      "homeTeam": "Montrose",
+      "awayTeam": "Peterhead",
+      "homeScore": 2,
+      "awayScore": 1,
+      "htHome": 2,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Yellow cards": [
+          "4",
+          "0"
+        ]
+      }
+    },
+    {
+      "id": "61qvoZnA",
+      "date": "2025-08-30T14:00:00.000Z",
+      "round": "Round 5",
+      "homeTeam": "Queen of South",
+      "awayTeam": "Kelty Hearts",
+      "homeScore": 2,
+      "awayScore": 1,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Yellow cards": [
+          "2",
+          "2"
+        ]
+      }
+    },
+    {
+      "id": "ERnnqDHM",
+      "date": "2025-08-30T14:00:00.000Z",
+      "round": "Round 5",
+      "homeTeam": "Stenhousemuir",
+      "awayTeam": "East Fife",
+      "homeScore": 1,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Yellow cards": [
+          "4",
+          "3"
+        ],
+        "Red cards": [
+          "0",
+          "1"
+        ]
+      }
+    },
+    {
+      "id": "2gMwIzJN",
+      "date": "2025-08-23T14:00:00.000Z",
+      "round": "Round 4",
+      "homeTeam": "Alloa",
+      "awayTeam": "Hamilton",
+      "homeScore": 1,
+      "awayScore": 0,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Yellow cards": [
+          "0",
+          "1"
+        ]
+      }
+    },
+    {
+      "id": "bP79CEto",
+      "date": "2025-08-23T14:00:00.000Z",
+      "round": "Round 4",
+      "homeTeam": "East Fife",
+      "awayTeam": "Kelty Hearts",
+      "homeScore": 2,
+      "awayScore": 1,
+      "htHome": 1,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Yellow cards": [
+          "3",
+          "1"
+        ],
+        "Red cards": [
+          "1",
+          "0"
+        ]
+      }
+    },
+    {
+      "id": "EXkdzIYi",
+      "date": "2025-08-23T14:00:00.000Z",
+      "round": "Round 4",
+      "homeTeam": "Montrose",
+      "awayTeam": "Inverness CT",
+      "homeScore": 0,
+      "awayScore": 2,
+      "htHome": 0,
+      "htAway": 2,
+      "status": "FINISHED",
+      "stats": {
+        "Yellow cards": [
+          "1",
+          "0"
+        ]
+      }
+    },
+    {
+      "id": "6u83Ye34",
+      "date": "2025-08-23T14:00:00.000Z",
+      "round": "Round 4",
+      "homeTeam": "Peterhead",
+      "awayTeam": "Cove Rangers",
+      "homeScore": 3,
+      "awayScore": 1,
+      "htHome": 2,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Yellow cards": [
+          "2",
+          "5"
+        ],
+        "Red cards": [
+          "0",
+          "1"
+        ]
+      }
+    },
+    {
+      "id": "SfdCWZXG",
+      "date": "2025-08-23T14:00:00.000Z",
+      "round": "Round 4",
+      "homeTeam": "Stenhousemuir",
+      "awayTeam": "Queen of South",
+      "homeScore": 0,
+      "awayScore": 0,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Yellow cards": [
+          "4",
+          "2"
+        ]
+      }
+    },
+    {
+      "id": "C47e5cZH",
+      "date": "2025-08-16T14:00:00.000Z",
+      "round": "Round 3",
+      "homeTeam": "Cove Rangers",
+      "awayTeam": "Montrose",
+      "homeScore": 3,
+      "awayScore": 3,
+      "htHome": 2,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Yellow cards": [
+          "4",
+          "1"
+        ],
+        "Red cards": [
+          "0",
+          "1"
+        ]
+      }
+    },
+    {
+      "id": "8W043y4U",
+      "date": "2025-08-16T14:00:00.000Z",
+      "round": "Round 3",
+      "homeTeam": "Hamilton",
+      "awayTeam": "East Fife",
+      "homeScore": 1,
+      "awayScore": 2,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Yellow cards": [
+          "1",
+          "2"
+        ]
+      }
+    },
+    {
+      "id": "betENvkn",
+      "date": "2025-08-16T14:00:00.000Z",
+      "round": "Round 3",
+      "homeTeam": "Inverness CT",
+      "awayTeam": "Stenhousemuir",
+      "homeScore": 1,
+      "awayScore": 2,
+      "htHome": 1,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Yellow cards": [
+          "2",
+          "3"
+        ]
+      }
+    },
+    {
+      "id": "6RSUJdlB",
+      "date": "2025-08-16T14:00:00.000Z",
+      "round": "Round 3",
+      "homeTeam": "Queen of South",
+      "awayTeam": "Peterhead",
+      "homeScore": 4,
+      "awayScore": 0,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Yellow cards": [
+          "3",
+          "3"
+        ]
+      }
+    },
+    {
+      "id": "jX7C56T0",
+      "date": "2025-08-09T14:00:00.000Z",
+      "round": "Round 2",
+      "homeTeam": "East Fife",
+      "awayTeam": "Alloa",
+      "homeScore": 0,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Yellow cards": [
+          "2",
+          "6"
+        ]
+      }
+    },
+    {
+      "id": "bcBK3pbD",
+      "date": "2025-08-09T14:00:00.000Z",
+      "round": "Round 2",
+      "homeTeam": "Inverness CT",
+      "awayTeam": "Peterhead",
+      "homeScore": 2,
+      "awayScore": 0,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Yellow cards": [
+          "3",
+          "1"
+        ]
+      }
+    },
+    {
+      "id": "xSCWA15t",
+      "date": "2025-08-09T14:00:00.000Z",
+      "round": "Round 2",
+      "homeTeam": "Montrose",
+      "awayTeam": "Kelty Hearts",
+      "homeScore": 1,
+      "awayScore": 2,
+      "htHome": 1,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Yellow cards": [
+          "3",
+          "5"
+        ],
+        "Red cards": [
+          "0",
+          "1"
+        ]
+      }
+    },
+    {
+      "id": "phGv9uzg",
+      "date": "2025-08-09T14:00:00.000Z",
+      "round": "Round 2",
+      "homeTeam": "Queen of South",
+      "awayTeam": "Hamilton",
+      "homeScore": 1,
+      "awayScore": 4,
+      "htHome": 0,
+      "htAway": 2,
+      "status": "FINISHED",
+      "stats": {
+        "Yellow cards": [
+          "1",
+          "2"
+        ]
+      }
+    },
+    {
+      "id": "vi9m7J45",
+      "date": "2025-08-09T14:00:00.000Z",
+      "round": "Round 2",
+      "homeTeam": "Stenhousemuir",
+      "awayTeam": "Cove Rangers",
+      "homeScore": 1,
+      "awayScore": 0,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Yellow cards": [
+          "1",
+          "4"
+        ]
+      }
+    },
+    {
+      "id": "8W043y4U",
+      "date": "2025-08-16T14:00:00.000Z",
+      "round": "Round 3",
+      "homeTeam": "Hamilton",
+      "awayTeam": "East Fife",
+      "homeScore": 1,
+      "awayScore": 2,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Yellow cards": [
+          "1",
+          "2"
+        ]
+      }
+    },
+    {
+      "id": "betENvkn",
+      "date": "2025-08-16T14:00:00.000Z",
+      "round": "Round 3",
+      "homeTeam": "Inverness CT",
+      "awayTeam": "Stenhousemuir",
+      "homeScore": 1,
+      "awayScore": 2,
+      "htHome": 1,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Yellow cards": [
+          "2",
+          "3"
+        ]
+      }
+    },
+    {
+      "id": "6RSUJdlB",
+      "date": "2025-08-16T14:00:00.000Z",
+      "round": "Round 3",
+      "homeTeam": "Queen of South",
+      "awayTeam": "Peterhead",
+      "homeScore": 4,
+      "awayScore": 0,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Yellow cards": [
+          "3",
+          "3"
+        ]
+      }
+    },
+    {
+      "id": "jX7C56T0",
+      "date": "2025-08-09T14:00:00.000Z",
+      "round": "Round 2",
+      "homeTeam": "East Fife",
+      "awayTeam": "Alloa",
+      "homeScore": 0,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Yellow cards": [
+          "2",
+          "6"
+        ]
+      }
+    },
+    {
+      "id": "bcBK3pbD",
+      "date": "2025-08-09T14:00:00.000Z",
+      "round": "Round 2",
+      "homeTeam": "Inverness CT",
+      "awayTeam": "Peterhead",
+      "homeScore": 2,
+      "awayScore": 0,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Yellow cards": [
+          "3",
+          "1"
+        ]
+      }
+    },
+    {
+      "id": "xSCWA15t",
+      "date": "2025-08-09T14:00:00.000Z",
+      "round": "Round 2",
+      "homeTeam": "Montrose",
+      "awayTeam": "Kelty Hearts",
+      "homeScore": 1,
+      "awayScore": 2,
+      "htHome": 1,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Yellow cards": [
+          "3",
+          "5"
+        ],
+        "Red cards": [
+          "0",
+          "1"
+        ]
+      }
+    },
+    {
+      "id": "phGv9uzg",
+      "date": "2025-08-09T14:00:00.000Z",
+      "round": "Round 2",
+      "homeTeam": "Queen of South",
+      "awayTeam": "Hamilton",
+      "homeScore": 1,
+      "awayScore": 4,
+      "htHome": 0,
+      "htAway": 2,
+      "status": "FINISHED",
+      "stats": {
+        "Yellow cards": [
+          "1",
+          "2"
+        ]
+      }
+    },
+    {
+      "id": "vi9m7J45",
+      "date": "2025-08-09T14:00:00.000Z",
+      "round": "Round 2",
+      "homeTeam": "Stenhousemuir",
+      "awayTeam": "Cove Rangers",
+      "homeScore": 1,
+      "awayScore": 0,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Yellow cards": [
+          "1",
+          "4"
+        ]
+      }
+    },
+    {
+      "id": "OGW1Fxyq",
+      "date": "2025-08-02T14:00:00.000Z",
+      "round": "Round 1",
+      "homeTeam": "Cove Rangers",
+      "awayTeam": "Queen of South",
+      "homeScore": 0,
+      "awayScore": 2,
+      "htHome": 0,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Yellow cards": [
+          "5",
+          "2"
+        ]
+      }
+    },
+    {
+      "id": "WtzADG5e",
+      "date": "2025-08-02T14:00:00.000Z",
+      "round": "Round 1",
+      "homeTeam": "Hamilton",
+      "awayTeam": "Montrose",
+      "homeScore": 2,
+      "awayScore": 0,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Yellow cards": [
+          "1",
+          "0"
+        ]
+      }
+    },
+    {
+      "id": "QuTIBfz8",
+      "date": "2025-08-02T14:00:00.000Z",
+      "round": "Round 1",
+      "homeTeam": "Kelty Hearts",
+      "awayTeam": "Inverness CT",
+      "homeScore": 0,
+      "awayScore": 3,
+      "htHome": 0,
+      "htAway": 2,
+      "status": "FINISHED",
+      "stats": {
+        "Yellow cards": [
+          "1",
+          "2"
+        ]
+      }
+    },
+    {
+      "id": "IZF4ZcSE",
+      "date": "2025-08-02T14:00:00.000Z",
+      "round": "Round 1",
+      "homeTeam": "Peterhead",
+      "awayTeam": "East Fife",
+      "homeScore": 4,
+      "awayScore": 1,
+      "htHome": 3,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Yellow cards": [
+          "3",
+          "3"
+        ]
+      }
+    },
+    {
+      "id": "vqeVKbDL",
+      "date": "2025-08-02T14:00:00.000Z",
+      "round": "Round 1",
+      "homeTeam": "Stenhousemuir",
+      "awayTeam": "Alloa",
+      "homeScore": 1,
+      "awayScore": 2,
+      "htHome": 1,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Yellow cards": [
+          "2",
+          "1"
+        ]
+      }
+    }
+  ]
+}

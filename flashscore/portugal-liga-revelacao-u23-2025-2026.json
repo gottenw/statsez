@@ -1,0 +1,2533 @@
+{
+  "league": "Liga Revelacao U23",
+  "country": "portugal",
+  "season": "2025-2026",
+  "collectedAt": "2026-02-10T17:58:49.059Z",
+  "totalMatches": 173,
+  "matches": [
+    {
+      "id": "67COP3Nj",
+      "date": "2026-02-10T13:00:00.000Z",
+      "round": "Round 1",
+      "homeTeam": "Santa Clara U23",
+      "awayTeam": "Famalicao U23",
+      "homeScore": 4,
+      "awayScore": 4,
+      "htHome": 1,
+      "htAway": 2,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "GxYqXoVG",
+      "date": "2026-02-08T11:00:00.000Z",
+      "round": "Round 1",
+      "homeTeam": "Benfica U23",
+      "awayTeam": "Braga U23",
+      "homeScore": 2,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "rqW9eyWO",
+      "date": "2026-02-07T11:00:00.000Z",
+      "round": "Round 8",
+      "homeTeam": "Portimonense U23",
+      "awayTeam": "Rio Ave U23",
+      "homeScore": 1,
+      "awayScore": 3,
+      "htHome": 1,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "E3vgaJWa",
+      "date": "2026-02-07T10:00:00.000Z",
+      "round": "Round 8",
+      "homeTeam": "Maritimo U23",
+      "awayTeam": "Gil Vicente U23",
+      "homeScore": 0,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Yellow cards": [
+          "0",
+          "1"
+        ],
+        "Red cards": [
+          "0",
+          "1"
+        ]
+      }
+    },
+    {
+      "id": "KhTV02XN",
+      "date": "2026-02-03T15:00:00.000Z",
+      "round": "Round 16",
+      "homeTeam": "Estrela Amadora U23",
+      "awayTeam": "Gil Vicente U23",
+      "homeScore": 1,
+      "awayScore": 1,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "vcnf1Wr4",
+      "date": "2026-02-03T15:00:00.000Z",
+      "round": "Round 7",
+      "homeTeam": "Vizela U23",
+      "awayTeam": "Portimonense U23",
+      "homeScore": 2,
+      "awayScore": 1,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "6oJq8vdl",
+      "date": "2026-02-03T12:00:00.000Z",
+      "round": "Round 16",
+      "homeTeam": "Estoril U23",
+      "awayTeam": "Rio Ave U23",
+      "homeScore": 0,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "xO2JBmMM",
+      "date": "2026-02-03T11:00:00.000Z",
+      "round": "Round 5",
+      "homeTeam": "Academico Viseu U23",
+      "awayTeam": "Santa Clara U23",
+      "homeScore": 1,
+      "awayScore": 0,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "QZc831hT",
+      "date": "2026-02-03T11:00:00.000Z",
+      "round": "Round 7",
+      "homeTeam": "SC Farense U23",
+      "awayTeam": "Maritimo U23",
+      "homeScore": 0,
+      "awayScore": 2,
+      "htHome": 0,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "86gk6Rqp",
+      "date": "2026-01-31T11:00:00.000Z",
+      "round": "Round 5",
+      "homeTeam": "Leixoes U23",
+      "awayTeam": "Benfica U23",
+      "homeScore": 2,
+      "awayScore": 5,
+      "htHome": 0,
+      "htAway": 2,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "4Ynb45Ed",
+      "date": "2026-01-31T10:30:00.000Z",
+      "round": "Round 5",
+      "homeTeam": "Sporting U23",
+      "awayTeam": "Torreense U23",
+      "homeScore": 1,
+      "awayScore": 2,
+      "htHome": 0,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Yellow cards": [
+          "1",
+          "0"
+        ],
+        "Red cards": [
+          "1",
+          "1"
+        ]
+      }
+    },
+    {
+      "id": "WS41e1Cr",
+      "date": "2026-01-29T13:30:00.000Z",
+      "round": "Round 6",
+      "homeTeam": "Estoril U23",
+      "awayTeam": "Vizela U23",
+      "homeScore": 2,
+      "awayScore": 1,
+      "htHome": 2,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "U74a5NNG",
+      "date": "2026-01-28T15:00:00.000Z",
+      "round": "Round 6",
+      "homeTeam": "Estrela Amadora U23",
+      "awayTeam": "SC Farense U23",
+      "homeScore": 2,
+      "awayScore": 1,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "nctTzUVi",
+      "date": "2026-01-28T11:00:00.000Z",
+      "round": "Round 6",
+      "homeTeam": "Maritimo U23",
+      "awayTeam": "Rio Ave U23",
+      "homeScore": 0,
+      "awayScore": 3,
+      "htHome": 0,
+      "htAway": 3,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "UN4mkKj2",
+      "date": "2026-01-27T15:00:00.000Z",
+      "round": "Round 4",
+      "homeTeam": "Famalicao U23",
+      "awayTeam": "Academico Viseu U23",
+      "homeScore": 2,
+      "awayScore": 1,
+      "htHome": 2,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "pWnzDNr9",
+      "date": "2026-01-27T11:00:00.000Z",
+      "round": "Round 4",
+      "homeTeam": "Benfica U23",
+      "awayTeam": "Santa Clara U23",
+      "homeScore": 1,
+      "awayScore": 2,
+      "htHome": 0,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "0Cz3aADG",
+      "date": "2026-01-27T11:00:00.000Z",
+      "round": "Round 1",
+      "homeTeam": "Portimonense U23",
+      "awayTeam": "Gil Vicente U23",
+      "homeScore": 1,
+      "awayScore": 3,
+      "htHome": 0,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "IqorB1DL",
+      "date": "2026-01-26T15:00:00.000Z",
+      "round": "Round 4",
+      "homeTeam": "Braga U23",
+      "awayTeam": "Sporting U23",
+      "homeScore": 2,
+      "awayScore": 2,
+      "htHome": 1,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "Mc1uitMk",
+      "date": "2026-01-26T15:00:00.000Z",
+      "round": "Round 4",
+      "homeTeam": "Torreense U23",
+      "awayTeam": "Leixoes U23",
+      "homeScore": 0,
+      "awayScore": 2,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Red cards": [
+          "2",
+          "1"
+        ]
+      }
+    },
+    {
+      "id": "08vJMwBs",
+      "date": "2026-01-24T15:00:00.000Z",
+      "round": "Round 5",
+      "homeTeam": "Vizela U23",
+      "awayTeam": "Maritimo U23",
+      "homeScore": 2,
+      "awayScore": 1,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "O4troay9",
+      "date": "2026-01-24T11:00:00.000Z",
+      "round": "Round 5",
+      "homeTeam": "UD Leiria U23",
+      "awayTeam": "Estoril U23",
+      "homeScore": 2,
+      "awayScore": 3,
+      "htHome": 1,
+      "htAway": 2,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "Ms1i7qg4",
+      "date": "2026-01-24T11:00:00.000Z",
+      "round": "Round 5",
+      "homeTeam": "SC Farense U23",
+      "awayTeam": "Gil Vicente U23",
+      "homeScore": 3,
+      "awayScore": 1,
+      "htHome": 1,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "r7t6xs7d",
+      "date": "2026-01-20T15:00:00.000Z",
+      "round": "Round 3",
+      "homeTeam": "Academico Viseu U23",
+      "awayTeam": "Benfica U23",
+      "homeScore": 1,
+      "awayScore": 2,
+      "htHome": 1,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "K4op1u2m",
+      "date": "2026-01-20T15:00:00.000Z",
+      "round": "Round 4",
+      "homeTeam": "Estrela Amadora U23",
+      "awayTeam": "Vizela U23",
+      "homeScore": 4,
+      "awayScore": 0,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "xQP8d2bS",
+      "date": "2026-01-20T15:00:00.000Z",
+      "round": "Round 3",
+      "homeTeam": "Santa Clara U23",
+      "awayTeam": "Torreense U23",
+      "homeScore": 0,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "8QHRrbnJ",
+      "date": "2026-01-20T11:00:00.000Z",
+      "round": "Round 4",
+      "homeTeam": "Gil Vicente U23",
+      "awayTeam": "Rio Ave U23",
+      "homeScore": 2,
+      "awayScore": 0,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Red cards": [
+          "0",
+          "1"
+        ]
+      }
+    },
+    {
+      "id": "00EJpKH6",
+      "date": "2026-01-20T11:00:00.000Z",
+      "round": "Round 4",
+      "homeTeam": "Maritimo U23",
+      "awayTeam": "UD Leiria U23",
+      "homeScore": 1,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "z1Ti0pa3",
+      "date": "2026-01-19T15:30:00.000Z",
+      "round": "Round 3",
+      "homeTeam": "Leixoes U23",
+      "awayTeam": "Braga U23",
+      "homeScore": 1,
+      "awayScore": 2,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "lMfE61vQ",
+      "date": "2026-01-19T13:30:00.000Z",
+      "round": "Round 4",
+      "homeTeam": "Estoril U23",
+      "awayTeam": "Portimonense U23",
+      "homeScore": 1,
+      "awayScore": 2,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Red cards": [
+          "0",
+          "1"
+        ]
+      }
+    },
+    {
+      "id": "8dbeNeq2",
+      "date": "2026-01-14T15:00:00.000Z",
+      "round": "Round 3",
+      "homeTeam": "UD Leiria U23",
+      "awayTeam": "Estrela Amadora U23",
+      "homeScore": 1,
+      "awayScore": 4,
+      "htHome": 0,
+      "htAway": 2,
+      "status": "FINISHED",
+      "stats": {
+        "Red cards": [
+          "1",
+          "1"
+        ]
+      }
+    },
+    {
+      "id": "tOcnSamK",
+      "date": "2026-01-14T15:00:00.000Z",
+      "round": "Round 3",
+      "homeTeam": "Vizela U23",
+      "awayTeam": "Gil Vicente U23",
+      "homeScore": 2,
+      "awayScore": 1,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "Yaqn3hEi",
+      "date": "2026-01-14T11:00:00.000Z",
+      "round": "Round 3",
+      "homeTeam": "Portimonense U23",
+      "awayTeam": "Maritimo U23",
+      "homeScore": 3,
+      "awayScore": 2,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "0SCr95Oi",
+      "date": "2026-01-14T11:00:00.000Z",
+      "round": "Round 3",
+      "homeTeam": "Rio Ave U23",
+      "awayTeam": "SC Farense U23",
+      "homeScore": 2,
+      "awayScore": 3,
+      "htHome": 1,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "numcv3xp",
+      "date": "2026-01-13T17:00:00.000Z",
+      "round": "Round 2",
+      "homeTeam": "Sporting U23",
+      "awayTeam": "Academico Viseu U23",
+      "homeScore": 1,
+      "awayScore": 2,
+      "htHome": 1,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "UubJoopA",
+      "date": "2026-01-13T15:00:00.000Z",
+      "round": "Round 2",
+      "homeTeam": "Torreense U23",
+      "awayTeam": "Benfica U23",
+      "homeScore": 3,
+      "awayScore": 1,
+      "htHome": 1,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "jenSqPEM",
+      "date": "2026-01-13T12:00:00.000Z",
+      "round": "Round 2",
+      "homeTeam": "Braga U23",
+      "awayTeam": "Santa Clara U23",
+      "homeScore": 2,
+      "awayScore": 1,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "MFfBm7Fc",
+      "date": "2026-01-13T11:00:00.000Z",
+      "round": "Round 2",
+      "homeTeam": "Famalicao U23",
+      "awayTeam": "Leixoes U23",
+      "homeScore": 2,
+      "awayScore": 2,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "8G4PgTJt",
+      "date": "2026-01-10T15:00:00.000Z",
+      "round": "Round 2",
+      "homeTeam": "Estrela Amadora U23",
+      "awayTeam": "Portimonense U23",
+      "homeScore": 2,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Yellow cards": [
+          "1",
+          "0"
+        ],
+        "Red cards": [
+          "1",
+          "1"
+        ]
+      }
+    },
+    {
+      "id": "zVplPHEk",
+      "date": "2026-01-10T15:00:00.000Z",
+      "round": "Round 2",
+      "homeTeam": "Gil Vicente U23",
+      "awayTeam": "UD Leiria U23",
+      "homeScore": 3,
+      "awayScore": 1,
+      "htHome": 2,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "42vFZPYO",
+      "date": "2026-01-06T17:00:00.000Z",
+      "round": "Round 1",
+      "homeTeam": "Estoril U23",
+      "awayTeam": "Estrela Amadora U23",
+      "homeScore": 3,
+      "awayScore": 2,
+      "htHome": 3,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "zRA04deD",
+      "date": "2026-01-06T15:00:00.000Z",
+      "round": "Round 1",
+      "homeTeam": "Vizela U23",
+      "awayTeam": "Rio Ave U23",
+      "homeScore": 0,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "8CUyZ704",
+      "date": "2026-01-06T11:00:00.000Z",
+      "round": "Round 1",
+      "homeTeam": "Academico Viseu U23",
+      "awayTeam": "Torreense U23",
+      "homeScore": 1,
+      "awayScore": 0,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "Sp9X2by3",
+      "date": "2025-12-22T14:00:00.000Z",
+      "round": "Round 14",
+      "homeTeam": "Braga U23",
+      "awayTeam": "Academico Viseu U23",
+      "homeScore": 3,
+      "awayScore": 3,
+      "htHome": 0,
+      "htAway": 2,
+      "status": "FINISHED",
+      "stats": {
+        "Yellow cards": [
+          "0",
+          "1"
+        ],
+        "Red cards": [
+          "0",
+          "1"
+        ]
+      }
+    },
+    {
+      "id": "l0ct1x6F",
+      "date": "2025-12-22T14:00:00.000Z",
+      "round": "Round 14",
+      "homeTeam": "Famalicao U23",
+      "awayTeam": "Maritimo U23",
+      "homeScore": 6,
+      "awayScore": 2,
+      "htHome": 3,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "UHDMt8K0",
+      "date": "2025-12-22T14:00:00.000Z",
+      "round": "Round 14",
+      "homeTeam": "Rio Ave U23",
+      "awayTeam": "Leixoes U23",
+      "homeScore": 3,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "YkKDrUkl",
+      "date": "2025-12-22T14:00:00.000Z",
+      "round": "Round 14",
+      "homeTeam": "Vizela U23",
+      "awayTeam": "Gil Vicente U23",
+      "homeScore": 2,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Red cards": [
+          "0",
+          "1"
+        ]
+      }
+    },
+    {
+      "id": "8IeBO0vK",
+      "date": "2025-12-22T11:00:00.000Z",
+      "round": "Round 18",
+      "homeTeam": "Benfica U23",
+      "awayTeam": "Estoril U23",
+      "homeScore": 1,
+      "awayScore": 0,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "pEHsHIWg",
+      "date": "2025-12-22T11:00:00.000Z",
+      "round": "Round 18",
+      "homeTeam": "Estrela Amadora U23",
+      "awayTeam": "Torreense U23",
+      "homeScore": 2,
+      "awayScore": 1,
+      "htHome": 2,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Red cards": [
+          "0",
+          "1"
+        ]
+      }
+    },
+    {
+      "id": "6T5jFd16",
+      "date": "2025-12-22T11:00:00.000Z",
+      "round": "Round 18",
+      "homeTeam": "UD Leiria U23",
+      "awayTeam": "Sporting U23",
+      "homeScore": 0,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "xlEZIv2s",
+      "date": "2025-12-22T11:00:00.000Z",
+      "round": "Round 18",
+      "homeTeam": "Portimonense U23",
+      "awayTeam": "SC Farense U23",
+      "homeScore": 0,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Yellow cards": [
+          "1",
+          "1"
+        ],
+        "Red cards": [
+          "1",
+          "1"
+        ]
+      }
+    },
+    {
+      "id": "SbzxA1PQ",
+      "date": "2025-12-17T13:00:00.000Z",
+      "round": "Round 17",
+      "homeTeam": "Santa Clara U23",
+      "awayTeam": "Benfica U23",
+      "homeScore": 2,
+      "awayScore": 0,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "EsqblaM9",
+      "date": "2025-12-16T15:00:00.000Z",
+      "round": "Round 13",
+      "homeTeam": "Academico Viseu U23",
+      "awayTeam": "Famalicao U23",
+      "homeScore": 1,
+      "awayScore": 2,
+      "htHome": 0,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "4CNxsHEq",
+      "date": "2025-12-16T15:00:00.000Z",
+      "round": "Round 13",
+      "homeTeam": "Gil Vicente U23",
+      "awayTeam": "Rio Ave U23",
+      "homeScore": 2,
+      "awayScore": 2,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "8tx7nwiM",
+      "date": "2025-12-16T15:00:00.000Z",
+      "round": "Round 13",
+      "homeTeam": "Maritimo U23",
+      "awayTeam": "Vizela U23",
+      "homeScore": 2,
+      "awayScore": 0,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Red cards": [
+          "1",
+          "0"
+        ]
+      }
+    },
+    {
+      "id": "0vHoueqd",
+      "date": "2025-12-16T11:00:00.000Z",
+      "round": "Round 13",
+      "homeTeam": "Leixoes U23",
+      "awayTeam": "Braga U23",
+      "homeScore": 1,
+      "awayScore": 0,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "4Q2q4By8",
+      "date": "2025-12-15T15:00:00.000Z",
+      "round": "Round 16",
+      "homeTeam": "UD Leiria U23",
+      "awayTeam": "SC Farense U23",
+      "homeScore": 0,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "2PIw7Jjd",
+      "date": "2025-12-14T15:00:00.000Z",
+      "round": "Round 7",
+      "homeTeam": "Torreense U23",
+      "awayTeam": "Sporting U23",
+      "homeScore": 0,
+      "awayScore": 2,
+      "htHome": 0,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Red cards": [
+          "1",
+          "0"
+        ]
+      }
+    },
+    {
+      "id": "WC4y6X6e",
+      "date": "2025-12-14T11:00:00.000Z",
+      "round": "Round 16",
+      "homeTeam": "Estrela Amadora U23",
+      "awayTeam": "Estoril U23",
+      "homeScore": 1,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "zoBS7gxq",
+      "date": "2025-12-14T11:00:00.000Z",
+      "round": "Round 16",
+      "homeTeam": "Portimonense U23",
+      "awayTeam": "Santa Clara U23",
+      "homeScore": 1,
+      "awayScore": 0,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Red cards": [
+          "1",
+          "0"
+        ]
+      }
+    },
+    {
+      "id": "4dylFyp9",
+      "date": "2025-12-10T12:00:00.000Z",
+      "round": "Round 15",
+      "homeTeam": "Estoril U23",
+      "awayTeam": "UD Leiria U23",
+      "homeScore": 2,
+      "awayScore": 2,
+      "htHome": 1,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Red cards": [
+          "1",
+          "0"
+        ]
+      }
+    },
+    {
+      "id": "Uk5gjwxi",
+      "date": "2025-12-09T15:00:00.000Z",
+      "round": "Round 12",
+      "homeTeam": "Rio Ave U23",
+      "awayTeam": "Maritimo U23",
+      "homeScore": 2,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Red cards": [
+          "0",
+          "2"
+        ]
+      }
+    },
+    {
+      "id": "b7ENeaET",
+      "date": "2025-12-09T15:00:00.000Z",
+      "round": "Round 12",
+      "homeTeam": "Vizela U23",
+      "awayTeam": "Academico Viseu U23",
+      "homeScore": 1,
+      "awayScore": 2,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "xjq2iYi2",
+      "date": "2025-12-09T12:00:00.000Z",
+      "round": "Round 15",
+      "homeTeam": "Santa Clara U23",
+      "awayTeam": "Estrela Amadora U23",
+      "homeScore": 2,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "6HujjLic",
+      "date": "2025-12-09T11:00:00.000Z",
+      "round": "Round 12",
+      "homeTeam": "Leixoes U23",
+      "awayTeam": "Gil Vicente U23",
+      "homeScore": 1,
+      "awayScore": 1,
+      "htHome": 1,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "hfqNcLqH",
+      "date": "2025-12-08T15:00:00.000Z",
+      "round": "Round 12",
+      "homeTeam": "Famalicao U23",
+      "awayTeam": "Braga U23",
+      "homeScore": 1,
+      "awayScore": 2,
+      "htHome": 1,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "tOkggfNk",
+      "date": "2025-12-05T15:00:00.000Z",
+      "round": "Round 15",
+      "homeTeam": "Benfica U23",
+      "awayTeam": "Portimonense U23",
+      "homeScore": 2,
+      "awayScore": 1,
+      "htHome": 1,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Yellow cards": [
+          "0",
+          "1"
+        ],
+        "Red cards": [
+          "0",
+          "1"
+        ]
+      }
+    },
+    {
+      "id": "QBPdDFEL",
+      "date": "2025-12-05T11:00:00.000Z",
+      "round": "Round 15",
+      "homeTeam": "SC Farense U23",
+      "awayTeam": "Sporting U23",
+      "homeScore": 2,
+      "awayScore": 2,
+      "htHome": 1,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "KtoFasF4",
+      "date": "2025-12-03T11:00:00.000Z",
+      "round": "Round 11",
+      "homeTeam": "Braga U23",
+      "awayTeam": "Gil Vicente U23",
+      "homeScore": 2,
+      "awayScore": 1,
+      "htHome": 1,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "d8aKw0ho",
+      "date": "2025-12-02T15:00:00.000Z",
+      "round": "Round 11",
+      "homeTeam": "Academico Viseu U23",
+      "awayTeam": "Rio Ave U23",
+      "homeScore": 2,
+      "awayScore": 1,
+      "htHome": 1,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "t6vJisno",
+      "date": "2025-12-02T15:00:00.000Z",
+      "round": "Round 14",
+      "homeTeam": "Estrela Amadora U23",
+      "awayTeam": "Benfica U23",
+      "homeScore": 0,
+      "awayScore": 2,
+      "htHome": 0,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "M1H5Fpvh",
+      "date": "2025-12-02T11:00:00.000Z",
+      "round": "Round 14",
+      "homeTeam": "UD Leiria U23",
+      "awayTeam": "Santa Clara U23",
+      "homeScore": 0,
+      "awayScore": 2,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Yellow cards": [
+          "1",
+          "0"
+        ],
+        "Red cards": [
+          "1",
+          "0"
+        ]
+      }
+    },
+    {
+      "id": "OEi613ph",
+      "date": "2025-12-02T11:00:00.000Z",
+      "round": "Round 11",
+      "homeTeam": "Maritimo U23",
+      "awayTeam": "Leixoes U23",
+      "homeScore": 0,
+      "awayScore": 3,
+      "htHome": 0,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Red cards": [
+          "1",
+          "0"
+        ]
+      }
+    },
+    {
+      "id": "URKDDO84",
+      "date": "2025-12-01T16:00:00.000Z",
+      "round": "Round 14",
+      "homeTeam": "Sporting U23",
+      "awayTeam": "Estoril U23",
+      "homeScore": 3,
+      "awayScore": 2,
+      "htHome": 1,
+      "htAway": 2,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "AyTLB2wH",
+      "date": "2025-12-01T15:00:00.000Z",
+      "round": "Round 14",
+      "homeTeam": "Torreense U23",
+      "awayTeam": "SC Farense U23",
+      "homeScore": 0,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "CzOmqMUN",
+      "date": "2025-12-01T11:00:00.000Z",
+      "round": "Round 11",
+      "homeTeam": "Famalicao U23",
+      "awayTeam": "Vizela U23",
+      "homeScore": 1,
+      "awayScore": 0,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Yellow cards": [
+          "1",
+          "0"
+        ],
+        "Red cards": [
+          "1",
+          "0"
+        ]
+      }
+    },
+    {
+      "id": "6wLuor0B",
+      "date": "2025-11-26T15:00:00.000Z",
+      "round": "Round 10",
+      "homeTeam": "Gil Vicente U23",
+      "awayTeam": "Maritimo U23",
+      "homeScore": 0,
+      "awayScore": 0,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Red cards": [
+          "0",
+          "1"
+        ]
+      }
+    },
+    {
+      "id": "MutV27fn",
+      "date": "2025-11-26T15:00:00.000Z",
+      "round": "Round 13",
+      "homeTeam": "Portimonense U23",
+      "awayTeam": "Estrela Amadora U23",
+      "homeScore": 0,
+      "awayScore": 2,
+      "htHome": 0,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "zPHmjUAt",
+      "date": "2025-11-26T12:00:00.000Z",
+      "round": "Round 11",
+      "homeTeam": "Santa Clara U23",
+      "awayTeam": "SC Farense U23",
+      "homeScore": 2,
+      "awayScore": 0,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "bXcEUMFU",
+      "date": "2025-11-26T11:00:00.000Z",
+      "round": "Round 10",
+      "homeTeam": "Vizela U23",
+      "awayTeam": "Braga U23",
+      "homeScore": 2,
+      "awayScore": 0,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Red cards": [
+          "1",
+          "0"
+        ]
+      }
+    },
+    {
+      "id": "ANmmc3ON",
+      "date": "2025-11-25T15:00:00.000Z",
+      "round": "Round 13",
+      "homeTeam": "Estoril U23",
+      "awayTeam": "Torreense U23",
+      "homeScore": 1,
+      "awayScore": 3,
+      "htHome": 1,
+      "htAway": 3,
+      "status": "FINISHED",
+      "stats": {
+        "Red cards": [
+          "0",
+          "1"
+        ]
+      }
+    },
+    {
+      "id": "xbTOlQ0n",
+      "date": "2025-11-25T15:00:00.000Z",
+      "round": "Round 10",
+      "homeTeam": "Rio Ave U23",
+      "awayTeam": "Famalicao U23",
+      "homeScore": 2,
+      "awayScore": 2,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "ABRWn4Vb",
+      "date": "2025-11-25T11:00:00.000Z",
+      "round": "Round 10",
+      "homeTeam": "Leixoes U23",
+      "awayTeam": "Academico Viseu U23",
+      "homeScore": 1,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "KdFG2JH0",
+      "date": "2025-11-19T15:00:00.000Z",
+      "round": "Round 17",
+      "homeTeam": "SC Farense U23",
+      "awayTeam": "Estrela Amadora U23",
+      "homeScore": 4,
+      "awayScore": 0,
+      "htHome": 3,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "GO8P0cnD",
+      "date": "2025-11-18T15:00:00.000Z",
+      "round": "Round 17",
+      "homeTeam": "Torreense U23",
+      "awayTeam": "UD Leiria U23",
+      "homeScore": 2,
+      "awayScore": 0,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Red cards": [
+          "1",
+          "0"
+        ]
+      }
+    },
+    {
+      "id": "CWB84uml",
+      "date": "2025-11-17T17:00:00.000Z",
+      "round": "Round 17",
+      "homeTeam": "Estoril U23",
+      "awayTeam": "Portimonense U23",
+      "homeScore": 0,
+      "awayScore": 0,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "jLXoaPgB",
+      "date": "2025-11-14T15:30:00.000Z",
+      "round": "Round 13",
+      "homeTeam": "Santa Clara U23",
+      "awayTeam": "Sporting U23",
+      "homeScore": 0,
+      "awayScore": 2,
+      "htHome": 0,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "I7Zw1oPb",
+      "date": "2025-11-13T15:00:00.000Z",
+      "round": "Round 13",
+      "homeTeam": "Benfica U23",
+      "awayTeam": "UD Leiria U23",
+      "homeScore": 1,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "8xGel8ug",
+      "date": "2025-11-08T15:00:00.000Z",
+      "round": "Round 12",
+      "homeTeam": "UD Leiria U23",
+      "awayTeam": "Portimonense U23",
+      "homeScore": 1,
+      "awayScore": 3,
+      "htHome": 0,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "A1CCpQvI",
+      "date": "2025-11-08T11:00:00.000Z",
+      "round": "Round 12",
+      "homeTeam": "Torreense U23",
+      "awayTeam": "Santa Clara U23",
+      "homeScore": 3,
+      "awayScore": 1,
+      "htHome": 2,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "CGa6WroI",
+      "date": "2025-11-06T15:00:00.000Z",
+      "round": "Round 9",
+      "homeTeam": "Vizela U23",
+      "awayTeam": "Rio Ave U23",
+      "homeScore": 3,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "WG0Lr49U",
+      "date": "2025-11-05T11:30:00.000Z",
+      "round": "Round 12",
+      "homeTeam": "SC Farense U23",
+      "awayTeam": "Estoril U23",
+      "homeScore": 1,
+      "awayScore": 0,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "ry8kzRog",
+      "date": "2025-11-04T15:00:00.000Z",
+      "round": "Round 9",
+      "homeTeam": "Academico Viseu U23",
+      "awayTeam": "Gil Vicente U23",
+      "homeScore": 3,
+      "awayScore": 1,
+      "htHome": 1,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Red cards": [
+          "1",
+          "0"
+        ]
+      }
+    },
+    {
+      "id": "n9EtxmHt",
+      "date": "2025-11-04T15:00:00.000Z",
+      "round": "Round 9",
+      "homeTeam": "Famalicao U23",
+      "awayTeam": "Leixoes U23",
+      "homeScore": 1,
+      "awayScore": 3,
+      "htHome": 1,
+      "htAway": 2,
+      "status": "FINISHED",
+      "stats": {
+        "Red cards": [
+          "1",
+          "0"
+        ]
+      }
+    },
+    {
+      "id": "j1BcY4G5",
+      "date": "2025-11-02T15:00:00.000Z",
+      "round": "Round 9",
+      "homeTeam": "Braga U23",
+      "awayTeam": "Maritimo U23",
+      "homeScore": 2,
+      "awayScore": 1,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "lEKmL9B6",
+      "date": "2025-10-30T11:00:00.000Z",
+      "round": "Round 10",
+      "homeTeam": "Sporting U23",
+      "awayTeam": "Estrela Amadora U23",
+      "homeScore": 1,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "rDDdJmtJ",
+      "date": "2025-10-29T15:00:00.000Z",
+      "round": "Round 10",
+      "homeTeam": "Torreense U23",
+      "awayTeam": "Portimonense U23",
+      "homeScore": 2,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "fisFyVem",
+      "date": "2025-10-29T11:00:00.000Z",
+      "round": "Round 10",
+      "homeTeam": "Estoril U23",
+      "awayTeam": "Santa Clara U23",
+      "homeScore": 1,
+      "awayScore": 2,
+      "htHome": 1,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "GWfNWiu1",
+      "date": "2025-10-28T15:00:00.000Z",
+      "round": "Round 8",
+      "homeTeam": "Gil Vicente U23",
+      "awayTeam": "Famalicao U23",
+      "homeScore": 1,
+      "awayScore": 2,
+      "htHome": 1,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "86iFYDAl",
+      "date": "2025-10-28T15:00:00.000Z",
+      "round": "Round 8",
+      "homeTeam": "Leixoes U23",
+      "awayTeam": "Vizela U23",
+      "homeScore": 4,
+      "awayScore": 0,
+      "htHome": 2,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "OYFrvzmR",
+      "date": "2025-10-28T15:00:00.000Z",
+      "round": "Round 8",
+      "homeTeam": "Rio Ave U23",
+      "awayTeam": "Braga U23",
+      "homeScore": 1,
+      "awayScore": 2,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "dt3VUV9D",
+      "date": "2025-10-28T11:00:00.000Z",
+      "round": "Round 8",
+      "homeTeam": "Maritimo U23",
+      "awayTeam": "Academico Viseu U23",
+      "homeScore": 1,
+      "awayScore": 1,
+      "htHome": 1,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "tlHuNVtf",
+      "date": "2025-10-25T15:00:00.000Z",
+      "round": "Round 9",
+      "homeTeam": "Sporting U23",
+      "awayTeam": "UD Leiria U23",
+      "homeScore": 1,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "zidKJdz2",
+      "date": "2025-10-25T10:00:00.000Z",
+      "round": "Round 9",
+      "homeTeam": "Estoril U23",
+      "awayTeam": "Benfica U23",
+      "homeScore": 1,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "dt3VUV9D",
+      "date": "2025-10-28T11:00:00.000Z",
+      "round": "Round 8",
+      "homeTeam": "Maritimo U23",
+      "awayTeam": "Academico Viseu U23",
+      "homeScore": 1,
+      "awayScore": 1,
+      "htHome": 1,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "tlHuNVtf",
+      "date": "2025-10-25T15:00:00.000Z",
+      "round": "Round 9",
+      "homeTeam": "Sporting U23",
+      "awayTeam": "UD Leiria U23",
+      "homeScore": 1,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "zidKJdz2",
+      "date": "2025-10-25T10:00:00.000Z",
+      "round": "Round 9",
+      "homeTeam": "Estoril U23",
+      "awayTeam": "Benfica U23",
+      "homeScore": 1,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "8pGvMzRr",
+      "date": "2025-10-21T14:00:00.000Z",
+      "round": "Round 7",
+      "homeTeam": "Academico Viseu U23",
+      "awayTeam": "Braga U23",
+      "homeScore": 2,
+      "awayScore": 2,
+      "htHome": 1,
+      "htAway": 2,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "rgHuRvrS",
+      "date": "2025-10-21T14:00:00.000Z",
+      "round": "Round 8",
+      "homeTeam": "Estrela Amadora U23",
+      "awayTeam": "SC Farense U23",
+      "homeScore": 0,
+      "awayScore": 2,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "xQ7eIhQ7",
+      "date": "2025-10-21T14:00:00.000Z",
+      "round": "Round 7",
+      "homeTeam": "Gil Vicente U23",
+      "awayTeam": "Vizela U23",
+      "homeScore": 1,
+      "awayScore": 0,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "G8CztdIE",
+      "date": "2025-10-21T14:00:00.000Z",
+      "round": "Round 7",
+      "homeTeam": "Leixoes U23",
+      "awayTeam": "Rio Ave U23",
+      "homeScore": 3,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "zTDXS0DF",
+      "date": "2025-10-21T11:00:00.000Z",
+      "round": "Round 8",
+      "homeTeam": "Portimonense U23",
+      "awayTeam": "Estoril U23",
+      "homeScore": 2,
+      "awayScore": 1,
+      "htHome": 1,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Red cards": [
+          "1",
+          "0"
+        ]
+      }
+    },
+    {
+      "id": "4C9mKEee",
+      "date": "2025-10-21T10:00:00.000Z",
+      "round": "Round 7",
+      "homeTeam": "Maritimo U23",
+      "awayTeam": "Famalicao U23",
+      "homeScore": 0,
+      "awayScore": 6,
+      "htHome": 0,
+      "htAway": 3,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "2wbCLI5k",
+      "date": "2025-10-20T15:00:00.000Z",
+      "round": "Round 8",
+      "homeTeam": "UD Leiria U23",
+      "awayTeam": "Torreense U23",
+      "homeScore": 1,
+      "awayScore": 3,
+      "htHome": 0,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "EDPOUMr3",
+      "date": "2025-10-18T12:00:00.000Z",
+      "round": "Round 8",
+      "homeTeam": "Benfica U23",
+      "awayTeam": "Santa Clara U23",
+      "homeScore": 2,
+      "awayScore": 0,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Red cards": [
+          "0",
+          "1"
+        ]
+      }
+    },
+    {
+      "id": "OWYVXneC",
+      "date": "2025-10-16T14:00:00.000Z",
+      "round": "Round 11",
+      "homeTeam": "Portimonense U23",
+      "awayTeam": "Sporting U23",
+      "homeScore": 1,
+      "awayScore": 0,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Yellow cards": [
+          "1",
+          "0"
+        ],
+        "Red cards": [
+          "1",
+          "0"
+        ]
+      }
+    },
+    {
+      "id": "Imqv0jME",
+      "date": "2025-10-13T12:00:00.000Z",
+      "round": "Round 1",
+      "homeTeam": "Santa Clara U23",
+      "awayTeam": "Estoril U23",
+      "homeScore": 1,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "z70rsiYP",
+      "date": "2025-10-13T10:00:00.000Z",
+      "round": "Round 10",
+      "homeTeam": "SC Farense U23",
+      "awayTeam": "Benfica U23",
+      "homeScore": 2,
+      "awayScore": 1,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "M1XTBNfE",
+      "date": "2025-10-12T15:45:00.000Z",
+      "round": "Round 16",
+      "homeTeam": "Sporting U23",
+      "awayTeam": "Torreense U23",
+      "homeScore": 0,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Red cards": [
+          "1",
+          "0"
+        ]
+      }
+    },
+    {
+      "id": "2HpNZ8Qa",
+      "date": "2025-10-11T14:00:00.000Z",
+      "round": "Round 11",
+      "homeTeam": "Estrela Amadora U23",
+      "awayTeam": "UD Leiria U23",
+      "homeScore": 1,
+      "awayScore": 1,
+      "htHome": 1,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "EZ0as0S8",
+      "date": "2025-10-08T14:00:00.000Z",
+      "round": "Round 9",
+      "homeTeam": "SC Farense U23",
+      "awayTeam": "Portimonense U23",
+      "homeScore": 1,
+      "awayScore": 2,
+      "htHome": 0,
+      "htAway": 2,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "KYSWOiCs",
+      "date": "2025-10-06T14:00:00.000Z",
+      "round": "Round 9",
+      "homeTeam": "Torreense U23",
+      "awayTeam": "Estrela Amadora U23",
+      "homeScore": 2,
+      "awayScore": 1,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "4494nnA5",
+      "date": "2025-10-05T10:00:00.000Z",
+      "round": "Round 12",
+      "homeTeam": "Sporting U23",
+      "awayTeam": "Benfica U23",
+      "homeScore": 0,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "Gny0TIY8",
+      "date": "2025-10-01T10:00:00.000Z",
+      "round": "Round 6",
+      "homeTeam": "Rio Ave U23",
+      "awayTeam": "Gil Vicente U23",
+      "homeScore": 1,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "6cPU8uMq",
+      "date": "2025-09-30T16:00:00.000Z",
+      "round": "Round 7",
+      "homeTeam": "SC Farense U23",
+      "awayTeam": "UD Leiria U23",
+      "homeScore": 0,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "x2P8Rd3L",
+      "date": "2025-09-30T14:00:00.000Z",
+      "round": "Round 6",
+      "homeTeam": "Braga U23",
+      "awayTeam": "Leixoes U23",
+      "homeScore": 2,
+      "awayScore": 2,
+      "htHome": 1,
+      "htAway": 2,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "fsj57yCk",
+      "date": "2025-09-30T14:00:00.000Z",
+      "round": "Round 6",
+      "homeTeam": "Famalicao U23",
+      "awayTeam": "Academico Viseu U23",
+      "homeScore": 0,
+      "awayScore": 2,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "EapjGNT9",
+      "date": "2025-09-30T11:00:00.000Z",
+      "round": "Round 7",
+      "homeTeam": "Santa Clara U23",
+      "awayTeam": "Portimonense U23",
+      "homeScore": 1,
+      "awayScore": 0,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Red cards": [
+          "0",
+          "1"
+        ]
+      }
+    },
+    {
+      "id": "ARwaE1bM",
+      "date": "2025-09-30T10:00:00.000Z",
+      "round": "Round 7",
+      "homeTeam": "Estoril U23",
+      "awayTeam": "Estrela Amadora U23",
+      "homeScore": 3,
+      "awayScore": 3,
+      "htHome": 0,
+      "htAway": 2,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "j9qE5Ft2",
+      "date": "2025-09-30T10:00:00.000Z",
+      "round": "Round 6",
+      "homeTeam": "Vizela U23",
+      "awayTeam": "Maritimo U23",
+      "homeScore": 2,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "KxPG1OEG",
+      "date": "2025-09-24T10:00:00.000Z",
+      "round": "Round 6",
+      "homeTeam": "Portimonense U23",
+      "awayTeam": "Benfica U23",
+      "homeScore": 1,
+      "awayScore": 2,
+      "htHome": 1,
+      "htAway": 2,
+      "status": "FINISHED",
+      "stats": {
+        "Yellow cards": [
+          "0",
+          "1"
+        ],
+        "Red cards": [
+          "1",
+          "1"
+        ]
+      }
+    },
+    {
+      "id": "nm9eft7j",
+      "date": "2025-09-23T15:00:00.000Z",
+      "round": "Round 6",
+      "homeTeam": "UD Leiria U23",
+      "awayTeam": "Estoril U23",
+      "homeScore": 3,
+      "awayScore": 0,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "UHcJGuk3",
+      "date": "2025-09-23T14:00:00.000Z",
+      "round": "Round 5",
+      "homeTeam": "Academico Viseu U23",
+      "awayTeam": "Vizela U23",
+      "homeScore": 4,
+      "awayScore": 0,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "lMKWhxcd",
+      "date": "2025-09-23T14:00:00.000Z",
+      "round": "Round 5",
+      "homeTeam": "Braga U23",
+      "awayTeam": "Famalicao U23",
+      "homeScore": 1,
+      "awayScore": 1,
+      "htHome": 1,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Yellow cards": [
+          "0",
+          "1"
+        ],
+        "Red cards": [
+          "0",
+          "1"
+        ]
+      }
+    },
+    {
+      "id": "bB4ZCclS",
+      "date": "2025-09-23T14:00:00.000Z",
+      "round": "Round 5",
+      "homeTeam": "Gil Vicente U23",
+      "awayTeam": "Leixoes U23",
+      "homeScore": 1,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "G4IPa2qT",
+      "date": "2025-09-23T10:00:00.000Z",
+      "round": "Round 6",
+      "homeTeam": "Estrela Amadora U23",
+      "awayTeam": "Santa Clara U23",
+      "homeScore": 0,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "2qBQEJJF",
+      "date": "2025-09-23T10:00:00.000Z",
+      "round": "Round 5",
+      "homeTeam": "Maritimo U23",
+      "awayTeam": "Rio Ave U23",
+      "homeScore": 0,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Yellow cards": [
+          "0",
+          "1"
+        ],
+        "Red cards": [
+          "0",
+          "1"
+        ]
+      }
+    },
+    {
+      "id": "SrnrIqac",
+      "date": "2025-09-21T14:00:00.000Z",
+      "round": "Round 6",
+      "homeTeam": "Sporting U23",
+      "awayTeam": "SC Farense U23",
+      "homeScore": 3,
+      "awayScore": 0,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "dbnwWQPO",
+      "date": "2025-09-20T15:00:00.000Z",
+      "round": "Round 11",
+      "homeTeam": "Benfica U23",
+      "awayTeam": "Torreense U23",
+      "homeScore": 1,
+      "awayScore": 0,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "tdHOfbSq",
+      "date": "2025-09-17T14:00:00.000Z",
+      "round": "Round 4",
+      "homeTeam": "Gil Vicente U23",
+      "awayTeam": "Braga U23",
+      "homeScore": 2,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "faqy425c",
+      "date": "2025-09-16T16:00:00.000Z",
+      "round": "Round 4",
+      "homeTeam": "Vizela U23",
+      "awayTeam": "Famalicao U23",
+      "homeScore": 0,
+      "awayScore": 3,
+      "htHome": 0,
+      "htAway": 3,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "lbxp2tzA",
+      "date": "2025-09-16T14:00:00.000Z",
+      "round": "Round 4",
+      "homeTeam": "Rio Ave U23",
+      "awayTeam": "Academico Viseu U23",
+      "homeScore": 1,
+      "awayScore": 3,
+      "htHome": 0,
+      "htAway": 2,
+      "status": "FINISHED",
+      "stats": {
+        "Red cards": [
+          "1",
+          "0"
+        ]
+      }
+    },
+    {
+      "id": "QJuEs3Np",
+      "date": "2025-09-16T11:00:00.000Z",
+      "round": "Round 5",
+      "homeTeam": "Santa Clara U23",
+      "awayTeam": "UD Leiria U23",
+      "homeScore": 1,
+      "awayScore": 2,
+      "htHome": 1,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "MBzh0K4M",
+      "date": "2025-09-16T10:00:00.000Z",
+      "round": "Round 4",
+      "homeTeam": "Leixoes U23",
+      "awayTeam": "Maritimo U23",
+      "homeScore": 2,
+      "awayScore": 2,
+      "htHome": 2,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "nPQ83pp4",
+      "date": "2025-09-15T10:00:00.000Z",
+      "round": "Round 5",
+      "homeTeam": "SC Farense U23",
+      "awayTeam": "Torreense U23",
+      "homeScore": 0,
+      "awayScore": 2,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "tn4smPaN",
+      "date": "2025-09-13T10:00:00.000Z",
+      "round": "Round 5",
+      "homeTeam": "Benfica U23",
+      "awayTeam": "Estrela Amadora U23",
+      "homeScore": 4,
+      "awayScore": 1,
+      "htHome": 2,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "hQXa56Fi",
+      "date": "2025-09-12T11:00:00.000Z",
+      "round": "Round 5",
+      "homeTeam": "Estoril U23",
+      "awayTeam": "Sporting U23",
+      "homeScore": 0,
+      "awayScore": 5,
+      "htHome": 0,
+      "htAway": 3,
+      "status": "FINISHED",
+      "stats": {
+        "Yellow cards": [
+          "1",
+          "0"
+        ],
+        "Red cards": [
+          "2",
+          "0"
+        ]
+      }
+    },
+    {
+      "id": "0IaYmjFa",
+      "date": "2025-09-09T15:00:00.000Z",
+      "round": "Round 2",
+      "homeTeam": "Rio Ave U23",
+      "awayTeam": "Vizela U23",
+      "homeScore": 2,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "A5n05obf",
+      "date": "2025-09-09T11:00:00.000Z",
+      "round": "Round 3",
+      "homeTeam": "Santa Clara U23",
+      "awayTeam": "Torreense U23",
+      "homeScore": 2,
+      "awayScore": 0,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "ShiktaDj",
+      "date": "2025-09-02T10:00:00.000Z",
+      "round": "Round 3",
+      "homeTeam": "Maritimo U23",
+      "awayTeam": "Gil Vicente U23",
+      "homeScore": 2,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "2u1ixmU7",
+      "date": "2025-08-31T14:00:00.000Z",
+      "round": "Round 1",
+      "homeTeam": "Benfica U23",
+      "awayTeam": "SC Farense U23",
+      "homeScore": 2,
+      "awayScore": 1,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "YL0ZloVA",
+      "date": "2025-08-28T15:00:00.000Z",
+      "round": "Round 4",
+      "homeTeam": "Torreense U23",
+      "awayTeam": "Estoril U23",
+      "homeScore": 1,
+      "awayScore": 2,
+      "htHome": 1,
+      "htAway": 2,
+      "status": "FINISHED",
+      "stats": {
+        "Red cards": [
+          "1",
+          "0"
+        ]
+      }
+    },
+    {
+      "id": "vovH13cJ",
+      "date": "2025-08-27T16:00:00.000Z",
+      "round": "Round 4",
+      "homeTeam": "Estrela Amadora U23",
+      "awayTeam": "Portimonense U23",
+      "homeScore": 2,
+      "awayScore": 0,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Red cards": [
+          "0",
+          "1"
+        ]
+      }
+    },
+    {
+      "id": "0vy90Tb5",
+      "date": "2025-08-27T15:00:00.000Z",
+      "round": "Round 3",
+      "homeTeam": "Famalicao U23",
+      "awayTeam": "Rio Ave U23",
+      "homeScore": 2,
+      "awayScore": 0,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "feXQhTVo",
+      "date": "2025-08-26T18:00:00.000Z",
+      "round": "Round 4",
+      "homeTeam": "UD Leiria U23",
+      "awayTeam": "Benfica U23",
+      "homeScore": 2,
+      "awayScore": 4,
+      "htHome": 1,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "84vHb7TH",
+      "date": "2025-08-26T15:00:00.000Z",
+      "round": "Round 3",
+      "homeTeam": "Academico Viseu U23",
+      "awayTeam": "Leixoes U23",
+      "homeScore": 1,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "txL72kUh",
+      "date": "2025-08-26T15:00:00.000Z",
+      "round": "Round 3",
+      "homeTeam": "Braga U23",
+      "awayTeam": "Vizela U23",
+      "homeScore": 3,
+      "awayScore": 3,
+      "htHome": 2,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Red cards": [
+          "0",
+          "1"
+        ]
+      }
+    },
+    {
+      "id": "S8VYj70b",
+      "date": "2025-08-26T10:00:00.000Z",
+      "round": "Round 4",
+      "homeTeam": "Sporting U23",
+      "awayTeam": "Santa Clara U23",
+      "homeScore": 0,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "48qh77Ts",
+      "date": "2025-08-21T19:00:00.000Z",
+      "round": "Round 3",
+      "homeTeam": "Benfica U23",
+      "awayTeam": "Sporting U23",
+      "homeScore": 3,
+      "awayScore": 2,
+      "htHome": 0,
+      "htAway": 2,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "WKz93PS6",
+      "date": "2025-08-21T16:00:00.000Z",
+      "round": "Round 3",
+      "homeTeam": "Estoril U23",
+      "awayTeam": "SC Farense U23",
+      "homeScore": 0,
+      "awayScore": 2,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "pO2LCT5K",
+      "date": "2025-08-21T15:00:00.000Z",
+      "round": "Round 3",
+      "homeTeam": "Portimonense U23",
+      "awayTeam": "UD Leiria U23",
+      "homeScore": 0,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Red cards": [
+          "1",
+          "0"
+        ]
+      }
+    },
+    {
+      "id": "8OMa4Bat",
+      "date": "2025-08-21T10:00:00.000Z",
+      "round": "Round 2",
+      "homeTeam": "Maritimo U23",
+      "awayTeam": "Braga U23",
+      "homeScore": 1,
+      "awayScore": 2,
+      "htHome": 1,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Red cards": [
+          "1",
+          "0"
+        ]
+      }
+    },
+    {
+      "id": "MXmsnUqC",
+      "date": "2025-08-20T17:00:00.000Z",
+      "round": "Round 2",
+      "homeTeam": "Leixoes U23",
+      "awayTeam": "Famalicao U23",
+      "homeScore": 3,
+      "awayScore": 2,
+      "htHome": 1,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "Ucikp8EO",
+      "date": "2025-08-20T15:00:00.000Z",
+      "round": "Round 2",
+      "homeTeam": "Gil Vicente U23",
+      "awayTeam": "Academico Viseu U23",
+      "homeScore": 2,
+      "awayScore": 0,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "d2MQjnq1",
+      "date": "2025-08-16T16:00:00.000Z",
+      "round": "Round 2",
+      "homeTeam": "Torreense U23",
+      "awayTeam": "Benfica U23",
+      "homeScore": 1,
+      "awayScore": 0,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "AoOIh8El",
+      "date": "2025-08-15T19:00:00.000Z",
+      "round": "Round 2",
+      "homeTeam": "Sporting U23",
+      "awayTeam": "Portimonense U23",
+      "homeScore": 3,
+      "awayScore": 0,
+      "htHome": 3,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "QDnnbUjR",
+      "date": "2025-08-15T16:00:00.000Z",
+      "round": "Round 2",
+      "homeTeam": "UD Leiria U23",
+      "awayTeam": "Estrela Amadora U23",
+      "homeScore": 1,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "hUFZlQDD",
+      "date": "2025-08-14T10:00:00.000Z",
+      "round": "Round 2",
+      "homeTeam": "SC Farense U23",
+      "awayTeam": "Santa Clara U23",
+      "homeScore": 1,
+      "awayScore": 3,
+      "htHome": 1,
+      "htAway": 2,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "lQ0feYMP",
+      "date": "2025-08-13T15:00:00.000Z",
+      "round": "Round 1",
+      "homeTeam": "Famalicao U23",
+      "awayTeam": "Gil Vicente U23",
+      "homeScore": 1,
+      "awayScore": 2,
+      "htHome": 0,
+      "htAway": 2,
+      "status": "FINISHED",
+      "stats": {
+        "Yellow cards": [
+          "1",
+          "0"
+        ],
+        "Red cards": [
+          "1",
+          "0"
+        ]
+      }
+    },
+    {
+      "id": "8AsRkCpm",
+      "date": "2025-08-12T10:00:00.000Z",
+      "round": "Round 1",
+      "homeTeam": "Academico Viseu U23",
+      "awayTeam": "Maritimo U23",
+      "homeScore": 4,
+      "awayScore": 0,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "dWD8XUUI",
+      "date": "2025-08-12T10:00:00.000Z",
+      "round": "Round 1",
+      "homeTeam": "Vizela U23",
+      "awayTeam": "Leixoes U23",
+      "homeScore": 2,
+      "awayScore": 2,
+      "htHome": 1,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "04KaZj06",
+      "date": "2025-08-11T15:00:00.000Z",
+      "round": "Round 1",
+      "homeTeam": "Braga U23",
+      "awayTeam": "Rio Ave U23",
+      "homeScore": 2,
+      "awayScore": 1,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "lIfytVUr",
+      "date": "2025-08-10T16:00:00.000Z",
+      "round": "Round 1",
+      "homeTeam": "Estrela Amadora U23",
+      "awayTeam": "Sporting U23",
+      "homeScore": 1,
+      "awayScore": 3,
+      "htHome": 0,
+      "htAway": 3,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "UR2qv9ae",
+      "date": "2025-08-10T10:00:00.000Z",
+      "round": "Round 1",
+      "homeTeam": "Portimonense U23",
+      "awayTeam": "Torreense U23",
+      "homeScore": 1,
+      "awayScore": 4,
+      "htHome": 1,
+      "htAway": 3,
+      "status": "FINISHED",
+      "stats": {
+        "Yellow cards": [
+          "1",
+          "0"
+        ],
+        "Red cards": [
+          "2",
+          "0"
+        ]
+      }
+    }
+  ]
+}

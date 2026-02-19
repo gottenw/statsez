@@ -1,0 +1,79 @@
+# Quantsports API - Referência para LLMs
+
+## Visão Geral
+A Quantsports API fornece dados históricos de futebol de mais de 500 ligas mundiais. Focada em análise estatística e histórico, a API NÃO fornece dados em tempo real (livescore). Todos os dados são consolidados pós-partida.
+
+## Configurações Base
+- **URL Base:** `https://api.quantsports.com/v1`
+- **Autenticação:** Header `x-api-key: sua_chave_aqui`
+- **Formato:** JSON (UTF-8)
+- **Rate Limit:** 60 req/min por chave.
+- **Quota:** Ciclo quinzenal (Renovação 50% dia 1, 50% dia 15).
+
+## Endpoints Disponíveis (9)
+
+### 1. LISTAR LIGAS
+`GET /football/leagues`
+- **Parâmetros:** `country` (opcional)
+- **Uso:** Retorna todas as competições suportadas.
+
+### 2. LISTAR PARTIDAS (FIXTURES)
+`GET /football/fixtures`
+- **Parâmetros:** `league` (opcional), `team` (opcional), `round` (opcional), `date` (opcional - YYYY-MM-DD).
+- **Uso:** Retorna lista de jogos com placares finais e parciais.
+
+### 3. CLASSIFICAÇÃO (STANDINGS)
+`GET /football/standings`
+- **Parâmetros:** `league` (obrigatório)
+- **Uso:** Tabela completa com posição, pontos, gols e saldo.
+
+### 4. ESTATÍSTICAS DA PARTIDA
+`GET /football/fixtures/{id}/stats`
+- **Uso:** Mais de 30 métricas detalhadas (xG, posse, chutes no alvo, big chances, etc).
+
+### 5. ESCALAÇÕES (LINEUPS)
+`GET /football/fixtures/{id}/lineups`
+- **Uso:** Formações táticas (ex: 4-3-3) e lista completa de jogadores titulares com posições e números.
+
+### 6. EVENTOS DA PARTIDA (TIMELINE)
+`GET /football/fixtures/{id}/events`
+- **Uso:** Cronologia de Gols (com assistências), Cartões Amarelos/Vermelhos e Substituições.
+
+### 7. LISTAR TIMES
+`GET /football/teams`
+- **Parâmetros:** `league` (opcional), `search` (opcional).
+- **Uso:** Retorna lista de clubes disponíveis na base de dados.
+
+### 8. JOGOS POR TIME
+`GET /football/teams/{teamName}/fixtures`
+- **Uso:** Histórico completo de partidas de um clube específico através de todas as competições.
+
+### 9. ESTATÍSTICAS AGREGADAS DA LIGA
+`GET /football/leagues/{leagueId}/stats`
+- **Uso:** Médias da liga (gols por jogo, % de vitórias em casa/fora, total de empates).
+
+## Estrutura de Metadados (Meta)
+Todas as respostas de sucesso incluem o objeto `meta`:
+```json
+"meta": {
+  "cached": true,      // Se o dado veio do cache Redis/Local
+  "remainingQuota": 1450 // Saldo de requisições na quinzena atual
+}
+```
+
+## Tratamento de Erros
+- **401 Unauthorized:** API Key ausente ou inválida.
+- **403 Forbidden:** Assinatura não cobre o esporte solicitado.
+- **404 Not Found:** Recurso (jogo/liga) não localizado.
+- **429 Too Many Requests:** Limite de quota ou rate-limit atingido.
+
+## Cobertura de Dados
+- **Países:** 100+ (Brasil, Inglaterra, Espanha, Itália, Alemanha, etc).
+- **Ligas:** 500+ (Série A até divisões regionais e juvenis).
+- **Histórico:** 10+ temporadas.
+- **Partidas:** 2.4M+ registros.
+
+## Contato e Suporte
+- **Documentação Web:** https://quantsports.com/docs
+- **Status da API:** https://status.quantsports.com
+- **Suporte Técnico:** dev@quantsports.com

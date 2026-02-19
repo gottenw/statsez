@@ -1,0 +1,10021 @@
+{
+  "league": "Serie C - Group A",
+  "country": "italy",
+  "season": "2025-2026",
+  "collectedAt": "2026-02-10T17:03:52.266Z",
+  "totalMatches": 256,
+  "matches": [
+    {
+      "id": "2NkQvgMb",
+      "date": "2026-02-08T16:30:00.000Z",
+      "round": "Round 25",
+      "homeTeam": "Vicenza",
+      "awayTeam": "AC Dolomiti Bellunesi",
+      "homeScore": 0,
+      "awayScore": 0,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "61%",
+          "39%"
+        ],
+        "Total shots": [
+          "3",
+          "2"
+        ],
+        "Shots on target": [
+          "1",
+          "0"
+        ],
+        "Corner kicks": [
+          "13",
+          "0"
+        ],
+        "Yellow cards": [
+          "2",
+          "6"
+        ],
+        "Red cards": [
+          "1",
+          "0"
+        ],
+        "Shots off target": [
+          "2",
+          "2"
+        ]
+      }
+    },
+    {
+      "id": "ENp6Vlqo",
+      "date": "2026-02-08T13:30:00.000Z",
+      "round": "Round 25",
+      "homeTeam": "Albinoleffe",
+      "awayTeam": "Pro Patria",
+      "homeScore": 2,
+      "awayScore": 2,
+      "htHome": 2,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "68%",
+          "32%"
+        ],
+        "Total shots": [
+          "12",
+          "6"
+        ],
+        "Shots on target": [
+          "5",
+          "3"
+        ],
+        "Corner kicks": [
+          "4",
+          "5"
+        ],
+        "Yellow cards": [
+          "1",
+          "2"
+        ],
+        "Red cards": [
+          "0",
+          "1"
+        ],
+        "Shots off target": [
+          "7",
+          "3"
+        ]
+      }
+    },
+    {
+      "id": "tUxhghyh",
+      "date": "2026-02-08T13:30:00.000Z",
+      "round": "Round 25",
+      "homeTeam": "Lecco",
+      "awayTeam": "Pro Vercelli",
+      "homeScore": 0,
+      "awayScore": 2,
+      "htHome": 0,
+      "htAway": 2,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "59%",
+          "41%"
+        ],
+        "Total shots": [
+          "3",
+          "6"
+        ],
+        "Shots on target": [
+          "2",
+          "6"
+        ],
+        "Corner kicks": [
+          "6",
+          "3"
+        ],
+        "Yellow cards": [
+          "1",
+          "1"
+        ],
+        "Red cards": [
+          "0",
+          "1"
+        ],
+        "Shots off target": [
+          "1",
+          "0"
+        ]
+      }
+    },
+    {
+      "id": "Mwo0iW54",
+      "date": "2026-02-08T13:30:00.000Z",
+      "round": "Round 25",
+      "homeTeam": "A.C. Ospitaletto",
+      "awayTeam": "Renate",
+      "homeScore": 1,
+      "awayScore": 1,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "49%",
+          "51%"
+        ],
+        "Total shots": [
+          "6",
+          "7"
+        ],
+        "Shots on target": [
+          "4",
+          "5"
+        ],
+        "Corner kicks": [
+          "6",
+          "1"
+        ],
+        "Yellow cards": [
+          "4",
+          "3"
+        ],
+        "Shots off target": [
+          "2",
+          "2"
+        ]
+      }
+    },
+    {
+      "id": "Uk9ZzBLN",
+      "date": "2026-02-08T13:30:00.000Z",
+      "round": "Round 25",
+      "homeTeam": "Triestina",
+      "awayTeam": "Inter Milan U23",
+      "homeScore": 4,
+      "awayScore": 1,
+      "htHome": 2,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "57%",
+          "43%"
+        ],
+        "Total shots": [
+          "11",
+          "8"
+        ],
+        "Shots on target": [
+          "6",
+          "4"
+        ],
+        "Corner kicks": [
+          "4",
+          "7"
+        ],
+        "Yellow cards": [
+          "2",
+          "4"
+        ],
+        "Shots off target": [
+          "5",
+          "4"
+        ]
+      }
+    },
+    {
+      "id": "jqM7MB6U",
+      "date": "2026-02-07T16:30:00.000Z",
+      "round": "Round 25",
+      "homeTeam": "Alcione Milano",
+      "awayTeam": "ASD Union Arzignanochiampo",
+      "homeScore": 1,
+      "awayScore": 0,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "52%",
+          "48%"
+        ],
+        "Total shots": [
+          "2",
+          "8"
+        ],
+        "Shots on target": [
+          "1",
+          "3"
+        ],
+        "Corner kicks": [
+          "1",
+          "2"
+        ],
+        "Yellow cards": [
+          "2",
+          "2"
+        ],
+        "Shots off target": [
+          "1",
+          "5"
+        ]
+      }
+    },
+    {
+      "id": "fiq8kAzH",
+      "date": "2026-02-07T16:30:00.000Z",
+      "round": "Round 25",
+      "homeTeam": "US Pergolettese",
+      "awayTeam": "Trento",
+      "homeScore": 1,
+      "awayScore": 2,
+      "htHome": 0,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "56%",
+          "44%"
+        ],
+        "Total shots": [
+          "6",
+          "8"
+        ],
+        "Shots on target": [
+          "4",
+          "4"
+        ],
+        "Corner kicks": [
+          "2",
+          "3"
+        ],
+        "Yellow cards": [
+          "0",
+          "2"
+        ],
+        "Shots off target": [
+          "2",
+          "4"
+        ]
+      }
+    },
+    {
+      "id": "MP5RxXjB",
+      "date": "2026-02-07T16:30:00.000Z",
+      "round": "Round 25",
+      "homeTeam": "Virtus Verona",
+      "awayTeam": "Giana Erminio",
+      "homeScore": 0,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "52%",
+          "48%"
+        ],
+        "Total shots": [
+          "2",
+          "9"
+        ],
+        "Shots on target": [
+          "1",
+          "4"
+        ],
+        "Corner kicks": [
+          "0",
+          "4"
+        ],
+        "Yellow cards": [
+          "0",
+          "1"
+        ],
+        "Red cards": [
+          "1",
+          "0"
+        ],
+        "Shots off target": [
+          "1",
+          "5"
+        ]
+      }
+    },
+    {
+      "id": "U9iItFin",
+      "date": "2026-02-07T13:30:00.000Z",
+      "round": "Round 25",
+      "homeTeam": "Lumezzane",
+      "awayTeam": "Cittadella",
+      "homeScore": 1,
+      "awayScore": 2,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "54%",
+          "46%"
+        ],
+        "Total shots": [
+          "4",
+          "16"
+        ],
+        "Shots on target": [
+          "2",
+          "6"
+        ],
+        "Corner kicks": [
+          "3",
+          "7"
+        ],
+        "Yellow cards": [
+          "0",
+          "3"
+        ],
+        "Shots off target": [
+          "2",
+          "10"
+        ]
+      }
+    },
+    {
+      "id": "jJxHml5T",
+      "date": "2026-02-07T13:30:00.000Z",
+      "round": "Round 25",
+      "homeTeam": "Novara",
+      "awayTeam": "Union Brescia",
+      "homeScore": 0,
+      "awayScore": 0,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "45%",
+          "55%"
+        ],
+        "Total shots": [
+          "6",
+          "8"
+        ],
+        "Shots on target": [
+          "4",
+          "4"
+        ],
+        "Corner kicks": [
+          "2",
+          "2"
+        ],
+        "Yellow cards": [
+          "1",
+          "2"
+        ],
+        "Shots off target": [
+          "2",
+          "4"
+        ]
+      }
+    },
+    {
+      "id": "M3UjQg75",
+      "date": "2026-02-02T19:30:00.000Z",
+      "round": "Round 24",
+      "homeTeam": "Giana Erminio",
+      "awayTeam": "Union Brescia",
+      "homeScore": 0,
+      "awayScore": 2,
+      "htHome": 0,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "49%",
+          "51%"
+        ],
+        "Total shots": [
+          "10",
+          "8"
+        ],
+        "Shots on target": [
+          "6",
+          "5"
+        ],
+        "Corner kicks": [
+          "7",
+          "3"
+        ],
+        "Yellow cards": [
+          "2",
+          "3"
+        ],
+        "Red cards": [
+          "0",
+          "1"
+        ],
+        "Shots off target": [
+          "4",
+          "3"
+        ]
+      }
+    },
+    {
+      "id": "8KzUXp9E",
+      "date": "2026-02-02T19:30:00.000Z",
+      "round": "Round 24",
+      "homeTeam": "Renate",
+      "awayTeam": "Alcione Milano",
+      "homeScore": 1,
+      "awayScore": 0,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "45%",
+          "55%"
+        ],
+        "Total shots": [
+          "4",
+          "4"
+        ],
+        "Shots on target": [
+          "2",
+          "1"
+        ],
+        "Corner kicks": [
+          "7",
+          "4"
+        ],
+        "Yellow cards": [
+          "4",
+          "1"
+        ],
+        "Shots off target": [
+          "2",
+          "3"
+        ]
+      }
+    },
+    {
+      "id": "UBMOMK0D",
+      "date": "2026-02-01T13:30:00.000Z",
+      "round": "Round 24",
+      "homeTeam": "Pro Vercelli",
+      "awayTeam": "Novara",
+      "homeScore": 1,
+      "awayScore": 0,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "50%",
+          "50%"
+        ],
+        "Total shots": [
+          "9",
+          "8"
+        ],
+        "Shots on target": [
+          "6",
+          "7"
+        ],
+        "Corner kicks": [
+          "3",
+          "7"
+        ],
+        "Yellow cards": [
+          "4",
+          "1"
+        ],
+        "Shots off target": [
+          "3",
+          "1"
+        ]
+      }
+    },
+    {
+      "id": "hChsAsH7",
+      "date": "2026-02-01T11:30:00.000Z",
+      "round": "Round 24",
+      "homeTeam": "Cittadella",
+      "awayTeam": "Albinoleffe",
+      "homeScore": 0,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "58%",
+          "42%"
+        ],
+        "Total shots": [
+          "6",
+          "4"
+        ],
+        "Shots on target": [
+          "2",
+          "3"
+        ],
+        "Corner kicks": [
+          "10",
+          "3"
+        ],
+        "Yellow cards": [
+          "3",
+          "3"
+        ],
+        "Shots off target": [
+          "4",
+          "1"
+        ]
+      }
+    },
+    {
+      "id": "GpvxWOwR",
+      "date": "2026-02-01T11:30:00.000Z",
+      "round": "Round 24",
+      "homeTeam": "Pro Patria",
+      "awayTeam": "Vicenza",
+      "homeScore": 0,
+      "awayScore": 4,
+      "htHome": 0,
+      "htAway": 2,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "44%",
+          "56%"
+        ],
+        "Total shots": [
+          "11",
+          "13"
+        ],
+        "Shots on target": [
+          "3",
+          "8"
+        ],
+        "Corner kicks": [
+          "7",
+          "3"
+        ],
+        "Yellow cards": [
+          "2",
+          "0"
+        ],
+        "Shots off target": [
+          "8",
+          "5"
+        ]
+      }
+    },
+    {
+      "id": "KvYZTy8t",
+      "date": "2026-01-31T16:30:00.000Z",
+      "round": "Round 24",
+      "homeTeam": "Inter Milan U23",
+      "awayTeam": "US Pergolettese",
+      "homeScore": 1,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "53%",
+          "47%"
+        ],
+        "Total shots": [
+          "8",
+          "5"
+        ],
+        "Shots on target": [
+          "4",
+          "3"
+        ],
+        "Corner kicks": [
+          "6",
+          "3"
+        ],
+        "Yellow cards": [
+          "3",
+          "1"
+        ],
+        "Shots off target": [
+          "4",
+          "2"
+        ]
+      }
+    },
+    {
+      "id": "YqTFOtW0",
+      "date": "2026-01-31T16:30:00.000Z",
+      "round": "Round 24",
+      "homeTeam": "A.C. Ospitaletto",
+      "awayTeam": "Lumezzane",
+      "homeScore": 1,
+      "awayScore": 2,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "44%",
+          "56%"
+        ],
+        "Total shots": [
+          "7",
+          "5"
+        ],
+        "Shots on target": [
+          "5",
+          "5"
+        ],
+        "Corner kicks": [
+          "6",
+          "4"
+        ],
+        "Yellow cards": [
+          "1",
+          "0"
+        ],
+        "Red cards": [
+          "1",
+          "0"
+        ],
+        "Shots off target": [
+          "2",
+          "0"
+        ]
+      }
+    },
+    {
+      "id": "G6RrSFxg",
+      "date": "2026-01-31T13:30:00.000Z",
+      "round": "Round 24",
+      "homeTeam": "ASD Union Arzignanochiampo",
+      "awayTeam": "Triestina",
+      "homeScore": 4,
+      "awayScore": 1,
+      "htHome": 2,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "47%",
+          "53%"
+        ],
+        "Total shots": [
+          "11",
+          "9"
+        ],
+        "Shots on target": [
+          "6",
+          "6"
+        ],
+        "Corner kicks": [
+          "5",
+          "6"
+        ],
+        "Yellow cards": [
+          "2",
+          "1"
+        ],
+        "Shots off target": [
+          "5",
+          "3"
+        ]
+      }
+    },
+    {
+      "id": "rJIaOXyI",
+      "date": "2026-01-31T13:30:00.000Z",
+      "round": "Round 24",
+      "homeTeam": "AC Dolomiti Bellunesi",
+      "awayTeam": "Virtus Verona",
+      "homeScore": 1,
+      "awayScore": 0,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "44%",
+          "56%"
+        ],
+        "Total shots": [
+          "18",
+          "9"
+        ],
+        "Shots on target": [
+          "8",
+          "2"
+        ],
+        "Corner kicks": [
+          "3",
+          "6"
+        ],
+        "Yellow cards": [
+          "2",
+          "2"
+        ],
+        "Red cards": [
+          "0",
+          "1"
+        ],
+        "Shots off target": [
+          "10",
+          "7"
+        ]
+      }
+    },
+    {
+      "id": "0IF8Q21l",
+      "date": "2026-01-31T13:30:00.000Z",
+      "round": "Round 24",
+      "homeTeam": "Trento",
+      "awayTeam": "Lecco",
+      "homeScore": 1,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "50%",
+          "50%"
+        ],
+        "Total shots": [
+          "9",
+          "8"
+        ],
+        "Shots on target": [
+          "5",
+          "4"
+        ],
+        "Corner kicks": [
+          "9",
+          "5"
+        ],
+        "Yellow cards": [
+          "3",
+          "2"
+        ],
+        "Shots off target": [
+          "4",
+          "4"
+        ]
+      }
+    },
+    {
+      "id": "jNSS4nuS",
+      "date": "2026-01-26T19:30:00.000Z",
+      "round": "Round 23",
+      "homeTeam": "Lecco",
+      "awayTeam": "Inter Milan U23",
+      "homeScore": 0,
+      "awayScore": 2,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "53%",
+          "47%"
+        ],
+        "Total shots": [
+          "5",
+          "7"
+        ],
+        "Shots on target": [
+          "1",
+          "5"
+        ],
+        "Corner kicks": [
+          "1",
+          "2"
+        ],
+        "Yellow cards": [
+          "3",
+          "0"
+        ],
+        "Shots off target": [
+          "4",
+          "2"
+        ]
+      }
+    },
+    {
+      "id": "nVVB8Uu3",
+      "date": "2026-01-26T19:30:00.000Z",
+      "round": "Round 23",
+      "homeTeam": "Vicenza",
+      "awayTeam": "Cittadella",
+      "homeScore": 4,
+      "awayScore": 1,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "61%",
+          "39%"
+        ],
+        "Total shots": [
+          "19",
+          "7"
+        ],
+        "Shots on target": [
+          "10",
+          "4"
+        ],
+        "Corner kicks": [
+          "7",
+          "2"
+        ],
+        "Yellow cards": [
+          "2",
+          "1"
+        ],
+        "Shots off target": [
+          "9",
+          "3"
+        ]
+      }
+    },
+    {
+      "id": "feZJ68AF",
+      "date": "2026-01-25T16:30:00.000Z",
+      "round": "Round 23",
+      "homeTeam": "Alcione Milano",
+      "awayTeam": "AC Dolomiti Bellunesi",
+      "homeScore": 5,
+      "awayScore": 0,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "48%",
+          "52%"
+        ],
+        "Total shots": [
+          "15",
+          "9"
+        ],
+        "Shots on target": [
+          "9",
+          "6"
+        ],
+        "Corner kicks": [
+          "2",
+          "3"
+        ],
+        "Shots off target": [
+          "6",
+          "3"
+        ]
+      }
+    },
+    {
+      "id": "6eUac4X1",
+      "date": "2026-01-25T16:30:00.000Z",
+      "round": "Round 23",
+      "homeTeam": "US Pergolettese",
+      "awayTeam": "A.C. Ospitaletto",
+      "homeScore": 1,
+      "awayScore": 0,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "53%",
+          "47%"
+        ],
+        "Total shots": [
+          "6",
+          "6"
+        ],
+        "Shots on target": [
+          "2",
+          "3"
+        ],
+        "Corner kicks": [
+          "6",
+          "2"
+        ],
+        "Yellow cards": [
+          "3",
+          "1"
+        ],
+        "Shots off target": [
+          "4",
+          "3"
+        ]
+      }
+    },
+    {
+      "id": "6ZhPpRmd",
+      "date": "2026-01-25T13:30:00.000Z",
+      "round": "Round 23",
+      "homeTeam": "Giana Erminio",
+      "awayTeam": "ASD Union Arzignanochiampo",
+      "homeScore": 2,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "62%",
+          "38%"
+        ],
+        "Total shots": [
+          "9",
+          "6"
+        ],
+        "Shots on target": [
+          "5",
+          "2"
+        ],
+        "Corner kicks": [
+          "5",
+          "3"
+        ],
+        "Yellow cards": [
+          "1",
+          "2"
+        ],
+        "Shots off target": [
+          "4",
+          "4"
+        ]
+      }
+    },
+    {
+      "id": "Y1MoL7P8",
+      "date": "2026-01-25T13:30:00.000Z",
+      "round": "Round 23",
+      "homeTeam": "Novara",
+      "awayTeam": "Pro Patria",
+      "homeScore": 3,
+      "awayScore": 1,
+      "htHome": 2,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "53%",
+          "47%"
+        ],
+        "Total shots": [
+          "13",
+          "6"
+        ],
+        "Shots on target": [
+          "6",
+          "2"
+        ],
+        "Corner kicks": [
+          "8",
+          "8"
+        ],
+        "Yellow cards": [
+          "2",
+          "1"
+        ],
+        "Shots off target": [
+          "7",
+          "4"
+        ]
+      }
+    },
+    {
+      "id": "fHAfJofL",
+      "date": "2026-01-24T16:30:00.000Z",
+      "round": "Round 23",
+      "homeTeam": "Virtus Verona",
+      "awayTeam": "Pro Vercelli",
+      "homeScore": 2,
+      "awayScore": 2,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "58%",
+          "42%"
+        ],
+        "Total shots": [
+          "11",
+          "11"
+        ],
+        "Shots on target": [
+          "7",
+          "7"
+        ],
+        "Corner kicks": [
+          "9",
+          "1"
+        ],
+        "Yellow cards": [
+          "1",
+          "1"
+        ],
+        "Shots off target": [
+          "4",
+          "4"
+        ]
+      }
+    },
+    {
+      "id": "KbfZB3ne",
+      "date": "2026-01-24T13:30:00.000Z",
+      "round": "Round 23",
+      "homeTeam": "Albinoleffe",
+      "awayTeam": "Trento",
+      "homeScore": 1,
+      "awayScore": 2,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "43%",
+          "57%"
+        ],
+        "Total shots": [
+          "7",
+          "6"
+        ],
+        "Shots on target": [
+          "5",
+          "4"
+        ],
+        "Corner kicks": [
+          "2",
+          "4"
+        ],
+        "Yellow cards": [
+          "3",
+          "1"
+        ],
+        "Shots off target": [
+          "2",
+          "2"
+        ]
+      }
+    },
+    {
+      "id": "Qa1QDPHr",
+      "date": "2026-01-24T13:30:00.000Z",
+      "round": "Round 23",
+      "homeTeam": "Union Brescia",
+      "awayTeam": "Renate",
+      "homeScore": 1,
+      "awayScore": 2,
+      "htHome": 0,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "54%",
+          "46%"
+        ],
+        "Total shots": [
+          "11",
+          "6"
+        ],
+        "Shots on target": [
+          "5",
+          "5"
+        ],
+        "Corner kicks": [
+          "15",
+          "1"
+        ],
+        "Yellow cards": [
+          "4",
+          "4"
+        ],
+        "Red cards": [
+          "0",
+          "1"
+        ],
+        "Shots off target": [
+          "6",
+          "1"
+        ]
+      }
+    },
+    {
+      "id": "ngEbaQ2k",
+      "date": "2026-01-23T19:30:00.000Z",
+      "round": "Round 23",
+      "homeTeam": "Triestina",
+      "awayTeam": "Lumezzane",
+      "homeScore": 2,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "66%",
+          "34%"
+        ],
+        "Total shots": [
+          "11",
+          "6"
+        ],
+        "Shots on target": [
+          "7",
+          "3"
+        ],
+        "Corner kicks": [
+          "9",
+          "2"
+        ],
+        "Yellow cards": [
+          "1",
+          "3"
+        ],
+        "Shots off target": [
+          "4",
+          "3"
+        ]
+      }
+    },
+    {
+      "id": "ERzInmJq",
+      "date": "2026-01-18T16:30:00.000Z",
+      "round": "Round 22",
+      "homeTeam": "Inter Milan U23",
+      "awayTeam": "Virtus Verona",
+      "homeScore": 1,
+      "awayScore": 0,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "56%",
+          "44%"
+        ],
+        "Total shots": [
+          "11",
+          "3"
+        ],
+        "Shots on target": [
+          "6",
+          "1"
+        ],
+        "Corner kicks": [
+          "7",
+          "5"
+        ],
+        "Yellow cards": [
+          "3",
+          "5"
+        ],
+        "Shots off target": [
+          "5",
+          "2"
+        ]
+      }
+    },
+    {
+      "id": "ppjwhlvP",
+      "date": "2026-01-18T16:30:00.000Z",
+      "round": "Round 22",
+      "homeTeam": "Renate",
+      "awayTeam": "Albinoleffe",
+      "homeScore": 1,
+      "awayScore": 1,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "54%",
+          "46%"
+        ],
+        "Total shots": [
+          "7",
+          "13"
+        ],
+        "Shots on target": [
+          "5",
+          "5"
+        ],
+        "Corner kicks": [
+          "3",
+          "6"
+        ],
+        "Yellow cards": [
+          "2",
+          "2"
+        ],
+        "Red cards": [
+          "1",
+          "0"
+        ],
+        "Shots off target": [
+          "2",
+          "8"
+        ]
+      }
+    },
+    {
+      "id": "hja2hIk5",
+      "date": "2026-01-18T13:30:00.000Z",
+      "round": "Round 22",
+      "homeTeam": "ASD Union Arzignanochiampo",
+      "awayTeam": "Vicenza",
+      "homeScore": 1,
+      "awayScore": 2,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "42%",
+          "58%"
+        ],
+        "Total shots": [
+          "10",
+          "14"
+        ],
+        "Shots on target": [
+          "3",
+          "7"
+        ],
+        "Corner kicks": [
+          "2",
+          "7"
+        ],
+        "Yellow cards": [
+          "2",
+          "1"
+        ],
+        "Red cards": [
+          "1",
+          "0"
+        ],
+        "Shots off target": [
+          "7",
+          "7"
+        ]
+      }
+    },
+    {
+      "id": "fsfoh9eM",
+      "date": "2026-01-18T13:30:00.000Z",
+      "round": "Round 22",
+      "homeTeam": "Pro Vercelli",
+      "awayTeam": "Union Brescia",
+      "homeScore": 0,
+      "awayScore": 0,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "56%",
+          "44%"
+        ],
+        "Total shots": [
+          "4",
+          "1"
+        ],
+        "Shots on target": [
+          "1",
+          "0"
+        ],
+        "Corner kicks": [
+          "1",
+          "2"
+        ],
+        "Yellow cards": [
+          "4",
+          "4"
+        ],
+        "Red cards": [
+          "0",
+          "1"
+        ],
+        "Shots off target": [
+          "3",
+          "1"
+        ]
+      }
+    },
+    {
+      "id": "OA7od0jt",
+      "date": "2026-01-17T16:30:00.000Z",
+      "round": "Round 22",
+      "homeTeam": "Lumezzane",
+      "awayTeam": "Alcione Milano",
+      "homeScore": 1,
+      "awayScore": 0,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "50%",
+          "50%"
+        ],
+        "Total shots": [
+          "10",
+          "7"
+        ],
+        "Shots on target": [
+          "5",
+          "2"
+        ],
+        "Corner kicks": [
+          "4",
+          "6"
+        ],
+        "Yellow cards": [
+          "1",
+          "3"
+        ],
+        "Shots off target": [
+          "5",
+          "5"
+        ]
+      }
+    },
+    {
+      "id": "MTewfVQ9",
+      "date": "2026-01-17T16:30:00.000Z",
+      "round": "Round 22",
+      "homeTeam": "A.C. Ospitaletto",
+      "awayTeam": "Triestina",
+      "homeScore": 1,
+      "awayScore": 0,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "44%",
+          "56%"
+        ],
+        "Total shots": [
+          "11",
+          "9"
+        ],
+        "Shots on target": [
+          "5",
+          "5"
+        ],
+        "Corner kicks": [
+          "4",
+          "5"
+        ],
+        "Yellow cards": [
+          "2",
+          "3"
+        ],
+        "Shots off target": [
+          "6",
+          "4"
+        ]
+      }
+    },
+    {
+      "id": "dO5gfvLh",
+      "date": "2026-01-17T16:30:00.000Z",
+      "round": "Round 22",
+      "homeTeam": "Pro Patria",
+      "awayTeam": "Giana Erminio",
+      "homeScore": 0,
+      "awayScore": 4,
+      "htHome": 0,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "47%",
+          "53%"
+        ],
+        "Total shots": [
+          "6",
+          "12"
+        ],
+        "Shots on target": [
+          "3",
+          "6"
+        ],
+        "Corner kicks": [
+          "4",
+          "1"
+        ],
+        "Yellow cards": [
+          "2",
+          "2"
+        ],
+        "Shots off target": [
+          "3",
+          "6"
+        ]
+      }
+    },
+    {
+      "id": "Q12Ueidc",
+      "date": "2026-01-17T13:30:00.000Z",
+      "round": "Round 22",
+      "homeTeam": "Cittadella",
+      "awayTeam": "US Pergolettese",
+      "homeScore": 3,
+      "awayScore": 3,
+      "htHome": 0,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "63%",
+          "37%"
+        ],
+        "Total shots": [
+          "17",
+          "7"
+        ],
+        "Shots on target": [
+          "11",
+          "7"
+        ],
+        "Corner kicks": [
+          "9",
+          "1"
+        ],
+        "Yellow cards": [
+          "1",
+          "4"
+        ],
+        "Shots off target": [
+          "6",
+          "0"
+        ]
+      }
+    },
+    {
+      "id": "0G2AjdKH",
+      "date": "2026-01-17T13:30:00.000Z",
+      "round": "Round 22",
+      "homeTeam": "AC Dolomiti Bellunesi",
+      "awayTeam": "Lecco",
+      "homeScore": 1,
+      "awayScore": 4,
+      "htHome": 0,
+      "htAway": 3,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "49%",
+          "51%"
+        ],
+        "Total shots": [
+          "1",
+          "4"
+        ],
+        "Shots on target": [
+          "1",
+          "4"
+        ],
+        "Corner kicks": [
+          "2",
+          "6"
+        ],
+        "Yellow cards": [
+          "3",
+          "3"
+        ],
+        "Shots off target": [
+          "0",
+          "0"
+        ]
+      }
+    },
+    {
+      "id": "K4FrYm4j",
+      "date": "2026-01-17T13:30:00.000Z",
+      "round": "Round 22",
+      "homeTeam": "Trento",
+      "awayTeam": "Novara",
+      "homeScore": 1,
+      "awayScore": 1,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "45%",
+          "55%"
+        ],
+        "Total shots": [
+          "6",
+          "10"
+        ],
+        "Shots on target": [
+          "3",
+          "4"
+        ],
+        "Corner kicks": [
+          "6",
+          "5"
+        ],
+        "Yellow cards": [
+          "1",
+          "3"
+        ],
+        "Red cards": [
+          "1",
+          "0"
+        ],
+        "Shots off target": [
+          "3",
+          "6"
+        ]
+      }
+    },
+    {
+      "id": "xKnVgA9C",
+      "date": "2026-01-11T16:30:00.000Z",
+      "round": "Round 21",
+      "homeTeam": "Lecco",
+      "awayTeam": "Triestina",
+      "homeScore": 1,
+      "awayScore": 0,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "51%",
+          "49%"
+        ],
+        "Total shots": [
+          "11",
+          "7"
+        ],
+        "Shots on target": [
+          "4",
+          "3"
+        ],
+        "Corner kicks": [
+          "2",
+          "9"
+        ],
+        "Yellow cards": [
+          "1",
+          "1"
+        ],
+        "Shots off target": [
+          "7",
+          "4"
+        ]
+      }
+    },
+    {
+      "id": "hhE8jy3K",
+      "date": "2026-01-11T13:30:00.000Z",
+      "round": "Round 21",
+      "homeTeam": "Alcione Milano",
+      "awayTeam": "Cittadella",
+      "homeScore": 2,
+      "awayScore": 0,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "55%",
+          "45%"
+        ],
+        "Total shots": [
+          "5",
+          "4"
+        ],
+        "Shots on target": [
+          "4",
+          "1"
+        ],
+        "Corner kicks": [
+          "5",
+          "2"
+        ],
+        "Yellow cards": [
+          "1",
+          "1"
+        ],
+        "Shots off target": [
+          "1",
+          "3"
+        ]
+      }
+    },
+    {
+      "id": "M74voFQs",
+      "date": "2026-01-11T13:30:00.000Z",
+      "round": "Round 21",
+      "homeTeam": "Novara",
+      "awayTeam": "AC Dolomiti Bellunesi",
+      "homeScore": 1,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "49%",
+          "51%"
+        ],
+        "Total shots": [
+          "6",
+          "6"
+        ],
+        "Shots on target": [
+          "4",
+          "3"
+        ],
+        "Corner kicks": [
+          "4",
+          "4"
+        ],
+        "Yellow cards": [
+          "4",
+          "4"
+        ],
+        "Shots off target": [
+          "2",
+          "3"
+        ]
+      }
+    },
+    {
+      "id": "xpWLSXAD",
+      "date": "2026-01-11T13:30:00.000Z",
+      "round": "Round 21",
+      "homeTeam": "Virtus Verona",
+      "awayTeam": "ASD Union Arzignanochiampo",
+      "homeScore": 0,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "50%",
+          "50%"
+        ],
+        "Total shots": [
+          "8",
+          "8"
+        ],
+        "Shots on target": [
+          "3",
+          "3"
+        ],
+        "Corner kicks": [
+          "3",
+          "5"
+        ],
+        "Yellow cards": [
+          "5",
+          "1"
+        ],
+        "Shots off target": [
+          "5",
+          "5"
+        ]
+      }
+    },
+    {
+      "id": "jmdesXP6",
+      "date": "2026-01-10T16:30:00.000Z",
+      "round": "Round 21",
+      "homeTeam": "US Pergolettese",
+      "awayTeam": "Lumezzane",
+      "homeScore": 0,
+      "awayScore": 2,
+      "htHome": 0,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "50%",
+          "50%"
+        ],
+        "Total shots": [
+          "13",
+          "10"
+        ],
+        "Shots on target": [
+          "7",
+          "8"
+        ],
+        "Corner kicks": [
+          "9",
+          "4"
+        ],
+        "Yellow cards": [
+          "2",
+          "3"
+        ],
+        "Shots off target": [
+          "6",
+          "2"
+        ]
+      }
+    },
+    {
+      "id": "rNhmqgef",
+      "date": "2026-01-10T16:30:00.000Z",
+      "round": "Round 21",
+      "homeTeam": "Pro Patria",
+      "awayTeam": "Inter Milan U23",
+      "homeScore": 1,
+      "awayScore": 2,
+      "htHome": 0,
+      "htAway": 2,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "46%",
+          "54%"
+        ],
+        "Total shots": [
+          "7",
+          "10"
+        ],
+        "Shots on target": [
+          "3",
+          "5"
+        ],
+        "Corner kicks": [
+          "6",
+          "9"
+        ],
+        "Yellow cards": [
+          "2",
+          "2"
+        ],
+        "Shots off target": [
+          "4",
+          "5"
+        ]
+      }
+    },
+    {
+      "id": "v9xj3EnQ",
+      "date": "2026-01-10T13:30:00.000Z",
+      "round": "Round 21",
+      "homeTeam": "Albinoleffe",
+      "awayTeam": "Pro Vercelli",
+      "homeScore": 2,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "55%",
+          "45%"
+        ],
+        "Total shots": [
+          "7",
+          "4"
+        ],
+        "Shots on target": [
+          "4",
+          "1"
+        ],
+        "Corner kicks": [
+          "5",
+          "5"
+        ],
+        "Yellow cards": [
+          "1",
+          "2"
+        ],
+        "Red cards": [
+          "0",
+          "1"
+        ],
+        "Shots off target": [
+          "3",
+          "3"
+        ]
+      }
+    },
+    {
+      "id": "G4bMeWv0",
+      "date": "2026-01-10T13:30:00.000Z",
+      "round": "Round 21",
+      "homeTeam": "Union Brescia",
+      "awayTeam": "Trento",
+      "homeScore": 2,
+      "awayScore": 1,
+      "htHome": 1,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "54%",
+          "46%"
+        ],
+        "Total shots": [
+          "6",
+          "10"
+        ],
+        "Shots on target": [
+          "4",
+          "6"
+        ],
+        "Corner kicks": [
+          "5",
+          "8"
+        ],
+        "Yellow cards": [
+          "1",
+          "1"
+        ],
+        "Shots off target": [
+          "2",
+          "4"
+        ]
+      }
+    },
+    {
+      "id": "8veEchAm",
+      "date": "2026-01-10T13:30:00.000Z",
+      "round": "Round 21",
+      "homeTeam": "Giana Erminio",
+      "awayTeam": "Renate",
+      "homeScore": 0,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "56%",
+          "44%"
+        ],
+        "Total shots": [
+          "2",
+          "9"
+        ],
+        "Shots on target": [
+          "2",
+          "8"
+        ],
+        "Corner kicks": [
+          "9",
+          "3"
+        ],
+        "Yellow cards": [
+          "3",
+          "4"
+        ],
+        "Shots off target": [
+          "0",
+          "1"
+        ]
+      }
+    },
+    {
+      "id": "nFk4uBfJ",
+      "date": "2026-01-10T13:30:00.000Z",
+      "round": "Round 21",
+      "homeTeam": "Vicenza",
+      "awayTeam": "A.C. Ospitaletto",
+      "homeScore": 1,
+      "awayScore": 0,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "57%",
+          "43%"
+        ],
+        "Total shots": [
+          "6",
+          "2"
+        ],
+        "Shots on target": [
+          "3",
+          "0"
+        ],
+        "Corner kicks": [
+          "6",
+          "3"
+        ],
+        "Yellow cards": [
+          "2",
+          "2"
+        ],
+        "Shots off target": [
+          "3",
+          "2"
+        ]
+      }
+    },
+    {
+      "id": "fLprv7Dc",
+      "date": "2026-01-05T19:30:00.000Z",
+      "round": "Round 20",
+      "homeTeam": "Triestina",
+      "awayTeam": "Alcione Milano",
+      "homeScore": 1,
+      "awayScore": 2,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "58%",
+          "42%"
+        ],
+        "Total shots": [
+          "9",
+          "7"
+        ],
+        "Shots on target": [
+          "3",
+          "5"
+        ],
+        "Corner kicks": [
+          "9",
+          "1"
+        ],
+        "Yellow cards": [
+          "0",
+          "1"
+        ],
+        "Shots off target": [
+          "6",
+          "2"
+        ]
+      }
+    },
+    {
+      "id": "EP7eG3Lj",
+      "date": "2026-01-04T16:30:00.000Z",
+      "round": "Round 20",
+      "homeTeam": "AC Dolomiti Bellunesi",
+      "awayTeam": "Albinoleffe",
+      "homeScore": 2,
+      "awayScore": 0,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "46%",
+          "54%"
+        ],
+        "Total shots": [
+          "8",
+          "9"
+        ],
+        "Shots on target": [
+          "6",
+          "3"
+        ],
+        "Corner kicks": [
+          "1",
+          "8"
+        ],
+        "Yellow cards": [
+          "2",
+          "1"
+        ],
+        "Red cards": [
+          "1",
+          "0"
+        ],
+        "Shots off target": [
+          "2",
+          "6"
+        ]
+      }
+    },
+    {
+      "id": "84v5WFBl",
+      "date": "2026-01-04T13:30:00.000Z",
+      "round": "Round 20",
+      "homeTeam": "ASD Union Arzignanochiampo",
+      "awayTeam": "Union Brescia",
+      "homeScore": 1,
+      "awayScore": 2,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "43%",
+          "57%"
+        ],
+        "Total shots": [
+          "4",
+          "6"
+        ],
+        "Shots on target": [
+          "2",
+          "4"
+        ],
+        "Corner kicks": [
+          "4",
+          "4"
+        ],
+        "Yellow cards": [
+          "2",
+          "1"
+        ],
+        "Shots off target": [
+          "2",
+          "2"
+        ]
+      }
+    },
+    {
+      "id": "A9CvGfR7",
+      "date": "2026-01-04T13:30:00.000Z",
+      "round": "Round 20",
+      "homeTeam": "Inter Milan U23",
+      "awayTeam": "Novara",
+      "homeScore": 0,
+      "awayScore": 0,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "50%",
+          "50%"
+        ],
+        "Total shots": [
+          "10",
+          "5"
+        ],
+        "Shots on target": [
+          "3",
+          "3"
+        ],
+        "Corner kicks": [
+          "6",
+          "2"
+        ],
+        "Yellow cards": [
+          "1",
+          "3"
+        ],
+        "Shots off target": [
+          "7",
+          "2"
+        ]
+      }
+    },
+    {
+      "id": "tUKNJxSr",
+      "date": "2026-01-04T13:30:00.000Z",
+      "round": "Round 20",
+      "homeTeam": "Lumezzane",
+      "awayTeam": "Vicenza",
+      "homeScore": 1,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "45%",
+          "55%"
+        ],
+        "Total shots": [
+          "6",
+          "2"
+        ],
+        "Shots on target": [
+          "5",
+          "2"
+        ],
+        "Corner kicks": [
+          "3",
+          "16"
+        ],
+        "Yellow cards": [
+          "1",
+          "3"
+        ],
+        "Shots off target": [
+          "1",
+          "0"
+        ]
+      }
+    },
+    {
+      "id": "EsJVHGde",
+      "date": "2026-01-03T16:30:00.000Z",
+      "round": "Round 20",
+      "homeTeam": "A.C. Ospitaletto",
+      "awayTeam": "Lecco",
+      "homeScore": 1,
+      "awayScore": 1,
+      "htHome": 1,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "53%",
+          "47%"
+        ],
+        "Total shots": [
+          "8",
+          "6"
+        ],
+        "Shots on target": [
+          "5",
+          "2"
+        ],
+        "Corner kicks": [
+          "6",
+          "2"
+        ],
+        "Yellow cards": [
+          "1",
+          "1"
+        ],
+        "Shots off target": [
+          "3",
+          "4"
+        ]
+      }
+    },
+    {
+      "id": "bVhZyxlR",
+      "date": "2026-01-03T16:30:00.000Z",
+      "round": "Round 20",
+      "homeTeam": "Pro Vercelli",
+      "awayTeam": "Pro Patria",
+      "homeScore": 1,
+      "awayScore": 0,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "58%",
+          "42%"
+        ],
+        "Total shots": [
+          "1",
+          "0"
+        ],
+        "Shots on target": [
+          "1",
+          "0"
+        ],
+        "Corner kicks": [
+          "5",
+          "5"
+        ],
+        "Yellow cards": [
+          "1",
+          "1"
+        ],
+        "Shots off target": [
+          "0",
+          "0"
+        ]
+      }
+    },
+    {
+      "id": "xG4QwbJE",
+      "date": "2026-01-03T16:30:00.000Z",
+      "round": "Round 20",
+      "homeTeam": "Renate",
+      "awayTeam": "US Pergolettese",
+      "homeScore": 2,
+      "awayScore": 1,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "52%",
+          "48%"
+        ],
+        "Total shots": [
+          "7",
+          "5"
+        ],
+        "Shots on target": [
+          "4",
+          "4"
+        ],
+        "Corner kicks": [
+          "6",
+          "3"
+        ],
+        "Yellow cards": [
+          "2",
+          "3"
+        ],
+        "Shots off target": [
+          "3",
+          "1"
+        ]
+      }
+    },
+    {
+      "id": "4WXDUgt1",
+      "date": "2026-01-03T13:30:00.000Z",
+      "round": "Round 20",
+      "homeTeam": "Cittadella",
+      "awayTeam": "Virtus Verona",
+      "homeScore": 4,
+      "awayScore": 1,
+      "htHome": 2,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "51%",
+          "49%"
+        ],
+        "Total shots": [
+          "12",
+          "10"
+        ],
+        "Shots on target": [
+          "9",
+          "6"
+        ],
+        "Corner kicks": [
+          "5",
+          "5"
+        ],
+        "Yellow cards": [
+          "2",
+          "1"
+        ],
+        "Shots off target": [
+          "3",
+          "4"
+        ]
+      }
+    },
+    {
+      "id": "2oljxorA",
+      "date": "2026-01-03T13:30:00.000Z",
+      "round": "Round 20",
+      "homeTeam": "Trento",
+      "awayTeam": "Giana Erminio",
+      "homeScore": 3,
+      "awayScore": 1,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "67%",
+          "33%"
+        ],
+        "Total shots": [
+          "9",
+          "2"
+        ],
+        "Shots on target": [
+          "6",
+          "2"
+        ],
+        "Corner kicks": [
+          "12",
+          "3"
+        ],
+        "Yellow cards": [
+          "0",
+          "3"
+        ],
+        "Shots off target": [
+          "3",
+          "0"
+        ]
+      }
+    },
+    {
+      "id": "xGMD21og",
+      "date": "2025-12-22T19:30:00.000Z",
+      "round": "Round 19",
+      "homeTeam": "Union Brescia",
+      "awayTeam": "Inter Milan U23",
+      "homeScore": 2,
+      "awayScore": 0,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "56%",
+          "44%"
+        ],
+        "Total shots": [
+          "13",
+          "7"
+        ],
+        "Shots on target": [
+          "5",
+          "2"
+        ],
+        "Corner kicks": [
+          "2",
+          "3"
+        ],
+        "Yellow cards": [
+          "1",
+          "3"
+        ],
+        "Shots off target": [
+          "8",
+          "5"
+        ]
+      }
+    },
+    {
+      "id": "6LcLXtnJ",
+      "date": "2025-12-21T16:30:00.000Z",
+      "round": "Round 19",
+      "homeTeam": "Giana Erminio",
+      "awayTeam": "Cittadella",
+      "homeScore": 0,
+      "awayScore": 2,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "41%",
+          "59%"
+        ],
+        "Total shots": [
+          "0",
+          "8"
+        ],
+        "Shots on target": [
+          "0",
+          "6"
+        ],
+        "Corner kicks": [
+          "2",
+          "5"
+        ],
+        "Yellow cards": [
+          "1",
+          "4"
+        ],
+        "Shots off target": [
+          "0",
+          "2"
+        ]
+      }
+    },
+    {
+      "id": "2c8VkO1m",
+      "date": "2025-12-21T16:30:00.000Z",
+      "round": "Round 19",
+      "homeTeam": "Lecco",
+      "awayTeam": "US Pergolettese",
+      "homeScore": 1,
+      "awayScore": 0,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "58%",
+          "42%"
+        ],
+        "Total shots": [
+          "11",
+          "4"
+        ],
+        "Shots on target": [
+          "8",
+          "2"
+        ],
+        "Corner kicks": [
+          "5",
+          "3"
+        ],
+        "Yellow cards": [
+          "0",
+          "1"
+        ],
+        "Shots off target": [
+          "3",
+          "2"
+        ]
+      }
+    },
+    {
+      "id": "OCdvl2Wa",
+      "date": "2025-12-21T16:30:00.000Z",
+      "round": "Round 19",
+      "homeTeam": "Novara",
+      "awayTeam": "A.C. Ospitaletto",
+      "homeScore": 0,
+      "awayScore": 3,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "56%",
+          "44%"
+        ],
+        "Total shots": [
+          "2",
+          "8"
+        ],
+        "Shots on target": [
+          "1",
+          "8"
+        ],
+        "Corner kicks": [
+          "7",
+          "4"
+        ],
+        "Yellow cards": [
+          "4",
+          "1"
+        ],
+        "Shots off target": [
+          "1",
+          "0"
+        ]
+      }
+    },
+    {
+      "id": "WEHaepvQ",
+      "date": "2025-12-21T13:30:00.000Z",
+      "round": "Round 19",
+      "homeTeam": "Vicenza",
+      "awayTeam": "Triestina",
+      "homeScore": 1,
+      "awayScore": 0,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "59%",
+          "41%"
+        ],
+        "Total shots": [
+          "12",
+          "4"
+        ],
+        "Shots on target": [
+          "5",
+          "0"
+        ],
+        "Corner kicks": [
+          "11",
+          "4"
+        ],
+        "Yellow cards": [
+          "1",
+          "0"
+        ],
+        "Shots off target": [
+          "7",
+          "4"
+        ]
+      }
+    },
+    {
+      "id": "QygepKVO",
+      "date": "2025-12-21T13:30:00.000Z",
+      "round": "Round 19",
+      "homeTeam": "Pro Vercelli",
+      "awayTeam": "ASD Union Arzignanochiampo",
+      "homeScore": 0,
+      "awayScore": 5,
+      "htHome": 0,
+      "htAway": 2,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "58%",
+          "42%"
+        ],
+        "Total shots": [
+          "0",
+          "10"
+        ],
+        "Shots on target": [
+          "0",
+          "10"
+        ],
+        "Corner kicks": [
+          "3",
+          "2"
+        ],
+        "Yellow cards": [
+          "1",
+          "0"
+        ],
+        "Shots off target": [
+          "0",
+          "0"
+        ]
+      }
+    },
+    {
+      "id": "Wx0nnt1C",
+      "date": "2025-12-20T16:30:00.000Z",
+      "round": "Round 19",
+      "homeTeam": "Pro Patria",
+      "awayTeam": "Renate",
+      "homeScore": 0,
+      "awayScore": 3,
+      "htHome": 0,
+      "htAway": 2,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "58%",
+          "42%"
+        ],
+        "Total shots": [
+          "16",
+          "11"
+        ],
+        "Shots on target": [
+          "6",
+          "3"
+        ],
+        "Corner kicks": [
+          "9",
+          "2"
+        ],
+        "Yellow cards": [
+          "3",
+          "2"
+        ],
+        "Shots off target": [
+          "10",
+          "8"
+        ]
+      }
+    },
+    {
+      "id": "ptQL0uG5",
+      "date": "2025-12-20T16:30:00.000Z",
+      "round": "Round 19",
+      "homeTeam": "Virtus Verona",
+      "awayTeam": "Lumezzane",
+      "homeScore": 0,
+      "awayScore": 0,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "55%",
+          "45%"
+        ],
+        "Total shots": [
+          "16",
+          "6"
+        ],
+        "Shots on target": [
+          "6",
+          "1"
+        ],
+        "Corner kicks": [
+          "9",
+          "0"
+        ],
+        "Yellow cards": [
+          "2",
+          "3"
+        ],
+        "Red cards": [
+          "0",
+          "1"
+        ],
+        "Shots off target": [
+          "10",
+          "5"
+        ]
+      }
+    },
+    {
+      "id": "Y7aDZ2H6",
+      "date": "2025-12-20T13:30:00.000Z",
+      "round": "Round 19",
+      "homeTeam": "Albinoleffe",
+      "awayTeam": "Alcione Milano",
+      "homeScore": 2,
+      "awayScore": 0,
+      "htHome": 2,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "53%",
+          "47%"
+        ],
+        "Total shots": [
+          "6",
+          "11"
+        ],
+        "Shots on target": [
+          "6",
+          "8"
+        ],
+        "Corner kicks": [
+          "6",
+          "5"
+        ],
+        "Yellow cards": [
+          "1",
+          "3"
+        ],
+        "Shots off target": [
+          "0",
+          "3"
+        ]
+      }
+    },
+    {
+      "id": "tlT44NGt",
+      "date": "2025-12-20T13:30:00.000Z",
+      "round": "Round 19",
+      "homeTeam": "Trento",
+      "awayTeam": "AC Dolomiti Bellunesi",
+      "homeScore": 2,
+      "awayScore": 0,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "60%",
+          "40%"
+        ],
+        "Total shots": [
+          "18",
+          "4"
+        ],
+        "Shots on target": [
+          "6",
+          "1"
+        ],
+        "Corner kicks": [
+          "8",
+          "2"
+        ],
+        "Yellow cards": [
+          "0",
+          "2"
+        ],
+        "Shots off target": [
+          "12",
+          "3"
+        ]
+      }
+    },
+    {
+      "id": "d2MmAnle",
+      "date": "2025-12-14T19:30:00.000Z",
+      "round": "Round 18",
+      "homeTeam": "ASD Union Arzignanochiampo",
+      "awayTeam": "Pro Patria",
+      "homeScore": 2,
+      "awayScore": 1,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "51%",
+          "49%"
+        ],
+        "Total shots": [
+          "16",
+          "7"
+        ],
+        "Shots on target": [
+          "9",
+          "3"
+        ],
+        "Corner kicks": [
+          "10",
+          "4"
+        ],
+        "Yellow cards": [
+          "2",
+          "1"
+        ],
+        "Shots off target": [
+          "7",
+          "4"
+        ]
+      }
+    },
+    {
+      "id": "K4ZwL32D",
+      "date": "2025-12-14T16:30:00.000Z",
+      "round": "Round 18",
+      "homeTeam": "A.C. Ospitaletto",
+      "awayTeam": "Pro Vercelli",
+      "homeScore": 2,
+      "awayScore": 0,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "45%",
+          "55%"
+        ],
+        "Total shots": [
+          "2",
+          "0"
+        ],
+        "Shots on target": [
+          "2",
+          "0"
+        ],
+        "Corner kicks": [
+          "2",
+          "4"
+        ],
+        "Yellow cards": [
+          "2",
+          "5"
+        ],
+        "Shots off target": [
+          "0",
+          "0"
+        ]
+      }
+    },
+    {
+      "id": "xt64yPnf",
+      "date": "2025-12-14T16:30:00.000Z",
+      "round": "Round 18",
+      "homeTeam": "Triestina",
+      "awayTeam": "Albinoleffe",
+      "homeScore": 5,
+      "awayScore": 2,
+      "htHome": 2,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "46%",
+          "54%"
+        ],
+        "Total shots": [
+          "11",
+          "12"
+        ],
+        "Shots on target": [
+          "7",
+          "2"
+        ],
+        "Corner kicks": [
+          "3",
+          "9"
+        ],
+        "Yellow cards": [
+          "1",
+          "1"
+        ],
+        "Shots off target": [
+          "4",
+          "10"
+        ]
+      }
+    },
+    {
+      "id": "4SPe8QI7",
+      "date": "2025-12-14T13:30:00.000Z",
+      "round": "Round 18",
+      "homeTeam": "Cittadella",
+      "awayTeam": "Novara",
+      "homeScore": 2,
+      "awayScore": 2,
+      "htHome": 0,
+      "htAway": 2,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "59%",
+          "41%"
+        ],
+        "Total shots": [
+          "7",
+          "4"
+        ],
+        "Shots on target": [
+          "6",
+          "4"
+        ],
+        "Corner kicks": [
+          "6",
+          "2"
+        ],
+        "Yellow cards": [
+          "4",
+          "4"
+        ],
+        "Red cards": [
+          "0",
+          "1"
+        ],
+        "Shots off target": [
+          "1",
+          "0"
+        ]
+      }
+    },
+    {
+      "id": "pO2rWTAE",
+      "date": "2025-12-14T13:30:00.000Z",
+      "round": "Round 18",
+      "homeTeam": "AC Dolomiti Bellunesi",
+      "awayTeam": "Union Brescia",
+      "homeScore": 0,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "38%",
+          "62%"
+        ],
+        "Total shots": [
+          "0",
+          "2"
+        ],
+        "Shots on target": [
+          "0",
+          "2"
+        ],
+        "Corner kicks": [
+          "2",
+          "5"
+        ],
+        "Yellow cards": [
+          "3",
+          "3"
+        ],
+        "Shots off target": [
+          "0",
+          "0"
+        ]
+      }
+    },
+    {
+      "id": "prRPr7fK",
+      "date": "2025-12-14T13:30:00.000Z",
+      "round": "Round 18",
+      "homeTeam": "US Pergolettese",
+      "awayTeam": "Vicenza",
+      "homeScore": 0,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "43%",
+          "57%"
+        ],
+        "Total shots": [
+          "5",
+          "12"
+        ],
+        "Shots on target": [
+          "2",
+          "4"
+        ],
+        "Corner kicks": [
+          "2",
+          "9"
+        ],
+        "Yellow cards": [
+          "6",
+          "2"
+        ],
+        "Red cards": [
+          "2",
+          "0"
+        ],
+        "Shots off target": [
+          "3",
+          "8"
+        ]
+      }
+    },
+    {
+      "id": "Wv1jU7uR",
+      "date": "2025-12-14T11:30:00.000Z",
+      "round": "Round 18",
+      "homeTeam": "Inter Milan U23",
+      "awayTeam": "Giana Erminio",
+      "homeScore": 0,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "51%",
+          "49%"
+        ],
+        "Total shots": [
+          "4",
+          "8"
+        ],
+        "Shots on target": [
+          "1",
+          "3"
+        ],
+        "Corner kicks": [
+          "3",
+          "5"
+        ],
+        "Yellow cards": [
+          "1",
+          "2"
+        ],
+        "Red cards": [
+          "1",
+          "0"
+        ],
+        "Shots off target": [
+          "3",
+          "5"
+        ]
+      }
+    },
+    {
+      "id": "0zTvC8Jr",
+      "date": "2025-12-13T16:30:00.000Z",
+      "round": "Round 18",
+      "homeTeam": "Alcione Milano",
+      "awayTeam": "Virtus Verona",
+      "homeScore": 0,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "55%",
+          "45%"
+        ],
+        "Total shots": [
+          "11",
+          "7"
+        ],
+        "Shots on target": [
+          "5",
+          "3"
+        ],
+        "Corner kicks": [
+          "2",
+          "2"
+        ],
+        "Shots off target": [
+          "6",
+          "4"
+        ]
+      }
+    },
+    {
+      "id": "UF2dwoIs",
+      "date": "2025-12-13T16:30:00.000Z",
+      "round": "Round 18",
+      "homeTeam": "Renate",
+      "awayTeam": "Trento",
+      "homeScore": 1,
+      "awayScore": 1,
+      "htHome": 1,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "55%",
+          "45%"
+        ],
+        "Total shots": [
+          "10",
+          "2"
+        ],
+        "Shots on target": [
+          "3",
+          "1"
+        ],
+        "Corner kicks": [
+          "6",
+          "2"
+        ],
+        "Yellow cards": [
+          "3",
+          "1"
+        ],
+        "Red cards": [
+          "0",
+          "1"
+        ],
+        "Shots off target": [
+          "7",
+          "1"
+        ]
+      }
+    },
+    {
+      "id": "OxtVMPX0",
+      "date": "2025-12-13T13:30:00.000Z",
+      "round": "Round 18",
+      "homeTeam": "Lumezzane",
+      "awayTeam": "Lecco",
+      "homeScore": 1,
+      "awayScore": 1,
+      "htHome": 1,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "49%",
+          "51%"
+        ],
+        "Total shots": [
+          "4",
+          "12"
+        ],
+        "Shots on target": [
+          "2",
+          "3"
+        ],
+        "Corner kicks": [
+          "6",
+          "2"
+        ],
+        "Yellow cards": [
+          "0",
+          "2"
+        ],
+        "Shots off target": [
+          "2",
+          "9"
+        ]
+      }
+    },
+    {
+      "id": "MBUxddTp",
+      "date": "2025-12-08T14:00:00.000Z",
+      "round": "Round 17",
+      "homeTeam": "Giana Erminio",
+      "awayTeam": "Triestina",
+      "homeScore": 2,
+      "awayScore": 1,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "52%",
+          "48%"
+        ],
+        "Total shots": [
+          "9",
+          "5"
+        ],
+        "Shots on target": [
+          "6",
+          "3"
+        ],
+        "Corner kicks": [
+          "3",
+          "5"
+        ],
+        "Yellow cards": [
+          "3",
+          "2"
+        ],
+        "Shots off target": [
+          "3",
+          "2"
+        ]
+      }
+    },
+    {
+      "id": "UDkb3vyB",
+      "date": "2025-12-08T13:30:00.000Z",
+      "round": "Round 17",
+      "homeTeam": "Albinoleffe",
+      "awayTeam": "A.C. Ospitaletto",
+      "homeScore": 1,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "44%",
+          "56%"
+        ],
+        "Total shots": [
+          "9",
+          "11"
+        ],
+        "Shots on target": [
+          "4",
+          "3"
+        ],
+        "Corner kicks": [
+          "3",
+          "4"
+        ],
+        "Yellow cards": [
+          "2",
+          "2"
+        ],
+        "Shots off target": [
+          "5",
+          "8"
+        ]
+      }
+    },
+    {
+      "id": "xKCPJaLi",
+      "date": "2025-12-08T13:30:00.000Z",
+      "round": "Round 17",
+      "homeTeam": "Lecco",
+      "awayTeam": "Alcione Milano",
+      "homeScore": 1,
+      "awayScore": 0,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "54%",
+          "46%"
+        ],
+        "Total shots": [
+          "11",
+          "8"
+        ],
+        "Shots on target": [
+          "2",
+          "4"
+        ],
+        "Corner kicks": [
+          "2",
+          "1"
+        ],
+        "Yellow cards": [
+          "2",
+          "4"
+        ],
+        "Shots off target": [
+          "9",
+          "4"
+        ]
+      }
+    },
+    {
+      "id": "Um67UGZ9",
+      "date": "2025-12-08T13:30:00.000Z",
+      "round": "Round 17",
+      "homeTeam": "Virtus Verona",
+      "awayTeam": "US Pergolettese",
+      "homeScore": 1,
+      "awayScore": 1,
+      "htHome": 1,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "46%",
+          "54%"
+        ],
+        "Total shots": [
+          "4",
+          "10"
+        ],
+        "Shots on target": [
+          "2",
+          "2"
+        ],
+        "Corner kicks": [
+          "9",
+          "6"
+        ],
+        "Yellow cards": [
+          "4",
+          "1"
+        ],
+        "Shots off target": [
+          "2",
+          "8"
+        ]
+      }
+    },
+    {
+      "id": "UZQYFHKG",
+      "date": "2025-12-07T16:30:00.000Z",
+      "round": "Round 17",
+      "homeTeam": "Pro Patria",
+      "awayTeam": "AC Dolomiti Bellunesi",
+      "homeScore": 0,
+      "awayScore": 2,
+      "htHome": 0,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "57%",
+          "43%"
+        ],
+        "Total shots": [
+          "14",
+          "11"
+        ],
+        "Shots on target": [
+          "2",
+          "6"
+        ],
+        "Corner kicks": [
+          "7",
+          "2"
+        ],
+        "Yellow cards": [
+          "4",
+          "4"
+        ],
+        "Shots off target": [
+          "12",
+          "5"
+        ]
+      }
+    },
+    {
+      "id": "lvbaWx5c",
+      "date": "2025-12-07T13:30:00.000Z",
+      "round": "Round 17",
+      "homeTeam": "Union Brescia",
+      "awayTeam": "Lumezzane",
+      "homeScore": 0,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "46%",
+          "54%"
+        ],
+        "Total shots": [
+          "10",
+          "15"
+        ],
+        "Shots on target": [
+          "4",
+          "6"
+        ],
+        "Corner kicks": [
+          "10",
+          "6"
+        ],
+        "Yellow cards": [
+          "4",
+          "2"
+        ],
+        "Red cards": [
+          "1",
+          "0"
+        ],
+        "Shots off target": [
+          "6",
+          "9"
+        ]
+      }
+    },
+    {
+      "id": "AXAXHwj4",
+      "date": "2025-12-07T13:30:00.000Z",
+      "round": "Round 17",
+      "homeTeam": "Novara",
+      "awayTeam": "Vicenza",
+      "homeScore": 2,
+      "awayScore": 2,
+      "htHome": 1,
+      "htAway": 2,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "51%",
+          "49%"
+        ],
+        "Total shots": [
+          "3",
+          "5"
+        ],
+        "Shots on target": [
+          "2",
+          "3"
+        ],
+        "Corner kicks": [
+          "5",
+          "3"
+        ],
+        "Yellow cards": [
+          "1",
+          "3"
+        ],
+        "Red cards": [
+          "0",
+          "1"
+        ],
+        "Shots off target": [
+          "1",
+          "2"
+        ]
+      }
+    },
+    {
+      "id": "jTw71I5N",
+      "date": "2025-12-07T11:30:00.000Z",
+      "round": "Round 17",
+      "homeTeam": "ASD Union Arzignanochiampo",
+      "awayTeam": "Inter Milan U23",
+      "homeScore": 1,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "44%",
+          "56%"
+        ],
+        "Total shots": [
+          "5",
+          "7"
+        ],
+        "Shots on target": [
+          "3",
+          "3"
+        ],
+        "Corner kicks": [
+          "3",
+          "5"
+        ],
+        "Yellow cards": [
+          "3",
+          "2"
+        ],
+        "Red cards": [
+          "1",
+          "0"
+        ],
+        "Shots off target": [
+          "2",
+          "4"
+        ]
+      }
+    },
+    {
+      "id": "x0UtEekT",
+      "date": "2025-12-06T13:30:00.000Z",
+      "round": "Round 17",
+      "homeTeam": "Pro Vercelli",
+      "awayTeam": "Renate",
+      "homeScore": 1,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "50%",
+          "50%"
+        ],
+        "Total shots": [
+          "7",
+          "9"
+        ],
+        "Shots on target": [
+          "4",
+          "5"
+        ],
+        "Corner kicks": [
+          "4",
+          "5"
+        ],
+        "Yellow cards": [
+          "4",
+          "3"
+        ],
+        "Shots off target": [
+          "3",
+          "4"
+        ]
+      }
+    },
+    {
+      "id": "MX5D8ZCj",
+      "date": "2025-12-05T19:30:00.000Z",
+      "round": "Round 17",
+      "homeTeam": "Trento",
+      "awayTeam": "Cittadella",
+      "homeScore": 1,
+      "awayScore": 0,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "55%",
+          "45%"
+        ],
+        "Total shots": [
+          "10",
+          "5"
+        ],
+        "Shots on target": [
+          "4",
+          "1"
+        ],
+        "Corner kicks": [
+          "6",
+          "1"
+        ],
+        "Yellow cards": [
+          "2",
+          "3"
+        ],
+        "Shots off target": [
+          "6",
+          "4"
+        ]
+      }
+    },
+    {
+      "id": "jTZ9EnNj",
+      "date": "2025-12-03T17:30:00.000Z",
+      "round": "Round 14",
+      "homeTeam": "AC Dolomiti Bellunesi",
+      "awayTeam": "Inter Milan U23",
+      "homeScore": 1,
+      "awayScore": 0,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "52%",
+          "48%"
+        ],
+        "Total shots": [
+          "5",
+          "4"
+        ],
+        "Shots on target": [
+          "2",
+          "0"
+        ],
+        "Corner kicks": [
+          "3",
+          "7"
+        ],
+        "Yellow cards": [
+          "6",
+          "2"
+        ],
+        "Shots off target": [
+          "3",
+          "4"
+        ]
+      }
+    },
+    {
+      "id": "0d4phgBC",
+      "date": "2025-12-01T19:30:00.000Z",
+      "round": "Round 16",
+      "homeTeam": "Cittadella",
+      "awayTeam": "Union Brescia",
+      "homeScore": 1,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "55%",
+          "45%"
+        ],
+        "Total shots": [
+          "10",
+          "12"
+        ],
+        "Shots on target": [
+          "6",
+          "3"
+        ],
+        "Corner kicks": [
+          "6",
+          "5"
+        ],
+        "Yellow cards": [
+          "1",
+          "3"
+        ],
+        "Shots off target": [
+          "4",
+          "9"
+        ]
+      }
+    },
+    {
+      "id": "Y92hjXuP",
+      "date": "2025-11-30T16:30:00.000Z",
+      "round": "Round 16",
+      "homeTeam": "AC Dolomiti Bellunesi",
+      "awayTeam": "Giana Erminio",
+      "homeScore": 0,
+      "awayScore": 0,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "55%",
+          "45%"
+        ],
+        "Total shots": [
+          "8",
+          "12"
+        ],
+        "Shots on target": [
+          "3",
+          "9"
+        ],
+        "Corner kicks": [
+          "3",
+          "5"
+        ],
+        "Yellow cards": [
+          "2",
+          "0"
+        ],
+        "Shots off target": [
+          "5",
+          "3"
+        ]
+      }
+    },
+    {
+      "id": "bX7TeyCm",
+      "date": "2025-11-30T13:30:00.000Z",
+      "round": "Round 16",
+      "homeTeam": "Alcione Milano",
+      "awayTeam": "Trento",
+      "homeScore": 2,
+      "awayScore": 0,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "51%",
+          "49%"
+        ],
+        "Total shots": [
+          "3",
+          "9"
+        ],
+        "Shots on target": [
+          "2",
+          "4"
+        ],
+        "Corner kicks": [
+          "1",
+          "5"
+        ],
+        "Yellow cards": [
+          "1",
+          "4"
+        ],
+        "Shots off target": [
+          "1",
+          "5"
+        ]
+      }
+    },
+    {
+      "id": "E3K0fqht",
+      "date": "2025-11-30T13:30:00.000Z",
+      "round": "Round 16",
+      "homeTeam": "Inter Milan U23",
+      "awayTeam": "Pro Vercelli",
+      "homeScore": 1,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "53%",
+          "47%"
+        ],
+        "Total shots": [
+          "8",
+          "8"
+        ],
+        "Shots on target": [
+          "3",
+          "6"
+        ],
+        "Corner kicks": [
+          "9",
+          "5"
+        ],
+        "Yellow cards": [
+          "3",
+          "2"
+        ],
+        "Shots off target": [
+          "5",
+          "2"
+        ]
+      }
+    },
+    {
+      "id": "MTN8hNMh",
+      "date": "2025-11-30T13:30:00.000Z",
+      "round": "Round 16",
+      "homeTeam": "Vicenza",
+      "awayTeam": "Lecco",
+      "homeScore": 1,
+      "awayScore": 0,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "52%",
+          "48%"
+        ],
+        "Total shots": [
+          "12",
+          "5"
+        ],
+        "Shots on target": [
+          "5",
+          "0"
+        ],
+        "Corner kicks": [
+          "7",
+          "1"
+        ],
+        "Yellow cards": [
+          "1",
+          "4"
+        ],
+        "Shots off target": [
+          "7",
+          "5"
+        ]
+      }
+    },
+    {
+      "id": "GAPOluMH",
+      "date": "2025-11-29T16:30:00.000Z",
+      "round": "Round 16",
+      "homeTeam": "A.C. Ospitaletto",
+      "awayTeam": "Virtus Verona",
+      "homeScore": 1,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "59%",
+          "41%"
+        ],
+        "Total shots": [
+          "12",
+          "4"
+        ],
+        "Shots on target": [
+          "7",
+          "2"
+        ],
+        "Corner kicks": [
+          "6",
+          "2"
+        ],
+        "Yellow cards": [
+          "2",
+          "0"
+        ],
+        "Shots off target": [
+          "5",
+          "2"
+        ]
+      }
+    },
+    {
+      "id": "CxJXnJjU",
+      "date": "2025-11-29T16:30:00.000Z",
+      "round": "Round 16",
+      "homeTeam": "US Pergolettese",
+      "awayTeam": "Albinoleffe",
+      "homeScore": 0,
+      "awayScore": 0,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "44%",
+          "56%"
+        ],
+        "Total shots": [
+          "5",
+          "1"
+        ],
+        "Shots on target": [
+          "1",
+          "1"
+        ],
+        "Corner kicks": [
+          "3",
+          "5"
+        ],
+        "Yellow cards": [
+          "2",
+          "1"
+        ],
+        "Shots off target": [
+          "4",
+          "0"
+        ]
+      }
+    },
+    {
+      "id": "rqCHj1i5",
+      "date": "2025-11-29T13:30:00.000Z",
+      "round": "Round 16",
+      "homeTeam": "Lumezzane",
+      "awayTeam": "Novara",
+      "homeScore": 1,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "54%",
+          "46%"
+        ],
+        "Total shots": [
+          "6",
+          "6"
+        ],
+        "Shots on target": [
+          "4",
+          "5"
+        ],
+        "Corner kicks": [
+          "5",
+          "2"
+        ],
+        "Yellow cards": [
+          "3",
+          "3"
+        ],
+        "Red cards": [
+          "0",
+          "1"
+        ],
+        "Shots off target": [
+          "2",
+          "1"
+        ]
+      }
+    },
+    {
+      "id": "Slgs7Myn",
+      "date": "2025-11-29T13:30:00.000Z",
+      "round": "Round 16",
+      "homeTeam": "Renate",
+      "awayTeam": "ASD Union Arzignanochiampo",
+      "homeScore": 1,
+      "awayScore": 2,
+      "htHome": 0,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "58%",
+          "42%"
+        ],
+        "Total shots": [
+          "13",
+          "8"
+        ],
+        "Shots on target": [
+          "6",
+          "5"
+        ],
+        "Corner kicks": [
+          "6",
+          "6"
+        ],
+        "Yellow cards": [
+          "4",
+          "4"
+        ],
+        "Shots off target": [
+          "7",
+          "3"
+        ]
+      }
+    },
+    {
+      "id": "OGnj506b",
+      "date": "2025-11-28T19:30:00.000Z",
+      "round": "Round 16",
+      "homeTeam": "Triestina",
+      "awayTeam": "Pro Patria",
+      "homeScore": 2,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "53%",
+          "47%"
+        ],
+        "Total shots": [
+          "11",
+          "8"
+        ],
+        "Shots on target": [
+          "4",
+          "4"
+        ],
+        "Corner kicks": [
+          "3",
+          "1"
+        ],
+        "Yellow cards": [
+          "1",
+          "1"
+        ],
+        "Red cards": [
+          "0",
+          "1"
+        ],
+        "Shots off target": [
+          "7",
+          "4"
+        ]
+      }
+    },
+    {
+      "id": "CGRYw3j2",
+      "date": "2025-11-23T19:30:00.000Z",
+      "round": "Round 15",
+      "homeTeam": "Lecco",
+      "awayTeam": "Cittadella",
+      "homeScore": 0,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "59%",
+          "41%"
+        ],
+        "Total shots": [
+          "15",
+          "4"
+        ],
+        "Shots on target": [
+          "5",
+          "2"
+        ],
+        "Corner kicks": [
+          "6",
+          "0"
+        ],
+        "Yellow cards": [
+          "1",
+          "2"
+        ],
+        "Shots off target": [
+          "10",
+          "2"
+        ]
+      }
+    },
+    {
+      "id": "K89RuPLk",
+      "date": "2025-11-23T16:30:00.000Z",
+      "round": "Round 15",
+      "homeTeam": "Giana Erminio",
+      "awayTeam": "A.C. Ospitaletto",
+      "homeScore": 1,
+      "awayScore": 0,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "57%",
+          "43%"
+        ],
+        "Total shots": [
+          "3",
+          "5"
+        ],
+        "Shots on target": [
+          "1",
+          "2"
+        ],
+        "Corner kicks": [
+          "4",
+          "3"
+        ],
+        "Yellow cards": [
+          "4",
+          "0"
+        ],
+        "Shots off target": [
+          "2",
+          "3"
+        ]
+      }
+    },
+    {
+      "id": "Cx39jtz8",
+      "date": "2025-11-23T13:30:00.000Z",
+      "round": "Round 15",
+      "homeTeam": "Union Brescia",
+      "awayTeam": "Vicenza",
+      "homeScore": 1,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "54%",
+          "46%"
+        ],
+        "Total shots": [
+          "1",
+          "1"
+        ],
+        "Shots on target": [
+          "1",
+          "1"
+        ],
+        "Corner kicks": [
+          "5",
+          "3"
+        ],
+        "Yellow cards": [
+          "2",
+          "2"
+        ],
+        "Shots off target": [
+          "0",
+          "0"
+        ]
+      }
+    },
+    {
+      "id": "hC4L16r9",
+      "date": "2025-11-23T13:30:00.000Z",
+      "round": "Round 15",
+      "homeTeam": "Novara",
+      "awayTeam": "Renate",
+      "homeScore": 0,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "44%",
+          "56%"
+        ],
+        "Total shots": [
+          "8",
+          "10"
+        ],
+        "Shots on target": [
+          "3",
+          "5"
+        ],
+        "Corner kicks": [
+          "4",
+          "8"
+        ],
+        "Yellow cards": [
+          "3",
+          "3"
+        ],
+        "Shots off target": [
+          "5",
+          "5"
+        ]
+      }
+    },
+    {
+      "id": "hzm8h25e",
+      "date": "2025-11-23T11:30:00.000Z",
+      "round": "Round 15",
+      "homeTeam": "Trento",
+      "awayTeam": "Inter Milan U23",
+      "homeScore": 0,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "54%",
+          "46%"
+        ],
+        "Total shots": [
+          "13",
+          "5"
+        ],
+        "Shots on target": [
+          "4",
+          "4"
+        ],
+        "Corner kicks": [
+          "3",
+          "3"
+        ],
+        "Yellow cards": [
+          "1",
+          "2"
+        ],
+        "Shots off target": [
+          "9",
+          "1"
+        ]
+      }
+    },
+    {
+      "id": "OGnj506b",
+      "date": "2025-11-28T19:30:00.000Z",
+      "round": "Round 16",
+      "homeTeam": "Triestina",
+      "awayTeam": "Pro Patria",
+      "homeScore": 2,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "53%",
+          "47%"
+        ],
+        "Total shots": [
+          "11",
+          "8"
+        ],
+        "Shots on target": [
+          "4",
+          "4"
+        ],
+        "Corner kicks": [
+          "3",
+          "1"
+        ],
+        "Yellow cards": [
+          "1",
+          "1"
+        ],
+        "Red cards": [
+          "0",
+          "1"
+        ],
+        "Shots off target": [
+          "7",
+          "4"
+        ]
+      }
+    },
+    {
+      "id": "CGRYw3j2",
+      "date": "2025-11-23T19:30:00.000Z",
+      "round": "Round 15",
+      "homeTeam": "Lecco",
+      "awayTeam": "Cittadella",
+      "homeScore": 0,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "59%",
+          "41%"
+        ],
+        "Total shots": [
+          "15",
+          "4"
+        ],
+        "Shots on target": [
+          "5",
+          "2"
+        ],
+        "Corner kicks": [
+          "6",
+          "0"
+        ],
+        "Yellow cards": [
+          "1",
+          "2"
+        ],
+        "Shots off target": [
+          "10",
+          "2"
+        ]
+      }
+    },
+    {
+      "id": "K89RuPLk",
+      "date": "2025-11-23T16:30:00.000Z",
+      "round": "Round 15",
+      "homeTeam": "Giana Erminio",
+      "awayTeam": "A.C. Ospitaletto",
+      "homeScore": 1,
+      "awayScore": 0,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "57%",
+          "43%"
+        ],
+        "Total shots": [
+          "3",
+          "5"
+        ],
+        "Shots on target": [
+          "1",
+          "2"
+        ],
+        "Corner kicks": [
+          "4",
+          "3"
+        ],
+        "Yellow cards": [
+          "4",
+          "0"
+        ],
+        "Shots off target": [
+          "2",
+          "3"
+        ]
+      }
+    },
+    {
+      "id": "Cx39jtz8",
+      "date": "2025-11-23T13:30:00.000Z",
+      "round": "Round 15",
+      "homeTeam": "Union Brescia",
+      "awayTeam": "Vicenza",
+      "homeScore": 1,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "54%",
+          "46%"
+        ],
+        "Total shots": [
+          "1",
+          "1"
+        ],
+        "Shots on target": [
+          "1",
+          "1"
+        ],
+        "Corner kicks": [
+          "5",
+          "3"
+        ],
+        "Yellow cards": [
+          "2",
+          "2"
+        ],
+        "Shots off target": [
+          "0",
+          "0"
+        ]
+      }
+    },
+    {
+      "id": "hC4L16r9",
+      "date": "2025-11-23T13:30:00.000Z",
+      "round": "Round 15",
+      "homeTeam": "Novara",
+      "awayTeam": "Renate",
+      "homeScore": 0,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "44%",
+          "56%"
+        ],
+        "Total shots": [
+          "8",
+          "10"
+        ],
+        "Shots on target": [
+          "3",
+          "5"
+        ],
+        "Corner kicks": [
+          "4",
+          "8"
+        ],
+        "Yellow cards": [
+          "3",
+          "3"
+        ],
+        "Shots off target": [
+          "5",
+          "5"
+        ]
+      }
+    },
+    {
+      "id": "hzm8h25e",
+      "date": "2025-11-23T11:30:00.000Z",
+      "round": "Round 15",
+      "homeTeam": "Trento",
+      "awayTeam": "Inter Milan U23",
+      "homeScore": 0,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "54%",
+          "46%"
+        ],
+        "Total shots": [
+          "13",
+          "5"
+        ],
+        "Shots on target": [
+          "4",
+          "4"
+        ],
+        "Corner kicks": [
+          "3",
+          "3"
+        ],
+        "Yellow cards": [
+          "1",
+          "2"
+        ],
+        "Shots off target": [
+          "9",
+          "1"
+        ]
+      }
+    },
+    {
+      "id": "0OSfoobS",
+      "date": "2025-11-22T16:30:00.000Z",
+      "round": "Round 15",
+      "homeTeam": "ASD Union Arzignanochiampo",
+      "awayTeam": "AC Dolomiti Bellunesi",
+      "homeScore": 2,
+      "awayScore": 2,
+      "htHome": 1,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "53%",
+          "47%"
+        ],
+        "Total shots": [
+          "21",
+          "11"
+        ],
+        "Shots on target": [
+          "9",
+          "10"
+        ],
+        "Corner kicks": [
+          "7",
+          "5"
+        ],
+        "Yellow cards": [
+          "3",
+          "1"
+        ],
+        "Shots off target": [
+          "12",
+          "1"
+        ]
+      }
+    },
+    {
+      "id": "vqeeEqSE",
+      "date": "2025-11-22T16:30:00.000Z",
+      "round": "Round 15",
+      "homeTeam": "Virtus Verona",
+      "awayTeam": "Triestina",
+      "homeScore": 0,
+      "awayScore": 0,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "47%",
+          "53%"
+        ],
+        "Total shots": [
+          "9",
+          "7"
+        ],
+        "Shots on target": [
+          "5",
+          "5"
+        ],
+        "Corner kicks": [
+          "3",
+          "3"
+        ],
+        "Yellow cards": [
+          "3",
+          "3"
+        ],
+        "Shots off target": [
+          "4",
+          "2"
+        ]
+      }
+    },
+    {
+      "id": "SAUnm7TF",
+      "date": "2025-11-22T13:30:00.000Z",
+      "round": "Round 15",
+      "homeTeam": "Albinoleffe",
+      "awayTeam": "Lumezzane",
+      "homeScore": 0,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "47%",
+          "53%"
+        ],
+        "Total shots": [
+          "7",
+          "10"
+        ],
+        "Shots on target": [
+          "3",
+          "5"
+        ],
+        "Corner kicks": [
+          "7",
+          "9"
+        ],
+        "Yellow cards": [
+          "2",
+          "2"
+        ],
+        "Shots off target": [
+          "4",
+          "5"
+        ]
+      }
+    },
+    {
+      "id": "KMl0fOzq",
+      "date": "2025-11-22T13:30:00.000Z",
+      "round": "Round 15",
+      "homeTeam": "Pro Vercelli",
+      "awayTeam": "Alcione Milano",
+      "homeScore": 1,
+      "awayScore": 0,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "58%",
+          "42%"
+        ],
+        "Total shots": [
+          "18",
+          "7"
+        ],
+        "Shots on target": [
+          "8",
+          "2"
+        ],
+        "Corner kicks": [
+          "7",
+          "2"
+        ],
+        "Yellow cards": [
+          "3",
+          "1"
+        ],
+        "Shots off target": [
+          "10",
+          "5"
+        ]
+      }
+    },
+    {
+      "id": "0x8TapDL",
+      "date": "2025-11-21T19:30:00.000Z",
+      "round": "Round 15",
+      "homeTeam": "Pro Patria",
+      "awayTeam": "US Pergolettese",
+      "homeScore": 3,
+      "awayScore": 1,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "55%",
+          "45%"
+        ],
+        "Total shots": [
+          "8",
+          "14"
+        ],
+        "Shots on target": [
+          "5",
+          "8"
+        ],
+        "Corner kicks": [
+          "3",
+          "8"
+        ],
+        "Yellow cards": [
+          "3",
+          "1"
+        ],
+        "Shots off target": [
+          "3",
+          "6"
+        ]
+      }
+    },
+    {
+      "id": "QolhRP6d",
+      "date": "2025-11-17T19:30:00.000Z",
+      "round": "Round 14",
+      "homeTeam": "US Pergolettese",
+      "awayTeam": "Giana Erminio",
+      "homeScore": 0,
+      "awayScore": 3,
+      "htHome": 0,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "36%",
+          "64%"
+        ],
+        "Total shots": [
+          "5",
+          "10"
+        ],
+        "Shots on target": [
+          "3",
+          "5"
+        ],
+        "Corner kicks": [
+          "4",
+          "4"
+        ],
+        "Yellow cards": [
+          "2",
+          "2"
+        ],
+        "Red cards": [
+          "2",
+          "0"
+        ],
+        "Shots off target": [
+          "2",
+          "5"
+        ]
+      }
+    },
+    {
+      "id": "xMF4zUqA",
+      "date": "2025-11-16T16:30:00.000Z",
+      "round": "Round 14",
+      "homeTeam": "Lecco",
+      "awayTeam": "Pro Patria",
+      "homeScore": 1,
+      "awayScore": 0,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "60%",
+          "40%"
+        ],
+        "Total shots": [
+          "8",
+          "8"
+        ],
+        "Shots on target": [
+          "4",
+          "3"
+        ],
+        "Corner kicks": [
+          "3",
+          "7"
+        ],
+        "Yellow cards": [
+          "3",
+          "1"
+        ],
+        "Shots off target": [
+          "4",
+          "5"
+        ]
+      }
+    },
+    {
+      "id": "48HdxjFc",
+      "date": "2025-11-16T16:30:00.000Z",
+      "round": "Round 14",
+      "homeTeam": "Vicenza",
+      "awayTeam": "Renate",
+      "homeScore": 1,
+      "awayScore": 0,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "55%",
+          "45%"
+        ],
+        "Total shots": [
+          "6",
+          "10"
+        ],
+        "Shots on target": [
+          "2",
+          "1"
+        ],
+        "Corner kicks": [
+          "3",
+          "3"
+        ],
+        "Yellow cards": [
+          "1",
+          "2"
+        ],
+        "Shots off target": [
+          "4",
+          "9"
+        ]
+      }
+    },
+    {
+      "id": "j5iNNj04",
+      "date": "2025-11-16T13:30:00.000Z",
+      "round": "Round 14",
+      "homeTeam": "Albinoleffe",
+      "awayTeam": "Virtus Verona",
+      "homeScore": 3,
+      "awayScore": 1,
+      "htHome": 2,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "59%",
+          "41%"
+        ],
+        "Total shots": [
+          "13",
+          "3"
+        ],
+        "Shots on target": [
+          "9",
+          "2"
+        ],
+        "Corner kicks": [
+          "7",
+          "4"
+        ],
+        "Yellow cards": [
+          "0",
+          "3"
+        ],
+        "Shots off target": [
+          "4",
+          "1"
+        ]
+      }
+    },
+    {
+      "id": "bVfVLUUG",
+      "date": "2025-11-16T13:30:00.000Z",
+      "round": "Round 14",
+      "homeTeam": "Alcione Milano",
+      "awayTeam": "Novara",
+      "homeScore": 0,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "53%",
+          "47%"
+        ],
+        "Total shots": [
+          "4",
+          "6"
+        ],
+        "Shots on target": [
+          "0",
+          "4"
+        ],
+        "Corner kicks": [
+          "4",
+          "5"
+        ],
+        "Yellow cards": [
+          "2",
+          "1"
+        ],
+        "Red cards": [
+          "0",
+          "1"
+        ],
+        "Shots off target": [
+          "4",
+          "2"
+        ]
+      }
+    },
+    {
+      "id": "4WaqToxp",
+      "date": "2025-11-16T11:30:00.000Z",
+      "round": "Round 14",
+      "homeTeam": "A.C. Ospitaletto",
+      "awayTeam": "Union Brescia",
+      "homeScore": 0,
+      "awayScore": 0,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "53%",
+          "47%"
+        ],
+        "Total shots": [
+          "6",
+          "8"
+        ],
+        "Shots on target": [
+          "1",
+          "2"
+        ],
+        "Corner kicks": [
+          "4",
+          "5"
+        ],
+        "Yellow cards": [
+          "0",
+          "3"
+        ],
+        "Shots off target": [
+          "5",
+          "6"
+        ]
+      }
+    },
+    {
+      "id": "WryvkTb3",
+      "date": "2025-11-15T19:30:00.000Z",
+      "round": "Round 14",
+      "homeTeam": "Triestina",
+      "awayTeam": "Trento",
+      "homeScore": 1,
+      "awayScore": 1,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "40%",
+          "60%"
+        ],
+        "Total shots": [
+          "13",
+          "11"
+        ],
+        "Shots on target": [
+          "6",
+          "7"
+        ],
+        "Corner kicks": [
+          "3",
+          "4"
+        ],
+        "Yellow cards": [
+          "1",
+          "1"
+        ],
+        "Shots off target": [
+          "7",
+          "4"
+        ]
+      }
+    },
+    {
+      "id": "KpqvK8aT",
+      "date": "2025-11-15T16:30:00.000Z",
+      "round": "Round 14",
+      "homeTeam": "Cittadella",
+      "awayTeam": "ASD Union Arzignanochiampo",
+      "homeScore": 1,
+      "awayScore": 0,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "48%",
+          "52%"
+        ],
+        "Total shots": [
+          "7",
+          "6"
+        ],
+        "Shots on target": [
+          "3",
+          "1"
+        ],
+        "Corner kicks": [
+          "5",
+          "3"
+        ],
+        "Yellow cards": [
+          "1",
+          "2"
+        ],
+        "Shots off target": [
+          "4",
+          "5"
+        ]
+      }
+    },
+    {
+      "id": "Ym9DY7EM",
+      "date": "2025-11-15T16:30:00.000Z",
+      "round": "Round 14",
+      "homeTeam": "Lumezzane",
+      "awayTeam": "Pro Vercelli",
+      "homeScore": 3,
+      "awayScore": 1,
+      "htHome": 1,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "49%",
+          "51%"
+        ],
+        "Total shots": [
+          "10",
+          "11"
+        ],
+        "Shots on target": [
+          "8",
+          "4"
+        ],
+        "Corner kicks": [
+          "1",
+          "6"
+        ],
+        "Yellow cards": [
+          "2",
+          "1"
+        ],
+        "Shots off target": [
+          "2",
+          "7"
+        ]
+      }
+    },
+    {
+      "id": "CtgL7vA6",
+      "date": "2025-11-09T16:30:00.000Z",
+      "round": "Round 13",
+      "homeTeam": "Giana Erminio",
+      "awayTeam": "Albinoleffe",
+      "homeScore": 1,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "50%",
+          "50%"
+        ],
+        "Total shots": [
+          "10",
+          "7"
+        ],
+        "Shots on target": [
+          "6",
+          "6"
+        ],
+        "Corner kicks": [
+          "6",
+          "6"
+        ],
+        "Yellow cards": [
+          "0",
+          "1"
+        ],
+        "Shots off target": [
+          "4",
+          "1"
+        ]
+      }
+    },
+    {
+      "id": "02ZFTLWP",
+      "date": "2025-11-09T16:30:00.000Z",
+      "round": "Round 13",
+      "homeTeam": "Novara",
+      "awayTeam": "Lecco",
+      "homeScore": 1,
+      "awayScore": 0,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "47%",
+          "53%"
+        ],
+        "Total shots": [
+          "7",
+          "5"
+        ],
+        "Shots on target": [
+          "5",
+          "3"
+        ],
+        "Corner kicks": [
+          "2",
+          "4"
+        ],
+        "Yellow cards": [
+          "3",
+          "1"
+        ],
+        "Shots off target": [
+          "2",
+          "2"
+        ]
+      }
+    },
+    {
+      "id": "phMMPCVi",
+      "date": "2025-11-09T13:30:00.000Z",
+      "round": "Round 13",
+      "homeTeam": "Union Brescia",
+      "awayTeam": "Alcione Milano",
+      "homeScore": 0,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "53%",
+          "47%"
+        ],
+        "Total shots": [
+          "8",
+          "9"
+        ],
+        "Shots on target": [
+          "6",
+          "3"
+        ],
+        "Corner kicks": [
+          "5",
+          "6"
+        ],
+        "Yellow cards": [
+          "1",
+          "3"
+        ],
+        "Shots off target": [
+          "2",
+          "6"
+        ]
+      }
+    },
+    {
+      "id": "jXDfMwPa",
+      "date": "2025-11-09T13:30:00.000Z",
+      "round": "Round 13",
+      "homeTeam": "Pro Vercelli",
+      "awayTeam": "Triestina",
+      "homeScore": 3,
+      "awayScore": 1,
+      "htHome": 1,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "52%",
+          "48%"
+        ],
+        "Total shots": [
+          "12",
+          "11"
+        ],
+        "Shots on target": [
+          "7",
+          "7"
+        ],
+        "Corner kicks": [
+          "7",
+          "4"
+        ],
+        "Yellow cards": [
+          "2",
+          "2"
+        ],
+        "Shots off target": [
+          "5",
+          "4"
+        ]
+      }
+    },
+    {
+      "id": "hbZz29wo",
+      "date": "2025-11-09T13:30:00.000Z",
+      "round": "Round 13",
+      "homeTeam": "Trento",
+      "awayTeam": "A.C. Ospitaletto",
+      "homeScore": 3,
+      "awayScore": 1,
+      "htHome": 2,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "55%",
+          "45%"
+        ],
+        "Total shots": [
+          "11",
+          "7"
+        ],
+        "Shots on target": [
+          "8",
+          "3"
+        ],
+        "Corner kicks": [
+          "4",
+          "5"
+        ],
+        "Yellow cards": [
+          "0",
+          "1"
+        ],
+        "Shots off target": [
+          "3",
+          "4"
+        ]
+      }
+    },
+    {
+      "id": "pfiT5IvJ",
+      "date": "2025-11-09T11:30:00.000Z",
+      "round": "Round 13",
+      "homeTeam": "Inter Milan U23",
+      "awayTeam": "Vicenza",
+      "homeScore": 1,
+      "awayScore": 2,
+      "htHome": 0,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "46%",
+          "54%"
+        ],
+        "Total shots": [
+          "7",
+          "4"
+        ],
+        "Shots on target": [
+          "3",
+          "4"
+        ],
+        "Corner kicks": [
+          "1",
+          "5"
+        ],
+        "Yellow cards": [
+          "2",
+          "5"
+        ],
+        "Red cards": [
+          "0",
+          "1"
+        ],
+        "Shots off target": [
+          "4",
+          "0"
+        ]
+      }
+    },
+    {
+      "id": "UHPoOafm",
+      "date": "2025-11-08T16:30:00.000Z",
+      "round": "Round 13",
+      "homeTeam": "Pro Patria",
+      "awayTeam": "Lumezzane",
+      "homeScore": 1,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "50%",
+          "50%"
+        ],
+        "Total shots": [
+          "9",
+          "9"
+        ],
+        "Shots on target": [
+          "6",
+          "1"
+        ],
+        "Corner kicks": [
+          "5",
+          "7"
+        ],
+        "Yellow cards": [
+          "3",
+          "1"
+        ],
+        "Shots off target": [
+          "3",
+          "8"
+        ]
+      }
+    },
+    {
+      "id": "Uc14BMAs",
+      "date": "2025-11-08T13:30:00.000Z",
+      "round": "Round 13",
+      "homeTeam": "ASD Union Arzignanochiampo",
+      "awayTeam": "US Pergolettese",
+      "homeScore": 1,
+      "awayScore": 0,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "44%",
+          "56%"
+        ],
+        "Total shots": [
+          "4",
+          "7"
+        ],
+        "Shots on target": [
+          "2",
+          "2"
+        ],
+        "Corner kicks": [
+          "2",
+          "5"
+        ],
+        "Yellow cards": [
+          "4",
+          "2"
+        ],
+        "Shots off target": [
+          "2",
+          "5"
+        ]
+      }
+    },
+    {
+      "id": "GEaC90uf",
+      "date": "2025-11-08T13:30:00.000Z",
+      "round": "Round 13",
+      "homeTeam": "AC Dolomiti Bellunesi",
+      "awayTeam": "Cittadella",
+      "homeScore": 0,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "51%",
+          "49%"
+        ],
+        "Total shots": [
+          "5",
+          "10"
+        ],
+        "Shots on target": [
+          "2",
+          "4"
+        ],
+        "Corner kicks": [
+          "1",
+          "3"
+        ],
+        "Yellow cards": [
+          "1",
+          "5"
+        ],
+        "Shots off target": [
+          "3",
+          "6"
+        ]
+      }
+    },
+    {
+      "id": "bcH2KHgC",
+      "date": "2025-11-08T13:30:00.000Z",
+      "round": "Round 13",
+      "homeTeam": "Renate",
+      "awayTeam": "Virtus Verona",
+      "homeScore": 1,
+      "awayScore": 0,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "54%",
+          "46%"
+        ],
+        "Total shots": [
+          "11",
+          "5"
+        ],
+        "Shots on target": [
+          "5",
+          "5"
+        ],
+        "Corner kicks": [
+          "7",
+          "3"
+        ],
+        "Yellow cards": [
+          "1",
+          "2"
+        ],
+        "Shots off target": [
+          "6",
+          "0"
+        ]
+      }
+    },
+    {
+      "id": "YiaPk6lL",
+      "date": "2025-11-03T19:30:00.000Z",
+      "round": "Round 12",
+      "homeTeam": "Albinoleffe",
+      "awayTeam": "Inter Milan U23",
+      "homeScore": 1,
+      "awayScore": 3,
+      "htHome": 0,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "52%",
+          "48%"
+        ],
+        "Total shots": [
+          "11",
+          "3"
+        ],
+        "Shots on target": [
+          "7",
+          "3"
+        ],
+        "Corner kicks": [
+          "6",
+          "3"
+        ],
+        "Yellow cards": [
+          "2",
+          "1"
+        ],
+        "Shots off target": [
+          "4",
+          "0"
+        ]
+      }
+    },
+    {
+      "id": "UNpeppCr",
+      "date": "2025-11-03T19:30:00.000Z",
+      "round": "Round 12",
+      "homeTeam": "Alcione Milano",
+      "awayTeam": "Pro Patria",
+      "homeScore": 2,
+      "awayScore": 0,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "48%",
+          "52%"
+        ],
+        "Total shots": [
+          "8",
+          "8"
+        ],
+        "Shots on target": [
+          "2",
+          "3"
+        ],
+        "Corner kicks": [
+          "3",
+          "4"
+        ],
+        "Yellow cards": [
+          "2",
+          "5"
+        ],
+        "Shots off target": [
+          "6",
+          "5"
+        ]
+      }
+    },
+    {
+      "id": "lvtVdNel",
+      "date": "2025-11-03T19:30:00.000Z",
+      "round": "Round 12",
+      "homeTeam": "A.C. Ospitaletto",
+      "awayTeam": "AC Dolomiti Bellunesi",
+      "homeScore": 3,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "52%",
+          "48%"
+        ],
+        "Total shots": [
+          "13",
+          "6"
+        ],
+        "Shots on target": [
+          "9",
+          "4"
+        ],
+        "Corner kicks": [
+          "6",
+          "2"
+        ],
+        "Yellow cards": [
+          "2",
+          "2"
+        ],
+        "Shots off target": [
+          "4",
+          "2"
+        ]
+      }
+    },
+    {
+      "id": "xnsi453E",
+      "date": "2025-11-02T19:30:00.000Z",
+      "round": "Round 12",
+      "homeTeam": "Lecco",
+      "awayTeam": "ASD Union Arzignanochiampo",
+      "homeScore": 5,
+      "awayScore": 1,
+      "htHome": 4,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "55%",
+          "45%"
+        ],
+        "Total shots": [
+          "8",
+          "6"
+        ],
+        "Shots on target": [
+          "7",
+          "4"
+        ],
+        "Corner kicks": [
+          "2",
+          "4"
+        ],
+        "Yellow cards": [
+          "1",
+          "2"
+        ],
+        "Shots off target": [
+          "1",
+          "2"
+        ]
+      }
+    },
+    {
+      "id": "pCpa2qYQ",
+      "date": "2025-11-02T19:30:00.000Z",
+      "round": "Round 12",
+      "homeTeam": "Lumezzane",
+      "awayTeam": "Renate",
+      "homeScore": 0,
+      "awayScore": 0,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "50%",
+          "50%"
+        ],
+        "Total shots": [
+          "5",
+          "14"
+        ],
+        "Shots on target": [
+          "2",
+          "6"
+        ],
+        "Corner kicks": [
+          "3",
+          "6"
+        ],
+        "Yellow cards": [
+          "2",
+          "2"
+        ],
+        "Shots off target": [
+          "3",
+          "8"
+        ]
+      }
+    },
+    {
+      "id": "lQ0drOte",
+      "date": "2025-11-02T13:30:00.000Z",
+      "round": "Round 12",
+      "homeTeam": "Cittadella",
+      "awayTeam": "Pro Vercelli",
+      "homeScore": 2,
+      "awayScore": 1,
+      "htHome": 1,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "50%",
+          "50%"
+        ],
+        "Total shots": [
+          "11",
+          "10"
+        ],
+        "Shots on target": [
+          "8",
+          "5"
+        ],
+        "Corner kicks": [
+          "4",
+          "6"
+        ],
+        "Yellow cards": [
+          "1",
+          "3"
+        ],
+        "Shots off target": [
+          "3",
+          "5"
+        ]
+      }
+    },
+    {
+      "id": "dj44t2B7",
+      "date": "2025-11-02T13:30:00.000Z",
+      "round": "Round 12",
+      "homeTeam": "Vicenza",
+      "awayTeam": "Giana Erminio",
+      "homeScore": 2,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "53%",
+          "47%"
+        ],
+        "Total shots": [
+          "11",
+          "7"
+        ],
+        "Shots on target": [
+          "6",
+          "2"
+        ],
+        "Corner kicks": [
+          "5",
+          "3"
+        ],
+        "Yellow cards": [
+          "1",
+          "3"
+        ],
+        "Shots off target": [
+          "5",
+          "5"
+        ]
+      }
+    },
+    {
+      "id": "IJXogueD",
+      "date": "2025-11-02T11:30:00.000Z",
+      "round": "Round 12",
+      "homeTeam": "Triestina",
+      "awayTeam": "Union Brescia",
+      "homeScore": 0,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "55%",
+          "45%"
+        ],
+        "Total shots": [
+          "6",
+          "12"
+        ],
+        "Shots on target": [
+          "3",
+          "4"
+        ],
+        "Corner kicks": [
+          "2",
+          "5"
+        ],
+        "Yellow cards": [
+          "2",
+          "4"
+        ],
+        "Shots off target": [
+          "3",
+          "8"
+        ]
+      }
+    },
+    {
+      "id": "pQPXGrmK",
+      "date": "2025-11-01T16:30:00.000Z",
+      "round": "Round 12",
+      "homeTeam": "Virtus Verona",
+      "awayTeam": "Trento",
+      "homeScore": 0,
+      "awayScore": 3,
+      "htHome": 0,
+      "htAway": 2,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "44%",
+          "56%"
+        ],
+        "Total shots": [
+          "13",
+          "14"
+        ],
+        "Shots on target": [
+          "2",
+          "8"
+        ],
+        "Corner kicks": [
+          "1",
+          "5"
+        ],
+        "Yellow cards": [
+          "1",
+          "3"
+        ],
+        "Shots off target": [
+          "11",
+          "6"
+        ]
+      }
+    },
+    {
+      "id": "Mivwe1Q0",
+      "date": "2025-11-01T13:30:00.000Z",
+      "round": "Round 12",
+      "homeTeam": "US Pergolettese",
+      "awayTeam": "Novara",
+      "homeScore": 2,
+      "awayScore": 2,
+      "htHome": 0,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "54%",
+          "46%"
+        ],
+        "Total shots": [
+          "11",
+          "11"
+        ],
+        "Shots on target": [
+          "7",
+          "6"
+        ],
+        "Corner kicks": [
+          "6",
+          "2"
+        ],
+        "Yellow cards": [
+          "3",
+          "2"
+        ],
+        "Shots off target": [
+          "4",
+          "5"
+        ]
+      }
+    },
+    {
+      "id": "tIn9i72B",
+      "date": "2025-10-27T19:30:00.000Z",
+      "round": "Round 11",
+      "homeTeam": "AC Dolomiti Bellunesi",
+      "awayTeam": "Triestina",
+      "homeScore": 1,
+      "awayScore": 0,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "41%",
+          "59%"
+        ],
+        "Total shots": [
+          "8",
+          "8"
+        ],
+        "Shots on target": [
+          "3",
+          "2"
+        ],
+        "Corner kicks": [
+          "1",
+          "7"
+        ],
+        "Yellow cards": [
+          "1",
+          "0"
+        ],
+        "Shots off target": [
+          "5",
+          "6"
+        ]
+      }
+    },
+    {
+      "id": "bHympPfo",
+      "date": "2025-10-27T19:30:00.000Z",
+      "round": "Round 11",
+      "homeTeam": "Inter Milan U23",
+      "awayTeam": "Cittadella",
+      "homeScore": 0,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "64%",
+          "36%"
+        ],
+        "Total shots": [
+          "7",
+          "8"
+        ],
+        "Shots on target": [
+          "1",
+          "6"
+        ],
+        "Corner kicks": [
+          "7",
+          "1"
+        ],
+        "Yellow cards": [
+          "1",
+          "2"
+        ],
+        "Shots off target": [
+          "6",
+          "2"
+        ]
+      }
+    },
+    {
+      "id": "2XzIkoXN",
+      "date": "2025-10-26T16:30:00.000Z",
+      "round": "Round 11",
+      "homeTeam": "Giana Erminio",
+      "awayTeam": "Alcione Milano",
+      "homeScore": 1,
+      "awayScore": 1,
+      "htHome": 1,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "54%",
+          "46%"
+        ],
+        "Total shots": [
+          "12",
+          "9"
+        ],
+        "Shots on target": [
+          "5",
+          "5"
+        ],
+        "Corner kicks": [
+          "12",
+          "0"
+        ],
+        "Yellow cards": [
+          "2",
+          "2"
+        ],
+        "Shots off target": [
+          "7",
+          "4"
+        ]
+      }
+    },
+    {
+      "id": "l64ujFr4",
+      "date": "2025-10-26T16:30:00.000Z",
+      "round": "Round 11",
+      "homeTeam": "Pro Patria",
+      "awayTeam": "A.C. Ospitaletto",
+      "homeScore": 0,
+      "awayScore": 0,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "53%",
+          "47%"
+        ],
+        "Total shots": [
+          "7",
+          "9"
+        ],
+        "Shots on target": [
+          "1",
+          "3"
+        ],
+        "Corner kicks": [
+          "5",
+          "8"
+        ],
+        "Yellow cards": [
+          "1",
+          "0"
+        ],
+        "Shots off target": [
+          "6",
+          "6"
+        ]
+      }
+    },
+    {
+      "id": "pYcllgDG",
+      "date": "2025-10-26T13:30:00.000Z",
+      "round": "Round 11",
+      "homeTeam": "Pro Vercelli",
+      "awayTeam": "US Pergolettese",
+      "homeScore": 2,
+      "awayScore": 0,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "51%",
+          "49%"
+        ],
+        "Total shots": [
+          "6",
+          "9"
+        ],
+        "Shots on target": [
+          "3",
+          "0"
+        ],
+        "Corner kicks": [
+          "3",
+          "3"
+        ],
+        "Yellow cards": [
+          "1",
+          "2"
+        ],
+        "Shots off target": [
+          "3",
+          "9"
+        ]
+      }
+    },
+    {
+      "id": "AJDUTOR1",
+      "date": "2025-10-26T13:30:00.000Z",
+      "round": "Round 11",
+      "homeTeam": "Trento",
+      "awayTeam": "Vicenza",
+      "homeScore": 1,
+      "awayScore": 1,
+      "htHome": 1,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "73%",
+          "27%"
+        ],
+        "Total shots": [
+          "0",
+          "0"
+        ],
+        "Shots on target": [
+          "0",
+          "0"
+        ],
+        "Corner kicks": [
+          "0",
+          "1"
+        ],
+        "Shots off target": [
+          "0",
+          "0"
+        ]
+      }
+    },
+    {
+      "id": "Yiq1gTXb",
+      "date": "2025-10-25T15:30:00.000Z",
+      "round": "Round 11",
+      "homeTeam": "ASD Union Arzignanochiampo",
+      "awayTeam": "Lumezzane",
+      "homeScore": 3,
+      "awayScore": 3,
+      "htHome": 2,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "48%",
+          "52%"
+        ],
+        "Total shots": [
+          "6",
+          "6"
+        ],
+        "Shots on target": [
+          "6",
+          "6"
+        ],
+        "Corner kicks": [
+          "4",
+          "4"
+        ],
+        "Yellow cards": [
+          "2",
+          "1"
+        ],
+        "Shots off target": [
+          "0",
+          "0"
+        ]
+      }
+    },
+    {
+      "id": "l4PLVpck",
+      "date": "2025-10-25T15:30:00.000Z",
+      "round": "Round 11",
+      "homeTeam": "Renate",
+      "awayTeam": "Lecco",
+      "homeScore": 0,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "54%",
+          "46%"
+        ],
+        "Total shots": [
+          "17",
+          "8"
+        ],
+        "Shots on target": [
+          "5",
+          "4"
+        ],
+        "Corner kicks": [
+          "8",
+          "4"
+        ],
+        "Yellow cards": [
+          "2",
+          "3"
+        ],
+        "Shots off target": [
+          "12",
+          "4"
+        ]
+      }
+    },
+    {
+      "id": "xQ5GiSJ8",
+      "date": "2025-10-25T12:30:00.000Z",
+      "round": "Round 11",
+      "homeTeam": "Union Brescia",
+      "awayTeam": "Albinoleffe",
+      "homeScore": 2,
+      "awayScore": 1,
+      "htHome": 1,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "38%",
+          "62%"
+        ],
+        "Total shots": [
+          "7",
+          "6"
+        ],
+        "Shots on target": [
+          "4",
+          "5"
+        ],
+        "Corner kicks": [
+          "8",
+          "4"
+        ],
+        "Yellow cards": [
+          "1",
+          "1"
+        ],
+        "Shots off target": [
+          "3",
+          "1"
+        ]
+      }
+    },
+    {
+      "id": "Gh6XiyEi",
+      "date": "2025-10-24T18:30:00.000Z",
+      "round": "Round 11",
+      "homeTeam": "Novara",
+      "awayTeam": "Virtus Verona",
+      "homeScore": 1,
+      "awayScore": 1,
+      "htHome": 1,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "52%",
+          "48%"
+        ],
+        "Total shots": [
+          "16",
+          "9"
+        ],
+        "Shots on target": [
+          "10",
+          "3"
+        ],
+        "Corner kicks": [
+          "7",
+          "1"
+        ],
+        "Yellow cards": [
+          "2",
+          "4"
+        ],
+        "Shots off target": [
+          "6",
+          "6"
+        ]
+      }
+    },
+    {
+      "id": "6qlUZsy9",
+      "date": "2025-10-21T14:30:00.000Z",
+      "round": "Round 9",
+      "homeTeam": "Inter Milan U23",
+      "awayTeam": "Renate",
+      "homeScore": 1,
+      "awayScore": 1,
+      "htHome": 1,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "59%",
+          "41%"
+        ],
+        "Total shots": [
+          "10",
+          "6"
+        ],
+        "Shots on target": [
+          "4",
+          "4"
+        ],
+        "Corner kicks": [
+          "4",
+          "1"
+        ],
+        "Yellow cards": [
+          "1",
+          "1"
+        ],
+        "Shots off target": [
+          "6",
+          "2"
+        ]
+      }
+    },
+    {
+      "id": "Gfy0QU3C",
+      "date": "2025-10-19T18:30:00.000Z",
+      "round": "Round 10",
+      "homeTeam": "Lecco",
+      "awayTeam": "Union Brescia",
+      "homeScore": 0,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "49%",
+          "51%"
+        ],
+        "Total shots": [
+          "2",
+          "9"
+        ],
+        "Shots on target": [
+          "0",
+          "5"
+        ],
+        "Corner kicks": [
+          "1",
+          "1"
+        ],
+        "Yellow cards": [
+          "2",
+          "4"
+        ],
+        "Shots off target": [
+          "2",
+          "4"
+        ]
+      }
+    },
+    {
+      "id": "l8Z7O8YO",
+      "date": "2025-10-19T15:30:00.000Z",
+      "round": "Round 10",
+      "homeTeam": "Lumezzane",
+      "awayTeam": "Trento",
+      "homeScore": 1,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "49%",
+          "51%"
+        ],
+        "Total shots": [
+          "3",
+          "10"
+        ],
+        "Shots on target": [
+          "1",
+          "4"
+        ],
+        "Corner kicks": [
+          "11",
+          "10"
+        ],
+        "Yellow cards": [
+          "1",
+          "0"
+        ],
+        "Shots off target": [
+          "2",
+          "6"
+        ]
+      }
+    },
+    {
+      "id": "KlJRvUI5",
+      "date": "2025-10-19T15:30:00.000Z",
+      "round": "Round 10",
+      "homeTeam": "Pro Vercelli",
+      "awayTeam": "Giana Erminio",
+      "homeScore": 0,
+      "awayScore": 0,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "51%",
+          "49%"
+        ],
+        "Total shots": [
+          "8",
+          "7"
+        ],
+        "Shots on target": [
+          "5",
+          "3"
+        ],
+        "Corner kicks": [
+          "5",
+          "4"
+        ],
+        "Yellow cards": [
+          "2",
+          "1"
+        ],
+        "Shots off target": [
+          "3",
+          "4"
+        ]
+      }
+    },
+    {
+      "id": "xQkhek3n",
+      "date": "2025-10-19T15:30:00.000Z",
+      "round": "Round 10",
+      "homeTeam": "Virtus Verona",
+      "awayTeam": "Pro Patria",
+      "homeScore": 0,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "60%",
+          "40%"
+        ],
+        "Total shots": [
+          "12",
+          "6"
+        ],
+        "Shots on target": [
+          "3",
+          "1"
+        ],
+        "Corner kicks": [
+          "8",
+          "1"
+        ],
+        "Yellow cards": [
+          "2",
+          "3"
+        ],
+        "Shots off target": [
+          "9",
+          "5"
+        ]
+      }
+    },
+    {
+      "id": "KSsiSjZa",
+      "date": "2025-10-19T12:30:00.000Z",
+      "round": "Round 10",
+      "homeTeam": "Vicenza",
+      "awayTeam": "Albinoleffe",
+      "homeScore": 3,
+      "awayScore": 1,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "50%",
+          "50%"
+        ],
+        "Total shots": [
+          "9",
+          "5"
+        ],
+        "Shots on target": [
+          "8",
+          "3"
+        ],
+        "Corner kicks": [
+          "5",
+          "5"
+        ],
+        "Yellow cards": [
+          "4",
+          "2"
+        ],
+        "Shots off target": [
+          "1",
+          "2"
+        ]
+      }
+    },
+    {
+      "id": "bZUItjlg",
+      "date": "2025-10-18T15:30:00.000Z",
+      "round": "Round 10",
+      "homeTeam": "A.C. Ospitaletto",
+      "awayTeam": "Cittadella",
+      "homeScore": 1,
+      "awayScore": 2,
+      "htHome": 0,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "61%",
+          "39%"
+        ],
+        "Total shots": [
+          "10",
+          "5"
+        ],
+        "Shots on target": [
+          "7",
+          "4"
+        ],
+        "Corner kicks": [
+          "7",
+          "1"
+        ],
+        "Yellow cards": [
+          "1",
+          "0"
+        ],
+        "Shots off target": [
+          "3",
+          "1"
+        ]
+      }
+    },
+    {
+      "id": "SEMZx8mI",
+      "date": "2025-10-18T12:30:00.000Z",
+      "round": "Round 10",
+      "homeTeam": "Renate",
+      "awayTeam": "AC Dolomiti Bellunesi",
+      "homeScore": 2,
+      "awayScore": 0,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "43%",
+          "57%"
+        ],
+        "Total shots": [
+          "11",
+          "8"
+        ],
+        "Shots on target": [
+          "3",
+          "0"
+        ],
+        "Corner kicks": [
+          "4",
+          "3"
+        ],
+        "Yellow cards": [
+          "2",
+          "0"
+        ],
+        "Red cards": [
+          "0",
+          "1"
+        ],
+        "Shots off target": [
+          "8",
+          "8"
+        ]
+      }
+    },
+    {
+      "id": "MDFrynIU",
+      "date": "2025-10-18T12:30:00.000Z",
+      "round": "Round 10",
+      "homeTeam": "Triestina",
+      "awayTeam": "US Pergolettese",
+      "homeScore": 1,
+      "awayScore": 1,
+      "htHome": 1,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "56%",
+          "44%"
+        ],
+        "Total shots": [
+          "5",
+          "9"
+        ],
+        "Shots on target": [
+          "3",
+          "5"
+        ],
+        "Corner kicks": [
+          "4",
+          "3"
+        ],
+        "Yellow cards": [
+          "1",
+          "4"
+        ],
+        "Red cards": [
+          "1",
+          "1"
+        ],
+        "Shots off target": [
+          "2",
+          "4"
+        ]
+      }
+    },
+    {
+      "id": "C2vqUC4m",
+      "date": "2025-10-17T18:30:00.000Z",
+      "round": "Round 10",
+      "homeTeam": "Alcione Milano",
+      "awayTeam": "Inter Milan U23",
+      "homeScore": 1,
+      "awayScore": 2,
+      "htHome": 0,
+      "htAway": 2,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "53%",
+          "47%"
+        ],
+        "Total shots": [
+          "6",
+          "9"
+        ],
+        "Shots on target": [
+          "2",
+          "6"
+        ],
+        "Corner kicks": [
+          "3",
+          "5"
+        ],
+        "Yellow cards": [
+          "1",
+          "2"
+        ],
+        "Shots off target": [
+          "4",
+          "3"
+        ]
+      }
+    },
+    {
+      "id": "j9RArCJt",
+      "date": "2025-10-17T18:30:00.000Z",
+      "round": "Round 10",
+      "homeTeam": "Novara",
+      "awayTeam": "ASD Union Arzignanochiampo",
+      "homeScore": 1,
+      "awayScore": 0,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "55%",
+          "45%"
+        ],
+        "Total shots": [
+          "5",
+          "8"
+        ],
+        "Shots on target": [
+          "3",
+          "2"
+        ],
+        "Corner kicks": [
+          "4",
+          "7"
+        ],
+        "Yellow cards": [
+          "2",
+          "4"
+        ],
+        "Shots off target": [
+          "2",
+          "6"
+        ]
+      }
+    },
+    {
+      "id": "IN7ZD0Ek",
+      "date": "2025-10-13T18:30:00.000Z",
+      "round": "Round 9",
+      "homeTeam": "AC Dolomiti Bellunesi",
+      "awayTeam": "Lumezzane",
+      "homeScore": 2,
+      "awayScore": 0,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "49%",
+          "51%"
+        ],
+        "Total shots": [
+          "6",
+          "8"
+        ],
+        "Shots on target": [
+          "5",
+          "1"
+        ],
+        "Corner kicks": [
+          "2",
+          "8"
+        ],
+        "Yellow cards": [
+          "3",
+          "1"
+        ],
+        "Shots off target": [
+          "1",
+          "7"
+        ]
+      }
+    },
+    {
+      "id": "SU2CZYtQ",
+      "date": "2025-10-13T18:30:00.000Z",
+      "round": "Round 9",
+      "homeTeam": "Trento",
+      "awayTeam": "Pro Vercelli",
+      "homeScore": 1,
+      "awayScore": 0,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "50%",
+          "50%"
+        ],
+        "Total shots": [
+          "10",
+          "9"
+        ],
+        "Shots on target": [
+          "5",
+          "6"
+        ],
+        "Corner kicks": [
+          "2",
+          "3"
+        ],
+        "Yellow cards": [
+          "2",
+          "2"
+        ],
+        "Shots off target": [
+          "5",
+          "3"
+        ]
+      }
+    },
+    {
+      "id": "GtdRBVlJ",
+      "date": "2025-10-12T18:30:00.000Z",
+      "round": "Round 9",
+      "homeTeam": "Pro Patria",
+      "awayTeam": "Union Brescia",
+      "homeScore": 0,
+      "awayScore": 2,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "44%",
+          "56%"
+        ],
+        "Total shots": [
+          "0",
+          "15"
+        ],
+        "Shots on target": [
+          "0",
+          "9"
+        ],
+        "Corner kicks": [
+          "2",
+          "8"
+        ],
+        "Yellow cards": [
+          "1",
+          "1"
+        ],
+        "Shots off target": [
+          "0",
+          "6"
+        ]
+      }
+    },
+    {
+      "id": "QPSfLrMF",
+      "date": "2025-10-12T15:30:00.000Z",
+      "round": "Round 9",
+      "homeTeam": "Albinoleffe",
+      "awayTeam": "Lecco",
+      "homeScore": 0,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "50%",
+          "50%"
+        ],
+        "Total shots": [
+          "7",
+          "5"
+        ],
+        "Shots on target": [
+          "5",
+          "1"
+        ],
+        "Corner kicks": [
+          "7",
+          "4"
+        ],
+        "Yellow cards": [
+          "2",
+          "1"
+        ],
+        "Shots off target": [
+          "2",
+          "4"
+        ]
+      }
+    },
+    {
+      "id": "n14AFDkf",
+      "date": "2025-10-12T15:30:00.000Z",
+      "round": "Round 9",
+      "homeTeam": "A.C. Ospitaletto",
+      "awayTeam": "ASD Union Arzignanochiampo",
+      "homeScore": 2,
+      "awayScore": 1,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "42%",
+          "58%"
+        ],
+        "Total shots": [
+          "9",
+          "9"
+        ],
+        "Shots on target": [
+          "4",
+          "8"
+        ],
+        "Corner kicks": [
+          "1",
+          "9"
+        ],
+        "Yellow cards": [
+          "1",
+          "2"
+        ],
+        "Shots off target": [
+          "5",
+          "1"
+        ]
+      }
+    },
+    {
+      "id": "bwR2JMjS",
+      "date": "2025-10-12T12:30:00.000Z",
+      "round": "Round 9",
+      "homeTeam": "Cittadella",
+      "awayTeam": "Triestina",
+      "homeScore": 1,
+      "awayScore": 0,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "48%",
+          "52%"
+        ],
+        "Total shots": [
+          "8",
+          "5"
+        ],
+        "Shots on target": [
+          "4",
+          "1"
+        ],
+        "Corner kicks": [
+          "4",
+          "2"
+        ],
+        "Yellow cards": [
+          "1",
+          "2"
+        ],
+        "Shots off target": [
+          "4",
+          "4"
+        ]
+      }
+    },
+    {
+      "id": "jZA1HZKs",
+      "date": "2025-10-11T15:30:00.000Z",
+      "round": "Round 9",
+      "homeTeam": "Vicenza",
+      "awayTeam": "Virtus Verona",
+      "homeScore": 2,
+      "awayScore": 1,
+      "htHome": 1,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "53%",
+          "47%"
+        ],
+        "Total shots": [
+          "18",
+          "7"
+        ],
+        "Shots on target": [
+          "9",
+          "3"
+        ],
+        "Corner kicks": [
+          "9",
+          "5"
+        ],
+        "Yellow cards": [
+          "2",
+          "5"
+        ],
+        "Red cards": [
+          "1",
+          "1"
+        ],
+        "Shots off target": [
+          "9",
+          "4"
+        ]
+      }
+    },
+    {
+      "id": "KE2IDiK6",
+      "date": "2025-10-11T15:30:00.000Z",
+      "round": "Round 9",
+      "homeTeam": "US Pergolettese",
+      "awayTeam": "Alcione Milano",
+      "homeScore": 0,
+      "awayScore": 2,
+      "htHome": 0,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "45%",
+          "55%"
+        ],
+        "Total shots": [
+          "9",
+          "8"
+        ],
+        "Shots on target": [
+          "1",
+          "3"
+        ],
+        "Corner kicks": [
+          "4",
+          "6"
+        ],
+        "Yellow cards": [
+          "2",
+          "3"
+        ],
+        "Red cards": [
+          "1",
+          "0"
+        ],
+        "Shots off target": [
+          "8",
+          "5"
+        ]
+      }
+    },
+    {
+      "id": "QmBsCvq2",
+      "date": "2025-10-11T12:30:00.000Z",
+      "round": "Round 9",
+      "homeTeam": "Giana Erminio",
+      "awayTeam": "Novara",
+      "homeScore": 0,
+      "awayScore": 0,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "49%",
+          "51%"
+        ],
+        "Total shots": [
+          "7",
+          "7"
+        ],
+        "Shots on target": [
+          "3",
+          "3"
+        ],
+        "Corner kicks": [
+          "4",
+          "3"
+        ],
+        "Yellow cards": [
+          "1",
+          "2"
+        ],
+        "Shots off target": [
+          "4",
+          "4"
+        ]
+      }
+    },
+    {
+      "id": "Kh9wdSh4",
+      "date": "2025-10-05T18:30:00.000Z",
+      "round": "Round 8",
+      "homeTeam": "ASD Union Arzignanochiampo",
+      "awayTeam": "Albinoleffe",
+      "homeScore": 0,
+      "awayScore": 0,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "47%",
+          "53%"
+        ],
+        "Total shots": [
+          "5",
+          "9"
+        ],
+        "Shots on target": [
+          "2",
+          "5"
+        ],
+        "Corner kicks": [
+          "5",
+          "4"
+        ],
+        "Yellow cards": [
+          "1",
+          "0"
+        ],
+        "Shots off target": [
+          "3",
+          "4"
+        ]
+      }
+    },
+    {
+      "id": "ImiQnOFj",
+      "date": "2025-10-05T18:30:00.000Z",
+      "round": "Round 8",
+      "homeTeam": "Inter Milan U23",
+      "awayTeam": "A.C. Ospitaletto",
+      "homeScore": 2,
+      "awayScore": 2,
+      "htHome": 1,
+      "htAway": 2,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "46%",
+          "54%"
+        ],
+        "Total shots": [
+          "11",
+          "5"
+        ],
+        "Shots on target": [
+          "6",
+          "3"
+        ],
+        "Corner kicks": [
+          "6",
+          "0"
+        ],
+        "Yellow cards": [
+          "3",
+          "2"
+        ],
+        "Red cards": [
+          "0",
+          "1"
+        ],
+        "Shots off target": [
+          "5",
+          "2"
+        ]
+      }
+    },
+    {
+      "id": "OQFUclOi",
+      "date": "2025-10-05T15:30:00.000Z",
+      "round": "Round 8",
+      "homeTeam": "Alcione Milano",
+      "awayTeam": "Vicenza",
+      "homeScore": 0,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "53%",
+          "47%"
+        ],
+        "Total shots": [
+          "9",
+          "5"
+        ],
+        "Shots on target": [
+          "2",
+          "3"
+        ],
+        "Corner kicks": [
+          "1",
+          "10"
+        ],
+        "Yellow cards": [
+          "2",
+          "2"
+        ],
+        "Shots off target": [
+          "7",
+          "2"
+        ]
+      }
+    },
+    {
+      "id": "69XK85xA",
+      "date": "2025-10-05T12:30:00.000Z",
+      "round": "Round 8",
+      "homeTeam": "Pro Patria",
+      "awayTeam": "Trento",
+      "homeScore": 2,
+      "awayScore": 2,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "41%",
+          "59%"
+        ],
+        "Total shots": [
+          "3",
+          "1"
+        ],
+        "Shots on target": [
+          "2",
+          "0"
+        ],
+        "Corner kicks": [
+          "1",
+          "1"
+        ],
+        "Yellow cards": [
+          "4",
+          "2"
+        ],
+        "Shots off target": [
+          "1",
+          "1"
+        ]
+      }
+    },
+    {
+      "id": "CM2L6q7M",
+      "date": "2025-10-05T12:30:00.000Z",
+      "round": "Round 8",
+      "homeTeam": "Pro Vercelli",
+      "awayTeam": "AC Dolomiti Bellunesi",
+      "homeScore": 4,
+      "awayScore": 0,
+      "htHome": 2,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "51%",
+          "49%"
+        ],
+        "Total shots": [
+          "14",
+          "2"
+        ],
+        "Shots on target": [
+          "9",
+          "1"
+        ],
+        "Corner kicks": [
+          "4",
+          "2"
+        ],
+        "Yellow cards": [
+          "1",
+          "2"
+        ],
+        "Red cards": [
+          "0",
+          "1"
+        ],
+        "Shots off target": [
+          "5",
+          "1"
+        ]
+      }
+    },
+    {
+      "id": "YeZCAR7c",
+      "date": "2025-10-05T10:30:00.000Z",
+      "round": "Round 8",
+      "homeTeam": "Novara",
+      "awayTeam": "Triestina",
+      "homeScore": 0,
+      "awayScore": 0,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "52%",
+          "48%"
+        ],
+        "Total shots": [
+          "9",
+          "5"
+        ],
+        "Shots on target": [
+          "6",
+          "3"
+        ],
+        "Corner kicks": [
+          "6",
+          "6"
+        ],
+        "Yellow cards": [
+          "2",
+          "3"
+        ],
+        "Shots off target": [
+          "3",
+          "2"
+        ]
+      }
+    },
+    {
+      "id": "r5gi1NUq",
+      "date": "2025-10-04T15:30:00.000Z",
+      "round": "Round 8",
+      "homeTeam": "Renate",
+      "awayTeam": "Cittadella",
+      "homeScore": 0,
+      "awayScore": 0,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "51%",
+          "49%"
+        ],
+        "Total shots": [
+          "4",
+          "6"
+        ],
+        "Shots on target": [
+          "2",
+          "3"
+        ],
+        "Corner kicks": [
+          "2",
+          "4"
+        ],
+        "Yellow cards": [
+          "4",
+          "0"
+        ],
+        "Shots off target": [
+          "2",
+          "3"
+        ]
+      }
+    },
+    {
+      "id": "WQZoN4i3",
+      "date": "2025-10-04T15:30:00.000Z",
+      "round": "Round 8",
+      "homeTeam": "Virtus Verona",
+      "awayTeam": "Lecco",
+      "homeScore": 2,
+      "awayScore": 2,
+      "htHome": 0,
+      "htAway": 2,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "58%",
+          "42%"
+        ],
+        "Total shots": [
+          "17",
+          "8"
+        ],
+        "Shots on target": [
+          "10",
+          "8"
+        ],
+        "Corner kicks": [
+          "7",
+          "0"
+        ],
+        "Yellow cards": [
+          "1",
+          "1"
+        ],
+        "Shots off target": [
+          "7",
+          "0"
+        ]
+      }
+    },
+    {
+      "id": "4Ks0a1ad",
+      "date": "2025-10-04T12:30:00.000Z",
+      "round": "Round 8",
+      "homeTeam": "Union Brescia",
+      "awayTeam": "US Pergolettese",
+      "homeScore": 0,
+      "awayScore": 0,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "48%",
+          "52%"
+        ],
+        "Total shots": [
+          "10",
+          "7"
+        ],
+        "Shots on target": [
+          "3",
+          "3"
+        ],
+        "Corner kicks": [
+          "6",
+          "2"
+        ],
+        "Yellow cards": [
+          "3",
+          "2"
+        ],
+        "Shots off target": [
+          "7",
+          "4"
+        ]
+      }
+    },
+    {
+      "id": "QkCof6NG",
+      "date": "2025-10-04T12:30:00.000Z",
+      "round": "Round 8",
+      "homeTeam": "Giana Erminio",
+      "awayTeam": "Lumezzane",
+      "homeScore": 2,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "49%",
+          "51%"
+        ],
+        "Total shots": [
+          "7",
+          "1"
+        ],
+        "Shots on target": [
+          "5",
+          "1"
+        ],
+        "Corner kicks": [
+          "1",
+          "1"
+        ],
+        "Yellow cards": [
+          "3",
+          "2"
+        ],
+        "Shots off target": [
+          "2",
+          "0"
+        ]
+      }
+    },
+    {
+      "id": "MLuDqb3s",
+      "date": "2025-09-29T18:30:00.000Z",
+      "round": "Round 7",
+      "homeTeam": "Cittadella",
+      "awayTeam": "Pro Patria",
+      "homeScore": 0,
+      "awayScore": 0,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "42%",
+          "58%"
+        ],
+        "Total shots": [
+          "14",
+          "2"
+        ],
+        "Shots on target": [
+          "6",
+          "2"
+        ],
+        "Corner kicks": [
+          "7",
+          "3"
+        ],
+        "Yellow cards": [
+          "3",
+          "1"
+        ],
+        "Shots off target": [
+          "8",
+          "0"
+        ]
+      }
+    },
+    {
+      "id": "UoqLsxYg",
+      "date": "2025-09-29T18:30:00.000Z",
+      "round": "Round 7",
+      "homeTeam": "Vicenza",
+      "awayTeam": "Pro Vercelli",
+      "homeScore": 2,
+      "awayScore": 0,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "39%",
+          "61%"
+        ],
+        "Total shots": [
+          "13",
+          "2"
+        ],
+        "Shots on target": [
+          "5",
+          "0"
+        ],
+        "Corner kicks": [
+          "8",
+          "4"
+        ],
+        "Yellow cards": [
+          "2",
+          "2"
+        ],
+        "Shots off target": [
+          "8",
+          "2"
+        ]
+      }
+    },
+    {
+      "id": "djdmoBvn",
+      "date": "2025-09-29T18:30:00.000Z",
+      "round": "Round 7",
+      "homeTeam": "A.C. Ospitaletto",
+      "awayTeam": "Alcione Milano",
+      "homeScore": 0,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "51%",
+          "49%"
+        ],
+        "Total shots": [
+          "10",
+          "6"
+        ],
+        "Shots on target": [
+          "5",
+          "4"
+        ],
+        "Corner kicks": [
+          "10",
+          "5"
+        ],
+        "Yellow cards": [
+          "3",
+          "2"
+        ],
+        "Shots off target": [
+          "5",
+          "2"
+        ]
+      }
+    },
+    {
+      "id": "AeiTuG26",
+      "date": "2025-09-28T18:30:00.000Z",
+      "round": "Round 7",
+      "homeTeam": "Lecco",
+      "awayTeam": "Giana Erminio",
+      "homeScore": 0,
+      "awayScore": 0,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "54%",
+          "46%"
+        ],
+        "Total shots": [
+          "5",
+          "2"
+        ],
+        "Shots on target": [
+          "1",
+          "0"
+        ],
+        "Corner kicks": [
+          "8",
+          "5"
+        ],
+        "Yellow cards": [
+          "3",
+          "3"
+        ],
+        "Red cards": [
+          "0",
+          "1"
+        ],
+        "Shots off target": [
+          "4",
+          "2"
+        ]
+      }
+    },
+    {
+      "id": "r9kyvfXI",
+      "date": "2025-09-28T18:30:00.000Z",
+      "round": "Round 7",
+      "homeTeam": "Lumezzane",
+      "awayTeam": "Inter Milan U23",
+      "homeScore": 1,
+      "awayScore": 2,
+      "htHome": 0,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "58%",
+          "42%"
+        ],
+        "Total shots": [
+          "8",
+          "8"
+        ],
+        "Shots on target": [
+          "4",
+          "7"
+        ],
+        "Corner kicks": [
+          "3",
+          "1"
+        ],
+        "Yellow cards": [
+          "5",
+          "2"
+        ],
+        "Red cards": [
+          "1",
+          "0"
+        ],
+        "Shots off target": [
+          "4",
+          "1"
+        ]
+      }
+    },
+    {
+      "id": "4Gaeqk9b",
+      "date": "2025-09-28T15:30:00.000Z",
+      "round": "Round 7",
+      "homeTeam": "US Pergolettese",
+      "awayTeam": "AC Dolomiti Bellunesi",
+      "homeScore": 1,
+      "awayScore": 2,
+      "htHome": 1,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "55%",
+          "45%"
+        ],
+        "Total shots": [
+          "8",
+          "10"
+        ],
+        "Shots on target": [
+          "3",
+          "8"
+        ],
+        "Corner kicks": [
+          "8",
+          "5"
+        ],
+        "Yellow cards": [
+          "1",
+          "2"
+        ],
+        "Shots off target": [
+          "5",
+          "2"
+        ]
+      }
+    },
+    {
+      "id": "xl4tkKuK",
+      "date": "2025-09-28T13:00:00.000Z",
+      "round": "Round 7",
+      "homeTeam": "Albinoleffe",
+      "awayTeam": "Novara",
+      "homeScore": 3,
+      "awayScore": 2,
+      "htHome": 1,
+      "htAway": 2,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "46%",
+          "54%"
+        ],
+        "Total shots": [
+          "9",
+          "4"
+        ],
+        "Shots on target": [
+          "5",
+          "4"
+        ],
+        "Corner kicks": [
+          "8",
+          "3"
+        ],
+        "Yellow cards": [
+          "2",
+          "2"
+        ],
+        "Red cards": [
+          "0",
+          "1"
+        ],
+        "Shots off target": [
+          "4",
+          "0"
+        ]
+      }
+    },
+    {
+      "id": "CnnCu78N",
+      "date": "2025-09-28T13:00:00.000Z",
+      "round": "Round 7",
+      "homeTeam": "Triestina",
+      "awayTeam": "Renate",
+      "homeScore": 3,
+      "awayScore": 0,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "42%",
+          "58%"
+        ],
+        "Total shots": [
+          "8",
+          "5"
+        ],
+        "Shots on target": [
+          "5",
+          "1"
+        ],
+        "Corner kicks": [
+          "4",
+          "3"
+        ],
+        "Yellow cards": [
+          "0",
+          "1"
+        ],
+        "Shots off target": [
+          "3",
+          "4"
+        ]
+      }
+    },
+    {
+      "id": "WWSrzoWp",
+      "date": "2025-09-28T13:00:00.000Z",
+      "round": "Round 7",
+      "homeTeam": "Virtus Verona",
+      "awayTeam": "Union Brescia",
+      "homeScore": 1,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "54%",
+          "46%"
+        ],
+        "Total shots": [
+          "5",
+          "8"
+        ],
+        "Shots on target": [
+          "3",
+          "2"
+        ],
+        "Corner kicks": [
+          "6",
+          "1"
+        ],
+        "Yellow cards": [
+          "2",
+          "3"
+        ],
+        "Shots off target": [
+          "2",
+          "6"
+        ]
+      }
+    },
+    {
+      "id": "QVm4sTwB",
+      "date": "2025-09-28T10:30:00.000Z",
+      "round": "Round 7",
+      "homeTeam": "Trento",
+      "awayTeam": "ASD Union Arzignanochiampo",
+      "homeScore": 2,
+      "awayScore": 2,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "54%",
+          "46%"
+        ],
+        "Total shots": [
+          "12",
+          "9"
+        ],
+        "Shots on target": [
+          "5",
+          "5"
+        ],
+        "Corner kicks": [
+          "5",
+          "8"
+        ],
+        "Yellow cards": [
+          "1",
+          "2"
+        ],
+        "Red cards": [
+          "1",
+          "0"
+        ],
+        "Shots off target": [
+          "7",
+          "4"
+        ]
+      }
+    },
+    {
+      "id": "AsCfRGmD",
+      "date": "2025-09-25T18:45:00.000Z",
+      "round": "Round 6",
+      "homeTeam": "Union Brescia",
+      "awayTeam": "Novara",
+      "homeScore": 1,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "34%",
+          "66%"
+        ],
+        "Total shots": [
+          "14",
+          "0"
+        ],
+        "Shots on target": [
+          "8",
+          "0"
+        ],
+        "Corner kicks": [
+          "17",
+          "0"
+        ],
+        "Yellow cards": [
+          "1",
+          "5"
+        ],
+        "Red cards": [
+          "0",
+          "1"
+        ],
+        "Shots off target": [
+          "6",
+          "0"
+        ]
+      }
+    },
+    {
+      "id": "6Ti5YCwq",
+      "date": "2025-09-25T18:45:00.000Z",
+      "round": "Round 6",
+      "homeTeam": "AC Dolomiti Bellunesi",
+      "awayTeam": "Vicenza",
+      "homeScore": 1,
+      "awayScore": 2,
+      "htHome": 1,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "50%",
+          "50%"
+        ],
+        "Total shots": [
+          "8",
+          "8"
+        ],
+        "Shots on target": [
+          "3",
+          "6"
+        ],
+        "Corner kicks": [
+          "6",
+          "4"
+        ],
+        "Yellow cards": [
+          "1",
+          "2"
+        ],
+        "Shots off target": [
+          "5",
+          "2"
+        ]
+      }
+    },
+    {
+      "id": "8hlMUUx8",
+      "date": "2025-09-25T18:45:00.000Z",
+      "round": "Round 6",
+      "homeTeam": "Inter Milan U23",
+      "awayTeam": "Triestina",
+      "homeScore": 2,
+      "awayScore": 0,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "41%",
+          "59%"
+        ],
+        "Total shots": [
+          "11",
+          "10"
+        ],
+        "Shots on target": [
+          "5",
+          "4"
+        ],
+        "Corner kicks": [
+          "3",
+          "3"
+        ],
+        "Yellow cards": [
+          "1",
+          "1"
+        ],
+        "Shots off target": [
+          "6",
+          "6"
+        ]
+      }
+    },
+    {
+      "id": "bsHEzLQQ",
+      "date": "2025-09-25T18:45:00.000Z",
+      "round": "Round 6",
+      "homeTeam": "Pro Vercelli",
+      "awayTeam": "Lecco",
+      "homeScore": 0,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "45%",
+          "55%"
+        ],
+        "Total shots": [
+          "17",
+          "5"
+        ],
+        "Shots on target": [
+          "7",
+          "2"
+        ],
+        "Corner kicks": [
+          "10",
+          "5"
+        ],
+        "Yellow cards": [
+          "2",
+          "4"
+        ],
+        "Shots off target": [
+          "10",
+          "3"
+        ]
+      }
+    },
+    {
+      "id": "EVCQueo9",
+      "date": "2025-09-25T16:30:00.000Z",
+      "round": "Round 6",
+      "homeTeam": "ASD Union Arzignanochiampo",
+      "awayTeam": "Alcione Milano",
+      "homeScore": 1,
+      "awayScore": 3,
+      "htHome": 0,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "53%",
+          "47%"
+        ],
+        "Total shots": [
+          "8",
+          "7"
+        ],
+        "Shots on target": [
+          "3",
+          "5"
+        ],
+        "Corner kicks": [
+          "3",
+          "5"
+        ],
+        "Yellow cards": [
+          "6",
+          "3"
+        ],
+        "Shots off target": [
+          "5",
+          "2"
+        ]
+      }
+    },
+    {
+      "id": "Ac6ZwZFL",
+      "date": "2025-09-25T16:30:00.000Z",
+      "round": "Round 6",
+      "homeTeam": "Cittadella",
+      "awayTeam": "Lumezzane",
+      "homeScore": 0,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "45%",
+          "55%"
+        ],
+        "Total shots": [
+          "9",
+          "11"
+        ],
+        "Shots on target": [
+          "3",
+          "7"
+        ],
+        "Corner kicks": [
+          "8",
+          "5"
+        ],
+        "Yellow cards": [
+          "3",
+          "3"
+        ],
+        "Shots off target": [
+          "6",
+          "4"
+        ]
+      }
+    },
+    {
+      "id": "2eoEWj8e",
+      "date": "2025-09-25T16:30:00.000Z",
+      "round": "Round 6",
+      "homeTeam": "Giana Erminio",
+      "awayTeam": "Virtus Verona",
+      "homeScore": 1,
+      "awayScore": 3,
+      "htHome": 1,
+      "htAway": 2,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "50%",
+          "50%"
+        ],
+        "Total shots": [
+          "10",
+          "7"
+        ],
+        "Shots on target": [
+          "5",
+          "3"
+        ],
+        "Corner kicks": [
+          "3",
+          "2"
+        ],
+        "Yellow cards": [
+          "2",
+          "5"
+        ],
+        "Shots off target": [
+          "5",
+          "4"
+        ]
+      }
+    },
+    {
+      "id": "jHD6xsdE",
+      "date": "2025-09-25T16:30:00.000Z",
+      "round": "Round 6",
+      "homeTeam": "Pro Patria",
+      "awayTeam": "Albinoleffe",
+      "homeScore": 0,
+      "awayScore": 3,
+      "htHome": 0,
+      "htAway": 3,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "51%",
+          "49%"
+        ],
+        "Total shots": [
+          "20",
+          "7"
+        ],
+        "Shots on target": [
+          "5",
+          "6"
+        ],
+        "Corner kicks": [
+          "4",
+          "3"
+        ],
+        "Yellow cards": [
+          "3",
+          "2"
+        ],
+        "Shots off target": [
+          "15",
+          "1"
+        ]
+      }
+    },
+    {
+      "id": "IRcoVbll",
+      "date": "2025-09-25T16:30:00.000Z",
+      "round": "Round 6",
+      "homeTeam": "Renate",
+      "awayTeam": "A.C. Ospitaletto",
+      "homeScore": 1,
+      "awayScore": 2,
+      "htHome": 1,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "44%",
+          "56%"
+        ],
+        "Total shots": [
+          "7",
+          "8"
+        ],
+        "Shots on target": [
+          "4",
+          "2"
+        ],
+        "Corner kicks": [
+          "6",
+          "3"
+        ],
+        "Yellow cards": [
+          "3",
+          "3"
+        ],
+        "Shots off target": [
+          "3",
+          "6"
+        ]
+      }
+    },
+    {
+      "id": "judgTxJ0",
+      "date": "2025-09-25T16:30:00.000Z",
+      "round": "Round 6",
+      "homeTeam": "Trento",
+      "awayTeam": "US Pergolettese",
+      "homeScore": 0,
+      "awayScore": 0,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "41%",
+          "59%"
+        ],
+        "Total shots": [
+          "10",
+          "5"
+        ],
+        "Shots on target": [
+          "3",
+          "3"
+        ],
+        "Corner kicks": [
+          "5",
+          "3"
+        ],
+        "Yellow cards": [
+          "2",
+          "0"
+        ],
+        "Shots off target": [
+          "7",
+          "2"
+        ]
+      }
+    },
+    {
+      "id": "hOM7TQen",
+      "date": "2025-09-21T18:30:00.000Z",
+      "round": "Round 5",
+      "homeTeam": "Albinoleffe",
+      "awayTeam": "Cittadella",
+      "homeScore": 2,
+      "awayScore": 1,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "51%",
+          "49%"
+        ],
+        "Total shots": [
+          "2",
+          "11"
+        ],
+        "Shots on target": [
+          "1",
+          "3"
+        ],
+        "Corner kicks": [
+          "3",
+          "11"
+        ],
+        "Yellow cards": [
+          "2",
+          "2"
+        ],
+        "Shots off target": [
+          "1",
+          "8"
+        ]
+      }
+    },
+    {
+      "id": "08MWJDOk",
+      "date": "2025-09-21T18:30:00.000Z",
+      "round": "Round 5",
+      "homeTeam": "Union Brescia",
+      "awayTeam": "Giana Erminio",
+      "homeScore": 2,
+      "awayScore": 0,
+      "htHome": 2,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "52%",
+          "48%"
+        ],
+        "Total shots": [
+          "6",
+          "5"
+        ],
+        "Shots on target": [
+          "3",
+          "4"
+        ],
+        "Corner kicks": [
+          "1",
+          "5"
+        ],
+        "Yellow cards": [
+          "1",
+          "3"
+        ],
+        "Shots off target": [
+          "3",
+          "1"
+        ]
+      }
+    },
+    {
+      "id": "n5dc5E9d",
+      "date": "2025-09-21T15:30:00.000Z",
+      "round": "Round 5",
+      "homeTeam": "Lumezzane",
+      "awayTeam": "A.C. Ospitaletto",
+      "homeScore": 2,
+      "awayScore": 0,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "47%",
+          "53%"
+        ],
+        "Total shots": [
+          "0",
+          "0"
+        ],
+        "Shots on target": [
+          "0",
+          "0"
+        ],
+        "Corner kicks": [
+          "4",
+          "3"
+        ],
+        "Yellow cards": [
+          "4",
+          "2"
+        ],
+        "Red cards": [
+          "0",
+          "1"
+        ],
+        "Shots off target": [
+          "0",
+          "0"
+        ]
+      }
+    },
+    {
+      "id": "UPV0PZ0S",
+      "date": "2025-09-21T15:30:00.000Z",
+      "round": "Round 5",
+      "homeTeam": "Triestina",
+      "awayTeam": "ASD Union Arzignanochiampo",
+      "homeScore": 2,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "59%",
+          "41%"
+        ],
+        "Total shots": [
+          "7",
+          "6"
+        ],
+        "Shots on target": [
+          "4",
+          "4"
+        ],
+        "Corner kicks": [
+          "5",
+          "6"
+        ],
+        "Yellow cards": [
+          "2",
+          "1"
+        ],
+        "Shots off target": [
+          "3",
+          "2"
+        ]
+      }
+    },
+    {
+      "id": "MNAuIig2",
+      "date": "2025-09-21T15:30:00.000Z",
+      "round": "Round 5",
+      "homeTeam": "Virtus Verona",
+      "awayTeam": "AC Dolomiti Bellunesi",
+      "homeScore": 1,
+      "awayScore": 1,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "52%",
+          "48%"
+        ],
+        "Total shots": [
+          "0",
+          "0"
+        ],
+        "Shots on target": [
+          "0",
+          "0"
+        ],
+        "Corner kicks": [
+          "2",
+          "7"
+        ],
+        "Yellow cards": [
+          "3",
+          "3"
+        ],
+        "Shots off target": [
+          "0",
+          "0"
+        ]
+      }
+    },
+    {
+      "id": "vugk7zup",
+      "date": "2025-09-21T13:00:00.000Z",
+      "round": "Round 5",
+      "homeTeam": "Lecco",
+      "awayTeam": "Trento",
+      "homeScore": 3,
+      "awayScore": 1,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "45%",
+          "55%"
+        ],
+        "Total shots": [
+          "12",
+          "6"
+        ],
+        "Shots on target": [
+          "5",
+          "2"
+        ],
+        "Corner kicks": [
+          "4",
+          "4"
+        ],
+        "Yellow cards": [
+          "1",
+          "3"
+        ],
+        "Shots off target": [
+          "7",
+          "4"
+        ]
+      }
+    },
+    {
+      "id": "KjtHPreB",
+      "date": "2025-09-21T13:00:00.000Z",
+      "round": "Round 5",
+      "homeTeam": "Vicenza",
+      "awayTeam": "Pro Patria",
+      "homeScore": 3,
+      "awayScore": 0,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "47%",
+          "53%"
+        ],
+        "Total shots": [
+          "0",
+          "0"
+        ],
+        "Shots on target": [
+          "0",
+          "0"
+        ],
+        "Corner kicks": [
+          "11",
+          "0"
+        ],
+        "Yellow cards": [
+          "1",
+          "0"
+        ],
+        "Shots off target": [
+          "0",
+          "0"
+        ]
+      }
+    },
+    {
+      "id": "0pvpTH13",
+      "date": "2025-09-21T13:00:00.000Z",
+      "round": "Round 5",
+      "homeTeam": "Novara",
+      "awayTeam": "Pro Vercelli",
+      "homeScore": 0,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "48%",
+          "52%"
+        ],
+        "Total shots": [
+          "7",
+          "7"
+        ],
+        "Shots on target": [
+          "5",
+          "3"
+        ],
+        "Corner kicks": [
+          "6",
+          "3"
+        ],
+        "Yellow cards": [
+          "1",
+          "3"
+        ],
+        "Shots off target": [
+          "2",
+          "4"
+        ]
+      }
+    },
+    {
+      "id": "CQx9R4Qb",
+      "date": "2025-09-21T10:30:00.000Z",
+      "round": "Round 5",
+      "homeTeam": "Alcione Milano",
+      "awayTeam": "Renate",
+      "homeScore": 1,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "49%",
+          "51%"
+        ],
+        "Total shots": [
+          "9",
+          "5"
+        ],
+        "Shots on target": [
+          "4",
+          "3"
+        ],
+        "Corner kicks": [
+          "3",
+          "4"
+        ],
+        "Yellow cards": [
+          "3",
+          "3"
+        ],
+        "Shots off target": [
+          "5",
+          "2"
+        ]
+      }
+    },
+    {
+      "id": "YcxhReWF",
+      "date": "2025-09-21T10:30:00.000Z",
+      "round": "Round 5",
+      "homeTeam": "US Pergolettese",
+      "awayTeam": "Inter Milan U23",
+      "homeScore": 0,
+      "awayScore": 2,
+      "htHome": 0,
+      "htAway": 2,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "38%",
+          "62%"
+        ],
+        "Total shots": [
+          "12",
+          "3"
+        ],
+        "Shots on target": [
+          "4",
+          "2"
+        ],
+        "Corner kicks": [
+          "9",
+          "3"
+        ],
+        "Yellow cards": [
+          "1",
+          "4"
+        ],
+        "Red cards": [
+          "1",
+          "1"
+        ],
+        "Shots off target": [
+          "8",
+          "1"
+        ]
+      }
+    },
+    {
+      "id": "EefZq7sJ",
+      "date": "2025-09-17T17:00:00.000Z",
+      "round": "Round 3",
+      "homeTeam": "Virtus Verona",
+      "awayTeam": "Inter Milan U23",
+      "homeScore": 1,
+      "awayScore": 2,
+      "htHome": 1,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "51%",
+          "49%"
+        ],
+        "Total shots": [
+          "12",
+          "14"
+        ],
+        "Shots on target": [
+          "4",
+          "4"
+        ],
+        "Corner kicks": [
+          "4",
+          "4"
+        ],
+        "Yellow cards": [
+          "3",
+          "1"
+        ],
+        "Shots off target": [
+          "8",
+          "10"
+        ]
+      }
+    },
+    {
+      "id": "QZNi2lcm",
+      "date": "2025-09-15T18:30:00.000Z",
+      "round": "Round 4",
+      "homeTeam": "Cittadella",
+      "awayTeam": "Vicenza",
+      "homeScore": 0,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "50%",
+          "50%"
+        ],
+        "Total shots": [
+          "6",
+          "5"
+        ],
+        "Shots on target": [
+          "2",
+          "2"
+        ],
+        "Corner kicks": [
+          "6",
+          "9"
+        ],
+        "Yellow cards": [
+          "3",
+          "3"
+        ],
+        "Shots off target": [
+          "4",
+          "3"
+        ],
+        "Goalkeeper saves": [
+          "1",
+          "2"
+        ]
+      }
+    },
+    {
+      "id": "C41YERtg",
+      "date": "2025-09-14T15:30:00.000Z",
+      "round": "Round 4",
+      "homeTeam": "Pro Patria",
+      "awayTeam": "Novara",
+      "homeScore": 0,
+      "awayScore": 0,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "41%",
+          "59%"
+        ],
+        "Total shots": [
+          "5",
+          "13"
+        ],
+        "Shots on target": [
+          "1",
+          "3"
+        ],
+        "Corner kicks": [
+          "1",
+          "6"
+        ],
+        "Yellow cards": [
+          "5",
+          "2"
+        ],
+        "Red cards": [
+          "2",
+          "0"
+        ],
+        "Shots off target": [
+          "4",
+          "10"
+        ],
+        "Goalkeeper saves": [
+          "3",
+          "1"
+        ]
+      }
+    },
+    {
+      "id": "8IF8b6dC",
+      "date": "2025-09-14T13:00:00.000Z",
+      "round": "Round 4",
+      "homeTeam": "Inter Milan U23",
+      "awayTeam": "Lecco",
+      "homeScore": 0,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "43%",
+          "57%"
+        ],
+        "Total shots": [
+          "6",
+          "10"
+        ],
+        "Shots on target": [
+          "3",
+          "4"
+        ],
+        "Corner kicks": [
+          "6",
+          "6"
+        ],
+        "Yellow cards": [
+          "1",
+          "1"
+        ],
+        "Shots off target": [
+          "3",
+          "6"
+        ],
+        "Goalkeeper saves": [
+          "3",
+          "3"
+        ]
+      }
+    },
+    {
+      "id": "xCnb9NAU",
+      "date": "2025-09-14T13:00:00.000Z",
+      "round": "Round 4",
+      "homeTeam": "Trento",
+      "awayTeam": "Albinoleffe",
+      "homeScore": 2,
+      "awayScore": 2,
+      "htHome": 0,
+      "htAway": 2,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "53%",
+          "47%"
+        ],
+        "Total shots": [
+          "16",
+          "7"
+        ],
+        "Shots on target": [
+          "7",
+          "5"
+        ],
+        "Corner kicks": [
+          "6",
+          "4"
+        ],
+        "Yellow cards": [
+          "2",
+          "0"
+        ],
+        "Shots off target": [
+          "9",
+          "2"
+        ],
+        "Goalkeeper saves": [
+          "3",
+          "5"
+        ]
+      }
+    },
+    {
+      "id": "CjMa0SRa",
+      "date": "2025-09-13T13:00:00.000Z",
+      "round": "Round 4",
+      "homeTeam": "AC Dolomiti Bellunesi",
+      "awayTeam": "Alcione Milano",
+      "homeScore": 1,
+      "awayScore": 1,
+      "htHome": 1,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "51%",
+          "49%"
+        ],
+        "Total shots": [
+          "9",
+          "11"
+        ],
+        "Shots on target": [
+          "3",
+          "7"
+        ],
+        "Corner kicks": [
+          "8",
+          "7"
+        ],
+        "Yellow cards": [
+          "4",
+          "3"
+        ],
+        "Shots off target": [
+          "6",
+          "4"
+        ],
+        "Goalkeeper saves": [
+          "6",
+          "2"
+        ]
+      }
+    },
+    {
+      "id": "tWDGdpRO",
+      "date": "2025-09-13T13:00:00.000Z",
+      "round": "Round 4",
+      "homeTeam": "Lumezzane",
+      "awayTeam": "Triestina",
+      "homeScore": 1,
+      "awayScore": 2,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "44%",
+          "56%"
+        ],
+        "Total shots": [
+          "9",
+          "5"
+        ],
+        "Shots on target": [
+          "5",
+          "3"
+        ],
+        "Corner kicks": [
+          "5",
+          "4"
+        ],
+        "Yellow cards": [
+          "2",
+          "2"
+        ],
+        "Shots off target": [
+          "4",
+          "2"
+        ],
+        "Goalkeeper saves": [
+          "1",
+          "4"
+        ]
+      }
+    },
+    {
+      "id": "YJksD5B5",
+      "date": "2025-09-13T13:00:00.000Z",
+      "round": "Round 4",
+      "homeTeam": "Pro Vercelli",
+      "awayTeam": "Virtus Verona",
+      "homeScore": 0,
+      "awayScore": 2,
+      "htHome": 0,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "52%",
+          "48%"
+        ],
+        "Total shots": [
+          "12",
+          "16"
+        ],
+        "Shots on target": [
+          "7",
+          "6"
+        ],
+        "Corner kicks": [
+          "5",
+          "1"
+        ],
+        "Yellow cards": [
+          "0",
+          "1"
+        ],
+        "Red cards": [
+          "1",
+          "0"
+        ],
+        "Shots off target": [
+          "5",
+          "10"
+        ],
+        "Goalkeeper saves": [
+          "4",
+          "7"
+        ]
+      }
+    },
+    {
+      "id": "tpgkBqtI",
+      "date": "2025-09-13T13:00:00.000Z",
+      "round": "Round 4",
+      "homeTeam": "Renate",
+      "awayTeam": "Union Brescia",
+      "homeScore": 1,
+      "awayScore": 3,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "39%",
+          "61%"
+        ],
+        "Total shots": [
+          "6",
+          "11"
+        ],
+        "Shots on target": [
+          "3",
+          "6"
+        ],
+        "Corner kicks": [
+          "4",
+          "6"
+        ],
+        "Yellow cards": [
+          "5",
+          "0"
+        ],
+        "Red cards": [
+          "1",
+          "0"
+        ],
+        "Shots off target": [
+          "3",
+          "5"
+        ],
+        "Goalkeeper saves": [
+          "3",
+          "2"
+        ]
+      }
+    },
+    {
+      "id": "t2nL7AZP",
+      "date": "2025-09-12T18:30:00.000Z",
+      "round": "Round 4",
+      "homeTeam": "ASD Union Arzignanochiampo",
+      "awayTeam": "Giana Erminio",
+      "homeScore": 0,
+      "awayScore": 0,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "41%",
+          "59%"
+        ],
+        "Total shots": [
+          "4",
+          "9"
+        ],
+        "Shots on target": [
+          "2",
+          "4"
+        ],
+        "Corner kicks": [
+          "4",
+          "8"
+        ],
+        "Yellow cards": [
+          "1",
+          "1"
+        ],
+        "Shots off target": [
+          "2",
+          "5"
+        ],
+        "Goalkeeper saves": [
+          "4",
+          "2"
+        ]
+      }
+    },
+    {
+      "id": "KdqRGmCt",
+      "date": "2025-09-12T18:30:00.000Z",
+      "round": "Round 4",
+      "homeTeam": "A.C. Ospitaletto",
+      "awayTeam": "US Pergolettese",
+      "homeScore": 1,
+      "awayScore": 2,
+      "htHome": 1,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "46%",
+          "54%"
+        ],
+        "Total shots": [
+          "6",
+          "8"
+        ],
+        "Shots on target": [
+          "3",
+          "4"
+        ],
+        "Corner kicks": [
+          "3",
+          "4"
+        ],
+        "Yellow cards": [
+          "2",
+          "3"
+        ],
+        "Red cards": [
+          "1",
+          "0"
+        ],
+        "Shots off target": [
+          "3",
+          "4"
+        ],
+        "Goalkeeper saves": [
+          "2",
+          "2"
+        ]
+      }
+    },
+    {
+      "id": "Qa7ryCbl",
+      "date": "2025-09-07T15:30:00.000Z",
+      "round": "Round 3",
+      "homeTeam": "Giana Erminio",
+      "awayTeam": "Pro Patria",
+      "homeScore": 2,
+      "awayScore": 1,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "53%",
+          "47%"
+        ],
+        "Total shots": [
+          "10",
+          "4"
+        ],
+        "Shots on target": [
+          "7",
+          "2"
+        ],
+        "Corner kicks": [
+          "7",
+          "3"
+        ],
+        "Yellow cards": [
+          "2",
+          "5"
+        ],
+        "Shots off target": [
+          "3",
+          "2"
+        ],
+        "Goalkeeper saves": [
+          "1",
+          "5"
+        ]
+      }
+    },
+    {
+      "id": "WCxqZkT0",
+      "date": "2025-09-07T15:30:00.000Z",
+      "round": "Round 3",
+      "homeTeam": "Vicenza",
+      "awayTeam": "ASD Union Arzignanochiampo",
+      "homeScore": 2,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "61%",
+          "39%"
+        ],
+        "Total shots": [
+          "17",
+          "6"
+        ],
+        "Shots on target": [
+          "11",
+          "3"
+        ],
+        "Corner kicks": [
+          "10",
+          "3"
+        ],
+        "Yellow cards": [
+          "1",
+          "2"
+        ],
+        "Shots off target": [
+          "6",
+          "3"
+        ],
+        "Goalkeeper saves": [
+          "2",
+          "9"
+        ]
+      }
+    },
+    {
+      "id": "vwtiXTcD",
+      "date": "2025-09-07T13:00:00.000Z",
+      "round": "Round 3",
+      "homeTeam": "Lecco",
+      "awayTeam": "AC Dolomiti Bellunesi",
+      "homeScore": 3,
+      "awayScore": 0,
+      "htHome": 2,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "60%",
+          "40%"
+        ],
+        "Total shots": [
+          "12",
+          "7"
+        ],
+        "Shots on target": [
+          "7",
+          "2"
+        ],
+        "Corner kicks": [
+          "5",
+          "4"
+        ],
+        "Yellow cards": [
+          "0",
+          "1"
+        ],
+        "Red cards": [
+          "0",
+          "1"
+        ],
+        "Shots off target": [
+          "5",
+          "5"
+        ],
+        "Goalkeeper saves": [
+          "2",
+          "4"
+        ]
+      }
+    },
+    {
+      "id": "KYIweXkK",
+      "date": "2025-09-07T13:00:00.000Z",
+      "round": "Round 3",
+      "homeTeam": "Novara",
+      "awayTeam": "Trento",
+      "homeScore": 1,
+      "awayScore": 1,
+      "htHome": 1,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "53%",
+          "47%"
+        ],
+        "Total shots": [
+          "8",
+          "3"
+        ],
+        "Shots on target": [
+          "4",
+          "2"
+        ],
+        "Corner kicks": [
+          "5",
+          "4"
+        ],
+        "Yellow cards": [
+          "4",
+          "3"
+        ],
+        "Red cards": [
+          "0",
+          "1"
+        ],
+        "Shots off target": [
+          "4",
+          "1"
+        ],
+        "Goalkeeper saves": [
+          "1",
+          "3"
+        ]
+      }
+    },
+    {
+      "id": "pG2Imkrf",
+      "date": "2025-09-07T13:00:00.000Z",
+      "round": "Round 3",
+      "homeTeam": "Triestina",
+      "awayTeam": "A.C. Ospitaletto",
+      "homeScore": 1,
+      "awayScore": 1,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "46%",
+          "54%"
+        ],
+        "Total shots": [
+          "7",
+          "13"
+        ],
+        "Shots on target": [
+          "4",
+          "6"
+        ],
+        "Corner kicks": [
+          "4",
+          "4"
+        ],
+        "Yellow cards": [
+          "2",
+          "0"
+        ],
+        "Red cards": [
+          "1",
+          "0"
+        ],
+        "Shots off target": [
+          "3",
+          "7"
+        ],
+        "Goalkeeper saves": [
+          "5",
+          "3"
+        ]
+      }
+    },
+    {
+      "id": "IT0QoTC6",
+      "date": "2025-09-06T18:30:00.000Z",
+      "round": "Round 3",
+      "homeTeam": "Union Brescia",
+      "awayTeam": "Pro Vercelli",
+      "homeScore": 5,
+      "awayScore": 0,
+      "htHome": 2,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "53%",
+          "47%"
+        ],
+        "Total shots": [
+          "18",
+          "5"
+        ],
+        "Shots on target": [
+          "14",
+          "3"
+        ],
+        "Corner kicks": [
+          "2",
+          "5"
+        ],
+        "Yellow cards": [
+          "2",
+          "4"
+        ],
+        "Shots off target": [
+          "4",
+          "2"
+        ],
+        "Goalkeeper saves": [
+          "3",
+          "9"
+        ]
+      }
+    },
+    {
+      "id": "jH99kBDs",
+      "date": "2025-09-06T18:30:00.000Z",
+      "round": "Round 3",
+      "homeTeam": "US Pergolettese",
+      "awayTeam": "Cittadella",
+      "homeScore": 3,
+      "awayScore": 1,
+      "htHome": 2,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "48%",
+          "52%"
+        ],
+        "Total shots": [
+          "11",
+          "5"
+        ],
+        "Shots on target": [
+          "5",
+          "3"
+        ],
+        "Corner kicks": [
+          "2",
+          "4"
+        ],
+        "Yellow cards": [
+          "0",
+          "2"
+        ],
+        "Shots off target": [
+          "6",
+          "2"
+        ],
+        "Goalkeeper saves": [
+          "2",
+          "2"
+        ]
+      }
+    },
+    {
+      "id": "boi2etp3",
+      "date": "2025-09-06T13:00:00.000Z",
+      "round": "Round 3",
+      "homeTeam": "Albinoleffe",
+      "awayTeam": "Renate",
+      "homeScore": 2,
+      "awayScore": 3,
+      "htHome": 0,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "58%",
+          "42%"
+        ],
+        "Total shots": [
+          "8",
+          "8"
+        ],
+        "Shots on target": [
+          "2",
+          "4"
+        ],
+        "Corner kicks": [
+          "6",
+          "9"
+        ],
+        "Yellow cards": [
+          "2",
+          "2"
+        ],
+        "Shots off target": [
+          "6",
+          "4"
+        ],
+        "Goalkeeper saves": [
+          "1",
+          "0"
+        ]
+      }
+    },
+    {
+      "id": "fDpBgKEF",
+      "date": "2025-09-06T13:00:00.000Z",
+      "round": "Round 3",
+      "homeTeam": "Alcione Milano",
+      "awayTeam": "Lumezzane",
+      "homeScore": 1,
+      "awayScore": 0,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "50%",
+          "50%"
+        ],
+        "Total shots": [
+          "10",
+          "3"
+        ],
+        "Shots on target": [
+          "7",
+          "0"
+        ],
+        "Corner kicks": [
+          "3",
+          "2"
+        ],
+        "Yellow cards": [
+          "0",
+          "3"
+        ],
+        "Shots off target": [
+          "3",
+          "3"
+        ],
+        "Goalkeeper saves": [
+          "0",
+          "6"
+        ]
+      }
+    },
+    {
+      "id": "CUSKr30c",
+      "date": "2025-08-31T19:00:00.000Z",
+      "round": "Round 2",
+      "homeTeam": "A.C. Ospitaletto",
+      "awayTeam": "Vicenza",
+      "homeScore": 0,
+      "awayScore": 0,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "42%",
+          "58%"
+        ],
+        "Total shots": [
+          "9",
+          "10"
+        ],
+        "Shots on target": [
+          "1",
+          "4"
+        ],
+        "Corner kicks": [
+          "3",
+          "7"
+        ],
+        "Yellow cards": [
+          "2",
+          "2"
+        ],
+        "Shots off target": [
+          "8",
+          "6"
+        ],
+        "Goalkeeper saves": [
+          "4",
+          "1"
+        ]
+      }
+    },
+    {
+      "id": "MuExWPGi",
+      "date": "2025-08-31T16:00:00.000Z",
+      "round": "Round 2",
+      "homeTeam": "ASD Union Arzignanochiampo",
+      "awayTeam": "Virtus Verona",
+      "homeScore": 3,
+      "awayScore": 2,
+      "htHome": 3,
+      "htAway": 2,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "47%",
+          "53%"
+        ],
+        "Total shots": [
+          "6",
+          "11"
+        ],
+        "Shots on target": [
+          "5",
+          "8"
+        ],
+        "Corner kicks": [
+          "4",
+          "11"
+        ],
+        "Yellow cards": [
+          "1",
+          "1"
+        ],
+        "Shots off target": [
+          "1",
+          "3"
+        ],
+        "Goalkeeper saves": [
+          "6",
+          "2"
+        ]
+      }
+    },
+    {
+      "id": "APA7ZbNq",
+      "date": "2025-08-31T16:00:00.000Z",
+      "round": "Round 2",
+      "homeTeam": "Trento",
+      "awayTeam": "Union Brescia",
+      "homeScore": 0,
+      "awayScore": 2,
+      "htHome": 0,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "58%",
+          "42%"
+        ],
+        "Total shots": [
+          "6",
+          "9"
+        ],
+        "Shots on target": [
+          "3",
+          "4"
+        ],
+        "Corner kicks": [
+          "6",
+          "8"
+        ],
+        "Yellow cards": [
+          "2",
+          "4"
+        ],
+        "Red cards": [
+          "1",
+          "0"
+        ],
+        "Shots off target": [
+          "3",
+          "5"
+        ],
+        "Goalkeeper saves": [
+          "2",
+          "3"
+        ]
+      }
+    },
+    {
+      "id": "QXAgSsGG",
+      "date": "2025-08-31T13:30:00.000Z",
+      "round": "Round 2",
+      "homeTeam": "AC Dolomiti Bellunesi",
+      "awayTeam": "Novara",
+      "homeScore": 1,
+      "awayScore": 1,
+      "htHome": 1,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "50%",
+          "50%"
+        ],
+        "Total shots": [
+          "15",
+          "10"
+        ],
+        "Shots on target": [
+          "9",
+          "6"
+        ],
+        "Corner kicks": [
+          "3",
+          "2"
+        ],
+        "Yellow cards": [
+          "1",
+          "3"
+        ],
+        "Shots off target": [
+          "6",
+          "4"
+        ],
+        "Goalkeeper saves": [
+          "5",
+          "8"
+        ]
+      }
+    },
+    {
+      "id": "nma2QLpT",
+      "date": "2025-08-31T13:30:00.000Z",
+      "round": "Round 2",
+      "homeTeam": "Inter Milan U23",
+      "awayTeam": "Pro Patria",
+      "homeScore": 2,
+      "awayScore": 2,
+      "htHome": 2,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "45%",
+          "55%"
+        ],
+        "Total shots": [
+          "6",
+          "6"
+        ],
+        "Shots on target": [
+          "3",
+          "2"
+        ],
+        "Corner kicks": [
+          "5",
+          "4"
+        ],
+        "Yellow cards": [
+          "1",
+          "3"
+        ],
+        "Shots off target": [
+          "3",
+          "4"
+        ],
+        "Goalkeeper saves": [
+          "0",
+          "1"
+        ]
+      }
+    },
+    {
+      "id": "dMpYKa8j",
+      "date": "2025-08-31T13:30:00.000Z",
+      "round": "Round 2",
+      "homeTeam": "Lumezzane",
+      "awayTeam": "US Pergolettese",
+      "homeScore": 2,
+      "awayScore": 3,
+      "htHome": 1,
+      "htAway": 2,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "51%",
+          "49%"
+        ],
+        "Total shots": [
+          "8",
+          "12"
+        ],
+        "Shots on target": [
+          "3",
+          "6"
+        ],
+        "Corner kicks": [
+          "3",
+          "5"
+        ],
+        "Yellow cards": [
+          "1",
+          "3"
+        ],
+        "Shots off target": [
+          "5",
+          "6"
+        ],
+        "Goalkeeper saves": [
+          "3",
+          "1"
+        ]
+      }
+    },
+    {
+      "id": "tAKyuLaM",
+      "date": "2025-08-30T16:00:00.000Z",
+      "round": "Round 2",
+      "homeTeam": "Renate",
+      "awayTeam": "Giana Erminio",
+      "homeScore": 1,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "50%",
+          "50%"
+        ],
+        "Total shots": [
+          "0",
+          "0"
+        ],
+        "Shots on target": [
+          "0",
+          "0"
+        ],
+        "Corner kicks": [
+          "0",
+          "0"
+        ],
+        "Shots off target": [
+          "0",
+          "0"
+        ]
+      }
+    },
+    {
+      "id": "WvaGXxhd",
+      "date": "2025-08-30T16:00:00.000Z",
+      "round": "Round 2",
+      "homeTeam": "Triestina",
+      "awayTeam": "Lecco",
+      "homeScore": 1,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "58%",
+          "42%"
+        ],
+        "Total shots": [
+          "5",
+          "8"
+        ],
+        "Shots on target": [
+          "2",
+          "3"
+        ],
+        "Corner kicks": [
+          "10",
+          "6"
+        ],
+        "Yellow cards": [
+          "0",
+          "2"
+        ],
+        "Shots off target": [
+          "3",
+          "5"
+        ]
+      }
+    },
+    {
+      "id": "I77oU3o4",
+      "date": "2025-08-29T19:00:00.000Z",
+      "round": "Round 2",
+      "homeTeam": "Cittadella",
+      "awayTeam": "Alcione Milano",
+      "homeScore": 1,
+      "awayScore": 0,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "54%",
+          "46%"
+        ],
+        "Total shots": [
+          "5",
+          "6"
+        ],
+        "Shots on target": [
+          "2",
+          "4"
+        ],
+        "Corner kicks": [
+          "4",
+          "1"
+        ],
+        "Yellow cards": [
+          "3",
+          "2"
+        ],
+        "Shots off target": [
+          "3",
+          "2"
+        ]
+      }
+    },
+    {
+      "id": "prRStsV9",
+      "date": "2025-08-29T19:00:00.000Z",
+      "round": "Round 2",
+      "homeTeam": "Pro Vercelli",
+      "awayTeam": "Albinoleffe",
+      "homeScore": 2,
+      "awayScore": 1,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "52%",
+          "48%"
+        ],
+        "Total shots": [
+          "9",
+          "6"
+        ],
+        "Shots on target": [
+          "6",
+          "5"
+        ],
+        "Corner kicks": [
+          "6",
+          "1"
+        ],
+        "Yellow cards": [
+          "5",
+          "3"
+        ],
+        "Shots off target": [
+          "3",
+          "1"
+        ]
+      }
+    },
+    {
+      "id": "lEzdJnXo",
+      "date": "2025-08-25T18:30:00.000Z",
+      "round": "Round 1",
+      "homeTeam": "Novara",
+      "awayTeam": "Inter Milan U23",
+      "homeScore": 1,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "54%",
+          "46%"
+        ],
+        "Total shots": [
+          "14",
+          "11"
+        ],
+        "Shots on target": [
+          "8",
+          "6"
+        ],
+        "Corner kicks": [
+          "7",
+          "5"
+        ],
+        "Yellow cards": [
+          "1",
+          "5"
+        ],
+        "Shots off target": [
+          "6",
+          "5"
+        ]
+      }
+    },
+    {
+      "id": "CWcmHdjI",
+      "date": "2025-08-24T19:00:00.000Z",
+      "round": "Round 1",
+      "homeTeam": "Vicenza",
+      "awayTeam": "Lumezzane",
+      "homeScore": 5,
+      "awayScore": 0,
+      "htHome": 2,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "62%",
+          "38%"
+        ],
+        "Total shots": [
+          "10",
+          "8"
+        ],
+        "Shots on target": [
+          "8",
+          "3"
+        ],
+        "Corner kicks": [
+          "4",
+          "2"
+        ],
+        "Yellow cards": [
+          "2",
+          "1"
+        ],
+        "Shots off target": [
+          "2",
+          "5"
+        ]
+      }
+    },
+    {
+      "id": "IgSCF4WA",
+      "date": "2025-08-24T19:00:00.000Z",
+      "round": "Round 1",
+      "homeTeam": "Pro Patria",
+      "awayTeam": "Pro Vercelli",
+      "homeScore": 2,
+      "awayScore": 3,
+      "htHome": 1,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "47%",
+          "53%"
+        ],
+        "Total shots": [
+          "13",
+          "12"
+        ],
+        "Shots on target": [
+          "4",
+          "8"
+        ],
+        "Corner kicks": [
+          "2",
+          "4"
+        ],
+        "Yellow cards": [
+          "2",
+          "3"
+        ],
+        "Shots off target": [
+          "9",
+          "4"
+        ]
+      }
+    },
+    {
+      "id": "dvv4HQ1b",
+      "date": "2025-08-24T16:00:00.000Z",
+      "round": "Round 1",
+      "homeTeam": "US Pergolettese",
+      "awayTeam": "Renate",
+      "homeScore": 0,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "52%",
+          "48%"
+        ],
+        "Total shots": [
+          "7",
+          "4"
+        ],
+        "Shots on target": [
+          "2",
+          "2"
+        ],
+        "Corner kicks": [
+          "9",
+          "2"
+        ],
+        "Yellow cards": [
+          "3",
+          "1"
+        ],
+        "Shots off target": [
+          "5",
+          "2"
+        ]
+      }
+    },
+    {
+      "id": "UoRj8MOp",
+      "date": "2025-08-24T16:00:00.000Z",
+      "round": "Round 1",
+      "homeTeam": "Virtus Verona",
+      "awayTeam": "Cittadella",
+      "homeScore": 1,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "48%",
+          "52%"
+        ],
+        "Total shots": [
+          "7",
+          "13"
+        ],
+        "Shots on target": [
+          "5",
+          "3"
+        ],
+        "Corner kicks": [
+          "4",
+          "8"
+        ],
+        "Yellow cards": [
+          "2",
+          "1"
+        ],
+        "Red cards": [
+          "1",
+          "1"
+        ],
+        "Shots off target": [
+          "2",
+          "10"
+        ]
+      }
+    },
+    {
+      "id": "nPCNM0Mt",
+      "date": "2025-08-23T19:00:00.000Z",
+      "round": "Round 1",
+      "homeTeam": "Albinoleffe",
+      "awayTeam": "AC Dolomiti Bellunesi",
+      "homeScore": 2,
+      "awayScore": 2,
+      "htHome": 1,
+      "htAway": 2,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "60%",
+          "40%"
+        ],
+        "Total shots": [
+          "9",
+          "10"
+        ],
+        "Shots on target": [
+          "7",
+          "8"
+        ],
+        "Corner kicks": [
+          "8",
+          "3"
+        ],
+        "Yellow cards": [
+          "2",
+          "2"
+        ],
+        "Shots off target": [
+          "2",
+          "2"
+        ]
+      }
+    },
+    {
+      "id": "QJVKDr1N",
+      "date": "2025-08-23T19:00:00.000Z",
+      "round": "Round 1",
+      "homeTeam": "Union Brescia",
+      "awayTeam": "ASD Union Arzignanochiampo",
+      "homeScore": 1,
+      "awayScore": 2,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "56%",
+          "44%"
+        ],
+        "Total shots": [
+          "12",
+          "5"
+        ],
+        "Shots on target": [
+          "5",
+          "5"
+        ],
+        "Corner kicks": [
+          "6",
+          "2"
+        ],
+        "Yellow cards": [
+          "2",
+          "3"
+        ],
+        "Shots off target": [
+          "7",
+          "0"
+        ]
+      }
+    },
+    {
+      "id": "ppdeFzLU",
+      "date": "2025-08-23T19:00:00.000Z",
+      "round": "Round 1",
+      "homeTeam": "Lecco",
+      "awayTeam": "A.C. Ospitaletto",
+      "homeScore": 2,
+      "awayScore": 1,
+      "htHome": 2,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "51%",
+          "49%"
+        ],
+        "Total shots": [
+          "5",
+          "7"
+        ],
+        "Shots on target": [
+          "3",
+          "4"
+        ],
+        "Corner kicks": [
+          "2",
+          "5"
+        ],
+        "Yellow cards": [
+          "2",
+          "2"
+        ],
+        "Shots off target": [
+          "2",
+          "3"
+        ]
+      }
+    },
+    {
+      "id": "8v1WKvig",
+      "date": "2025-08-23T16:00:00.000Z",
+      "round": "Round 1",
+      "homeTeam": "Alcione Milano",
+      "awayTeam": "Triestina",
+      "homeScore": 1,
+      "awayScore": 0,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "47%",
+          "53%"
+        ],
+        "Total shots": [
+          "3",
+          "8"
+        ],
+        "Shots on target": [
+          "3",
+          "3"
+        ],
+        "Corner kicks": [
+          "3",
+          "5"
+        ],
+        "Yellow cards": [
+          "2",
+          "2"
+        ],
+        "Shots off target": [
+          "0",
+          "5"
+        ]
+      }
+    },
+    {
+      "id": "G44vJIL5",
+      "date": "2025-08-23T16:00:00.000Z",
+      "round": "Round 1",
+      "homeTeam": "Giana Erminio",
+      "awayTeam": "Trento",
+      "homeScore": 0,
+      "awayScore": 2,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "44%",
+          "56%"
+        ],
+        "Total shots": [
+          "7",
+          "13"
+        ],
+        "Shots on target": [
+          "2",
+          "9"
+        ],
+        "Corner kicks": [
+          "3",
+          "8"
+        ],
+        "Yellow cards": [
+          "3",
+          "4"
+        ],
+        "Shots off target": [
+          "5",
+          "4"
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,6147 @@
+{
+  "league": "Primera Division",
+  "country": "costa-rica",
+  "season": "2025-2026",
+  "collectedAt": "2026-02-10T16:20:37.465Z",
+  "totalMatches": 129,
+  "matches": [
+    {
+      "id": "tEU0LImA",
+      "date": "2026-02-09T01:00:00.000Z",
+      "round": "Round 6",
+      "homeTeam": "Sporting San Jose",
+      "awayTeam": "Guadalupe FC",
+      "homeScore": 1,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "61%",
+          "39%"
+        ],
+        "Total shots": [
+          "14",
+          "10"
+        ],
+        "Shots on target": [
+          "4",
+          "4"
+        ],
+        "Corner kicks": [
+          "10",
+          "3"
+        ],
+        "Yellow cards": [
+          "2",
+          "3"
+        ],
+        "Red cards": [
+          "0",
+          "1"
+        ],
+        "Shots off target": [
+          "10",
+          "6"
+        ],
+        "Offsides": [
+          "2",
+          "1"
+        ],
+        "Fouls": [
+          "18",
+          "22"
+        ]
+      }
+    },
+    {
+      "id": "lQhz5c3T",
+      "date": "2026-02-08T21:00:00.000Z",
+      "round": "Round 6",
+      "homeTeam": "Deportivo Saprissa",
+      "awayTeam": "AD San Carlos",
+      "homeScore": 2,
+      "awayScore": 1,
+      "htHome": 2,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "54%",
+          "46%"
+        ],
+        "Total shots": [
+          "21",
+          "5"
+        ],
+        "Shots on target": [
+          "6",
+          "2"
+        ],
+        "Corner kicks": [
+          "8",
+          "3"
+        ],
+        "Yellow cards": [
+          "2",
+          "2"
+        ],
+        "Red cards": [
+          "1",
+          "0"
+        ],
+        "Shots off target": [
+          "15",
+          "3"
+        ],
+        "Offsides": [
+          "0",
+          "0"
+        ],
+        "Fouls": [
+          "16",
+          "12"
+        ]
+      }
+    },
+    {
+      "id": "8AZ6ayRj",
+      "date": "2026-02-08T17:00:00.000Z",
+      "round": "Round 6",
+      "homeTeam": "Cartagines",
+      "awayTeam": "Municipal Perez Zeledon",
+      "homeScore": 1,
+      "awayScore": 0,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "58%",
+          "42%"
+        ],
+        "Total shots": [
+          "16",
+          "13"
+        ],
+        "Shots on target": [
+          "3",
+          "5"
+        ],
+        "Corner kicks": [
+          "6",
+          "6"
+        ],
+        "Yellow cards": [
+          "3",
+          "6"
+        ],
+        "Shots off target": [
+          "13",
+          "8"
+        ],
+        "Offsides": [
+          "1",
+          "0"
+        ],
+        "Fouls": [
+          "10",
+          "11"
+        ]
+      }
+    },
+    {
+      "id": "GCfS6JYG",
+      "date": "2026-02-08T02:00:00.000Z",
+      "round": "Round 6",
+      "homeTeam": "Alajuelense",
+      "awayTeam": "Herediano",
+      "homeScore": 1,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "62%",
+          "38%"
+        ],
+        "Total shots": [
+          "15",
+          "6"
+        ],
+        "Shots on target": [
+          "5",
+          "1"
+        ],
+        "Corner kicks": [
+          "6",
+          "3"
+        ],
+        "Yellow cards": [
+          "3",
+          "5"
+        ],
+        "Shots off target": [
+          "10",
+          "5"
+        ],
+        "Offsides": [
+          "0",
+          "0"
+        ],
+        "Fouls": [
+          "14",
+          "14"
+        ]
+      }
+    },
+    {
+      "id": "KbthNvJc",
+      "date": "2026-02-07T02:00:00.000Z",
+      "round": "Round 6",
+      "homeTeam": "Municipal Liberia",
+      "awayTeam": "Puntarenas",
+      "homeScore": 1,
+      "awayScore": 4,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "50%",
+          "50%"
+        ],
+        "Total shots": [
+          "8",
+          "18"
+        ],
+        "Shots on target": [
+          "5",
+          "9"
+        ],
+        "Corner kicks": [
+          "2",
+          "2"
+        ],
+        "Yellow cards": [
+          "1",
+          "3"
+        ],
+        "Red cards": [
+          "1",
+          "0"
+        ],
+        "Shots off target": [
+          "3",
+          "9"
+        ],
+        "Offsides": [
+          "1",
+          "0"
+        ],
+        "Fouls": [
+          "7",
+          "14"
+        ]
+      }
+    },
+    {
+      "id": "QNupftkB",
+      "date": "2026-01-30T00:00:00.000Z",
+      "round": "Round 5",
+      "homeTeam": "Cartagines",
+      "awayTeam": "Sporting San Jose",
+      "homeScore": 0,
+      "awayScore": 2,
+      "htHome": 0,
+      "htAway": 2,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "60%",
+          "40%"
+        ],
+        "Total shots": [
+          "21",
+          "7"
+        ],
+        "Shots on target": [
+          "4",
+          "4"
+        ],
+        "Corner kicks": [
+          "6",
+          "1"
+        ],
+        "Yellow cards": [
+          "3",
+          "1"
+        ],
+        "Shots off target": [
+          "17",
+          "3"
+        ],
+        "Offsides": [
+          "2",
+          "1"
+        ],
+        "Fouls": [
+          "14",
+          "14"
+        ]
+      }
+    },
+    {
+      "id": "Kp1J8u44",
+      "date": "2026-01-29T21:30:00.000Z",
+      "round": "Round 5",
+      "homeTeam": "Municipal Perez Zeledon",
+      "awayTeam": "Deportivo Saprissa",
+      "homeScore": 3,
+      "awayScore": 3,
+      "htHome": 2,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "46%",
+          "54%"
+        ],
+        "Total shots": [
+          "6",
+          "14"
+        ],
+        "Shots on target": [
+          "6",
+          "8"
+        ],
+        "Corner kicks": [
+          "2",
+          "8"
+        ],
+        "Yellow cards": [
+          "3",
+          "4"
+        ],
+        "Shots off target": [
+          "0",
+          "6"
+        ],
+        "Offsides": [
+          "0",
+          "0"
+        ],
+        "Fouls": [
+          "13",
+          "13"
+        ]
+      }
+    },
+    {
+      "id": "MkZhhKJN",
+      "date": "2026-01-29T02:00:00.000Z",
+      "round": "Round 5",
+      "homeTeam": "Herediano",
+      "awayTeam": "Puntarenas",
+      "homeScore": 2,
+      "awayScore": 1,
+      "htHome": 2,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "69%",
+          "31%"
+        ],
+        "Total shots": [
+          "5",
+          "9"
+        ],
+        "Shots on target": [
+          "3",
+          "5"
+        ],
+        "Corner kicks": [
+          "5",
+          "6"
+        ],
+        "Yellow cards": [
+          "1",
+          "2"
+        ],
+        "Red cards": [
+          "0",
+          "1"
+        ],
+        "Shots off target": [
+          "2",
+          "4"
+        ],
+        "Offsides": [
+          "1",
+          "1"
+        ],
+        "Fouls": [
+          "10",
+          "17"
+        ]
+      }
+    },
+    {
+      "id": "YT2BA1Zi",
+      "date": "2026-01-29T01:00:00.000Z",
+      "round": "Round 5",
+      "homeTeam": "AD San Carlos",
+      "awayTeam": "Municipal Liberia",
+      "homeScore": 1,
+      "awayScore": 0,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "51%",
+          "49%"
+        ],
+        "Total shots": [
+          "18",
+          "7"
+        ],
+        "Shots on target": [
+          "4",
+          "2"
+        ],
+        "Corner kicks": [
+          "2",
+          "7"
+        ],
+        "Yellow cards": [
+          "4",
+          "2"
+        ],
+        "Red cards": [
+          "0",
+          "1"
+        ],
+        "Shots off target": [
+          "14",
+          "5"
+        ],
+        "Offsides": [
+          "0",
+          "1"
+        ],
+        "Fouls": [
+          "10",
+          "10"
+        ]
+      }
+    },
+    {
+      "id": "hYPOnbso",
+      "date": "2026-01-28T00:00:00.000Z",
+      "round": "Round 5",
+      "homeTeam": "Guadalupe FC",
+      "awayTeam": "Alajuelense",
+      "homeScore": 1,
+      "awayScore": 3,
+      "htHome": 1,
+      "htAway": 3,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "44%",
+          "56%"
+        ],
+        "Total shots": [
+          "15",
+          "12"
+        ],
+        "Shots on target": [
+          "5",
+          "5"
+        ],
+        "Corner kicks": [
+          "3",
+          "5"
+        ],
+        "Yellow cards": [
+          "1",
+          "5"
+        ],
+        "Shots off target": [
+          "10",
+          "7"
+        ],
+        "Offsides": [
+          "2",
+          "1"
+        ],
+        "Fouls": [
+          "7",
+          "16"
+        ]
+      }
+    },
+    {
+      "id": "8n9JwL4U",
+      "date": "2026-01-27T02:00:00.000Z",
+      "round": "Round 4",
+      "homeTeam": "Municipal Perez Zeledon",
+      "awayTeam": "Sporting San Jose",
+      "homeScore": 0,
+      "awayScore": 0,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "51%",
+          "49%"
+        ],
+        "Total shots": [
+          "6",
+          "15"
+        ],
+        "Shots on target": [
+          "1",
+          "5"
+        ],
+        "Corner kicks": [
+          "2",
+          "8"
+        ],
+        "Yellow cards": [
+          "3",
+          "1"
+        ],
+        "Red cards": [
+          "1",
+          "0"
+        ],
+        "Shots off target": [
+          "5",
+          "10"
+        ],
+        "Offsides": [
+          "0",
+          "0"
+        ],
+        "Fouls": [
+          "7",
+          "14"
+        ]
+      }
+    },
+    {
+      "id": "v7H2s355",
+      "date": "2026-01-26T00:00:00.000Z",
+      "round": "Round 4",
+      "homeTeam": "Deportivo Saprissa",
+      "awayTeam": "Cartagines",
+      "homeScore": 0,
+      "awayScore": 0,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "57%",
+          "43%"
+        ],
+        "Total shots": [
+          "20",
+          "13"
+        ],
+        "Shots on target": [
+          "4",
+          "4"
+        ],
+        "Corner kicks": [
+          "8",
+          "6"
+        ],
+        "Yellow cards": [
+          "2",
+          "3"
+        ],
+        "Shots off target": [
+          "16",
+          "9"
+        ],
+        "Offsides": [
+          "2",
+          "3"
+        ],
+        "Fouls": [
+          "16",
+          "14"
+        ]
+      }
+    },
+    {
+      "id": "bBlTcOkn",
+      "date": "2026-01-25T21:00:00.000Z",
+      "round": "Round 4",
+      "homeTeam": "Municipal Liberia",
+      "awayTeam": "Herediano",
+      "homeScore": 1,
+      "awayScore": 0,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "42%",
+          "58%"
+        ],
+        "Total shots": [
+          "10",
+          "8"
+        ],
+        "Shots on target": [
+          "2",
+          "3"
+        ],
+        "Corner kicks": [
+          "5",
+          "3"
+        ],
+        "Yellow cards": [
+          "1",
+          "1"
+        ],
+        "Shots off target": [
+          "8",
+          "5"
+        ],
+        "Offsides": [
+          "3",
+          "0"
+        ],
+        "Fouls": [
+          "7",
+          "10"
+        ]
+      }
+    },
+    {
+      "id": "hAsxd2Kb",
+      "date": "2026-01-25T02:00:00.000Z",
+      "round": "Round 4",
+      "homeTeam": "Alajuelense",
+      "awayTeam": "AD San Carlos",
+      "homeScore": 1,
+      "awayScore": 0,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "57%",
+          "43%"
+        ],
+        "Total shots": [
+          "13",
+          "8"
+        ],
+        "Shots on target": [
+          "4",
+          "3"
+        ],
+        "Corner kicks": [
+          "4",
+          "8"
+        ],
+        "Yellow cards": [
+          "3",
+          "2"
+        ],
+        "Shots off target": [
+          "9",
+          "5"
+        ],
+        "Offsides": [
+          "3",
+          "1"
+        ],
+        "Fouls": [
+          "14",
+          "17"
+        ]
+      }
+    },
+    {
+      "id": "nXKAuszI",
+      "date": "2026-01-25T00:00:00.000Z",
+      "round": "Round 4",
+      "homeTeam": "Puntarenas",
+      "awayTeam": "Guadalupe FC",
+      "homeScore": 0,
+      "awayScore": 0,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "52%",
+          "48%"
+        ],
+        "Total shots": [
+          "18",
+          "8"
+        ],
+        "Shots on target": [
+          "4",
+          "1"
+        ],
+        "Corner kicks": [
+          "11",
+          "3"
+        ],
+        "Yellow cards": [
+          "2",
+          "2"
+        ],
+        "Shots off target": [
+          "14",
+          "7"
+        ],
+        "Offsides": [
+          "2",
+          "1"
+        ],
+        "Fouls": [
+          "14",
+          "15"
+        ]
+      }
+    },
+    {
+      "id": "0tlfoo6t",
+      "date": "2026-01-23T02:00:00.000Z",
+      "round": "Round 3",
+      "homeTeam": "Sporting San Jose",
+      "awayTeam": "Deportivo Saprissa",
+      "homeScore": 0,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "52%",
+          "48%"
+        ],
+        "Total shots": [
+          "18",
+          "8"
+        ],
+        "Shots on target": [
+          "6",
+          "5"
+        ],
+        "Corner kicks": [
+          "7",
+          "3"
+        ],
+        "Yellow cards": [
+          "2",
+          "2"
+        ],
+        "Shots off target": [
+          "12",
+          "3"
+        ],
+        "Offsides": [
+          "5",
+          "5"
+        ],
+        "Fouls": [
+          "13",
+          "16"
+        ]
+      }
+    },
+    {
+      "id": "IJkRsCal",
+      "date": "2026-01-23T00:00:00.000Z",
+      "round": "Round 3",
+      "homeTeam": "Municipal Liberia",
+      "awayTeam": "Municipal Perez Zeledon",
+      "homeScore": 1,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "48%",
+          "52%"
+        ],
+        "Total shots": [
+          "14",
+          "10"
+        ],
+        "Shots on target": [
+          "3",
+          "3"
+        ],
+        "Corner kicks": [
+          "8",
+          "5"
+        ],
+        "Yellow cards": [
+          "4",
+          "4"
+        ],
+        "Shots off target": [
+          "11",
+          "7"
+        ],
+        "Offsides": [
+          "0",
+          "2"
+        ],
+        "Fouls": [
+          "11",
+          "16"
+        ]
+      }
+    },
+    {
+      "id": "nasrvUbD",
+      "date": "2026-01-22T02:00:00.000Z",
+      "round": "Round 3",
+      "homeTeam": "Cartagines",
+      "awayTeam": "Alajuelense",
+      "homeScore": 1,
+      "awayScore": 0,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "59%",
+          "41%"
+        ],
+        "Total shots": [
+          "23",
+          "12"
+        ],
+        "Shots on target": [
+          "5",
+          "5"
+        ],
+        "Corner kicks": [
+          "4",
+          "7"
+        ],
+        "Yellow cards": [
+          "1",
+          "2"
+        ],
+        "Shots off target": [
+          "18",
+          "7"
+        ],
+        "Offsides": [
+          "5",
+          "1"
+        ],
+        "Fouls": [
+          "10",
+          "9"
+        ]
+      }
+    },
+    {
+      "id": "vZwztjU0",
+      "date": "2026-01-22T00:00:00.000Z",
+      "round": "Round 3",
+      "homeTeam": "AD San Carlos",
+      "awayTeam": "Puntarenas",
+      "homeScore": 1,
+      "awayScore": 0,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "60%",
+          "40%"
+        ],
+        "Total shots": [
+          "11",
+          "8"
+        ],
+        "Shots on target": [
+          "3",
+          "2"
+        ],
+        "Corner kicks": [
+          "3",
+          "5"
+        ],
+        "Yellow cards": [
+          "3",
+          "2"
+        ],
+        "Shots off target": [
+          "8",
+          "6"
+        ],
+        "Offsides": [
+          "1",
+          "0"
+        ],
+        "Fouls": [
+          "13",
+          "8"
+        ]
+      }
+    },
+    {
+      "id": "Ygn2qPzg",
+      "date": "2026-01-21T02:00:00.000Z",
+      "round": "Round 3",
+      "homeTeam": "Herediano",
+      "awayTeam": "Guadalupe FC",
+      "homeScore": 4,
+      "awayScore": 0,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "70%",
+          "30%"
+        ],
+        "Total shots": [
+          "4",
+          "2"
+        ],
+        "Shots on target": [
+          "4",
+          "1"
+        ],
+        "Corner kicks": [
+          "8",
+          "1"
+        ],
+        "Yellow cards": [
+          "0",
+          "1"
+        ],
+        "Red cards": [
+          "0",
+          "2"
+        ],
+        "Shots off target": [
+          "0",
+          "1"
+        ],
+        "Offsides": [
+          "0",
+          "2"
+        ],
+        "Fouls": [
+          "8",
+          "9"
+        ]
+      }
+    },
+    {
+      "id": "0rJ0RjF7",
+      "date": "2026-01-19T01:00:00.000Z",
+      "round": "Round 2",
+      "homeTeam": "AD San Carlos",
+      "awayTeam": "Sporting San Jose",
+      "homeScore": 3,
+      "awayScore": 0,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "48%",
+          "52%"
+        ],
+        "Total shots": [
+          "11",
+          "8"
+        ],
+        "Shots on target": [
+          "4",
+          "3"
+        ],
+        "Corner kicks": [
+          "1",
+          "10"
+        ],
+        "Yellow cards": [
+          "1",
+          "4"
+        ],
+        "Shots off target": [
+          "7",
+          "5"
+        ],
+        "Offsides": [
+          "0",
+          "1"
+        ],
+        "Fouls": [
+          "15",
+          "10"
+        ]
+      }
+    },
+    {
+      "id": "4GPiTCpe",
+      "date": "2026-01-19T00:00:00.000Z",
+      "round": "Round 2",
+      "homeTeam": "Guadalupe FC",
+      "awayTeam": "Municipal Liberia",
+      "homeScore": 2,
+      "awayScore": 1,
+      "htHome": 1,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "48%",
+          "52%"
+        ],
+        "Total shots": [
+          "7",
+          "12"
+        ],
+        "Shots on target": [
+          "3",
+          "3"
+        ],
+        "Corner kicks": [
+          "3",
+          "2"
+        ],
+        "Yellow cards": [
+          "3",
+          "2"
+        ],
+        "Shots off target": [
+          "4",
+          "9"
+        ],
+        "Offsides": [
+          "1",
+          "1"
+        ],
+        "Fouls": [
+          "6",
+          "14"
+        ]
+      }
+    },
+    {
+      "id": "hx6nkf7E",
+      "date": "2026-01-18T21:00:00.000Z",
+      "round": "Round 2",
+      "homeTeam": "Municipal Perez Zeledon",
+      "awayTeam": "Alajuelense",
+      "homeScore": 1,
+      "awayScore": 1,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "49%",
+          "51%"
+        ],
+        "Total shots": [
+          "4",
+          "18"
+        ],
+        "Shots on target": [
+          "2",
+          "6"
+        ],
+        "Corner kicks": [
+          "6",
+          "6"
+        ],
+        "Yellow cards": [
+          "6",
+          "1"
+        ],
+        "Shots off target": [
+          "2",
+          "12"
+        ],
+        "Offsides": [
+          "5",
+          "3"
+        ],
+        "Fouls": [
+          "17",
+          "5"
+        ]
+      }
+    },
+    {
+      "id": "l4aemYyR",
+      "date": "2026-01-18T02:00:00.000Z",
+      "round": "Round 2",
+      "homeTeam": "Herediano",
+      "awayTeam": "Deportivo Saprissa",
+      "homeScore": 2,
+      "awayScore": 0,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "56%",
+          "44%"
+        ],
+        "Total shots": [
+          "10",
+          "12"
+        ],
+        "Shots on target": [
+          "5",
+          "4"
+        ],
+        "Corner kicks": [
+          "4",
+          "9"
+        ],
+        "Yellow cards": [
+          "2",
+          "0"
+        ],
+        "Shots off target": [
+          "5",
+          "8"
+        ],
+        "Offsides": [
+          "2",
+          "1"
+        ],
+        "Fouls": [
+          "13",
+          "11"
+        ]
+      }
+    },
+    {
+      "id": "IaRqVYFr",
+      "date": "2026-01-18T00:00:00.000Z",
+      "round": "Round 2",
+      "homeTeam": "Puntarenas",
+      "awayTeam": "Cartagines",
+      "homeScore": 0,
+      "awayScore": 2,
+      "htHome": 0,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "48%",
+          "52%"
+        ],
+        "Total shots": [
+          "5",
+          "5"
+        ],
+        "Shots on target": [
+          "1",
+          "4"
+        ],
+        "Corner kicks": [
+          "8",
+          "2"
+        ],
+        "Yellow cards": [
+          "3",
+          "4"
+        ],
+        "Shots off target": [
+          "4",
+          "1"
+        ],
+        "Offsides": [
+          "0",
+          "1"
+        ],
+        "Fouls": [
+          "11",
+          "11"
+        ]
+      }
+    },
+    {
+      "id": "Q1n5xHN8",
+      "date": "2026-01-16T02:00:00.000Z",
+      "round": "Round 1",
+      "homeTeam": "Alajuelense",
+      "awayTeam": "Municipal Liberia",
+      "homeScore": 2,
+      "awayScore": 2,
+      "htHome": 1,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "52%",
+          "48%"
+        ],
+        "Total shots": [
+          "17",
+          "9"
+        ],
+        "Shots on target": [
+          "5",
+          "3"
+        ],
+        "Corner kicks": [
+          "11",
+          "5"
+        ],
+        "Yellow cards": [
+          "1",
+          "3"
+        ],
+        "Shots off target": [
+          "12",
+          "6"
+        ],
+        "Offsides": [
+          "1",
+          "3"
+        ],
+        "Fouls": [
+          "8",
+          "12"
+        ]
+      }
+    },
+    {
+      "id": "YDAvMewS",
+      "date": "2026-01-15T02:00:00.000Z",
+      "round": "Round 1",
+      "homeTeam": "Cartagines",
+      "awayTeam": "Guadalupe FC",
+      "homeScore": 2,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "62%",
+          "38%"
+        ],
+        "Total shots": [
+          "14",
+          "12"
+        ],
+        "Shots on target": [
+          "6",
+          "4"
+        ],
+        "Corner kicks": [
+          "9",
+          "6"
+        ],
+        "Yellow cards": [
+          "3",
+          "3"
+        ],
+        "Red cards": [
+          "1",
+          "0"
+        ],
+        "Shots off target": [
+          "8",
+          "8"
+        ],
+        "Offsides": [
+          "0",
+          "0"
+        ],
+        "Fouls": [
+          "6",
+          "15"
+        ]
+      }
+    },
+    {
+      "id": "xt6AGZ0k",
+      "date": "2026-01-15T01:00:00.000Z",
+      "round": "Round 1",
+      "homeTeam": "Sporting San Jose",
+      "awayTeam": "Herediano",
+      "homeScore": 0,
+      "awayScore": 2,
+      "htHome": 0,
+      "htAway": 2,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "52%",
+          "48%"
+        ],
+        "Total shots": [
+          "13",
+          "15"
+        ],
+        "Shots on target": [
+          "4",
+          "7"
+        ],
+        "Corner kicks": [
+          "3",
+          "9"
+        ],
+        "Yellow cards": [
+          "5",
+          "3"
+        ],
+        "Shots off target": [
+          "9",
+          "8"
+        ],
+        "Offsides": [
+          "4",
+          "2"
+        ],
+        "Fouls": [
+          "13",
+          "12"
+        ]
+      }
+    },
+    {
+      "id": "YRkDzehL",
+      "date": "2026-01-14T02:00:00.000Z",
+      "round": "Round 1",
+      "homeTeam": "Deportivo Saprissa",
+      "awayTeam": "Puntarenas",
+      "homeScore": 2,
+      "awayScore": 2,
+      "htHome": 0,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "56%",
+          "44%"
+        ],
+        "Total shots": [
+          "24",
+          "9"
+        ],
+        "Shots on target": [
+          "10",
+          "3"
+        ],
+        "Corner kicks": [
+          "3",
+          "4"
+        ],
+        "Yellow cards": [
+          "4",
+          "3"
+        ],
+        "Red cards": [
+          "1",
+          "0"
+        ],
+        "Shots off target": [
+          "14",
+          "6"
+        ],
+        "Offsides": [
+          "4",
+          "3"
+        ],
+        "Fouls": [
+          "16",
+          "20"
+        ]
+      }
+    },
+    {
+      "id": "Ag4IEDV1",
+      "date": "2026-01-13T23:00:00.000Z",
+      "round": "Round 1",
+      "homeTeam": "Municipal Perez Zeledon",
+      "awayTeam": "AD San Carlos",
+      "homeScore": 3,
+      "awayScore": 1,
+      "htHome": 2,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "50%",
+          "50%"
+        ],
+        "Total shots": [
+          "8",
+          "2"
+        ],
+        "Shots on target": [
+          "4",
+          "1"
+        ],
+        "Corner kicks": [
+          "5",
+          "6"
+        ],
+        "Yellow cards": [
+          "1",
+          "2"
+        ],
+        "Red cards": [
+          "0",
+          "1"
+        ],
+        "Shots off target": [
+          "4",
+          "1"
+        ],
+        "Offsides": [
+          "0",
+          "1"
+        ],
+        "Fouls": [
+          "11",
+          "8"
+        ]
+      }
+    },
+    {
+      "id": "tvK3cXWp",
+      "date": "2025-12-21T01:00:00.000Z",
+      "round": "Final",
+      "homeTeam": "Alajuelense",
+      "awayTeam": "Deportivo Saprissa",
+      "homeScore": 3,
+      "awayScore": 1,
+      "htHome": 1,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "53%",
+          "47%"
+        ],
+        "Total shots": [
+          "4",
+          "2"
+        ],
+        "Shots on target": [
+          "3",
+          "2"
+        ],
+        "Corner kicks": [
+          "10",
+          "7"
+        ],
+        "Yellow cards": [
+          "3",
+          "6"
+        ],
+        "Red cards": [
+          "0",
+          "1"
+        ],
+        "Shots off target": [
+          "1",
+          "0"
+        ],
+        "Offsides": [
+          "1",
+          "0"
+        ],
+        "Fouls": [
+          "7",
+          "19"
+        ]
+      }
+    },
+    {
+      "id": "d6rX2g9N",
+      "date": "2025-12-18T02:00:00.000Z",
+      "round": "Final",
+      "homeTeam": "Deportivo Saprissa",
+      "awayTeam": "Alajuelense",
+      "homeScore": 2,
+      "awayScore": 2,
+      "htHome": 1,
+      "htAway": 2,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "71%",
+          "29%"
+        ],
+        "Total shots": [
+          "4",
+          "3"
+        ],
+        "Shots on target": [
+          "3",
+          "2"
+        ],
+        "Corner kicks": [
+          "10",
+          "2"
+        ],
+        "Yellow cards": [
+          "2",
+          "2"
+        ],
+        "Shots off target": [
+          "1",
+          "1"
+        ],
+        "Offsides": [
+          "2",
+          "0"
+        ],
+        "Fouls": [
+          "0",
+          "0"
+        ]
+      }
+    },
+    {
+      "id": "j38IY1Gr",
+      "date": "2025-12-14T22:00:00.000Z",
+      "round": "Semi-finals",
+      "homeTeam": "Deportivo Saprissa",
+      "awayTeam": "Cartagines",
+      "homeScore": 2,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "47%",
+          "53%"
+        ],
+        "Total shots": [
+          "7",
+          "13"
+        ],
+        "Shots on target": [
+          "3",
+          "5"
+        ],
+        "Corner kicks": [
+          "7",
+          "8"
+        ],
+        "Yellow cards": [
+          "2",
+          "2"
+        ],
+        "Shots off target": [
+          "4",
+          "8"
+        ],
+        "Offsides": [
+          "0",
+          "2"
+        ],
+        "Fouls": [
+          "12",
+          "13"
+        ]
+      }
+    },
+    {
+      "id": "IFaZUJF7",
+      "date": "2025-12-14T02:00:00.000Z",
+      "round": "Semi-finals",
+      "homeTeam": "Alajuelense",
+      "awayTeam": "Municipal Liberia",
+      "homeScore": 3,
+      "awayScore": 0,
+      "htHome": 2,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "58%",
+          "42%"
+        ],
+        "Total shots": [
+          "19",
+          "10"
+        ],
+        "Shots on target": [
+          "8",
+          "1"
+        ],
+        "Corner kicks": [
+          "10",
+          "4"
+        ],
+        "Yellow cards": [
+          "1",
+          "2"
+        ],
+        "Shots off target": [
+          "11",
+          "9"
+        ],
+        "Offsides": [
+          "0",
+          "1"
+        ],
+        "Fouls": [
+          "12",
+          "10"
+        ]
+      }
+    },
+    {
+      "id": "WIRovOhL",
+      "date": "2025-12-12T02:00:00.000Z",
+      "round": "Semi-finals",
+      "homeTeam": "Cartagines",
+      "awayTeam": "Deportivo Saprissa",
+      "homeScore": 1,
+      "awayScore": 2,
+      "htHome": 0,
+      "htAway": 2,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "53%",
+          "47%"
+        ],
+        "Total shots": [
+          "13",
+          "20"
+        ],
+        "Shots on target": [
+          "4",
+          "4"
+        ],
+        "Corner kicks": [
+          "5",
+          "4"
+        ],
+        "Yellow cards": [
+          "2",
+          "1"
+        ],
+        "Shots off target": [
+          "9",
+          "16"
+        ],
+        "Offsides": [
+          "3",
+          "0"
+        ],
+        "Fouls": [
+          "12",
+          "12"
+        ]
+      }
+    },
+    {
+      "id": "d0BQWuoe",
+      "date": "2025-12-11T02:00:00.000Z",
+      "round": "Semi-finals",
+      "homeTeam": "Municipal Liberia",
+      "awayTeam": "Alajuelense",
+      "homeScore": 1,
+      "awayScore": 1,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "52%",
+          "48%"
+        ],
+        "Total shots": [
+          "15",
+          "11"
+        ],
+        "Shots on target": [
+          "5",
+          "4"
+        ],
+        "Corner kicks": [
+          "4",
+          "8"
+        ],
+        "Yellow cards": [
+          "2",
+          "3"
+        ],
+        "Shots off target": [
+          "10",
+          "7"
+        ],
+        "Offsides": [
+          "1",
+          "0"
+        ],
+        "Fouls": [
+          "13",
+          "14"
+        ]
+      }
+    },
+    {
+      "id": "j70lXBu3",
+      "date": "2025-12-07T22:00:00.000Z",
+      "round": "Round 18",
+      "homeTeam": "Cartagines",
+      "awayTeam": "Municipal Liberia",
+      "homeScore": 0,
+      "awayScore": 0,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "60%",
+          "40%"
+        ],
+        "Total shots": [
+          "7",
+          "10"
+        ],
+        "Shots on target": [
+          "2",
+          "2"
+        ],
+        "Corner kicks": [
+          "3",
+          "5"
+        ],
+        "Yellow cards": [
+          "2",
+          "3"
+        ],
+        "Shots off target": [
+          "5",
+          "8"
+        ],
+        "Offsides": [
+          "1",
+          "0"
+        ],
+        "Fouls": [
+          "8",
+          "6"
+        ]
+      }
+    },
+    {
+      "id": "p0KmcEHF",
+      "date": "2025-12-07T22:00:00.000Z",
+      "round": "Round 18",
+      "homeTeam": "Municipal Perez Zeledon",
+      "awayTeam": "Herediano",
+      "homeScore": 1,
+      "awayScore": 3,
+      "htHome": 0,
+      "htAway": 2,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "55%",
+          "45%"
+        ],
+        "Total shots": [
+          "13",
+          "6"
+        ],
+        "Shots on target": [
+          "7",
+          "3"
+        ],
+        "Corner kicks": [
+          "12",
+          "3"
+        ],
+        "Yellow cards": [
+          "0",
+          "2"
+        ],
+        "Shots off target": [
+          "6",
+          "3"
+        ],
+        "Offsides": [
+          "0",
+          "0"
+        ],
+        "Fouls": [
+          "6",
+          "16"
+        ]
+      }
+    },
+    {
+      "id": "4WLowgQq",
+      "date": "2025-12-07T02:00:00.000Z",
+      "round": "Round 18",
+      "homeTeam": "AD San Carlos",
+      "awayTeam": "Alajuelense",
+      "homeScore": 0,
+      "awayScore": 2,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "50%",
+          "50%"
+        ],
+        "Total shots": [
+          "9",
+          "16"
+        ],
+        "Shots on target": [
+          "2",
+          "8"
+        ],
+        "Corner kicks": [
+          "5",
+          "8"
+        ],
+        "Yellow cards": [
+          "2",
+          "1"
+        ],
+        "Red cards": [
+          "1",
+          "0"
+        ],
+        "Shots off target": [
+          "7",
+          "8"
+        ],
+        "Offsides": [
+          "1",
+          "1"
+        ],
+        "Fouls": [
+          "12",
+          "6"
+        ]
+      }
+    },
+    {
+      "id": "6F8dehnS",
+      "date": "2025-12-06T23:00:00.000Z",
+      "round": "Round 18",
+      "homeTeam": "Puntarenas",
+      "awayTeam": "Guadalupe FC",
+      "homeScore": 4,
+      "awayScore": 0,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "51%",
+          "49%"
+        ],
+        "Total shots": [
+          "6",
+          "8"
+        ],
+        "Shots on target": [
+          "5",
+          "2"
+        ],
+        "Corner kicks": [
+          "1",
+          "7"
+        ],
+        "Yellow cards": [
+          "3",
+          "2"
+        ],
+        "Shots off target": [
+          "1",
+          "6"
+        ],
+        "Offsides": [
+          "0",
+          "1"
+        ],
+        "Fouls": [
+          "11",
+          "16"
+        ]
+      }
+    },
+    {
+      "id": "SSNA1EjB",
+      "date": "2025-12-06T01:00:00.000Z",
+      "round": "Round 18",
+      "homeTeam": "Sporting San Jose",
+      "awayTeam": "Deportivo Saprissa",
+      "homeScore": 0,
+      "awayScore": 0,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "53%",
+          "47%"
+        ],
+        "Total shots": [
+          "16",
+          "16"
+        ],
+        "Shots on target": [
+          "5",
+          "6"
+        ],
+        "Corner kicks": [
+          "6",
+          "0"
+        ],
+        "Yellow cards": [
+          "2",
+          "1"
+        ],
+        "Shots off target": [
+          "11",
+          "10"
+        ],
+        "Offsides": [
+          "0",
+          "0"
+        ],
+        "Fouls": [
+          "11",
+          "3"
+        ]
+      }
+    },
+    {
+      "id": "AV3De1tB",
+      "date": "2025-11-30T23:00:00.000Z",
+      "round": "Round 17",
+      "homeTeam": "Puntarenas",
+      "awayTeam": "Sporting San Jose",
+      "homeScore": 0,
+      "awayScore": 0,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "64%",
+          "36%"
+        ],
+        "Total shots": [
+          "9",
+          "8"
+        ],
+        "Shots on target": [
+          "2",
+          "2"
+        ],
+        "Corner kicks": [
+          "5",
+          "4"
+        ],
+        "Yellow cards": [
+          "2",
+          "2"
+        ],
+        "Shots off target": [
+          "7",
+          "6"
+        ],
+        "Offsides": [
+          "1",
+          "1"
+        ],
+        "Fouls": [
+          "15",
+          "19"
+        ]
+      }
+    },
+    {
+      "id": "CzxmutdU",
+      "date": "2025-11-30T22:00:00.000Z",
+      "round": "Round 17",
+      "homeTeam": "Deportivo Saprissa",
+      "awayTeam": "Municipal Liberia",
+      "homeScore": 3,
+      "awayScore": 1,
+      "htHome": 2,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "53%",
+          "47%"
+        ],
+        "Total shots": [
+          "9",
+          "26"
+        ],
+        "Shots on target": [
+          "6",
+          "9"
+        ],
+        "Corner kicks": [
+          "9",
+          "10"
+        ],
+        "Yellow cards": [
+          "2",
+          "2"
+        ],
+        "Shots off target": [
+          "3",
+          "17"
+        ],
+        "Offsides": [
+          "0",
+          "2"
+        ],
+        "Fouls": [
+          "15",
+          "19"
+        ]
+      }
+    },
+    {
+      "id": "OE55cNBb",
+      "date": "2025-11-30T17:00:00.000Z",
+      "round": "Round 17",
+      "homeTeam": "Cartagines",
+      "awayTeam": "Alajuelense",
+      "homeScore": 0,
+      "awayScore": 2,
+      "htHome": 0,
+      "htAway": 2,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "53%",
+          "47%"
+        ],
+        "Total shots": [
+          "17",
+          "9"
+        ],
+        "Shots on target": [
+          "7",
+          "3"
+        ],
+        "Corner kicks": [
+          "9",
+          "5"
+        ],
+        "Yellow cards": [
+          "1",
+          "5"
+        ],
+        "Red cards": [
+          "1",
+          "0"
+        ],
+        "Shots off target": [
+          "10",
+          "6"
+        ],
+        "Offsides": [
+          "1",
+          "0"
+        ],
+        "Fouls": [
+          "7",
+          "5"
+        ]
+      }
+    },
+    {
+      "id": "G8rvs2RH",
+      "date": "2025-11-30T02:00:00.000Z",
+      "round": "Round 17",
+      "homeTeam": "Herediano",
+      "awayTeam": "AD San Carlos",
+      "homeScore": 3,
+      "awayScore": 1,
+      "htHome": 2,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "51%",
+          "49%"
+        ],
+        "Total shots": [
+          "21",
+          "5"
+        ],
+        "Shots on target": [
+          "8",
+          "3"
+        ],
+        "Corner kicks": [
+          "9",
+          "1"
+        ],
+        "Yellow cards": [
+          "1",
+          "2"
+        ],
+        "Shots off target": [
+          "13",
+          "2"
+        ],
+        "Offsides": [
+          "1",
+          "0"
+        ],
+        "Fouls": [
+          "13",
+          "13"
+        ]
+      }
+    },
+    {
+      "id": "2aHdaqsn",
+      "date": "2025-11-29T23:00:00.000Z",
+      "round": "Round 17",
+      "homeTeam": "Guadalupe FC",
+      "awayTeam": "Municipal Perez Zeledon",
+      "homeScore": 2,
+      "awayScore": 3,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "50%",
+          "50%"
+        ],
+        "Total shots": [
+          "13",
+          "15"
+        ],
+        "Shots on target": [
+          "3",
+          "7"
+        ],
+        "Corner kicks": [
+          "7",
+          "5"
+        ],
+        "Yellow cards": [
+          "4",
+          "3"
+        ],
+        "Shots off target": [
+          "10",
+          "8"
+        ],
+        "Offsides": [
+          "1",
+          "0"
+        ],
+        "Fouls": [
+          "15",
+          "9"
+        ]
+      }
+    },
+    {
+      "id": "ldiNppSh",
+      "date": "2025-11-25T02:00:00.000Z",
+      "round": "Round 16",
+      "homeTeam": "Municipal Perez Zeledon",
+      "awayTeam": "Cartagines",
+      "homeScore": 1,
+      "awayScore": 3,
+      "htHome": 1,
+      "htAway": 2,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "49%",
+          "51%"
+        ],
+        "Total shots": [
+          "12",
+          "11"
+        ],
+        "Shots on target": [
+          "6",
+          "5"
+        ],
+        "Corner kicks": [
+          "7",
+          "4"
+        ],
+        "Yellow cards": [
+          "2",
+          "1"
+        ],
+        "Shots off target": [
+          "6",
+          "6"
+        ],
+        "Offsides": [
+          "1",
+          "1"
+        ],
+        "Fouls": [
+          "12",
+          "16"
+        ]
+      }
+    },
+    {
+      "id": "UiKdUOsC",
+      "date": "2025-11-24T00:00:00.000Z",
+      "round": "Round 16",
+      "homeTeam": "AD San Carlos",
+      "awayTeam": "Puntarenas",
+      "homeScore": 1,
+      "awayScore": 1,
+      "htHome": 1,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "59%",
+          "41%"
+        ],
+        "Total shots": [
+          "9",
+          "13"
+        ],
+        "Shots on target": [
+          "2",
+          "3"
+        ],
+        "Corner kicks": [
+          "3",
+          "5"
+        ],
+        "Yellow cards": [
+          "2",
+          "1"
+        ],
+        "Shots off target": [
+          "7",
+          "10"
+        ],
+        "Offsides": [
+          "1",
+          "4"
+        ],
+        "Fouls": [
+          "11",
+          "9"
+        ]
+      }
+    },
+    {
+      "id": "repWrOd5",
+      "date": "2025-11-23T22:00:00.000Z",
+      "round": "Round 16",
+      "homeTeam": "Alajuelense",
+      "awayTeam": "Sporting San Jose",
+      "homeScore": 2,
+      "awayScore": 0,
+      "htHome": 2,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "58%",
+          "42%"
+        ],
+        "Total shots": [
+          "1",
+          "4"
+        ],
+        "Shots on target": [
+          "1",
+          "1"
+        ],
+        "Corner kicks": [
+          "8",
+          "7"
+        ],
+        "Yellow cards": [
+          "3",
+          "4"
+        ],
+        "Shots off target": [
+          "0",
+          "3"
+        ],
+        "Offsides": [
+          "0",
+          "0"
+        ],
+        "Fouls": [
+          "11",
+          "15"
+        ]
+      }
+    },
+    {
+      "id": "xIN4S2CO",
+      "date": "2025-11-23T02:00:00.000Z",
+      "round": "Round 16",
+      "homeTeam": "Deportivo Saprissa",
+      "awayTeam": "Herediano",
+      "homeScore": 1,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "54%",
+          "46%"
+        ],
+        "Total shots": [
+          "10",
+          "17"
+        ],
+        "Shots on target": [
+          "5",
+          "5"
+        ],
+        "Corner kicks": [
+          "4",
+          "4"
+        ],
+        "Yellow cards": [
+          "4",
+          "2"
+        ],
+        "Shots off target": [
+          "5",
+          "12"
+        ],
+        "Offsides": [
+          "3",
+          "3"
+        ],
+        "Fouls": [
+          "16",
+          "11"
+        ]
+      }
+    },
+    {
+      "id": "tWmFn6ct",
+      "date": "2025-11-22T21:00:00.000Z",
+      "round": "Round 16",
+      "homeTeam": "Municipal Liberia",
+      "awayTeam": "Guadalupe FC",
+      "homeScore": 1,
+      "awayScore": 0,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "65%",
+          "35%"
+        ],
+        "Total shots": [
+          "13",
+          "4"
+        ],
+        "Shots on target": [
+          "6",
+          "1"
+        ],
+        "Corner kicks": [
+          "16",
+          "2"
+        ],
+        "Yellow cards": [
+          "1",
+          "1"
+        ],
+        "Shots off target": [
+          "7",
+          "3"
+        ],
+        "Offsides": [
+          "1",
+          "0"
+        ],
+        "Fouls": [
+          "13",
+          "11"
+        ]
+      }
+    },
+    {
+      "id": "nemxmFyI",
+      "date": "2025-11-21T02:00:00.000Z",
+      "round": "Round 5",
+      "homeTeam": "Alajuelense",
+      "awayTeam": "Cartagines",
+      "homeScore": 0,
+      "awayScore": 0,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "58%",
+          "42%"
+        ],
+        "Total shots": [
+          "14",
+          "11"
+        ],
+        "Shots on target": [
+          "4",
+          "1"
+        ],
+        "Corner kicks": [
+          "6",
+          "8"
+        ],
+        "Yellow cards": [
+          "1",
+          "3"
+        ],
+        "Red cards": [
+          "1",
+          "0"
+        ],
+        "Shots off target": [
+          "10",
+          "10"
+        ],
+        "Offsides": [
+          "3",
+          "2"
+        ],
+        "Fouls": [
+          "9",
+          "12"
+        ]
+      }
+    },
+    {
+      "id": "tdX5LTbs",
+      "date": "2025-11-03T01:00:00.000Z",
+      "round": "Round 15",
+      "homeTeam": "Municipal Liberia",
+      "awayTeam": "Alajuelense",
+      "homeScore": 1,
+      "awayScore": 4,
+      "htHome": 0,
+      "htAway": 3,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "62%",
+          "38%"
+        ],
+        "Total shots": [
+          "10",
+          "4"
+        ],
+        "Shots on target": [
+          "2",
+          "4"
+        ],
+        "Corner kicks": [
+          "10",
+          "0"
+        ],
+        "Yellow cards": [
+          "3",
+          "2"
+        ],
+        "Shots off target": [
+          "8",
+          "0"
+        ],
+        "Offsides": [
+          "1",
+          "0"
+        ],
+        "Fouls": [
+          "12",
+          "10"
+        ]
+      }
+    },
+    {
+      "id": "rLTMHob6",
+      "date": "2025-11-02T17:00:00.000Z",
+      "round": "Round 15",
+      "homeTeam": "Cartagines",
+      "awayTeam": "AD San Carlos",
+      "homeScore": 2,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "46%",
+          "54%"
+        ],
+        "Total shots": [
+          "19",
+          "9"
+        ],
+        "Shots on target": [
+          "4",
+          "3"
+        ],
+        "Corner kicks": [
+          "7",
+          "3"
+        ],
+        "Yellow cards": [
+          "1",
+          "3"
+        ],
+        "Shots off target": [
+          "15",
+          "6"
+        ],
+        "Offsides": [
+          "3",
+          "0"
+        ],
+        "Fouls": [
+          "15",
+          "15"
+        ]
+      }
+    },
+    {
+      "id": "WtAHwTKP",
+      "date": "2025-11-02T02:00:00.000Z",
+      "round": "Round 15",
+      "homeTeam": "Guadalupe FC",
+      "awayTeam": "Deportivo Saprissa",
+      "homeScore": 1,
+      "awayScore": 3,
+      "htHome": 0,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "46%",
+          "54%"
+        ],
+        "Total shots": [
+          "15",
+          "11"
+        ],
+        "Shots on target": [
+          "5",
+          "5"
+        ],
+        "Corner kicks": [
+          "6",
+          "3"
+        ],
+        "Yellow cards": [
+          "2",
+          "1"
+        ],
+        "Shots off target": [
+          "10",
+          "6"
+        ],
+        "Offsides": [
+          "1",
+          "0"
+        ],
+        "Fouls": [
+          "16",
+          "13"
+        ]
+      }
+    },
+    {
+      "id": "hjZJSjkA",
+      "date": "2025-11-02T00:00:00.000Z",
+      "round": "Round 15",
+      "homeTeam": "Puntarenas",
+      "awayTeam": "Municipal Perez Zeledon",
+      "homeScore": 1,
+      "awayScore": 2,
+      "htHome": 0,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "56%",
+          "44%"
+        ],
+        "Total shots": [
+          "17",
+          "15"
+        ],
+        "Shots on target": [
+          "5",
+          "6"
+        ],
+        "Corner kicks": [
+          "5",
+          "0"
+        ],
+        "Yellow cards": [
+          "2",
+          "4"
+        ],
+        "Shots off target": [
+          "12",
+          "9"
+        ],
+        "Offsides": [
+          "1",
+          "0"
+        ],
+        "Fouls": [
+          "12",
+          "13"
+        ]
+      }
+    },
+    {
+      "id": "4zIVFPSI",
+      "date": "2025-11-01T02:00:00.000Z",
+      "round": "Round 15",
+      "homeTeam": "Sporting San Jose",
+      "awayTeam": "Herediano",
+      "homeScore": 0,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "46%",
+          "54%"
+        ],
+        "Total shots": [
+          "12",
+          "7"
+        ],
+        "Shots on target": [
+          "2",
+          "3"
+        ],
+        "Corner kicks": [
+          "6",
+          "9"
+        ],
+        "Yellow cards": [
+          "4",
+          "5"
+        ],
+        "Shots off target": [
+          "10",
+          "4"
+        ],
+        "Offsides": [
+          "1",
+          "0"
+        ],
+        "Fouls": [
+          "15",
+          "18"
+        ]
+      }
+    },
+    {
+      "id": "jRjlY6rm",
+      "date": "2025-10-26T23:00:00.000Z",
+      "round": "Round 14",
+      "homeTeam": "Alajuelense",
+      "awayTeam": "Municipal Perez Zeledon",
+      "homeScore": 3,
+      "awayScore": 2,
+      "htHome": 1,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "58%",
+          "42%"
+        ],
+        "Total shots": [
+          "15",
+          "11"
+        ],
+        "Shots on target": [
+          "7",
+          "3"
+        ],
+        "Corner kicks": [
+          "7",
+          "4"
+        ],
+        "Yellow cards": [
+          "2",
+          "2"
+        ],
+        "Shots off target": [
+          "8",
+          "8"
+        ],
+        "Offsides": [
+          "1",
+          "0"
+        ],
+        "Fouls": [
+          "14",
+          "14"
+        ]
+      }
+    },
+    {
+      "id": "pQozRkyK",
+      "date": "2025-10-26T17:00:00.000Z",
+      "round": "Round 14",
+      "homeTeam": "Deportivo Saprissa",
+      "awayTeam": "Puntarenas",
+      "homeScore": 2,
+      "awayScore": 1,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "54%",
+          "46%"
+        ],
+        "Total shots": [
+          "15",
+          "18"
+        ],
+        "Shots on target": [
+          "4",
+          "5"
+        ],
+        "Corner kicks": [
+          "10",
+          "9"
+        ],
+        "Yellow cards": [
+          "3",
+          "0"
+        ],
+        "Shots off target": [
+          "11",
+          "13"
+        ],
+        "Offsides": [
+          "2",
+          "0"
+        ],
+        "Fouls": [
+          "12",
+          "10"
+        ]
+      }
+    },
+    {
+      "id": "SlHkJwID",
+      "date": "2025-10-26T02:00:00.000Z",
+      "round": "Round 14",
+      "homeTeam": "Herediano",
+      "awayTeam": "Cartagines",
+      "homeScore": 2,
+      "awayScore": 1,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "49%",
+          "51%"
+        ],
+        "Total shots": [
+          "11",
+          "16"
+        ],
+        "Shots on target": [
+          "5",
+          "3"
+        ],
+        "Corner kicks": [
+          "2",
+          "4"
+        ],
+        "Yellow cards": [
+          "5",
+          "2"
+        ],
+        "Shots off target": [
+          "6",
+          "13"
+        ],
+        "Offsides": [
+          "0",
+          "2"
+        ],
+        "Fouls": [
+          "12",
+          "13"
+        ]
+      }
+    },
+    {
+      "id": "E5NSQUJM",
+      "date": "2025-10-26T00:00:00.000Z",
+      "round": "Round 14",
+      "homeTeam": "Sporting San Jose",
+      "awayTeam": "Municipal Liberia",
+      "homeScore": 3,
+      "awayScore": 0,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "47%",
+          "53%"
+        ],
+        "Total shots": [
+          "20",
+          "12"
+        ],
+        "Shots on target": [
+          "5",
+          "1"
+        ],
+        "Corner kicks": [
+          "5",
+          "6"
+        ],
+        "Yellow cards": [
+          "2",
+          "3"
+        ],
+        "Red cards": [
+          "0",
+          "1"
+        ],
+        "Shots off target": [
+          "15",
+          "11"
+        ],
+        "Offsides": [
+          "0",
+          "0"
+        ],
+        "Fouls": [
+          "12",
+          "11"
+        ]
+      }
+    },
+    {
+      "id": "tYIsLam1",
+      "date": "2025-10-25T01:00:00.000Z",
+      "round": "Round 14",
+      "homeTeam": "AD San Carlos",
+      "awayTeam": "Guadalupe FC",
+      "homeScore": 1,
+      "awayScore": 1,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "52%",
+          "48%"
+        ],
+        "Total shots": [
+          "12",
+          "14"
+        ],
+        "Shots on target": [
+          "4",
+          "5"
+        ],
+        "Corner kicks": [
+          "7",
+          "4"
+        ],
+        "Yellow cards": [
+          "4",
+          "5"
+        ],
+        "Shots off target": [
+          "8",
+          "9"
+        ],
+        "Offsides": [
+          "0",
+          "0"
+        ],
+        "Fouls": [
+          "12",
+          "17"
+        ]
+      }
+    },
+    {
+      "id": "plEbL8sp",
+      "date": "2025-10-21T02:00:00.000Z",
+      "round": "Round 13",
+      "homeTeam": "Guadalupe FC",
+      "awayTeam": "Sporting San Jose",
+      "homeScore": 2,
+      "awayScore": 2,
+      "htHome": 1,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "45%",
+          "55%"
+        ],
+        "Total shots": [
+          "13",
+          "14"
+        ],
+        "Shots on target": [
+          "6",
+          "4"
+        ],
+        "Corner kicks": [
+          "3",
+          "2"
+        ],
+        "Yellow cards": [
+          "7",
+          "3"
+        ],
+        "Red cards": [
+          "0",
+          "1"
+        ],
+        "Shots off target": [
+          "7",
+          "10"
+        ],
+        "Offsides": [
+          "0",
+          "0"
+        ],
+        "Fouls": [
+          "22",
+          "13"
+        ]
+      }
+    },
+    {
+      "id": "QcM6JnCd",
+      "date": "2025-10-20T00:00:00.000Z",
+      "round": "Round 13",
+      "homeTeam": "Alajuelense",
+      "awayTeam": "Deportivo Saprissa",
+      "homeScore": 2,
+      "awayScore": 0,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "47%",
+          "53%"
+        ],
+        "Total shots": [
+          "15",
+          "8"
+        ],
+        "Shots on target": [
+          "7",
+          "1"
+        ],
+        "Corner kicks": [
+          "4",
+          "8"
+        ],
+        "Yellow cards": [
+          "4",
+          "4"
+        ],
+        "Shots off target": [
+          "8",
+          "7"
+        ],
+        "Offsides": [
+          "3",
+          "2"
+        ],
+        "Fouls": [
+          "13",
+          "12"
+        ]
+      }
+    },
+    {
+      "id": "Ii9hsj43",
+      "date": "2025-10-19T21:00:00.000Z",
+      "round": "Round 13",
+      "homeTeam": "Municipal Liberia",
+      "awayTeam": "Herediano",
+      "homeScore": 1,
+      "awayScore": 0,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "54%",
+          "46%"
+        ],
+        "Total shots": [
+          "11",
+          "8"
+        ],
+        "Shots on target": [
+          "6",
+          "1"
+        ],
+        "Corner kicks": [
+          "4",
+          "5"
+        ],
+        "Yellow cards": [
+          "3",
+          "3"
+        ],
+        "Red cards": [
+          "0",
+          "1"
+        ],
+        "Shots off target": [
+          "5",
+          "7"
+        ],
+        "Offsides": [
+          "1",
+          "0"
+        ],
+        "Fouls": [
+          "16",
+          "19"
+        ]
+      }
+    },
+    {
+      "id": "EJ21uUYF",
+      "date": "2025-10-19T01:00:00.000Z",
+      "round": "Round 13",
+      "homeTeam": "Municipal Perez Zeledon",
+      "awayTeam": "AD San Carlos",
+      "homeScore": 1,
+      "awayScore": 3,
+      "htHome": 1,
+      "htAway": 2,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "55%",
+          "45%"
+        ],
+        "Total shots": [
+          "6",
+          "9"
+        ],
+        "Shots on target": [
+          "3",
+          "5"
+        ],
+        "Corner kicks": [
+          "10",
+          "3"
+        ],
+        "Yellow cards": [
+          "5",
+          "4"
+        ],
+        "Shots off target": [
+          "3",
+          "4"
+        ],
+        "Offsides": [
+          "3",
+          "0"
+        ],
+        "Fouls": [
+          "17",
+          "10"
+        ]
+      }
+    },
+    {
+      "id": "KIUYMLIl",
+      "date": "2025-10-18T23:00:00.000Z",
+      "round": "Round 13",
+      "homeTeam": "Puntarenas",
+      "awayTeam": "Cartagines",
+      "homeScore": 1,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "49%",
+          "51%"
+        ],
+        "Total shots": [
+          "21",
+          "6"
+        ],
+        "Shots on target": [
+          "5",
+          "4"
+        ],
+        "Corner kicks": [
+          "3",
+          "4"
+        ],
+        "Yellow cards": [
+          "2",
+          "4"
+        ],
+        "Shots off target": [
+          "16",
+          "2"
+        ],
+        "Offsides": [
+          "1",
+          "4"
+        ],
+        "Fouls": [
+          "7",
+          "21"
+        ]
+      }
+    },
+    {
+      "id": "pQVBUCKc",
+      "date": "2025-10-17T02:00:00.000Z",
+      "round": "Round 12",
+      "homeTeam": "Herediano",
+      "awayTeam": "Alajuelense",
+      "homeScore": 1,
+      "awayScore": 3,
+      "htHome": 0,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "45%",
+          "55%"
+        ],
+        "Total shots": [
+          "8",
+          "9"
+        ],
+        "Shots on target": [
+          "3",
+          "4"
+        ],
+        "Corner kicks": [
+          "4",
+          "3"
+        ],
+        "Yellow cards": [
+          "6",
+          "3"
+        ],
+        "Shots off target": [
+          "5",
+          "5"
+        ],
+        "Offsides": [
+          "2",
+          "2"
+        ],
+        "Fouls": [
+          "17",
+          "14"
+        ]
+      }
+    },
+    {
+      "id": "6sRW69Sj",
+      "date": "2025-10-16T02:00:00.000Z",
+      "round": "Round 12",
+      "homeTeam": "Cartagines",
+      "awayTeam": "Guadalupe FC",
+      "homeScore": 1,
+      "awayScore": 1,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "52%",
+          "48%"
+        ],
+        "Total shots": [
+          "16",
+          "8"
+        ],
+        "Shots on target": [
+          "3",
+          "1"
+        ],
+        "Corner kicks": [
+          "4",
+          "7"
+        ],
+        "Yellow cards": [
+          "2",
+          "3"
+        ],
+        "Shots off target": [
+          "13",
+          "7"
+        ],
+        "Offsides": [
+          "1",
+          "1"
+        ],
+        "Fouls": [
+          "6",
+          "9"
+        ]
+      }
+    },
+    {
+      "id": "ABu1CV4T",
+      "date": "2025-10-16T01:30:00.000Z",
+      "round": "Round 12",
+      "homeTeam": "AD San Carlos",
+      "awayTeam": "Deportivo Saprissa",
+      "homeScore": 0,
+      "awayScore": 2,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "54%",
+          "46%"
+        ],
+        "Total shots": [
+          "15",
+          "12"
+        ],
+        "Shots on target": [
+          "2",
+          "4"
+        ],
+        "Corner kicks": [
+          "5",
+          "6"
+        ],
+        "Yellow cards": [
+          "3",
+          "4"
+        ],
+        "Shots off target": [
+          "13",
+          "8"
+        ],
+        "Offsides": [
+          "0",
+          "2"
+        ],
+        "Fouls": [
+          "15",
+          "18"
+        ]
+      }
+    },
+    {
+      "id": "xOQEJ7Tg",
+      "date": "2025-10-15T22:30:00.000Z",
+      "round": "Round 12",
+      "homeTeam": "Sporting San Jose",
+      "awayTeam": "Municipal Perez Zeledon",
+      "homeScore": 0,
+      "awayScore": 0,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "64%",
+          "36%"
+        ],
+        "Total shots": [
+          "18",
+          "10"
+        ],
+        "Shots on target": [
+          "7",
+          "1"
+        ],
+        "Corner kicks": [
+          "9",
+          "1"
+        ],
+        "Yellow cards": [
+          "4",
+          "2"
+        ],
+        "Shots off target": [
+          "11",
+          "9"
+        ],
+        "Offsides": [
+          "0",
+          "2"
+        ],
+        "Fouls": [
+          "15",
+          "10"
+        ]
+      }
+    },
+    {
+      "id": "nyiLf6wR",
+      "date": "2025-10-15T02:00:00.000Z",
+      "round": "Round 12",
+      "homeTeam": "Municipal Liberia",
+      "awayTeam": "Puntarenas",
+      "homeScore": 0,
+      "awayScore": 0,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "49%",
+          "51%"
+        ],
+        "Total shots": [
+          "16",
+          "15"
+        ],
+        "Shots on target": [
+          "5",
+          "2"
+        ],
+        "Corner kicks": [
+          "4",
+          "4"
+        ],
+        "Yellow cards": [
+          "1",
+          "4"
+        ],
+        "Shots off target": [
+          "11",
+          "13"
+        ],
+        "Offsides": [
+          "2",
+          "2"
+        ],
+        "Fouls": [
+          "17",
+          "11"
+        ]
+      }
+    },
+    {
+      "id": "EqnhEizH",
+      "date": "2025-09-30T02:00:00.000Z",
+      "round": "Round 11",
+      "homeTeam": "Municipal Perez Zeledon",
+      "awayTeam": "Municipal Liberia",
+      "homeScore": 1,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "55%",
+          "45%"
+        ],
+        "Total shots": [
+          "11",
+          "8"
+        ],
+        "Shots on target": [
+          "3",
+          "4"
+        ],
+        "Corner kicks": [
+          "7",
+          "7"
+        ],
+        "Yellow cards": [
+          "4",
+          "5"
+        ],
+        "Shots off target": [
+          "8",
+          "4"
+        ],
+        "Offsides": [
+          "2",
+          "0"
+        ],
+        "Fouls": [
+          "12",
+          "16"
+        ]
+      }
+    },
+    {
+      "id": "0tMIahLN",
+      "date": "2025-09-29T00:00:00.000Z",
+      "round": "Round 11",
+      "homeTeam": "AD San Carlos",
+      "awayTeam": "Sporting San Jose",
+      "homeScore": 0,
+      "awayScore": 3,
+      "htHome": 0,
+      "htAway": 3,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "57%",
+          "43%"
+        ],
+        "Total shots": [
+          "9",
+          "5"
+        ],
+        "Shots on target": [
+          "1",
+          "3"
+        ],
+        "Corner kicks": [
+          "2",
+          "4"
+        ],
+        "Yellow cards": [
+          "6",
+          "4"
+        ],
+        "Red cards": [
+          "1",
+          "0"
+        ],
+        "Shots off target": [
+          "8",
+          "2"
+        ],
+        "Offsides": [
+          "2",
+          "1"
+        ],
+        "Fouls": [
+          "20",
+          "20"
+        ]
+      }
+    },
+    {
+      "id": "KQ2kfWro",
+      "date": "2025-09-28T22:00:00.000Z",
+      "round": "Round 11",
+      "homeTeam": "Deportivo Saprissa",
+      "awayTeam": "Cartagines",
+      "homeScore": 2,
+      "awayScore": 1,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "58%",
+          "42%"
+        ],
+        "Total shots": [
+          "19",
+          "8"
+        ],
+        "Shots on target": [
+          "9",
+          "3"
+        ],
+        "Corner kicks": [
+          "9",
+          "3"
+        ],
+        "Yellow cards": [
+          "5",
+          "4"
+        ],
+        "Shots off target": [
+          "10",
+          "5"
+        ],
+        "Offsides": [
+          "2",
+          "0"
+        ],
+        "Fouls": [
+          "9",
+          "7"
+        ]
+      }
+    },
+    {
+      "id": "p4fyIZzh",
+      "date": "2025-09-28T02:00:00.000Z",
+      "round": "Round 11",
+      "homeTeam": "Herediano",
+      "awayTeam": "Guadalupe FC",
+      "homeScore": 0,
+      "awayScore": 2,
+      "htHome": 0,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "48%",
+          "52%"
+        ],
+        "Total shots": [
+          "10",
+          "11"
+        ],
+        "Shots on target": [
+          "6",
+          "7"
+        ],
+        "Corner kicks": [
+          "5",
+          "5"
+        ],
+        "Yellow cards": [
+          "1",
+          "4"
+        ],
+        "Shots off target": [
+          "4",
+          "4"
+        ],
+        "Offsides": [
+          "0",
+          "0"
+        ],
+        "Fouls": [
+          "15",
+          "14"
+        ]
+      }
+    },
+    {
+      "id": "6JrpGD54",
+      "date": "2025-09-27T02:00:00.000Z",
+      "round": "Round 11",
+      "homeTeam": "Alajuelense",
+      "awayTeam": "Puntarenas",
+      "homeScore": 2,
+      "awayScore": 2,
+      "htHome": 1,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "44%",
+          "56%"
+        ],
+        "Total shots": [
+          "10",
+          "11"
+        ],
+        "Shots on target": [
+          "6",
+          "2"
+        ],
+        "Corner kicks": [
+          "9",
+          "5"
+        ],
+        "Yellow cards": [
+          "3",
+          "3"
+        ],
+        "Shots off target": [
+          "4",
+          "9"
+        ],
+        "Offsides": [
+          "1",
+          "2"
+        ],
+        "Fouls": [
+          "9",
+          "8"
+        ]
+      }
+    },
+    {
+      "id": "bFAQYOG7",
+      "date": "2025-09-23T02:00:00.000Z",
+      "round": "Round 10",
+      "homeTeam": "Deportivo Saprissa",
+      "awayTeam": "Municipal Perez Zeledon",
+      "homeScore": 3,
+      "awayScore": 0,
+      "htHome": 2,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "50%",
+          "50%"
+        ],
+        "Total shots": [
+          "10",
+          "10"
+        ],
+        "Shots on target": [
+          "3",
+          "3"
+        ],
+        "Corner kicks": [
+          "8",
+          "5"
+        ],
+        "Yellow cards": [
+          "0",
+          "2"
+        ],
+        "Red cards": [
+          "0",
+          "1"
+        ],
+        "Shots off target": [
+          "7",
+          "7"
+        ],
+        "Offsides": [
+          "0",
+          "0"
+        ],
+        "Fouls": [
+          "0",
+          "0"
+        ]
+      }
+    },
+    {
+      "id": "fLjpog6U",
+      "date": "2025-09-22T00:00:00.000Z",
+      "round": "Round 10",
+      "homeTeam": "Municipal Liberia",
+      "awayTeam": "AD San Carlos",
+      "homeScore": 1,
+      "awayScore": 0,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "44%",
+          "56%"
+        ],
+        "Total shots": [
+          "10",
+          "6"
+        ],
+        "Shots on target": [
+          "5",
+          "3"
+        ],
+        "Corner kicks": [
+          "2",
+          "4"
+        ],
+        "Yellow cards": [
+          "2",
+          "2"
+        ],
+        "Shots off target": [
+          "5",
+          "3"
+        ],
+        "Offsides": [
+          "0",
+          "2"
+        ],
+        "Fouls": [
+          "13",
+          "14"
+        ]
+      }
+    },
+    {
+      "id": "ULwyO72k",
+      "date": "2025-09-21T21:00:00.000Z",
+      "round": "Round 10",
+      "homeTeam": "Cartagines",
+      "awayTeam": "Sporting San Jose",
+      "homeScore": 1,
+      "awayScore": 0,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "44%",
+          "56%"
+        ],
+        "Total shots": [
+          "7",
+          "12"
+        ],
+        "Shots on target": [
+          "3",
+          "4"
+        ],
+        "Corner kicks": [
+          "4",
+          "3"
+        ],
+        "Yellow cards": [
+          "2",
+          "2"
+        ],
+        "Shots off target": [
+          "4",
+          "8"
+        ],
+        "Offsides": [
+          "2",
+          "0"
+        ],
+        "Fouls": [
+          "11",
+          "11"
+        ]
+      }
+    },
+    {
+      "id": "ENhDdS8E",
+      "date": "2025-09-21T02:00:00.000Z",
+      "round": "Round 10",
+      "homeTeam": "Guadalupe FC",
+      "awayTeam": "Alajuelense",
+      "homeScore": 0,
+      "awayScore": 0,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "47%",
+          "53%"
+        ],
+        "Total shots": [
+          "8",
+          "13"
+        ],
+        "Shots on target": [
+          "3",
+          "5"
+        ],
+        "Corner kicks": [
+          "2",
+          "4"
+        ],
+        "Yellow cards": [
+          "4",
+          "2"
+        ],
+        "Shots off target": [
+          "5",
+          "8"
+        ],
+        "Offsides": [
+          "1",
+          "0"
+        ],
+        "Fouls": [
+          "12",
+          "12"
+        ]
+      }
+    },
+    {
+      "id": "W0U13zMb",
+      "date": "2025-09-20T22:00:00.000Z",
+      "round": "Round 10",
+      "homeTeam": "Puntarenas",
+      "awayTeam": "Herediano",
+      "homeScore": 1,
+      "awayScore": 0,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "40%",
+          "60%"
+        ],
+        "Total shots": [
+          "7",
+          "9"
+        ],
+        "Shots on target": [
+          "2",
+          "1"
+        ],
+        "Corner kicks": [
+          "2",
+          "7"
+        ],
+        "Yellow cards": [
+          "1",
+          "2"
+        ],
+        "Red cards": [
+          "0",
+          "1"
+        ],
+        "Shots off target": [
+          "5",
+          "8"
+        ],
+        "Offsides": [
+          "2",
+          "2"
+        ],
+        "Fouls": [
+          "16",
+          "8"
+        ]
+      }
+    },
+    {
+      "id": "xMchmOV0",
+      "date": "2025-09-19T02:00:00.000Z",
+      "round": "Round 9",
+      "homeTeam": "Cartagines",
+      "awayTeam": "Municipal Perez Zeledon",
+      "homeScore": 1,
+      "awayScore": 1,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "57%",
+          "43%"
+        ],
+        "Total shots": [
+          "19",
+          "18"
+        ],
+        "Shots on target": [
+          "10",
+          "8"
+        ],
+        "Corner kicks": [
+          "6",
+          "5"
+        ],
+        "Yellow cards": [
+          "1",
+          "2"
+        ],
+        "Shots off target": [
+          "9",
+          "10"
+        ],
+        "Offsides": [
+          "1",
+          "3"
+        ],
+        "Fouls": [
+          "14",
+          "4"
+        ]
+      }
+    },
+    {
+      "id": "byn1o20D",
+      "date": "2025-09-18T02:00:00.000Z",
+      "round": "Round 9",
+      "homeTeam": "Herediano",
+      "awayTeam": "Deportivo Saprissa",
+      "homeScore": 3,
+      "awayScore": 3,
+      "htHome": 2,
+      "htAway": 2,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "53%",
+          "47%"
+        ],
+        "Total shots": [
+          "14",
+          "11"
+        ],
+        "Shots on target": [
+          "6",
+          "5"
+        ],
+        "Corner kicks": [
+          "3",
+          "4"
+        ],
+        "Shots off target": [
+          "8",
+          "6"
+        ],
+        "Offsides": [
+          "2",
+          "2"
+        ],
+        "Fouls": [
+          "12",
+          "10"
+        ]
+      }
+    },
+    {
+      "id": "jTgTly75",
+      "date": "2025-09-18T00:00:00.000Z",
+      "round": "Round 9",
+      "homeTeam": "Sporting San Jose",
+      "awayTeam": "Puntarenas",
+      "homeScore": 1,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "60%",
+          "40%"
+        ],
+        "Total shots": [
+          "17",
+          "7"
+        ],
+        "Shots on target": [
+          "7",
+          "2"
+        ],
+        "Corner kicks": [
+          "6",
+          "4"
+        ],
+        "Yellow cards": [
+          "3",
+          "2"
+        ],
+        "Red cards": [
+          "0",
+          "1"
+        ],
+        "Shots off target": [
+          "10",
+          "5"
+        ],
+        "Offsides": [
+          "1",
+          "0"
+        ],
+        "Fouls": [
+          "9",
+          "12"
+        ]
+      }
+    },
+    {
+      "id": "OG2ChJ7t",
+      "date": "2025-09-17T22:00:00.000Z",
+      "round": "Round 9",
+      "homeTeam": "Guadalupe FC",
+      "awayTeam": "Municipal Liberia",
+      "homeScore": 2,
+      "awayScore": 2,
+      "htHome": 2,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "44%",
+          "56%"
+        ],
+        "Total shots": [
+          "9",
+          "10"
+        ],
+        "Shots on target": [
+          "5",
+          "4"
+        ],
+        "Corner kicks": [
+          "1",
+          "2"
+        ],
+        "Yellow cards": [
+          "4",
+          "1"
+        ],
+        "Shots off target": [
+          "4",
+          "6"
+        ],
+        "Offsides": [
+          "2",
+          "0"
+        ],
+        "Fouls": [
+          "17",
+          "8"
+        ]
+      }
+    },
+    {
+      "id": "IFeLjcxg",
+      "date": "2025-09-17T02:00:00.000Z",
+      "round": "Round 9",
+      "homeTeam": "Alajuelense",
+      "awayTeam": "AD San Carlos",
+      "homeScore": 2,
+      "awayScore": 0,
+      "htHome": 2,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "65%",
+          "35%"
+        ],
+        "Total shots": [
+          "13",
+          "4"
+        ],
+        "Shots on target": [
+          "3",
+          "0"
+        ],
+        "Corner kicks": [
+          "7",
+          "2"
+        ],
+        "Yellow cards": [
+          "0",
+          "1"
+        ],
+        "Red cards": [
+          "0",
+          "1"
+        ],
+        "Shots off target": [
+          "10",
+          "4"
+        ],
+        "Offsides": [
+          "1",
+          "1"
+        ],
+        "Fouls": [
+          "9",
+          "3"
+        ],
+        "Goalkeeper saves": [
+          "0",
+          "1"
+        ]
+      }
+    },
+    {
+      "id": "jk7Izone",
+      "date": "2025-09-14T21:00:00.000Z",
+      "round": "Round 8",
+      "homeTeam": "AD San Carlos",
+      "awayTeam": "Cartagines",
+      "homeScore": 0,
+      "awayScore": 2,
+      "htHome": 0,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "58%",
+          "42%"
+        ],
+        "Total shots": [
+          "14",
+          "6"
+        ],
+        "Shots on target": [
+          "1",
+          "4"
+        ],
+        "Corner kicks": [
+          "5",
+          "2"
+        ],
+        "Yellow cards": [
+          "3",
+          "3"
+        ],
+        "Shots off target": [
+          "13",
+          "2"
+        ],
+        "Offsides": [
+          "0",
+          "3"
+        ],
+        "Fouls": [
+          "12",
+          "16"
+        ],
+        "Goalkeeper saves": [
+          "2",
+          "1"
+        ]
+      }
+    },
+    {
+      "id": "bX3dVkAF",
+      "date": "2025-09-14T21:00:00.000Z",
+      "round": "Round 8",
+      "homeTeam": "Municipal Perez Zeledon",
+      "awayTeam": "Puntarenas",
+      "homeScore": 1,
+      "awayScore": 1,
+      "htHome": 1,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "60%",
+          "40%"
+        ],
+        "Total shots": [
+          "13",
+          "7"
+        ],
+        "Shots on target": [
+          "6",
+          "4"
+        ],
+        "Corner kicks": [
+          "7",
+          "7"
+        ],
+        "Yellow cards": [
+          "2",
+          "6"
+        ],
+        "Red cards": [
+          "0",
+          "1"
+        ],
+        "Shots off target": [
+          "7",
+          "3"
+        ],
+        "Offsides": [
+          "1",
+          "0"
+        ],
+        "Fouls": [
+          "0",
+          "0"
+        ],
+        "Goalkeeper saves": [
+          "3",
+          "5"
+        ]
+      }
+    },
+    {
+      "id": "x4zFICQ9",
+      "date": "2025-09-14T17:00:00.000Z",
+      "round": "Round 8",
+      "homeTeam": "Deportivo Saprissa",
+      "awayTeam": "Guadalupe FC",
+      "homeScore": 3,
+      "awayScore": 1,
+      "htHome": 2,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "61%",
+          "39%"
+        ],
+        "Total shots": [
+          "16",
+          "9"
+        ],
+        "Shots on target": [
+          "7",
+          "5"
+        ],
+        "Corner kicks": [
+          "11",
+          "4"
+        ],
+        "Yellow cards": [
+          "4",
+          "3"
+        ],
+        "Shots off target": [
+          "9",
+          "4"
+        ],
+        "Offsides": [
+          "1",
+          "0"
+        ],
+        "Fouls": [
+          "7",
+          "14"
+        ],
+        "Goalkeeper saves": [
+          "4",
+          "4"
+        ]
+      }
+    },
+    {
+      "id": "pUwNGjeM",
+      "date": "2025-09-14T02:00:00.000Z",
+      "round": "Round 8",
+      "homeTeam": "Alajuelense",
+      "awayTeam": "Municipal Liberia",
+      "homeScore": 2,
+      "awayScore": 0,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "48%",
+          "52%"
+        ],
+        "Total shots": [
+          "16",
+          "8"
+        ],
+        "Shots on target": [
+          "4",
+          "4"
+        ],
+        "Corner kicks": [
+          "5",
+          "2"
+        ],
+        "Yellow cards": [
+          "1",
+          "3"
+        ],
+        "Shots off target": [
+          "12",
+          "4"
+        ],
+        "Offsides": [
+          "1",
+          "0"
+        ],
+        "Fouls": [
+          "8",
+          "15"
+        ],
+        "Goalkeeper saves": [
+          "4",
+          "2"
+        ]
+      }
+    },
+    {
+      "id": "Uefpkp1l",
+      "date": "2025-09-13T23:00:00.000Z",
+      "round": "Round 8",
+      "homeTeam": "Herediano",
+      "awayTeam": "Sporting San Jose",
+      "homeScore": 0,
+      "awayScore": 0,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "52%",
+          "48%"
+        ],
+        "Total shots": [
+          "13",
+          "8"
+        ],
+        "Shots on target": [
+          "5",
+          "5"
+        ],
+        "Corner kicks": [
+          "5",
+          "5"
+        ],
+        "Yellow cards": [
+          "2",
+          "1"
+        ],
+        "Shots off target": [
+          "8",
+          "3"
+        ],
+        "Offsides": [
+          "0",
+          "1"
+        ],
+        "Fouls": [
+          "11",
+          "6"
+        ],
+        "Goalkeeper saves": [
+          "5",
+          "5"
+        ]
+      }
+    },
+    {
+      "id": "IsKVqkP8",
+      "date": "2025-09-12T02:00:00.000Z",
+      "round": "Round 7",
+      "homeTeam": "Guadalupe FC",
+      "awayTeam": "AD San Carlos",
+      "homeScore": 2,
+      "awayScore": 3,
+      "htHome": 0,
+      "htAway": 3,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "48%",
+          "52%"
+        ],
+        "Total shots": [
+          "24",
+          "6"
+        ],
+        "Shots on target": [
+          "7",
+          "5"
+        ],
+        "Corner kicks": [
+          "12",
+          "3"
+        ],
+        "Yellow cards": [
+          "3",
+          "1"
+        ],
+        "Shots off target": [
+          "17",
+          "1"
+        ],
+        "Offsides": [
+          "0",
+          "1"
+        ],
+        "Fouls": [
+          "14",
+          "15"
+        ],
+        "Goalkeeper saves": [
+          "2",
+          "5"
+        ]
+      }
+    },
+    {
+      "id": "pMeO9i1L",
+      "date": "2025-09-11T02:00:00.000Z",
+      "round": "Round 7",
+      "homeTeam": "Cartagines",
+      "awayTeam": "Herediano",
+      "homeScore": 2,
+      "awayScore": 0,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "38%",
+          "62%"
+        ],
+        "Total shots": [
+          "9",
+          "10"
+        ],
+        "Shots on target": [
+          "4",
+          "1"
+        ],
+        "Corner kicks": [
+          "1",
+          "8"
+        ],
+        "Yellow cards": [
+          "3",
+          "3"
+        ],
+        "Shots off target": [
+          "5",
+          "9"
+        ],
+        "Offsides": [
+          "1",
+          "0"
+        ],
+        "Fouls": [
+          "12",
+          "9"
+        ],
+        "Goalkeeper saves": [
+          "1",
+          "2"
+        ]
+      }
+    },
+    {
+      "id": "UZI9x7Hr",
+      "date": "2025-09-11T01:00:00.000Z",
+      "round": "Round 7",
+      "homeTeam": "Puntarenas",
+      "awayTeam": "Deportivo Saprissa",
+      "homeScore": 3,
+      "awayScore": 1,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "49%",
+          "51%"
+        ],
+        "Total shots": [
+          "11",
+          "9"
+        ],
+        "Shots on target": [
+          "6",
+          "3"
+        ],
+        "Corner kicks": [
+          "3",
+          "4"
+        ],
+        "Yellow cards": [
+          "3",
+          "3"
+        ],
+        "Shots off target": [
+          "5",
+          "6"
+        ],
+        "Offsides": [
+          "1",
+          "1"
+        ],
+        "Fouls": [
+          "20",
+          "20"
+        ],
+        "Goalkeeper saves": [
+          "2",
+          "3"
+        ]
+      }
+    },
+    {
+      "id": "hh2tazm3",
+      "date": "2025-09-07T23:00:00.000Z",
+      "round": "Round 7",
+      "homeTeam": "Municipal Liberia",
+      "awayTeam": "Sporting San Jose",
+      "homeScore": 2,
+      "awayScore": 1,
+      "htHome": 1,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "55%",
+          "45%"
+        ],
+        "Total shots": [
+          "14",
+          "9"
+        ],
+        "Shots on target": [
+          "5",
+          "2"
+        ],
+        "Corner kicks": [
+          "7",
+          "4"
+        ],
+        "Yellow cards": [
+          "4",
+          "3"
+        ],
+        "Shots off target": [
+          "9",
+          "7"
+        ],
+        "Offsides": [
+          "2",
+          "2"
+        ],
+        "Fouls": [
+          "17",
+          "16"
+        ],
+        "Goalkeeper saves": [
+          "1",
+          "3"
+        ]
+      }
+    },
+    {
+      "id": "E9DvrTgL",
+      "date": "2025-09-07T02:00:00.000Z",
+      "round": "Round 7",
+      "homeTeam": "Municipal Perez Zeledon",
+      "awayTeam": "Alajuelense",
+      "homeScore": 2,
+      "awayScore": 1,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "50%",
+          "50%"
+        ],
+        "Total shots": [
+          "12",
+          "8"
+        ],
+        "Shots on target": [
+          "7",
+          "3"
+        ],
+        "Corner kicks": [
+          "10",
+          "4"
+        ],
+        "Yellow cards": [
+          "4",
+          "1"
+        ],
+        "Shots off target": [
+          "5",
+          "5"
+        ],
+        "Offsides": [
+          "2",
+          "0"
+        ],
+        "Fouls": [
+          "5",
+          "7"
+        ],
+        "Goalkeeper saves": [
+          "2",
+          "5"
+        ]
+      }
+    },
+    {
+      "id": "Gln6KYec",
+      "date": "2025-09-02T21:00:00.000Z",
+      "round": "Round 6",
+      "homeTeam": "AD San Carlos",
+      "awayTeam": "Municipal Perez Zeledon",
+      "homeScore": 0,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "49%",
+          "51%"
+        ],
+        "Total shots": [
+          "12",
+          "12"
+        ],
+        "Shots on target": [
+          "2",
+          "5"
+        ],
+        "Corner kicks": [
+          "5",
+          "9"
+        ],
+        "Yellow cards": [
+          "5",
+          "3"
+        ],
+        "Shots off target": [
+          "10",
+          "7"
+        ],
+        "Offsides": [
+          "1",
+          "4"
+        ],
+        "Fouls": [
+          "0",
+          "0"
+        ],
+        "Goalkeeper saves": [
+          "4",
+          "2"
+        ]
+      }
+    },
+    {
+      "id": "QmXqMoX1",
+      "date": "2025-09-01T00:00:00.000Z",
+      "round": "Round 6",
+      "homeTeam": "Herediano",
+      "awayTeam": "Municipal Liberia",
+      "homeScore": 1,
+      "awayScore": 0,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "52%",
+          "48%"
+        ],
+        "Total shots": [
+          "8",
+          "8"
+        ],
+        "Shots on target": [
+          "2",
+          "2"
+        ],
+        "Corner kicks": [
+          "1",
+          "6"
+        ],
+        "Yellow cards": [
+          "1",
+          "1"
+        ],
+        "Shots off target": [
+          "6",
+          "6"
+        ],
+        "Offsides": [
+          "0",
+          "5"
+        ],
+        "Fouls": [
+          "12",
+          "15"
+        ],
+        "Goalkeeper saves": [
+          "2",
+          "1"
+        ]
+      }
+    },
+    {
+      "id": "xpKgyXfd",
+      "date": "2025-08-31T17:00:00.000Z",
+      "round": "Round 6",
+      "homeTeam": "Cartagines",
+      "awayTeam": "Puntarenas",
+      "homeScore": 0,
+      "awayScore": 0,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "42%",
+          "58%"
+        ],
+        "Total shots": [
+          "6",
+          "11"
+        ],
+        "Shots on target": [
+          "3",
+          "1"
+        ],
+        "Corner kicks": [
+          "4",
+          "2"
+        ],
+        "Yellow cards": [
+          "1",
+          "4"
+        ],
+        "Shots off target": [
+          "3",
+          "10"
+        ],
+        "Offsides": [
+          "0",
+          "1"
+        ],
+        "Fouls": [
+          "12",
+          "11"
+        ],
+        "Goalkeeper saves": [
+          "1",
+          "3"
+        ]
+      }
+    },
+    {
+      "id": "zaI198md",
+      "date": "2025-08-31T02:00:00.000Z",
+      "round": "Round 6",
+      "homeTeam": "Deportivo Saprissa",
+      "awayTeam": "Alajuelense",
+      "homeScore": 0,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "51%",
+          "49%"
+        ],
+        "Total shots": [
+          "14",
+          "6"
+        ],
+        "Shots on target": [
+          "4",
+          "2"
+        ],
+        "Corner kicks": [
+          "9",
+          "5"
+        ],
+        "Yellow cards": [
+          "3",
+          "5"
+        ],
+        "Shots off target": [
+          "10",
+          "4"
+        ],
+        "Offsides": [
+          "1",
+          "1"
+        ],
+        "Fouls": [
+          "15",
+          "14"
+        ],
+        "Goalkeeper saves": [
+          "1",
+          "4"
+        ]
+      }
+    },
+    {
+      "id": "Knh5TTvS",
+      "date": "2025-08-30T02:00:00.000Z",
+      "round": "Round 6",
+      "homeTeam": "Sporting San Jose",
+      "awayTeam": "Guadalupe FC",
+      "homeScore": 2,
+      "awayScore": 0,
+      "htHome": 2,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "52%",
+          "48%"
+        ],
+        "Total shots": [
+          "8",
+          "5"
+        ],
+        "Shots on target": [
+          "4",
+          "1"
+        ],
+        "Corner kicks": [
+          "9",
+          "3"
+        ],
+        "Yellow cards": [
+          "2",
+          "2"
+        ],
+        "Shots off target": [
+          "4",
+          "4"
+        ],
+        "Offsides": [
+          "0",
+          "2"
+        ],
+        "Fouls": [
+          "16",
+          "13"
+        ]
+      }
+    },
+    {
+      "id": "2oKgBUIq",
+      "date": "2025-08-25T00:00:00.000Z",
+      "round": "Round 5",
+      "homeTeam": "AD San Carlos",
+      "awayTeam": "Herediano",
+      "homeScore": 2,
+      "awayScore": 2,
+      "htHome": 2,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "52%",
+          "48%"
+        ],
+        "Total shots": [
+          "5",
+          "14"
+        ],
+        "Shots on target": [
+          "2",
+          "7"
+        ],
+        "Corner kicks": [
+          "2",
+          "3"
+        ],
+        "Yellow cards": [
+          "2",
+          "3"
+        ],
+        "Shots off target": [
+          "3",
+          "7"
+        ],
+        "Offsides": [
+          "0",
+          "0"
+        ],
+        "Fouls": [
+          "6",
+          "4"
+        ]
+      }
+    },
+    {
+      "id": "zaI198md",
+      "date": "2025-08-31T02:00:00.000Z",
+      "round": "Round 6",
+      "homeTeam": "Deportivo Saprissa",
+      "awayTeam": "Alajuelense",
+      "homeScore": 0,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "51%",
+          "49%"
+        ],
+        "Total shots": [
+          "14",
+          "6"
+        ],
+        "Shots on target": [
+          "4",
+          "2"
+        ],
+        "Corner kicks": [
+          "9",
+          "5"
+        ],
+        "Yellow cards": [
+          "3",
+          "5"
+        ],
+        "Shots off target": [
+          "10",
+          "4"
+        ],
+        "Offsides": [
+          "1",
+          "1"
+        ],
+        "Fouls": [
+          "15",
+          "14"
+        ],
+        "Goalkeeper saves": [
+          "1",
+          "4"
+        ]
+      }
+    },
+    {
+      "id": "Knh5TTvS",
+      "date": "2025-08-30T02:00:00.000Z",
+      "round": "Round 6",
+      "homeTeam": "Sporting San Jose",
+      "awayTeam": "Guadalupe FC",
+      "homeScore": 2,
+      "awayScore": 0,
+      "htHome": 2,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "52%",
+          "48%"
+        ],
+        "Total shots": [
+          "8",
+          "5"
+        ],
+        "Shots on target": [
+          "4",
+          "1"
+        ],
+        "Corner kicks": [
+          "9",
+          "3"
+        ],
+        "Yellow cards": [
+          "2",
+          "2"
+        ],
+        "Shots off target": [
+          "4",
+          "4"
+        ],
+        "Offsides": [
+          "0",
+          "2"
+        ],
+        "Fouls": [
+          "16",
+          "13"
+        ]
+      }
+    },
+    {
+      "id": "2oKgBUIq",
+      "date": "2025-08-25T00:00:00.000Z",
+      "round": "Round 5",
+      "homeTeam": "AD San Carlos",
+      "awayTeam": "Herediano",
+      "homeScore": 2,
+      "awayScore": 2,
+      "htHome": 2,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "52%",
+          "48%"
+        ],
+        "Total shots": [
+          "5",
+          "14"
+        ],
+        "Shots on target": [
+          "2",
+          "7"
+        ],
+        "Corner kicks": [
+          "2",
+          "3"
+        ],
+        "Yellow cards": [
+          "2",
+          "3"
+        ],
+        "Shots off target": [
+          "3",
+          "7"
+        ],
+        "Offsides": [
+          "0",
+          "0"
+        ],
+        "Fouls": [
+          "6",
+          "4"
+        ]
+      }
+    },
+    {
+      "id": "G4nf4VOr",
+      "date": "2025-08-24T02:00:00.000Z",
+      "round": "Round 5",
+      "homeTeam": "Deportivo Saprissa",
+      "awayTeam": "Sporting San Jose",
+      "homeScore": 4,
+      "awayScore": 0,
+      "htHome": 2,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "54%",
+          "46%"
+        ],
+        "Total shots": [
+          "15",
+          "11"
+        ],
+        "Shots on target": [
+          "8",
+          "2"
+        ],
+        "Corner kicks": [
+          "5",
+          "10"
+        ],
+        "Yellow cards": [
+          "1",
+          "3"
+        ],
+        "Shots off target": [
+          "7",
+          "9"
+        ],
+        "Offsides": [
+          "2",
+          "1"
+        ],
+        "Fouls": [
+          "20",
+          "15"
+        ]
+      }
+    },
+    {
+      "id": "OvkdWpDa",
+      "date": "2025-08-23T23:00:00.000Z",
+      "round": "Round 5",
+      "homeTeam": "Puntarenas",
+      "awayTeam": "Municipal Liberia",
+      "homeScore": 0,
+      "awayScore": 3,
+      "htHome": 0,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "52%",
+          "48%"
+        ],
+        "Total shots": [
+          "9",
+          "17"
+        ],
+        "Shots on target": [
+          "3",
+          "9"
+        ],
+        "Corner kicks": [
+          "3",
+          "7"
+        ],
+        "Yellow cards": [
+          "2",
+          "2"
+        ],
+        "Red cards": [
+          "1",
+          "0"
+        ],
+        "Shots off target": [
+          "6",
+          "8"
+        ],
+        "Offsides": [
+          "4",
+          "1"
+        ],
+        "Fouls": [
+          "11",
+          "13"
+        ]
+      }
+    },
+    {
+      "id": "bZGf5din",
+      "date": "2025-08-23T02:00:00.000Z",
+      "round": "Round 5",
+      "homeTeam": "Municipal Perez Zeledon",
+      "awayTeam": "Guadalupe FC",
+      "homeScore": 4,
+      "awayScore": 0,
+      "htHome": 2,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "62%",
+          "38%"
+        ],
+        "Total shots": [
+          "15",
+          "9"
+        ],
+        "Shots on target": [
+          "11",
+          "2"
+        ],
+        "Corner kicks": [
+          "8",
+          "2"
+        ],
+        "Yellow cards": [
+          "3",
+          "2"
+        ],
+        "Shots off target": [
+          "4",
+          "7"
+        ],
+        "Offsides": [
+          "2",
+          "2"
+        ],
+        "Fouls": [
+          "10",
+          "14"
+        ]
+      }
+    },
+    {
+      "id": "GG8wJLKh",
+      "date": "2025-08-18T00:00:00.000Z",
+      "round": "Round 4",
+      "homeTeam": "Guadalupe FC",
+      "awayTeam": "Cartagines",
+      "homeScore": 0,
+      "awayScore": 0,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "45%",
+          "55%"
+        ],
+        "Total shots": [
+          "9",
+          "6"
+        ],
+        "Shots on target": [
+          "1",
+          "3"
+        ],
+        "Corner kicks": [
+          "1",
+          "5"
+        ],
+        "Yellow cards": [
+          "4",
+          "2"
+        ],
+        "Shots off target": [
+          "8",
+          "3"
+        ],
+        "Offsides": [
+          "1",
+          "3"
+        ],
+        "Fouls": [
+          "11",
+          "13"
+        ]
+      }
+    },
+    {
+      "id": "Cr2nHak5",
+      "date": "2025-08-17T21:00:00.000Z",
+      "round": "Round 4",
+      "homeTeam": "Municipal Liberia",
+      "awayTeam": "Deportivo Saprissa",
+      "homeScore": 2,
+      "awayScore": 2,
+      "htHome": 2,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "53%",
+          "47%"
+        ],
+        "Total shots": [
+          "9",
+          "11"
+        ],
+        "Shots on target": [
+          "3",
+          "7"
+        ],
+        "Corner kicks": [
+          "2",
+          "6"
+        ],
+        "Yellow cards": [
+          "2",
+          "3"
+        ],
+        "Shots off target": [
+          "6",
+          "4"
+        ],
+        "Offsides": [
+          "1",
+          "0"
+        ],
+        "Fouls": [
+          "16",
+          "22"
+        ]
+      }
+    },
+    {
+      "id": "8j5VKsjt",
+      "date": "2025-08-17T02:00:00.000Z",
+      "round": "Round 4",
+      "homeTeam": "Herediano",
+      "awayTeam": "Municipal Perez Zeledon",
+      "homeScore": 2,
+      "awayScore": 1,
+      "htHome": 1,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "52%",
+          "48%"
+        ],
+        "Total shots": [
+          "15",
+          "9"
+        ],
+        "Shots on target": [
+          "5",
+          "6"
+        ],
+        "Corner kicks": [
+          "4",
+          "2"
+        ],
+        "Yellow cards": [
+          "1",
+          "3"
+        ],
+        "Shots off target": [
+          "10",
+          "3"
+        ],
+        "Offsides": [
+          "1",
+          "5"
+        ],
+        "Fouls": [
+          "6",
+          "11"
+        ]
+      }
+    },
+    {
+      "id": "pd0fFwKH",
+      "date": "2025-08-17T00:00:00.000Z",
+      "round": "Round 4",
+      "homeTeam": "Puntarenas",
+      "awayTeam": "Alajuelense",
+      "homeScore": 0,
+      "awayScore": 0,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "44%",
+          "56%"
+        ],
+        "Total shots": [
+          "9",
+          "15"
+        ],
+        "Shots on target": [
+          "4",
+          "3"
+        ],
+        "Corner kicks": [
+          "2",
+          "9"
+        ],
+        "Yellow cards": [
+          "1",
+          "0"
+        ],
+        "Shots off target": [
+          "5",
+          "12"
+        ],
+        "Offsides": [
+          "1",
+          "1"
+        ],
+        "Fouls": [
+          "15",
+          "19"
+        ]
+      }
+    },
+    {
+      "id": "lrfKdV3j",
+      "date": "2025-08-16T01:00:00.000Z",
+      "round": "Round 4",
+      "homeTeam": "Sporting San Jose",
+      "awayTeam": "AD San Carlos",
+      "homeScore": 1,
+      "awayScore": 1,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "56%",
+          "44%"
+        ],
+        "Total shots": [
+          "10",
+          "11"
+        ],
+        "Shots on target": [
+          "3",
+          "4"
+        ],
+        "Corner kicks": [
+          "1",
+          "0"
+        ],
+        "Yellow cards": [
+          "3",
+          "3"
+        ],
+        "Red cards": [
+          "1",
+          "0"
+        ],
+        "Shots off target": [
+          "7",
+          "7"
+        ],
+        "Offsides": [
+          "1",
+          "2"
+        ],
+        "Fouls": [
+          "25",
+          "20"
+        ]
+      }
+    },
+    {
+      "id": "dCkFIi9C",
+      "date": "2025-08-10T23:00:00.000Z",
+      "round": "Round 3",
+      "homeTeam": "Alajuelense",
+      "awayTeam": "Herediano",
+      "homeScore": 0,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "61%",
+          "39%"
+        ],
+        "Total shots": [
+          "21",
+          "9"
+        ],
+        "Shots on target": [
+          "8",
+          "3"
+        ],
+        "Corner kicks": [
+          "12",
+          "1"
+        ],
+        "Yellow cards": [
+          "4",
+          "6"
+        ],
+        "Shots off target": [
+          "13",
+          "6"
+        ],
+        "Offsides": [
+          "3",
+          "1"
+        ],
+        "Fouls": [
+          "17",
+          "9"
+        ]
+      }
+    },
+    {
+      "id": "SWcbMZ9m",
+      "date": "2025-08-10T17:00:00.000Z",
+      "round": "Round 3",
+      "homeTeam": "Cartagines",
+      "awayTeam": "Deportivo Saprissa",
+      "homeScore": 3,
+      "awayScore": 0,
+      "htHome": 2,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "51%",
+          "49%"
+        ],
+        "Total shots": [
+          "13",
+          "9"
+        ],
+        "Shots on target": [
+          "5",
+          "3"
+        ],
+        "Corner kicks": [
+          "4",
+          "2"
+        ],
+        "Yellow cards": [
+          "4",
+          "4"
+        ],
+        "Shots off target": [
+          "8",
+          "6"
+        ],
+        "Offsides": [
+          "2",
+          "0"
+        ],
+        "Fouls": [
+          "14",
+          "13"
+        ]
+      }
+    },
+    {
+      "id": "29hNGVwP",
+      "date": "2025-08-10T02:00:00.000Z",
+      "round": "Round 3",
+      "homeTeam": "Municipal Perez Zeledon",
+      "awayTeam": "Sporting San Jose",
+      "homeScore": 2,
+      "awayScore": 1,
+      "htHome": 1,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "44%",
+          "56%"
+        ],
+        "Total shots": [
+          "9",
+          "14"
+        ],
+        "Shots on target": [
+          "3",
+          "3"
+        ],
+        "Corner kicks": [
+          "2",
+          "5"
+        ],
+        "Yellow cards": [
+          "1",
+          "5"
+        ],
+        "Red cards": [
+          "0",
+          "1"
+        ],
+        "Shots off target": [
+          "6",
+          "11"
+        ],
+        "Offsides": [
+          "1",
+          "3"
+        ],
+        "Fouls": [
+          "13",
+          "11"
+        ]
+      }
+    },
+    {
+      "id": "8nHRRenQ",
+      "date": "2025-08-10T01:30:00.000Z",
+      "round": "Round 3",
+      "homeTeam": "AD San Carlos",
+      "awayTeam": "Municipal Liberia",
+      "homeScore": 0,
+      "awayScore": 2,
+      "htHome": 0,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "53%",
+          "47%"
+        ],
+        "Total shots": [
+          "14",
+          "17"
+        ],
+        "Shots on target": [
+          "6",
+          "4"
+        ],
+        "Corner kicks": [
+          "4",
+          "5"
+        ],
+        "Yellow cards": [
+          "3",
+          "2"
+        ],
+        "Shots off target": [
+          "8",
+          "13"
+        ],
+        "Offsides": [
+          "2",
+          "1"
+        ],
+        "Fouls": [
+          "14",
+          "14"
+        ]
+      }
+    },
+    {
+      "id": "0pd6KDv0",
+      "date": "2025-08-09T23:00:00.000Z",
+      "round": "Round 3",
+      "homeTeam": "Guadalupe FC",
+      "awayTeam": "Puntarenas",
+      "homeScore": 3,
+      "awayScore": 2,
+      "htHome": 0,
+      "htAway": 2,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "49%",
+          "51%"
+        ],
+        "Total shots": [
+          "13",
+          "12"
+        ],
+        "Shots on target": [
+          "5",
+          "9"
+        ],
+        "Corner kicks": [
+          "4",
+          "9"
+        ],
+        "Yellow cards": [
+          "2",
+          "3"
+        ],
+        "Red cards": [
+          "1",
+          "2"
+        ],
+        "Shots off target": [
+          "8",
+          "3"
+        ],
+        "Offsides": [
+          "2",
+          "0"
+        ],
+        "Fouls": [
+          "16",
+          "11"
+        ]
+      }
+    },
+    {
+      "id": "Y9xP7zef",
+      "date": "2025-08-04T00:00:00.000Z",
+      "round": "Round 2",
+      "homeTeam": "Alajuelense",
+      "awayTeam": "Guadalupe FC",
+      "homeScore": 1,
+      "awayScore": 0,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "61%",
+          "39%"
+        ],
+        "Total shots": [
+          "14",
+          "8"
+        ],
+        "Shots on target": [
+          "4",
+          "3"
+        ],
+        "Corner kicks": [
+          "7",
+          "4"
+        ],
+        "Yellow cards": [
+          "1",
+          "4"
+        ],
+        "Shots off target": [
+          "10",
+          "5"
+        ],
+        "Offsides": [
+          "0",
+          "1"
+        ],
+        "Fouls": [
+          "11",
+          "14"
+        ]
+      }
+    },
+    {
+      "id": "tztX5EP6",
+      "date": "2025-08-03T21:00:00.000Z",
+      "round": "Round 2",
+      "homeTeam": "Municipal Liberia",
+      "awayTeam": "Municipal Perez Zeledon",
+      "homeScore": 2,
+      "awayScore": 2,
+      "htHome": 1,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "60%",
+          "40%"
+        ],
+        "Total shots": [
+          "15",
+          "13"
+        ],
+        "Shots on target": [
+          "5",
+          "5"
+        ],
+        "Corner kicks": [
+          "3",
+          "4"
+        ],
+        "Yellow cards": [
+          "4",
+          "4"
+        ],
+        "Red cards": [
+          "1",
+          "0"
+        ],
+        "Shots off target": [
+          "10",
+          "8"
+        ],
+        "Offsides": [
+          "1",
+          "1"
+        ],
+        "Fouls": [
+          "17",
+          "15"
+        ]
+      }
+    },
+    {
+      "id": "xrqG9dQs",
+      "date": "2025-08-03T02:00:00.000Z",
+      "round": "Round 2",
+      "homeTeam": "Herediano",
+      "awayTeam": "Puntarenas",
+      "homeScore": 2,
+      "awayScore": 3,
+      "htHome": 0,
+      "htAway": 2,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "49%",
+          "51%"
+        ],
+        "Total shots": [
+          "14",
+          "8"
+        ],
+        "Shots on target": [
+          "6",
+          "4"
+        ],
+        "Corner kicks": [
+          "5",
+          "4"
+        ],
+        "Yellow cards": [
+          "2",
+          "1"
+        ],
+        "Shots off target": [
+          "8",
+          "4"
+        ],
+        "Offsides": [
+          "2",
+          "2"
+        ],
+        "Fouls": [
+          "7",
+          "15"
+        ]
+      }
+    },
+    {
+      "id": "2kUu4hfJ",
+      "date": "2025-08-03T00:00:00.000Z",
+      "round": "Round 2",
+      "homeTeam": "Sporting San Jose",
+      "awayTeam": "Cartagines",
+      "homeScore": 0,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "47%",
+          "53%"
+        ],
+        "Total shots": [
+          "11",
+          "14"
+        ],
+        "Shots on target": [
+          "3",
+          "2"
+        ],
+        "Corner kicks": [
+          "4",
+          "4"
+        ],
+        "Yellow cards": [
+          "2",
+          "4"
+        ],
+        "Shots off target": [
+          "8",
+          "12"
+        ],
+        "Offsides": [
+          "1",
+          "0"
+        ],
+        "Fouls": [
+          "13",
+          "14"
+        ]
+      }
+    },
+    {
+      "id": "QJuNBDW8",
+      "date": "2025-08-02T02:00:00.000Z",
+      "round": "Round 2",
+      "homeTeam": "Deportivo Saprissa",
+      "awayTeam": "AD San Carlos",
+      "homeScore": 2,
+      "awayScore": 0,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "61%",
+          "39%"
+        ],
+        "Total shots": [
+          "26",
+          "5"
+        ],
+        "Shots on target": [
+          "7",
+          "3"
+        ],
+        "Corner kicks": [
+          "9",
+          "4"
+        ],
+        "Yellow cards": [
+          "2",
+          "1"
+        ],
+        "Shots off target": [
+          "19",
+          "2"
+        ],
+        "Offsides": [
+          "1",
+          "1"
+        ],
+        "Fouls": [
+          "11",
+          "8"
+        ]
+      }
+    },
+    {
+      "id": "tM0biFAD",
+      "date": "2025-07-28T00:00:00.000Z",
+      "round": "Round 1",
+      "homeTeam": "Sporting San Jose",
+      "awayTeam": "Alajuelense",
+      "homeScore": 1,
+      "awayScore": 2,
+      "htHome": 0,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "50%",
+          "50%"
+        ],
+        "Total shots": [
+          "14",
+          "12"
+        ],
+        "Shots on target": [
+          "6",
+          "5"
+        ],
+        "Corner kicks": [
+          "3",
+          "4"
+        ],
+        "Yellow cards": [
+          "1",
+          "2"
+        ],
+        "Shots off target": [
+          "8",
+          "7"
+        ],
+        "Offsides": [
+          "2",
+          "0"
+        ],
+        "Fouls": [
+          "6",
+          "13"
+        ],
+        "Goalkeeper saves": [
+          "3",
+          "5"
+        ]
+      }
+    },
+    {
+      "id": "YPhylAv2",
+      "date": "2025-07-27T00:30:00.000Z",
+      "round": "Round 1",
+      "homeTeam": "Municipal Perez Zeledon",
+      "awayTeam": "Deportivo Saprissa",
+      "homeScore": 0,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "37%",
+          "63%"
+        ],
+        "Total shots": [
+          "8",
+          "16"
+        ],
+        "Shots on target": [
+          "1",
+          "5"
+        ],
+        "Corner kicks": [
+          "3",
+          "10"
+        ],
+        "Yellow cards": [
+          "4",
+          "2"
+        ],
+        "Red cards": [
+          "1",
+          "0"
+        ],
+        "Shots off target": [
+          "7",
+          "11"
+        ],
+        "Offsides": [
+          "1",
+          "1"
+        ],
+        "Fouls": [
+          "16",
+          "12"
+        ],
+        "Goalkeeper saves": [
+          "4",
+          "1"
+        ]
+      }
+    },
+    {
+      "id": "tCcpFI2K",
+      "date": "2025-07-26T23:00:00.000Z",
+      "round": "Round 1",
+      "homeTeam": "Puntarenas",
+      "awayTeam": "AD San Carlos",
+      "homeScore": 1,
+      "awayScore": 2,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "56%",
+          "44%"
+        ],
+        "Total shots": [
+          "17",
+          "12"
+        ],
+        "Shots on target": [
+          "7",
+          "4"
+        ],
+        "Corner kicks": [
+          "4",
+          "0"
+        ],
+        "Yellow cards": [
+          "3",
+          "5"
+        ],
+        "Shots off target": [
+          "10",
+          "8"
+        ],
+        "Offsides": [
+          "2",
+          "1"
+        ],
+        "Fouls": [
+          "5",
+          "12"
+        ],
+        "Goalkeeper saves": [
+          "2",
+          "6"
+        ]
+      }
+    },
+    {
+      "id": "xbaSkW9k",
+      "date": "2025-07-26T02:00:00.000Z",
+      "round": "Round 1",
+      "homeTeam": "Municipal Liberia",
+      "awayTeam": "Cartagines",
+      "homeScore": 1,
+      "awayScore": 0,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "57%",
+          "43%"
+        ],
+        "Total shots": [
+          "18",
+          "8"
+        ],
+        "Shots on target": [
+          "9",
+          "4"
+        ],
+        "Corner kicks": [
+          "5",
+          "0"
+        ],
+        "Yellow cards": [
+          "3",
+          "3"
+        ],
+        "Red cards": [
+          "0",
+          "1"
+        ],
+        "Shots off target": [
+          "9",
+          "4"
+        ],
+        "Offsides": [
+          "1",
+          "1"
+        ],
+        "Fouls": [
+          "20",
+          "11"
+        ],
+        "Goalkeeper saves": [
+          "4",
+          "8"
+        ]
+      }
+    },
+    {
+      "id": "Yecjgyt1",
+      "date": "2025-07-25T02:00:00.000Z",
+      "round": "Round 1",
+      "homeTeam": "Guadalupe FC",
+      "awayTeam": "Herediano",
+      "homeScore": 0,
+      "awayScore": 0,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "55%",
+          "45%"
+        ],
+        "Total shots": [
+          "12",
+          "14"
+        ],
+        "Shots on target": [
+          "2",
+          "5"
+        ],
+        "Corner kicks": [
+          "6",
+          "6"
+        ],
+        "Yellow cards": [
+          "2",
+          "5"
+        ],
+        "Red cards": [
+          "0",
+          "1"
+        ],
+        "Shots off target": [
+          "10",
+          "9"
+        ],
+        "Offsides": [
+          "1",
+          "0"
+        ],
+        "Fouls": [
+          "11",
+          "8"
+        ],
+        "Goalkeeper saves": [
+          "5",
+          "2"
+        ]
+      }
+    }
+  ]
+}

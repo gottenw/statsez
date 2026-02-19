@@ -1,0 +1,2968 @@
+{
+  "league": "Segunda RFEF - Group 4",
+  "country": "spain",
+  "season": "2025-2026",
+  "collectedAt": "2026-02-09T23:42:22.447Z",
+  "totalMatches": 207,
+  "matches": [
+    {
+      "id": "4GeWushf",
+      "date": "2026-02-08T16:00:00.000Z",
+      "round": "Round 22",
+      "homeTeam": "CF Lorca Deportiva",
+      "awayTeam": "UCAM Murcia CF",
+      "homeScore": 2,
+      "awayScore": 0,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "IJL5ft7m",
+      "date": "2026-02-08T16:00:00.000Z",
+      "round": "Round 22",
+      "homeTeam": "Yeclano",
+      "awayTeam": "Deportiva Minera",
+      "homeScore": 0,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "0rkuvLM6",
+      "date": "2026-02-08T14:15:00.000Z",
+      "round": "Round 22",
+      "homeTeam": "Melilla",
+      "awayTeam": "Puente Genil",
+      "homeScore": 1,
+      "awayScore": 0,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Red cards": [
+          "0",
+          "1"
+        ]
+      }
+    },
+    {
+      "id": "6LT5PL7D",
+      "date": "2026-02-08T11:00:00.000Z",
+      "round": "Round 22",
+      "homeTeam": "Almeria B",
+      "awayTeam": "Atletico Malagueno",
+      "homeScore": 1,
+      "awayScore": 1,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "AgzcRsw1",
+      "date": "2026-02-08T11:00:00.000Z",
+      "round": "Round 22",
+      "homeTeam": "CD Estepona",
+      "awayTeam": "Xerez CD",
+      "homeScore": 0,
+      "awayScore": 0,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "nwKsZYvA",
+      "date": "2026-02-01T17:00:00.000Z",
+      "round": "Round 21",
+      "homeTeam": "Real Jaen",
+      "awayTeam": "CD Estepona",
+      "homeScore": 0,
+      "awayScore": 0,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "AyPMPU1d",
+      "date": "2026-02-01T16:00:00.000Z",
+      "round": "Round 21",
+      "homeTeam": "Yeclano",
+      "awayTeam": "Aguilas",
+      "homeScore": 0,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "jX19mYg3",
+      "date": "2026-02-01T11:30:00.000Z",
+      "round": "Round 21",
+      "homeTeam": "La Union CF",
+      "awayTeam": "CF Lorca Deportiva",
+      "homeScore": 1,
+      "awayScore": 2,
+      "htHome": 0,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Red cards": [
+          "1",
+          "0"
+        ]
+      }
+    },
+    {
+      "id": "2BLERjXq",
+      "date": "2026-02-01T11:00:00.000Z",
+      "round": "Round 21",
+      "homeTeam": "Deportiva Minera",
+      "awayTeam": "Linares Deportivo",
+      "homeScore": 5,
+      "awayScore": 0,
+      "htHome": 2,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Red cards": [
+          "0",
+          "1"
+        ]
+      }
+    },
+    {
+      "id": "jBQYzeAc",
+      "date": "2026-02-01T11:00:00.000Z",
+      "round": "Round 21",
+      "homeTeam": "Puente Genil",
+      "awayTeam": "CA Antoniano",
+      "homeScore": 2,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "KjIkXC9M",
+      "date": "2026-02-01T11:00:00.000Z",
+      "round": "Round 21",
+      "homeTeam": "Rec de Huelva",
+      "awayTeam": "Almeria B",
+      "homeScore": 1,
+      "awayScore": 0,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "xtxkT38l",
+      "date": "2026-02-01T11:00:00.000Z",
+      "round": "Round 21",
+      "homeTeam": "Xerez CD",
+      "awayTeam": "Melilla",
+      "homeScore": 1,
+      "awayScore": 0,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "O4YnDiIj",
+      "date": "2026-01-31T16:00:00.000Z",
+      "round": "Round 21",
+      "homeTeam": "Atletico Malagueno",
+      "awayTeam": "Xerez Deportivo FC",
+      "homeScore": 2,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "bc5HoCOF",
+      "date": "2026-01-31T16:00:00.000Z",
+      "round": "Round 21",
+      "homeTeam": "UCAM Murcia CF",
+      "awayTeam": "CD Extremadura",
+      "homeScore": 1,
+      "awayScore": 1,
+      "htHome": 1,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "YZg8KZPG",
+      "date": "2026-01-25T17:00:00.000Z",
+      "round": "Round 20",
+      "homeTeam": "CF Lorca Deportiva",
+      "awayTeam": "Rec de Huelva",
+      "homeScore": 0,
+      "awayScore": 0,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "lnK40EYp",
+      "date": "2026-01-25T16:30:00.000Z",
+      "round": "Round 20",
+      "homeTeam": "Aguilas",
+      "awayTeam": "Deportiva Minera",
+      "homeScore": 0,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Red cards": [
+          "0",
+          "1"
+        ]
+      }
+    },
+    {
+      "id": "SfY9Bvsn",
+      "date": "2026-01-25T16:00:00.000Z",
+      "round": "Round 20",
+      "homeTeam": "CA Antoniano",
+      "awayTeam": "Xerez CD",
+      "homeScore": 3,
+      "awayScore": 2,
+      "htHome": 2,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Red cards": [
+          "0",
+          "1"
+        ]
+      }
+    },
+    {
+      "id": "4f2iOHQi",
+      "date": "2026-01-25T16:00:00.000Z",
+      "round": "Round 20",
+      "homeTeam": "CD Extremadura",
+      "awayTeam": "Puente Genil",
+      "homeScore": 3,
+      "awayScore": 1,
+      "htHome": 2,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Red cards": [
+          "1",
+          "0"
+        ]
+      }
+    },
+    {
+      "id": "vXdGIDfT",
+      "date": "2026-01-25T16:00:00.000Z",
+      "round": "Round 20",
+      "homeTeam": "Xerez Deportivo FC",
+      "awayTeam": "UCAM Murcia CF",
+      "homeScore": 1,
+      "awayScore": 2,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "WnVQ7dtB",
+      "date": "2026-01-25T11:00:00.000Z",
+      "round": "Round 20",
+      "homeTeam": "Almeria B",
+      "awayTeam": "Real Jaen",
+      "homeScore": 1,
+      "awayScore": 1,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "OMRI9IBb",
+      "date": "2026-01-25T11:00:00.000Z",
+      "round": "Round 20",
+      "homeTeam": "CD Estepona",
+      "awayTeam": "Atletico Malagueno",
+      "homeScore": 3,
+      "awayScore": 1,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Red cards": [
+          "0",
+          "1"
+        ]
+      }
+    },
+    {
+      "id": "h2JZ5zBN",
+      "date": "2026-01-25T11:00:00.000Z",
+      "round": "Round 20",
+      "homeTeam": "Linares Deportivo",
+      "awayTeam": "Yeclano",
+      "homeScore": 2,
+      "awayScore": 1,
+      "htHome": 2,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "x80aMee4",
+      "date": "2026-01-25T11:00:00.000Z",
+      "round": "Round 20",
+      "homeTeam": "Melilla",
+      "awayTeam": "La Union CF",
+      "homeScore": 2,
+      "awayScore": 2,
+      "htHome": 2,
+      "htAway": 2,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "4bby1lTQ",
+      "date": "2026-01-18T17:00:00.000Z",
+      "round": "Round 19",
+      "homeTeam": "Real Jaen",
+      "awayTeam": "CF Lorca Deportiva",
+      "homeScore": 4,
+      "awayScore": 2,
+      "htHome": 1,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "AJ1qeJd5",
+      "date": "2026-01-18T17:00:00.000Z",
+      "round": "Round 19",
+      "homeTeam": "Xerez CD",
+      "awayTeam": "Aguilas",
+      "homeScore": 1,
+      "awayScore": 1,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Red cards": [
+          "0",
+          "1"
+        ]
+      }
+    },
+    {
+      "id": "tvASb1ct",
+      "date": "2026-01-18T16:00:00.000Z",
+      "round": "Round 19",
+      "homeTeam": "Yeclano",
+      "awayTeam": "Xerez Deportivo FC",
+      "homeScore": 3,
+      "awayScore": 0,
+      "htHome": 2,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "zsk7eSjl",
+      "date": "2026-01-18T15:00:00.000Z",
+      "round": "Round 19",
+      "homeTeam": "La Union CF",
+      "awayTeam": "CA Antoniano",
+      "homeScore": 2,
+      "awayScore": 2,
+      "htHome": 1,
+      "htAway": 2,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "Crb0iydU",
+      "date": "2026-01-18T11:00:00.000Z",
+      "round": "Round 19",
+      "homeTeam": "Deportiva Minera",
+      "awayTeam": "Melilla",
+      "homeScore": 2,
+      "awayScore": 1,
+      "htHome": 1,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Red cards": [
+          "1",
+          "0"
+        ]
+      }
+    },
+    {
+      "id": "4MtOipjD",
+      "date": "2026-01-18T11:00:00.000Z",
+      "round": "Round 19",
+      "homeTeam": "Linares Deportivo",
+      "awayTeam": "Almeria B",
+      "homeScore": 3,
+      "awayScore": 1,
+      "htHome": 1,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Red cards": [
+          "1",
+          "0"
+        ]
+      }
+    },
+    {
+      "id": "W8rGg6L0",
+      "date": "2026-01-18T11:00:00.000Z",
+      "round": "Round 19",
+      "homeTeam": "Rec de Huelva",
+      "awayTeam": "CD Estepona",
+      "homeScore": 5,
+      "awayScore": 0,
+      "htHome": 2,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "l4DzcuSh",
+      "date": "2026-01-18T11:00:00.000Z",
+      "round": "Round 19",
+      "homeTeam": "UCAM Murcia CF",
+      "awayTeam": "Puente Genil",
+      "homeScore": 3,
+      "awayScore": 2,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "Iq5igcRH",
+      "date": "2026-01-17T16:00:00.000Z",
+      "round": "Round 19",
+      "homeTeam": "Atletico Malagueno",
+      "awayTeam": "CD Extremadura",
+      "homeScore": 2,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Red cards": [
+          "0",
+          "1"
+        ]
+      }
+    },
+    {
+      "id": "zT9YtTye",
+      "date": "2026-01-11T17:00:00.000Z",
+      "round": "Round 18",
+      "homeTeam": "Atletico Malagueno",
+      "awayTeam": "Rec de Huelva",
+      "homeScore": 0,
+      "awayScore": 2,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Red cards": [
+          "2",
+          "0"
+        ]
+      }
+    },
+    {
+      "id": "dEWojXE8",
+      "date": "2026-01-11T16:00:00.000Z",
+      "round": "Round 18",
+      "homeTeam": "Aguilas",
+      "awayTeam": "Linares Deportivo",
+      "homeScore": 2,
+      "awayScore": 0,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "rVUglBqL",
+      "date": "2026-01-11T16:00:00.000Z",
+      "round": "Round 18",
+      "homeTeam": "CD Extremadura",
+      "awayTeam": "Real Jaen",
+      "homeScore": 1,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "Wf3su767",
+      "date": "2026-01-11T16:00:00.000Z",
+      "round": "Round 18",
+      "homeTeam": "Xerez Deportivo FC",
+      "awayTeam": "La Union CF",
+      "homeScore": 4,
+      "awayScore": 2,
+      "htHome": 3,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "nuNMk33S",
+      "date": "2026-01-11T11:30:00.000Z",
+      "round": "Round 18",
+      "homeTeam": "CA Antoniano",
+      "awayTeam": "UCAM Murcia CF",
+      "homeScore": 2,
+      "awayScore": 1,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "Ek71rLe2",
+      "date": "2026-01-11T11:00:00.000Z",
+      "round": "Round 18",
+      "homeTeam": "Almeria B",
+      "awayTeam": "Xerez CD",
+      "homeScore": 1,
+      "awayScore": 2,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "6P3gpsRk",
+      "date": "2026-01-11T11:00:00.000Z",
+      "round": "Round 18",
+      "homeTeam": "CD Estepona",
+      "awayTeam": "Deportiva Minera",
+      "homeScore": 0,
+      "awayScore": 0,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "2FBQrk7r",
+      "date": "2026-01-11T11:00:00.000Z",
+      "round": "Round 18",
+      "homeTeam": "Melilla",
+      "awayTeam": "Yeclano",
+      "homeScore": 1,
+      "awayScore": 0,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "rqAS2AbE",
+      "date": "2026-01-11T11:00:00.000Z",
+      "round": "Round 18",
+      "homeTeam": "Puente Genil",
+      "awayTeam": "CF Lorca Deportiva",
+      "homeScore": 1,
+      "awayScore": 0,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "McVWt8Kc",
+      "date": "2026-01-04T17:00:00.000Z",
+      "round": "Round 17",
+      "homeTeam": "Real Jaen",
+      "awayTeam": "Atletico Malagueno",
+      "homeScore": 3,
+      "awayScore": 0,
+      "htHome": 2,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "hMwKVsCd",
+      "date": "2026-01-04T17:00:00.000Z",
+      "round": "Round 17",
+      "homeTeam": "CF Lorca Deportiva",
+      "awayTeam": "Almeria B",
+      "homeScore": 1,
+      "awayScore": 0,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "W6kBX3sp",
+      "date": "2026-01-04T15:30:00.000Z",
+      "round": "Round 17",
+      "homeTeam": "La Union CF",
+      "awayTeam": "CD Estepona",
+      "homeScore": 0,
+      "awayScore": 3,
+      "htHome": 0,
+      "htAway": 2,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "0ObuwQJM",
+      "date": "2026-01-04T15:30:00.000Z",
+      "round": "Round 17",
+      "homeTeam": "Yeclano",
+      "awayTeam": "CA Antoniano",
+      "homeScore": 1,
+      "awayScore": 0,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "EROEiPYF",
+      "date": "2026-01-04T12:00:00.000Z",
+      "round": "Round 17",
+      "homeTeam": "Rec de Huelva",
+      "awayTeam": "CD Extremadura",
+      "homeScore": 3,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Red cards": [
+          "0",
+          "1"
+        ]
+      }
+    },
+    {
+      "id": "fBTvunkA",
+      "date": "2026-01-04T11:00:00.000Z",
+      "round": "Round 17",
+      "homeTeam": "Deportiva Minera",
+      "awayTeam": "Puente Genil",
+      "homeScore": 2,
+      "awayScore": 1,
+      "htHome": 2,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Red cards": [
+          "1",
+          "1"
+        ]
+      }
+    },
+    {
+      "id": "6kmpJ4Sj",
+      "date": "2026-01-04T11:00:00.000Z",
+      "round": "Round 17",
+      "homeTeam": "Linares Deportivo",
+      "awayTeam": "Melilla",
+      "homeScore": 0,
+      "awayScore": 0,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "KSV5go43",
+      "date": "2026-01-04T11:00:00.000Z",
+      "round": "Round 17",
+      "homeTeam": "UCAM Murcia CF",
+      "awayTeam": "Aguilas",
+      "homeScore": 1,
+      "awayScore": 0,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "0jLCyDrI",
+      "date": "2026-01-03T18:00:00.000Z",
+      "round": "Round 17",
+      "homeTeam": "Xerez CD",
+      "awayTeam": "Xerez Deportivo FC",
+      "homeScore": 1,
+      "awayScore": 0,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "nJTsYwxQ",
+      "date": "2025-12-21T19:00:00.000Z",
+      "round": "Round 16",
+      "homeTeam": "Atletico Malagueno",
+      "awayTeam": "Yeclano",
+      "homeScore": 0,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "vyX3wZD5",
+      "date": "2025-12-21T11:30:00.000Z",
+      "round": "Round 16",
+      "homeTeam": "Xerez Deportivo FC",
+      "awayTeam": "CF Lorca Deportiva",
+      "homeScore": 0,
+      "awayScore": 0,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "I1KDSHam",
+      "date": "2025-12-21T11:00:00.000Z",
+      "round": "Round 16",
+      "homeTeam": "Aguilas",
+      "awayTeam": "Real Jaen",
+      "homeScore": 1,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "xCzmsHEt",
+      "date": "2025-12-21T11:00:00.000Z",
+      "round": "Round 16",
+      "homeTeam": "Melilla",
+      "awayTeam": "Rec de Huelva",
+      "homeScore": 0,
+      "awayScore": 0,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "YwUeueqg",
+      "date": "2025-12-21T11:00:00.000Z",
+      "round": "Round 16",
+      "homeTeam": "UCAM Murcia CF",
+      "awayTeam": "La Union CF",
+      "homeScore": 1,
+      "awayScore": 2,
+      "htHome": 0,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Yellow cards": [
+          "0",
+          "1"
+        ],
+        "Red cards": [
+          "0",
+          "1"
+        ]
+      }
+    },
+    {
+      "id": "WAoeAzpJ",
+      "date": "2025-12-20T17:00:00.000Z",
+      "round": "Round 16",
+      "homeTeam": "CA Antoniano",
+      "awayTeam": "Deportiva Minera",
+      "homeScore": 1,
+      "awayScore": 0,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "vH8MQeUa",
+      "date": "2025-12-20T16:30:00.000Z",
+      "round": "Round 16",
+      "homeTeam": "CD Extremadura",
+      "awayTeam": "Xerez CD",
+      "homeScore": 1,
+      "awayScore": 0,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "QX6UOZbC",
+      "date": "2025-12-20T16:00:00.000Z",
+      "round": "Round 16",
+      "homeTeam": "CD Estepona",
+      "awayTeam": "Almeria B",
+      "homeScore": 1,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "Ma0wNDTO",
+      "date": "2025-12-20T11:30:00.000Z",
+      "round": "Round 16",
+      "homeTeam": "Puente Genil",
+      "awayTeam": "Linares Deportivo",
+      "homeScore": 1,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "vshDaJV0",
+      "date": "2025-12-14T16:00:00.000Z",
+      "round": "Round 15",
+      "homeTeam": "Real Jaen",
+      "awayTeam": "UCAM Murcia CF",
+      "homeScore": 0,
+      "awayScore": 3,
+      "htHome": 0,
+      "htAway": 2,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "ImuuEIpf",
+      "date": "2025-12-14T16:00:00.000Z",
+      "round": "Round 15",
+      "homeTeam": "CF Lorca Deportiva",
+      "awayTeam": "Aguilas",
+      "homeScore": 0,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "nqDY61wR",
+      "date": "2025-12-14T11:00:00.000Z",
+      "round": "Round 15",
+      "homeTeam": "Almeria B",
+      "awayTeam": "Melilla",
+      "homeScore": 1,
+      "awayScore": 1,
+      "htHome": 1,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "vJ9Q8N8E",
+      "date": "2025-12-14T11:00:00.000Z",
+      "round": "Round 15",
+      "homeTeam": "CD Estepona",
+      "awayTeam": "Puente Genil",
+      "homeScore": 1,
+      "awayScore": 2,
+      "htHome": 1,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "bcmmCdF6",
+      "date": "2025-12-14T11:00:00.000Z",
+      "round": "Round 15",
+      "homeTeam": "Deportiva Minera",
+      "awayTeam": "CD Extremadura",
+      "homeScore": 2,
+      "awayScore": 2,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Red cards": [
+          "1",
+          "0"
+        ]
+      }
+    },
+    {
+      "id": "6Tg51u1l",
+      "date": "2025-12-14T11:00:00.000Z",
+      "round": "Round 15",
+      "homeTeam": "Linares Deportivo",
+      "awayTeam": "Xerez Deportivo FC",
+      "homeScore": 1,
+      "awayScore": 2,
+      "htHome": 1,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "Qk00L0hK",
+      "date": "2025-12-14T11:00:00.000Z",
+      "round": "Round 15",
+      "homeTeam": "Rec de Huelva",
+      "awayTeam": "CA Antoniano",
+      "homeScore": 2,
+      "awayScore": 0,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "ANyXFvGs",
+      "date": "2025-12-14T11:00:00.000Z",
+      "round": "Round 15",
+      "homeTeam": "Xerez CD",
+      "awayTeam": "Atletico Malagueno",
+      "homeScore": 1,
+      "awayScore": 0,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "bq8Ecc0D",
+      "date": "2025-12-14T10:30:00.000Z",
+      "round": "Round 15",
+      "homeTeam": "La Union CF",
+      "awayTeam": "Yeclano",
+      "homeScore": 0,
+      "awayScore": 0,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "rFtVP0RF",
+      "date": "2025-12-10T14:00:00.000Z",
+      "round": "Round 11",
+      "homeTeam": "Rec de Huelva",
+      "awayTeam": "UCAM Murcia CF",
+      "homeScore": 1,
+      "awayScore": 2,
+      "htHome": 0,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "UqKt9W2c",
+      "date": "2025-12-07T21:30:00.000Z",
+      "round": "Round 14",
+      "homeTeam": "CD Extremadura",
+      "awayTeam": "Linares Deportivo",
+      "homeScore": 1,
+      "awayScore": 1,
+      "htHome": 1,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Red cards": [
+          "1",
+          "0"
+        ]
+      }
+    },
+    {
+      "id": "xxIeoTAj",
+      "date": "2025-12-07T16:00:00.000Z",
+      "round": "Round 14",
+      "homeTeam": "Aguilas",
+      "awayTeam": "La Union CF",
+      "homeScore": 2,
+      "awayScore": 0,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "lCq8fXm4",
+      "date": "2025-12-07T11:30:00.000Z",
+      "round": "Round 14",
+      "homeTeam": "CA Antoniano",
+      "awayTeam": "CF Lorca Deportiva",
+      "homeScore": 3,
+      "awayScore": 1,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "bNWwoKG7",
+      "date": "2025-12-07T11:30:00.000Z",
+      "round": "Round 14",
+      "homeTeam": "Xerez Deportivo FC",
+      "awayTeam": "Rec de Huelva",
+      "homeScore": 1,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "QBDk7AX9",
+      "date": "2025-12-07T11:00:00.000Z",
+      "round": "Round 14",
+      "homeTeam": "Melilla",
+      "awayTeam": "CD Estepona",
+      "homeScore": 3,
+      "awayScore": 0,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "dbzNl2Hr",
+      "date": "2025-12-07T11:00:00.000Z",
+      "round": "Round 14",
+      "homeTeam": "Puente Genil",
+      "awayTeam": "Almeria B",
+      "homeScore": 1,
+      "awayScore": 0,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "pvwHhBIG",
+      "date": "2025-12-06T17:00:00.000Z",
+      "round": "Round 14",
+      "homeTeam": "Atletico Malagueno",
+      "awayTeam": "Deportiva Minera",
+      "homeScore": 0,
+      "awayScore": 2,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "h4tPjkmT",
+      "date": "2025-12-06T11:00:00.000Z",
+      "round": "Round 14",
+      "homeTeam": "UCAM Murcia CF",
+      "awayTeam": "Xerez CD",
+      "homeScore": 2,
+      "awayScore": 0,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "hQTVntne",
+      "date": "2025-12-06T11:00:00.000Z",
+      "round": "Round 14",
+      "homeTeam": "Yeclano",
+      "awayTeam": "Real Jaen",
+      "homeScore": 2,
+      "awayScore": 0,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "ALOYuYYA",
+      "date": "2025-11-30T17:00:00.000Z",
+      "round": "Round 13",
+      "homeTeam": "Xerez CD",
+      "awayTeam": "Real Jaen",
+      "homeScore": 1,
+      "awayScore": 0,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "WEy7RYJH",
+      "date": "2025-11-30T11:00:00.000Z",
+      "round": "Round 13",
+      "homeTeam": "Almeria B",
+      "awayTeam": "CA Antoniano",
+      "homeScore": 0,
+      "awayScore": 0,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "OlYbTfk5",
+      "date": "2025-11-30T11:00:00.000Z",
+      "round": "Round 13",
+      "homeTeam": "CD Estepona",
+      "awayTeam": "Xerez Deportivo FC",
+      "homeScore": 0,
+      "awayScore": 2,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "rg5PqGZo",
+      "date": "2025-11-30T11:00:00.000Z",
+      "round": "Round 13",
+      "homeTeam": "Deportiva Minera",
+      "awayTeam": "Yeclano",
+      "homeScore": 1,
+      "awayScore": 0,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "StVFPClU",
+      "date": "2025-11-30T11:00:00.000Z",
+      "round": "Round 13",
+      "homeTeam": "Linares Deportivo",
+      "awayTeam": "UCAM Murcia CF",
+      "homeScore": 2,
+      "awayScore": 1,
+      "htHome": 2,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Red cards": [
+          "1",
+          "0"
+        ]
+      }
+    },
+    {
+      "id": "2eLQsf4b",
+      "date": "2025-11-30T11:00:00.000Z",
+      "round": "Round 13",
+      "homeTeam": "CF Lorca Deportiva",
+      "awayTeam": "Atletico Malagueno",
+      "homeScore": 2,
+      "awayScore": 1,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "Gbo0dgJi",
+      "date": "2025-11-30T11:00:00.000Z",
+      "round": "Round 13",
+      "homeTeam": "Puente Genil",
+      "awayTeam": "Melilla",
+      "homeScore": 0,
+      "awayScore": 0,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "WzDsvC3N",
+      "date": "2025-11-30T11:00:00.000Z",
+      "round": "Round 13",
+      "homeTeam": "Rec de Huelva",
+      "awayTeam": "Aguilas",
+      "homeScore": 0,
+      "awayScore": 0,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "2J3DYkRp",
+      "date": "2025-11-30T10:30:00.000Z",
+      "round": "Round 13",
+      "homeTeam": "La Union CF",
+      "awayTeam": "CD Extremadura",
+      "homeScore": 2,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "fm7wiwQE",
+      "date": "2025-11-23T16:00:00.000Z",
+      "round": "Round 12",
+      "homeTeam": "Aguilas",
+      "awayTeam": "CD Estepona",
+      "homeScore": 2,
+      "awayScore": 1,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Red cards": [
+          "1",
+          "0"
+        ]
+      }
+    },
+    {
+      "id": "ARRrXxjt",
+      "date": "2025-11-23T16:00:00.000Z",
+      "round": "Round 12",
+      "homeTeam": "Real Jaen",
+      "awayTeam": "Rec de Huelva",
+      "homeScore": 2,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Red cards": [
+          "0",
+          "1"
+        ]
+      }
+    },
+    {
+      "id": "UX9zTQwP",
+      "date": "2025-11-23T16:00:00.000Z",
+      "round": "Round 12",
+      "homeTeam": "Xerez Deportivo FC",
+      "awayTeam": "Puente Genil",
+      "homeScore": 1,
+      "awayScore": 0,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "dKBSUn9C",
+      "date": "2025-11-23T16:00:00.000Z",
+      "round": "Round 12",
+      "homeTeam": "Yeclano",
+      "awayTeam": "Xerez CD",
+      "homeScore": 1,
+      "awayScore": 3,
+      "htHome": 0,
+      "htAway": 2,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "WELrVe3e",
+      "date": "2025-11-23T11:30:00.000Z",
+      "round": "Round 12",
+      "homeTeam": "CA Antoniano",
+      "awayTeam": "Linares Deportivo",
+      "homeScore": 1,
+      "awayScore": 2,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "0hIJW8v0",
+      "date": "2025-11-23T11:00:00.000Z",
+      "round": "Round 12",
+      "homeTeam": "CD Extremadura",
+      "awayTeam": "Almeria B",
+      "homeScore": 2,
+      "awayScore": 4,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "EyKBYU9m",
+      "date": "2025-11-23T11:00:00.000Z",
+      "round": "Round 12",
+      "homeTeam": "CF Lorca Deportiva",
+      "awayTeam": "Melilla",
+      "homeScore": 1,
+      "awayScore": 0,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "2ZqjVGKh",
+      "date": "2025-11-23T11:00:00.000Z",
+      "round": "Round 12",
+      "homeTeam": "UCAM Murcia CF",
+      "awayTeam": "Deportiva Minera",
+      "homeScore": 3,
+      "awayScore": 1,
+      "htHome": 1,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Red cards": [
+          "0",
+          "1"
+        ]
+      }
+    },
+    {
+      "id": "StFiTZX7",
+      "date": "2025-11-22T17:00:00.000Z",
+      "round": "Round 12",
+      "homeTeam": "Atletico Malagueno",
+      "awayTeam": "La Union CF",
+      "homeScore": 1,
+      "awayScore": 3,
+      "htHome": 0,
+      "htAway": 2,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "tps4xvBL",
+      "date": "2025-11-16T17:00:00.000Z",
+      "round": "Round 11",
+      "homeTeam": "Xerez CD",
+      "awayTeam": "CF Lorca Deportiva",
+      "homeScore": 0,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Red cards": [
+          "1",
+          "0"
+        ]
+      }
+    },
+    {
+      "id": "b1NzXHYr",
+      "date": "2025-11-16T16:00:00.000Z",
+      "round": "Round 11",
+      "homeTeam": "Puente Genil",
+      "awayTeam": "CD Extremadura",
+      "homeScore": 1,
+      "awayScore": 1,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "Ktez4J4d",
+      "date": "2025-11-16T11:00:00.000Z",
+      "round": "Round 11",
+      "homeTeam": "Almeria B",
+      "awayTeam": "Yeclano",
+      "homeScore": 1,
+      "awayScore": 0,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "pbc1IIJk",
+      "date": "2025-11-16T11:00:00.000Z",
+      "round": "Round 11",
+      "homeTeam": "CD Estepona",
+      "awayTeam": "CA Antoniano",
+      "homeScore": 1,
+      "awayScore": 2,
+      "htHome": 0,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "YJwdv0t9",
+      "date": "2025-11-16T11:00:00.000Z",
+      "round": "Round 11",
+      "homeTeam": "Deportiva Minera",
+      "awayTeam": "Aguilas",
+      "homeScore": 0,
+      "awayScore": 2,
+      "htHome": 0,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "nmmMRMd3",
+      "date": "2025-11-16T11:00:00.000Z",
+      "round": "Round 11",
+      "homeTeam": "Linares Deportivo",
+      "awayTeam": "Atletico Malagueno",
+      "homeScore": 1,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "GSvwOvdS",
+      "date": "2025-11-16T11:00:00.000Z",
+      "round": "Round 11",
+      "homeTeam": "Melilla",
+      "awayTeam": "Xerez Deportivo FC",
+      "homeScore": 1,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "hO09Gdl2",
+      "date": "2025-11-16T10:30:00.000Z",
+      "round": "Round 11",
+      "homeTeam": "La Union CF",
+      "awayTeam": "Real Jaen",
+      "homeScore": 2,
+      "awayScore": 0,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "4UCvLHve",
+      "date": "2025-11-12T16:00:00.000Z",
+      "round": "Round 8",
+      "homeTeam": "CF Lorca Deportiva",
+      "awayTeam": "Puente Genil",
+      "homeScore": 1,
+      "awayScore": 0,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "EZ6DbOSG",
+      "date": "2025-11-09T17:00:00.000Z",
+      "round": "Round 10",
+      "homeTeam": "Atletico Malagueno",
+      "awayTeam": "UCAM Murcia CF",
+      "homeScore": 1,
+      "awayScore": 0,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Yellow cards": [
+          "0",
+          "1"
+        ],
+        "Red cards": [
+          "0",
+          "1"
+        ]
+      }
+    },
+    {
+      "id": "69350pb4",
+      "date": "2025-11-09T16:00:00.000Z",
+      "round": "Round 10",
+      "homeTeam": "Real Jaen",
+      "awayTeam": "Linares Deportivo",
+      "homeScore": 0,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "UBGeB1CM",
+      "date": "2025-11-09T16:00:00.000Z",
+      "round": "Round 10",
+      "homeTeam": "Xerez Deportivo FC",
+      "awayTeam": "Almeria B",
+      "homeScore": 1,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "bR6R5uzp",
+      "date": "2025-11-09T16:00:00.000Z",
+      "round": "Round 10",
+      "homeTeam": "Yeclano",
+      "awayTeam": "Rec de Huelva",
+      "homeScore": 1,
+      "awayScore": 0,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "pOthitLj",
+      "date": "2025-11-09T11:00:00.000Z",
+      "round": "Round 10",
+      "homeTeam": "Aguilas",
+      "awayTeam": "Melilla",
+      "homeScore": 3,
+      "awayScore": 1,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "AsAd26Ti",
+      "date": "2025-11-09T11:00:00.000Z",
+      "round": "Round 10",
+      "homeTeam": "CA Antoniano",
+      "awayTeam": "Puente Genil",
+      "homeScore": 4,
+      "awayScore": 0,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "YqNnDNsA",
+      "date": "2025-11-09T11:00:00.000Z",
+      "round": "Round 10",
+      "homeTeam": "CD Extremadura",
+      "awayTeam": "CD Estepona",
+      "homeScore": 3,
+      "awayScore": 2,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "zkeMd2cT",
+      "date": "2025-11-09T10:30:00.000Z",
+      "round": "Round 10",
+      "homeTeam": "La Union CF",
+      "awayTeam": "Xerez CD",
+      "homeScore": 0,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Yellow cards": [
+          "1",
+          "0"
+        ],
+        "Red cards": [
+          "1",
+          "0"
+        ]
+      }
+    },
+    {
+      "id": "pbc1IIJk",
+      "date": "2025-11-16T11:00:00.000Z",
+      "round": "Round 11",
+      "homeTeam": "CD Estepona",
+      "awayTeam": "CA Antoniano",
+      "homeScore": 1,
+      "awayScore": 2,
+      "htHome": 0,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "YJwdv0t9",
+      "date": "2025-11-16T11:00:00.000Z",
+      "round": "Round 11",
+      "homeTeam": "Deportiva Minera",
+      "awayTeam": "Aguilas",
+      "homeScore": 0,
+      "awayScore": 2,
+      "htHome": 0,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "GSvwOvdS",
+      "date": "2025-11-16T11:00:00.000Z",
+      "round": "Round 11",
+      "homeTeam": "Melilla",
+      "awayTeam": "Xerez Deportivo FC",
+      "homeScore": 1,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "hO09Gdl2",
+      "date": "2025-11-16T10:30:00.000Z",
+      "round": "Round 11",
+      "homeTeam": "La Union CF",
+      "awayTeam": "Real Jaen",
+      "homeScore": 2,
+      "awayScore": 0,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "4UCvLHve",
+      "date": "2025-11-12T16:00:00.000Z",
+      "round": "Round 8",
+      "homeTeam": "CF Lorca Deportiva",
+      "awayTeam": "Puente Genil",
+      "homeScore": 1,
+      "awayScore": 0,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "EZ6DbOSG",
+      "date": "2025-11-09T17:00:00.000Z",
+      "round": "Round 10",
+      "homeTeam": "Atletico Malagueno",
+      "awayTeam": "UCAM Murcia CF",
+      "homeScore": 1,
+      "awayScore": 0,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Yellow cards": [
+          "0",
+          "1"
+        ],
+        "Red cards": [
+          "0",
+          "1"
+        ]
+      }
+    },
+    {
+      "id": "69350pb4",
+      "date": "2025-11-09T16:00:00.000Z",
+      "round": "Round 10",
+      "homeTeam": "Real Jaen",
+      "awayTeam": "Linares Deportivo",
+      "homeScore": 0,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "UBGeB1CM",
+      "date": "2025-11-09T16:00:00.000Z",
+      "round": "Round 10",
+      "homeTeam": "Xerez Deportivo FC",
+      "awayTeam": "Almeria B",
+      "homeScore": 1,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "bR6R5uzp",
+      "date": "2025-11-09T16:00:00.000Z",
+      "round": "Round 10",
+      "homeTeam": "Yeclano",
+      "awayTeam": "Rec de Huelva",
+      "homeScore": 1,
+      "awayScore": 0,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "pOthitLj",
+      "date": "2025-11-09T11:00:00.000Z",
+      "round": "Round 10",
+      "homeTeam": "Aguilas",
+      "awayTeam": "Melilla",
+      "homeScore": 3,
+      "awayScore": 1,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "AsAd26Ti",
+      "date": "2025-11-09T11:00:00.000Z",
+      "round": "Round 10",
+      "homeTeam": "CA Antoniano",
+      "awayTeam": "Puente Genil",
+      "homeScore": 4,
+      "awayScore": 0,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "YqNnDNsA",
+      "date": "2025-11-09T11:00:00.000Z",
+      "round": "Round 10",
+      "homeTeam": "CD Extremadura",
+      "awayTeam": "CD Estepona",
+      "homeScore": 3,
+      "awayScore": 2,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "zkeMd2cT",
+      "date": "2025-11-09T10:30:00.000Z",
+      "round": "Round 10",
+      "homeTeam": "La Union CF",
+      "awayTeam": "Xerez CD",
+      "homeScore": 0,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Yellow cards": [
+          "1",
+          "0"
+        ],
+        "Red cards": [
+          "1",
+          "0"
+        ]
+      }
+    },
+    {
+      "id": "0WOvFqDc",
+      "date": "2025-11-08T15:30:00.000Z",
+      "round": "Round 10",
+      "homeTeam": "CF Lorca Deportiva",
+      "awayTeam": "Deportiva Minera",
+      "homeScore": 2,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "Oh8nlG8s",
+      "date": "2025-11-02T17:30:00.000Z",
+      "round": "Round 9",
+      "homeTeam": "CD Estepona",
+      "awayTeam": "CF Lorca Deportiva",
+      "homeScore": 1,
+      "awayScore": 3,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "v5jwcBiC",
+      "date": "2025-11-02T16:00:00.000Z",
+      "round": "Round 9",
+      "homeTeam": "Puente Genil",
+      "awayTeam": "Aguilas",
+      "homeScore": 1,
+      "awayScore": 0,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "APbM0ghm",
+      "date": "2025-11-02T16:00:00.000Z",
+      "round": "Round 9",
+      "homeTeam": "Xerez Deportivo FC",
+      "awayTeam": "CA Antoniano",
+      "homeScore": 2,
+      "awayScore": 0,
+      "htHome": 2,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "0b3BrCxJ",
+      "date": "2025-11-02T15:00:00.000Z",
+      "round": "Round 9",
+      "homeTeam": "Rec de Huelva",
+      "awayTeam": "Atletico Malagueno",
+      "homeScore": 1,
+      "awayScore": 0,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "WIBfnfwf",
+      "date": "2025-11-02T11:00:00.000Z",
+      "round": "Round 9",
+      "homeTeam": "Almeria B",
+      "awayTeam": "La Union CF",
+      "homeScore": 0,
+      "awayScore": 3,
+      "htHome": 0,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Red cards": [
+          "0",
+          "1"
+        ]
+      }
+    },
+    {
+      "id": "WvmVbXMa",
+      "date": "2025-11-02T11:00:00.000Z",
+      "round": "Round 9",
+      "homeTeam": "Deportiva Minera",
+      "awayTeam": "Real Jaen",
+      "homeScore": 1,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "Sp53pY76",
+      "date": "2025-11-02T11:00:00.000Z",
+      "round": "Round 9",
+      "homeTeam": "Linares Deportivo",
+      "awayTeam": "Xerez CD",
+      "homeScore": 2,
+      "awayScore": 2,
+      "htHome": 0,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "ImNAv3yo",
+      "date": "2025-11-02T11:00:00.000Z",
+      "round": "Round 9",
+      "homeTeam": "Melilla",
+      "awayTeam": "CD Extremadura",
+      "homeScore": 0,
+      "awayScore": 0,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "vs8j6FUP",
+      "date": "2025-11-02T11:00:00.000Z",
+      "round": "Round 9",
+      "homeTeam": "UCAM Murcia CF",
+      "awayTeam": "Yeclano",
+      "homeScore": 1,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Yellow cards": [
+          "1",
+          "0"
+        ],
+        "Red cards": [
+          "1",
+          "0"
+        ]
+      }
+    },
+    {
+      "id": "EsuUVYhD",
+      "date": "2025-10-26T19:00:00.000Z",
+      "round": "Round 8",
+      "homeTeam": "Atletico Malagueno",
+      "awayTeam": "Aguilas",
+      "homeScore": 1,
+      "awayScore": 3,
+      "htHome": 0,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "vLWFgxoK",
+      "date": "2025-10-26T18:00:00.000Z",
+      "round": "Round 8",
+      "homeTeam": "Xerez CD",
+      "awayTeam": "Deportiva Minera",
+      "homeScore": 1,
+      "awayScore": 0,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "82JVMwAr",
+      "date": "2025-10-26T10:30:00.000Z",
+      "round": "Round 8",
+      "homeTeam": "CA Antoniano",
+      "awayTeam": "Melilla",
+      "homeScore": 3,
+      "awayScore": 2,
+      "htHome": 1,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Red cards": [
+          "1",
+          "0"
+        ]
+      }
+    },
+    {
+      "id": "IFoLXfO0",
+      "date": "2025-10-26T10:30:00.000Z",
+      "round": "Round 8",
+      "homeTeam": "La Union CF",
+      "awayTeam": "Rec de Huelva",
+      "homeScore": 0,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Yellow cards": [
+          "1",
+          "1"
+        ],
+        "Red cards": [
+          "1",
+          "1"
+        ]
+      }
+    },
+    {
+      "id": "QH6tuwWQ",
+      "date": "2025-10-25T19:00:00.000Z",
+      "round": "Round 8",
+      "homeTeam": "Real Jaen",
+      "awayTeam": "Almeria B",
+      "homeScore": 2,
+      "awayScore": 1,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "CfGnJe97",
+      "date": "2025-10-25T16:00:00.000Z",
+      "round": "Round 8",
+      "homeTeam": "CD Extremadura",
+      "awayTeam": "Xerez Deportivo FC",
+      "homeScore": 3,
+      "awayScore": 2,
+      "htHome": 1,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "p2mDZGgl",
+      "date": "2025-10-25T16:00:00.000Z",
+      "round": "Round 8",
+      "homeTeam": "Yeclano",
+      "awayTeam": "Linares Deportivo",
+      "homeScore": 1,
+      "awayScore": 0,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "hjgZta1E",
+      "date": "2025-10-25T15:30:00.000Z",
+      "round": "Round 8",
+      "homeTeam": "UCAM Murcia CF",
+      "awayTeam": "CD Estepona",
+      "homeScore": 2,
+      "awayScore": 0,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "CWXaSanL",
+      "date": "2025-10-19T16:00:00.000Z",
+      "round": "Round 7",
+      "homeTeam": "Xerez Deportivo FC",
+      "awayTeam": "Aguilas",
+      "homeScore": 1,
+      "awayScore": 1,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "rwcaSvVN",
+      "date": "2025-10-19T15:30:00.000Z",
+      "round": "Round 7",
+      "homeTeam": "CA Antoniano",
+      "awayTeam": "CD Extremadura",
+      "homeScore": 1,
+      "awayScore": 0,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "IXviULH8",
+      "date": "2025-10-19T15:00:00.000Z",
+      "round": "Round 7",
+      "homeTeam": "Melilla",
+      "awayTeam": "Atletico Malagueno",
+      "homeScore": 2,
+      "awayScore": 1,
+      "htHome": 1,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "WdIFUUBi",
+      "date": "2025-10-19T10:00:00.000Z",
+      "round": "Round 7",
+      "homeTeam": "Almeria B",
+      "awayTeam": "UCAM Murcia CF",
+      "homeScore": 1,
+      "awayScore": 2,
+      "htHome": 1,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Yellow cards": [
+          "1",
+          "0"
+        ],
+        "Red cards": [
+          "1",
+          "0"
+        ]
+      }
+    },
+    {
+      "id": "UBbd8vek",
+      "date": "2025-10-19T10:00:00.000Z",
+      "round": "Round 7",
+      "homeTeam": "Deportiva Minera",
+      "awayTeam": "La Union CF",
+      "homeScore": 1,
+      "awayScore": 0,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "4AGNS8t4",
+      "date": "2025-10-19T10:00:00.000Z",
+      "round": "Round 7",
+      "homeTeam": "Linares Deportivo",
+      "awayTeam": "CF Lorca Deportiva",
+      "homeScore": 1,
+      "awayScore": 3,
+      "htHome": 0,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "jRn56IP1",
+      "date": "2025-10-19T10:00:00.000Z",
+      "round": "Round 7",
+      "homeTeam": "Puente Genil",
+      "awayTeam": "Real Jaen",
+      "homeScore": 1,
+      "awayScore": 1,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "OCWOQnBG",
+      "date": "2025-10-19T10:00:00.000Z",
+      "round": "Round 7",
+      "homeTeam": "Rec de Huelva",
+      "awayTeam": "Xerez CD",
+      "homeScore": 1,
+      "awayScore": 2,
+      "htHome": 0,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "ELmVMIho",
+      "date": "2025-10-18T17:30:00.000Z",
+      "round": "Round 7",
+      "homeTeam": "CD Estepona",
+      "awayTeam": "Yeclano",
+      "homeScore": 0,
+      "awayScore": 2,
+      "htHome": 0,
+      "htAway": 2,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "MN8jU00B",
+      "date": "2025-10-12T16:00:00.000Z",
+      "round": "Round 6",
+      "homeTeam": "CF Lorca Deportiva",
+      "awayTeam": "CD Extremadura",
+      "homeScore": 0,
+      "awayScore": 0,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Red cards": [
+          "0",
+          "1"
+        ]
+      }
+    },
+    {
+      "id": "M9THF1oI",
+      "date": "2025-10-12T16:00:00.000Z",
+      "round": "Round 6",
+      "homeTeam": "Xerez CD",
+      "awayTeam": "Almeria B",
+      "homeScore": 1,
+      "awayScore": 0,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "UFjqWMVb",
+      "date": "2025-10-12T10:00:00.000Z",
+      "round": "Round 6",
+      "homeTeam": "Deportiva Minera",
+      "awayTeam": "Rec de Huelva",
+      "homeScore": 1,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Yellow cards": [
+          "1",
+          "0"
+        ],
+        "Red cards": [
+          "2",
+          "0"
+        ]
+      }
+    },
+    {
+      "id": "Sn8r12WO",
+      "date": "2025-10-12T10:00:00.000Z",
+      "round": "Round 6",
+      "homeTeam": "Real Jaen",
+      "awayTeam": "Melilla",
+      "homeScore": 1,
+      "awayScore": 1,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Red cards": [
+          "0",
+          "1"
+        ]
+      }
+    },
+    {
+      "id": "zgV9HNG5",
+      "date": "2025-10-12T10:00:00.000Z",
+      "round": "Round 6",
+      "homeTeam": "Atletico Malagueno",
+      "awayTeam": "CD Estepona",
+      "homeScore": 0,
+      "awayScore": 3,
+      "htHome": 0,
+      "htAway": 2,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "6DwgL5Ht",
+      "date": "2025-10-12T10:00:00.000Z",
+      "round": "Round 6",
+      "homeTeam": "UCAM Murcia CF",
+      "awayTeam": "Xerez Deportivo FC",
+      "homeScore": 2,
+      "awayScore": 1,
+      "htHome": 1,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "IyNQDuGU",
+      "date": "2025-10-12T09:30:00.000Z",
+      "round": "Round 6",
+      "homeTeam": "La Union CF",
+      "awayTeam": "Linares Deportivo",
+      "homeScore": 3,
+      "awayScore": 1,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "Ews1Jqng",
+      "date": "2025-10-11T16:30:00.000Z",
+      "round": "Round 6",
+      "homeTeam": "Aguilas",
+      "awayTeam": "CA Antoniano",
+      "homeScore": 1,
+      "awayScore": 0,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "YmczYr1n",
+      "date": "2025-10-11T15:00:00.000Z",
+      "round": "Round 6",
+      "homeTeam": "Yeclano",
+      "awayTeam": "Puente Genil",
+      "homeScore": 1,
+      "awayScore": 0,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "6wNqfTIs",
+      "date": "2025-10-05T17:30:00.000Z",
+      "round": "Round 5",
+      "homeTeam": "CD Estepona",
+      "awayTeam": "Real Jaen",
+      "homeScore": 1,
+      "awayScore": 2,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "zJE0joI6",
+      "date": "2025-10-05T16:00:00.000Z",
+      "round": "Round 5",
+      "homeTeam": "Xerez Deportivo FC",
+      "awayTeam": "Yeclano",
+      "homeScore": 2,
+      "awayScore": 1,
+      "htHome": 2,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Red cards": [
+          "1",
+          "0"
+        ]
+      }
+    },
+    {
+      "id": "fZ9z3O1C",
+      "date": "2025-10-05T10:00:00.000Z",
+      "round": "Round 5",
+      "homeTeam": "Almeria B",
+      "awayTeam": "Aguilas",
+      "homeScore": 0,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "0veCCyZ8",
+      "date": "2025-10-05T10:00:00.000Z",
+      "round": "Round 5",
+      "homeTeam": "CA Antoniano",
+      "awayTeam": "Atletico Malagueno",
+      "homeScore": 2,
+      "awayScore": 1,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "hADJ662m",
+      "date": "2025-10-05T10:00:00.000Z",
+      "round": "Round 5",
+      "homeTeam": "CD Extremadura",
+      "awayTeam": "UCAM Murcia CF",
+      "homeScore": 2,
+      "awayScore": 2,
+      "htHome": 1,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Red cards": [
+          "1",
+          "0"
+        ]
+      }
+    },
+    {
+      "id": "25Ghh7mf",
+      "date": "2025-10-05T10:00:00.000Z",
+      "round": "Round 5",
+      "homeTeam": "Linares Deportivo",
+      "awayTeam": "Deportiva Minera",
+      "homeScore": 3,
+      "awayScore": 2,
+      "htHome": 3,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "0zHR4pXa",
+      "date": "2025-10-05T10:00:00.000Z",
+      "round": "Round 5",
+      "homeTeam": "Melilla",
+      "awayTeam": "Xerez CD",
+      "homeScore": 1,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "tWq1lPnJ",
+      "date": "2025-10-05T10:00:00.000Z",
+      "round": "Round 5",
+      "homeTeam": "Puente Genil",
+      "awayTeam": "La Union CF",
+      "homeScore": 0,
+      "awayScore": 0,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Yellow cards": [
+          "0",
+          "1"
+        ],
+        "Red cards": [
+          "0",
+          "1"
+        ]
+      }
+    },
+    {
+      "id": "8xxmCSvQ",
+      "date": "2025-10-05T10:00:00.000Z",
+      "round": "Round 5",
+      "homeTeam": "Rec de Huelva",
+      "awayTeam": "CF Lorca Deportiva",
+      "homeScore": 2,
+      "awayScore": 1,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "WbLfoazA",
+      "date": "2025-09-28T17:00:00.000Z",
+      "round": "Round 4",
+      "homeTeam": "Real Jaen",
+      "awayTeam": "Xerez Deportivo FC",
+      "homeScore": 2,
+      "awayScore": 1,
+      "htHome": 1,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "SQE3qw5M",
+      "date": "2025-09-28T17:00:00.000Z",
+      "round": "Round 4",
+      "homeTeam": "Atletico Malagueno",
+      "awayTeam": "Puente Genil",
+      "homeScore": 0,
+      "awayScore": 0,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "KOgrxecd",
+      "date": "2025-09-28T16:30:00.000Z",
+      "round": "Round 4",
+      "homeTeam": "Aguilas",
+      "awayTeam": "CD Extremadura",
+      "homeScore": 1,
+      "awayScore": 2,
+      "htHome": 1,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "MmzwbxKF",
+      "date": "2025-09-28T16:00:00.000Z",
+      "round": "Round 4",
+      "homeTeam": "Xerez CD",
+      "awayTeam": "CD Estepona",
+      "homeScore": 0,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "EoFHjfCk",
+      "date": "2025-09-28T16:00:00.000Z",
+      "round": "Round 4",
+      "homeTeam": "Yeclano",
+      "awayTeam": "CF Lorca Deportiva",
+      "homeScore": 0,
+      "awayScore": 0,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Red cards": [
+          "0",
+          "1"
+        ]
+      }
+    },
+    {
+      "id": "f1YpdGlS",
+      "date": "2025-09-28T10:00:00.000Z",
+      "round": "Round 4",
+      "homeTeam": "Deportiva Minera",
+      "awayTeam": "Almeria B",
+      "homeScore": 4,
+      "awayScore": 0,
+      "htHome": 3,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "QLtUabk3",
+      "date": "2025-09-28T10:00:00.000Z",
+      "round": "Round 4",
+      "homeTeam": "UCAM Murcia CF",
+      "awayTeam": "CA Antoniano",
+      "homeScore": 0,
+      "awayScore": 0,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "KrIPlYt2",
+      "date": "2025-09-28T09:30:00.000Z",
+      "round": "Round 4",
+      "homeTeam": "La Union CF",
+      "awayTeam": "Melilla",
+      "homeScore": 1,
+      "awayScore": 0,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "b95ZwHSq",
+      "date": "2025-09-27T16:30:00.000Z",
+      "round": "Round 4",
+      "homeTeam": "Rec de Huelva",
+      "awayTeam": "Linares Deportivo",
+      "homeScore": 1,
+      "awayScore": 1,
+      "htHome": 1,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "boNnmL5c",
+      "date": "2025-09-21T17:00:00.000Z",
+      "round": "Round 3",
+      "homeTeam": "Xerez Deportivo FC",
+      "awayTeam": "Atletico Malagueno",
+      "homeScore": 1,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "bXsEYLj4",
+      "date": "2025-09-21T16:30:00.000Z",
+      "round": "Round 3",
+      "homeTeam": "Aguilas",
+      "awayTeam": "Xerez CD",
+      "homeScore": 0,
+      "awayScore": 0,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "SCZUUwjT",
+      "date": "2025-09-21T16:00:00.000Z",
+      "round": "Round 3",
+      "homeTeam": "CD Extremadura",
+      "awayTeam": "Yeclano",
+      "homeScore": 2,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "nyuRCvUp",
+      "date": "2025-09-21T10:00:00.000Z",
+      "round": "Round 3",
+      "homeTeam": "Almeria B",
+      "awayTeam": "Linares Deportivo",
+      "homeScore": 0,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "KQfnKMyB",
+      "date": "2025-09-21T10:00:00.000Z",
+      "round": "Round 3",
+      "homeTeam": "CA Antoniano",
+      "awayTeam": "Real Jaen",
+      "homeScore": 2,
+      "awayScore": 3,
+      "htHome": 1,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Red cards": [
+          "0",
+          "1"
+        ]
+      }
+    },
+    {
+      "id": "beQ0PHDj",
+      "date": "2025-09-21T10:00:00.000Z",
+      "round": "Round 3",
+      "homeTeam": "Melilla",
+      "awayTeam": "Deportiva Minera",
+      "homeScore": 2,
+      "awayScore": 2,
+      "htHome": 2,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "vVRCzrMi",
+      "date": "2025-09-21T10:00:00.000Z",
+      "round": "Round 3",
+      "homeTeam": "Puente Genil",
+      "awayTeam": "UCAM Murcia CF",
+      "homeScore": 1,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Red cards": [
+          "0",
+          "1"
+        ]
+      }
+    },
+    {
+      "id": "SjbfI06N",
+      "date": "2025-09-20T18:30:00.000Z",
+      "round": "Round 3",
+      "homeTeam": "CD Estepona",
+      "awayTeam": "Rec de Huelva",
+      "homeScore": 0,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "6coMWaLG",
+      "date": "2025-09-20T17:00:00.000Z",
+      "round": "Round 3",
+      "homeTeam": "CF Lorca Deportiva",
+      "awayTeam": "La Union CF",
+      "homeScore": 1,
+      "awayScore": 2,
+      "htHome": 0,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Yellow cards": [
+          "0",
+          "1"
+        ],
+        "Red cards": [
+          "0",
+          "1"
+        ]
+      }
+    },
+    {
+      "id": "Ai52KVVg",
+      "date": "2025-09-14T18:00:00.000Z",
+      "round": "Round 2",
+      "homeTeam": "Atletico Malagueno",
+      "awayTeam": "Almeria B",
+      "homeScore": 0,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Red cards": [
+          "1",
+          "0"
+        ]
+      }
+    },
+    {
+      "id": "vXdJGmVI",
+      "date": "2025-09-14T17:30:00.000Z",
+      "round": "Round 2",
+      "homeTeam": "UCAM Murcia CF",
+      "awayTeam": "CF Lorca Deportiva",
+      "homeScore": 2,
+      "awayScore": 1,
+      "htHome": 2,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "hE3VN4xn",
+      "date": "2025-09-14T17:00:00.000Z",
+      "round": "Round 2",
+      "homeTeam": "Real Jaen",
+      "awayTeam": "CD Extremadura",
+      "homeScore": 0,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "hhGORDwK",
+      "date": "2025-09-14T17:00:00.000Z",
+      "round": "Round 2",
+      "homeTeam": "Xerez CD",
+      "awayTeam": "CA Antoniano",
+      "homeScore": 2,
+      "awayScore": 0,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Red cards": [
+          "1",
+          "0"
+        ]
+      }
+    },
+    {
+      "id": "UJUT5WG0",
+      "date": "2025-09-14T16:30:00.000Z",
+      "round": "Round 2",
+      "homeTeam": "Rec de Huelva",
+      "awayTeam": "Puente Genil",
+      "homeScore": 1,
+      "awayScore": 2,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "6JbBI906",
+      "date": "2025-09-14T16:00:00.000Z",
+      "round": "Round 2",
+      "homeTeam": "Linares Deportivo",
+      "awayTeam": "Aguilas",
+      "homeScore": 1,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "QoOx4AoD",
+      "date": "2025-09-14T09:30:00.000Z",
+      "round": "Round 2",
+      "homeTeam": "La Union CF",
+      "awayTeam": "Xerez Deportivo FC",
+      "homeScore": 1,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "bB6wMr7b",
+      "date": "2025-09-14T09:30:00.000Z",
+      "round": "Round 2",
+      "homeTeam": "Yeclano",
+      "awayTeam": "Melilla",
+      "homeScore": 1,
+      "awayScore": 0,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "xQieMi1s",
+      "date": "2025-09-14T09:00:00.000Z",
+      "round": "Round 2",
+      "homeTeam": "Deportiva Minera",
+      "awayTeam": "CD Estepona",
+      "homeScore": 1,
+      "awayScore": 0,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "je89vye2",
+      "date": "2025-09-07T18:00:00.000Z",
+      "round": "Round 1",
+      "homeTeam": "CA Antoniano",
+      "awayTeam": "La Union CF",
+      "homeScore": 0,
+      "awayScore": 0,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "d6WL7hnl",
+      "date": "2025-09-07T18:00:00.000Z",
+      "round": "Round 1",
+      "homeTeam": "Xerez Deportivo FC",
+      "awayTeam": "Deportiva Minera",
+      "homeScore": 1,
+      "awayScore": 3,
+      "htHome": 1,
+      "htAway": 2,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "U1eygzAe",
+      "date": "2025-09-07T17:00:00.000Z",
+      "round": "Round 1",
+      "homeTeam": "Aguilas",
+      "awayTeam": "Yeclano",
+      "homeScore": 2,
+      "awayScore": 1,
+      "htHome": 2,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "xSbqiEv8",
+      "date": "2025-09-07T17:00:00.000Z",
+      "round": "Round 1",
+      "homeTeam": "CD Extremadura",
+      "awayTeam": "Atletico Malagueno",
+      "homeScore": 3,
+      "awayScore": 2,
+      "htHome": 0,
+      "htAway": 2,
+      "status": "FINISHED",
+      "stats": {
+        "Yellow cards": [
+          "1",
+          "0"
+        ],
+        "Red cards": [
+          "1",
+          "1"
+        ]
+      }
+    },
+    {
+      "id": "vkjkDEOQ",
+      "date": "2025-09-07T17:00:00.000Z",
+      "round": "Round 1",
+      "homeTeam": "CF Lorca Deportiva",
+      "awayTeam": "Real Jaen",
+      "homeScore": 0,
+      "awayScore": 0,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "ETg40IHL",
+      "date": "2025-09-07T10:00:00.000Z",
+      "round": "Round 1",
+      "homeTeam": "Almeria B",
+      "awayTeam": "Rec de Huelva",
+      "homeScore": 0,
+      "awayScore": 2,
+      "htHome": 0,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "WOnsFzfE",
+      "date": "2025-09-07T10:00:00.000Z",
+      "round": "Round 1",
+      "homeTeam": "Melilla",
+      "awayTeam": "UCAM Murcia CF",
+      "homeScore": 2,
+      "awayScore": 0,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "I10e2vm9",
+      "date": "2025-09-06T18:45:00.000Z",
+      "round": "Round 1",
+      "homeTeam": "CD Estepona",
+      "awayTeam": "Linares Deportivo",
+      "homeScore": 1,
+      "awayScore": 1,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "Aauzeduq",
+      "date": "2025-09-06T17:00:00.000Z",
+      "round": "Round 1",
+      "homeTeam": "Puente Genil",
+      "awayTeam": "Xerez CD",
+      "homeScore": 2,
+      "awayScore": 1,
+      "htHome": 1,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {}
+    }
+  ]
+}

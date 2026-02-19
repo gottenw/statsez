@@ -1,0 +1,3389 @@
+{
+  "league": "V.League 1",
+  "country": "vietnam",
+  "season": "2025-2026",
+  "collectedAt": "2026-02-10T19:36:13.310Z",
+  "totalMatches": 88,
+  "matches": [
+    {
+      "id": "8YuMCwrC",
+      "date": "2026-02-09T11:00:00.000Z",
+      "round": "Round 13",
+      "homeTeam": "Nam Dinh",
+      "awayTeam": "Hong Linh Ha Tinh",
+      "homeScore": 1,
+      "awayScore": 1,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "49%",
+          "51%"
+        ],
+        "Total shots": [
+          "14",
+          "8"
+        ],
+        "Shots on target": [
+          "7",
+          "4"
+        ],
+        "Corner kicks": [
+          "8",
+          "5"
+        ],
+        "Yellow cards": [
+          "1",
+          "2"
+        ],
+        "Shots off target": [
+          "7",
+          "4"
+        ]
+      }
+    },
+    {
+      "id": "GIRCGLrm",
+      "date": "2026-02-08T12:15:00.000Z",
+      "round": "Round 13",
+      "homeTeam": "Ho Chi Minh City",
+      "awayTeam": "Thanh Hoa",
+      "homeScore": 1,
+      "awayScore": 2,
+      "htHome": 1,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "56%",
+          "44%"
+        ],
+        "Total shots": [
+          "9",
+          "8"
+        ],
+        "Shots on target": [
+          "6",
+          "5"
+        ],
+        "Corner kicks": [
+          "3",
+          "3"
+        ],
+        "Yellow cards": [
+          "2",
+          "2"
+        ],
+        "Shots off target": [
+          "3",
+          "3"
+        ]
+      }
+    },
+    {
+      "id": "lWPKEaDa",
+      "date": "2026-02-08T12:15:00.000Z",
+      "round": "Round 13",
+      "homeTeam": "Viettel FC",
+      "awayTeam": "Song Lam Nghe An",
+      "homeScore": 1,
+      "awayScore": 4,
+      "htHome": 1,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "65%",
+          "35%"
+        ],
+        "Total shots": [
+          "17",
+          "6"
+        ],
+        "Shots on target": [
+          "9",
+          "5"
+        ],
+        "Corner kicks": [
+          "8",
+          "4"
+        ],
+        "Yellow cards": [
+          "2",
+          "5"
+        ],
+        "Red cards": [
+          "0",
+          "1"
+        ],
+        "Shots off target": [
+          "8",
+          "1"
+        ]
+      }
+    },
+    {
+      "id": "URhfbvTI",
+      "date": "2026-02-07T12:15:00.000Z",
+      "round": "Round 13",
+      "homeTeam": "Ha Noi FC",
+      "awayTeam": "Hai Phong",
+      "homeScore": 2,
+      "awayScore": 0,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "40%",
+          "60%"
+        ],
+        "Total shots": [
+          "12",
+          "13"
+        ],
+        "Shots on target": [
+          "6",
+          "4"
+        ],
+        "Corner kicks": [
+          "3",
+          "8"
+        ],
+        "Shots off target": [
+          "6",
+          "9"
+        ]
+      }
+    },
+    {
+      "id": "dYptMsLP",
+      "date": "2026-02-07T11:00:00.000Z",
+      "round": "Round 13",
+      "homeTeam": "Binh Duong",
+      "awayTeam": "PVF-CAND",
+      "homeScore": 1,
+      "awayScore": 2,
+      "htHome": 1,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "52%",
+          "48%"
+        ],
+        "Total shots": [
+          "10",
+          "6"
+        ],
+        "Shots on target": [
+          "1",
+          "2"
+        ],
+        "Corner kicks": [
+          "3",
+          "2"
+        ],
+        "Yellow cards": [
+          "0",
+          "3"
+        ],
+        "Shots off target": [
+          "9",
+          "4"
+        ]
+      }
+    },
+    {
+      "id": "8C4o00b6",
+      "date": "2026-02-07T11:00:00.000Z",
+      "round": "Round 13",
+      "homeTeam": "TTBD Phu Dong",
+      "awayTeam": "Hoang Anh Gia Lai",
+      "homeScore": 1,
+      "awayScore": 2,
+      "htHome": 0,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "47%",
+          "53%"
+        ],
+        "Total shots": [
+          "9",
+          "6"
+        ],
+        "Shots on target": [
+          "2",
+          "4"
+        ],
+        "Corner kicks": [
+          "8",
+          "2"
+        ],
+        "Yellow cards": [
+          "2",
+          "2"
+        ],
+        "Shots off target": [
+          "7",
+          "2"
+        ]
+      }
+    },
+    {
+      "id": "G4nv2MTg",
+      "date": "2026-02-01T12:15:00.000Z",
+      "round": "Round 12",
+      "homeTeam": "Cong An Ha Noi",
+      "awayTeam": "TTBD Phu Dong",
+      "homeScore": 3,
+      "awayScore": 2,
+      "htHome": 3,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "46%",
+          "54%"
+        ],
+        "Total shots": [
+          "6",
+          "5"
+        ],
+        "Shots on target": [
+          "6",
+          "3"
+        ],
+        "Corner kicks": [
+          "4",
+          "1"
+        ],
+        "Yellow cards": [
+          "2",
+          "2"
+        ],
+        "Red cards": [
+          "0",
+          "1"
+        ],
+        "Shots off target": [
+          "0",
+          "2"
+        ]
+      }
+    },
+    {
+      "id": "O67a94yK",
+      "date": "2026-02-01T11:00:00.000Z",
+      "round": "Round 12",
+      "homeTeam": "PVF-CAND",
+      "awayTeam": "Ho Chi Minh City",
+      "homeScore": 1,
+      "awayScore": 2,
+      "htHome": 0,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "47%",
+          "53%"
+        ],
+        "Total shots": [
+          "11",
+          "10"
+        ],
+        "Shots on target": [
+          "7",
+          "5"
+        ],
+        "Corner kicks": [
+          "3",
+          "4"
+        ],
+        "Yellow cards": [
+          "2",
+          "2"
+        ],
+        "Shots off target": [
+          "4",
+          "5"
+        ]
+      }
+    },
+    {
+      "id": "KxgV3ras",
+      "date": "2026-02-01T11:00:00.000Z",
+      "round": "Round 12",
+      "homeTeam": "Thanh Hoa",
+      "awayTeam": "Nam Dinh",
+      "homeScore": 2,
+      "awayScore": 2,
+      "htHome": 1,
+      "htAway": 2,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "48%",
+          "52%"
+        ],
+        "Total shots": [
+          "10",
+          "11"
+        ],
+        "Shots on target": [
+          "6",
+          "4"
+        ],
+        "Corner kicks": [
+          "3",
+          "3"
+        ],
+        "Yellow cards": [
+          "3",
+          "1"
+        ],
+        "Shots off target": [
+          "4",
+          "7"
+        ]
+      }
+    },
+    {
+      "id": "6VxF1hID",
+      "date": "2026-02-01T10:00:00.000Z",
+      "round": "Round 12",
+      "homeTeam": "Hoang Anh Gia Lai",
+      "awayTeam": "Da Nang",
+      "homeScore": 1,
+      "awayScore": 0,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "51%",
+          "49%"
+        ],
+        "Total shots": [
+          "3",
+          "3"
+        ],
+        "Shots on target": [
+          "1",
+          "2"
+        ],
+        "Corner kicks": [
+          "0",
+          "2"
+        ],
+        "Yellow cards": [
+          "3",
+          "5"
+        ],
+        "Shots off target": [
+          "2",
+          "1"
+        ]
+      }
+    },
+    {
+      "id": "bajb5zJl",
+      "date": "2026-01-31T11:00:00.000Z",
+      "round": "Round 12",
+      "homeTeam": "Hai Phong",
+      "awayTeam": "Viettel FC",
+      "homeScore": 1,
+      "awayScore": 2,
+      "htHome": 0,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "53%",
+          "47%"
+        ],
+        "Total shots": [
+          "7",
+          "11"
+        ],
+        "Shots on target": [
+          "3",
+          "7"
+        ],
+        "Corner kicks": [
+          "2",
+          "10"
+        ],
+        "Yellow cards": [
+          "1",
+          "3"
+        ],
+        "Shots off target": [
+          "4",
+          "4"
+        ]
+      }
+    },
+    {
+      "id": "KEv73Em1",
+      "date": "2026-01-31T11:00:00.000Z",
+      "round": "Round 12",
+      "homeTeam": "Song Lam Nghe An",
+      "awayTeam": "Ha Noi FC",
+      "homeScore": 1,
+      "awayScore": 3,
+      "htHome": 0,
+      "htAway": 2,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "50%",
+          "50%"
+        ],
+        "Total shots": [
+          "12",
+          "11"
+        ],
+        "Shots on target": [
+          "6",
+          "8"
+        ],
+        "Corner kicks": [
+          "5",
+          "5"
+        ],
+        "Yellow cards": [
+          "3",
+          "2"
+        ],
+        "Red cards": [
+          "0",
+          "1"
+        ],
+        "Shots off target": [
+          "6",
+          "3"
+        ]
+      }
+    },
+    {
+      "id": "h0OQNrZF",
+      "date": "2026-01-30T11:00:00.000Z",
+      "round": "Round 12",
+      "homeTeam": "Hong Linh Ha Tinh",
+      "awayTeam": "Binh Duong",
+      "homeScore": 0,
+      "awayScore": 0,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "50%",
+          "50%"
+        ],
+        "Total shots": [
+          "12",
+          "5"
+        ],
+        "Shots on target": [
+          "10",
+          "1"
+        ],
+        "Corner kicks": [
+          "6",
+          "1"
+        ],
+        "Yellow cards": [
+          "2",
+          "1"
+        ],
+        "Shots off target": [
+          "2",
+          "4"
+        ]
+      }
+    },
+    {
+      "id": "6axU4fpJ",
+      "date": "2025-12-18T10:00:00.000Z",
+      "round": "Round 4",
+      "homeTeam": "Hoang Anh Gia Lai",
+      "awayTeam": "Cong An Ha Noi",
+      "homeScore": 1,
+      "awayScore": 3,
+      "htHome": 0,
+      "htAway": 2,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "46%",
+          "54%"
+        ],
+        "Total shots": [
+          "9",
+          "11"
+        ],
+        "Shots on target": [
+          "3",
+          "5"
+        ],
+        "Corner kicks": [
+          "6",
+          "4"
+        ],
+        "Yellow cards": [
+          "2",
+          "2"
+        ],
+        "Shots off target": [
+          "6",
+          "6"
+        ]
+      }
+    },
+    {
+      "id": "dYUHP443",
+      "date": "2025-11-10T12:15:00.000Z",
+      "round": "Round 11",
+      "homeTeam": "Cong An Ha Noi",
+      "awayTeam": "Hong Linh Ha Tinh",
+      "homeScore": 3,
+      "awayScore": 0,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "58%",
+          "42%"
+        ],
+        "Total shots": [
+          "9",
+          "7"
+        ],
+        "Shots on target": [
+          "7",
+          "2"
+        ],
+        "Corner kicks": [
+          "1",
+          "5"
+        ],
+        "Yellow cards": [
+          "1",
+          "3"
+        ],
+        "Shots off target": [
+          "2",
+          "5"
+        ]
+      }
+    },
+    {
+      "id": "4vrW11Cd",
+      "date": "2025-11-10T11:00:00.000Z",
+      "round": "Round 11",
+      "homeTeam": "Nam Dinh",
+      "awayTeam": "Ha Noi FC",
+      "homeScore": 1,
+      "awayScore": 1,
+      "htHome": 1,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "50%",
+          "50%"
+        ],
+        "Total shots": [
+          "8",
+          "5"
+        ],
+        "Shots on target": [
+          "2",
+          "2"
+        ],
+        "Corner kicks": [
+          "3",
+          "8"
+        ],
+        "Yellow cards": [
+          "4",
+          "3"
+        ],
+        "Shots off target": [
+          "6",
+          "3"
+        ]
+      }
+    },
+    {
+      "id": "AukN3Nsp",
+      "date": "2025-11-09T12:15:00.000Z",
+      "round": "Round 11",
+      "homeTeam": "Ho Chi Minh City",
+      "awayTeam": "TTBD Phu Dong",
+      "homeScore": 3,
+      "awayScore": 4,
+      "htHome": 3,
+      "htAway": 2,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "46%",
+          "54%"
+        ],
+        "Total shots": [
+          "16",
+          "11"
+        ],
+        "Shots on target": [
+          "7",
+          "8"
+        ],
+        "Corner kicks": [
+          "0",
+          "4"
+        ],
+        "Yellow cards": [
+          "1",
+          "1"
+        ],
+        "Shots off target": [
+          "9",
+          "3"
+        ]
+      }
+    },
+    {
+      "id": "IsArB5kA",
+      "date": "2025-11-09T11:00:00.000Z",
+      "round": "Round 11",
+      "homeTeam": "Hai Phong",
+      "awayTeam": "Da Nang",
+      "homeScore": 3,
+      "awayScore": 1,
+      "htHome": 2,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "62%",
+          "38%"
+        ],
+        "Total shots": [
+          "13",
+          "10"
+        ],
+        "Shots on target": [
+          "8",
+          "4"
+        ],
+        "Corner kicks": [
+          "8",
+          "4"
+        ],
+        "Yellow cards": [
+          "3",
+          "3"
+        ],
+        "Shots off target": [
+          "5",
+          "6"
+        ]
+      }
+    },
+    {
+      "id": "vcbi9qKM",
+      "date": "2025-11-09T11:00:00.000Z",
+      "round": "Round 11",
+      "homeTeam": "Song Lam Nghe An",
+      "awayTeam": "Binh Duong",
+      "homeScore": 2,
+      "awayScore": 1,
+      "htHome": 1,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "46%",
+          "54%"
+        ],
+        "Total shots": [
+          "6",
+          "6"
+        ],
+        "Shots on target": [
+          "5",
+          "3"
+        ],
+        "Corner kicks": [
+          "3",
+          "5"
+        ],
+        "Yellow cards": [
+          "2",
+          "0"
+        ],
+        "Shots off target": [
+          "1",
+          "3"
+        ]
+      }
+    },
+    {
+      "id": "pOndkOSj",
+      "date": "2025-11-09T10:00:00.000Z",
+      "round": "Round 11",
+      "homeTeam": "Hoang Anh Gia Lai",
+      "awayTeam": "Thanh Hoa",
+      "homeScore": 1,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "48%",
+          "52%"
+        ],
+        "Total shots": [
+          "11",
+          "17"
+        ],
+        "Shots on target": [
+          "7",
+          "5"
+        ],
+        "Corner kicks": [
+          "1",
+          "5"
+        ],
+        "Yellow cards": [
+          "2",
+          "6"
+        ],
+        "Shots off target": [
+          "4",
+          "12"
+        ]
+      }
+    },
+    {
+      "id": "AH6zDRKc",
+      "date": "2025-11-08T12:00:00.000Z",
+      "round": "Round 11",
+      "homeTeam": "PVF-CAND",
+      "awayTeam": "Viettel FC",
+      "homeScore": 2,
+      "awayScore": 2,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "51%",
+          "49%"
+        ],
+        "Total shots": [
+          "5",
+          "9"
+        ],
+        "Shots on target": [
+          "2",
+          "6"
+        ],
+        "Corner kicks": [
+          "2",
+          "6"
+        ],
+        "Yellow cards": [
+          "6",
+          "1"
+        ],
+        "Shots off target": [
+          "3",
+          "3"
+        ]
+      }
+    },
+    {
+      "id": "p049bS54",
+      "date": "2025-11-05T11:00:00.000Z",
+      "round": "Round 10",
+      "homeTeam": "Binh Duong",
+      "awayTeam": "Hai Phong",
+      "homeScore": 2,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "47%",
+          "53%"
+        ],
+        "Total shots": [
+          "18",
+          "9"
+        ],
+        "Shots on target": [
+          "12",
+          "5"
+        ],
+        "Corner kicks": [
+          "6",
+          "8"
+        ],
+        "Yellow cards": [
+          "1",
+          "1"
+        ],
+        "Shots off target": [
+          "6",
+          "4"
+        ]
+      }
+    },
+    {
+      "id": "lh1Qfp5T",
+      "date": "2025-11-05T11:00:00.000Z",
+      "round": "Round 10",
+      "homeTeam": "Da Nang",
+      "awayTeam": "Ho Chi Minh City",
+      "homeScore": 0,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "51%",
+          "49%"
+        ],
+        "Total shots": [
+          "5",
+          "3"
+        ],
+        "Shots on target": [
+          "5",
+          "2"
+        ],
+        "Corner kicks": [
+          "6",
+          "0"
+        ],
+        "Yellow cards": [
+          "2",
+          "3"
+        ],
+        "Red cards": [
+          "1",
+          "0"
+        ],
+        "Shots off target": [
+          "0",
+          "1"
+        ]
+      }
+    },
+    {
+      "id": "hQ7Hd6zH",
+      "date": "2025-11-05T11:00:00.000Z",
+      "round": "Round 10",
+      "homeTeam": "TTBD Phu Dong",
+      "awayTeam": "Song Lam Nghe An",
+      "homeScore": 1,
+      "awayScore": 0,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "59%",
+          "41%"
+        ],
+        "Total shots": [
+          "13",
+          "5"
+        ],
+        "Shots on target": [
+          "8",
+          "3"
+        ],
+        "Corner kicks": [
+          "10",
+          "1"
+        ],
+        "Yellow cards": [
+          "3",
+          "2"
+        ],
+        "Shots off target": [
+          "5",
+          "2"
+        ]
+      }
+    },
+    {
+      "id": "OpG00lyh",
+      "date": "2025-11-04T12:15:00.000Z",
+      "round": "Round 10",
+      "homeTeam": "Ha Noi FC",
+      "awayTeam": "PVF-CAND",
+      "homeScore": 4,
+      "awayScore": 0,
+      "htHome": 2,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "47%",
+          "53%"
+        ],
+        "Total shots": [
+          "14",
+          "6"
+        ],
+        "Shots on target": [
+          "9",
+          "2"
+        ],
+        "Corner kicks": [
+          "4",
+          "3"
+        ],
+        "Yellow cards": [
+          "2",
+          "0"
+        ],
+        "Shots off target": [
+          "5",
+          "4"
+        ]
+      }
+    },
+    {
+      "id": "b7OExoqo",
+      "date": "2025-11-04T11:00:00.000Z",
+      "round": "Round 10",
+      "homeTeam": "Hong Linh Ha Tinh",
+      "awayTeam": "Hoang Anh Gia Lai",
+      "homeScore": 1,
+      "awayScore": 0,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "55%",
+          "45%"
+        ],
+        "Total shots": [
+          "8",
+          "5"
+        ],
+        "Shots on target": [
+          "5",
+          "2"
+        ],
+        "Corner kicks": [
+          "2",
+          "0"
+        ],
+        "Yellow cards": [
+          "2",
+          "1"
+        ],
+        "Shots off target": [
+          "3",
+          "3"
+        ]
+      }
+    },
+    {
+      "id": "My6eRxc5",
+      "date": "2025-11-02T11:00:00.000Z",
+      "round": "Round 9",
+      "homeTeam": "Thanh Hoa",
+      "awayTeam": "Viettel FC",
+      "homeScore": 0,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "38%",
+          "62%"
+        ],
+        "Total shots": [
+          "8",
+          "10"
+        ],
+        "Shots on target": [
+          "3",
+          "6"
+        ],
+        "Corner kicks": [
+          "2",
+          "4"
+        ],
+        "Yellow cards": [
+          "1",
+          "2"
+        ],
+        "Shots off target": [
+          "5",
+          "4"
+        ]
+      }
+    },
+    {
+      "id": "vNsrr7LN",
+      "date": "2025-11-01T12:15:00.000Z",
+      "round": "Round 9",
+      "homeTeam": "Ho Chi Minh City",
+      "awayTeam": "Hai Phong",
+      "homeScore": 1,
+      "awayScore": 2,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "49%",
+          "51%"
+        ],
+        "Total shots": [
+          "14",
+          "14"
+        ],
+        "Shots on target": [
+          "4",
+          "7"
+        ],
+        "Corner kicks": [
+          "4",
+          "4"
+        ],
+        "Yellow cards": [
+          "2",
+          "2"
+        ],
+        "Shots off target": [
+          "10",
+          "7"
+        ]
+      }
+    },
+    {
+      "id": "69qzpTjB",
+      "date": "2025-11-01T11:00:00.000Z",
+      "round": "Round 9",
+      "homeTeam": "Da Nang",
+      "awayTeam": "Song Lam Nghe An",
+      "homeScore": 1,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "52%",
+          "48%"
+        ],
+        "Total shots": [
+          "13",
+          "12"
+        ],
+        "Shots on target": [
+          "8",
+          "6"
+        ],
+        "Corner kicks": [
+          "3",
+          "1"
+        ],
+        "Yellow cards": [
+          "1",
+          "2"
+        ],
+        "Shots off target": [
+          "5",
+          "6"
+        ]
+      }
+    },
+    {
+      "id": "AsjRokMb",
+      "date": "2025-11-01T11:00:00.000Z",
+      "round": "Round 9",
+      "homeTeam": "TTBD Phu Dong",
+      "awayTeam": "Binh Duong",
+      "homeScore": 1,
+      "awayScore": 1,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "51%",
+          "49%"
+        ],
+        "Total shots": [
+          "14",
+          "8"
+        ],
+        "Shots on target": [
+          "5",
+          "5"
+        ],
+        "Corner kicks": [
+          "5",
+          "5"
+        ],
+        "Yellow cards": [
+          "0",
+          "3"
+        ],
+        "Shots off target": [
+          "9",
+          "3"
+        ]
+      }
+    },
+    {
+      "id": "OQiJmBin",
+      "date": "2025-10-31T12:15:00.000Z",
+      "round": "Round 9",
+      "homeTeam": "Cong An Ha Noi",
+      "awayTeam": "PVF-CAND",
+      "homeScore": 2,
+      "awayScore": 0,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "58%",
+          "42%"
+        ],
+        "Total shots": [
+          "13",
+          "7"
+        ],
+        "Shots on target": [
+          "5",
+          "2"
+        ],
+        "Corner kicks": [
+          "6",
+          "2"
+        ],
+        "Yellow cards": [
+          "4",
+          "2"
+        ],
+        "Shots off target": [
+          "8",
+          "5"
+        ]
+      }
+    },
+    {
+      "id": "KCR8T76U",
+      "date": "2025-10-31T11:00:00.000Z",
+      "round": "Round 9",
+      "homeTeam": "Hong Linh Ha Tinh",
+      "awayTeam": "Ha Noi FC",
+      "homeScore": 2,
+      "awayScore": 1,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "45%",
+          "55%"
+        ],
+        "Total shots": [
+          "7",
+          "9"
+        ],
+        "Shots on target": [
+          "4",
+          "2"
+        ],
+        "Corner kicks": [
+          "2",
+          "6"
+        ],
+        "Yellow cards": [
+          "1",
+          "1"
+        ],
+        "Shots off target": [
+          "3",
+          "7"
+        ]
+      }
+    },
+    {
+      "id": "CnO0VTyI",
+      "date": "2025-10-31T10:00:00.000Z",
+      "round": "Round 9",
+      "homeTeam": "Hoang Anh Gia Lai",
+      "awayTeam": "Nam Dinh",
+      "homeScore": 2,
+      "awayScore": 2,
+      "htHome": 2,
+      "htAway": 2,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "50%",
+          "50%"
+        ],
+        "Total shots": [
+          "9",
+          "10"
+        ],
+        "Shots on target": [
+          "4",
+          "8"
+        ],
+        "Corner kicks": [
+          "7",
+          "10"
+        ],
+        "Yellow cards": [
+          "0",
+          "1"
+        ],
+        "Shots off target": [
+          "5",
+          "2"
+        ]
+      }
+    },
+    {
+      "id": "GKUiXk75",
+      "date": "2025-10-27T12:15:00.000Z",
+      "round": "Round 8",
+      "homeTeam": "Cong An Ha Noi",
+      "awayTeam": "Ho Chi Minh City",
+      "homeScore": 1,
+      "awayScore": 0,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "42%",
+          "58%"
+        ],
+        "Total shots": [
+          "5",
+          "11"
+        ],
+        "Shots on target": [
+          "1",
+          "3"
+        ],
+        "Corner kicks": [
+          "1",
+          "5"
+        ],
+        "Yellow cards": [
+          "3",
+          "2"
+        ],
+        "Red cards": [
+          "1",
+          "0"
+        ],
+        "Shots off target": [
+          "4",
+          "8"
+        ]
+      }
+    },
+    {
+      "id": "r7WqZBxg",
+      "date": "2025-10-27T11:00:00.000Z",
+      "round": "Round 8",
+      "homeTeam": "Nam Dinh",
+      "awayTeam": "Da Nang",
+      "homeScore": 1,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "56%",
+          "44%"
+        ],
+        "Total shots": [
+          "20",
+          "5"
+        ],
+        "Shots on target": [
+          "10",
+          "3"
+        ],
+        "Corner kicks": [
+          "10",
+          "3"
+        ],
+        "Yellow cards": [
+          "1",
+          "4"
+        ],
+        "Shots off target": [
+          "10",
+          "2"
+        ]
+      }
+    },
+    {
+      "id": "2cOyyY7t",
+      "date": "2025-10-26T11:00:00.000Z",
+      "round": "Round 8",
+      "homeTeam": "Hai Phong",
+      "awayTeam": "Hong Linh Ha Tinh",
+      "homeScore": 2,
+      "awayScore": 1,
+      "htHome": 2,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "46%",
+          "54%"
+        ],
+        "Total shots": [
+          "8",
+          "13"
+        ],
+        "Shots on target": [
+          "5",
+          "5"
+        ],
+        "Corner kicks": [
+          "3",
+          "7"
+        ],
+        "Yellow cards": [
+          "4",
+          "3"
+        ],
+        "Shots off target": [
+          "3",
+          "8"
+        ]
+      }
+    },
+    {
+      "id": "xI7QTG0D",
+      "date": "2025-10-26T11:00:00.000Z",
+      "round": "Round 8",
+      "homeTeam": "Song Lam Nghe An",
+      "awayTeam": "Thanh Hoa",
+      "homeScore": 0,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "56%",
+          "44%"
+        ],
+        "Total shots": [
+          "14",
+          "12"
+        ],
+        "Shots on target": [
+          "6",
+          "5"
+        ],
+        "Corner kicks": [
+          "7",
+          "1"
+        ],
+        "Yellow cards": [
+          "1",
+          "3"
+        ],
+        "Shots off target": [
+          "8",
+          "7"
+        ]
+      }
+    },
+    {
+      "id": "G2JHVxW0",
+      "date": "2025-10-26T10:00:00.000Z",
+      "round": "Round 8",
+      "homeTeam": "Hoang Anh Gia Lai",
+      "awayTeam": "Viettel FC",
+      "homeScore": 2,
+      "awayScore": 1,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "44%",
+          "56%"
+        ],
+        "Total shots": [
+          "8",
+          "24"
+        ],
+        "Shots on target": [
+          "4",
+          "13"
+        ],
+        "Corner kicks": [
+          "1",
+          "7"
+        ],
+        "Yellow cards": [
+          "5",
+          "2"
+        ],
+        "Shots off target": [
+          "4",
+          "11"
+        ]
+      }
+    },
+    {
+      "id": "8xG9Xb1l",
+      "date": "2025-10-25T11:00:00.000Z",
+      "round": "Round 8",
+      "homeTeam": "Binh Duong",
+      "awayTeam": "Ha Noi FC",
+      "homeScore": 2,
+      "awayScore": 3,
+      "htHome": 1,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "51%",
+          "49%"
+        ],
+        "Total shots": [
+          "9",
+          "16"
+        ],
+        "Shots on target": [
+          "5",
+          "8"
+        ],
+        "Corner kicks": [
+          "2",
+          "4"
+        ],
+        "Yellow cards": [
+          "1",
+          "2"
+        ],
+        "Shots off target": [
+          "4",
+          "8"
+        ]
+      }
+    },
+    {
+      "id": "QHCpwLwR",
+      "date": "2025-10-25T11:00:00.000Z",
+      "round": "Round 8",
+      "homeTeam": "PVF-CAND",
+      "awayTeam": "TTBD Phu Dong",
+      "homeScore": 1,
+      "awayScore": 3,
+      "htHome": 1,
+      "htAway": 2,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "45%",
+          "55%"
+        ],
+        "Total shots": [
+          "6",
+          "5"
+        ],
+        "Shots on target": [
+          "1",
+          "3"
+        ],
+        "Corner kicks": [
+          "4",
+          "2"
+        ],
+        "Yellow cards": [
+          "0",
+          "1"
+        ],
+        "Shots off target": [
+          "5",
+          "2"
+        ]
+      }
+    },
+    {
+      "id": "h4Exus9E",
+      "date": "2025-10-20T12:15:00.000Z",
+      "round": "Round 7",
+      "homeTeam": "Viettel FC",
+      "awayTeam": "Da Nang",
+      "homeScore": 2,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "62%",
+          "38%"
+        ],
+        "Total shots": [
+          "22",
+          "4"
+        ],
+        "Shots on target": [
+          "13",
+          "1"
+        ],
+        "Corner kicks": [
+          "7",
+          "1"
+        ],
+        "Shots off target": [
+          "9",
+          "3"
+        ]
+      }
+    },
+    {
+      "id": "xdWkHwH7",
+      "date": "2025-10-19T12:15:00.000Z",
+      "round": "Round 7",
+      "homeTeam": "Ho Chi Minh City",
+      "awayTeam": "Hong Linh Ha Tinh",
+      "homeScore": 0,
+      "awayScore": 0,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "42%",
+          "58%"
+        ],
+        "Total shots": [
+          "6",
+          "7"
+        ],
+        "Shots on target": [
+          "4",
+          "2"
+        ],
+        "Corner kicks": [
+          "6",
+          "3"
+        ],
+        "Yellow cards": [
+          "3",
+          "3"
+        ],
+        "Red cards": [
+          "1",
+          "0"
+        ],
+        "Shots off target": [
+          "2",
+          "5"
+        ]
+      }
+    },
+    {
+      "id": "UVSsJane",
+      "date": "2025-10-19T11:00:00.000Z",
+      "round": "Round 7",
+      "homeTeam": "Hai Phong",
+      "awayTeam": "Hoang Anh Gia Lai",
+      "homeScore": 3,
+      "awayScore": 0,
+      "htHome": 2,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "52%",
+          "48%"
+        ],
+        "Total shots": [
+          "7",
+          "8"
+        ],
+        "Shots on target": [
+          "5",
+          "2"
+        ],
+        "Corner kicks": [
+          "3",
+          "2"
+        ],
+        "Yellow cards": [
+          "1",
+          "2"
+        ],
+        "Shots off target": [
+          "2",
+          "6"
+        ]
+      }
+    },
+    {
+      "id": "8GvZKLHr",
+      "date": "2025-10-19T11:00:00.000Z",
+      "round": "Round 7",
+      "homeTeam": "PVF-CAND",
+      "awayTeam": "Thanh Hoa",
+      "homeScore": 2,
+      "awayScore": 2,
+      "htHome": 0,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "51%",
+          "49%"
+        ],
+        "Total shots": [
+          "8",
+          "7"
+        ],
+        "Shots on target": [
+          "3",
+          "4"
+        ],
+        "Corner kicks": [
+          "3",
+          "2"
+        ],
+        "Yellow cards": [
+          "3",
+          "2"
+        ],
+        "Shots off target": [
+          "5",
+          "3"
+        ]
+      }
+    },
+    {
+      "id": "v1l3QsfL",
+      "date": "2025-10-18T12:15:00.000Z",
+      "round": "Round 7",
+      "homeTeam": "Ha Noi FC",
+      "awayTeam": "TTBD Phu Dong",
+      "homeScore": 1,
+      "awayScore": 2,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "54%",
+          "46%"
+        ],
+        "Total shots": [
+          "15",
+          "6"
+        ],
+        "Shots on target": [
+          "7",
+          "3"
+        ],
+        "Corner kicks": [
+          "8",
+          "6"
+        ],
+        "Yellow cards": [
+          "2",
+          "3"
+        ],
+        "Shots off target": [
+          "8",
+          "3"
+        ]
+      }
+    },
+    {
+      "id": "ju8840X1",
+      "date": "2025-10-18T11:00:00.000Z",
+      "round": "Round 7",
+      "homeTeam": "Nam Dinh",
+      "awayTeam": "Binh Duong",
+      "homeScore": 1,
+      "awayScore": 2,
+      "htHome": 0,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "57%",
+          "43%"
+        ],
+        "Total shots": [
+          "15",
+          "7"
+        ],
+        "Shots on target": [
+          "5",
+          "4"
+        ],
+        "Corner kicks": [
+          "6",
+          "1"
+        ],
+        "Yellow cards": [
+          "2",
+          "3"
+        ],
+        "Shots off target": [
+          "10",
+          "3"
+        ]
+      }
+    },
+    {
+      "id": "rZffS3P8",
+      "date": "2025-10-18T11:00:00.000Z",
+      "round": "Round 7",
+      "homeTeam": "Song Lam Nghe An",
+      "awayTeam": "Cong An Ha Noi",
+      "homeScore": 1,
+      "awayScore": 1,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "46%",
+          "54%"
+        ],
+        "Total shots": [
+          "3",
+          "9"
+        ],
+        "Shots on target": [
+          "2",
+          "6"
+        ],
+        "Corner kicks": [
+          "3",
+          "5"
+        ],
+        "Yellow cards": [
+          "1",
+          "1"
+        ],
+        "Red cards": [
+          "1",
+          "0"
+        ],
+        "Shots off target": [
+          "1",
+          "3"
+        ]
+      }
+    },
+    {
+      "id": "jRhiwljo",
+      "date": "2025-10-03T11:00:00.000Z",
+      "round": "Round 6",
+      "homeTeam": "Hong Linh Ha Tinh",
+      "awayTeam": "PVF-CAND",
+      "homeScore": 1,
+      "awayScore": 1,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "53%",
+          "47%"
+        ],
+        "Total shots": [
+          "12",
+          "8"
+        ],
+        "Shots on target": [
+          "7",
+          "3"
+        ],
+        "Corner kicks": [
+          "4",
+          "3"
+        ],
+        "Yellow cards": [
+          "3",
+          "1"
+        ],
+        "Shots off target": [
+          "5",
+          "5"
+        ]
+      }
+    },
+    {
+      "id": "Y9CKrASN",
+      "date": "2025-10-03T10:00:00.000Z",
+      "round": "Round 6",
+      "homeTeam": "Hoang Anh Gia Lai",
+      "awayTeam": "Song Lam Nghe An",
+      "homeScore": 1,
+      "awayScore": 1,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "53%",
+          "47%"
+        ],
+        "Total shots": [
+          "12",
+          "9"
+        ],
+        "Shots on target": [
+          "7",
+          "4"
+        ],
+        "Corner kicks": [
+          "5",
+          "6"
+        ],
+        "Yellow cards": [
+          "3",
+          "2"
+        ],
+        "Shots off target": [
+          "5",
+          "5"
+        ]
+      }
+    },
+    {
+      "id": "Qq9CpWcB",
+      "date": "2025-10-02T11:00:00.000Z",
+      "round": "Round 6",
+      "homeTeam": "TTBD Phu Dong",
+      "awayTeam": "Viettel FC",
+      "homeScore": 1,
+      "awayScore": 1,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "57%",
+          "43%"
+        ],
+        "Total shots": [
+          "7",
+          "15"
+        ],
+        "Shots on target": [
+          "4",
+          "5"
+        ],
+        "Corner kicks": [
+          "0",
+          "4"
+        ],
+        "Yellow cards": [
+          "3",
+          "2"
+        ],
+        "Red cards": [
+          "1",
+          "1"
+        ],
+        "Shots off target": [
+          "3",
+          "10"
+        ]
+      }
+    },
+    {
+      "id": "4UK3nhTb",
+      "date": "2025-10-02T11:00:00.000Z",
+      "round": "Round 6",
+      "homeTeam": "Thanh Hoa",
+      "awayTeam": "Binh Duong",
+      "homeScore": 1,
+      "awayScore": 1,
+      "htHome": 1,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "43%",
+          "57%"
+        ],
+        "Total shots": [
+          "11",
+          "10"
+        ],
+        "Shots on target": [
+          "7",
+          "5"
+        ],
+        "Corner kicks": [
+          "7",
+          "5"
+        ],
+        "Yellow cards": [
+          "1",
+          "1"
+        ],
+        "Shots off target": [
+          "4",
+          "5"
+        ]
+      }
+    },
+    {
+      "id": "d4HelEbn",
+      "date": "2025-10-01T11:00:00.000Z",
+      "round": "Round 6",
+      "homeTeam": "Da Nang",
+      "awayTeam": "Ha Noi FC",
+      "homeScore": 0,
+      "awayScore": 2,
+      "htHome": 0,
+      "htAway": 2,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "58%",
+          "42%"
+        ],
+        "Total shots": [
+          "6",
+          "12"
+        ],
+        "Shots on target": [
+          "0",
+          "2"
+        ],
+        "Corner kicks": [
+          "5",
+          "3"
+        ],
+        "Yellow cards": [
+          "2",
+          "1"
+        ],
+        "Shots off target": [
+          "6",
+          "10"
+        ]
+      }
+    },
+    {
+      "id": "f3PhUADU",
+      "date": "2025-09-28T12:15:00.000Z",
+      "round": "Round 5",
+      "homeTeam": "Viettel FC",
+      "awayTeam": "Hong Linh Ha Tinh",
+      "homeScore": 2,
+      "awayScore": 0,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "53%",
+          "47%"
+        ],
+        "Total shots": [
+          "12",
+          "11"
+        ],
+        "Shots on target": [
+          "6",
+          "3"
+        ],
+        "Corner kicks": [
+          "5",
+          "3"
+        ],
+        "Yellow cards": [
+          "2",
+          "2"
+        ],
+        "Shots off target": [
+          "6",
+          "8"
+        ]
+      }
+    },
+    {
+      "id": "MkRpWWrI",
+      "date": "2025-09-28T11:00:00.000Z",
+      "round": "Round 5",
+      "homeTeam": "Hai Phong",
+      "awayTeam": "TTBD Phu Dong",
+      "homeScore": 2,
+      "awayScore": 2,
+      "htHome": 1,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "54%",
+          "46%"
+        ],
+        "Total shots": [
+          "15",
+          "9"
+        ],
+        "Shots on target": [
+          "10",
+          "6"
+        ],
+        "Corner kicks": [
+          "12",
+          "5"
+        ],
+        "Yellow cards": [
+          "1",
+          "1"
+        ],
+        "Shots off target": [
+          "5",
+          "3"
+        ]
+      }
+    },
+    {
+      "id": "QNXyYhE5",
+      "date": "2025-09-28T11:00:00.000Z",
+      "round": "Round 5",
+      "homeTeam": "Nam Dinh",
+      "awayTeam": "Cong An Ha Noi",
+      "homeScore": 0,
+      "awayScore": 2,
+      "htHome": 0,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "48%",
+          "52%"
+        ],
+        "Total shots": [
+          "8",
+          "11"
+        ],
+        "Shots on target": [
+          "3",
+          "8"
+        ],
+        "Corner kicks": [
+          "3",
+          "7"
+        ],
+        "Yellow cards": [
+          "2",
+          "1"
+        ],
+        "Shots off target": [
+          "5",
+          "3"
+        ]
+      }
+    },
+    {
+      "id": "drtLyyFt",
+      "date": "2025-09-27T11:00:00.000Z",
+      "round": "Round 5",
+      "homeTeam": "Binh Duong",
+      "awayTeam": "Da Nang",
+      "homeScore": 1,
+      "awayScore": 2,
+      "htHome": 1,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "44%",
+          "56%"
+        ],
+        "Total shots": [
+          "16",
+          "10"
+        ],
+        "Shots on target": [
+          "8",
+          "6"
+        ],
+        "Corner kicks": [
+          "7",
+          "4"
+        ],
+        "Yellow cards": [
+          "0",
+          "2"
+        ],
+        "Shots off target": [
+          "8",
+          "4"
+        ]
+      }
+    },
+    {
+      "id": "MynCHXTO",
+      "date": "2025-09-27T11:00:00.000Z",
+      "round": "Round 5",
+      "homeTeam": "PVF-CAND",
+      "awayTeam": "Hoang Anh Gia Lai",
+      "homeScore": 0,
+      "awayScore": 0,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "50%",
+          "50%"
+        ],
+        "Total shots": [
+          "5",
+          "4"
+        ],
+        "Shots on target": [
+          "1",
+          "1"
+        ],
+        "Corner kicks": [
+          "5",
+          "6"
+        ],
+        "Yellow cards": [
+          "2",
+          "2"
+        ],
+        "Shots off target": [
+          "4",
+          "3"
+        ]
+      }
+    },
+    {
+      "id": "IcUTZEqg",
+      "date": "2025-09-27T11:00:00.000Z",
+      "round": "Round 5",
+      "homeTeam": "Song Lam Nghe An",
+      "awayTeam": "Ho Chi Minh City",
+      "homeScore": 2,
+      "awayScore": 3,
+      "htHome": 2,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "48%",
+          "52%"
+        ],
+        "Total shots": [
+          "9",
+          "7"
+        ],
+        "Shots on target": [
+          "4",
+          "6"
+        ],
+        "Corner kicks": [
+          "0",
+          "5"
+        ],
+        "Yellow cards": [
+          "1",
+          "1"
+        ],
+        "Shots off target": [
+          "5",
+          "1"
+        ]
+      }
+    },
+    {
+      "id": "Q9h3JgaC",
+      "date": "2025-09-26T12:15:00.000Z",
+      "round": "Round 5",
+      "homeTeam": "Ha Noi FC",
+      "awayTeam": "Thanh Hoa",
+      "homeScore": 2,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "44%",
+          "56%"
+        ],
+        "Total shots": [
+          "15",
+          "5"
+        ],
+        "Shots on target": [
+          "9",
+          "2"
+        ],
+        "Corner kicks": [
+          "4",
+          "2"
+        ],
+        "Yellow cards": [
+          "1",
+          "0"
+        ],
+        "Shots off target": [
+          "6",
+          "3"
+        ]
+      }
+    },
+    {
+      "id": "hdfeLFUa",
+      "date": "2025-09-22T11:00:00.000Z",
+      "round": "Round 4",
+      "homeTeam": "TTBD Phu Dong",
+      "awayTeam": "Nam Dinh",
+      "homeScore": 2,
+      "awayScore": 0,
+      "htHome": 2,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "43%",
+          "57%"
+        ],
+        "Total shots": [
+          "5",
+          "13"
+        ],
+        "Shots on target": [
+          "4",
+          "3"
+        ],
+        "Corner kicks": [
+          "3",
+          "5"
+        ],
+        "Yellow cards": [
+          "3",
+          "4"
+        ],
+        "Shots off target": [
+          "1",
+          "10"
+        ]
+      }
+    },
+    {
+      "id": "dU0nNy0m",
+      "date": "2025-09-21T11:00:00.000Z",
+      "round": "Round 4",
+      "homeTeam": "Binh Duong",
+      "awayTeam": "Ho Chi Minh City",
+      "homeScore": 1,
+      "awayScore": 3,
+      "htHome": 0,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "39%",
+          "61%"
+        ],
+        "Total shots": [
+          "4",
+          "8"
+        ],
+        "Shots on target": [
+          "2",
+          "1"
+        ],
+        "Corner kicks": [
+          "7",
+          "3"
+        ],
+        "Yellow cards": [
+          "2",
+          "2"
+        ],
+        "Shots off target": [
+          "2",
+          "7"
+        ]
+      }
+    },
+    {
+      "id": "neFGScxQ",
+      "date": "2025-09-21T11:00:00.000Z",
+      "round": "Round 4",
+      "homeTeam": "Song Lam Nghe An",
+      "awayTeam": "Hong Linh Ha Tinh",
+      "homeScore": 1,
+      "awayScore": 1,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "46%",
+          "54%"
+        ],
+        "Total shots": [
+          "8",
+          "3"
+        ],
+        "Shots on target": [
+          "5",
+          "2"
+        ],
+        "Corner kicks": [
+          "4",
+          "3"
+        ],
+        "Yellow cards": [
+          "3",
+          "3"
+        ],
+        "Red cards": [
+          "0",
+          "1"
+        ],
+        "Shots off target": [
+          "3",
+          "1"
+        ]
+      }
+    },
+    {
+      "id": "bZYL6GF6",
+      "date": "2025-09-20T12:15:00.000Z",
+      "round": "Round 4",
+      "homeTeam": "Ha Noi FC",
+      "awayTeam": "Viettel FC",
+      "homeScore": 1,
+      "awayScore": 1,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "35%",
+          "65%"
+        ],
+        "Total shots": [
+          "13",
+          "5"
+        ],
+        "Shots on target": [
+          "2",
+          "0"
+        ],
+        "Corner kicks": [
+          "5",
+          "3"
+        ],
+        "Yellow cards": [
+          "2",
+          "2"
+        ],
+        "Shots off target": [
+          "11",
+          "5"
+        ]
+      }
+    },
+    {
+      "id": "Ugs5AbGs",
+      "date": "2025-09-20T11:00:00.000Z",
+      "round": "Round 4",
+      "homeTeam": "PVF-CAND",
+      "awayTeam": "Da Nang",
+      "homeScore": 2,
+      "awayScore": 2,
+      "htHome": 1,
+      "htAway": 2,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "56%",
+          "44%"
+        ],
+        "Total shots": [
+          "2",
+          "3"
+        ],
+        "Shots on target": [
+          "0",
+          "0"
+        ],
+        "Corner kicks": [
+          "13",
+          "0"
+        ],
+        "Yellow cards": [
+          "1",
+          "1"
+        ],
+        "Shots off target": [
+          "2",
+          "3"
+        ]
+      }
+    },
+    {
+      "id": "27uD8xof",
+      "date": "2025-09-20T11:00:00.000Z",
+      "round": "Round 4",
+      "homeTeam": "Thanh Hoa",
+      "awayTeam": "Hai Phong",
+      "homeScore": 2,
+      "awayScore": 2,
+      "htHome": 0,
+      "htAway": 2,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "55%",
+          "45%"
+        ],
+        "Total shots": [
+          "10",
+          "7"
+        ],
+        "Shots on target": [
+          "7",
+          "2"
+        ],
+        "Corner kicks": [
+          "4",
+          "3"
+        ],
+        "Yellow cards": [
+          "3",
+          "2"
+        ],
+        "Shots off target": [
+          "3",
+          "5"
+        ]
+      }
+    },
+    {
+      "id": "rLuw1irh",
+      "date": "2025-09-13T12:15:00.000Z",
+      "round": "Round 6",
+      "homeTeam": "Cong An Ha Noi",
+      "awayTeam": "Hai Phong",
+      "homeScore": 2,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "64%",
+          "36%"
+        ],
+        "Total shots": [
+          "20",
+          "10"
+        ],
+        "Shots on target": [
+          "10",
+          "4"
+        ],
+        "Corner kicks": [
+          "11",
+          "4"
+        ],
+        "Yellow cards": [
+          "0",
+          "1"
+        ],
+        "Shots off target": [
+          "10",
+          "6"
+        ],
+        "Goalkeeper saves": [
+          "3",
+          "8"
+        ]
+      }
+    },
+    {
+      "id": "vmZoaVC4",
+      "date": "2025-09-13T12:15:00.000Z",
+      "round": "Round 6",
+      "homeTeam": "Ho Chi Minh City",
+      "awayTeam": "Nam Dinh",
+      "homeScore": 0,
+      "awayScore": 0,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "45%",
+          "55%"
+        ],
+        "Total shots": [
+          "6",
+          "7"
+        ],
+        "Shots on target": [
+          "4",
+          "2"
+        ],
+        "Corner kicks": [
+          "4",
+          "6"
+        ],
+        "Yellow cards": [
+          "4",
+          "2"
+        ],
+        "Shots off target": [
+          "2",
+          "5"
+        ],
+        "Goalkeeper saves": [
+          "2",
+          "4"
+        ]
+      }
+    },
+    {
+      "id": "xMPWS6W8",
+      "date": "2025-08-30T12:15:00.000Z",
+      "round": "Round 3",
+      "homeTeam": "Viettel FC",
+      "awayTeam": "Binh Duong",
+      "homeScore": 2,
+      "awayScore": 0,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "50%",
+          "50%"
+        ],
+        "Total shots": [
+          "14",
+          "8"
+        ],
+        "Shots on target": [
+          "6",
+          "3"
+        ],
+        "Corner kicks": [
+          "4",
+          "5"
+        ],
+        "Shots off target": [
+          "8",
+          "5"
+        ]
+      }
+    },
+    {
+      "id": "l0qx7P9k",
+      "date": "2025-08-28T12:15:00.000Z",
+      "round": "Round 3",
+      "homeTeam": "Cong An Ha Noi",
+      "awayTeam": "Ha Noi FC",
+      "homeScore": 4,
+      "awayScore": 2,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "53%",
+          "47%"
+        ],
+        "Total shots": [
+          "12",
+          "8"
+        ],
+        "Shots on target": [
+          "7",
+          "7"
+        ],
+        "Corner kicks": [
+          "2",
+          "2"
+        ],
+        "Yellow cards": [
+          "2",
+          "2"
+        ],
+        "Shots off target": [
+          "5",
+          "1"
+        ]
+      }
+    },
+    {
+      "id": "AFXp53v2",
+      "date": "2025-08-28T12:15:00.000Z",
+      "round": "Round 3",
+      "homeTeam": "Ho Chi Minh City",
+      "awayTeam": "Hoang Anh Gia Lai",
+      "homeScore": 1,
+      "awayScore": 0,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "49%",
+          "51%"
+        ],
+        "Total shots": [
+          "16",
+          "4"
+        ],
+        "Shots on target": [
+          "5",
+          "3"
+        ],
+        "Corner kicks": [
+          "4",
+          "2"
+        ],
+        "Yellow cards": [
+          "1",
+          "2"
+        ],
+        "Shots off target": [
+          "11",
+          "1"
+        ]
+      }
+    },
+    {
+      "id": "OrsBhQfd",
+      "date": "2025-08-27T11:00:00.000Z",
+      "round": "Round 3",
+      "homeTeam": "Da Nang",
+      "awayTeam": "TTBD Phu Dong",
+      "homeScore": 1,
+      "awayScore": 3,
+      "htHome": 1,
+      "htAway": 2,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "49%",
+          "51%"
+        ],
+        "Total shots": [
+          "8",
+          "13"
+        ],
+        "Shots on target": [
+          "4",
+          "6"
+        ],
+        "Corner kicks": [
+          "2",
+          "7"
+        ],
+        "Yellow cards": [
+          "1",
+          "3"
+        ],
+        "Shots off target": [
+          "4",
+          "7"
+        ]
+      }
+    },
+    {
+      "id": "IHh6ConS",
+      "date": "2025-08-27T11:00:00.000Z",
+      "round": "Round 3",
+      "homeTeam": "Hai Phong",
+      "awayTeam": "Song Lam Nghe An",
+      "homeScore": 2,
+      "awayScore": 0,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "57%",
+          "43%"
+        ],
+        "Total shots": [
+          "7",
+          "6"
+        ],
+        "Shots on target": [
+          "4",
+          "4"
+        ],
+        "Corner kicks": [
+          "4",
+          "3"
+        ],
+        "Shots off target": [
+          "3",
+          "2"
+        ]
+      }
+    },
+    {
+      "id": "viPcGTn3",
+      "date": "2025-08-27T11:00:00.000Z",
+      "round": "Round 3",
+      "homeTeam": "Hong Linh Ha Tinh",
+      "awayTeam": "Thanh Hoa",
+      "homeScore": 1,
+      "awayScore": 0,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "53%",
+          "47%"
+        ],
+        "Total shots": [
+          "4",
+          "2"
+        ],
+        "Shots on target": [
+          "2",
+          "1"
+        ],
+        "Corner kicks": [
+          "7",
+          "0"
+        ],
+        "Yellow cards": [
+          "2",
+          "2"
+        ],
+        "Shots off target": [
+          "2",
+          "1"
+        ]
+      }
+    },
+    {
+      "id": "C4N5E7HF",
+      "date": "2025-08-27T11:00:00.000Z",
+      "round": "Round 3",
+      "homeTeam": "Nam Dinh",
+      "awayTeam": "PVF-CAND",
+      "homeScore": 2,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "52%",
+          "48%"
+        ],
+        "Total shots": [
+          "18",
+          "6"
+        ],
+        "Shots on target": [
+          "5",
+          "4"
+        ],
+        "Corner kicks": [
+          "5",
+          "2"
+        ],
+        "Shots off target": [
+          "13",
+          "2"
+        ]
+      }
+    },
+    {
+      "id": "Cly588cn",
+      "date": "2025-08-24T11:00:00.000Z",
+      "round": "Round 2",
+      "homeTeam": "Binh Duong",
+      "awayTeam": "Cong An Ha Noi",
+      "homeScore": 0,
+      "awayScore": 3,
+      "htHome": 0,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "33%",
+          "67%"
+        ],
+        "Total shots": [
+          "6",
+          "17"
+        ],
+        "Shots on target": [
+          "1",
+          "11"
+        ],
+        "Corner kicks": [
+          "3",
+          "1"
+        ],
+        "Yellow cards": [
+          "3",
+          "0"
+        ],
+        "Red cards": [
+          "1",
+          "0"
+        ],
+        "Shots off target": [
+          "5",
+          "6"
+        ]
+      }
+    },
+    {
+      "id": "Y3PD6nSb",
+      "date": "2025-08-23T12:15:00.000Z",
+      "round": "Round 2",
+      "homeTeam": "Ha Noi FC",
+      "awayTeam": "Hoang Anh Gia Lai",
+      "homeScore": 0,
+      "awayScore": 0,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "65%",
+          "35%"
+        ],
+        "Total shots": [
+          "19",
+          "6"
+        ],
+        "Shots on target": [
+          "10",
+          "3"
+        ],
+        "Corner kicks": [
+          "14",
+          "2"
+        ],
+        "Yellow cards": [
+          "1",
+          "3"
+        ],
+        "Shots off target": [
+          "9",
+          "3"
+        ]
+      }
+    },
+    {
+      "id": "MPeel5CU",
+      "date": "2025-08-23T11:00:00.000Z",
+      "round": "Round 2",
+      "homeTeam": "Da Nang",
+      "awayTeam": "Hong Linh Ha Tinh",
+      "homeScore": 0,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "54%",
+          "46%"
+        ],
+        "Total shots": [
+          "6",
+          "11"
+        ],
+        "Shots on target": [
+          "2",
+          "2"
+        ],
+        "Corner kicks": [
+          "3",
+          "3"
+        ],
+        "Yellow cards": [
+          "2",
+          "4"
+        ],
+        "Shots off target": [
+          "4",
+          "9"
+        ]
+      }
+    },
+    {
+      "id": "boBVg9rg",
+      "date": "2025-08-23T11:00:00.000Z",
+      "round": "Round 2",
+      "homeTeam": "Hai Phong",
+      "awayTeam": "PVF-CAND",
+      "homeScore": 3,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "59%",
+          "41%"
+        ],
+        "Total shots": [
+          "18",
+          "6"
+        ],
+        "Shots on target": [
+          "13",
+          "4"
+        ],
+        "Corner kicks": [
+          "4",
+          "4"
+        ],
+        "Yellow cards": [
+          "1",
+          "0"
+        ],
+        "Red cards": [
+          "0",
+          "1"
+        ],
+        "Shots off target": [
+          "5",
+          "2"
+        ]
+      }
+    },
+    {
+      "id": "Qc2njRsI",
+      "date": "2025-08-23T11:00:00.000Z",
+      "round": "Round 2",
+      "homeTeam": "TTBD Phu Dong",
+      "awayTeam": "Thanh Hoa",
+      "homeScore": 4,
+      "awayScore": 0,
+      "htHome": 2,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "58%",
+          "42%"
+        ],
+        "Total shots": [
+          "13",
+          "5"
+        ],
+        "Shots on target": [
+          "7",
+          "2"
+        ],
+        "Corner kicks": [
+          "3",
+          "3"
+        ],
+        "Yellow cards": [
+          "0",
+          "1"
+        ],
+        "Shots off target": [
+          "6",
+          "3"
+        ]
+      }
+    },
+    {
+      "id": "hp4vhmD5",
+      "date": "2025-08-23T11:00:00.000Z",
+      "round": "Round 2",
+      "homeTeam": "Song Lam Nghe An",
+      "awayTeam": "Nam Dinh",
+      "homeScore": 2,
+      "awayScore": 1,
+      "htHome": 1,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "52%",
+          "48%"
+        ],
+        "Total shots": [
+          "6",
+          "10"
+        ],
+        "Shots on target": [
+          "3",
+          "3"
+        ],
+        "Corner kicks": [
+          "3",
+          "4"
+        ],
+        "Yellow cards": [
+          "1",
+          "1"
+        ],
+        "Shots off target": [
+          "3",
+          "7"
+        ]
+      }
+    },
+    {
+      "id": "jL7NeVDt",
+      "date": "2025-08-22T12:15:00.000Z",
+      "round": "Round 2",
+      "homeTeam": "Viettel FC",
+      "awayTeam": "Ho Chi Minh City",
+      "homeScore": 3,
+      "awayScore": 0,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "59%",
+          "41%"
+        ],
+        "Total shots": [
+          "16",
+          "5"
+        ],
+        "Shots on target": [
+          "8",
+          "4"
+        ],
+        "Corner kicks": [
+          "5",
+          "3"
+        ],
+        "Yellow cards": [
+          "1",
+          "2"
+        ],
+        "Shots off target": [
+          "8",
+          "1"
+        ]
+      }
+    },
+    {
+      "id": "IDUEEFzJ",
+      "date": "2025-08-17T11:00:00.000Z",
+      "round": "Round 1",
+      "homeTeam": "Hong Linh Ha Tinh",
+      "awayTeam": "TTBD Phu Dong",
+      "homeScore": 1,
+      "awayScore": 3,
+      "htHome": 1,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "47%",
+          "53%"
+        ],
+        "Total shots": [
+          "9",
+          "11"
+        ],
+        "Shots on target": [
+          "2",
+          "7"
+        ],
+        "Corner kicks": [
+          "4",
+          "4"
+        ],
+        "Yellow cards": [
+          "1",
+          "0"
+        ],
+        "Shots off target": [
+          "7",
+          "4"
+        ]
+      }
+    },
+    {
+      "id": "W0vxmu64",
+      "date": "2025-08-17T11:00:00.000Z",
+      "round": "Round 1",
+      "homeTeam": "PVF-CAND",
+      "awayTeam": "Song Lam Nghe An",
+      "homeScore": 2,
+      "awayScore": 1,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "48%",
+          "52%"
+        ],
+        "Total shots": [
+          "5",
+          "15"
+        ],
+        "Shots on target": [
+          "2",
+          "8"
+        ],
+        "Corner kicks": [
+          "2",
+          "6"
+        ],
+        "Yellow cards": [
+          "3",
+          "0"
+        ],
+        "Red cards": [
+          "0",
+          "1"
+        ],
+        "Shots off target": [
+          "3",
+          "7"
+        ]
+      }
+    },
+    {
+      "id": "riM0xJSP",
+      "date": "2025-08-17T11:00:00.000Z",
+      "round": "Round 1",
+      "homeTeam": "Thanh Hoa",
+      "awayTeam": "Da Nang",
+      "homeScore": 1,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "55%",
+          "45%"
+        ],
+        "Total shots": [
+          "10",
+          "5"
+        ],
+        "Shots on target": [
+          "6",
+          "3"
+        ],
+        "Corner kicks": [
+          "5",
+          "0"
+        ],
+        "Yellow cards": [
+          "0",
+          "1"
+        ],
+        "Shots off target": [
+          "4",
+          "2"
+        ]
+      }
+    },
+    {
+      "id": "lYxbIcyf",
+      "date": "2025-08-17T10:00:00.000Z",
+      "round": "Round 1",
+      "homeTeam": "Hoang Anh Gia Lai",
+      "awayTeam": "Binh Duong",
+      "homeScore": 0,
+      "awayScore": 3,
+      "htHome": 0,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "56%",
+          "44%"
+        ],
+        "Total shots": [
+          "15",
+          "9"
+        ],
+        "Shots on target": [
+          "6",
+          "6"
+        ],
+        "Corner kicks": [
+          "6",
+          "2"
+        ],
+        "Yellow cards": [
+          "1",
+          "1"
+        ],
+        "Shots off target": [
+          "9",
+          "3"
+        ]
+      }
+    },
+    {
+      "id": "SOcXWdjm",
+      "date": "2025-08-16T12:15:00.000Z",
+      "round": "Round 1",
+      "homeTeam": "Ho Chi Minh City",
+      "awayTeam": "Ha Noi FC",
+      "homeScore": 2,
+      "awayScore": 1,
+      "htHome": 2,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "45%",
+          "55%"
+        ],
+        "Total shots": [
+          "11",
+          "15"
+        ],
+        "Shots on target": [
+          "6",
+          "9"
+        ],
+        "Corner kicks": [
+          "2",
+          "8"
+        ],
+        "Yellow cards": [
+          "3",
+          "4"
+        ],
+        "Shots off target": [
+          "5",
+          "6"
+        ]
+      }
+    },
+    {
+      "id": "dQWNwyTj",
+      "date": "2025-08-16T11:00:00.000Z",
+      "round": "Round 1",
+      "homeTeam": "Nam Dinh",
+      "awayTeam": "Hai Phong",
+      "homeScore": 2,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "48%",
+          "52%"
+        ],
+        "Total shots": [
+          "16",
+          "6"
+        ],
+        "Shots on target": [
+          "7",
+          "3"
+        ],
+        "Corner kicks": [
+          "4",
+          "7"
+        ],
+        "Yellow cards": [
+          "1",
+          "1"
+        ],
+        "Shots off target": [
+          "9",
+          "3"
+        ]
+      }
+    },
+    {
+      "id": "zk1uVzLa",
+      "date": "2025-08-15T12:15:00.000Z",
+      "round": "Round 1",
+      "homeTeam": "Cong An Ha Noi",
+      "awayTeam": "Viettel FC",
+      "homeScore": 1,
+      "awayScore": 1,
+      "htHome": 1,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "51%",
+          "49%"
+        ],
+        "Total shots": [
+          "14",
+          "6"
+        ],
+        "Shots on target": [
+          "6",
+          "2"
+        ],
+        "Corner kicks": [
+          "3",
+          "4"
+        ],
+        "Yellow cards": [
+          "1",
+          "1"
+        ],
+        "Shots off target": [
+          "8",
+          "4"
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,2665 @@
+{
+  "league": "Regionalliga West",
+  "country": "germany",
+  "season": "2025-2026",
+  "collectedAt": "2026-02-10T16:51:16.514Z",
+  "totalMatches": 188,
+  "matches": [
+    {
+      "id": "8KrGGnbS",
+      "date": "2026-02-08T13:00:00.000Z",
+      "round": "Round 21",
+      "homeTeam": "SC Paderborn 07 II",
+      "awayTeam": "SC Wiedenbruck",
+      "homeScore": 4,
+      "awayScore": 0,
+      "htHome": 2,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "6yd5bmxp",
+      "date": "2026-02-07T13:00:00.000Z",
+      "round": "Round 21",
+      "homeTeam": "Borussia M'gladbach II",
+      "awayTeam": "SSVg Velbert",
+      "homeScore": 0,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "z7p8I8TF",
+      "date": "2026-02-07T13:00:00.000Z",
+      "round": "Round 21",
+      "homeTeam": "1. FC Bocholt",
+      "awayTeam": "Fortuna Dusseldorf II",
+      "homeScore": 0,
+      "awayScore": 3,
+      "htHome": 0,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "zg5Z39EM",
+      "date": "2026-02-07T13:00:00.000Z",
+      "round": "Round 21",
+      "homeTeam": "Bochum II",
+      "awayTeam": "SV Rodinghausen",
+      "homeScore": 2,
+      "awayScore": 0,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "SjpEdR6d",
+      "date": "2026-02-07T13:00:00.000Z",
+      "round": "Round 21",
+      "homeTeam": "Rot-Weiss Oberhausen",
+      "awayTeam": "SC Fortuna Köln",
+      "homeScore": 1,
+      "awayScore": 3,
+      "htHome": 0,
+      "htAway": 2,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "GjkY5VqA",
+      "date": "2026-02-07T13:00:00.000Z",
+      "round": "Round 21",
+      "homeTeam": "Wuppertaler",
+      "awayTeam": "Borussia Dortmund II",
+      "homeScore": 2,
+      "awayScore": 2,
+      "htHome": 1,
+      "htAway": 2,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "djheAVI5",
+      "date": "2026-02-04T18:30:00.000Z",
+      "round": "Round 16",
+      "homeTeam": "SC Wiedenbruck",
+      "awayTeam": "SV Rodinghausen",
+      "homeScore": 2,
+      "awayScore": 2,
+      "htHome": 0,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "zXTbiWUG",
+      "date": "2026-02-01T13:00:00.000Z",
+      "round": "Round 20",
+      "homeTeam": "Koln II",
+      "awayTeam": "SC Paderborn 07 II",
+      "homeScore": 1,
+      "awayScore": 0,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "dnI7kAaT",
+      "date": "2026-01-31T13:00:00.000Z",
+      "round": "Round 20",
+      "homeTeam": "Fortuna Dusseldorf II",
+      "awayTeam": "Gutersloh 2000",
+      "homeScore": 0,
+      "awayScore": 2,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "EoFGiuPa",
+      "date": "2026-01-31T13:00:00.000Z",
+      "round": "Round 20",
+      "homeTeam": "SC Fortuna Köln",
+      "awayTeam": "Borussia M'gladbach II",
+      "homeScore": 2,
+      "awayScore": 1,
+      "htHome": 2,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Yellow cards": [
+          "0",
+          "1"
+        ],
+        "Red cards": [
+          "0",
+          "1"
+        ]
+      }
+    },
+    {
+      "id": "UZQjgh04",
+      "date": "2026-01-31T13:00:00.000Z",
+      "round": "Round 20",
+      "homeTeam": "Schalke II",
+      "awayTeam": "Sportfreunde Siegen",
+      "homeScore": 0,
+      "awayScore": 2,
+      "htHome": 0,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "Y7XseEVi",
+      "date": "2026-01-30T18:30:00.000Z",
+      "round": "Round 20",
+      "homeTeam": "Borussia Dortmund II",
+      "awayTeam": "Sportfreunde Lotte",
+      "homeScore": 1,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "W2cQtOAs",
+      "date": "2026-01-25T13:00:00.000Z",
+      "round": "Round 19",
+      "homeTeam": "Bochum II",
+      "awayTeam": "SC Fortuna Köln",
+      "homeScore": 0,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "vT0Yv2uf",
+      "date": "2026-01-24T13:00:00.000Z",
+      "round": "Round 19",
+      "homeTeam": "Borussia M'gladbach II",
+      "awayTeam": "Bonner SC",
+      "homeScore": 1,
+      "awayScore": 2,
+      "htHome": 0,
+      "htAway": 2,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "6uhkyKvJ",
+      "date": "2026-01-24T13:00:00.000Z",
+      "round": "Round 19",
+      "homeTeam": "1. FC Bocholt",
+      "awayTeam": "Gutersloh 2000",
+      "homeScore": 0,
+      "awayScore": 0,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "YRgswtA6",
+      "date": "2026-01-24T13:00:00.000Z",
+      "round": "Round 19",
+      "homeTeam": "Rot-Weiss Oberhausen",
+      "awayTeam": "Fortuna Dusseldorf II",
+      "homeScore": 2,
+      "awayScore": 0,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "nVLgnpmK",
+      "date": "2026-01-24T13:00:00.000Z",
+      "round": "Round 19",
+      "homeTeam": "Wuppertaler",
+      "awayTeam": "SSVg Velbert",
+      "homeScore": 0,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "WStHFoCr",
+      "date": "2026-01-16T18:00:00.000Z",
+      "round": "Round 18",
+      "homeTeam": "SSVg Velbert",
+      "awayTeam": "Sportfreunde Lotte",
+      "homeScore": 0,
+      "awayScore": 3,
+      "htHome": 0,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Yellow cards": [
+          "1",
+          "0"
+        ],
+        "Red cards": [
+          "1",
+          "0"
+        ]
+      }
+    },
+    {
+      "id": "K2hXB3B7",
+      "date": "2025-12-06T15:00:00.000Z",
+      "round": "Round 18",
+      "homeTeam": "Borussia Dortmund II",
+      "awayTeam": "SC Paderborn 07 II",
+      "homeScore": 1,
+      "awayScore": 0,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "8OYRXpYQ",
+      "date": "2025-12-06T13:00:00.000Z",
+      "round": "Round 18",
+      "homeTeam": "Gutersloh 2000",
+      "awayTeam": "Rot-Weiss Oberhausen",
+      "homeScore": 0,
+      "awayScore": 0,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "CIQs1nck",
+      "date": "2025-12-06T13:00:00.000Z",
+      "round": "Round 18",
+      "homeTeam": "Koln II",
+      "awayTeam": "1. FC Bocholt",
+      "homeScore": 3,
+      "awayScore": 2,
+      "htHome": 0,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "SfzQDPte",
+      "date": "2025-12-06T13:00:00.000Z",
+      "round": "Round 18",
+      "homeTeam": "SV Rodinghausen",
+      "awayTeam": "Sportfreunde Siegen",
+      "homeScore": 3,
+      "awayScore": 4,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "0bVJZ63E",
+      "date": "2025-12-06T13:00:00.000Z",
+      "round": "Round 18",
+      "homeTeam": "Schalke II",
+      "awayTeam": "SC Wiedenbruck",
+      "homeScore": 5,
+      "awayScore": 0,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "YXEjaQR1",
+      "date": "2025-12-05T18:30:00.000Z",
+      "round": "Round 18",
+      "homeTeam": "Fortuna Dusseldorf II",
+      "awayTeam": "Borussia M'gladbach II",
+      "homeScore": 1,
+      "awayScore": 3,
+      "htHome": 1,
+      "htAway": 3,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "zceoL7lL",
+      "date": "2025-12-05T18:30:00.000Z",
+      "round": "Round 18",
+      "homeTeam": "SC Fortuna Köln",
+      "awayTeam": "Wuppertaler",
+      "homeScore": 3,
+      "awayScore": 0,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "GfPLQj3n",
+      "date": "2025-11-30T12:00:00.000Z",
+      "round": "Round 17",
+      "homeTeam": "Borussia Dortmund II",
+      "awayTeam": "SC Wiedenbruck",
+      "homeScore": 2,
+      "awayScore": 2,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "0rkC6mIU",
+      "date": "2025-11-29T14:00:00.000Z",
+      "round": "Round 17",
+      "homeTeam": "Schalke II",
+      "awayTeam": "Koln II",
+      "homeScore": 2,
+      "awayScore": 3,
+      "htHome": 1,
+      "htAway": 2,
+      "status": "FINISHED",
+      "stats": {
+        "Red cards": [
+          "1",
+          "0"
+        ]
+      }
+    },
+    {
+      "id": "MVx9FQfo",
+      "date": "2025-11-29T13:00:00.000Z",
+      "round": "Round 17",
+      "homeTeam": "Bonner SC",
+      "awayTeam": "Wuppertaler",
+      "homeScore": 1,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "xv7gNxEi",
+      "date": "2025-11-29T13:00:00.000Z",
+      "round": "Round 17",
+      "homeTeam": "Fortuna Dusseldorf II",
+      "awayTeam": "Bochum II",
+      "homeScore": 0,
+      "awayScore": 2,
+      "htHome": 0,
+      "htAway": 2,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "Ai51LGr4",
+      "date": "2025-11-29T13:00:00.000Z",
+      "round": "Round 17",
+      "homeTeam": "Gutersloh 2000",
+      "awayTeam": "Borussia M'gladbach II",
+      "homeScore": 2,
+      "awayScore": 1,
+      "htHome": 1,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "jmnwLnXN",
+      "date": "2025-11-29T13:00:00.000Z",
+      "round": "Round 17",
+      "homeTeam": "SC Fortuna Köln",
+      "awayTeam": "Sportfreunde Lotte",
+      "homeScore": 4,
+      "awayScore": 0,
+      "htHome": 3,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "6JbAJfDG",
+      "date": "2025-11-29T13:00:00.000Z",
+      "round": "Round 17",
+      "homeTeam": "Rot-Weiss Oberhausen",
+      "awayTeam": "1. FC Bocholt",
+      "homeScore": 3,
+      "awayScore": 2,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "M7fMOUXb",
+      "date": "2025-11-28T18:30:00.000Z",
+      "round": "Round 17",
+      "homeTeam": "SV Rodinghausen",
+      "awayTeam": "SC Paderborn 07 II",
+      "homeScore": 2,
+      "awayScore": 1,
+      "htHome": 2,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "UXcUM82B",
+      "date": "2025-11-28T18:30:00.000Z",
+      "round": "Round 17",
+      "homeTeam": "SSVg Velbert",
+      "awayTeam": "Sportfreunde Siegen",
+      "homeScore": 2,
+      "awayScore": 2,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Red cards": [
+          "1",
+          "0"
+        ]
+      }
+    },
+    {
+      "id": "MXwDchZa",
+      "date": "2025-11-23T17:00:00.000Z",
+      "round": "Round 16",
+      "homeTeam": "Bochum II",
+      "awayTeam": "Gutersloh 2000",
+      "homeScore": 1,
+      "awayScore": 1,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Yellow cards": [
+          "0",
+          "1"
+        ],
+        "Red cards": [
+          "0",
+          "1"
+        ]
+      }
+    },
+    {
+      "id": "4Ge389mI",
+      "date": "2025-11-22T14:30:00.000Z",
+      "round": "Round 16",
+      "homeTeam": "Koln II",
+      "awayTeam": "Borussia Dortmund II",
+      "homeScore": 3,
+      "awayScore": 5,
+      "htHome": 2,
+      "htAway": 3,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "zHu5aE4m",
+      "date": "2025-11-22T13:00:00.000Z",
+      "round": "Round 16",
+      "homeTeam": "Borussia M'gladbach II",
+      "awayTeam": "Rot-Weiss Oberhausen",
+      "homeScore": 0,
+      "awayScore": 6,
+      "htHome": 0,
+      "htAway": 3,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "jq4Y4zsQ",
+      "date": "2025-11-22T13:00:00.000Z",
+      "round": "Round 16",
+      "homeTeam": "1. FC Bocholt",
+      "awayTeam": "Schalke II",
+      "homeScore": 2,
+      "awayScore": 3,
+      "htHome": 2,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "jDVTgAYO",
+      "date": "2025-11-22T13:00:00.000Z",
+      "round": "Round 16",
+      "homeTeam": "Sportfreunde Lotte",
+      "awayTeam": "Bonner SC",
+      "homeScore": 1,
+      "awayScore": 0,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Red cards": [
+          "0",
+          "1"
+        ]
+      }
+    },
+    {
+      "id": "Uw1vEDJt",
+      "date": "2025-11-22T13:00:00.000Z",
+      "round": "Round 16",
+      "homeTeam": "Sportfreunde Siegen",
+      "awayTeam": "SC Fortuna Köln",
+      "homeScore": 2,
+      "awayScore": 2,
+      "htHome": 1,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "IaXLeW3C",
+      "date": "2025-11-22T13:00:00.000Z",
+      "round": "Round 16",
+      "homeTeam": "Wuppertaler",
+      "awayTeam": "Fortuna Dusseldorf II",
+      "homeScore": 2,
+      "awayScore": 4,
+      "htHome": 1,
+      "htAway": 2,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "zy4nCilg",
+      "date": "2025-11-15T13:00:00.000Z",
+      "round": "Round 16",
+      "homeTeam": "SC Paderborn 07 II",
+      "awayTeam": "SSVg Velbert",
+      "homeScore": 3,
+      "awayScore": 2,
+      "htHome": 1,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "EmCNnyLs",
+      "date": "2025-11-09T13:00:00.000Z",
+      "round": "Round 15",
+      "homeTeam": "Bonner SC",
+      "awayTeam": "Sportfreunde Siegen",
+      "homeScore": 1,
+      "awayScore": 1,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "fcKVpFkf",
+      "date": "2025-11-09T13:00:00.000Z",
+      "round": "Round 15",
+      "homeTeam": "Fortuna Dusseldorf II",
+      "awayTeam": "Sportfreunde Lotte",
+      "homeScore": 2,
+      "awayScore": 3,
+      "htHome": 2,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "SAIwqgK6",
+      "date": "2025-11-09T13:00:00.000Z",
+      "round": "Round 15",
+      "homeTeam": "Gutersloh 2000",
+      "awayTeam": "Wuppertaler",
+      "homeScore": 0,
+      "awayScore": 0,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "8lpj5qy9",
+      "date": "2025-11-09T13:00:00.000Z",
+      "round": "Round 15",
+      "homeTeam": "SC Fortuna Köln",
+      "awayTeam": "SC Paderborn 07 II",
+      "homeScore": 0,
+      "awayScore": 0,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "OxCnsXlJ",
+      "date": "2025-11-09T13:00:00.000Z",
+      "round": "Round 15",
+      "homeTeam": "Rot-Weiss Oberhausen",
+      "awayTeam": "Bochum II",
+      "homeScore": 1,
+      "awayScore": 0,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "4f2OjpMF",
+      "date": "2025-11-08T13:00:00.000Z",
+      "round": "Round 15",
+      "homeTeam": "1. FC Bocholt",
+      "awayTeam": "Borussia M'gladbach II",
+      "homeScore": 0,
+      "awayScore": 2,
+      "htHome": 0,
+      "htAway": 2,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "x80WlOjS",
+      "date": "2025-11-08T13:00:00.000Z",
+      "round": "Round 15",
+      "homeTeam": "Borussia Dortmund II",
+      "awayTeam": "Schalke II",
+      "homeScore": 4,
+      "awayScore": 1,
+      "htHome": 1,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "KS3eq2Ek",
+      "date": "2025-11-08T13:00:00.000Z",
+      "round": "Round 15",
+      "homeTeam": "SV Rodinghausen",
+      "awayTeam": "Koln II",
+      "homeScore": 2,
+      "awayScore": 3,
+      "htHome": 0,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "Sh73stq2",
+      "date": "2025-11-08T13:00:00.000Z",
+      "round": "Round 15",
+      "homeTeam": "SSVg Velbert",
+      "awayTeam": "SC Wiedenbruck",
+      "homeScore": 2,
+      "awayScore": 1,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Red cards": [
+          "0",
+          "1"
+        ]
+      }
+    },
+    {
+      "id": "K6SKWOUq",
+      "date": "2025-11-02T17:00:00.000Z",
+      "round": "Round 14",
+      "homeTeam": "SC Paderborn 07 II",
+      "awayTeam": "Bonner SC",
+      "homeScore": 1,
+      "awayScore": 3,
+      "htHome": 0,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "632oIPFj",
+      "date": "2025-11-02T13:00:00.000Z",
+      "round": "Round 14",
+      "homeTeam": "Borussia Dortmund II",
+      "awayTeam": "1. FC Bocholt",
+      "homeScore": 1,
+      "awayScore": 2,
+      "htHome": 0,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "8S8Fh6i3",
+      "date": "2025-11-02T13:00:00.000Z",
+      "round": "Round 14",
+      "homeTeam": "Koln II",
+      "awayTeam": "SSVg Velbert",
+      "homeScore": 4,
+      "awayScore": 1,
+      "htHome": 2,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "jixkxo7M",
+      "date": "2025-11-02T13:00:00.000Z",
+      "round": "Round 14",
+      "homeTeam": "Sportfreunde Siegen",
+      "awayTeam": "Fortuna Dusseldorf II",
+      "homeScore": 3,
+      "awayScore": 1,
+      "htHome": 2,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "tMGTU2ad",
+      "date": "2025-11-02T13:00:00.000Z",
+      "round": "Round 14",
+      "homeTeam": "SC Wiedenbruck",
+      "awayTeam": "SC Fortuna Köln",
+      "homeScore": 1,
+      "awayScore": 3,
+      "htHome": 1,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "l4D7P7NG",
+      "date": "2025-11-01T17:00:00.000Z",
+      "round": "Round 14",
+      "homeTeam": "Borussia M'gladbach II",
+      "awayTeam": "Bochum II",
+      "homeScore": 4,
+      "awayScore": 1,
+      "htHome": 2,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "fPrtv7xA",
+      "date": "2025-10-31T18:30:00.000Z",
+      "round": "Round 14",
+      "homeTeam": "Sportfreunde Lotte",
+      "awayTeam": "Gutersloh 2000",
+      "homeScore": 2,
+      "awayScore": 2,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "MBpYuT7c",
+      "date": "2025-10-31T18:30:00.000Z",
+      "round": "Round 14",
+      "homeTeam": "Wuppertaler",
+      "awayTeam": "Rot-Weiss Oberhausen",
+      "homeScore": 2,
+      "awayScore": 3,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Red cards": [
+          "0",
+          "1"
+        ]
+      }
+    },
+    {
+      "id": "AJ1GNohT",
+      "date": "2025-10-31T17:30:00.000Z",
+      "round": "Round 14",
+      "homeTeam": "Schalke II",
+      "awayTeam": "SV Rodinghausen",
+      "homeScore": 3,
+      "awayScore": 2,
+      "htHome": 1,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "pCGjTkOi",
+      "date": "2025-10-26T13:00:00.000Z",
+      "round": "Round 13",
+      "homeTeam": "Gutersloh 2000",
+      "awayTeam": "Sportfreunde Siegen",
+      "homeScore": 3,
+      "awayScore": 2,
+      "htHome": 3,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Yellow cards": [
+          "0",
+          "1"
+        ],
+        "Red cards": [
+          "0",
+          "1"
+        ]
+      }
+    },
+    {
+      "id": "beh9GCvn",
+      "date": "2025-10-25T14:30:00.000Z",
+      "round": "Round 13",
+      "homeTeam": "SV Rodinghausen",
+      "awayTeam": "Borussia Dortmund II",
+      "homeScore": 2,
+      "awayScore": 4,
+      "htHome": 1,
+      "htAway": 2,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "MwP49eXI",
+      "date": "2025-10-25T12:00:00.000Z",
+      "round": "Round 13",
+      "homeTeam": "Borussia M'gladbach II",
+      "awayTeam": "Wuppertaler",
+      "homeScore": 2,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Red cards": [
+          "1",
+          "0"
+        ]
+      }
+    },
+    {
+      "id": "lQQdBH26",
+      "date": "2025-10-25T12:00:00.000Z",
+      "round": "Round 13",
+      "homeTeam": "1. FC Bocholt",
+      "awayTeam": "Bochum II",
+      "homeScore": 3,
+      "awayScore": 1,
+      "htHome": 2,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "z1mYA88N",
+      "date": "2025-10-25T12:00:00.000Z",
+      "round": "Round 13",
+      "homeTeam": "Bonner SC",
+      "awayTeam": "SC Wiedenbruck",
+      "homeScore": 2,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "hIT45nWp",
+      "date": "2025-10-25T12:00:00.000Z",
+      "round": "Round 13",
+      "homeTeam": "Fortuna Dusseldorf II",
+      "awayTeam": "SC Paderborn 07 II",
+      "homeScore": 0,
+      "awayScore": 2,
+      "htHome": 0,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "SzpQCUwB",
+      "date": "2025-10-25T12:00:00.000Z",
+      "round": "Round 13",
+      "homeTeam": "SC Fortuna Köln",
+      "awayTeam": "Koln II",
+      "homeScore": 3,
+      "awayScore": 2,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Red cards": [
+          "0",
+          "1"
+        ]
+      }
+    },
+    {
+      "id": "tvAaRTh4",
+      "date": "2025-10-25T12:00:00.000Z",
+      "round": "Round 13",
+      "homeTeam": "Rot-Weiss Oberhausen",
+      "awayTeam": "Sportfreunde Lotte",
+      "homeScore": 1,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "6LeHEj9b",
+      "date": "2025-10-25T12:00:00.000Z",
+      "round": "Round 13",
+      "homeTeam": "SSVg Velbert",
+      "awayTeam": "Schalke II",
+      "homeScore": 1,
+      "awayScore": 3,
+      "htHome": 1,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "KWg700ll",
+      "date": "2025-10-18T16:00:00.000Z",
+      "round": "Round 12",
+      "homeTeam": "Wuppertaler",
+      "awayTeam": "Bochum II",
+      "homeScore": 2,
+      "awayScore": 2,
+      "htHome": 0,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "hbXmDwYg",
+      "date": "2025-10-18T13:30:00.000Z",
+      "round": "Round 12",
+      "homeTeam": "Koln II",
+      "awayTeam": "Bonner SC",
+      "homeScore": 0,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "EVES7rdE",
+      "date": "2025-10-18T12:00:00.000Z",
+      "round": "Round 12",
+      "homeTeam": "Borussia Dortmund II",
+      "awayTeam": "SSVg Velbert",
+      "homeScore": 5,
+      "awayScore": 0,
+      "htHome": 3,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "hphFbvJ0",
+      "date": "2025-10-18T12:00:00.000Z",
+      "round": "Round 12",
+      "homeTeam": "Sportfreunde Lotte",
+      "awayTeam": "Borussia M'gladbach II",
+      "homeScore": 0,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "0nDz6MQQ",
+      "date": "2025-10-18T12:00:00.000Z",
+      "round": "Round 12",
+      "homeTeam": "SV Rodinghausen",
+      "awayTeam": "1. FC Bocholt",
+      "homeScore": 3,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "lCoOdImD",
+      "date": "2025-10-18T12:00:00.000Z",
+      "round": "Round 12",
+      "homeTeam": "Sportfreunde Siegen",
+      "awayTeam": "Rot-Weiss Oberhausen",
+      "homeScore": 0,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Yellow cards": [
+          "1",
+          "0"
+        ],
+        "Red cards": [
+          "1",
+          "0"
+        ]
+      }
+    },
+    {
+      "id": "pYTuFa3s",
+      "date": "2025-10-18T12:00:00.000Z",
+      "round": "Round 12",
+      "homeTeam": "SC Wiedenbruck",
+      "awayTeam": "Fortuna Dusseldorf II",
+      "homeScore": 5,
+      "awayScore": 2,
+      "htHome": 1,
+      "htAway": 2,
+      "status": "FINISHED",
+      "stats": {
+        "Red cards": [
+          "0",
+          "1"
+        ]
+      }
+    },
+    {
+      "id": "W6kr0Wx8",
+      "date": "2025-10-17T17:30:00.000Z",
+      "round": "Round 12",
+      "homeTeam": "Schalke II",
+      "awayTeam": "SC Fortuna Köln",
+      "homeScore": 0,
+      "awayScore": 0,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "00h9KLuK",
+      "date": "2025-10-11T12:00:00.000Z",
+      "round": "Round 12",
+      "homeTeam": "SC Paderborn 07 II",
+      "awayTeam": "Gutersloh 2000",
+      "homeScore": 0,
+      "awayScore": 2,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "xpEnBdo9",
+      "date": "2025-10-05T14:30:00.000Z",
+      "round": "Round 11",
+      "homeTeam": "Bonner SC",
+      "awayTeam": "Schalke II",
+      "homeScore": 0,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "CSBLdcWF",
+      "date": "2025-10-05T12:00:00.000Z",
+      "round": "Round 11",
+      "homeTeam": "Borussia M'gladbach II",
+      "awayTeam": "Sportfreunde Siegen",
+      "homeScore": 3,
+      "awayScore": 3,
+      "htHome": 1,
+      "htAway": 2,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "IusMfy1S",
+      "date": "2025-10-04T12:00:00.000Z",
+      "round": "Round 11",
+      "homeTeam": "Bochum II",
+      "awayTeam": "Sportfreunde Lotte",
+      "homeScore": 1,
+      "awayScore": 2,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "AwM0mgg2",
+      "date": "2025-10-04T12:00:00.000Z",
+      "round": "Round 11",
+      "homeTeam": "SC Fortuna Köln",
+      "awayTeam": "Borussia Dortmund II",
+      "homeScore": 2,
+      "awayScore": 2,
+      "htHome": 0,
+      "htAway": 2,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "vFDDbJ13",
+      "date": "2025-10-03T17:30:00.000Z",
+      "round": "Round 11",
+      "homeTeam": "1. FC Bocholt",
+      "awayTeam": "Wuppertaler",
+      "homeScore": 1,
+      "awayScore": 3,
+      "htHome": 0,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "Wr7e9zGL",
+      "date": "2025-10-03T17:30:00.000Z",
+      "round": "Round 11",
+      "homeTeam": "Fortuna Dusseldorf II",
+      "awayTeam": "Koln II",
+      "homeScore": 3,
+      "awayScore": 3,
+      "htHome": 3,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Red cards": [
+          "0",
+          "1"
+        ]
+      }
+    },
+    {
+      "id": "Otnz2h8e",
+      "date": "2025-10-03T17:30:00.000Z",
+      "round": "Round 11",
+      "homeTeam": "Rot-Weiss Oberhausen",
+      "awayTeam": "SC Paderborn 07 II",
+      "homeScore": 1,
+      "awayScore": 0,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "SEhR3Ewq",
+      "date": "2025-10-03T16:00:00.000Z",
+      "round": "Round 11",
+      "homeTeam": "Gutersloh 2000",
+      "awayTeam": "SC Wiedenbruck",
+      "homeScore": 1,
+      "awayScore": 0,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Red cards": [
+          "0",
+          "1"
+        ]
+      }
+    },
+    {
+      "id": "lOXikFOk",
+      "date": "2025-10-03T12:00:00.000Z",
+      "round": "Round 11",
+      "homeTeam": "SSVg Velbert",
+      "awayTeam": "SV Rodinghausen",
+      "homeScore": 2,
+      "awayScore": 3,
+      "htHome": 2,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "dhFpepeB",
+      "date": "2025-09-29T12:00:00.000Z",
+      "round": "Round 10",
+      "homeTeam": "SC Paderborn 07 II",
+      "awayTeam": "Borussia M'gladbach II",
+      "homeScore": 1,
+      "awayScore": 1,
+      "htHome": 1,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Red cards": [
+          "0",
+          "1"
+        ]
+      }
+    },
+    {
+      "id": "dYj3r7B5",
+      "date": "2025-09-28T12:00:00.000Z",
+      "round": "Round 10",
+      "homeTeam": "Borussia Dortmund II",
+      "awayTeam": "Bonner SC",
+      "homeScore": 1,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "zJ2fpTtg",
+      "date": "2025-09-27T14:00:00.000Z",
+      "round": "Round 10",
+      "homeTeam": "Schalke II",
+      "awayTeam": "Fortuna Dusseldorf II",
+      "homeScore": 3,
+      "awayScore": 1,
+      "htHome": 2,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "O6VQzG9d",
+      "date": "2025-09-27T12:00:00.000Z",
+      "round": "Round 10",
+      "homeTeam": "Koln II",
+      "awayTeam": "Gutersloh 2000",
+      "homeScore": 0,
+      "awayScore": 0,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "fTITbSen",
+      "date": "2025-09-27T12:00:00.000Z",
+      "round": "Round 10",
+      "homeTeam": "Sportfreunde Lotte",
+      "awayTeam": "Wuppertaler",
+      "homeScore": 1,
+      "awayScore": 2,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "rkkBtotI",
+      "date": "2025-09-27T12:00:00.000Z",
+      "round": "Round 10",
+      "homeTeam": "SV Rodinghausen",
+      "awayTeam": "SC Fortuna Köln",
+      "homeScore": 0,
+      "awayScore": 4,
+      "htHome": 0,
+      "htAway": 2,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "GtSIxxup",
+      "date": "2025-09-27T12:00:00.000Z",
+      "round": "Round 10",
+      "homeTeam": "SC Wiedenbruck",
+      "awayTeam": "Rot-Weiss Oberhausen",
+      "homeScore": 1,
+      "awayScore": 2,
+      "htHome": 0,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "jeCxc6Qb",
+      "date": "2025-09-26T17:30:00.000Z",
+      "round": "Round 10",
+      "homeTeam": "Sportfreunde Siegen",
+      "awayTeam": "Bochum II",
+      "homeScore": 1,
+      "awayScore": 1,
+      "htHome": 1,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "vHrKvPAU",
+      "date": "2025-09-25T17:30:00.000Z",
+      "round": "Round 10",
+      "homeTeam": "SSVg Velbert",
+      "awayTeam": "1. FC Bocholt",
+      "homeScore": 1,
+      "awayScore": 2,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "GEVTT7dC",
+      "date": "2025-09-21T14:00:00.000Z",
+      "round": "Round 9",
+      "homeTeam": "Fortuna Dusseldorf II",
+      "awayTeam": "Borussia Dortmund II",
+      "homeScore": 0,
+      "awayScore": 2,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Red cards": [
+          "0",
+          "1"
+        ]
+      }
+    },
+    {
+      "id": "dbzfHUC6",
+      "date": "2025-09-20T12:00:00.000Z",
+      "round": "Round 9",
+      "homeTeam": "Borussia M'gladbach II",
+      "awayTeam": "SC Wiedenbruck",
+      "homeScore": 1,
+      "awayScore": 1,
+      "htHome": 1,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "OpxnJjrf",
+      "date": "2025-09-20T12:00:00.000Z",
+      "round": "Round 9",
+      "homeTeam": "1. FC Bocholt",
+      "awayTeam": "Sportfreunde Lotte",
+      "homeScore": 4,
+      "awayScore": 1,
+      "htHome": 2,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "G0jeF8sJ",
+      "date": "2025-09-20T12:00:00.000Z",
+      "round": "Round 9",
+      "homeTeam": "Bochum II",
+      "awayTeam": "SC Paderborn 07 II",
+      "homeScore": 2,
+      "awayScore": 2,
+      "htHome": 0,
+      "htAway": 2,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "z5NLVTRa",
+      "date": "2025-09-20T12:00:00.000Z",
+      "round": "Round 9",
+      "homeTeam": "Bonner SC",
+      "awayTeam": "SV Rodinghausen",
+      "homeScore": 1,
+      "awayScore": 0,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "lSTySoRO",
+      "date": "2025-09-20T12:00:00.000Z",
+      "round": "Round 9",
+      "homeTeam": "Gutersloh 2000",
+      "awayTeam": "Schalke II",
+      "homeScore": 1,
+      "awayScore": 3,
+      "htHome": 0,
+      "htAway": 3,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "SvKDXkcm",
+      "date": "2025-09-20T12:00:00.000Z",
+      "round": "Round 9",
+      "homeTeam": "SC Fortuna Köln",
+      "awayTeam": "SSVg Velbert",
+      "homeScore": 5,
+      "awayScore": 0,
+      "htHome": 4,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Yellow cards": [
+          "0",
+          "1"
+        ],
+        "Red cards": [
+          "0",
+          "1"
+        ]
+      }
+    },
+    {
+      "id": "ShannkCt",
+      "date": "2025-09-20T12:00:00.000Z",
+      "round": "Round 9",
+      "homeTeam": "Rot-Weiss Oberhausen",
+      "awayTeam": "Koln II",
+      "homeScore": 1,
+      "awayScore": 2,
+      "htHome": 0,
+      "htAway": 2,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "r7rswCZP",
+      "date": "2025-09-20T12:00:00.000Z",
+      "round": "Round 9",
+      "homeTeam": "Wuppertaler",
+      "awayTeam": "Sportfreunde Siegen",
+      "homeScore": 1,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "GvFK2VcD",
+      "date": "2025-09-17T17:30:00.000Z",
+      "round": "Round 8",
+      "homeTeam": "SC Paderborn 07 II",
+      "awayTeam": "Wuppertaler",
+      "homeScore": 6,
+      "awayScore": 1,
+      "htHome": 5,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "n12NQsp3",
+      "date": "2025-09-17T17:30:00.000Z",
+      "round": "Round 8",
+      "homeTeam": "SV Rodinghausen",
+      "awayTeam": "Fortuna Dusseldorf II",
+      "homeScore": 3,
+      "awayScore": 0,
+      "htHome": 3,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "YwCT40Nq",
+      "date": "2025-09-17T17:30:00.000Z",
+      "round": "Round 8",
+      "homeTeam": "Schalke II",
+      "awayTeam": "Rot-Weiss Oberhausen",
+      "homeScore": 0,
+      "awayScore": 2,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "AsCC4iT0",
+      "date": "2025-09-17T17:30:00.000Z",
+      "round": "Round 8",
+      "homeTeam": "Sportfreunde Siegen",
+      "awayTeam": "Sportfreunde Lotte",
+      "homeScore": 0,
+      "awayScore": 0,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "rTeWOLEF",
+      "date": "2025-09-17T17:30:00.000Z",
+      "round": "Round 8",
+      "homeTeam": "SSVg Velbert",
+      "awayTeam": "Bonner SC",
+      "homeScore": 0,
+      "awayScore": 0,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "SIrwLCDs",
+      "date": "2025-09-17T12:00:00.000Z",
+      "round": "Round 8",
+      "homeTeam": "Koln II",
+      "awayTeam": "Borussia M'gladbach II",
+      "homeScore": 2,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Red cards": [
+          "0",
+          "1"
+        ]
+      }
+    },
+    {
+      "id": "z5NLVTRa",
+      "date": "2025-09-20T12:00:00.000Z",
+      "round": "Round 9",
+      "homeTeam": "Bonner SC",
+      "awayTeam": "SV Rodinghausen",
+      "homeScore": 1,
+      "awayScore": 0,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "lSTySoRO",
+      "date": "2025-09-20T12:00:00.000Z",
+      "round": "Round 9",
+      "homeTeam": "Gutersloh 2000",
+      "awayTeam": "Schalke II",
+      "homeScore": 1,
+      "awayScore": 3,
+      "htHome": 0,
+      "htAway": 3,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "SvKDXkcm",
+      "date": "2025-09-20T12:00:00.000Z",
+      "round": "Round 9",
+      "homeTeam": "SC Fortuna Köln",
+      "awayTeam": "SSVg Velbert",
+      "homeScore": 5,
+      "awayScore": 0,
+      "htHome": 4,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Yellow cards": [
+          "0",
+          "1"
+        ],
+        "Red cards": [
+          "0",
+          "1"
+        ]
+      }
+    },
+    {
+      "id": "ShannkCt",
+      "date": "2025-09-20T12:00:00.000Z",
+      "round": "Round 9",
+      "homeTeam": "Rot-Weiss Oberhausen",
+      "awayTeam": "Koln II",
+      "homeScore": 1,
+      "awayScore": 2,
+      "htHome": 0,
+      "htAway": 2,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "r7rswCZP",
+      "date": "2025-09-20T12:00:00.000Z",
+      "round": "Round 9",
+      "homeTeam": "Wuppertaler",
+      "awayTeam": "Sportfreunde Siegen",
+      "homeScore": 1,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "GvFK2VcD",
+      "date": "2025-09-17T17:30:00.000Z",
+      "round": "Round 8",
+      "homeTeam": "SC Paderborn 07 II",
+      "awayTeam": "Wuppertaler",
+      "homeScore": 6,
+      "awayScore": 1,
+      "htHome": 5,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "n12NQsp3",
+      "date": "2025-09-17T17:30:00.000Z",
+      "round": "Round 8",
+      "homeTeam": "SV Rodinghausen",
+      "awayTeam": "Fortuna Dusseldorf II",
+      "homeScore": 3,
+      "awayScore": 0,
+      "htHome": 3,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "YwCT40Nq",
+      "date": "2025-09-17T17:30:00.000Z",
+      "round": "Round 8",
+      "homeTeam": "Schalke II",
+      "awayTeam": "Rot-Weiss Oberhausen",
+      "homeScore": 0,
+      "awayScore": 2,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "AsCC4iT0",
+      "date": "2025-09-17T17:30:00.000Z",
+      "round": "Round 8",
+      "homeTeam": "Sportfreunde Siegen",
+      "awayTeam": "Sportfreunde Lotte",
+      "homeScore": 0,
+      "awayScore": 0,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "rTeWOLEF",
+      "date": "2025-09-17T17:30:00.000Z",
+      "round": "Round 8",
+      "homeTeam": "SSVg Velbert",
+      "awayTeam": "Bonner SC",
+      "homeScore": 0,
+      "awayScore": 0,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "SIrwLCDs",
+      "date": "2025-09-17T12:00:00.000Z",
+      "round": "Round 8",
+      "homeTeam": "Koln II",
+      "awayTeam": "Borussia M'gladbach II",
+      "homeScore": 2,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Red cards": [
+          "0",
+          "1"
+        ]
+      }
+    },
+    {
+      "id": "fg0x3vhd",
+      "date": "2025-09-16T17:30:00.000Z",
+      "round": "Round 8",
+      "homeTeam": "Borussia Dortmund II",
+      "awayTeam": "Gutersloh 2000",
+      "homeScore": 2,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "EFI36Dbl",
+      "date": "2025-09-16T17:30:00.000Z",
+      "round": "Round 8",
+      "homeTeam": "SC Fortuna Köln",
+      "awayTeam": "1. FC Bocholt",
+      "homeScore": 1,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "dzh7QYkK",
+      "date": "2025-09-16T17:30:00.000Z",
+      "round": "Round 8",
+      "homeTeam": "SC Wiedenbruck",
+      "awayTeam": "Bochum II",
+      "homeScore": 0,
+      "awayScore": 0,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "0Am61RGi",
+      "date": "2025-09-13T12:00:00.000Z",
+      "round": "Round 7",
+      "homeTeam": "Borussia M'gladbach II",
+      "awayTeam": "Schalke II",
+      "homeScore": 2,
+      "awayScore": 4,
+      "htHome": 0,
+      "htAway": 2,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "KC37a5o4",
+      "date": "2025-09-13T12:00:00.000Z",
+      "round": "Round 7",
+      "homeTeam": "Bochum II",
+      "awayTeam": "Koln II",
+      "homeScore": 0,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "YFTtE40c",
+      "date": "2025-09-13T12:00:00.000Z",
+      "round": "Round 7",
+      "homeTeam": "Fortuna Dusseldorf II",
+      "awayTeam": "SSVg Velbert",
+      "homeScore": 2,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "6TRlCrV9",
+      "date": "2025-09-13T12:00:00.000Z",
+      "round": "Round 7",
+      "homeTeam": "Gutersloh 2000",
+      "awayTeam": "SV Rodinghausen",
+      "homeScore": 2,
+      "awayScore": 0,
+      "htHome": 2,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "2eLcAMaM",
+      "date": "2025-09-13T12:00:00.000Z",
+      "round": "Round 7",
+      "homeTeam": "Rot-Weiss Oberhausen",
+      "awayTeam": "Borussia Dortmund II",
+      "homeScore": 2,
+      "awayScore": 1,
+      "htHome": 2,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "Sx7FcqGG",
+      "date": "2025-09-13T12:00:00.000Z",
+      "round": "Round 7",
+      "homeTeam": "Wuppertaler",
+      "awayTeam": "SC Wiedenbruck",
+      "homeScore": 3,
+      "awayScore": 1,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "8G0KwOOp",
+      "date": "2025-09-12T17:30:00.000Z",
+      "round": "Round 7",
+      "homeTeam": "1. FC Bocholt",
+      "awayTeam": "Sportfreunde Siegen",
+      "homeScore": 0,
+      "awayScore": 2,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Red cards": [
+          "1",
+          "0"
+        ]
+      }
+    },
+    {
+      "id": "lheOeNpT",
+      "date": "2025-09-12T17:30:00.000Z",
+      "round": "Round 7",
+      "homeTeam": "Sportfreunde Lotte",
+      "awayTeam": "SC Paderborn 07 II",
+      "homeScore": 1,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "Kznfj18j",
+      "date": "2025-09-05T17:30:00.000Z",
+      "round": "Round 7",
+      "homeTeam": "Bonner SC",
+      "awayTeam": "SC Fortuna Köln",
+      "homeScore": 0,
+      "awayScore": 3,
+      "htHome": 0,
+      "htAway": 3,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "lWJmqp1N",
+      "date": "2025-09-01T17:00:00.000Z",
+      "round": "Round 6",
+      "homeTeam": "Koln II",
+      "awayTeam": "Wuppertaler",
+      "homeScore": 3,
+      "awayScore": 2,
+      "htHome": 1,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "AwEqh2Mt",
+      "date": "2025-08-31T12:00:00.000Z",
+      "round": "Round 6",
+      "homeTeam": "Schalke II",
+      "awayTeam": "Bochum II",
+      "homeScore": 3,
+      "awayScore": 2,
+      "htHome": 1,
+      "htAway": 2,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "nkhHpxLU",
+      "date": "2025-08-30T14:00:00.000Z",
+      "round": "Round 6",
+      "homeTeam": "SC Fortuna Köln",
+      "awayTeam": "Fortuna Dusseldorf II",
+      "homeScore": 3,
+      "awayScore": 2,
+      "htHome": 1,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "SrAPllXo",
+      "date": "2025-08-30T12:00:00.000Z",
+      "round": "Round 6",
+      "homeTeam": "Bonner SC",
+      "awayTeam": "1. FC Bocholt",
+      "homeScore": 1,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "Wh2hjtig",
+      "date": "2025-08-30T12:00:00.000Z",
+      "round": "Round 6",
+      "homeTeam": "Borussia Dortmund II",
+      "awayTeam": "Borussia M'gladbach II",
+      "homeScore": 1,
+      "awayScore": 2,
+      "htHome": 0,
+      "htAway": 2,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "I900lKL5",
+      "date": "2025-08-30T12:00:00.000Z",
+      "round": "Round 6",
+      "homeTeam": "SV Rodinghausen",
+      "awayTeam": "Rot-Weiss Oberhausen",
+      "homeScore": 1,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "t6Guo6WA",
+      "date": "2025-08-30T12:00:00.000Z",
+      "round": "Round 6",
+      "homeTeam": "SC Wiedenbruck",
+      "awayTeam": "Sportfreunde Lotte",
+      "homeScore": 1,
+      "awayScore": 2,
+      "htHome": 0,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "KjSWnS1b",
+      "date": "2025-08-29T17:30:00.000Z",
+      "round": "Round 6",
+      "homeTeam": "SC Paderborn 07 II",
+      "awayTeam": "Sportfreunde Siegen",
+      "homeScore": 0,
+      "awayScore": 2,
+      "htHome": 0,
+      "htAway": 2,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "Eyf9nbjI",
+      "date": "2025-08-29T17:30:00.000Z",
+      "round": "Round 6",
+      "homeTeam": "SSVg Velbert",
+      "awayTeam": "Gutersloh 2000",
+      "homeScore": 0,
+      "awayScore": 3,
+      "htHome": 0,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "jyMxdBNE",
+      "date": "2025-08-24T12:00:00.000Z",
+      "round": "Round 5",
+      "homeTeam": "Sportfreunde Lotte",
+      "awayTeam": "Koln II",
+      "homeScore": 2,
+      "awayScore": 1,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "pbcYpoFD",
+      "date": "2025-08-24T12:00:00.000Z",
+      "round": "Round 5",
+      "homeTeam": "Rot-Weiss Oberhausen",
+      "awayTeam": "SSVg Velbert",
+      "homeScore": 0,
+      "awayScore": 0,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "d2AsxjWr",
+      "date": "2025-08-23T12:00:00.000Z",
+      "round": "Round 5",
+      "homeTeam": "Borussia M'gladbach II",
+      "awayTeam": "SV Rodinghausen",
+      "homeScore": 1,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "0WOBsC8L",
+      "date": "2025-08-23T12:00:00.000Z",
+      "round": "Round 5",
+      "homeTeam": "1. FC Bocholt",
+      "awayTeam": "SC Paderborn 07 II",
+      "homeScore": 0,
+      "awayScore": 0,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "2FurzU0e",
+      "date": "2025-08-23T12:00:00.000Z",
+      "round": "Round 5",
+      "homeTeam": "Bochum II",
+      "awayTeam": "Borussia Dortmund II",
+      "homeScore": 1,
+      "awayScore": 2,
+      "htHome": 1,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "GI5HlTFl",
+      "date": "2025-08-23T12:00:00.000Z",
+      "round": "Round 5",
+      "homeTeam": "Fortuna Dusseldorf II",
+      "awayTeam": "Bonner SC",
+      "homeScore": 2,
+      "awayScore": 0,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "lW3Pn7p1",
+      "date": "2025-08-23T12:00:00.000Z",
+      "round": "Round 5",
+      "homeTeam": "Gutersloh 2000",
+      "awayTeam": "SC Fortuna Köln",
+      "homeScore": 1,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "b1PpfkhR",
+      "date": "2025-08-23T12:00:00.000Z",
+      "round": "Round 5",
+      "homeTeam": "Sportfreunde Siegen",
+      "awayTeam": "SC Wiedenbruck",
+      "homeScore": 3,
+      "awayScore": 1,
+      "htHome": 2,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Yellow cards": [
+          "1",
+          "0"
+        ],
+        "Red cards": [
+          "1",
+          "0"
+        ]
+      }
+    },
+    {
+      "id": "AuqjY7V7",
+      "date": "2025-08-23T12:00:00.000Z",
+      "round": "Round 5",
+      "homeTeam": "Wuppertaler",
+      "awayTeam": "Schalke II",
+      "homeScore": 0,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "44V2qYw9",
+      "date": "2025-08-20T17:00:00.000Z",
+      "round": "Round 4",
+      "homeTeam": "Schalke II",
+      "awayTeam": "Sportfreunde Lotte",
+      "homeScore": 3,
+      "awayScore": 0,
+      "htHome": 2,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "fkj2lz6F",
+      "date": "2025-08-19T17:00:00.000Z",
+      "round": "Round 4",
+      "homeTeam": "Bonner SC",
+      "awayTeam": "Gutersloh 2000",
+      "homeScore": 2,
+      "awayScore": 3,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "GOQQADXq",
+      "date": "2025-08-17T12:00:00.000Z",
+      "round": "Round 4",
+      "homeTeam": "Borussia Dortmund II",
+      "awayTeam": "Wuppertaler",
+      "homeScore": 2,
+      "awayScore": 2,
+      "htHome": 1,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "xbwHLUo2",
+      "date": "2025-08-17T12:00:00.000Z",
+      "round": "Round 4",
+      "homeTeam": "Koln II",
+      "awayTeam": "Sportfreunde Siegen",
+      "homeScore": 2,
+      "awayScore": 4,
+      "htHome": 0,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "Im7LWff3",
+      "date": "2025-08-17T12:00:00.000Z",
+      "round": "Round 4",
+      "homeTeam": "SSVg Velbert",
+      "awayTeam": "Borussia M'gladbach II",
+      "homeScore": 1,
+      "awayScore": 2,
+      "htHome": 1,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Yellow cards": [
+          "1",
+          "0"
+        ],
+        "Red cards": [
+          "1",
+          "0"
+        ]
+      }
+    },
+    {
+      "id": "Grk8NjHk",
+      "date": "2025-08-17T12:00:00.000Z",
+      "round": "Round 4",
+      "homeTeam": "SC Wiedenbruck",
+      "awayTeam": "SC Paderborn 07 II",
+      "homeScore": 3,
+      "awayScore": 1,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Yellow cards": [
+          "0",
+          "1"
+        ],
+        "Red cards": [
+          "0",
+          "1"
+        ]
+      }
+    },
+    {
+      "id": "nTbxTCgS",
+      "date": "2025-08-16T12:00:00.000Z",
+      "round": "Round 4",
+      "homeTeam": "Fortuna Dusseldorf II",
+      "awayTeam": "1. FC Bocholt",
+      "homeScore": 2,
+      "awayScore": 2,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "j15TUYOF",
+      "date": "2025-08-16T12:00:00.000Z",
+      "round": "Round 4",
+      "homeTeam": "SC Fortuna Köln",
+      "awayTeam": "Rot-Weiss Oberhausen",
+      "homeScore": 5,
+      "awayScore": 1,
+      "htHome": 2,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Yellow cards": [
+          "1",
+          "0"
+        ],
+        "Red cards": [
+          "1",
+          "2"
+        ]
+      }
+    },
+    {
+      "id": "2uPY8i2d",
+      "date": "2025-08-16T12:00:00.000Z",
+      "round": "Round 4",
+      "homeTeam": "SV Rodinghausen",
+      "awayTeam": "Bochum II",
+      "homeScore": 0,
+      "awayScore": 2,
+      "htHome": 0,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "Sts3I4Zh",
+      "date": "2025-08-11T18:00:00.000Z",
+      "round": "Round 3",
+      "homeTeam": "Bochum II",
+      "awayTeam": "SSVg Velbert",
+      "homeScore": 2,
+      "awayScore": 2,
+      "htHome": 2,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "dMYJEMYH",
+      "date": "2025-08-10T12:00:00.000Z",
+      "round": "Round 3",
+      "homeTeam": "Sportfreunde Lotte",
+      "awayTeam": "Borussia Dortmund II",
+      "homeScore": 3,
+      "awayScore": 5,
+      "htHome": 2,
+      "htAway": 3,
+      "status": "FINISHED",
+      "stats": {
+        "Yellow cards": [
+          "1",
+          "0"
+        ],
+        "Red cards": [
+          "1",
+          "0"
+        ]
+      }
+    },
+    {
+      "id": "WjkfGZ9M",
+      "date": "2025-08-10T12:00:00.000Z",
+      "round": "Round 3",
+      "homeTeam": "Rot-Weiss Oberhausen",
+      "awayTeam": "Bonner SC",
+      "homeScore": 3,
+      "awayScore": 1,
+      "htHome": 1,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "KGweKQ4t",
+      "date": "2025-08-09T12:00:00.000Z",
+      "round": "Round 3",
+      "homeTeam": "Borussia M'gladbach II",
+      "awayTeam": "SC Fortuna Köln",
+      "homeScore": 3,
+      "awayScore": 2,
+      "htHome": 2,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Red cards": [
+          "1",
+          "0"
+        ]
+      }
+    },
+    {
+      "id": "IFoh0NJO",
+      "date": "2025-08-09T12:00:00.000Z",
+      "round": "Round 3",
+      "homeTeam": "1. FC Bocholt",
+      "awayTeam": "SC Wiedenbruck",
+      "homeScore": 4,
+      "awayScore": 0,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "OQonIeuA",
+      "date": "2025-08-09T12:00:00.000Z",
+      "round": "Round 3",
+      "homeTeam": "Gutersloh 2000",
+      "awayTeam": "Fortuna Dusseldorf II",
+      "homeScore": 1,
+      "awayScore": 3,
+      "htHome": 1,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "z55idEIj",
+      "date": "2025-08-09T12:00:00.000Z",
+      "round": "Round 3",
+      "homeTeam": "Sportfreunde Siegen",
+      "awayTeam": "Schalke II",
+      "homeScore": 2,
+      "awayScore": 2,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "ldVBGr45",
+      "date": "2025-08-09T12:00:00.000Z",
+      "round": "Round 3",
+      "homeTeam": "Wuppertaler",
+      "awayTeam": "SV Rodinghausen",
+      "homeScore": 0,
+      "awayScore": 5,
+      "htHome": 0,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "SbhwKHAc",
+      "date": "2025-08-08T17:00:00.000Z",
+      "round": "Round 3",
+      "homeTeam": "SC Paderborn 07 II",
+      "awayTeam": "Koln II",
+      "homeScore": 5,
+      "awayScore": 0,
+      "htHome": 2,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "6ixogl6s",
+      "date": "2025-08-03T12:00:00.000Z",
+      "round": "Round 2",
+      "homeTeam": "Borussia Dortmund II",
+      "awayTeam": "Sportfreunde Siegen",
+      "homeScore": 2,
+      "awayScore": 2,
+      "htHome": 0,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Red cards": [
+          "0",
+          "1"
+        ]
+      }
+    },
+    {
+      "id": "dxFdBmSP",
+      "date": "2025-08-02T12:00:00.000Z",
+      "round": "Round 2",
+      "homeTeam": "Bonner SC",
+      "awayTeam": "Borussia M'gladbach II",
+      "homeScore": 0,
+      "awayScore": 4,
+      "htHome": 0,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "tAjT5Rkm",
+      "date": "2025-08-02T12:00:00.000Z",
+      "round": "Round 2",
+      "homeTeam": "Fortuna Dusseldorf II",
+      "awayTeam": "Rot-Weiss Oberhausen",
+      "homeScore": 1,
+      "awayScore": 0,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "lzfy45Ka",
+      "date": "2025-08-02T12:00:00.000Z",
+      "round": "Round 2",
+      "homeTeam": "Gutersloh 2000",
+      "awayTeam": "1. FC Bocholt",
+      "homeScore": 6,
+      "awayScore": 3,
+      "htHome": 4,
+      "htAway": 3,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "WbNAmpzJ",
+      "date": "2025-08-02T12:00:00.000Z",
+      "round": "Round 2",
+      "homeTeam": "SC Fortuna Köln",
+      "awayTeam": "Bochum II",
+      "homeScore": 0,
+      "awayScore": 0,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "p2mp2qkC",
+      "date": "2025-08-02T12:00:00.000Z",
+      "round": "Round 2",
+      "homeTeam": "Koln II",
+      "awayTeam": "SC Wiedenbruck",
+      "homeScore": 3,
+      "awayScore": 0,
+      "htHome": 2,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "2JVgiSzf",
+      "date": "2025-08-02T12:00:00.000Z",
+      "round": "Round 2",
+      "homeTeam": "SV Rodinghausen",
+      "awayTeam": "Sportfreunde Lotte",
+      "homeScore": 1,
+      "awayScore": 2,
+      "htHome": 1,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "A7yGbArK",
+      "date": "2025-08-02T12:00:00.000Z",
+      "round": "Round 2",
+      "homeTeam": "Schalke II",
+      "awayTeam": "SC Paderborn 07 II",
+      "homeScore": 1,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "zXT1k656",
+      "date": "2025-08-01T17:30:00.000Z",
+      "round": "Round 2",
+      "homeTeam": "SSVg Velbert",
+      "awayTeam": "Wuppertaler",
+      "homeScore": 0,
+      "awayScore": 3,
+      "htHome": 0,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Red cards": [
+          "1",
+          "0"
+        ]
+      }
+    },
+    {
+      "id": "QJ1Cvkil",
+      "date": "2025-07-27T12:00:00.000Z",
+      "round": "Round 1",
+      "homeTeam": "SC Paderborn 07 II",
+      "awayTeam": "Borussia Dortmund II",
+      "homeScore": 3,
+      "awayScore": 0,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "nTtwQkxe",
+      "date": "2025-07-26T12:00:00.000Z",
+      "round": "Round 1",
+      "homeTeam": "Borussia M'gladbach II",
+      "awayTeam": "Fortuna Dusseldorf II",
+      "homeScore": 1,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "v3wVRB7r",
+      "date": "2025-07-26T12:00:00.000Z",
+      "round": "Round 1",
+      "homeTeam": "1. FC Bocholt",
+      "awayTeam": "Koln II",
+      "homeScore": 3,
+      "awayScore": 0,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "8rVoOT67",
+      "date": "2025-07-26T12:00:00.000Z",
+      "round": "Round 1",
+      "homeTeam": "Bochum II",
+      "awayTeam": "Bonner SC",
+      "homeScore": 1,
+      "awayScore": 4,
+      "htHome": 0,
+      "htAway": 2,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "zkNXoXbE",
+      "date": "2025-07-26T12:00:00.000Z",
+      "round": "Round 1",
+      "homeTeam": "Sportfreunde Lotte",
+      "awayTeam": "SSVg Velbert",
+      "homeScore": 2,
+      "awayScore": 2,
+      "htHome": 1,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "UBbTz7jD",
+      "date": "2025-07-26T12:00:00.000Z",
+      "round": "Round 1",
+      "homeTeam": "Rot-Weiss Oberhausen",
+      "awayTeam": "Gutersloh 2000",
+      "homeScore": 0,
+      "awayScore": 2,
+      "htHome": 0,
+      "htAway": 2,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "UmGtpBTQ",
+      "date": "2025-07-26T12:00:00.000Z",
+      "round": "Round 1",
+      "homeTeam": "Sportfreunde Siegen",
+      "awayTeam": "SV Rodinghausen",
+      "homeScore": 3,
+      "awayScore": 0,
+      "htHome": 2,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "MoeLxTL0",
+      "date": "2025-07-26T12:00:00.000Z",
+      "round": "Round 1",
+      "homeTeam": "SC Wiedenbruck",
+      "awayTeam": "Schalke II",
+      "homeScore": 2,
+      "awayScore": 1,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Yellow cards": [
+          "1",
+          "0"
+        ],
+        "Red cards": [
+          "1",
+          "0"
+        ]
+      }
+    },
+    {
+      "id": "MRb4pKN9",
+      "date": "2025-07-25T17:00:00.000Z",
+      "round": "Round 1",
+      "homeTeam": "Wuppertaler",
+      "awayTeam": "SC Fortuna Köln",
+      "homeScore": 0,
+      "awayScore": 2,
+      "htHome": 0,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Red cards": [
+          "1",
+          "0"
+        ]
+      }
+    }
+  ]
+}

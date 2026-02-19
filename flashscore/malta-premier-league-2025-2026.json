@@ -1,0 +1,5047 @@
+{
+  "league": "Premier League",
+  "country": "malta",
+  "season": "2025-2026",
+  "collectedAt": "2026-02-10T17:36:13.815Z",
+  "totalMatches": 130,
+  "matches": [
+    {
+      "id": "0fiePwWg",
+      "date": "2026-02-08T13:00:00.000Z",
+      "round": "Round 21",
+      "homeTeam": "Birkirkara",
+      "awayTeam": "Valletta",
+      "homeScore": 1,
+      "awayScore": 0,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "45%",
+          "55%"
+        ],
+        "Total shots": [
+          "4",
+          "4"
+        ],
+        "Shots on target": [
+          "2",
+          "0"
+        ],
+        "Corner kicks": [
+          "7",
+          "4"
+        ],
+        "Yellow cards": [
+          "5",
+          "3"
+        ],
+        "Shots off target": [
+          "2",
+          "4"
+        ]
+      }
+    },
+    {
+      "id": "dl7yM4P1",
+      "date": "2026-02-08T13:00:00.000Z",
+      "round": "Round 21",
+      "homeTeam": "Mosta FC",
+      "awayTeam": "Sliema Wanderers",
+      "homeScore": 0,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "51%",
+          "49%"
+        ],
+        "Total shots": [
+          "5",
+          "5"
+        ],
+        "Shots on target": [
+          "2",
+          "1"
+        ],
+        "Corner kicks": [
+          "4",
+          "7"
+        ],
+        "Yellow cards": [
+          "1",
+          "2"
+        ],
+        "Shots off target": [
+          "3",
+          "4"
+        ]
+      }
+    },
+    {
+      "id": "0MDSNQfk",
+      "date": "2026-02-08T10:00:00.000Z",
+      "round": "Round 21",
+      "homeTeam": "Gzira United",
+      "awayTeam": "Floriana",
+      "homeScore": 1,
+      "awayScore": 2,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "36%",
+          "64%"
+        ],
+        "Total shots": [
+          "7",
+          "18"
+        ],
+        "Shots on target": [
+          "6",
+          "5"
+        ],
+        "Corner kicks": [
+          "8",
+          "5"
+        ],
+        "Yellow cards": [
+          "2",
+          "5"
+        ],
+        "Shots off target": [
+          "1",
+          "13"
+        ]
+      }
+    },
+    {
+      "id": "lrfNq8H8",
+      "date": "2026-02-07T18:00:00.000Z",
+      "round": "Round 21",
+      "homeTeam": "Hamrun Spartans",
+      "awayTeam": "Naxxar Lions",
+      "homeScore": 4,
+      "awayScore": 0,
+      "htHome": 2,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "57%",
+          "43%"
+        ],
+        "Total shots": [
+          "10",
+          "5"
+        ],
+        "Shots on target": [
+          "7",
+          "1"
+        ],
+        "Corner kicks": [
+          "8",
+          "2"
+        ],
+        "Yellow cards": [
+          "1",
+          "2"
+        ],
+        "Shots off target": [
+          "3",
+          "4"
+        ]
+      }
+    },
+    {
+      "id": "UwNdTnXR",
+      "date": "2026-02-07T18:00:00.000Z",
+      "round": "Round 21",
+      "homeTeam": "Saint Patrick FC Zabbar",
+      "awayTeam": "Marsaxlokk FC",
+      "homeScore": 1,
+      "awayScore": 2,
+      "htHome": 1,
+      "htAway": 2,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "49%",
+          "51%"
+        ],
+        "Total shots": [
+          "6",
+          "8"
+        ],
+        "Shots on target": [
+          "2",
+          "4"
+        ],
+        "Corner kicks": [
+          "1",
+          "9"
+        ],
+        "Yellow cards": [
+          "2",
+          "1"
+        ],
+        "Shots off target": [
+          "4",
+          "4"
+        ]
+      }
+    },
+    {
+      "id": "hUmmRa1s",
+      "date": "2026-02-07T15:30:00.000Z",
+      "round": "Round 21",
+      "homeTeam": "Hibernians",
+      "awayTeam": "Tarxien Rainbows FC",
+      "homeScore": 1,
+      "awayScore": 1,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "48%",
+          "52%"
+        ],
+        "Total shots": [
+          "7",
+          "12"
+        ],
+        "Shots on target": [
+          "2",
+          "6"
+        ],
+        "Corner kicks": [
+          "6",
+          "6"
+        ],
+        "Yellow cards": [
+          "5",
+          "1"
+        ],
+        "Shots off target": [
+          "5",
+          "6"
+        ]
+      }
+    },
+    {
+      "id": "CYCdtieA",
+      "date": "2026-02-04T20:00:00.000Z",
+      "round": "Round 20",
+      "homeTeam": "Hibernians",
+      "awayTeam": "Saint Patrick FC Zabbar",
+      "homeScore": 2,
+      "awayScore": 1,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "41%",
+          "59%"
+        ],
+        "Total shots": [
+          "11",
+          "10"
+        ],
+        "Shots on target": [
+          "5",
+          "4"
+        ],
+        "Corner kicks": [
+          "4",
+          "6"
+        ],
+        "Yellow cards": [
+          "0",
+          "2"
+        ],
+        "Shots off target": [
+          "6",
+          "6"
+        ]
+      }
+    },
+    {
+      "id": "bkB4vVPM",
+      "date": "2026-02-04T18:30:00.000Z",
+      "round": "Round 20",
+      "homeTeam": "Valletta",
+      "awayTeam": "Floriana",
+      "homeScore": 0,
+      "awayScore": 0,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "55%",
+          "45%"
+        ],
+        "Total shots": [
+          "6",
+          "4"
+        ],
+        "Shots on target": [
+          "3",
+          "1"
+        ],
+        "Corner kicks": [
+          "2",
+          "2"
+        ],
+        "Yellow cards": [
+          "2",
+          "2"
+        ],
+        "Shots off target": [
+          "3",
+          "3"
+        ]
+      }
+    },
+    {
+      "id": "IZiyZ8mp",
+      "date": "2026-02-04T17:30:00.000Z",
+      "round": "Round 20",
+      "homeTeam": "Naxxar Lions",
+      "awayTeam": "Mosta FC",
+      "homeScore": 5,
+      "awayScore": 0,
+      "htHome": 3,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "45%",
+          "55%"
+        ],
+        "Total shots": [
+          "20",
+          "12"
+        ],
+        "Shots on target": [
+          "8",
+          "1"
+        ],
+        "Corner kicks": [
+          "5",
+          "8"
+        ],
+        "Yellow cards": [
+          "0",
+          "2"
+        ],
+        "Shots off target": [
+          "12",
+          "11"
+        ]
+      }
+    },
+    {
+      "id": "jmjqXnId",
+      "date": "2026-02-03T20:00:00.000Z",
+      "round": "Round 20",
+      "homeTeam": "Birkirkara",
+      "awayTeam": "Tarxien Rainbows FC",
+      "homeScore": 5,
+      "awayScore": 0,
+      "htHome": 3,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "51%",
+          "49%"
+        ],
+        "Total shots": [
+          "14",
+          "8"
+        ],
+        "Shots on target": [
+          "7",
+          "4"
+        ],
+        "Corner kicks": [
+          "3",
+          "1"
+        ],
+        "Yellow cards": [
+          "0",
+          "1"
+        ],
+        "Shots off target": [
+          "7",
+          "4"
+        ]
+      }
+    },
+    {
+      "id": "8OYmV82F",
+      "date": "2026-02-03T18:00:00.000Z",
+      "round": "Round 20",
+      "homeTeam": "Gzira United",
+      "awayTeam": "Hamrun Spartans",
+      "homeScore": 0,
+      "awayScore": 0,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "34%",
+          "66%"
+        ],
+        "Total shots": [
+          "6",
+          "14"
+        ],
+        "Shots on target": [
+          "1",
+          "6"
+        ],
+        "Corner kicks": [
+          "0",
+          "9"
+        ],
+        "Yellow cards": [
+          "2",
+          "1"
+        ],
+        "Shots off target": [
+          "5",
+          "8"
+        ]
+      }
+    },
+    {
+      "id": "2RVuXUX2",
+      "date": "2026-02-03T17:30:00.000Z",
+      "round": "Round 20",
+      "homeTeam": "Marsaxlokk FC",
+      "awayTeam": "Sliema Wanderers",
+      "homeScore": 1,
+      "awayScore": 1,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "37%",
+          "63%"
+        ],
+        "Total shots": [
+          "7",
+          "6"
+        ],
+        "Shots on target": [
+          "4",
+          "4"
+        ],
+        "Corner kicks": [
+          "3",
+          "8"
+        ],
+        "Yellow cards": [
+          "4",
+          "2"
+        ],
+        "Shots off target": [
+          "3",
+          "2"
+        ]
+      }
+    },
+    {
+      "id": "4SkVPVAT",
+      "date": "2026-02-01T18:00:00.000Z",
+      "round": "Round 19",
+      "homeTeam": "Saint Patrick FC Zabbar",
+      "awayTeam": "Floriana",
+      "homeScore": 0,
+      "awayScore": 3,
+      "htHome": 0,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "48%",
+          "52%"
+        ],
+        "Total shots": [
+          "2",
+          "11"
+        ],
+        "Shots on target": [
+          "1",
+          "6"
+        ],
+        "Corner kicks": [
+          "5",
+          "8"
+        ],
+        "Yellow cards": [
+          "2",
+          "1"
+        ],
+        "Shots off target": [
+          "1",
+          "5"
+        ]
+      }
+    },
+    {
+      "id": "WEiNRitH",
+      "date": "2026-02-01T13:00:00.000Z",
+      "round": "Round 19",
+      "homeTeam": "Valletta",
+      "awayTeam": "Naxxar Lions",
+      "homeScore": 4,
+      "awayScore": 2,
+      "htHome": 1,
+      "htAway": 2,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "58%",
+          "42%"
+        ],
+        "Total shots": [
+          "10",
+          "8"
+        ],
+        "Shots on target": [
+          "9",
+          "2"
+        ],
+        "Corner kicks": [
+          "2",
+          "5"
+        ],
+        "Yellow cards": [
+          "1",
+          "4"
+        ],
+        "Shots off target": [
+          "1",
+          "6"
+        ]
+      }
+    },
+    {
+      "id": "OCW1K9Yj",
+      "date": "2026-01-31T18:00:00.000Z",
+      "round": "Round 19",
+      "homeTeam": "Hibernians",
+      "awayTeam": "Mosta FC",
+      "homeScore": 1,
+      "awayScore": 0,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "43%",
+          "57%"
+        ],
+        "Total shots": [
+          "9",
+          "11"
+        ],
+        "Shots on target": [
+          "3",
+          "4"
+        ],
+        "Corner kicks": [
+          "5",
+          "8"
+        ],
+        "Yellow cards": [
+          "4",
+          "1"
+        ],
+        "Shots off target": [
+          "6",
+          "7"
+        ]
+      }
+    },
+    {
+      "id": "rut7VZth",
+      "date": "2026-01-31T15:30:00.000Z",
+      "round": "Round 19",
+      "homeTeam": "Birkirkara",
+      "awayTeam": "Marsaxlokk FC",
+      "homeScore": 0,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "47%",
+          "53%"
+        ],
+        "Total shots": [
+          "4",
+          "10"
+        ],
+        "Shots on target": [
+          "1",
+          "4"
+        ],
+        "Corner kicks": [
+          "5",
+          "1"
+        ],
+        "Yellow cards": [
+          "4",
+          "3"
+        ],
+        "Shots off target": [
+          "3",
+          "6"
+        ]
+      }
+    },
+    {
+      "id": "j5qFTDB4",
+      "date": "2026-01-31T15:30:00.000Z",
+      "round": "Round 19",
+      "homeTeam": "Hamrun Spartans",
+      "awayTeam": "Sliema Wanderers",
+      "homeScore": 2,
+      "awayScore": 0,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "59%",
+          "41%"
+        ],
+        "Total shots": [
+          "6",
+          "3"
+        ],
+        "Shots on target": [
+          "4",
+          "2"
+        ],
+        "Corner kicks": [
+          "7",
+          "6"
+        ],
+        "Yellow cards": [
+          "2",
+          "0"
+        ],
+        "Shots off target": [
+          "2",
+          "1"
+        ]
+      }
+    },
+    {
+      "id": "jJOmrDQc",
+      "date": "2026-01-31T13:00:00.000Z",
+      "round": "Round 19",
+      "homeTeam": "Tarxien Rainbows FC",
+      "awayTeam": "Gzira United",
+      "homeScore": 1,
+      "awayScore": 2,
+      "htHome": 1,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "43%",
+          "57%"
+        ],
+        "Total shots": [
+          "14",
+          "8"
+        ],
+        "Shots on target": [
+          "6",
+          "2"
+        ],
+        "Corner kicks": [
+          "3",
+          "2"
+        ],
+        "Yellow cards": [
+          "4",
+          "2"
+        ],
+        "Red cards": [
+          "0",
+          "2"
+        ],
+        "Shots off target": [
+          "8",
+          "6"
+        ]
+      }
+    },
+    {
+      "id": "W0ClDhRN",
+      "date": "2026-01-25T18:00:00.000Z",
+      "round": "Round 18",
+      "homeTeam": "Gzira United",
+      "awayTeam": "Birkirkara",
+      "homeScore": 2,
+      "awayScore": 0,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "2q3K7Wlo",
+      "date": "2026-01-25T15:30:00.000Z",
+      "round": "Round 18",
+      "homeTeam": "Floriana",
+      "awayTeam": "Mosta FC",
+      "homeScore": 2,
+      "awayScore": 1,
+      "htHome": 1,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "71%",
+          "29%"
+        ],
+        "Total shots": [
+          "17",
+          "5"
+        ],
+        "Shots on target": [
+          "7",
+          "2"
+        ],
+        "Corner kicks": [
+          "11",
+          "0"
+        ],
+        "Yellow cards": [
+          "0",
+          "2"
+        ],
+        "Shots off target": [
+          "10",
+          "3"
+        ]
+      }
+    },
+    {
+      "id": "vobuHzSb",
+      "date": "2026-01-25T13:00:00.000Z",
+      "round": "Round 18",
+      "homeTeam": "Sliema Wanderers",
+      "awayTeam": "Hibernians",
+      "homeScore": 1,
+      "awayScore": 3,
+      "htHome": 1,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "55%",
+          "45%"
+        ],
+        "Total shots": [
+          "6",
+          "13"
+        ],
+        "Shots on target": [
+          "1",
+          "5"
+        ],
+        "Corner kicks": [
+          "9",
+          "5"
+        ],
+        "Yellow cards": [
+          "3",
+          "1"
+        ],
+        "Red cards": [
+          "1",
+          "0"
+        ],
+        "Shots off target": [
+          "5",
+          "8"
+        ]
+      }
+    },
+    {
+      "id": "IwlLBujJ",
+      "date": "2026-01-25T10:00:00.000Z",
+      "round": "Round 18",
+      "homeTeam": "Marsaxlokk FC",
+      "awayTeam": "Tarxien Rainbows FC",
+      "homeScore": 2,
+      "awayScore": 1,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "45%",
+          "55%"
+        ],
+        "Total shots": [
+          "7",
+          "8"
+        ],
+        "Shots on target": [
+          "4",
+          "4"
+        ],
+        "Corner kicks": [
+          "4",
+          "5"
+        ],
+        "Yellow cards": [
+          "1",
+          "2"
+        ],
+        "Shots off target": [
+          "3",
+          "4"
+        ]
+      }
+    },
+    {
+      "id": "CbdmFEdB",
+      "date": "2026-01-24T15:00:00.000Z",
+      "round": "Round 18",
+      "homeTeam": "Valletta",
+      "awayTeam": "Hamrun Spartans",
+      "homeScore": 0,
+      "awayScore": 0,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "43%",
+          "57%"
+        ],
+        "Total shots": [
+          "2",
+          "4"
+        ],
+        "Shots on target": [
+          "1",
+          "0"
+        ],
+        "Corner kicks": [
+          "1",
+          "0"
+        ],
+        "Yellow cards": [
+          "5",
+          "3"
+        ],
+        "Shots off target": [
+          "1",
+          "4"
+        ]
+      }
+    },
+    {
+      "id": "rJ4WIdcn",
+      "date": "2026-01-23T20:00:00.000Z",
+      "round": "Round 18",
+      "homeTeam": "Naxxar Lions",
+      "awayTeam": "Saint Patrick FC Zabbar",
+      "homeScore": 2,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "48%",
+          "52%"
+        ],
+        "Total shots": [
+          "14",
+          "8"
+        ],
+        "Shots on target": [
+          "5",
+          "3"
+        ],
+        "Corner kicks": [
+          "4",
+          "7"
+        ],
+        "Yellow cards": [
+          "1",
+          "2"
+        ],
+        "Shots off target": [
+          "9",
+          "5"
+        ]
+      }
+    },
+    {
+      "id": "lI8SuTmd",
+      "date": "2026-01-18T16:00:00.000Z",
+      "round": "Round 17",
+      "homeTeam": "Birkirkara",
+      "awayTeam": "Hibernians",
+      "homeScore": 3,
+      "awayScore": 0,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "42%",
+          "58%"
+        ],
+        "Total shots": [
+          "7",
+          "12"
+        ],
+        "Shots on target": [
+          "4",
+          "3"
+        ],
+        "Corner kicks": [
+          "1",
+          "8"
+        ],
+        "Yellow cards": [
+          "5",
+          "2"
+        ],
+        "Shots off target": [
+          "3",
+          "9"
+        ]
+      }
+    },
+    {
+      "id": "th5KskJq",
+      "date": "2026-01-18T10:00:00.000Z",
+      "round": "Round 17",
+      "homeTeam": "Gzira United",
+      "awayTeam": "Marsaxlokk FC",
+      "homeScore": 3,
+      "awayScore": 0,
+      "htHome": 2,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "45%",
+          "55%"
+        ],
+        "Total shots": [
+          "13",
+          "15"
+        ],
+        "Shots on target": [
+          "9",
+          "7"
+        ],
+        "Corner kicks": [
+          "6",
+          "8"
+        ],
+        "Yellow cards": [
+          "0",
+          "3"
+        ],
+        "Shots off target": [
+          "4",
+          "8"
+        ]
+      }
+    },
+    {
+      "id": "M3hn0cZA",
+      "date": "2026-01-17T15:30:00.000Z",
+      "round": "Round 17",
+      "homeTeam": "Hamrun Spartans",
+      "awayTeam": "Tarxien Rainbows FC",
+      "homeScore": 2,
+      "awayScore": 1,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "55%",
+          "45%"
+        ],
+        "Total shots": [
+          "10",
+          "7"
+        ],
+        "Shots on target": [
+          "5",
+          "2"
+        ],
+        "Corner kicks": [
+          "6",
+          "2"
+        ],
+        "Yellow cards": [
+          "0",
+          "1"
+        ],
+        "Shots off target": [
+          "5",
+          "5"
+        ]
+      }
+    },
+    {
+      "id": "Ewkv2J4b",
+      "date": "2026-01-17T13:00:00.000Z",
+      "round": "Round 17",
+      "homeTeam": "Floriana",
+      "awayTeam": "Naxxar Lions",
+      "homeScore": 3,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "54%",
+          "46%"
+        ],
+        "Total shots": [
+          "7",
+          "14"
+        ],
+        "Shots on target": [
+          "3",
+          "9"
+        ],
+        "Corner kicks": [
+          "3",
+          "6"
+        ],
+        "Yellow cards": [
+          "1",
+          "2"
+        ],
+        "Shots off target": [
+          "4",
+          "5"
+        ]
+      }
+    },
+    {
+      "id": "fyZx4uzn",
+      "date": "2026-01-16T20:00:00.000Z",
+      "round": "Round 17",
+      "homeTeam": "Mosta FC",
+      "awayTeam": "Valletta",
+      "homeScore": 0,
+      "awayScore": 5,
+      "htHome": 0,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "47%",
+          "53%"
+        ],
+        "Total shots": [
+          "8",
+          "17"
+        ],
+        "Shots on target": [
+          "2",
+          "6"
+        ],
+        "Corner kicks": [
+          "1",
+          "6"
+        ],
+        "Yellow cards": [
+          "1",
+          "2"
+        ],
+        "Shots off target": [
+          "6",
+          "11"
+        ]
+      }
+    },
+    {
+      "id": "vPbTqxkU",
+      "date": "2026-01-16T17:30:00.000Z",
+      "round": "Round 17",
+      "homeTeam": "Sliema Wanderers",
+      "awayTeam": "Saint Patrick FC Zabbar",
+      "homeScore": 1,
+      "awayScore": 0,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "56%",
+          "44%"
+        ],
+        "Total shots": [
+          "15",
+          "5"
+        ],
+        "Shots on target": [
+          "4",
+          "2"
+        ],
+        "Corner kicks": [
+          "7",
+          "1"
+        ],
+        "Yellow cards": [
+          "1",
+          "2"
+        ],
+        "Shots off target": [
+          "11",
+          "3"
+        ]
+      }
+    },
+    {
+      "id": "2sfIx5K6",
+      "date": "2026-01-11T15:30:00.000Z",
+      "round": "Round 16",
+      "homeTeam": "Marsaxlokk FC",
+      "awayTeam": "Birkirkara",
+      "homeScore": 2,
+      "awayScore": 1,
+      "htHome": 1,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "51%",
+          "49%"
+        ],
+        "Total shots": [
+          "8",
+          "11"
+        ],
+        "Shots on target": [
+          "4",
+          "4"
+        ],
+        "Corner kicks": [
+          "6",
+          "4"
+        ],
+        "Yellow cards": [
+          "2",
+          "2"
+        ],
+        "Shots off target": [
+          "4",
+          "7"
+        ]
+      }
+    },
+    {
+      "id": "KKg5P92t",
+      "date": "2026-01-11T13:00:00.000Z",
+      "round": "Round 16",
+      "homeTeam": "Gzira United",
+      "awayTeam": "Saint Patrick FC Zabbar",
+      "homeScore": 0,
+      "awayScore": 2,
+      "htHome": 0,
+      "htAway": 2,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "64%",
+          "36%"
+        ],
+        "Total shots": [
+          "9",
+          "6"
+        ],
+        "Shots on target": [
+          "4",
+          "3"
+        ],
+        "Corner kicks": [
+          "4",
+          "2"
+        ],
+        "Yellow cards": [
+          "2",
+          "1"
+        ],
+        "Shots off target": [
+          "5",
+          "3"
+        ]
+      }
+    },
+    {
+      "id": "UirfIheD",
+      "date": "2026-01-11T13:00:00.000Z",
+      "round": "Round 16",
+      "homeTeam": "Hibernians",
+      "awayTeam": "Mosta FC",
+      "homeScore": 0,
+      "awayScore": 2,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "59%",
+          "41%"
+        ],
+        "Total shots": [
+          "7",
+          "10"
+        ],
+        "Shots on target": [
+          "3",
+          "7"
+        ],
+        "Corner kicks": [
+          "6",
+          "7"
+        ],
+        "Yellow cards": [
+          "1",
+          "1"
+        ],
+        "Shots off target": [
+          "4",
+          "3"
+        ]
+      }
+    },
+    {
+      "id": "vN96NmXh",
+      "date": "2026-01-11T13:00:00.000Z",
+      "round": "Round 16",
+      "homeTeam": "Naxxar Lions",
+      "awayTeam": "Tarxien Rainbows FC",
+      "homeScore": 1,
+      "awayScore": 0,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "62%",
+          "38%"
+        ],
+        "Total shots": [
+          "8",
+          "6"
+        ],
+        "Shots on target": [
+          "4",
+          "3"
+        ],
+        "Corner kicks": [
+          "5",
+          "3"
+        ],
+        "Yellow cards": [
+          "2",
+          "1"
+        ],
+        "Shots off target": [
+          "4",
+          "3"
+        ]
+      }
+    },
+    {
+      "id": "Y121tmLs",
+      "date": "2026-01-10T15:00:00.000Z",
+      "round": "Round 16",
+      "homeTeam": "Floriana",
+      "awayTeam": "Valletta",
+      "homeScore": 0,
+      "awayScore": 0,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "59%",
+          "41%"
+        ],
+        "Total shots": [
+          "7",
+          "7"
+        ],
+        "Shots on target": [
+          "1",
+          "2"
+        ],
+        "Corner kicks": [
+          "5",
+          "3"
+        ],
+        "Red cards": [
+          "1",
+          "1"
+        ],
+        "Shots off target": [
+          "6",
+          "5"
+        ]
+      }
+    },
+    {
+      "id": "fHjAvRkf",
+      "date": "2026-01-10T15:00:00.000Z",
+      "round": "Round 16",
+      "homeTeam": "Hamrun Spartans",
+      "awayTeam": "Sliema Wanderers",
+      "homeScore": 1,
+      "awayScore": 0,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "51%",
+          "49%"
+        ],
+        "Total shots": [
+          "9",
+          "4"
+        ],
+        "Shots on target": [
+          "4",
+          "3"
+        ],
+        "Corner kicks": [
+          "3",
+          "4"
+        ],
+        "Yellow cards": [
+          "3",
+          "2"
+        ],
+        "Shots off target": [
+          "5",
+          "1"
+        ]
+      }
+    },
+    {
+      "id": "YPloKEQ0",
+      "date": "2026-01-08T20:45:00.000Z",
+      "round": "Round 15",
+      "homeTeam": "Saint Patrick FC Zabbar",
+      "awayTeam": "Naxxar Lions",
+      "homeScore": 1,
+      "awayScore": 2,
+      "htHome": 0,
+      "htAway": 2,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "47%",
+          "53%"
+        ],
+        "Total shots": [
+          "9",
+          "12"
+        ],
+        "Shots on target": [
+          "6",
+          "4"
+        ],
+        "Corner kicks": [
+          "11",
+          "9"
+        ],
+        "Yellow cards": [
+          "3",
+          "1"
+        ],
+        "Shots off target": [
+          "3",
+          "8"
+        ]
+      }
+    },
+    {
+      "id": "QaowMzdl",
+      "date": "2026-01-08T17:30:00.000Z",
+      "round": "Round 15",
+      "homeTeam": "Mosta FC",
+      "awayTeam": "Tarxien Rainbows FC",
+      "homeScore": 2,
+      "awayScore": 2,
+      "htHome": 2,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "9%",
+          "91%"
+        ],
+        "Total shots": [
+          "5",
+          "2"
+        ],
+        "Shots on target": [
+          "2",
+          "1"
+        ],
+        "Corner kicks": [
+          "0",
+          "0"
+        ],
+        "Yellow cards": [
+          "1",
+          "0"
+        ],
+        "Shots off target": [
+          "3",
+          "1"
+        ]
+      }
+    },
+    {
+      "id": "4CgqQRz1",
+      "date": "2026-01-07T19:00:00.000Z",
+      "round": "Round 15",
+      "homeTeam": "Floriana",
+      "awayTeam": "Hamrun Spartans",
+      "homeScore": 0,
+      "awayScore": 2,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "44%",
+          "56%"
+        ],
+        "Total shots": [
+          "8",
+          "9"
+        ],
+        "Shots on target": [
+          "5",
+          "3"
+        ],
+        "Corner kicks": [
+          "7",
+          "7"
+        ],
+        "Yellow cards": [
+          "1",
+          "2"
+        ],
+        "Shots off target": [
+          "3",
+          "6"
+        ]
+      }
+    },
+    {
+      "id": "xQiiO55D",
+      "date": "2026-01-07T19:00:00.000Z",
+      "round": "Round 15",
+      "homeTeam": "Valletta",
+      "awayTeam": "Birkirkara",
+      "homeScore": 2,
+      "awayScore": 0,
+      "htHome": 2,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "61%",
+          "39%"
+        ],
+        "Total shots": [
+          "4",
+          "3"
+        ],
+        "Shots on target": [
+          "3",
+          "1"
+        ],
+        "Corner kicks": [
+          "3",
+          "0"
+        ],
+        "Yellow cards": [
+          "1",
+          "4"
+        ],
+        "Red cards": [
+          "0",
+          "1"
+        ],
+        "Shots off target": [
+          "1",
+          "2"
+        ]
+      }
+    },
+    {
+      "id": "2JBVo9cK",
+      "date": "2026-01-06T20:00:00.000Z",
+      "round": "Round 15",
+      "homeTeam": "Sliema Wanderers",
+      "awayTeam": "Marsaxlokk FC",
+      "homeScore": 0,
+      "awayScore": 0,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "55%",
+          "45%"
+        ],
+        "Total shots": [
+          "2",
+          "6"
+        ],
+        "Shots on target": [
+          "2",
+          "2"
+        ],
+        "Corner kicks": [
+          "2",
+          "1"
+        ],
+        "Yellow cards": [
+          "3",
+          "2"
+        ],
+        "Shots off target": [
+          "0",
+          "4"
+        ]
+      }
+    },
+    {
+      "id": "tS96RdYQ",
+      "date": "2026-01-06T17:30:00.000Z",
+      "round": "Round 15",
+      "homeTeam": "Hibernians",
+      "awayTeam": "Gzira United",
+      "homeScore": 4,
+      "awayScore": 1,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "47%",
+          "53%"
+        ],
+        "Total shots": [
+          "9",
+          "10"
+        ],
+        "Shots on target": [
+          "7",
+          "5"
+        ],
+        "Corner kicks": [
+          "3",
+          "2"
+        ],
+        "Yellow cards": [
+          "5",
+          "3"
+        ],
+        "Shots off target": [
+          "2",
+          "5"
+        ]
+      }
+    },
+    {
+      "id": "8p0zSm6l",
+      "date": "2025-12-21T15:00:00.000Z",
+      "round": "Round 14",
+      "homeTeam": "Hamrun Spartans",
+      "awayTeam": "Birkirkara",
+      "homeScore": 6,
+      "awayScore": 1,
+      "htHome": 1,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "66%",
+          "34%"
+        ],
+        "Total shots": [
+          "16",
+          "3"
+        ],
+        "Shots on target": [
+          "15",
+          "3"
+        ],
+        "Corner kicks": [
+          "7",
+          "2"
+        ],
+        "Yellow cards": [
+          "2",
+          "1"
+        ],
+        "Shots off target": [
+          "1",
+          "0"
+        ]
+      }
+    },
+    {
+      "id": "j9T9BSL7",
+      "date": "2025-12-20T17:15:00.000Z",
+      "round": "Round 14",
+      "homeTeam": "Floriana",
+      "awayTeam": "Sliema Wanderers",
+      "homeScore": 2,
+      "awayScore": 1,
+      "htHome": 2,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "56%",
+          "44%"
+        ],
+        "Total shots": [
+          "6",
+          "11"
+        ],
+        "Shots on target": [
+          "4",
+          "6"
+        ],
+        "Corner kicks": [
+          "1",
+          "2"
+        ],
+        "Yellow cards": [
+          "3",
+          "4"
+        ],
+        "Red cards": [
+          "0",
+          "1"
+        ],
+        "Shots off target": [
+          "2",
+          "5"
+        ]
+      }
+    },
+    {
+      "id": "GnLeZVDE",
+      "date": "2025-12-20T15:00:00.000Z",
+      "round": "Round 14",
+      "homeTeam": "Valletta",
+      "awayTeam": "Marsaxlokk FC",
+      "homeScore": 1,
+      "awayScore": 0,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "45%",
+          "55%"
+        ],
+        "Total shots": [
+          "9",
+          "4"
+        ],
+        "Shots on target": [
+          "3",
+          "2"
+        ],
+        "Corner kicks": [
+          "3",
+          "5"
+        ],
+        "Yellow cards": [
+          "2",
+          "2"
+        ],
+        "Red cards": [
+          "1",
+          "1"
+        ],
+        "Shots off target": [
+          "6",
+          "2"
+        ]
+      }
+    },
+    {
+      "id": "2sxJ7PJt",
+      "date": "2025-12-19T20:00:00.000Z",
+      "round": "Round 14",
+      "homeTeam": "Mosta FC",
+      "awayTeam": "Naxxar Lions",
+      "homeScore": 2,
+      "awayScore": 3,
+      "htHome": 1,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "49%",
+          "51%"
+        ],
+        "Total shots": [
+          "10",
+          "10"
+        ],
+        "Shots on target": [
+          "7",
+          "5"
+        ],
+        "Corner kicks": [
+          "2",
+          "5"
+        ],
+        "Yellow cards": [
+          "1",
+          "2"
+        ],
+        "Shots off target": [
+          "3",
+          "5"
+        ]
+      }
+    },
+    {
+      "id": "OG68mMYO",
+      "date": "2025-12-19T17:30:00.000Z",
+      "round": "Round 14",
+      "homeTeam": "Gzira United",
+      "awayTeam": "Tarxien Rainbows FC",
+      "homeScore": 2,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "56%",
+          "44%"
+        ],
+        "Total shots": [
+          "13",
+          "7"
+        ],
+        "Shots on target": [
+          "7",
+          "2"
+        ],
+        "Corner kicks": [
+          "6",
+          "5"
+        ],
+        "Yellow cards": [
+          "5",
+          "2"
+        ],
+        "Shots off target": [
+          "6",
+          "5"
+        ]
+      }
+    },
+    {
+      "id": "x080kr4C",
+      "date": "2025-12-18T19:30:00.000Z",
+      "round": "Round 14",
+      "homeTeam": "Hibernians",
+      "awayTeam": "Saint Patrick FC Zabbar",
+      "homeScore": 3,
+      "awayScore": 3,
+      "htHome": 1,
+      "htAway": 3,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "49%",
+          "51%"
+        ],
+        "Total shots": [
+          "8",
+          "3"
+        ],
+        "Shots on target": [
+          "4",
+          "3"
+        ],
+        "Corner kicks": [
+          "5",
+          "7"
+        ],
+        "Yellow cards": [
+          "4",
+          "2"
+        ],
+        "Red cards": [
+          "0",
+          "1"
+        ],
+        "Shots off target": [
+          "4",
+          "0"
+        ]
+      }
+    },
+    {
+      "id": "fsz1Dlie",
+      "date": "2025-12-14T17:15:00.000Z",
+      "round": "Round 13",
+      "homeTeam": "Valletta",
+      "awayTeam": "Sliema Wanderers",
+      "homeScore": 1,
+      "awayScore": 2,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "36%",
+          "64%"
+        ],
+        "Total shots": [
+          "7",
+          "6"
+        ],
+        "Shots on target": [
+          "4",
+          "3"
+        ],
+        "Corner kicks": [
+          "0",
+          "3"
+        ],
+        "Yellow cards": [
+          "1",
+          "6"
+        ],
+        "Red cards": [
+          "1",
+          "1"
+        ],
+        "Shots off target": [
+          "3",
+          "3"
+        ]
+      }
+    },
+    {
+      "id": "x294X9rR",
+      "date": "2025-12-14T15:00:00.000Z",
+      "round": "Round 13",
+      "homeTeam": "Hamrun Spartans",
+      "awayTeam": "Marsaxlokk FC",
+      "homeScore": 1,
+      "awayScore": 3,
+      "htHome": 1,
+      "htAway": 2,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "61%",
+          "39%"
+        ],
+        "Total shots": [
+          "8",
+          "14"
+        ],
+        "Shots on target": [
+          "2",
+          "7"
+        ],
+        "Corner kicks": [
+          "5",
+          "4"
+        ],
+        "Yellow cards": [
+          "2",
+          "1"
+        ],
+        "Shots off target": [
+          "6",
+          "7"
+        ]
+      }
+    },
+    {
+      "id": "MTygFAMr",
+      "date": "2025-12-13T15:00:00.000Z",
+      "round": "Round 13",
+      "homeTeam": "Floriana",
+      "awayTeam": "Birkirkara",
+      "homeScore": 2,
+      "awayScore": 0,
+      "htHome": 2,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "lzzDbnsQ",
+      "date": "2025-12-12T20:00:00.000Z",
+      "round": "Round 13",
+      "homeTeam": "Hibernians",
+      "awayTeam": "Tarxien Rainbows FC",
+      "homeScore": 1,
+      "awayScore": 0,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "49%",
+          "51%"
+        ],
+        "Total shots": [
+          "9",
+          "10"
+        ],
+        "Shots on target": [
+          "5",
+          "5"
+        ],
+        "Corner kicks": [
+          "7",
+          "1"
+        ],
+        "Yellow cards": [
+          "3",
+          "1"
+        ],
+        "Shots off target": [
+          "4",
+          "5"
+        ]
+      }
+    },
+    {
+      "id": "GpKii4Za",
+      "date": "2025-12-12T17:30:00.000Z",
+      "round": "Round 13",
+      "homeTeam": "Mosta FC",
+      "awayTeam": "Saint Patrick FC Zabbar",
+      "homeScore": 1,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "46%",
+          "54%"
+        ],
+        "Total shots": [
+          "7",
+          "7"
+        ],
+        "Shots on target": [
+          "5",
+          "2"
+        ],
+        "Corner kicks": [
+          "4",
+          "8"
+        ],
+        "Yellow cards": [
+          "2",
+          "3"
+        ],
+        "Shots off target": [
+          "2",
+          "5"
+        ]
+      }
+    },
+    {
+      "id": "8KGqgQ4m",
+      "date": "2025-12-11T19:30:00.000Z",
+      "round": "Round 13",
+      "homeTeam": "Gzira United",
+      "awayTeam": "Naxxar Lions",
+      "homeScore": 3,
+      "awayScore": 1,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "37%",
+          "63%"
+        ],
+        "Total shots": [
+          "11",
+          "13"
+        ],
+        "Shots on target": [
+          "3",
+          "5"
+        ],
+        "Corner kicks": [
+          "1",
+          "9"
+        ],
+        "Yellow cards": [
+          "3",
+          "4"
+        ],
+        "Shots off target": [
+          "8",
+          "8"
+        ]
+      }
+    },
+    {
+      "id": "0GrQByGj",
+      "date": "2025-11-25T19:30:00.000Z",
+      "round": "Round 12",
+      "homeTeam": "Hibernians",
+      "awayTeam": "Naxxar Lions",
+      "homeScore": 1,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "45%",
+          "55%"
+        ],
+        "Total shots": [
+          "8",
+          "10"
+        ],
+        "Shots on target": [
+          "2",
+          "5"
+        ],
+        "Corner kicks": [
+          "2",
+          "5"
+        ],
+        "Yellow cards": [
+          "3",
+          "3"
+        ],
+        "Shots off target": [
+          "6",
+          "5"
+        ]
+      }
+    },
+    {
+      "id": "SSJKXIxA",
+      "date": "2025-11-24T20:00:00.000Z",
+      "round": "Round 12",
+      "homeTeam": "Saint Patrick FC Zabbar",
+      "awayTeam": "Tarxien Rainbows FC",
+      "homeScore": 2,
+      "awayScore": 2,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "52%",
+          "48%"
+        ],
+        "Total shots": [
+          "6",
+          "3"
+        ],
+        "Shots on target": [
+          "4",
+          "2"
+        ],
+        "Corner kicks": [
+          "5",
+          "6"
+        ],
+        "Yellow cards": [
+          "3",
+          "3"
+        ],
+        "Red cards": [
+          "1",
+          "0"
+        ],
+        "Shots off target": [
+          "2",
+          "1"
+        ]
+      }
+    },
+    {
+      "id": "tCLCZv8c",
+      "date": "2025-11-24T17:30:00.000Z",
+      "round": "Round 12",
+      "homeTeam": "Gzira United",
+      "awayTeam": "Mosta FC",
+      "homeScore": 1,
+      "awayScore": 0,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "51%",
+          "49%"
+        ],
+        "Total shots": [
+          "12",
+          "10"
+        ],
+        "Shots on target": [
+          "7",
+          "4"
+        ],
+        "Corner kicks": [
+          "6",
+          "2"
+        ],
+        "Yellow cards": [
+          "2",
+          "0"
+        ],
+        "Shots off target": [
+          "5",
+          "6"
+        ]
+      }
+    },
+    {
+      "id": "UXifHchT",
+      "date": "2025-11-23T17:15:00.000Z",
+      "round": "Round 12",
+      "homeTeam": "Sliema Wanderers",
+      "awayTeam": "Birkirkara",
+      "homeScore": 2,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "62%",
+          "38%"
+        ],
+        "Total shots": [
+          "13",
+          "3"
+        ],
+        "Shots on target": [
+          "9",
+          "3"
+        ],
+        "Corner kicks": [
+          "8",
+          "5"
+        ],
+        "Yellow cards": [
+          "1",
+          "4"
+        ],
+        "Red cards": [
+          "0",
+          "1"
+        ],
+        "Shots off target": [
+          "4",
+          "0"
+        ]
+      }
+    },
+    {
+      "id": "0h0wLug4",
+      "date": "2025-11-23T15:00:00.000Z",
+      "round": "Round 12",
+      "homeTeam": "Floriana",
+      "awayTeam": "Marsaxlokk FC",
+      "homeScore": 2,
+      "awayScore": 1,
+      "htHome": 2,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "44%",
+          "56%"
+        ],
+        "Total shots": [
+          "7",
+          "6"
+        ],
+        "Shots on target": [
+          "5",
+          "2"
+        ],
+        "Corner kicks": [
+          "3",
+          "8"
+        ],
+        "Yellow cards": [
+          "2",
+          "1"
+        ],
+        "Shots off target": [
+          "2",
+          "4"
+        ]
+      }
+    },
+    {
+      "id": "Y5boJJNG",
+      "date": "2025-11-22T15:00:00.000Z",
+      "round": "Round 12",
+      "homeTeam": "Hamrun Spartans",
+      "awayTeam": "Valletta",
+      "homeScore": 1,
+      "awayScore": 0,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "54%",
+          "46%"
+        ],
+        "Total shots": [
+          "8",
+          "6"
+        ],
+        "Shots on target": [
+          "4",
+          "2"
+        ],
+        "Corner kicks": [
+          "6",
+          "5"
+        ],
+        "Yellow cards": [
+          "1",
+          "2"
+        ],
+        "Shots off target": [
+          "4",
+          "4"
+        ]
+      }
+    },
+    {
+      "id": "IoMxuFqQ",
+      "date": "2025-11-03T17:00:00.000Z",
+      "round": "Round 11",
+      "homeTeam": "Gzira United",
+      "awayTeam": "Naxxar Lions",
+      "homeScore": 2,
+      "awayScore": 1,
+      "htHome": 2,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "37%",
+          "63%"
+        ],
+        "Total shots": [
+          "7",
+          "12"
+        ],
+        "Shots on target": [
+          "4",
+          "4"
+        ],
+        "Corner kicks": [
+          "0",
+          "7"
+        ],
+        "Yellow cards": [
+          "2",
+          "2"
+        ],
+        "Red cards": [
+          "2",
+          "0"
+        ],
+        "Shots off target": [
+          "3",
+          "8"
+        ]
+      }
+    },
+    {
+      "id": "prRrJXM6",
+      "date": "2025-11-02T17:15:00.000Z",
+      "round": "Round 11",
+      "homeTeam": "Tarxien Rainbows FC",
+      "awayTeam": "Mosta FC",
+      "homeScore": 0,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "46%",
+          "54%"
+        ],
+        "Total shots": [
+          "4",
+          "9"
+        ],
+        "Shots on target": [
+          "1",
+          "2"
+        ],
+        "Corner kicks": [
+          "8",
+          "6"
+        ],
+        "Yellow cards": [
+          "2",
+          "2"
+        ],
+        "Shots off target": [
+          "3",
+          "7"
+        ]
+      }
+    },
+    {
+      "id": "lUC8Zh7m",
+      "date": "2025-11-02T15:00:00.000Z",
+      "round": "Round 11",
+      "homeTeam": "Valletta",
+      "awayTeam": "Saint Patrick FC Zabbar",
+      "homeScore": 0,
+      "awayScore": 2,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "53%",
+          "47%"
+        ],
+        "Total shots": [
+          "0",
+          "2"
+        ],
+        "Shots on target": [
+          "0",
+          "2"
+        ],
+        "Corner kicks": [
+          "2",
+          "4"
+        ],
+        "Yellow cards": [
+          "2",
+          "3"
+        ],
+        "Shots off target": [
+          "0",
+          "0"
+        ]
+      }
+    },
+    {
+      "id": "lGXZKghf",
+      "date": "2025-11-01T18:00:00.000Z",
+      "round": "Round 11",
+      "homeTeam": "Birkirkara",
+      "awayTeam": "Hamrun Spartans",
+      "homeScore": 0,
+      "awayScore": 2,
+      "htHome": 0,
+      "htAway": 2,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "55%",
+          "45%"
+        ],
+        "Total shots": [
+          "5",
+          "7"
+        ],
+        "Shots on target": [
+          "2",
+          "5"
+        ],
+        "Corner kicks": [
+          "7",
+          "4"
+        ],
+        "Yellow cards": [
+          "5",
+          "2"
+        ],
+        "Red cards": [
+          "1",
+          "0"
+        ],
+        "Shots off target": [
+          "3",
+          "2"
+        ]
+      }
+    },
+    {
+      "id": "G2ZRMFNs",
+      "date": "2025-11-01T18:00:00.000Z",
+      "round": "Round 11",
+      "homeTeam": "Floriana",
+      "awayTeam": "Sliema Wanderers",
+      "homeScore": 2,
+      "awayScore": 2,
+      "htHome": 1,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "50%",
+          "50%"
+        ],
+        "Total shots": [
+          "4",
+          "10"
+        ],
+        "Shots on target": [
+          "3",
+          "4"
+        ],
+        "Corner kicks": [
+          "2",
+          "6"
+        ],
+        "Yellow cards": [
+          "0",
+          "2"
+        ],
+        "Shots off target": [
+          "1",
+          "6"
+        ]
+      }
+    },
+    {
+      "id": "xjqjHBiJ",
+      "date": "2025-11-01T18:00:00.000Z",
+      "round": "Round 11",
+      "homeTeam": "Hibernians",
+      "awayTeam": "Marsaxlokk FC",
+      "homeScore": 2,
+      "awayScore": 2,
+      "htHome": 2,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "45%",
+          "55%"
+        ],
+        "Total shots": [
+          "2",
+          "2"
+        ],
+        "Shots on target": [
+          "2",
+          "2"
+        ],
+        "Corner kicks": [
+          "1",
+          "7"
+        ],
+        "Yellow cards": [
+          "4",
+          "4"
+        ],
+        "Red cards": [
+          "1",
+          "1"
+        ],
+        "Shots off target": [
+          "0",
+          "0"
+        ]
+      }
+    },
+    {
+      "id": "dIheSy0K",
+      "date": "2025-10-29T20:00:00.000Z",
+      "round": "Round 10",
+      "homeTeam": "Marsaxlokk FC",
+      "awayTeam": "Saint Patrick FC Zabbar",
+      "homeScore": 1,
+      "awayScore": 0,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "52%",
+          "48%"
+        ],
+        "Total shots": [
+          "6",
+          "5"
+        ],
+        "Shots on target": [
+          "2",
+          "1"
+        ],
+        "Corner kicks": [
+          "8",
+          "1"
+        ],
+        "Yellow cards": [
+          "0",
+          "5"
+        ],
+        "Shots off target": [
+          "4",
+          "4"
+        ]
+      }
+    },
+    {
+      "id": "MuEh8G8l",
+      "date": "2025-10-29T20:00:00.000Z",
+      "round": "Round 10",
+      "homeTeam": "Mosta FC",
+      "awayTeam": "Naxxar Lions",
+      "homeScore": 3,
+      "awayScore": 0,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "49%",
+          "51%"
+        ],
+        "Total shots": [
+          "11",
+          "10"
+        ],
+        "Shots on target": [
+          "6",
+          "6"
+        ],
+        "Corner kicks": [
+          "4",
+          "7"
+        ],
+        "Yellow cards": [
+          "1",
+          "1"
+        ],
+        "Shots off target": [
+          "5",
+          "4"
+        ]
+      }
+    },
+    {
+      "id": "2eXLDxoR",
+      "date": "2025-10-29T17:45:00.000Z",
+      "round": "Round 10",
+      "homeTeam": "Floriana",
+      "awayTeam": "Hamrun Spartans",
+      "homeScore": 1,
+      "awayScore": 3,
+      "htHome": 0,
+      "htAway": 2,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "58%",
+          "42%"
+        ],
+        "Total shots": [
+          "4",
+          "4"
+        ],
+        "Shots on target": [
+          "3",
+          "4"
+        ],
+        "Corner kicks": [
+          "1",
+          "7"
+        ],
+        "Yellow cards": [
+          "3",
+          "3"
+        ],
+        "Red cards": [
+          "0",
+          "1"
+        ],
+        "Shots off target": [
+          "1",
+          "0"
+        ]
+      }
+    },
+    {
+      "id": "UsZDFbGE",
+      "date": "2025-10-29T17:15:00.000Z",
+      "round": "Round 10",
+      "homeTeam": "Hibernians",
+      "awayTeam": "Sliema Wanderers",
+      "homeScore": 2,
+      "awayScore": 3,
+      "htHome": 1,
+      "htAway": 2,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "45%",
+          "55%"
+        ],
+        "Total shots": [
+          "2",
+          "8"
+        ],
+        "Shots on target": [
+          "2",
+          "4"
+        ],
+        "Corner kicks": [
+          "8",
+          "5"
+        ],
+        "Yellow cards": [
+          "4",
+          "2"
+        ],
+        "Shots off target": [
+          "0",
+          "4"
+        ]
+      }
+    },
+    {
+      "id": "U5H06fw1",
+      "date": "2025-10-28T20:00:00.000Z",
+      "round": "Round 10",
+      "homeTeam": "Tarxien Rainbows FC",
+      "awayTeam": "Birkirkara",
+      "homeScore": 0,
+      "awayScore": 4,
+      "htHome": 0,
+      "htAway": 2,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "38%",
+          "62%"
+        ],
+        "Total shots": [
+          "4",
+          "13"
+        ],
+        "Shots on target": [
+          "0",
+          "6"
+        ],
+        "Corner kicks": [
+          "4",
+          "2"
+        ],
+        "Yellow cards": [
+          "1",
+          "0"
+        ],
+        "Shots off target": [
+          "4",
+          "7"
+        ]
+      }
+    },
+    {
+      "id": "jL594Y7D",
+      "date": "2025-10-28T17:45:00.000Z",
+      "round": "Round 10",
+      "homeTeam": "Valletta",
+      "awayTeam": "Gzira United",
+      "homeScore": 1,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "63%",
+          "37%"
+        ],
+        "Total shots": [
+          "17",
+          "4"
+        ],
+        "Shots on target": [
+          "5",
+          "2"
+        ],
+        "Corner kicks": [
+          "10",
+          "1"
+        ],
+        "Yellow cards": [
+          "4",
+          "1"
+        ],
+        "Shots off target": [
+          "12",
+          "2"
+        ]
+      }
+    },
+    {
+      "id": "nNaAewPr",
+      "date": "2025-10-26T18:00:00.000Z",
+      "round": "Round 9",
+      "homeTeam": "Naxxar Lions",
+      "awayTeam": "Hamrun Spartans",
+      "homeScore": 1,
+      "awayScore": 1,
+      "htHome": 1,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "32%",
+          "68%"
+        ],
+        "Total shots": [
+          "3",
+          "9"
+        ],
+        "Shots on target": [
+          "2",
+          "5"
+        ],
+        "Corner kicks": [
+          "3",
+          "7"
+        ],
+        "Yellow cards": [
+          "2",
+          "1"
+        ],
+        "Shots off target": [
+          "1",
+          "4"
+        ]
+      }
+    },
+    {
+      "id": "Gv9v1a1L",
+      "date": "2025-10-26T15:00:00.000Z",
+      "round": "Round 9",
+      "homeTeam": "Sliema Wanderers",
+      "awayTeam": "Marsaxlokk FC",
+      "homeScore": 1,
+      "awayScore": 1,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "51%",
+          "49%"
+        ],
+        "Total shots": [
+          "6",
+          "5"
+        ],
+        "Shots on target": [
+          "3",
+          "5"
+        ],
+        "Corner kicks": [
+          "3",
+          "5"
+        ],
+        "Yellow cards": [
+          "1",
+          "2"
+        ],
+        "Shots off target": [
+          "3",
+          "0"
+        ]
+      }
+    },
+    {
+      "id": "IXjhuIv2",
+      "date": "2025-10-25T17:00:00.000Z",
+      "round": "Round 9",
+      "homeTeam": "Floriana",
+      "awayTeam": "Birkirkara",
+      "homeScore": 2,
+      "awayScore": 0,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "47%",
+          "53%"
+        ],
+        "Total shots": [
+          "6",
+          "8"
+        ],
+        "Shots on target": [
+          "2",
+          "5"
+        ],
+        "Corner kicks": [
+          "4",
+          "5"
+        ],
+        "Yellow cards": [
+          "3",
+          "3"
+        ],
+        "Shots off target": [
+          "4",
+          "3"
+        ]
+      }
+    },
+    {
+      "id": "8xlJgHge",
+      "date": "2025-10-25T13:45:00.000Z",
+      "round": "Round 9",
+      "homeTeam": "Valletta",
+      "awayTeam": "Hibernians",
+      "homeScore": 1,
+      "awayScore": 0,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "48%",
+          "52%"
+        ],
+        "Total shots": [
+          "7",
+          "14"
+        ],
+        "Shots on target": [
+          "1",
+          "3"
+        ],
+        "Corner kicks": [
+          "4",
+          "4"
+        ],
+        "Yellow cards": [
+          "5",
+          "6"
+        ],
+        "Shots off target": [
+          "6",
+          "11"
+        ]
+      }
+    },
+    {
+      "id": "G2iRieO7",
+      "date": "2025-10-24T19:00:00.000Z",
+      "round": "Round 9",
+      "homeTeam": "Gzira United",
+      "awayTeam": "Tarxien Rainbows FC",
+      "homeScore": 3,
+      "awayScore": 1,
+      "htHome": 2,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "56%",
+          "44%"
+        ],
+        "Total shots": [
+          "6",
+          "8"
+        ],
+        "Shots on target": [
+          "5",
+          "2"
+        ],
+        "Corner kicks": [
+          "3",
+          "3"
+        ],
+        "Yellow cards": [
+          "3",
+          "3"
+        ],
+        "Red cards": [
+          "0",
+          "1"
+        ],
+        "Shots off target": [
+          "1",
+          "6"
+        ]
+      }
+    },
+    {
+      "id": "ARwv3LW8",
+      "date": "2025-10-24T16:15:00.000Z",
+      "round": "Round 9",
+      "homeTeam": "Mosta FC",
+      "awayTeam": "Saint Patrick FC Zabbar",
+      "homeScore": 1,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "49%",
+          "51%"
+        ],
+        "Total shots": [
+          "10",
+          "11"
+        ],
+        "Shots on target": [
+          "3",
+          "4"
+        ],
+        "Corner kicks": [
+          "2",
+          "3"
+        ],
+        "Yellow cards": [
+          "4",
+          "3"
+        ],
+        "Shots off target": [
+          "7",
+          "7"
+        ]
+      }
+    },
+    {
+      "id": "M5cqsvAk",
+      "date": "2025-10-05T16:45:00.000Z",
+      "round": "Round 8",
+      "homeTeam": "Naxxar Lions",
+      "awayTeam": "Valletta",
+      "homeScore": 0,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "50%",
+          "50%"
+        ],
+        "Total shots": [
+          "11",
+          "10"
+        ],
+        "Shots on target": [
+          "4",
+          "4"
+        ],
+        "Corner kicks": [
+          "1",
+          "3"
+        ],
+        "Yellow cards": [
+          "2",
+          "1"
+        ],
+        "Shots off target": [
+          "7",
+          "6"
+        ]
+      }
+    },
+    {
+      "id": "Yod8uRYp",
+      "date": "2025-10-05T14:30:00.000Z",
+      "round": "Round 8",
+      "homeTeam": "Sliema Wanderers",
+      "awayTeam": "Hamrun Spartans",
+      "homeScore": 2,
+      "awayScore": 0,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "49%",
+          "51%"
+        ],
+        "Total shots": [
+          "7",
+          "4"
+        ],
+        "Shots on target": [
+          "3",
+          "0"
+        ],
+        "Corner kicks": [
+          "1",
+          "1"
+        ],
+        "Yellow cards": [
+          "3",
+          "2"
+        ],
+        "Red cards": [
+          "0",
+          "1"
+        ],
+        "Shots off target": [
+          "4",
+          "4"
+        ]
+      }
+    },
+    {
+      "id": "fis318e4",
+      "date": "2025-10-03T19:00:00.000Z",
+      "round": "Round 8",
+      "homeTeam": "Saint Patrick FC Zabbar",
+      "awayTeam": "Birkirkara",
+      "homeScore": 0,
+      "awayScore": 2,
+      "htHome": 0,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "48%",
+          "52%"
+        ],
+        "Total shots": [
+          "5",
+          "6"
+        ],
+        "Shots on target": [
+          "0",
+          "5"
+        ],
+        "Corner kicks": [
+          "1",
+          "5"
+        ],
+        "Yellow cards": [
+          "7",
+          "3"
+        ],
+        "Shots off target": [
+          "5",
+          "1"
+        ]
+      }
+    },
+    {
+      "id": "xGAxomBN",
+      "date": "2025-10-03T16:45:00.000Z",
+      "round": "Round 8",
+      "homeTeam": "Hibernians",
+      "awayTeam": "Floriana",
+      "homeScore": 0,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "46%",
+          "54%"
+        ],
+        "Total shots": [
+          "5",
+          "12"
+        ],
+        "Shots on target": [
+          "2",
+          "2"
+        ],
+        "Corner kicks": [
+          "3",
+          "5"
+        ],
+        "Yellow cards": [
+          "2",
+          "3"
+        ],
+        "Shots off target": [
+          "3",
+          "10"
+        ]
+      }
+    },
+    {
+      "id": "G6VBanQG",
+      "date": "2025-10-02T19:00:00.000Z",
+      "round": "Round 8",
+      "homeTeam": "Tarxien Rainbows FC",
+      "awayTeam": "Marsaxlokk FC",
+      "homeScore": 0,
+      "awayScore": 2,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "44%",
+          "56%"
+        ],
+        "Total shots": [
+          "2",
+          "5"
+        ],
+        "Shots on target": [
+          "1",
+          "3"
+        ],
+        "Corner kicks": [
+          "1",
+          "2"
+        ],
+        "Yellow cards": [
+          "0",
+          "3"
+        ],
+        "Red cards": [
+          "1",
+          "0"
+        ],
+        "Shots off target": [
+          "1",
+          "2"
+        ]
+      }
+    },
+    {
+      "id": "lfve3UQi",
+      "date": "2025-10-02T16:45:00.000Z",
+      "round": "Round 8",
+      "homeTeam": "Mosta FC",
+      "awayTeam": "Gzira United",
+      "homeScore": 3,
+      "awayScore": 4,
+      "htHome": 1,
+      "htAway": 2,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "52%",
+          "48%"
+        ],
+        "Total shots": [
+          "9",
+          "7"
+        ],
+        "Shots on target": [
+          "8",
+          "5"
+        ],
+        "Corner kicks": [
+          "9",
+          "2"
+        ],
+        "Yellow cards": [
+          "3",
+          "1"
+        ],
+        "Shots off target": [
+          "1",
+          "2"
+        ]
+      }
+    },
+    {
+      "id": "YHUCjisn",
+      "date": "2025-09-28T19:00:00.000Z",
+      "round": "Round 7",
+      "homeTeam": "Sliema Wanderers",
+      "awayTeam": "Naxxar Lions",
+      "homeScore": 0,
+      "awayScore": 4,
+      "htHome": 0,
+      "htAway": 3,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "62%",
+          "38%"
+        ],
+        "Total shots": [
+          "0",
+          "6"
+        ],
+        "Shots on target": [
+          "0",
+          "5"
+        ],
+        "Corner kicks": [
+          "6",
+          "2"
+        ],
+        "Yellow cards": [
+          "3",
+          "4"
+        ],
+        "Red cards": [
+          "1",
+          "0"
+        ],
+        "Shots off target": [
+          "0",
+          "1"
+        ]
+      }
+    },
+    {
+      "id": "fXILlVBb",
+      "date": "2025-09-28T16:30:00.000Z",
+      "round": "Round 7",
+      "homeTeam": "Tarxien Rainbows FC",
+      "awayTeam": "Valletta",
+      "homeScore": 1,
+      "awayScore": 2,
+      "htHome": 1,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "42%",
+          "58%"
+        ],
+        "Total shots": [
+          "1",
+          "2"
+        ],
+        "Shots on target": [
+          "1",
+          "2"
+        ],
+        "Corner kicks": [
+          "3",
+          "9"
+        ],
+        "Yellow cards": [
+          "4",
+          "2"
+        ],
+        "Shots off target": [
+          "0",
+          "0"
+        ]
+      }
+    },
+    {
+      "id": "rgk3WmdU",
+      "date": "2025-09-28T15:00:00.000Z",
+      "round": "Round 7",
+      "homeTeam": "Marsaxlokk FC",
+      "awayTeam": "Birkirkara",
+      "homeScore": 0,
+      "awayScore": 0,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "56%",
+          "44%"
+        ],
+        "Total shots": [
+          "3",
+          "5"
+        ],
+        "Shots on target": [
+          "0",
+          "2"
+        ],
+        "Corner kicks": [
+          "3",
+          "6"
+        ],
+        "Yellow cards": [
+          "2",
+          "4"
+        ],
+        "Shots off target": [
+          "3",
+          "3"
+        ]
+      }
+    },
+    {
+      "id": "tlHTn9tB",
+      "date": "2025-09-28T09:00:00.000Z",
+      "round": "Round 7",
+      "homeTeam": "Saint Patrick FC Zabbar",
+      "awayTeam": "Gzira United",
+      "homeScore": 2,
+      "awayScore": 0,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "32%",
+          "68%"
+        ],
+        "Total shots": [
+          "3",
+          "4"
+        ],
+        "Shots on target": [
+          "2",
+          "0"
+        ],
+        "Corner kicks": [
+          "1",
+          "7"
+        ],
+        "Yellow cards": [
+          "2",
+          "5"
+        ],
+        "Shots off target": [
+          "1",
+          "4"
+        ]
+      }
+    },
+    {
+      "id": "nRefY9RH",
+      "date": "2025-09-27T19:00:00.000Z",
+      "round": "Round 7",
+      "homeTeam": "Mosta FC",
+      "awayTeam": "Floriana",
+      "homeScore": 0,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "47%",
+          "53%"
+        ],
+        "Total shots": [
+          "0",
+          "1"
+        ],
+        "Shots on target": [
+          "0",
+          "1"
+        ],
+        "Corner kicks": [
+          "4",
+          "6"
+        ],
+        "Yellow cards": [
+          "4",
+          "1"
+        ],
+        "Shots off target": [
+          "0",
+          "0"
+        ]
+      }
+    },
+    {
+      "id": "EDcnzWd5",
+      "date": "2025-09-27T16:30:00.000Z",
+      "round": "Round 7",
+      "homeTeam": "Hamrun Spartans",
+      "awayTeam": "Hibernians",
+      "homeScore": 2,
+      "awayScore": 0,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "48%",
+          "52%"
+        ],
+        "Total shots": [
+          "11",
+          "1"
+        ],
+        "Shots on target": [
+          "8",
+          "0"
+        ],
+        "Corner kicks": [
+          "7",
+          "2"
+        ],
+        "Yellow cards": [
+          "2",
+          "1"
+        ],
+        "Shots off target": [
+          "3",
+          "1"
+        ]
+      }
+    },
+    {
+      "id": "EaIDLWsC",
+      "date": "2025-09-24T19:00:00.000Z",
+      "round": "Round 6",
+      "homeTeam": "Floriana",
+      "awayTeam": "Saint Patrick FC Zabbar",
+      "homeScore": 3,
+      "awayScore": 1,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "41%",
+          "59%"
+        ],
+        "Total shots": [
+          "4",
+          "14"
+        ],
+        "Shots on target": [
+          "4",
+          "3"
+        ],
+        "Corner kicks": [
+          "0",
+          "6"
+        ],
+        "Yellow cards": [
+          "0",
+          "5"
+        ],
+        "Shots off target": [
+          "0",
+          "11"
+        ]
+      }
+    },
+    {
+      "id": "Mq44PErm",
+      "date": "2025-09-24T19:00:00.000Z",
+      "round": "Round 6",
+      "homeTeam": "Valletta",
+      "awayTeam": "Mosta FC",
+      "homeScore": 4,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "63%",
+          "37%"
+        ],
+        "Total shots": [
+          "25",
+          "4"
+        ],
+        "Shots on target": [
+          "8",
+          "1"
+        ],
+        "Corner kicks": [
+          "13",
+          "0"
+        ],
+        "Yellow cards": [
+          "1",
+          "3"
+        ],
+        "Shots off target": [
+          "17",
+          "3"
+        ]
+      }
+    },
+    {
+      "id": "MPLLJACO",
+      "date": "2025-09-24T16:45:00.000Z",
+      "round": "Round 6",
+      "homeTeam": "Birkirkara",
+      "awayTeam": "Naxxar Lions",
+      "homeScore": 1,
+      "awayScore": 0,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "50%",
+          "50%"
+        ],
+        "Total shots": [
+          "5",
+          "18"
+        ],
+        "Shots on target": [
+          "3",
+          "7"
+        ],
+        "Corner kicks": [
+          "5",
+          "3"
+        ],
+        "Yellow cards": [
+          "7",
+          "1"
+        ],
+        "Shots off target": [
+          "2",
+          "11"
+        ]
+      }
+    },
+    {
+      "id": "QwnWwEct",
+      "date": "2025-09-24T16:45:00.000Z",
+      "round": "Round 6",
+      "homeTeam": "Sliema Wanderers",
+      "awayTeam": "Gzira United",
+      "homeScore": 2,
+      "awayScore": 0,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "53%",
+          "47%"
+        ],
+        "Total shots": [
+          "11",
+          "8"
+        ],
+        "Shots on target": [
+          "4",
+          "4"
+        ],
+        "Corner kicks": [
+          "3",
+          "2"
+        ],
+        "Yellow cards": [
+          "2",
+          "2"
+        ],
+        "Shots off target": [
+          "7",
+          "4"
+        ]
+      }
+    },
+    {
+      "id": "Y3kvxhSh",
+      "date": "2025-09-23T19:00:00.000Z",
+      "round": "Round 6",
+      "homeTeam": "Tarxien Rainbows FC",
+      "awayTeam": "Hibernians",
+      "homeScore": 1,
+      "awayScore": 3,
+      "htHome": 0,
+      "htAway": 2,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "59%",
+          "41%"
+        ],
+        "Total shots": [
+          "8",
+          "6"
+        ],
+        "Shots on target": [
+          "1",
+          "3"
+        ],
+        "Corner kicks": [
+          "5",
+          "4"
+        ],
+        "Yellow cards": [
+          "2",
+          "4"
+        ],
+        "Shots off target": [
+          "7",
+          "3"
+        ]
+      }
+    },
+    {
+      "id": "fc2CNhDa",
+      "date": "2025-09-23T16:45:00.000Z",
+      "round": "Round 6",
+      "homeTeam": "Marsaxlokk FC",
+      "awayTeam": "Hamrun Spartans",
+      "homeScore": 0,
+      "awayScore": 2,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "52%",
+          "48%"
+        ],
+        "Total shots": [
+          "4",
+          "6"
+        ],
+        "Shots on target": [
+          "2",
+          "4"
+        ],
+        "Corner kicks": [
+          "4",
+          "4"
+        ],
+        "Yellow cards": [
+          "2",
+          "2"
+        ],
+        "Shots off target": [
+          "2",
+          "2"
+        ]
+      }
+    },
+    {
+      "id": "tSNlVqF8",
+      "date": "2025-09-21T17:15:00.000Z",
+      "round": "Round 5",
+      "homeTeam": "Birkirkara",
+      "awayTeam": "Mosta FC",
+      "homeScore": 2,
+      "awayScore": 0,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "50%",
+          "50%"
+        ],
+        "Total shots": [
+          "0",
+          "0"
+        ],
+        "Shots on target": [
+          "0",
+          "0"
+        ],
+        "Corner kicks": [
+          "7",
+          "2"
+        ],
+        "Yellow cards": [
+          "3",
+          "0"
+        ],
+        "Red cards": [
+          "0",
+          "1"
+        ],
+        "Shots off target": [
+          "0",
+          "0"
+        ]
+      }
+    },
+    {
+      "id": "zgVo7XSI",
+      "date": "2025-09-21T15:00:00.000Z",
+      "round": "Round 5",
+      "homeTeam": "Sliema Wanderers",
+      "awayTeam": "Valletta",
+      "homeScore": 1,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "50%",
+          "50%"
+        ],
+        "Total shots": [
+          "0",
+          "0"
+        ],
+        "Shots on target": [
+          "0",
+          "0"
+        ],
+        "Corner kicks": [
+          "2",
+          "5"
+        ],
+        "Yellow cards": [
+          "1",
+          "1"
+        ],
+        "Shots off target": [
+          "0",
+          "0"
+        ]
+      }
+    },
+    {
+      "id": "CEpMCyas",
+      "date": "2025-09-20T17:15:00.000Z",
+      "round": "Round 5",
+      "homeTeam": "Hibernians",
+      "awayTeam": "Naxxar Lions",
+      "homeScore": 2,
+      "awayScore": 0,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "39%",
+          "61%"
+        ],
+        "Total shots": [
+          "7",
+          "9"
+        ],
+        "Shots on target": [
+          "3",
+          "2"
+        ],
+        "Corner kicks": [
+          "5",
+          "4"
+        ],
+        "Yellow cards": [
+          "2",
+          "2"
+        ],
+        "Shots off target": [
+          "4",
+          "7"
+        ]
+      }
+    },
+    {
+      "id": "2aNXUzLP",
+      "date": "2025-09-20T17:15:00.000Z",
+      "round": "Round 5",
+      "homeTeam": "Tarxien Rainbows FC",
+      "awayTeam": "Saint Patrick FC Zabbar",
+      "homeScore": 1,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "48%",
+          "52%"
+        ],
+        "Total shots": [
+          "5",
+          "9"
+        ],
+        "Shots on target": [
+          "1",
+          "5"
+        ],
+        "Corner kicks": [
+          "3",
+          "7"
+        ],
+        "Yellow cards": [
+          "4",
+          "4"
+        ],
+        "Shots off target": [
+          "4",
+          "4"
+        ]
+      }
+    },
+    {
+      "id": "8tvVAFTg",
+      "date": "2025-09-20T15:00:00.000Z",
+      "round": "Round 5",
+      "homeTeam": "Hamrun Spartans",
+      "awayTeam": "Gzira United",
+      "homeScore": 0,
+      "awayScore": 0,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "48%",
+          "52%"
+        ],
+        "Total shots": [
+          "15",
+          "7"
+        ],
+        "Shots on target": [
+          "2",
+          "0"
+        ],
+        "Corner kicks": [
+          "12",
+          "0"
+        ],
+        "Yellow cards": [
+          "1",
+          "3"
+        ],
+        "Shots off target": [
+          "13",
+          "7"
+        ]
+      }
+    },
+    {
+      "id": "Ewsw9gb6",
+      "date": "2025-09-20T15:00:00.000Z",
+      "round": "Round 5",
+      "homeTeam": "Marsaxlokk FC",
+      "awayTeam": "Floriana",
+      "homeScore": 1,
+      "awayScore": 2,
+      "htHome": 0,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "59%",
+          "41%"
+        ],
+        "Total shots": [
+          "10",
+          "10"
+        ],
+        "Shots on target": [
+          "7",
+          "5"
+        ],
+        "Corner kicks": [
+          "10",
+          "3"
+        ],
+        "Yellow cards": [
+          "1",
+          "0"
+        ],
+        "Shots off target": [
+          "3",
+          "5"
+        ]
+      }
+    },
+    {
+      "id": "2a79Yc43",
+      "date": "2025-09-17T19:00:00.000Z",
+      "round": "Round 4",
+      "homeTeam": "Mosta FC",
+      "awayTeam": "Hibernians",
+      "homeScore": 2,
+      "awayScore": 2,
+      "htHome": 1,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "45%",
+          "55%"
+        ],
+        "Total shots": [
+          "2",
+          "2"
+        ],
+        "Shots on target": [
+          "2",
+          "2"
+        ],
+        "Corner kicks": [
+          "5",
+          "7"
+        ],
+        "Yellow cards": [
+          "0",
+          "2"
+        ],
+        "Shots off target": [
+          "0",
+          "0"
+        ]
+      }
+    },
+    {
+      "id": "jPucPgRk",
+      "date": "2025-09-17T16:45:00.000Z",
+      "round": "Round 4",
+      "homeTeam": "Marsaxlokk FC",
+      "awayTeam": "Gzira United",
+      "homeScore": 2,
+      "awayScore": 0,
+      "htHome": 2,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "40%",
+          "60%"
+        ],
+        "Total shots": [
+          "9",
+          "6"
+        ],
+        "Shots on target": [
+          "5",
+          "2"
+        ],
+        "Corner kicks": [
+          "4",
+          "2"
+        ],
+        "Yellow cards": [
+          "1",
+          "1"
+        ],
+        "Shots off target": [
+          "4",
+          "4"
+        ],
+        "Goalkeeper saves": [
+          "0",
+          "0"
+        ]
+      }
+    },
+    {
+      "id": "8tvVAFTg",
+      "date": "2025-09-20T15:00:00.000Z",
+      "round": "Round 5",
+      "homeTeam": "Hamrun Spartans",
+      "awayTeam": "Gzira United",
+      "homeScore": 0,
+      "awayScore": 0,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "48%",
+          "52%"
+        ],
+        "Total shots": [
+          "15",
+          "7"
+        ],
+        "Shots on target": [
+          "2",
+          "0"
+        ],
+        "Corner kicks": [
+          "12",
+          "0"
+        ],
+        "Yellow cards": [
+          "1",
+          "3"
+        ],
+        "Shots off target": [
+          "13",
+          "7"
+        ]
+      }
+    },
+    {
+      "id": "Ewsw9gb6",
+      "date": "2025-09-20T15:00:00.000Z",
+      "round": "Round 5",
+      "homeTeam": "Marsaxlokk FC",
+      "awayTeam": "Floriana",
+      "homeScore": 1,
+      "awayScore": 2,
+      "htHome": 0,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "59%",
+          "41%"
+        ],
+        "Total shots": [
+          "10",
+          "10"
+        ],
+        "Shots on target": [
+          "7",
+          "5"
+        ],
+        "Corner kicks": [
+          "10",
+          "3"
+        ],
+        "Yellow cards": [
+          "1",
+          "0"
+        ],
+        "Shots off target": [
+          "3",
+          "5"
+        ]
+      }
+    },
+    {
+      "id": "2a79Yc43",
+      "date": "2025-09-17T19:00:00.000Z",
+      "round": "Round 4",
+      "homeTeam": "Mosta FC",
+      "awayTeam": "Hibernians",
+      "homeScore": 2,
+      "awayScore": 2,
+      "htHome": 1,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "45%",
+          "55%"
+        ],
+        "Total shots": [
+          "2",
+          "2"
+        ],
+        "Shots on target": [
+          "2",
+          "2"
+        ],
+        "Corner kicks": [
+          "5",
+          "7"
+        ],
+        "Yellow cards": [
+          "0",
+          "2"
+        ],
+        "Shots off target": [
+          "0",
+          "0"
+        ]
+      }
+    },
+    {
+      "id": "jPucPgRk",
+      "date": "2025-09-17T16:45:00.000Z",
+      "round": "Round 4",
+      "homeTeam": "Marsaxlokk FC",
+      "awayTeam": "Gzira United",
+      "homeScore": 2,
+      "awayScore": 0,
+      "htHome": 2,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "40%",
+          "60%"
+        ],
+        "Total shots": [
+          "9",
+          "6"
+        ],
+        "Shots on target": [
+          "5",
+          "2"
+        ],
+        "Corner kicks": [
+          "4",
+          "2"
+        ],
+        "Yellow cards": [
+          "1",
+          "1"
+        ],
+        "Shots off target": [
+          "4",
+          "4"
+        ],
+        "Goalkeeper saves": [
+          "0",
+          "0"
+        ]
+      }
+    },
+    {
+      "id": "Ojg4NXe2",
+      "date": "2025-09-16T19:00:00.000Z",
+      "round": "Round 4",
+      "homeTeam": "Naxxar Lions",
+      "awayTeam": "Tarxien Rainbows FC",
+      "homeScore": 2,
+      "awayScore": 3,
+      "htHome": 1,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "42%",
+          "58%"
+        ],
+        "Total shots": [
+          "2",
+          "3"
+        ],
+        "Shots on target": [
+          "2",
+          "3"
+        ],
+        "Corner kicks": [
+          "10",
+          "5"
+        ],
+        "Yellow cards": [
+          "3",
+          "3"
+        ],
+        "Shots off target": [
+          "0",
+          "0"
+        ],
+        "Goalkeeper saves": [
+          "0",
+          "0"
+        ]
+      }
+    },
+    {
+      "id": "A5KNAfCd",
+      "date": "2025-09-16T19:00:00.000Z",
+      "round": "Round 4",
+      "homeTeam": "Sliema Wanderers",
+      "awayTeam": "Birkirkara",
+      "homeScore": 2,
+      "awayScore": 2,
+      "htHome": 2,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "58%",
+          "42%"
+        ],
+        "Total shots": [
+          "8",
+          "6"
+        ],
+        "Shots on target": [
+          "6",
+          "4"
+        ],
+        "Corner kicks": [
+          "3",
+          "1"
+        ],
+        "Yellow cards": [
+          "3",
+          "1"
+        ],
+        "Red cards": [
+          "0",
+          "1"
+        ],
+        "Shots off target": [
+          "2",
+          "2"
+        ],
+        "Goalkeeper saves": [
+          "0",
+          "0"
+        ]
+      }
+    },
+    {
+      "id": "bR0IWyZF",
+      "date": "2025-09-16T16:45:00.000Z",
+      "round": "Round 4",
+      "homeTeam": "Floriana",
+      "awayTeam": "Valletta",
+      "homeScore": 0,
+      "awayScore": 2,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "41%",
+          "59%"
+        ],
+        "Total shots": [
+          "1",
+          "14"
+        ],
+        "Shots on target": [
+          "0",
+          "6"
+        ],
+        "Corner kicks": [
+          "2",
+          "1"
+        ],
+        "Yellow cards": [
+          "4",
+          "3"
+        ],
+        "Red cards": [
+          "2",
+          "0"
+        ],
+        "Shots off target": [
+          "1",
+          "8"
+        ],
+        "Goalkeeper saves": [
+          "4",
+          "0"
+        ]
+      }
+    },
+    {
+      "id": "6i4QUF3S",
+      "date": "2025-09-16T16:45:00.000Z",
+      "round": "Round 4",
+      "homeTeam": "Saint Patrick FC Zabbar",
+      "awayTeam": "Hamrun Spartans",
+      "homeScore": 0,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "46%",
+          "54%"
+        ],
+        "Total shots": [
+          "2",
+          "12"
+        ],
+        "Shots on target": [
+          "0",
+          "2"
+        ],
+        "Corner kicks": [
+          "3",
+          "3"
+        ],
+        "Yellow cards": [
+          "4",
+          "3"
+        ],
+        "Shots off target": [
+          "2",
+          "10"
+        ],
+        "Goalkeeper saves": [
+          "1",
+          "0"
+        ]
+      }
+    },
+    {
+      "id": "GrqSLKKc",
+      "date": "2025-09-13T18:30:00.000Z",
+      "round": "Round 3",
+      "homeTeam": "Sliema Wanderers",
+      "awayTeam": "Tarxien Rainbows FC",
+      "homeScore": 1,
+      "awayScore": 0,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "53%",
+          "47%"
+        ],
+        "Total shots": [
+          "5",
+          "11"
+        ],
+        "Shots on target": [
+          "4",
+          "2"
+        ],
+        "Corner kicks": [
+          "5",
+          "4"
+        ],
+        "Yellow cards": [
+          "2",
+          "1"
+        ],
+        "Shots off target": [
+          "1",
+          "9"
+        ],
+        "Goalkeeper saves": [
+          "2",
+          "3"
+        ]
+      }
+    },
+    {
+      "id": "pOzqIxKM",
+      "date": "2025-09-13T17:15:00.000Z",
+      "round": "Round 3",
+      "homeTeam": "Saint Patrick FC Zabbar",
+      "awayTeam": "Naxxar Lions",
+      "homeScore": 1,
+      "awayScore": 1,
+      "htHome": 1,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "52%",
+          "48%"
+        ],
+        "Total shots": [
+          "10",
+          "9"
+        ],
+        "Shots on target": [
+          "2",
+          "4"
+        ],
+        "Corner kicks": [
+          "4",
+          "5"
+        ],
+        "Yellow cards": [
+          "1",
+          "1"
+        ],
+        "Shots off target": [
+          "8",
+          "5"
+        ],
+        "Goalkeeper saves": [
+          "3",
+          "1"
+        ]
+      }
+    },
+    {
+      "id": "x0vmbHSj",
+      "date": "2025-09-13T16:15:00.000Z",
+      "round": "Round 3",
+      "homeTeam": "Hibernians",
+      "awayTeam": "Birkirkara",
+      "homeScore": 2,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "43%",
+          "57%"
+        ],
+        "Total shots": [
+          "3",
+          "1"
+        ],
+        "Shots on target": [
+          "2",
+          "1"
+        ],
+        "Corner kicks": [
+          "6",
+          "5"
+        ],
+        "Yellow cards": [
+          "5",
+          "4"
+        ],
+        "Shots off target": [
+          "1",
+          "0"
+        ],
+        "Goalkeeper saves": [
+          "0",
+          "0"
+        ]
+      }
+    },
+    {
+      "id": "tUhH3w5T",
+      "date": "2025-09-13T15:00:00.000Z",
+      "round": "Round 3",
+      "homeTeam": "Hamrun Spartans",
+      "awayTeam": "Mosta FC",
+      "homeScore": 2,
+      "awayScore": 0,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "56%",
+          "44%"
+        ],
+        "Total shots": [
+          "8",
+          "2"
+        ],
+        "Shots on target": [
+          "2",
+          "1"
+        ],
+        "Corner kicks": [
+          "10",
+          "5"
+        ],
+        "Yellow cards": [
+          "2",
+          "4"
+        ],
+        "Shots off target": [
+          "6",
+          "1"
+        ],
+        "Goalkeeper saves": [
+          "1",
+          "0"
+        ]
+      }
+    },
+    {
+      "id": "G6RECGsp",
+      "date": "2025-09-12T18:30:00.000Z",
+      "round": "Round 3",
+      "homeTeam": "Valletta",
+      "awayTeam": "Marsaxlokk FC",
+      "homeScore": 3,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "52%",
+          "48%"
+        ],
+        "Total shots": [
+          "11",
+          "11"
+        ],
+        "Shots on target": [
+          "3",
+          "2"
+        ],
+        "Corner kicks": [
+          "3",
+          "4"
+        ],
+        "Yellow cards": [
+          "3",
+          "1"
+        ],
+        "Shots off target": [
+          "8",
+          "9"
+        ],
+        "Goalkeeper saves": [
+          "1",
+          "0"
+        ]
+      }
+    },
+    {
+      "id": "O8nzKbkA",
+      "date": "2025-09-12T16:15:00.000Z",
+      "round": "Round 3",
+      "homeTeam": "Floriana",
+      "awayTeam": "Gzira United",
+      "homeScore": 1,
+      "awayScore": 1,
+      "htHome": 1,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "57%",
+          "43%"
+        ],
+        "Total shots": [
+          "10",
+          "6"
+        ],
+        "Shots on target": [
+          "4",
+          "2"
+        ],
+        "Corner kicks": [
+          "8",
+          "5"
+        ],
+        "Yellow cards": [
+          "3",
+          "2"
+        ],
+        "Shots off target": [
+          "6",
+          "4"
+        ],
+        "Goalkeeper saves": [
+          "1",
+          "3"
+        ]
+      }
+    },
+    {
+      "id": "xxd07L54",
+      "date": "2025-08-31T17:30:00.000Z",
+      "round": "Round 2",
+      "homeTeam": "Hamrun Spartans",
+      "awayTeam": "Valletta",
+      "homeScore": 1,
+      "awayScore": 1,
+      "htHome": 1,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "55%",
+          "45%"
+        ],
+        "Total shots": [
+          "7",
+          "5"
+        ],
+        "Shots on target": [
+          "4",
+          "3"
+        ],
+        "Corner kicks": [
+          "2",
+          "4"
+        ],
+        "Yellow cards": [
+          "2",
+          "0"
+        ],
+        "Shots off target": [
+          "3",
+          "2"
+        ],
+        "Goalkeeper saves": [
+          "2",
+          "3"
+        ]
+      }
+    },
+    {
+      "id": "p2a85azH",
+      "date": "2025-08-24T19:00:00.000Z",
+      "round": "Round 2",
+      "homeTeam": "Naxxar Lions",
+      "awayTeam": "Marsaxlokk FC",
+      "homeScore": 0,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "50%",
+          "50%"
+        ],
+        "Total shots": [
+          "16",
+          "15"
+        ],
+        "Shots on target": [
+          "3",
+          "2"
+        ],
+        "Corner kicks": [
+          "7",
+          "1"
+        ],
+        "Yellow cards": [
+          "2",
+          "2"
+        ],
+        "Shots off target": [
+          "13",
+          "13"
+        ]
+      }
+    },
+    {
+      "id": "4Y06ovqo",
+      "date": "2025-08-24T16:45:00.000Z",
+      "round": "Round 2",
+      "homeTeam": "Saint Patrick FC Zabbar",
+      "awayTeam": "Hibernians",
+      "homeScore": 2,
+      "awayScore": 2,
+      "htHome": 1,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "58%",
+          "42%"
+        ],
+        "Total shots": [
+          "8",
+          "7"
+        ],
+        "Shots on target": [
+          "4",
+          "4"
+        ],
+        "Corner kicks": [
+          "12",
+          "2"
+        ],
+        "Yellow cards": [
+          "2",
+          "3"
+        ],
+        "Red cards": [
+          "1",
+          "0"
+        ],
+        "Shots off target": [
+          "4",
+          "3"
+        ]
+      }
+    },
+    {
+      "id": "plKZj0LN",
+      "date": "2025-08-23T19:00:00.000Z",
+      "round": "Round 2",
+      "homeTeam": "Birkirkara",
+      "awayTeam": "Gzira United",
+      "homeScore": 0,
+      "awayScore": 0,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "55%",
+          "45%"
+        ],
+        "Total shots": [
+          "3",
+          "3"
+        ],
+        "Shots on target": [
+          "0",
+          "2"
+        ],
+        "Corner kicks": [
+          "1",
+          "6"
+        ],
+        "Yellow cards": [
+          "5",
+          "3"
+        ],
+        "Shots off target": [
+          "3",
+          "1"
+        ]
+      }
+    },
+    {
+      "id": "GM7i9syh",
+      "date": "2025-08-23T16:45:00.000Z",
+      "round": "Round 2",
+      "homeTeam": "Tarxien Rainbows FC",
+      "awayTeam": "Floriana",
+      "homeScore": 0,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "47%",
+          "53%"
+        ],
+        "Total shots": [
+          "2",
+          "11"
+        ],
+        "Shots on target": [
+          "0",
+          "4"
+        ],
+        "Corner kicks": [
+          "8",
+          "3"
+        ],
+        "Yellow cards": [
+          "4",
+          "3"
+        ],
+        "Red cards": [
+          "0",
+          "1"
+        ],
+        "Shots off target": [
+          "2",
+          "7"
+        ]
+      }
+    },
+    {
+      "id": "CzMRhMjB",
+      "date": "2025-08-22T18:00:00.000Z",
+      "round": "Round 2",
+      "homeTeam": "Sliema Wanderers",
+      "awayTeam": "Mosta FC",
+      "homeScore": 0,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "57%",
+          "43%"
+        ],
+        "Total shots": [
+          "16",
+          "6"
+        ],
+        "Shots on target": [
+          "4",
+          "3"
+        ],
+        "Corner kicks": [
+          "8",
+          "2"
+        ],
+        "Yellow cards": [
+          "1",
+          "4"
+        ],
+        "Red cards": [
+          "0",
+          "1"
+        ],
+        "Shots off target": [
+          "12",
+          "3"
+        ]
+      }
+    },
+    {
+      "id": "UiUAd4in",
+      "date": "2025-08-18T17:00:00.000Z",
+      "round": "Round 1",
+      "homeTeam": "Hibernians",
+      "awayTeam": "Gzira United",
+      "homeScore": 5,
+      "awayScore": 3,
+      "htHome": 1,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "48%",
+          "52%"
+        ],
+        "Total shots": [
+          "13",
+          "12"
+        ],
+        "Shots on target": [
+          "7",
+          "4"
+        ],
+        "Corner kicks": [
+          "2",
+          "3"
+        ],
+        "Yellow cards": [
+          "5",
+          "1"
+        ],
+        "Shots off target": [
+          "6",
+          "8"
+        ]
+      }
+    },
+    {
+      "id": "jNSbkmpJ",
+      "date": "2025-08-17T19:00:00.000Z",
+      "round": "Round 1",
+      "homeTeam": "Naxxar Lions",
+      "awayTeam": "Floriana",
+      "homeScore": 1,
+      "awayScore": 3,
+      "htHome": 0,
+      "htAway": 2,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "40%",
+          "60%"
+        ],
+        "Total shots": [
+          "7",
+          "8"
+        ],
+        "Shots on target": [
+          "4",
+          "4"
+        ],
+        "Corner kicks": [
+          "5",
+          "6"
+        ],
+        "Yellow cards": [
+          "2",
+          "1"
+        ],
+        "Shots off target": [
+          "3",
+          "4"
+        ]
+      }
+    },
+    {
+      "id": "rcPji9F6",
+      "date": "2025-08-17T17:00:00.000Z",
+      "round": "Round 1",
+      "homeTeam": "Tarxien Rainbows FC",
+      "awayTeam": "Hamrun Spartans",
+      "homeScore": 1,
+      "awayScore": 1,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "31%",
+          "69%"
+        ],
+        "Total shots": [
+          "3",
+          "4"
+        ],
+        "Shots on target": [
+          "1",
+          "2"
+        ],
+        "Corner kicks": [
+          "1",
+          "4"
+        ],
+        "Yellow cards": [
+          "4",
+          "2"
+        ],
+        "Shots off target": [
+          "2",
+          "2"
+        ]
+      }
+    },
+    {
+      "id": "G8SIfrMb",
+      "date": "2025-08-17T16:45:00.000Z",
+      "round": "Round 1",
+      "homeTeam": "Marsaxlokk FC",
+      "awayTeam": "Mosta FC",
+      "homeScore": 3,
+      "awayScore": 1,
+      "htHome": 1,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "55%",
+          "45%"
+        ],
+        "Total shots": [
+          "10",
+          "8"
+        ],
+        "Shots on target": [
+          "4",
+          "5"
+        ],
+        "Corner kicks": [
+          "7",
+          "4"
+        ],
+        "Yellow cards": [
+          "1",
+          "2"
+        ],
+        "Red cards": [
+          "0",
+          "1"
+        ],
+        "Shots off target": [
+          "6",
+          "3"
+        ]
+      }
+    },
+    {
+      "id": "nVVsgVpf",
+      "date": "2025-08-16T19:00:00.000Z",
+      "round": "Round 1",
+      "homeTeam": "Saint Patrick FC Zabbar",
+      "awayTeam": "Sliema Wanderers",
+      "homeScore": 1,
+      "awayScore": 2,
+      "htHome": 1,
+      "htAway": 2,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "47%",
+          "53%"
+        ],
+        "Total shots": [
+          "9",
+          "9"
+        ],
+        "Shots on target": [
+          "5",
+          "5"
+        ],
+        "Corner kicks": [
+          "4",
+          "0"
+        ],
+        "Yellow cards": [
+          "1",
+          "1"
+        ],
+        "Shots off target": [
+          "4",
+          "4"
+        ]
+      }
+    },
+    {
+      "id": "EHXZfiGs",
+      "date": "2025-08-16T16:45:00.000Z",
+      "round": "Round 1",
+      "homeTeam": "Valletta",
+      "awayTeam": "Birkirkara",
+      "homeScore": 0,
+      "awayScore": 0,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "50%",
+          "50%"
+        ],
+        "Total shots": [
+          "4",
+          "2"
+        ],
+        "Shots on target": [
+          "0",
+          "0"
+        ],
+        "Corner kicks": [
+          "3",
+          "3"
+        ],
+        "Yellow cards": [
+          "2",
+          "1"
+        ],
+        "Shots off target": [
+          "4",
+          "2"
+        ]
+      }
+    }
+  ]
+}

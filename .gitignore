@@ -1,0 +1,11 @@
+node_modules
+.next
+dist
+.env
+*.log
+docs_data.json
+docs_full_data.json
+docs_full_final.json
+strip_comments.js
+generate_docs_data.js
+EOF

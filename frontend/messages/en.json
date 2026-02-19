@@ -1,0 +1,190 @@
+{
+  "metadata": {
+    "title": "Quantsports API — Football Data",
+    "description": "Historical football data from 500+ leagues worldwide. Results, statistics and standings from completed matches."
+  },
+  "nav": {
+    "api": "API",
+    "capabilities": "Capabilities",
+    "pricing": "Pricing",
+    "coverage": "Coverage",
+    "docs": "Docs",
+    "getStarted": "Get Started"
+  },
+  "hero": {
+    "title1": "FOOTBALL",
+    "title2": "HISTORY",
+    "title3": "DATA",
+    "subtitle": "Results and statistics from completed matches. Structured data from 500+ leagues worldwide via JSON API.",
+    "version": "v2.4.0",
+    "latency": "LATENCY",
+    "uptime": "UPTIME",
+    "stats": {
+      "coverage": "COVERAGE",
+      "leagues": "leagues",
+      "matches": "MATCHES",
+      "total": "1.1M+",
+      "update": "UPDATE",
+      "frequency": "post-match",
+      "format": "FORMAT",
+      "json": "JSON"
+    },
+    "scroll": "SCROLL"
+  },
+  "apiDemo": {
+    "title": "API",
+    "title2": "ENDPOINTS",
+    "endpoints": "ENDPOINTS",
+    "requestResponse": "REQUEST / RESPONSE",
+    "visualization": "VISUALIZATION",
+    "scrollHint": "Drag →",
+    "fixtures": {
+      "description": "Completed matches"
+    },
+    "standings": {
+      "description": "League tables"
+    },
+    "stats": {
+      "description": "Detailed match data"
+    },
+    "lineups": {
+      "description": "Starting XI and formations"
+    }
+  },
+  "capabilities": {
+    "title": "TECHNICAL",
+    "title2": "CAPABILITIES",
+    "realTime": {
+      "title": "LATENCY",
+      "subtitle": "ULTRA-LOW",
+      "description": "Responses served via persistent cache on Supabase for maximum speed.",
+      "latency": "LATENCY",
+      "latencyValue": "<50",
+      "coverage": "COVERAGE",
+      "coverageValue": "750+",
+      "coverageSuffix": "leagues"
+    },
+    "historical": {
+      "title": "ARCHIVE",
+      "subtitle": "STRUCTURED",
+      "description": "Consolidated database with results and statistics from multiple seasons.",
+      "matches": "MATCHES",
+      "matchesValue": "1.1M+",
+      "seasons": "SEASONS",
+      "seasonsValue": "10+"
+    },
+    "statistics": {
+      "title": "METRICS",
+      "subtitle": "ADVANCED",
+      "description": "34 detailed metrics per match, including xG, xGOT, and heatmaps.",
+      "stats": "METRICS",
+      "statsValue": "34",
+      "statsSuffix": "per match",
+      "events": "EVENTS",
+      "eventsValue": "ALL",
+      "eventsSuffix": "tracked"
+    },
+    "api": {
+      "title": "API",
+      "subtitle": "RESTFUL",
+      "description": "High-performance endpoints with global cache support and secure auth.",
+      "endpoints": "ENDPOINTS",
+      "endpointsValue": "9",
+      "fields": "FIELDS",
+      "fieldsValue": "50+"
+    }
+  },
+  "coverage": {
+    "title": "GLOBAL",
+    "title2": "COVERAGE",
+    "continents": "CONTINENTS",
+    "countries": "COUNTRIES",
+    "leagues": "LEAGUES",
+    "seasons": "SEASONS"
+  },
+  "footer": {
+    "description": "Historical football data. Results, statistics and standings from 500+ leagues worldwide.",
+    "product": "PRODUCT",
+    "resources": "RESOURCES",
+    "contact": "CONTACT",
+    "copyright": "© 2026 Quantsports",
+    "version": "v2.4.0",
+    "status": "All systems operational",
+    "language": "LANGUAGE",
+    "llmTxt": "LLM.TXT",
+    "llmDesc": "LLM Context"
+  },
+  "matchShowcase": {
+    "label": "MATCH EXAMPLE",
+    "title": "REAL",
+    "title2": "DATA",
+    "tabs": {
+      "overview": "Overview",
+      "stats": "Statistics",
+      "lineups": "Lineups"
+    },
+    "jsonOutput": "JSON OUTPUT",
+    "matchStats": "MATCH STATISTICS",
+    "scrollHint": "Drag to see more"
+  },
+  "docs": {
+    "title": "Documentation",
+    "headline": "API Reference",
+    "description": "Complete API documentation for integrating historical football data. All endpoints return JSON.",
+    "version": "Version",
+    "endpointsTitle": "Endpoints",
+    "authTitle": "Authentication",
+    "authDescription": "All requests require the x-api-key header. The key is provided in the dashboard.",
+    "rateLimitTitle": "Rate Limit",
+    "rateLimitDescription": "60 requests per minute per API key. X-RateLimit-Remaining and X-RateLimit-Reset headers included.",
+    "paramsTitle": "Parameters",
+    "paramName": "Name",
+    "paramType": "Type",
+    "paramRequired": "Required",
+    "paramDesc": "Description",
+    "required": "Yes",
+    "optional": "No",
+    "examplesTitle": "Examples",
+    "responseTitle": "Response"
+  },
+  "pricing": {
+    "title": "OUR",
+    "title2": "PLANS",
+    "subtitle": "Choose the data volume that fits your project. Monthly billing with bi-weekly quota reset.",
+    "monthly": "mo",
+    "perRequest": "per req.",
+    "biweekly": "bi-weekly",
+    "cta": "Subscribe Now",
+    "freeCta": "Start for Free",
+    "plans": {
+      "free": {
+        "name": "Free",
+        "desc": "For testing and validation"
+      },
+      "dev": {
+        "name": "Dev",
+        "desc": "For small projects and bots"
+      },
+      "enterprise": {
+        "name": "Enterprise",
+        "desc": "For growing platforms"
+      },
+      "gold": {
+        "name": "Gold",
+        "desc": "For large portals and apps"
+      }
+    },
+    "features": {
+      "requests": "requests/month",
+      "totalRequests": "total requests",
+      "biweeklyQuota": "Bi-weekly limit",
+      "support": "Email support",
+      "apiKeys": "1 API Key",
+      "allLeagues": "Access to 500+ leagues"
+    }
+  },
+  "languageSelector": {
+    "pt": "Português",
+    "en": "English"
+  }
+}

@@ -1,0 +1,1139 @@
+{
+  "league": "Premier League",
+  "country": "bahrain",
+  "season": "2025-2026",
+  "collectedAt": "2026-02-10T16:10:56.264Z",
+  "totalMatches": 80,
+  "matches": [
+    {
+      "id": "0Ay2AyWq",
+      "date": "2026-02-07T16:00:00.000Z",
+      "round": "Round 14",
+      "homeTeam": "Malkiya",
+      "awayTeam": "Al-Muharraq",
+      "homeScore": 0,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "8CdNHJwA",
+      "date": "2026-02-07T13:45:00.000Z",
+      "round": "Round 14",
+      "homeTeam": "Al-Riffa",
+      "awayTeam": "Al Hidd",
+      "homeScore": 0,
+      "awayScore": 3,
+      "htHome": 0,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Red cards": [
+          "0",
+          "1"
+        ]
+      }
+    },
+    {
+      "id": "8bHl3KOG",
+      "date": "2026-01-28T16:00:00.000Z",
+      "round": "Round 13",
+      "homeTeam": "A'ali Club",
+      "awayTeam": "Al-Najma Manama",
+      "homeScore": 2,
+      "awayScore": 0,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "zoJt5tf4",
+      "date": "2026-01-28T16:00:00.000Z",
+      "round": "Round 13",
+      "homeTeam": "Sitra",
+      "awayTeam": "Al-Riffa",
+      "homeScore": 1,
+      "awayScore": 3,
+      "htHome": 0,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "vJPX62Pi",
+      "date": "2026-01-27T16:00:00.000Z",
+      "round": "Round 13",
+      "homeTeam": "Al Hidd",
+      "awayTeam": "Bahrain SC",
+      "homeScore": 1,
+      "awayScore": 1,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "YLxnqaXp",
+      "date": "2026-01-27T16:00:00.000Z",
+      "round": "Round 13",
+      "homeTeam": "Al-Muharraq",
+      "awayTeam": "Al Shabab Manama",
+      "homeScore": 3,
+      "awayScore": 0,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "EXPD17mC",
+      "date": "2026-01-26T16:00:00.000Z",
+      "round": "Round 13",
+      "homeTeam": "Al Budaiya",
+      "awayTeam": "Malkiya",
+      "homeScore": 0,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "67M53TIa",
+      "date": "2026-01-26T16:00:00.000Z",
+      "round": "Round 13",
+      "homeTeam": "Al Khalidiyah",
+      "awayTeam": "Al-Ahli Manama",
+      "homeScore": 0,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "WzVDD9ne",
+      "date": "2026-01-15T16:00:00.000Z",
+      "round": "Round 12",
+      "homeTeam": "Al-Ahli Manama",
+      "awayTeam": "Al-Muharraq",
+      "homeScore": 0,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "4lTLBmH7",
+      "date": "2026-01-15T16:00:00.000Z",
+      "round": "Round 12",
+      "homeTeam": "Bahrain SC",
+      "awayTeam": "Sitra",
+      "homeScore": 0,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "4QpZKifL",
+      "date": "2026-01-14T16:00:00.000Z",
+      "round": "Round 12",
+      "homeTeam": "A'ali Club",
+      "awayTeam": "Al Khalidiyah",
+      "homeScore": 0,
+      "awayScore": 3,
+      "htHome": 0,
+      "htAway": 2,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "z9y5FVHr",
+      "date": "2026-01-14T16:00:00.000Z",
+      "round": "Round 12",
+      "homeTeam": "Malkiya",
+      "awayTeam": "Al Hidd",
+      "homeScore": 0,
+      "awayScore": 0,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Red cards": [
+          "0",
+          "1"
+        ]
+      }
+    },
+    {
+      "id": "IX4vaAX1",
+      "date": "2026-01-13T16:00:00.000Z",
+      "round": "Round 12",
+      "homeTeam": "Al-Najma Manama",
+      "awayTeam": "Al-Riffa",
+      "homeScore": 1,
+      "awayScore": 2,
+      "htHome": 0,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "rBdQMDP8",
+      "date": "2026-01-13T16:00:00.000Z",
+      "round": "Round 12",
+      "homeTeam": "Al Shabab Manama",
+      "awayTeam": "Al Budaiya",
+      "homeScore": 1,
+      "awayScore": 3,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "h0SG7KJi",
+      "date": "2026-01-10T16:00:00.000Z",
+      "round": "Round 11",
+      "homeTeam": "Malkiya",
+      "awayTeam": "Sitra",
+      "homeScore": 0,
+      "awayScore": 0,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "0CjjiaZA",
+      "date": "2026-01-10T13:25:00.000Z",
+      "round": "Round 11",
+      "homeTeam": "A'ali Club",
+      "awayTeam": "Al-Muharraq",
+      "homeScore": 1,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Red cards": [
+          "0",
+          "1"
+        ]
+      }
+    },
+    {
+      "id": "0QVO5bl4",
+      "date": "2026-01-09T16:00:00.000Z",
+      "round": "Round 11",
+      "homeTeam": "Bahrain SC",
+      "awayTeam": "Al-Riffa",
+      "homeScore": 0,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Red cards": [
+          "0",
+          "1"
+        ]
+      }
+    },
+    {
+      "id": "hnmrgL4b",
+      "date": "2026-01-09T13:25:00.000Z",
+      "round": "Round 11",
+      "homeTeam": "Al Khalidiyah",
+      "awayTeam": "Al-Najma Manama",
+      "homeScore": 3,
+      "awayScore": 0,
+      "htHome": 2,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Red cards": [
+          "1",
+          "0"
+        ]
+      }
+    },
+    {
+      "id": "tMbbkw4N",
+      "date": "2026-01-08T16:00:00.000Z",
+      "round": "Round 11",
+      "homeTeam": "Al-Ahli Manama",
+      "awayTeam": "Al Budaiya",
+      "homeScore": 2,
+      "awayScore": 3,
+      "htHome": 2,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "xhpUqHRp",
+      "date": "2026-01-08T16:00:00.000Z",
+      "round": "Round 11",
+      "homeTeam": "Al Shabab Manama",
+      "awayTeam": "Al Hidd",
+      "homeScore": 0,
+      "awayScore": 2,
+      "htHome": 0,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Red cards": [
+          "1",
+          "0"
+        ]
+      }
+    },
+    {
+      "id": "lnfBM1Kj",
+      "date": "2026-01-06T16:00:00.000Z",
+      "round": "Round 6",
+      "homeTeam": "Sitra",
+      "awayTeam": "Al-Muharraq",
+      "homeScore": 0,
+      "awayScore": 4,
+      "htHome": 0,
+      "htAway": 2,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "hQB7trLh",
+      "date": "2026-01-03T16:00:00.000Z",
+      "round": "Round 10",
+      "homeTeam": "Al-Riffa",
+      "awayTeam": "Malkiya",
+      "homeScore": 2,
+      "awayScore": 0,
+      "htHome": 2,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "p08ar4jt",
+      "date": "2026-01-03T13:25:00.000Z",
+      "round": "Round 10",
+      "homeTeam": "Al-Najma Manama",
+      "awayTeam": "Bahrain SC",
+      "homeScore": 2,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "t8JPzvkU",
+      "date": "2026-01-02T16:00:00.000Z",
+      "round": "Round 10",
+      "homeTeam": "Al Budaiya",
+      "awayTeam": "A'ali Club",
+      "homeScore": 0,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "WWbZfszn",
+      "date": "2026-01-02T16:00:00.000Z",
+      "round": "Round 10",
+      "homeTeam": "Al-Muharraq",
+      "awayTeam": "Al Khalidiyah",
+      "homeScore": 0,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "lh5GvMk5",
+      "date": "2026-01-02T13:25:00.000Z",
+      "round": "Round 10",
+      "homeTeam": "Sitra",
+      "awayTeam": "Al Shabab Manama",
+      "homeScore": 1,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Red cards": [
+          "1",
+          "0"
+        ]
+      }
+    },
+    {
+      "id": "M53Ox0KH",
+      "date": "2026-01-01T16:00:00.000Z",
+      "round": "Round 10",
+      "homeTeam": "Al Hidd",
+      "awayTeam": "Al-Ahli Manama",
+      "homeScore": 3,
+      "awayScore": 3,
+      "htHome": 1,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Red cards": [
+          "0",
+          "1"
+        ]
+      }
+    },
+    {
+      "id": "MuKX3xJG",
+      "date": "2025-12-29T16:00:00.000Z",
+      "round": "Round 9",
+      "homeTeam": "Al Khalidiyah",
+      "awayTeam": "Al Budaiya",
+      "homeScore": 3,
+      "awayScore": 1,
+      "htHome": 1,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "YLhqtE9C",
+      "date": "2025-12-28T16:00:00.000Z",
+      "round": "Round 9",
+      "homeTeam": "Al-Ahli Manama",
+      "awayTeam": "Sitra",
+      "homeScore": 1,
+      "awayScore": 2,
+      "htHome": 0,
+      "htAway": 2,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "6Vt5oU2k",
+      "date": "2025-12-28T16:00:00.000Z",
+      "round": "Round 9",
+      "homeTeam": "Al-Muharraq",
+      "awayTeam": "Al-Najma Manama",
+      "homeScore": 2,
+      "awayScore": 0,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "xfazrzu0",
+      "date": "2025-12-27T13:20:00.000Z",
+      "round": "Round 9",
+      "homeTeam": "Al Shabab Manama",
+      "awayTeam": "Al-Riffa",
+      "homeScore": 0,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "vJeivhvP",
+      "date": "2025-12-26T16:00:00.000Z",
+      "round": "Round 9",
+      "homeTeam": "A'ali Club",
+      "awayTeam": "Al Hidd",
+      "homeScore": 2,
+      "awayScore": 1,
+      "htHome": 1,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Red cards": [
+          "1",
+          "1"
+        ]
+      }
+    },
+    {
+      "id": "4t1SqdAm",
+      "date": "2025-12-26T13:20:00.000Z",
+      "round": "Round 9",
+      "homeTeam": "Malkiya",
+      "awayTeam": "Bahrain SC",
+      "homeScore": 2,
+      "awayScore": 0,
+      "htHome": 2,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "jHmnZ5dS",
+      "date": "2025-12-21T16:00:00.000Z",
+      "round": "Round 8",
+      "homeTeam": "Al-Najma Manama",
+      "awayTeam": "Malkiya",
+      "homeScore": 1,
+      "awayScore": 0,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Red cards": [
+          "0",
+          "3"
+        ]
+      }
+    },
+    {
+      "id": "O8QgVdef",
+      "date": "2025-12-20T16:00:00.000Z",
+      "round": "Round 8",
+      "homeTeam": "Al-Riffa",
+      "awayTeam": "Al-Ahli Manama",
+      "homeScore": 2,
+      "awayScore": 0,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "StXpXIQs",
+      "date": "2025-12-20T13:15:00.000Z",
+      "round": "Round 8",
+      "homeTeam": "Bahrain SC",
+      "awayTeam": "Al Shabab Manama",
+      "homeScore": 4,
+      "awayScore": 0,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Red cards": [
+          "0",
+          "1"
+        ]
+      }
+    },
+    {
+      "id": "rFSQRNl2",
+      "date": "2025-12-19T16:00:00.000Z",
+      "round": "Round 8",
+      "homeTeam": "Al Budaiya",
+      "awayTeam": "Al-Muharraq",
+      "homeScore": 0,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "zkPITqKk",
+      "date": "2025-12-19T13:15:00.000Z",
+      "round": "Round 8",
+      "homeTeam": "Al Hidd",
+      "awayTeam": "Al Khalidiyah",
+      "homeScore": 1,
+      "awayScore": 2,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "dfADkRt9",
+      "date": "2025-12-19T13:15:00.000Z",
+      "round": "Round 8",
+      "homeTeam": "Sitra",
+      "awayTeam": "A'ali Club",
+      "homeScore": 0,
+      "awayScore": 0,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "hlIAREfJ",
+      "date": "2025-11-09T16:00:00.000Z",
+      "round": "Round 7",
+      "homeTeam": "Al Khalidiyah",
+      "awayTeam": "Sitra",
+      "homeScore": 2,
+      "awayScore": 1,
+      "htHome": 2,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "WYT1TzQ6",
+      "date": "2025-11-09T16:00:00.000Z",
+      "round": "Round 7",
+      "homeTeam": "Al-Muharraq",
+      "awayTeam": "Al Hidd",
+      "homeScore": 3,
+      "awayScore": 0,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "zTmrH6zp",
+      "date": "2025-11-08T16:00:00.000Z",
+      "round": "Round 7",
+      "homeTeam": "A'ali Club",
+      "awayTeam": "Al-Riffa",
+      "homeScore": 1,
+      "awayScore": 4,
+      "htHome": 0,
+      "htAway": 3,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "ripvySRF",
+      "date": "2025-11-08T13:20:00.000Z",
+      "round": "Round 7",
+      "homeTeam": "Al Budaiya",
+      "awayTeam": "Al-Najma Manama",
+      "homeScore": 1,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "OlUxwlc3",
+      "date": "2025-11-07T16:00:00.000Z",
+      "round": "Round 7",
+      "homeTeam": "Al Shabab Manama",
+      "awayTeam": "Malkiya",
+      "homeScore": 0,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "WfsiFp5d",
+      "date": "2025-11-07T13:20:00.000Z",
+      "round": "Round 7",
+      "homeTeam": "Al-Ahli Manama",
+      "awayTeam": "Bahrain SC",
+      "homeScore": 3,
+      "awayScore": 0,
+      "htHome": 3,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "Ghncp5Cc",
+      "date": "2025-11-01T16:00:00.000Z",
+      "round": "Round 6",
+      "homeTeam": "Al-Riffa",
+      "awayTeam": "Al Khalidiyah",
+      "homeScore": 0,
+      "awayScore": 2,
+      "htHome": 0,
+      "htAway": 2,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "ULeNXRSi",
+      "date": "2025-10-31T16:00:00.000Z",
+      "round": "Round 6",
+      "homeTeam": "Al Hidd",
+      "awayTeam": "Al Budaiya",
+      "homeScore": 1,
+      "awayScore": 2,
+      "htHome": 1,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "YDhvUqSG",
+      "date": "2025-10-31T13:25:00.000Z",
+      "round": "Round 6",
+      "homeTeam": "Al-Najma Manama",
+      "awayTeam": "Al Shabab Manama",
+      "homeScore": 2,
+      "awayScore": 0,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "6RjnSNdT",
+      "date": "2025-10-30T16:00:00.000Z",
+      "round": "Round 6",
+      "homeTeam": "Bahrain SC",
+      "awayTeam": "A'ali Club",
+      "homeScore": 1,
+      "awayScore": 0,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "xnaVV5c4",
+      "date": "2025-10-30T16:00:00.000Z",
+      "round": "Round 6",
+      "homeTeam": "Malkiya",
+      "awayTeam": "Al-Ahli Manama",
+      "homeScore": 1,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Red cards": [
+          "1",
+          "0"
+        ]
+      }
+    },
+    {
+      "id": "U3pmWEim",
+      "date": "2025-10-19T16:00:00.000Z",
+      "round": "Round 5",
+      "homeTeam": "A'ali Club",
+      "awayTeam": "Malkiya",
+      "homeScore": 0,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "2HreUhMa",
+      "date": "2025-10-19T16:00:00.000Z",
+      "round": "Round 5",
+      "homeTeam": "Al-Ahli Manama",
+      "awayTeam": "Al Shabab Manama",
+      "homeScore": 2,
+      "awayScore": 0,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Red cards": [
+          "0",
+          "1"
+        ]
+      }
+    },
+    {
+      "id": "bqx4SWjC",
+      "date": "2025-10-18T16:00:00.000Z",
+      "round": "Round 5",
+      "homeTeam": "Al Hidd",
+      "awayTeam": "Al-Najma Manama",
+      "homeScore": 3,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "lQIzAOzo",
+      "date": "2025-10-18T13:35:00.000Z",
+      "round": "Round 5",
+      "homeTeam": "Al Budaiya",
+      "awayTeam": "Sitra",
+      "homeScore": 1,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Red cards": [
+          "0",
+          "1"
+        ]
+      }
+    },
+    {
+      "id": "AJ3GyyUP",
+      "date": "2025-10-17T16:00:00.000Z",
+      "round": "Round 5",
+      "homeTeam": "Al Khalidiyah",
+      "awayTeam": "Bahrain SC",
+      "homeScore": 4,
+      "awayScore": 0,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "4MGUDXyJ",
+      "date": "2025-10-17T13:35:00.000Z",
+      "round": "Round 5",
+      "homeTeam": "Al-Muharraq",
+      "awayTeam": "Al-Riffa",
+      "homeScore": 1,
+      "awayScore": 1,
+      "htHome": 1,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "vTvOxTNk",
+      "date": "2025-10-05T16:00:00.000Z",
+      "round": "Round 4",
+      "homeTeam": "Al Khalidiyah",
+      "awayTeam": "Malkiya",
+      "homeScore": 1,
+      "awayScore": 3,
+      "htHome": 1,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "0rTWz7h2",
+      "date": "2025-10-05T16:00:00.000Z",
+      "round": "Round 4",
+      "homeTeam": "Bahrain SC",
+      "awayTeam": "Al-Muharraq",
+      "homeScore": 0,
+      "awayScore": 2,
+      "htHome": 0,
+      "htAway": 2,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "SztppBVF",
+      "date": "2025-10-04T16:00:00.000Z",
+      "round": "Round 4",
+      "homeTeam": "Al-Riffa",
+      "awayTeam": "Al Budaiya",
+      "homeScore": 3,
+      "awayScore": 0,
+      "htHome": 2,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "O2Zhrk0S",
+      "date": "2025-10-04T16:00:00.000Z",
+      "round": "Round 4",
+      "homeTeam": "Sitra",
+      "awayTeam": "Al Hidd",
+      "homeScore": 0,
+      "awayScore": 0,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "vFakOT8d",
+      "date": "2025-10-03T13:30:00.000Z",
+      "round": "Round 4",
+      "homeTeam": "Al-Najma Manama",
+      "awayTeam": "Al-Ahli Manama",
+      "homeScore": 2,
+      "awayScore": 4,
+      "htHome": 1,
+      "htAway": 3,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "fNsxnX03",
+      "date": "2025-10-03T13:30:00.000Z",
+      "round": "Round 4",
+      "homeTeam": "Al Shabab Manama",
+      "awayTeam": "A'ali Club",
+      "homeScore": 0,
+      "awayScore": 0,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "6ifBgwiU",
+      "date": "2025-09-27T16:00:00.000Z",
+      "round": "Round 3",
+      "homeTeam": "A'ali Club",
+      "awayTeam": "Al-Ahli Manama",
+      "homeScore": 1,
+      "awayScore": 1,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "zs3T9byB",
+      "date": "2025-09-27T16:00:00.000Z",
+      "round": "Round 3",
+      "homeTeam": "Al Budaiya",
+      "awayTeam": "Bahrain SC",
+      "homeScore": 4,
+      "awayScore": 1,
+      "htHome": 2,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "M3UKDtxn",
+      "date": "2025-09-26T13:45:00.000Z",
+      "round": "Round 3",
+      "homeTeam": "Al Khalidiyah",
+      "awayTeam": "Al Shabab Manama",
+      "homeScore": 0,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "SGaLBK6b",
+      "date": "2025-09-26T13:45:00.000Z",
+      "round": "Round 3",
+      "homeTeam": "Al-Muharraq",
+      "awayTeam": "Malkiya",
+      "homeScore": 1,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Red cards": [
+          "0",
+          "1"
+        ]
+      }
+    },
+    {
+      "id": "ddix8x6N",
+      "date": "2025-09-25T16:00:00.000Z",
+      "round": "Round 3",
+      "homeTeam": "Al Hidd",
+      "awayTeam": "Al-Riffa",
+      "homeScore": 0,
+      "awayScore": 0,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "AP02eaMH",
+      "date": "2025-09-25T16:00:00.000Z",
+      "round": "Round 3",
+      "homeTeam": "Sitra",
+      "awayTeam": "Al-Najma Manama",
+      "homeScore": 0,
+      "awayScore": 0,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "tKPfQJLi",
+      "date": "2025-09-21T16:00:00.000Z",
+      "round": "Round 2",
+      "homeTeam": "Al-Ahli Manama",
+      "awayTeam": "Al Khalidiyah",
+      "homeScore": 0,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Red cards": [
+          "1",
+          "0"
+        ]
+      }
+    },
+    {
+      "id": "Svr82GTp",
+      "date": "2025-09-21T16:00:00.000Z",
+      "round": "Round 2",
+      "homeTeam": "Al Shabab Manama",
+      "awayTeam": "Al-Muharraq",
+      "homeScore": 0,
+      "awayScore": 3,
+      "htHome": 0,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "2acfcLi5",
+      "date": "2025-09-20T16:00:00.000Z",
+      "round": "Round 2",
+      "homeTeam": "Al-Riffa",
+      "awayTeam": "Sitra",
+      "homeScore": 3,
+      "awayScore": 0,
+      "htHome": 2,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Red cards": [
+          "0",
+          "1"
+        ]
+      }
+    },
+    {
+      "id": "tp9oasNh",
+      "date": "2025-09-20T16:00:00.000Z",
+      "round": "Round 2",
+      "homeTeam": "Bahrain SC",
+      "awayTeam": "Al Hidd",
+      "homeScore": 1,
+      "awayScore": 3,
+      "htHome": 0,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "fglVditP",
+      "date": "2025-09-19T13:50:00.000Z",
+      "round": "Round 2",
+      "homeTeam": "Al-Najma Manama",
+      "awayTeam": "A'ali Club",
+      "homeScore": 0,
+      "awayScore": 3,
+      "htHome": 0,
+      "htAway": 2,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "zm6w13ht",
+      "date": "2025-09-19T13:50:00.000Z",
+      "round": "Round 2",
+      "homeTeam": "Malkiya",
+      "awayTeam": "Al Budaiya",
+      "homeScore": 2,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "2RgS9WW0",
+      "date": "2025-09-13T16:00:00.000Z",
+      "round": "Round 1",
+      "homeTeam": "Al Budaiya",
+      "awayTeam": "Al Shabab Manama",
+      "homeScore": 1,
+      "awayScore": 1,
+      "htHome": 1,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "x21tJzAE",
+      "date": "2025-09-13T16:00:00.000Z",
+      "round": "Round 1",
+      "homeTeam": "Al-Riffa",
+      "awayTeam": "Al-Najma Manama",
+      "homeScore": 1,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "OWvNVDgK",
+      "date": "2025-09-12T14:00:00.000Z",
+      "round": "Round 1",
+      "homeTeam": "Al Khalidiyah",
+      "awayTeam": "A'ali Club",
+      "homeScore": 1,
+      "awayScore": 0,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "bgmy8A1D",
+      "date": "2025-09-12T14:00:00.000Z",
+      "round": "Round 1",
+      "homeTeam": "Al-Muharraq",
+      "awayTeam": "Al-Ahli Manama",
+      "homeScore": 3,
+      "awayScore": 0,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Red cards": [
+          "0",
+          "1"
+        ]
+      }
+    },
+    {
+      "id": "UDeKBh2l",
+      "date": "2025-09-11T16:00:00.000Z",
+      "round": "Round 1",
+      "homeTeam": "Al Hidd",
+      "awayTeam": "Malkiya",
+      "homeScore": 2,
+      "awayScore": 2,
+      "htHome": 1,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "ATEmHEvR",
+      "date": "2025-09-11T16:00:00.000Z",
+      "round": "Round 1",
+      "homeTeam": "Sitra",
+      "awayTeam": "Bahrain SC",
+      "homeScore": 4,
+      "awayScore": 1,
+      "htHome": 2,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {}
+    }
+  ]
+}

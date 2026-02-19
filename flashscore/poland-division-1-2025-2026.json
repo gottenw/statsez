@@ -1,0 +1,10169 @@
+{
+  "league": "Division 1",
+  "country": "poland",
+  "season": "2025-2026",
+  "collectedAt": "2026-02-10T17:46:45.455Z",
+  "totalMatches": 184,
+  "matches": [
+    {
+      "id": "QTbypQJ0",
+      "date": "2026-02-09T18:30:00.000Z",
+      "round": "Round 20",
+      "homeTeam": "Chrobry Glogow",
+      "awayTeam": "Stal Rzeszow",
+      "homeScore": 1,
+      "awayScore": 1,
+      "htHome": 1,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "38%",
+          "62%"
+        ],
+        "Total shots": [
+          "9",
+          "6"
+        ],
+        "Shots on target": [
+          "4",
+          "3"
+        ],
+        "Corner kicks": [
+          "3",
+          "16"
+        ],
+        "Yellow cards": [
+          "2",
+          "1"
+        ],
+        "Shots off target": [
+          "5",
+          "3"
+        ],
+        "Offsides": [
+          "0",
+          "0"
+        ],
+        "Free kicks": [
+          "9",
+          "17"
+        ],
+        "Throw ins": [
+          "13",
+          "22"
+        ],
+        "Fouls": [
+          "17",
+          "8"
+        ]
+      }
+    },
+    {
+      "id": "dQ8KqHPH",
+      "date": "2026-02-08T16:30:00.000Z",
+      "round": "Round 20",
+      "homeTeam": "Puszcza Niepolomice",
+      "awayTeam": "Gornik Leczna",
+      "homeScore": 2,
+      "awayScore": 1,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "45%",
+          "55%"
+        ],
+        "Total shots": [
+          "11",
+          "18"
+        ],
+        "Shots on target": [
+          "5",
+          "8"
+        ],
+        "Corner kicks": [
+          "2",
+          "6"
+        ],
+        "Yellow cards": [
+          "3",
+          "2"
+        ],
+        "Shots off target": [
+          "6",
+          "10"
+        ],
+        "Offsides": [
+          "0",
+          "1"
+        ],
+        "Free kicks": [
+          "7",
+          "18"
+        ],
+        "Throw ins": [
+          "22",
+          "20"
+        ],
+        "Fouls": [
+          "17",
+          "6"
+        ]
+      }
+    },
+    {
+      "id": "Uw7SsefU",
+      "date": "2026-02-08T13:30:00.000Z",
+      "round": "Round 20",
+      "homeTeam": "Ruch Chorzow",
+      "awayTeam": "Slask Wroclaw",
+      "homeScore": 2,
+      "awayScore": 2,
+      "htHome": 1,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "60%",
+          "40%"
+        ],
+        "Total shots": [
+          "15",
+          "4"
+        ],
+        "Shots on target": [
+          "5",
+          "2"
+        ],
+        "Corner kicks": [
+          "5",
+          "6"
+        ],
+        "Yellow cards": [
+          "2",
+          "5"
+        ],
+        "Shots off target": [
+          "10",
+          "2"
+        ],
+        "Offsides": [
+          "2",
+          "0"
+        ],
+        "Free kicks": [
+          "15",
+          "15"
+        ],
+        "Throw ins": [
+          "16",
+          "16"
+        ],
+        "Fouls": [
+          "13",
+          "15"
+        ]
+      }
+    },
+    {
+      "id": "0bFBowe5",
+      "date": "2026-02-08T11:00:00.000Z",
+      "round": "Round 20",
+      "homeTeam": "Polonia Warsaw",
+      "awayTeam": "Stal Mielec",
+      "homeScore": 5,
+      "awayScore": 2,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "58%",
+          "42%"
+        ],
+        "Total shots": [
+          "18",
+          "9"
+        ],
+        "Shots on target": [
+          "8",
+          "3"
+        ],
+        "Corner kicks": [
+          "8",
+          "3"
+        ],
+        "Yellow cards": [
+          "1",
+          "2"
+        ],
+        "Shots off target": [
+          "10",
+          "6"
+        ],
+        "Offsides": [
+          "2",
+          "2"
+        ],
+        "Free kicks": [
+          "16",
+          "12"
+        ],
+        "Throw ins": [
+          "12",
+          "24"
+        ],
+        "Fouls": [
+          "9",
+          "14"
+        ]
+      }
+    },
+    {
+      "id": "Mehpr4lD",
+      "date": "2026-02-07T18:30:00.000Z",
+      "round": "Round 20",
+      "homeTeam": "Miedz Legnica",
+      "awayTeam": "Pogon Grodzisk Mazowiecki",
+      "homeScore": 1,
+      "awayScore": 1,
+      "htHome": 1,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "55%",
+          "45%"
+        ],
+        "Total shots": [
+          "12",
+          "10"
+        ],
+        "Shots on target": [
+          "2",
+          "3"
+        ],
+        "Corner kicks": [
+          "14",
+          "4"
+        ],
+        "Yellow cards": [
+          "3",
+          "1"
+        ],
+        "Shots off target": [
+          "10",
+          "7"
+        ],
+        "Offsides": [
+          "1",
+          "0"
+        ],
+        "Free kicks": [
+          "11",
+          "15"
+        ],
+        "Throw ins": [
+          "20",
+          "19"
+        ],
+        "Fouls": [
+          "13",
+          "11"
+        ]
+      }
+    },
+    {
+      "id": "hYB3maQh",
+      "date": "2026-02-07T18:30:00.000Z",
+      "round": "Round 20",
+      "homeTeam": "Polonia Bytom",
+      "awayTeam": "LKS Lodz",
+      "homeScore": 2,
+      "awayScore": 3,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "52%",
+          "48%"
+        ],
+        "Total shots": [
+          "12",
+          "11"
+        ],
+        "Shots on target": [
+          "5",
+          "6"
+        ],
+        "Corner kicks": [
+          "5",
+          "6"
+        ],
+        "Yellow cards": [
+          "2",
+          "1"
+        ],
+        "Shots off target": [
+          "7",
+          "5"
+        ],
+        "Offsides": [
+          "0",
+          "0"
+        ],
+        "Free kicks": [
+          "21",
+          "12"
+        ],
+        "Throw ins": [
+          "16",
+          "19"
+        ],
+        "Fouls": [
+          "11",
+          "21"
+        ]
+      }
+    },
+    {
+      "id": "v52w0xAb",
+      "date": "2026-02-07T18:30:00.000Z",
+      "round": "Round 20",
+      "homeTeam": "Znicz Pruszków",
+      "awayTeam": "Wieczysta Krakow",
+      "homeScore": 2,
+      "awayScore": 3,
+      "htHome": 1,
+      "htAway": 3,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "47%",
+          "53%"
+        ],
+        "Total shots": [
+          "17",
+          "7"
+        ],
+        "Shots on target": [
+          "7",
+          "3"
+        ],
+        "Corner kicks": [
+          "6",
+          "4"
+        ],
+        "Yellow cards": [
+          "1",
+          "3"
+        ],
+        "Shots off target": [
+          "10",
+          "4"
+        ],
+        "Offsides": [
+          "4",
+          "1"
+        ],
+        "Free kicks": [
+          "9",
+          "11"
+        ],
+        "Throw ins": [
+          "16",
+          "24"
+        ],
+        "Fouls": [
+          "8",
+          "8"
+        ]
+      }
+    },
+    {
+      "id": "WvaV1bun",
+      "date": "2026-02-06T19:30:00.000Z",
+      "round": "Round 20",
+      "homeTeam": "Wisla Krakow",
+      "awayTeam": "GKS Tychy 71",
+      "homeScore": 3,
+      "awayScore": 1,
+      "htHome": 2,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "56%",
+          "44%"
+        ],
+        "Total shots": [
+          "7",
+          "4"
+        ],
+        "Shots on target": [
+          "3",
+          "2"
+        ],
+        "Corner kicks": [
+          "1",
+          "5"
+        ],
+        "Yellow cards": [
+          "1",
+          "4"
+        ],
+        "Red cards": [
+          "1",
+          "1"
+        ],
+        "Shots off target": [
+          "4",
+          "2"
+        ],
+        "Offsides": [
+          "1",
+          "0"
+        ],
+        "Free kicks": [
+          "10",
+          "11"
+        ],
+        "Throw ins": [
+          "25",
+          "26"
+        ],
+        "Fouls": [
+          "10",
+          "8"
+        ]
+      }
+    },
+    {
+      "id": "WINfkLet",
+      "date": "2026-02-06T17:00:00.000Z",
+      "round": "Round 20",
+      "homeTeam": "Odra Opole",
+      "awayTeam": "MKP Pogon Siedlce",
+      "homeScore": 1,
+      "awayScore": 0,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "58%",
+          "42%"
+        ],
+        "Total shots": [
+          "9",
+          "13"
+        ],
+        "Shots on target": [
+          "4",
+          "1"
+        ],
+        "Corner kicks": [
+          "8",
+          "4"
+        ],
+        "Yellow cards": [
+          "4",
+          "3"
+        ],
+        "Shots off target": [
+          "5",
+          "12"
+        ],
+        "Offsides": [
+          "2",
+          "0"
+        ],
+        "Free kicks": [
+          "9",
+          "15"
+        ],
+        "Throw ins": [
+          "20",
+          "17"
+        ],
+        "Fouls": [
+          "12",
+          "9"
+        ]
+      }
+    },
+    {
+      "id": "hG0Tonkl",
+      "date": "2025-12-08T18:00:00.000Z",
+      "round": "Round 19",
+      "homeTeam": "Slask Wroclaw",
+      "awayTeam": "Stal Rzeszow",
+      "homeScore": 1,
+      "awayScore": 1,
+      "htHome": 1,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "53%",
+          "47%"
+        ],
+        "Total shots": [
+          "11",
+          "10"
+        ],
+        "Shots on target": [
+          "7",
+          "4"
+        ],
+        "Corner kicks": [
+          "13",
+          "5"
+        ],
+        "Yellow cards": [
+          "2",
+          "0"
+        ],
+        "Shots off target": [
+          "4",
+          "6"
+        ],
+        "Offsides": [
+          "2",
+          "2"
+        ],
+        "Free kicks": [
+          "12",
+          "17"
+        ],
+        "Throw ins": [
+          "14",
+          "21"
+        ],
+        "Fouls": [
+          "0",
+          "0"
+        ]
+      }
+    },
+    {
+      "id": "ATK8drn9",
+      "date": "2025-12-07T19:15:00.000Z",
+      "round": "Round 19",
+      "homeTeam": "Gornik Leczna",
+      "awayTeam": "Ruch Chorzow",
+      "homeScore": 0,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "46%",
+          "54%"
+        ],
+        "Total shots": [
+          "12",
+          "11"
+        ],
+        "Shots on target": [
+          "3",
+          "3"
+        ],
+        "Corner kicks": [
+          "3",
+          "7"
+        ],
+        "Yellow cards": [
+          "5",
+          "3"
+        ],
+        "Shots off target": [
+          "9",
+          "8"
+        ],
+        "Offsides": [
+          "1",
+          "0"
+        ],
+        "Free kicks": [
+          "16",
+          "13"
+        ],
+        "Throw ins": [
+          "23",
+          "30"
+        ],
+        "Fouls": [
+          "11",
+          "16"
+        ]
+      }
+    },
+    {
+      "id": "nFLlgUdE",
+      "date": "2025-12-07T16:30:00.000Z",
+      "round": "Round 19",
+      "homeTeam": "Polonia Bytom",
+      "awayTeam": "Chrobry Glogow",
+      "homeScore": 2,
+      "awayScore": 0,
+      "htHome": 2,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "57%",
+          "43%"
+        ],
+        "Total shots": [
+          "12",
+          "13"
+        ],
+        "Shots on target": [
+          "7",
+          "4"
+        ],
+        "Corner kicks": [
+          "7",
+          "7"
+        ],
+        "Yellow cards": [
+          "4",
+          "4"
+        ],
+        "Shots off target": [
+          "5",
+          "9"
+        ],
+        "Offsides": [
+          "0",
+          "0"
+        ],
+        "Free kicks": [
+          "10",
+          "10"
+        ],
+        "Throw ins": [
+          "15",
+          "15"
+        ],
+        "Fouls": [
+          "10",
+          "10"
+        ]
+      }
+    },
+    {
+      "id": "4SDHfMGL",
+      "date": "2025-12-07T13:30:00.000Z",
+      "round": "Round 19",
+      "homeTeam": "LKS Lodz",
+      "awayTeam": "Wisla Krakow",
+      "homeScore": 1,
+      "awayScore": 1,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "49%",
+          "51%"
+        ],
+        "Total shots": [
+          "7",
+          "10"
+        ],
+        "Shots on target": [
+          "2",
+          "3"
+        ],
+        "Corner kicks": [
+          "2",
+          "8"
+        ],
+        "Yellow cards": [
+          "2",
+          "1"
+        ],
+        "Shots off target": [
+          "5",
+          "7"
+        ],
+        "Offsides": [
+          "1",
+          "1"
+        ],
+        "Free kicks": [
+          "16",
+          "20"
+        ],
+        "Throw ins": [
+          "12",
+          "19"
+        ],
+        "Fouls": [
+          "19",
+          "15"
+        ]
+      }
+    },
+    {
+      "id": "YVJdi8RQ",
+      "date": "2025-12-07T11:00:00.000Z",
+      "round": "Round 19",
+      "homeTeam": "Stal Mielec",
+      "awayTeam": "Znicz Pruszków",
+      "homeScore": 1,
+      "awayScore": 2,
+      "htHome": 0,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "50%",
+          "50%"
+        ],
+        "Total shots": [
+          "4",
+          "4"
+        ],
+        "Shots on target": [
+          "1",
+          "3"
+        ],
+        "Corner kicks": [
+          "7",
+          "5"
+        ],
+        "Yellow cards": [
+          "4",
+          "3"
+        ],
+        "Shots off target": [
+          "3",
+          "1"
+        ],
+        "Offsides": [
+          "1",
+          "1"
+        ],
+        "Free kicks": [
+          "8",
+          "17"
+        ],
+        "Throw ins": [
+          "26",
+          "22"
+        ],
+        "Fouls": [
+          "16",
+          "7"
+        ]
+      }
+    },
+    {
+      "id": "dQhdmv9e",
+      "date": "2025-12-06T15:30:00.000Z",
+      "round": "Round 19",
+      "homeTeam": "Pogon Grodzisk Mazowiecki",
+      "awayTeam": "Puszcza Niepolomice",
+      "homeScore": 1,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "50%",
+          "50%"
+        ],
+        "Total shots": [
+          "9",
+          "10"
+        ],
+        "Shots on target": [
+          "6",
+          "3"
+        ],
+        "Corner kicks": [
+          "1",
+          "6"
+        ],
+        "Yellow cards": [
+          "4",
+          "5"
+        ],
+        "Shots off target": [
+          "3",
+          "7"
+        ],
+        "Offsides": [
+          "0",
+          "0"
+        ],
+        "Free kicks": [
+          "21",
+          "17"
+        ],
+        "Throw ins": [
+          "23",
+          "22"
+        ],
+        "Fouls": [
+          "16",
+          "21"
+        ]
+      }
+    },
+    {
+      "id": "0bamk0vq",
+      "date": "2025-12-06T15:30:00.000Z",
+      "round": "Round 19",
+      "homeTeam": "Miedz Legnica",
+      "awayTeam": "Odra Opole",
+      "homeScore": 2,
+      "awayScore": 1,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "45%",
+          "55%"
+        ],
+        "Total shots": [
+          "14",
+          "13"
+        ],
+        "Shots on target": [
+          "3",
+          "5"
+        ],
+        "Corner kicks": [
+          "5",
+          "9"
+        ],
+        "Yellow cards": [
+          "6",
+          "2"
+        ],
+        "Shots off target": [
+          "11",
+          "8"
+        ],
+        "Offsides": [
+          "1",
+          "1"
+        ],
+        "Free kicks": [
+          "15",
+          "20"
+        ],
+        "Throw ins": [
+          "23",
+          "15"
+        ],
+        "Fouls": [
+          "18",
+          "14"
+        ]
+      }
+    },
+    {
+      "id": "4jd4oIw8",
+      "date": "2025-12-06T15:30:00.000Z",
+      "round": "Round 19",
+      "homeTeam": "MKP Pogon Siedlce",
+      "awayTeam": "Wieczysta Krakow",
+      "homeScore": 0,
+      "awayScore": 2,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "43%",
+          "57%"
+        ],
+        "Total shots": [
+          "12",
+          "6"
+        ],
+        "Shots on target": [
+          "4",
+          "4"
+        ],
+        "Corner kicks": [
+          "7",
+          "7"
+        ],
+        "Yellow cards": [
+          "1",
+          "2"
+        ],
+        "Shots off target": [
+          "8",
+          "2"
+        ],
+        "Offsides": [
+          "1",
+          "2"
+        ],
+        "Free kicks": [
+          "21",
+          "10"
+        ],
+        "Throw ins": [
+          "12",
+          "19"
+        ],
+        "Fouls": [
+          "9",
+          "19"
+        ]
+      }
+    },
+    {
+      "id": "rNSMYvf2",
+      "date": "2025-12-05T17:00:00.000Z",
+      "round": "Round 19",
+      "homeTeam": "GKS Tychy 71",
+      "awayTeam": "Polonia Warsaw",
+      "homeScore": 1,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "52%",
+          "48%"
+        ],
+        "Total shots": [
+          "17",
+          "9"
+        ],
+        "Shots on target": [
+          "4",
+          "3"
+        ],
+        "Corner kicks": [
+          "5",
+          "2"
+        ],
+        "Yellow cards": [
+          "4",
+          "0"
+        ],
+        "Red cards": [
+          "1",
+          "0"
+        ],
+        "Shots off target": [
+          "13",
+          "6"
+        ],
+        "Offsides": [
+          "0",
+          "2"
+        ],
+        "Free kicks": [
+          "13",
+          "7"
+        ],
+        "Throw ins": [
+          "28",
+          "24"
+        ],
+        "Fouls": [
+          "0",
+          "0"
+        ]
+      }
+    },
+    {
+      "id": "CbKZq523",
+      "date": "2025-12-01T16:00:00.000Z",
+      "round": "Round 18",
+      "homeTeam": "Stal Rzeszow",
+      "awayTeam": "Pogon Grodzisk Mazowiecki",
+      "homeScore": 1,
+      "awayScore": 0,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "54%",
+          "46%"
+        ],
+        "Total shots": [
+          "15",
+          "15"
+        ],
+        "Shots on target": [
+          "6",
+          "8"
+        ],
+        "Corner kicks": [
+          "9",
+          "7"
+        ],
+        "Yellow cards": [
+          "3",
+          "1"
+        ],
+        "Red cards": [
+          "1",
+          "0"
+        ],
+        "Shots off target": [
+          "9",
+          "7"
+        ],
+        "Offsides": [
+          "0",
+          "0"
+        ],
+        "Free kicks": [
+          "12",
+          "12"
+        ],
+        "Throw ins": [
+          "17",
+          "17"
+        ],
+        "Fouls": [
+          "0",
+          "0"
+        ]
+      }
+    },
+    {
+      "id": "jPmrtN1S",
+      "date": "2025-11-30T19:15:00.000Z",
+      "round": "Round 18",
+      "homeTeam": "Wisla Krakow",
+      "awayTeam": "Stal Mielec",
+      "homeScore": 3,
+      "awayScore": 0,
+      "htHome": 3,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "59%",
+          "41%"
+        ],
+        "Total shots": [
+          "21",
+          "5"
+        ],
+        "Shots on target": [
+          "11",
+          "3"
+        ],
+        "Corner kicks": [
+          "16",
+          "9"
+        ],
+        "Yellow cards": [
+          "2",
+          "3"
+        ],
+        "Shots off target": [
+          "10",
+          "2"
+        ],
+        "Offsides": [
+          "0",
+          "0"
+        ],
+        "Free kicks": [
+          "5",
+          "13"
+        ],
+        "Throw ins": [
+          "10",
+          "13"
+        ],
+        "Fouls": [
+          "13",
+          "5"
+        ]
+      }
+    },
+    {
+      "id": "pCIsrqXF",
+      "date": "2025-11-30T13:30:00.000Z",
+      "round": "Round 18",
+      "homeTeam": "Wieczysta Krakow",
+      "awayTeam": "Slask Wroclaw",
+      "homeScore": 3,
+      "awayScore": 3,
+      "htHome": 2,
+      "htAway": 2,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "52%",
+          "48%"
+        ],
+        "Total shots": [
+          "9",
+          "8"
+        ],
+        "Shots on target": [
+          "5",
+          "4"
+        ],
+        "Corner kicks": [
+          "3",
+          "5"
+        ],
+        "Yellow cards": [
+          "3",
+          "1"
+        ],
+        "Shots off target": [
+          "4",
+          "4"
+        ],
+        "Offsides": [
+          "0",
+          "0"
+        ],
+        "Free kicks": [
+          "12",
+          "8"
+        ],
+        "Throw ins": [
+          "27",
+          "21"
+        ],
+        "Fouls": [
+          "8",
+          "11"
+        ]
+      }
+    },
+    {
+      "id": "M7vEz1Pk",
+      "date": "2025-11-30T11:00:00.000Z",
+      "round": "Round 18",
+      "homeTeam": "Znicz Pruszków",
+      "awayTeam": "LKS Lodz",
+      "homeScore": 1,
+      "awayScore": 1,
+      "htHome": 1,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "49%",
+          "51%"
+        ],
+        "Total shots": [
+          "8",
+          "10"
+        ],
+        "Shots on target": [
+          "2",
+          "4"
+        ],
+        "Corner kicks": [
+          "5",
+          "5"
+        ],
+        "Yellow cards": [
+          "1",
+          "1"
+        ],
+        "Shots off target": [
+          "6",
+          "6"
+        ],
+        "Offsides": [
+          "1",
+          "1"
+        ],
+        "Free kicks": [
+          "17",
+          "15"
+        ],
+        "Throw ins": [
+          "25",
+          "24"
+        ],
+        "Fouls": [
+          "13",
+          "16"
+        ]
+      }
+    },
+    {
+      "id": "bef0V5mA",
+      "date": "2025-11-29T18:30:00.000Z",
+      "round": "Round 18",
+      "homeTeam": "Odra Opole",
+      "awayTeam": "Chrobry Glogow",
+      "homeScore": 0,
+      "awayScore": 2,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "45%",
+          "55%"
+        ],
+        "Total shots": [
+          "14",
+          "13"
+        ],
+        "Shots on target": [
+          "3",
+          "4"
+        ],
+        "Corner kicks": [
+          "2",
+          "2"
+        ],
+        "Yellow cards": [
+          "1",
+          "1"
+        ],
+        "Shots off target": [
+          "11",
+          "9"
+        ],
+        "Offsides": [
+          "1",
+          "1"
+        ],
+        "Free kicks": [
+          "15",
+          "11"
+        ],
+        "Throw ins": [
+          "14",
+          "20"
+        ],
+        "Fouls": [
+          "10",
+          "14"
+        ]
+      }
+    },
+    {
+      "id": "lQYvONup",
+      "date": "2025-11-29T18:30:00.000Z",
+      "round": "Round 18",
+      "homeTeam": "Polonia Warsaw",
+      "awayTeam": "MKP Pogon Siedlce",
+      "homeScore": 2,
+      "awayScore": 0,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "60%",
+          "40%"
+        ],
+        "Total shots": [
+          "10",
+          "7"
+        ],
+        "Shots on target": [
+          "3",
+          "3"
+        ],
+        "Corner kicks": [
+          "6",
+          "1"
+        ],
+        "Shots off target": [
+          "7",
+          "4"
+        ],
+        "Offsides": [
+          "0",
+          "1"
+        ],
+        "Free kicks": [
+          "20",
+          "17"
+        ],
+        "Throw ins": [
+          "13",
+          "21"
+        ],
+        "Fouls": [
+          "17",
+          "19"
+        ]
+      }
+    },
+    {
+      "id": "djxmM1Ad",
+      "date": "2025-11-29T18:30:00.000Z",
+      "round": "Round 18",
+      "homeTeam": "Ruch Chorzow",
+      "awayTeam": "Puszcza Niepolomice",
+      "homeScore": 2,
+      "awayScore": 0,
+      "htHome": 2,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "52%",
+          "48%"
+        ],
+        "Total shots": [
+          "13",
+          "6"
+        ],
+        "Shots on target": [
+          "4",
+          "1"
+        ],
+        "Corner kicks": [
+          "1",
+          "2"
+        ],
+        "Yellow cards": [
+          "1",
+          "4"
+        ],
+        "Shots off target": [
+          "9",
+          "5"
+        ],
+        "Offsides": [
+          "0",
+          "3"
+        ],
+        "Free kicks": [
+          "22",
+          "12"
+        ],
+        "Throw ins": [
+          "20",
+          "20"
+        ],
+        "Fouls": [
+          "12",
+          "19"
+        ]
+      }
+    },
+    {
+      "id": "2T0iXRIc",
+      "date": "2025-11-28T19:30:00.000Z",
+      "round": "Round 18",
+      "homeTeam": "Miedz Legnica",
+      "awayTeam": "GKS Tychy 71",
+      "homeScore": 6,
+      "awayScore": 1,
+      "htHome": 4,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "52%",
+          "48%"
+        ],
+        "Total shots": [
+          "24",
+          "5"
+        ],
+        "Shots on target": [
+          "9",
+          "1"
+        ],
+        "Corner kicks": [
+          "5",
+          "3"
+        ],
+        "Shots off target": [
+          "15",
+          "4"
+        ],
+        "Offsides": [
+          "0",
+          "0"
+        ],
+        "Free kicks": [
+          "8",
+          "13"
+        ],
+        "Throw ins": [
+          "23",
+          "22"
+        ],
+        "Fouls": [
+          "13",
+          "8"
+        ]
+      }
+    },
+    {
+      "id": "4hc8TqIM",
+      "date": "2025-11-28T17:00:00.000Z",
+      "round": "Round 18",
+      "homeTeam": "Polonia Bytom",
+      "awayTeam": "Gornik Leczna",
+      "homeScore": 2,
+      "awayScore": 2,
+      "htHome": 0,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "58%",
+          "42%"
+        ],
+        "Total shots": [
+          "16",
+          "7"
+        ],
+        "Shots on target": [
+          "9",
+          "3"
+        ],
+        "Corner kicks": [
+          "9",
+          "5"
+        ],
+        "Yellow cards": [
+          "2",
+          "1"
+        ],
+        "Shots off target": [
+          "7",
+          "4"
+        ],
+        "Offsides": [
+          "3",
+          "0"
+        ],
+        "Free kicks": [
+          "8",
+          "14"
+        ],
+        "Throw ins": [
+          "19",
+          "14"
+        ],
+        "Fouls": [
+          "11",
+          "8"
+        ]
+      }
+    },
+    {
+      "id": "829GVEsg",
+      "date": "2025-11-23T18:30:00.000Z",
+      "round": "Round 17",
+      "homeTeam": "Polonia Warsaw",
+      "awayTeam": "Odra Opole",
+      "homeScore": 1,
+      "awayScore": 0,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "53%",
+          "47%"
+        ],
+        "Total shots": [
+          "15",
+          "13"
+        ],
+        "Shots on target": [
+          "5",
+          "4"
+        ],
+        "Corner kicks": [
+          "7",
+          "3"
+        ],
+        "Yellow cards": [
+          "1",
+          "2"
+        ],
+        "Shots off target": [
+          "10",
+          "9"
+        ],
+        "Offsides": [
+          "1",
+          "2"
+        ],
+        "Free kicks": [
+          "16",
+          "4"
+        ],
+        "Throw ins": [
+          "18",
+          "13"
+        ],
+        "Fouls": [
+          "3",
+          "14"
+        ]
+      }
+    },
+    {
+      "id": "8lUsHFSa",
+      "date": "2025-11-23T16:00:00.000Z",
+      "round": "Round 17",
+      "homeTeam": "Gornik Leczna",
+      "awayTeam": "LKS Lodz",
+      "homeScore": 1,
+      "awayScore": 2,
+      "htHome": 0,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "52%",
+          "48%"
+        ],
+        "Total shots": [
+          "15",
+          "11"
+        ],
+        "Shots on target": [
+          "2",
+          "2"
+        ],
+        "Corner kicks": [
+          "5",
+          "2"
+        ],
+        "Yellow cards": [
+          "3",
+          "1"
+        ],
+        "Shots off target": [
+          "13",
+          "9"
+        ],
+        "Offsides": [
+          "1",
+          "2"
+        ],
+        "Free kicks": [
+          "15",
+          "9"
+        ],
+        "Throw ins": [
+          "16",
+          "8"
+        ],
+        "Fouls": [
+          "8",
+          "11"
+        ]
+      }
+    },
+    {
+      "id": "MBzbDXRO",
+      "date": "2025-11-23T13:30:00.000Z",
+      "round": "Round 17",
+      "homeTeam": "MKP Pogon Siedlce",
+      "awayTeam": "Wisla Krakow",
+      "homeScore": 0,
+      "awayScore": 0,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "42%",
+          "58%"
+        ],
+        "Total shots": [
+          "8",
+          "17"
+        ],
+        "Shots on target": [
+          "5",
+          "6"
+        ],
+        "Corner kicks": [
+          "4",
+          "8"
+        ],
+        "Yellow cards": [
+          "5",
+          "4"
+        ],
+        "Shots off target": [
+          "3",
+          "11"
+        ],
+        "Offsides": [
+          "3",
+          "0"
+        ],
+        "Free kicks": [
+          "16",
+          "13"
+        ],
+        "Throw ins": [
+          "18",
+          "21"
+        ],
+        "Fouls": [
+          "10",
+          "16"
+        ]
+      }
+    },
+    {
+      "id": "GYeXRWtI",
+      "date": "2025-11-23T11:00:00.000Z",
+      "round": "Round 17",
+      "homeTeam": "Ruch Chorzow",
+      "awayTeam": "Znicz Pruszków",
+      "homeScore": 1,
+      "awayScore": 2,
+      "htHome": 0,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "59%",
+          "41%"
+        ],
+        "Total shots": [
+          "9",
+          "4"
+        ],
+        "Shots on target": [
+          "7",
+          "2"
+        ],
+        "Corner kicks": [
+          "5",
+          "7"
+        ],
+        "Yellow cards": [
+          "1",
+          "2"
+        ],
+        "Shots off target": [
+          "2",
+          "2"
+        ],
+        "Offsides": [
+          "1",
+          "2"
+        ],
+        "Free kicks": [
+          "14",
+          "14"
+        ],
+        "Throw ins": [
+          "27",
+          "23"
+        ],
+        "Fouls": [
+          "13",
+          "10"
+        ]
+      }
+    },
+    {
+      "id": "0OQZIybm",
+      "date": "2025-11-22T18:30:00.000Z",
+      "round": "Round 17",
+      "homeTeam": "Chrobry Glogow",
+      "awayTeam": "Wieczysta Krakow",
+      "homeScore": 1,
+      "awayScore": 2,
+      "htHome": 1,
+      "htAway": 2,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "55%",
+          "45%"
+        ],
+        "Total shots": [
+          "16",
+          "8"
+        ],
+        "Shots on target": [
+          "8",
+          "4"
+        ],
+        "Corner kicks": [
+          "4",
+          "3"
+        ],
+        "Yellow cards": [
+          "0",
+          "1"
+        ],
+        "Shots off target": [
+          "8",
+          "4"
+        ],
+        "Offsides": [
+          "0",
+          "0"
+        ],
+        "Free kicks": [
+          "9",
+          "15"
+        ],
+        "Throw ins": [
+          "21",
+          "20"
+        ],
+        "Fouls": [
+          "14",
+          "8"
+        ]
+      }
+    },
+    {
+      "id": "0x68XzDt",
+      "date": "2025-11-22T18:30:00.000Z",
+      "round": "Round 17",
+      "homeTeam": "Polonia Bytom",
+      "awayTeam": "Stal Mielec",
+      "homeScore": 4,
+      "awayScore": 1,
+      "htHome": 2,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "52%",
+          "48%"
+        ],
+        "Total shots": [
+          "8",
+          "8"
+        ],
+        "Shots on target": [
+          "6",
+          "4"
+        ],
+        "Corner kicks": [
+          "5",
+          "3"
+        ],
+        "Yellow cards": [
+          "0",
+          "1"
+        ],
+        "Shots off target": [
+          "2",
+          "4"
+        ],
+        "Offsides": [
+          "1",
+          "1"
+        ],
+        "Free kicks": [
+          "5",
+          "11"
+        ],
+        "Throw ins": [
+          "17",
+          "17"
+        ],
+        "Fouls": [
+          "9",
+          "4"
+        ]
+      }
+    },
+    {
+      "id": "AZD59OQj",
+      "date": "2025-11-22T18:30:00.000Z",
+      "round": "Round 17",
+      "homeTeam": "Stal Rzeszow",
+      "awayTeam": "GKS Tychy 71",
+      "homeScore": 2,
+      "awayScore": 1,
+      "htHome": 1,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "51%",
+          "49%"
+        ],
+        "Total shots": [
+          "19",
+          "6"
+        ],
+        "Shots on target": [
+          "7",
+          "3"
+        ],
+        "Corner kicks": [
+          "9",
+          "3"
+        ],
+        "Yellow cards": [
+          "1",
+          "7"
+        ],
+        "Red cards": [
+          "0",
+          "2"
+        ],
+        "Shots off target": [
+          "12",
+          "3"
+        ],
+        "Offsides": [
+          "2",
+          "2"
+        ],
+        "Free kicks": [
+          "14",
+          "10"
+        ],
+        "Throw ins": [
+          "17",
+          "29"
+        ],
+        "Fouls": [
+          "8",
+          "10"
+        ]
+      }
+    },
+    {
+      "id": "lbxjFgcC",
+      "date": "2025-11-21T19:30:00.000Z",
+      "round": "Round 17",
+      "homeTeam": "Pogon Grodzisk Mazowiecki",
+      "awayTeam": "Slask Wroclaw",
+      "homeScore": 2,
+      "awayScore": 2,
+      "htHome": 1,
+      "htAway": 2,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "52%",
+          "48%"
+        ],
+        "Total shots": [
+          "14",
+          "12"
+        ],
+        "Shots on target": [
+          "4",
+          "3"
+        ],
+        "Corner kicks": [
+          "5",
+          "4"
+        ],
+        "Yellow cards": [
+          "0",
+          "3"
+        ],
+        "Shots off target": [
+          "10",
+          "9"
+        ],
+        "Offsides": [
+          "1",
+          "2"
+        ],
+        "Free kicks": [
+          "13",
+          "11"
+        ],
+        "Throw ins": [
+          "23",
+          "19"
+        ],
+        "Fouls": [
+          "10",
+          "11"
+        ]
+      }
+    },
+    {
+      "id": "UHcPThC5",
+      "date": "2025-11-21T17:00:00.000Z",
+      "round": "Round 17",
+      "homeTeam": "Puszcza Niepolomice",
+      "awayTeam": "Miedz Legnica",
+      "homeScore": 1,
+      "awayScore": 3,
+      "htHome": 0,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "49%",
+          "51%"
+        ],
+        "Total shots": [
+          "10",
+          "9"
+        ],
+        "Shots on target": [
+          "6",
+          "7"
+        ],
+        "Corner kicks": [
+          "7",
+          "12"
+        ],
+        "Yellow cards": [
+          "0",
+          "4"
+        ],
+        "Shots off target": [
+          "4",
+          "2"
+        ],
+        "Offsides": [
+          "2",
+          "0"
+        ],
+        "Free kicks": [
+          "16",
+          "15"
+        ],
+        "Throw ins": [
+          "24",
+          "24"
+        ],
+        "Fouls": [
+          "13",
+          "16"
+        ]
+      }
+    },
+    {
+      "id": "naPPiaal",
+      "date": "2025-11-09T16:00:00.000Z",
+      "round": "Round 16",
+      "homeTeam": "GKS Tychy 71",
+      "awayTeam": "Pogon Grodzisk Mazowiecki",
+      "homeScore": 1,
+      "awayScore": 2,
+      "htHome": 1,
+      "htAway": 2,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "47%",
+          "53%"
+        ],
+        "Total shots": [
+          "12",
+          "13"
+        ],
+        "Shots on target": [
+          "7",
+          "6"
+        ],
+        "Corner kicks": [
+          "2",
+          "5"
+        ],
+        "Yellow cards": [
+          "2",
+          "0"
+        ],
+        "Shots off target": [
+          "5",
+          "7"
+        ],
+        "Offsides": [
+          "1",
+          "1"
+        ],
+        "Free kicks": [
+          "8",
+          "16"
+        ],
+        "Throw ins": [
+          "18",
+          "17"
+        ],
+        "Fouls": [
+          "14",
+          "6"
+        ]
+      }
+    },
+    {
+      "id": "dUr84xqf",
+      "date": "2025-11-09T13:30:00.000Z",
+      "round": "Round 16",
+      "homeTeam": "Slask Wroclaw",
+      "awayTeam": "Polonia Bytom",
+      "homeScore": 2,
+      "awayScore": 3,
+      "htHome": 0,
+      "htAway": 2,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "62%",
+          "38%"
+        ],
+        "Total shots": [
+          "21",
+          "5"
+        ],
+        "Shots on target": [
+          "7",
+          "3"
+        ],
+        "Corner kicks": [
+          "14",
+          "3"
+        ],
+        "Yellow cards": [
+          "1",
+          "2"
+        ],
+        "Shots off target": [
+          "14",
+          "2"
+        ],
+        "Offsides": [
+          "0",
+          "2"
+        ],
+        "Free kicks": [
+          "16",
+          "13"
+        ],
+        "Throw ins": [
+          "24",
+          "13"
+        ],
+        "Fouls": [
+          "12",
+          "14"
+        ]
+      }
+    },
+    {
+      "id": "UJbTBKjK",
+      "date": "2025-11-09T11:00:00.000Z",
+      "round": "Round 16",
+      "homeTeam": "Odra Opole",
+      "awayTeam": "Gornik Leczna",
+      "homeScore": 3,
+      "awayScore": 1,
+      "htHome": 1,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "52%",
+          "48%"
+        ],
+        "Total shots": [
+          "14",
+          "4"
+        ],
+        "Shots on target": [
+          "7",
+          "3"
+        ],
+        "Corner kicks": [
+          "2",
+          "7"
+        ],
+        "Yellow cards": [
+          "4",
+          "4"
+        ],
+        "Shots off target": [
+          "7",
+          "1"
+        ],
+        "Offsides": [
+          "4",
+          "2"
+        ],
+        "Free kicks": [
+          "20",
+          "19"
+        ],
+        "Throw ins": [
+          "17",
+          "11"
+        ],
+        "Fouls": [
+          "14",
+          "19"
+        ]
+      }
+    },
+    {
+      "id": "rRIYkwU0",
+      "date": "2025-11-08T18:30:00.000Z",
+      "round": "Round 16",
+      "homeTeam": "LKS Lodz",
+      "awayTeam": "Puszcza Niepolomice",
+      "homeScore": 0,
+      "awayScore": 3,
+      "htHome": 0,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "56%",
+          "44%"
+        ],
+        "Total shots": [
+          "10",
+          "5"
+        ],
+        "Shots on target": [
+          "0",
+          "3"
+        ],
+        "Corner kicks": [
+          "17",
+          "6"
+        ],
+        "Yellow cards": [
+          "1",
+          "3"
+        ],
+        "Shots off target": [
+          "10",
+          "2"
+        ],
+        "Offsides": [
+          "1",
+          "0"
+        ],
+        "Free kicks": [
+          "14",
+          "12"
+        ],
+        "Throw ins": [
+          "21",
+          "17"
+        ],
+        "Fouls": [
+          "10",
+          "14"
+        ]
+      }
+    },
+    {
+      "id": "02ka6bEs",
+      "date": "2025-11-08T18:30:00.000Z",
+      "round": "Round 16",
+      "homeTeam": "Stal Mielec",
+      "awayTeam": "MKP Pogon Siedlce",
+      "homeScore": 0,
+      "awayScore": 0,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "55%",
+          "45%"
+        ],
+        "Total shots": [
+          "18",
+          "12"
+        ],
+        "Shots on target": [
+          "5",
+          "1"
+        ],
+        "Corner kicks": [
+          "9",
+          "5"
+        ],
+        "Yellow cards": [
+          "3",
+          "3"
+        ],
+        "Red cards": [
+          "1",
+          "0"
+        ],
+        "Shots off target": [
+          "13",
+          "11"
+        ],
+        "Offsides": [
+          "1",
+          "0"
+        ],
+        "Free kicks": [
+          "10",
+          "14"
+        ],
+        "Throw ins": [
+          "21",
+          "14"
+        ]
+      }
+    },
+    {
+      "id": "UssG2GD6",
+      "date": "2025-11-08T18:30:00.000Z",
+      "round": "Round 16",
+      "homeTeam": "Wieczysta Krakow",
+      "awayTeam": "Stal Rzeszow",
+      "homeScore": 1,
+      "awayScore": 2,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "47%",
+          "53%"
+        ],
+        "Total shots": [
+          "8",
+          "12"
+        ],
+        "Shots on target": [
+          "1",
+          "4"
+        ],
+        "Corner kicks": [
+          "8",
+          "6"
+        ],
+        "Yellow cards": [
+          "3",
+          "2"
+        ],
+        "Red cards": [
+          "1",
+          "0"
+        ],
+        "Shots off target": [
+          "7",
+          "8"
+        ],
+        "Offsides": [
+          "0",
+          "0"
+        ],
+        "Free kicks": [
+          "9",
+          "9"
+        ],
+        "Throw ins": [
+          "14",
+          "19"
+        ],
+        "Fouls": [
+          "9",
+          "8"
+        ]
+      }
+    },
+    {
+      "id": "lpcH0frJ",
+      "date": "2025-11-08T13:30:00.000Z",
+      "round": "Round 16",
+      "homeTeam": "Wisla Krakow",
+      "awayTeam": "Polonia Warsaw",
+      "homeScore": 1,
+      "awayScore": 2,
+      "htHome": 1,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "58%",
+          "42%"
+        ],
+        "Total shots": [
+          "8",
+          "6"
+        ],
+        "Shots on target": [
+          "3",
+          "3"
+        ],
+        "Corner kicks": [
+          "7",
+          "2"
+        ],
+        "Yellow cards": [
+          "1",
+          "3"
+        ],
+        "Shots off target": [
+          "5",
+          "3"
+        ],
+        "Offsides": [
+          "3",
+          "0"
+        ],
+        "Free kicks": [
+          "16",
+          "23"
+        ],
+        "Throw ins": [
+          "22",
+          "13"
+        ],
+        "Fouls": [
+          "0",
+          "0"
+        ]
+      }
+    },
+    {
+      "id": "Gjk3OczQ",
+      "date": "2025-11-07T19:30:00.000Z",
+      "round": "Round 16",
+      "homeTeam": "Znicz Pruszków",
+      "awayTeam": "Chrobry Glogow",
+      "homeScore": 0,
+      "awayScore": 2,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "46%",
+          "54%"
+        ],
+        "Total shots": [
+          "9",
+          "8"
+        ],
+        "Shots on target": [
+          "0",
+          "3"
+        ],
+        "Corner kicks": [
+          "5",
+          "2"
+        ],
+        "Shots off target": [
+          "9",
+          "5"
+        ],
+        "Offsides": [
+          "4",
+          "2"
+        ],
+        "Free kicks": [
+          "12",
+          "19"
+        ],
+        "Throw ins": [
+          "20",
+          "21"
+        ],
+        "Fouls": [
+          "15",
+          "10"
+        ]
+      }
+    },
+    {
+      "id": "lOLtlHbD",
+      "date": "2025-11-07T16:00:00.000Z",
+      "round": "Round 16",
+      "homeTeam": "Ruch Chorzow",
+      "awayTeam": "Miedz Legnica",
+      "homeScore": 3,
+      "awayScore": 1,
+      "htHome": 2,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "50%",
+          "50%"
+        ],
+        "Total shots": [
+          "10",
+          "11"
+        ],
+        "Shots on target": [
+          "5",
+          "2"
+        ],
+        "Corner kicks": [
+          "3",
+          "4"
+        ],
+        "Yellow cards": [
+          "3",
+          "5"
+        ],
+        "Shots off target": [
+          "5",
+          "9"
+        ],
+        "Offsides": [
+          "0",
+          "2"
+        ],
+        "Free kicks": [
+          "18",
+          "11"
+        ],
+        "Throw ins": [
+          "23",
+          "23"
+        ],
+        "Fouls": [
+          "11",
+          "14"
+        ]
+      }
+    },
+    {
+      "id": "2gr0yvF7",
+      "date": "2025-11-05T16:00:00.000Z",
+      "round": "Round 15",
+      "homeTeam": "Puszcza Niepolomice",
+      "awayTeam": "Stal Mielec",
+      "homeScore": 1,
+      "awayScore": 1,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "40%",
+          "60%"
+        ],
+        "Total shots": [
+          "7",
+          "13"
+        ],
+        "Shots on target": [
+          "3",
+          "3"
+        ],
+        "Corner kicks": [
+          "3",
+          "4"
+        ],
+        "Yellow cards": [
+          "5",
+          "4"
+        ],
+        "Shots off target": [
+          "4",
+          "10"
+        ],
+        "Offsides": [
+          "1",
+          "2"
+        ],
+        "Free kicks": [
+          "9",
+          "14"
+        ],
+        "Throw ins": [
+          "15",
+          "20"
+        ],
+        "Fouls": [
+          "0",
+          "0"
+        ]
+      }
+    },
+    {
+      "id": "YDjquMFr",
+      "date": "2025-11-03T17:45:00.000Z",
+      "round": "Round 15",
+      "homeTeam": "Pogon Grodzisk Mazowiecki",
+      "awayTeam": "Odra Opole",
+      "homeScore": 2,
+      "awayScore": 1,
+      "htHome": 1,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "49%",
+          "51%"
+        ],
+        "Total shots": [
+          "17",
+          "17"
+        ],
+        "Shots on target": [
+          "8",
+          "8"
+        ],
+        "Corner kicks": [
+          "8",
+          "6"
+        ],
+        "Yellow cards": [
+          "2",
+          "5"
+        ],
+        "Shots off target": [
+          "9",
+          "9"
+        ],
+        "Offsides": [
+          "0",
+          "4"
+        ],
+        "Free kicks": [
+          "27",
+          "14"
+        ],
+        "Throw ins": [
+          "16",
+          "19"
+        ],
+        "Fouls": [
+          "14",
+          "23"
+        ]
+      }
+    },
+    {
+      "id": "6az3aj1c",
+      "date": "2025-11-03T17:45:00.000Z",
+      "round": "Round 15",
+      "homeTeam": "LKS Lodz",
+      "awayTeam": "Slask Wroclaw",
+      "homeScore": 2,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "46%",
+          "54%"
+        ],
+        "Total shots": [
+          "7",
+          "8"
+        ],
+        "Shots on target": [
+          "4",
+          "2"
+        ],
+        "Corner kicks": [
+          "5",
+          "5"
+        ],
+        "Yellow cards": [
+          "1",
+          "1"
+        ],
+        "Shots off target": [
+          "3",
+          "6"
+        ],
+        "Offsides": [
+          "0",
+          "1"
+        ],
+        "Free kicks": [
+          "9",
+          "9"
+        ],
+        "Throw ins": [
+          "25",
+          "23"
+        ],
+        "Fouls": [
+          "8",
+          "7"
+        ]
+      }
+    },
+    {
+      "id": "vDYAcUV9",
+      "date": "2025-11-02T19:15:00.000Z",
+      "round": "Round 15",
+      "homeTeam": "Miedz Legnica",
+      "awayTeam": "Wieczysta Krakow",
+      "homeScore": 3,
+      "awayScore": 2,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "38%",
+          "62%"
+        ],
+        "Total shots": [
+          "13",
+          "8"
+        ],
+        "Shots on target": [
+          "6",
+          "7"
+        ],
+        "Corner kicks": [
+          "4",
+          "8"
+        ],
+        "Yellow cards": [
+          "2",
+          "2"
+        ],
+        "Shots off target": [
+          "7",
+          "1"
+        ],
+        "Offsides": [
+          "0",
+          "1"
+        ],
+        "Free kicks": [
+          "9",
+          "13"
+        ],
+        "Throw ins": [
+          "20",
+          "20"
+        ],
+        "Fouls": [
+          "13",
+          "6"
+        ]
+      }
+    },
+    {
+      "id": "tvfiw0pe",
+      "date": "2025-11-02T16:00:00.000Z",
+      "round": "Round 15",
+      "homeTeam": "Polonia Bytom",
+      "awayTeam": "Znicz Pruszków",
+      "homeScore": 2,
+      "awayScore": 0,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "59%",
+          "41%"
+        ],
+        "Total shots": [
+          "19",
+          "6"
+        ],
+        "Shots on target": [
+          "9",
+          "1"
+        ],
+        "Corner kicks": [
+          "7",
+          "5"
+        ],
+        "Yellow cards": [
+          "0",
+          "6"
+        ],
+        "Shots off target": [
+          "10",
+          "5"
+        ],
+        "Offsides": [
+          "2",
+          "0"
+        ],
+        "Free kicks": [
+          "19",
+          "8"
+        ],
+        "Throw ins": [
+          "18",
+          "20"
+        ],
+        "Fouls": [
+          "5",
+          "17"
+        ]
+      }
+    },
+    {
+      "id": "My2ps9oT",
+      "date": "2025-11-02T13:30:00.000Z",
+      "round": "Round 15",
+      "homeTeam": "Chrobry Glogow",
+      "awayTeam": "Wisla Krakow",
+      "homeScore": 0,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "49%",
+          "51%"
+        ],
+        "Total shots": [
+          "6",
+          "18"
+        ],
+        "Shots on target": [
+          "3",
+          "7"
+        ],
+        "Corner kicks": [
+          "4",
+          "12"
+        ],
+        "Yellow cards": [
+          "3",
+          "3"
+        ],
+        "Shots off target": [
+          "3",
+          "11"
+        ],
+        "Offsides": [
+          "0",
+          "2"
+        ],
+        "Free kicks": [
+          "17",
+          "16"
+        ],
+        "Throw ins": [
+          "17",
+          "14"
+        ],
+        "Fouls": [
+          "16",
+          "15"
+        ]
+      }
+    },
+    {
+      "id": "jTwfcLyR",
+      "date": "2025-11-02T11:00:00.000Z",
+      "round": "Round 15",
+      "homeTeam": "Stal Rzeszow",
+      "awayTeam": "MKP Pogon Siedlce",
+      "homeScore": 1,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "50%",
+          "50%"
+        ],
+        "Total shots": [
+          "10",
+          "5"
+        ],
+        "Shots on target": [
+          "3",
+          "2"
+        ],
+        "Corner kicks": [
+          "11",
+          "4"
+        ],
+        "Yellow cards": [
+          "4",
+          "4"
+        ],
+        "Shots off target": [
+          "7",
+          "3"
+        ],
+        "Offsides": [
+          "3",
+          "0"
+        ],
+        "Free kicks": [
+          "16",
+          "19"
+        ],
+        "Throw ins": [
+          "17",
+          "26"
+        ],
+        "Fouls": [
+          "16",
+          "16"
+        ]
+      }
+    },
+    {
+      "id": "f1poas7E",
+      "date": "2025-10-31T19:30:00.000Z",
+      "round": "Round 15",
+      "homeTeam": "Ruch Chorzow",
+      "awayTeam": "GKS Tychy 71",
+      "homeScore": 2,
+      "awayScore": 1,
+      "htHome": 2,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "53%",
+          "47%"
+        ],
+        "Total shots": [
+          "12",
+          "9"
+        ],
+        "Shots on target": [
+          "5",
+          "3"
+        ],
+        "Corner kicks": [
+          "4",
+          "6"
+        ],
+        "Yellow cards": [
+          "1",
+          "1"
+        ],
+        "Shots off target": [
+          "7",
+          "6"
+        ],
+        "Offsides": [
+          "4",
+          "2"
+        ],
+        "Free kicks": [
+          "7",
+          "14"
+        ],
+        "Throw ins": [
+          "21",
+          "18"
+        ],
+        "Fouls": [
+          "0",
+          "0"
+        ]
+      }
+    },
+    {
+      "id": "hKhGym9j",
+      "date": "2025-10-31T17:00:00.000Z",
+      "round": "Round 15",
+      "homeTeam": "Gornik Leczna",
+      "awayTeam": "Polonia Warsaw",
+      "homeScore": 1,
+      "awayScore": 2,
+      "htHome": 1,
+      "htAway": 2,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "47%",
+          "53%"
+        ],
+        "Total shots": [
+          "16",
+          "23"
+        ],
+        "Shots on target": [
+          "5",
+          "8"
+        ],
+        "Corner kicks": [
+          "6",
+          "6"
+        ],
+        "Yellow cards": [
+          "4",
+          "3"
+        ],
+        "Shots off target": [
+          "11",
+          "15"
+        ],
+        "Offsides": [
+          "0",
+          "0"
+        ],
+        "Free kicks": [
+          "12",
+          "12"
+        ],
+        "Throw ins": [
+          "15",
+          "15"
+        ],
+        "Fouls": [
+          "0",
+          "0"
+        ]
+      }
+    },
+    {
+      "id": "YgfSnDHi",
+      "date": "2025-10-27T18:00:00.000Z",
+      "round": "Round 14",
+      "homeTeam": "Wieczysta Krakow",
+      "awayTeam": "Pogon Grodzisk Mazowiecki",
+      "homeScore": 2,
+      "awayScore": 3,
+      "htHome": 2,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "66%",
+          "34%"
+        ],
+        "Total shots": [
+          "6",
+          "10"
+        ],
+        "Shots on target": [
+          "4",
+          "6"
+        ],
+        "Corner kicks": [
+          "9",
+          "5"
+        ],
+        "Yellow cards": [
+          "3",
+          "0"
+        ],
+        "Shots off target": [
+          "2",
+          "4"
+        ],
+        "Offsides": [
+          "2",
+          "0"
+        ],
+        "Free kicks": [
+          "4",
+          "10"
+        ],
+        "Throw ins": [
+          "17",
+          "8"
+        ],
+        "Fouls": [
+          "0",
+          "0"
+        ]
+      }
+    },
+    {
+      "id": "MFQ9UV1N",
+      "date": "2025-10-26T16:00:00.000Z",
+      "round": "Round 14",
+      "homeTeam": "Stal Mielec",
+      "awayTeam": "Miedz Legnica",
+      "homeScore": 1,
+      "awayScore": 2,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "58%",
+          "42%"
+        ],
+        "Total shots": [
+          "8",
+          "10"
+        ],
+        "Shots on target": [
+          "3",
+          "3"
+        ],
+        "Corner kicks": [
+          "5",
+          "13"
+        ],
+        "Yellow cards": [
+          "2",
+          "4"
+        ],
+        "Red cards": [
+          "1",
+          "0"
+        ],
+        "Shots off target": [
+          "5",
+          "7"
+        ],
+        "Offsides": [
+          "2",
+          "2"
+        ],
+        "Free kicks": [
+          "13",
+          "6"
+        ],
+        "Throw ins": [
+          "27",
+          "16"
+        ],
+        "Fouls": [
+          "9",
+          "20"
+        ]
+      }
+    },
+    {
+      "id": "hdATpin4",
+      "date": "2025-10-26T13:30:00.000Z",
+      "round": "Round 14",
+      "homeTeam": "Wisla Krakow",
+      "awayTeam": "Stal Rzeszow",
+      "homeScore": 2,
+      "awayScore": 1,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "51%",
+          "49%"
+        ],
+        "Total shots": [
+          "11",
+          "6"
+        ],
+        "Shots on target": [
+          "5",
+          "2"
+        ],
+        "Corner kicks": [
+          "5",
+          "4"
+        ],
+        "Yellow cards": [
+          "2",
+          "3"
+        ],
+        "Shots off target": [
+          "6",
+          "4"
+        ],
+        "Offsides": [
+          "4",
+          "1"
+        ],
+        "Free kicks": [
+          "9",
+          "16"
+        ],
+        "Throw ins": [
+          "20",
+          "24"
+        ],
+        "Fouls": [
+          "11",
+          "8"
+        ]
+      }
+    },
+    {
+      "id": "KYbwWNLU",
+      "date": "2025-10-26T11:00:00.000Z",
+      "round": "Round 14",
+      "homeTeam": "GKS Tychy 71",
+      "awayTeam": "Chrobry Glogow",
+      "homeScore": 0,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "49%",
+          "51%"
+        ],
+        "Total shots": [
+          "9",
+          "14"
+        ],
+        "Shots on target": [
+          "1",
+          "5"
+        ],
+        "Corner kicks": [
+          "4",
+          "9"
+        ],
+        "Yellow cards": [
+          "4",
+          "1"
+        ],
+        "Shots off target": [
+          "8",
+          "9"
+        ],
+        "Offsides": [
+          "0",
+          "2"
+        ],
+        "Free kicks": [
+          "15",
+          "13"
+        ],
+        "Throw ins": [
+          "18",
+          "13"
+        ],
+        "Fouls": [
+          "0",
+          "0"
+        ]
+      }
+    },
+    {
+      "id": "hzZhYD2b",
+      "date": "2025-10-25T17:30:00.000Z",
+      "round": "Round 14",
+      "homeTeam": "MKP Pogon Siedlce",
+      "awayTeam": "LKS Lodz",
+      "homeScore": 3,
+      "awayScore": 1,
+      "htHome": 1,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "48%",
+          "52%"
+        ],
+        "Total shots": [
+          "11",
+          "5"
+        ],
+        "Shots on target": [
+          "3",
+          "1"
+        ],
+        "Corner kicks": [
+          "3",
+          "7"
+        ],
+        "Yellow cards": [
+          "4",
+          "3"
+        ],
+        "Shots off target": [
+          "8",
+          "4"
+        ],
+        "Offsides": [
+          "1",
+          "1"
+        ],
+        "Free kicks": [
+          "18",
+          "12"
+        ],
+        "Throw ins": [
+          "14",
+          "14"
+        ],
+        "Fouls": [
+          "11",
+          "17"
+        ]
+      }
+    },
+    {
+      "id": "EkN1WiXA",
+      "date": "2025-10-25T17:30:00.000Z",
+      "round": "Round 14",
+      "homeTeam": "Polonia Warsaw",
+      "awayTeam": "Polonia Bytom",
+      "homeScore": 2,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "51%",
+          "49%"
+        ],
+        "Total shots": [
+          "3",
+          "1"
+        ],
+        "Shots on target": [
+          "3",
+          "1"
+        ],
+        "Corner kicks": [
+          "4",
+          "1"
+        ],
+        "Yellow cards": [
+          "4",
+          "2"
+        ],
+        "Shots off target": [
+          "0",
+          "0"
+        ],
+        "Offsides": [
+          "0",
+          "3"
+        ],
+        "Free kicks": [
+          "16",
+          "13"
+        ],
+        "Throw ins": [
+          "28",
+          "20"
+        ],
+        "Fouls": [
+          "13",
+          "13"
+        ]
+      }
+    },
+    {
+      "id": "t07tP9Pp",
+      "date": "2025-10-25T17:30:00.000Z",
+      "round": "Round 14",
+      "homeTeam": "Slask Wroclaw",
+      "awayTeam": "Gornik Leczna",
+      "homeScore": 3,
+      "awayScore": 1,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "52%",
+          "48%"
+        ],
+        "Total shots": [
+          "21",
+          "10"
+        ],
+        "Shots on target": [
+          "8",
+          "1"
+        ],
+        "Corner kicks": [
+          "5",
+          "4"
+        ],
+        "Yellow cards": [
+          "1",
+          "2"
+        ],
+        "Shots off target": [
+          "13",
+          "9"
+        ],
+        "Offsides": [
+          "1",
+          "0"
+        ],
+        "Free kicks": [
+          "8",
+          "10"
+        ],
+        "Throw ins": [
+          "20",
+          "21"
+        ],
+        "Fouls": [
+          "8",
+          "8"
+        ]
+      }
+    },
+    {
+      "id": "0SGozzYo",
+      "date": "2025-10-24T18:30:00.000Z",
+      "round": "Round 14",
+      "homeTeam": "Odra Opole",
+      "awayTeam": "Ruch Chorzow",
+      "homeScore": 1,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "50%",
+          "50%"
+        ],
+        "Total shots": [
+          "14",
+          "9"
+        ],
+        "Shots on target": [
+          "4",
+          "3"
+        ],
+        "Corner kicks": [
+          "6",
+          "3"
+        ],
+        "Yellow cards": [
+          "1",
+          "2"
+        ],
+        "Shots off target": [
+          "10",
+          "6"
+        ],
+        "Offsides": [
+          "1",
+          "0"
+        ],
+        "Free kicks": [
+          "18",
+          "18"
+        ],
+        "Throw ins": [
+          "15",
+          "18"
+        ],
+        "Fouls": [
+          "17",
+          "18"
+        ]
+      }
+    },
+    {
+      "id": "0MDyqVGG",
+      "date": "2025-10-24T16:00:00.000Z",
+      "round": "Round 14",
+      "homeTeam": "Znicz Pruszków",
+      "awayTeam": "Puszcza Niepolomice",
+      "homeScore": 0,
+      "awayScore": 3,
+      "htHome": 0,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "58%",
+          "42%"
+        ],
+        "Total shots": [
+          "7",
+          "10"
+        ],
+        "Shots on target": [
+          "1",
+          "8"
+        ],
+        "Corner kicks": [
+          "7",
+          "5"
+        ],
+        "Yellow cards": [
+          "2",
+          "1"
+        ],
+        "Shots off target": [
+          "6",
+          "2"
+        ],
+        "Offsides": [
+          "0",
+          "4"
+        ],
+        "Free kicks": [
+          "14",
+          "12"
+        ],
+        "Throw ins": [
+          "43",
+          "17"
+        ],
+        "Fouls": [
+          "0",
+          "0"
+        ]
+      }
+    },
+    {
+      "id": "4x9EySig",
+      "date": "2025-10-20T17:00:00.000Z",
+      "round": "Round 13",
+      "homeTeam": "Puszcza Niepolomice",
+      "awayTeam": "Wisla Krakow",
+      "homeScore": 0,
+      "awayScore": 3,
+      "htHome": 0,
+      "htAway": 3,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "50%",
+          "50%"
+        ],
+        "Total shots": [
+          "7",
+          "13"
+        ],
+        "Shots on target": [
+          "4",
+          "5"
+        ],
+        "Corner kicks": [
+          "7",
+          "5"
+        ],
+        "Yellow cards": [
+          "3",
+          "1"
+        ],
+        "Shots off target": [
+          "3",
+          "8"
+        ],
+        "Offsides": [
+          "0",
+          "3"
+        ],
+        "Free kicks": [
+          "8",
+          "14"
+        ],
+        "Throw ins": [
+          "16",
+          "12"
+        ],
+        "Fouls": [
+          "14",
+          "5"
+        ]
+      }
+    },
+    {
+      "id": "OImuNSx0",
+      "date": "2025-10-19T15:30:00.000Z",
+      "round": "Round 13",
+      "homeTeam": "Gornik Leczna",
+      "awayTeam": "Znicz Pruszków",
+      "homeScore": 1,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "50%",
+          "50%"
+        ],
+        "Total shots": [
+          "10",
+          "14"
+        ],
+        "Shots on target": [
+          "2",
+          "3"
+        ],
+        "Corner kicks": [
+          "7",
+          "9"
+        ],
+        "Yellow cards": [
+          "4",
+          "4"
+        ],
+        "Shots off target": [
+          "8",
+          "11"
+        ],
+        "Offsides": [
+          "2",
+          "1"
+        ],
+        "Free kicks": [
+          "12",
+          "10"
+        ],
+        "Throw ins": [
+          "11",
+          "23"
+        ],
+        "Fouls": [
+          "8",
+          "11"
+        ]
+      }
+    },
+    {
+      "id": "nL0VXqiI",
+      "date": "2025-10-19T12:30:00.000Z",
+      "round": "Round 13",
+      "homeTeam": "Slask Wroclaw",
+      "awayTeam": "Stal Mielec",
+      "homeScore": 2,
+      "awayScore": 1,
+      "htHome": 2,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "70%",
+          "30%"
+        ],
+        "Total shots": [
+          "11",
+          "15"
+        ],
+        "Shots on target": [
+          "4",
+          "6"
+        ],
+        "Corner kicks": [
+          "6",
+          "6"
+        ],
+        "Yellow cards": [
+          "2",
+          "2"
+        ],
+        "Shots off target": [
+          "7",
+          "9"
+        ],
+        "Offsides": [
+          "1",
+          "2"
+        ],
+        "Free kicks": [
+          "17",
+          "13"
+        ],
+        "Throw ins": [
+          "23",
+          "16"
+        ],
+        "Fouls": [
+          "11",
+          "13"
+        ]
+      }
+    },
+    {
+      "id": "rNK5wlNt",
+      "date": "2025-10-19T10:00:00.000Z",
+      "round": "Round 13",
+      "homeTeam": "Polonia Bytom",
+      "awayTeam": "Odra Opole",
+      "homeScore": 0,
+      "awayScore": 0,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "50%",
+          "50%"
+        ],
+        "Total shots": [
+          "13",
+          "12"
+        ],
+        "Shots on target": [
+          "2",
+          "4"
+        ],
+        "Corner kicks": [
+          "6",
+          "7"
+        ],
+        "Yellow cards": [
+          "0",
+          "2"
+        ],
+        "Shots off target": [
+          "11",
+          "8"
+        ],
+        "Offsides": [
+          "1",
+          "1"
+        ],
+        "Free kicks": [
+          "16",
+          "11"
+        ],
+        "Throw ins": [
+          "19",
+          "18"
+        ],
+        "Fouls": [
+          "10",
+          "14"
+        ]
+      }
+    },
+    {
+      "id": "OKSbscOE",
+      "date": "2025-10-18T17:30:00.000Z",
+      "round": "Round 13",
+      "homeTeam": "Chrobry Glogow",
+      "awayTeam": "Polonia Warsaw",
+      "homeScore": 2,
+      "awayScore": 0,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "62%",
+          "38%"
+        ],
+        "Total shots": [
+          "21",
+          "3"
+        ],
+        "Shots on target": [
+          "9",
+          "2"
+        ],
+        "Corner kicks": [
+          "5",
+          "4"
+        ],
+        "Yellow cards": [
+          "2",
+          "3"
+        ],
+        "Red cards": [
+          "0",
+          "1"
+        ],
+        "Shots off target": [
+          "12",
+          "1"
+        ],
+        "Offsides": [
+          "0",
+          "1"
+        ],
+        "Free kicks": [
+          "12",
+          "16"
+        ],
+        "Throw ins": [
+          "14",
+          "18"
+        ],
+        "Fouls": [
+          "16",
+          "10"
+        ]
+      }
+    },
+    {
+      "id": "jg7MZ5M5",
+      "date": "2025-10-18T17:30:00.000Z",
+      "round": "Round 13",
+      "homeTeam": "Stal Rzeszow",
+      "awayTeam": "LKS Lodz",
+      "homeScore": 1,
+      "awayScore": 4,
+      "htHome": 0,
+      "htAway": 3,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "55%",
+          "45%"
+        ],
+        "Total shots": [
+          "6",
+          "13"
+        ],
+        "Shots on target": [
+          "2",
+          "6"
+        ],
+        "Corner kicks": [
+          "8",
+          "6"
+        ],
+        "Yellow cards": [
+          "2",
+          "4"
+        ],
+        "Shots off target": [
+          "4",
+          "7"
+        ],
+        "Offsides": [
+          "1",
+          "0"
+        ],
+        "Free kicks": [
+          "17",
+          "8"
+        ],
+        "Throw ins": [
+          "19",
+          "19"
+        ],
+        "Fouls": [
+          "6",
+          "17"
+        ]
+      }
+    },
+    {
+      "id": "UJfWOl8m",
+      "date": "2025-10-18T17:30:00.000Z",
+      "round": "Round 13",
+      "homeTeam": "GKS Tychy 71",
+      "awayTeam": "Wieczysta Krakow",
+      "homeScore": 3,
+      "awayScore": 3,
+      "htHome": 1,
+      "htAway": 2,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "36%",
+          "64%"
+        ],
+        "Total shots": [
+          "6",
+          "5"
+        ],
+        "Shots on target": [
+          "3",
+          "3"
+        ],
+        "Corner kicks": [
+          "5",
+          "9"
+        ],
+        "Yellow cards": [
+          "2",
+          "4"
+        ],
+        "Shots off target": [
+          "3",
+          "2"
+        ],
+        "Offsides": [
+          "1",
+          "1"
+        ],
+        "Free kicks": [
+          "14",
+          "9"
+        ],
+        "Throw ins": [
+          "13",
+          "20"
+        ],
+        "Fouls": [
+          "8",
+          "12"
+        ]
+      }
+    },
+    {
+      "id": "dWomL67C",
+      "date": "2025-10-17T18:30:00.000Z",
+      "round": "Round 13",
+      "homeTeam": "Miedz Legnica",
+      "awayTeam": "MKP Pogon Siedlce",
+      "homeScore": 2,
+      "awayScore": 2,
+      "htHome": 1,
+      "htAway": 2,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "65%",
+          "35%"
+        ],
+        "Total shots": [
+          "2",
+          "2"
+        ],
+        "Shots on target": [
+          "2",
+          "2"
+        ],
+        "Corner kicks": [
+          "11",
+          "3"
+        ],
+        "Yellow cards": [
+          "3",
+          "4"
+        ],
+        "Shots off target": [
+          "0",
+          "0"
+        ],
+        "Offsides": [
+          "0",
+          "2"
+        ],
+        "Free kicks": [
+          "14",
+          "16"
+        ],
+        "Throw ins": [
+          "18",
+          "15"
+        ],
+        "Fouls": [
+          "16",
+          "12"
+        ]
+      }
+    },
+    {
+      "id": "hbudJpxP",
+      "date": "2025-10-17T16:00:00.000Z",
+      "round": "Round 13",
+      "homeTeam": "Pogon Grodzisk Mazowiecki",
+      "awayTeam": "Ruch Chorzow",
+      "homeScore": 2,
+      "awayScore": 2,
+      "htHome": 1,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "51%",
+          "49%"
+        ],
+        "Total shots": [
+          "19",
+          "14"
+        ],
+        "Shots on target": [
+          "7",
+          "6"
+        ],
+        "Corner kicks": [
+          "7",
+          "7"
+        ],
+        "Yellow cards": [
+          "3",
+          "1"
+        ],
+        "Shots off target": [
+          "12",
+          "8"
+        ],
+        "Offsides": [
+          "0",
+          "1"
+        ],
+        "Free kicks": [
+          "9",
+          "8"
+        ],
+        "Throw ins": [
+          "21",
+          "22"
+        ],
+        "Fouls": [
+          "8",
+          "8"
+        ]
+      }
+    },
+    {
+      "id": "zan4LF1e",
+      "date": "2025-10-05T18:30:00.000Z",
+      "round": "Round 12",
+      "homeTeam": "Wisla Krakow",
+      "awayTeam": "Ruch Chorzow",
+      "homeScore": 3,
+      "awayScore": 0,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "50%",
+          "50%"
+        ],
+        "Total shots": [
+          "30",
+          "13"
+        ],
+        "Shots on target": [
+          "12",
+          "3"
+        ],
+        "Corner kicks": [
+          "12",
+          "4"
+        ],
+        "Yellow cards": [
+          "2",
+          "2"
+        ],
+        "Shots off target": [
+          "18",
+          "10"
+        ],
+        "Offsides": [
+          "3",
+          "1"
+        ],
+        "Free kicks": [
+          "11",
+          "12"
+        ],
+        "Throw ins": [
+          "16",
+          "15"
+        ],
+        "Fouls": [
+          "9",
+          "10"
+        ]
+      }
+    },
+    {
+      "id": "OpCkGKPF",
+      "date": "2025-10-05T15:30:00.000Z",
+      "round": "Round 12",
+      "homeTeam": "Gornik Leczna",
+      "awayTeam": "Miedz Legnica",
+      "homeScore": 2,
+      "awayScore": 0,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "40%",
+          "60%"
+        ],
+        "Total shots": [
+          "10",
+          "22"
+        ],
+        "Shots on target": [
+          "6",
+          "8"
+        ],
+        "Corner kicks": [
+          "6",
+          "7"
+        ],
+        "Yellow cards": [
+          "1",
+          "3"
+        ],
+        "Shots off target": [
+          "4",
+          "14"
+        ],
+        "Offsides": [
+          "4",
+          "2"
+        ],
+        "Free kicks": [
+          "15",
+          "20"
+        ],
+        "Throw ins": [
+          "8",
+          "25"
+        ],
+        "Fouls": [
+          "16",
+          "13"
+        ]
+      }
+    },
+    {
+      "id": "KC5bEbfS",
+      "date": "2025-10-05T12:30:00.000Z",
+      "round": "Round 12",
+      "homeTeam": "LKS Lodz",
+      "awayTeam": "GKS Tychy 71",
+      "homeScore": 3,
+      "awayScore": 1,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "48%",
+          "52%"
+        ],
+        "Total shots": [
+          "12",
+          "11"
+        ],
+        "Shots on target": [
+          "4",
+          "5"
+        ],
+        "Corner kicks": [
+          "4",
+          "6"
+        ],
+        "Yellow cards": [
+          "1",
+          "1"
+        ],
+        "Shots off target": [
+          "8",
+          "6"
+        ],
+        "Offsides": [
+          "1",
+          "0"
+        ],
+        "Free kicks": [
+          "8",
+          "17"
+        ],
+        "Throw ins": [
+          "19",
+          "24"
+        ],
+        "Fouls": [
+          "16",
+          "8"
+        ]
+      }
+    },
+    {
+      "id": "lSeU8xIk",
+      "date": "2025-10-05T10:00:00.000Z",
+      "round": "Round 12",
+      "homeTeam": "Odra Opole",
+      "awayTeam": "Wieczysta Krakow",
+      "homeScore": 2,
+      "awayScore": 0,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "42%",
+          "58%"
+        ],
+        "Total shots": [
+          "12",
+          "14"
+        ],
+        "Shots on target": [
+          "6",
+          "4"
+        ],
+        "Corner kicks": [
+          "7",
+          "5"
+        ],
+        "Yellow cards": [
+          "2",
+          "2"
+        ],
+        "Red cards": [
+          "0",
+          "1"
+        ],
+        "Shots off target": [
+          "6",
+          "10"
+        ],
+        "Offsides": [
+          "0",
+          "1"
+        ],
+        "Free kicks": [
+          "11",
+          "9"
+        ],
+        "Throw ins": [
+          "16",
+          "25"
+        ],
+        "Fouls": [
+          "9",
+          "10"
+        ]
+      }
+    },
+    {
+      "id": "Aspw7Gn2",
+      "date": "2025-10-04T17:30:00.000Z",
+      "round": "Round 12",
+      "homeTeam": "MKP Pogon Siedlce",
+      "awayTeam": "Pogon Grodzisk Mazowiecki",
+      "homeScore": 1,
+      "awayScore": 2,
+      "htHome": 1,
+      "htAway": 2,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "58%",
+          "42%"
+        ],
+        "Total shots": [
+          "11",
+          "6"
+        ],
+        "Shots on target": [
+          "5",
+          "4"
+        ],
+        "Corner kicks": [
+          "4",
+          "2"
+        ],
+        "Yellow cards": [
+          "7",
+          "4"
+        ],
+        "Red cards": [
+          "1",
+          "0"
+        ],
+        "Shots off target": [
+          "6",
+          "2"
+        ],
+        "Offsides": [
+          "0",
+          "0"
+        ],
+        "Free kicks": [
+          "16",
+          "16"
+        ],
+        "Throw ins": [
+          "15",
+          "17"
+        ],
+        "Fouls": [
+          "15",
+          "16"
+        ]
+      }
+    },
+    {
+      "id": "xlxPUJv9",
+      "date": "2025-10-04T17:30:00.000Z",
+      "round": "Round 12",
+      "homeTeam": "Polonia Bytom",
+      "awayTeam": "Puszcza Niepolomice",
+      "homeScore": 1,
+      "awayScore": 1,
+      "htHome": 1,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "48%",
+          "52%"
+        ],
+        "Total shots": [
+          "13",
+          "8"
+        ],
+        "Shots on target": [
+          "3",
+          "5"
+        ],
+        "Corner kicks": [
+          "4",
+          "4"
+        ],
+        "Yellow cards": [
+          "2",
+          "3"
+        ],
+        "Shots off target": [
+          "10",
+          "3"
+        ],
+        "Offsides": [
+          "1",
+          "2"
+        ],
+        "Free kicks": [
+          "11",
+          "7"
+        ],
+        "Throw ins": [
+          "27",
+          "26"
+        ],
+        "Fouls": [
+          "6",
+          "10"
+        ]
+      }
+    },
+    {
+      "id": "rPkCJgW7",
+      "date": "2025-10-04T17:30:00.000Z",
+      "round": "Round 12",
+      "homeTeam": "Znicz Pruszków",
+      "awayTeam": "Slask Wroclaw",
+      "homeScore": 2,
+      "awayScore": 1,
+      "htHome": 2,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "41%",
+          "59%"
+        ],
+        "Total shots": [
+          "10",
+          "8"
+        ],
+        "Shots on target": [
+          "4",
+          "4"
+        ],
+        "Corner kicks": [
+          "4",
+          "3"
+        ],
+        "Shots off target": [
+          "6",
+          "4"
+        ],
+        "Offsides": [
+          "3",
+          "1"
+        ],
+        "Free kicks": [
+          "11",
+          "16"
+        ],
+        "Throw ins": [
+          "28",
+          "24"
+        ],
+        "Fouls": [
+          "13",
+          "10"
+        ]
+      }
+    },
+    {
+      "id": "YFVXSc9L",
+      "date": "2025-10-03T18:30:00.000Z",
+      "round": "Round 12",
+      "homeTeam": "Polonia Warsaw",
+      "awayTeam": "Stal Rzeszow",
+      "homeScore": 2,
+      "awayScore": 3,
+      "htHome": 0,
+      "htAway": 2,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "63%",
+          "37%"
+        ],
+        "Total shots": [
+          "18",
+          "16"
+        ],
+        "Shots on target": [
+          "7",
+          "5"
+        ],
+        "Corner kicks": [
+          "8",
+          "3"
+        ],
+        "Yellow cards": [
+          "2",
+          "4"
+        ],
+        "Shots off target": [
+          "11",
+          "11"
+        ],
+        "Offsides": [
+          "0",
+          "2"
+        ],
+        "Free kicks": [
+          "18",
+          "12"
+        ],
+        "Throw ins": [
+          "19",
+          "8"
+        ],
+        "Fouls": [
+          "12",
+          "16"
+        ]
+      }
+    },
+    {
+      "id": "UoH3NyXr",
+      "date": "2025-10-03T16:00:00.000Z",
+      "round": "Round 12",
+      "homeTeam": "Stal Mielec",
+      "awayTeam": "Chrobry Glogow",
+      "homeScore": 1,
+      "awayScore": 2,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "49%",
+          "51%"
+        ],
+        "Total shots": [
+          "8",
+          "15"
+        ],
+        "Shots on target": [
+          "3",
+          "3"
+        ],
+        "Corner kicks": [
+          "3",
+          "9"
+        ],
+        "Yellow cards": [
+          "4",
+          "6"
+        ],
+        "Red cards": [
+          "1",
+          "0"
+        ],
+        "Shots off target": [
+          "5",
+          "12"
+        ],
+        "Offsides": [
+          "0",
+          "4"
+        ],
+        "Free kicks": [
+          "13",
+          "11"
+        ],
+        "Throw ins": [
+          "10",
+          "15"
+        ],
+        "Fouls": [
+          "0",
+          "0"
+        ]
+      }
+    },
+    {
+      "id": "ANm5pmHs",
+      "date": "2025-10-02T17:15:00.000Z",
+      "round": "Round 5",
+      "homeTeam": "Wieczysta Krakow",
+      "awayTeam": "Wisla Krakow",
+      "homeScore": 1,
+      "awayScore": 1,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "31%",
+          "69%"
+        ],
+        "Total shots": [
+          "3",
+          "19"
+        ],
+        "Shots on target": [
+          "1",
+          "9"
+        ],
+        "Corner kicks": [
+          "2",
+          "10"
+        ],
+        "Yellow cards": [
+          "0",
+          "1"
+        ],
+        "Shots off target": [
+          "2",
+          "10"
+        ],
+        "Offsides": [
+          "0",
+          "2"
+        ],
+        "Free kicks": [
+          "6",
+          "13"
+        ],
+        "Throw ins": [
+          "20",
+          "31"
+        ],
+        "Fouls": [
+          "13",
+          "4"
+        ]
+      }
+    },
+    {
+      "id": "jXDsIte3",
+      "date": "2025-09-29T17:00:00.000Z",
+      "round": "Round 11",
+      "homeTeam": "Wisla Krakow",
+      "awayTeam": "Polonia Bytom",
+      "homeScore": 1,
+      "awayScore": 0,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "53%",
+          "47%"
+        ],
+        "Total shots": [
+          "14",
+          "5"
+        ],
+        "Shots on target": [
+          "5",
+          "4"
+        ],
+        "Corner kicks": [
+          "12",
+          "2"
+        ],
+        "Yellow cards": [
+          "1",
+          "1"
+        ],
+        "Shots off target": [
+          "9",
+          "1"
+        ],
+        "Offsides": [
+          "2",
+          "1"
+        ],
+        "Free kicks": [
+          "14",
+          "17"
+        ],
+        "Throw ins": [
+          "14",
+          "17"
+        ],
+        "Fouls": [
+          "13",
+          "12"
+        ]
+      }
+    },
+    {
+      "id": "0raa53Bc",
+      "date": "2025-09-29T15:00:00.000Z",
+      "round": "Round 11",
+      "homeTeam": "Pogon Grodzisk Mazowiecki",
+      "awayTeam": "LKS Lodz",
+      "homeScore": 3,
+      "awayScore": 0,
+      "htHome": 2,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "44%",
+          "56%"
+        ],
+        "Total shots": [
+          "11",
+          "16"
+        ],
+        "Shots on target": [
+          "5",
+          "5"
+        ],
+        "Corner kicks": [
+          "4",
+          "8"
+        ],
+        "Yellow cards": [
+          "0",
+          "2"
+        ],
+        "Shots off target": [
+          "6",
+          "11"
+        ],
+        "Offsides": [
+          "1",
+          "4"
+        ],
+        "Free kicks": [
+          "16",
+          "8"
+        ],
+        "Throw ins": [
+          "26",
+          "24"
+        ],
+        "Fouls": [
+          "7",
+          "12"
+        ]
+      }
+    },
+    {
+      "id": "ddDZlrRG",
+      "date": "2025-09-28T15:30:00.000Z",
+      "round": "Round 11",
+      "homeTeam": "Chrobry Glogow",
+      "awayTeam": "Gornik Leczna",
+      "homeScore": 2,
+      "awayScore": 0,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "49%",
+          "51%"
+        ],
+        "Total shots": [
+          "12",
+          "8"
+        ],
+        "Shots on target": [
+          "4",
+          "0"
+        ],
+        "Corner kicks": [
+          "3",
+          "6"
+        ],
+        "Yellow cards": [
+          "1",
+          "2"
+        ],
+        "Shots off target": [
+          "8",
+          "8"
+        ],
+        "Offsides": [
+          "1",
+          "0"
+        ],
+        "Free kicks": [
+          "16",
+          "16"
+        ],
+        "Throw ins": [
+          "14",
+          "22"
+        ],
+        "Fouls": [
+          "15",
+          "13"
+        ]
+      }
+    },
+    {
+      "id": "zPVffw3d",
+      "date": "2025-09-28T12:30:00.000Z",
+      "round": "Round 11",
+      "homeTeam": "Wieczysta Krakow",
+      "awayTeam": "Ruch Chorzow",
+      "homeScore": 4,
+      "awayScore": 2,
+      "htHome": 1,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "48%",
+          "52%"
+        ],
+        "Total shots": [
+          "12",
+          "17"
+        ],
+        "Shots on target": [
+          "6",
+          "7"
+        ],
+        "Corner kicks": [
+          "4",
+          "5"
+        ],
+        "Yellow cards": [
+          "4",
+          "2"
+        ],
+        "Shots off target": [
+          "6",
+          "10"
+        ],
+        "Offsides": [
+          "0",
+          "0"
+        ],
+        "Free kicks": [
+          "16",
+          "12"
+        ],
+        "Throw ins": [
+          "21",
+          "15"
+        ],
+        "Fouls": [
+          "12",
+          "16"
+        ]
+      }
+    },
+    {
+      "id": "8lCDs0Jj",
+      "date": "2025-09-28T10:00:00.000Z",
+      "round": "Round 11",
+      "homeTeam": "Miedz Legnica",
+      "awayTeam": "Znicz Pruszków",
+      "homeScore": 2,
+      "awayScore": 1,
+      "htHome": 1,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "57%",
+          "43%"
+        ],
+        "Total shots": [
+          "6",
+          "10"
+        ],
+        "Shots on target": [
+          "2",
+          "4"
+        ],
+        "Corner kicks": [
+          "3",
+          "5"
+        ],
+        "Yellow cards": [
+          "4",
+          "2"
+        ],
+        "Shots off target": [
+          "4",
+          "6"
+        ],
+        "Offsides": [
+          "2",
+          "1"
+        ],
+        "Free kicks": [
+          "9",
+          "13"
+        ],
+        "Throw ins": [
+          "11",
+          "25"
+        ],
+        "Fouls": [
+          "11",
+          "8"
+        ]
+      }
+    },
+    {
+      "id": "dAh83stA",
+      "date": "2025-09-27T17:30:00.000Z",
+      "round": "Round 11",
+      "homeTeam": "Puszcza Niepolomice",
+      "awayTeam": "Odra Opole",
+      "homeScore": 1,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "59%",
+          "41%"
+        ],
+        "Total shots": [
+          "16",
+          "2"
+        ],
+        "Shots on target": [
+          "5",
+          "1"
+        ],
+        "Corner kicks": [
+          "15",
+          "3"
+        ],
+        "Yellow cards": [
+          "1",
+          "2"
+        ],
+        "Shots off target": [
+          "11",
+          "1"
+        ],
+        "Offsides": [
+          "3",
+          "1"
+        ],
+        "Free kicks": [
+          "11",
+          "18"
+        ],
+        "Throw ins": [
+          "19",
+          "29"
+        ],
+        "Fouls": [
+          "15",
+          "10"
+        ]
+      }
+    },
+    {
+      "id": "4zdG1LAM",
+      "date": "2025-09-27T17:30:00.000Z",
+      "round": "Round 11",
+      "homeTeam": "Stal Rzeszow",
+      "awayTeam": "Stal Mielec",
+      "homeScore": 3,
+      "awayScore": 2,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "47%",
+          "53%"
+        ],
+        "Total shots": [
+          "14",
+          "12"
+        ],
+        "Shots on target": [
+          "7",
+          "7"
+        ],
+        "Corner kicks": [
+          "5",
+          "6"
+        ],
+        "Yellow cards": [
+          "1",
+          "1"
+        ],
+        "Shots off target": [
+          "7",
+          "5"
+        ],
+        "Offsides": [
+          "1",
+          "1"
+        ],
+        "Free kicks": [
+          "18",
+          "7"
+        ],
+        "Throw ins": [
+          "22",
+          "26"
+        ],
+        "Fouls": [
+          "6",
+          "16"
+        ]
+      }
+    },
+    {
+      "id": "4MGsmMeT",
+      "date": "2025-09-27T17:30:00.000Z",
+      "round": "Round 11",
+      "homeTeam": "GKS Tychy 71",
+      "awayTeam": "MKP Pogon Siedlce",
+      "homeScore": 1,
+      "awayScore": 3,
+      "htHome": 0,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "62%",
+          "38%"
+        ],
+        "Total shots": [
+          "4",
+          "4"
+        ],
+        "Shots on target": [
+          "1",
+          "3"
+        ],
+        "Corner kicks": [
+          "11",
+          "3"
+        ],
+        "Yellow cards": [
+          "3",
+          "5"
+        ],
+        "Shots off target": [
+          "3",
+          "1"
+        ],
+        "Offsides": [
+          "0",
+          "1"
+        ],
+        "Free kicks": [
+          "9",
+          "12"
+        ],
+        "Throw ins": [
+          "27",
+          "12"
+        ],
+        "Fouls": [
+          "11",
+          "8"
+        ]
+      }
+    },
+    {
+      "id": "l8XndaYq",
+      "date": "2025-09-26T18:30:00.000Z",
+      "round": "Round 11",
+      "homeTeam": "Slask Wroclaw",
+      "awayTeam": "Polonia Warsaw",
+      "homeScore": 1,
+      "awayScore": 1,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "49%",
+          "51%"
+        ],
+        "Total shots": [
+          "15",
+          "11"
+        ],
+        "Shots on target": [
+          "6",
+          "2"
+        ],
+        "Corner kicks": [
+          "9",
+          "6"
+        ],
+        "Yellow cards": [
+          "3",
+          "1"
+        ],
+        "Shots off target": [
+          "9",
+          "9"
+        ],
+        "Offsides": [
+          "0",
+          "2"
+        ],
+        "Free kicks": [
+          "12",
+          "16"
+        ],
+        "Throw ins": [
+          "19",
+          "13"
+        ],
+        "Fouls": [
+          "15",
+          "10"
+        ]
+      }
+    },
+    {
+      "id": "lYGwVMZp",
+      "date": "2025-09-22T15:45:00.000Z",
+      "round": "Round 10",
+      "homeTeam": "Ruch Chorzow",
+      "awayTeam": "Chrobry Glogow",
+      "homeScore": 2,
+      "awayScore": 1,
+      "htHome": 1,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "48%",
+          "52%"
+        ],
+        "Total shots": [
+          "7",
+          "8"
+        ],
+        "Shots on target": [
+          "3",
+          "3"
+        ],
+        "Corner kicks": [
+          "5",
+          "4"
+        ],
+        "Yellow cards": [
+          "3",
+          "3"
+        ],
+        "Red cards": [
+          "0",
+          "1"
+        ],
+        "Shots off target": [
+          "4",
+          "5"
+        ],
+        "Offsides": [
+          "0",
+          "1"
+        ],
+        "Free kicks": [
+          "15",
+          "13"
+        ],
+        "Throw ins": [
+          "22",
+          "22"
+        ],
+        "Fouls": [
+          "13",
+          "14"
+        ]
+      }
+    },
+    {
+      "id": "4rUWYVzJ",
+      "date": "2025-09-21T18:15:00.000Z",
+      "round": "Round 10",
+      "homeTeam": "LKS Lodz",
+      "awayTeam": "Wieczysta Krakow",
+      "homeScore": 0,
+      "awayScore": 0,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "52%",
+          "48%"
+        ],
+        "Total shots": [
+          "8",
+          "11"
+        ],
+        "Shots on target": [
+          "2",
+          "3"
+        ],
+        "Corner kicks": [
+          "1",
+          "5"
+        ],
+        "Yellow cards": [
+          "2",
+          "1"
+        ],
+        "Shots off target": [
+          "6",
+          "8"
+        ],
+        "Offsides": [
+          "2",
+          "0"
+        ],
+        "Free kicks": [
+          "16",
+          "20"
+        ],
+        "Throw ins": [
+          "20",
+          "26"
+        ],
+        "Fouls": [
+          "17",
+          "16"
+        ]
+      }
+    },
+    {
+      "id": "zsPQj4d4",
+      "date": "2025-09-21T15:30:00.000Z",
+      "round": "Round 10",
+      "homeTeam": "Znicz Pruszków",
+      "awayTeam": "GKS Tychy 71",
+      "homeScore": 4,
+      "awayScore": 0,
+      "htHome": 2,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "42%",
+          "58%"
+        ],
+        "Total shots": [
+          "10",
+          "14"
+        ],
+        "Shots on target": [
+          "5",
+          "1"
+        ],
+        "Corner kicks": [
+          "2",
+          "3"
+        ],
+        "Yellow cards": [
+          "1",
+          "3"
+        ],
+        "Shots off target": [
+          "5",
+          "13"
+        ],
+        "Offsides": [
+          "2",
+          "1"
+        ],
+        "Free kicks": [
+          "6",
+          "11"
+        ],
+        "Throw ins": [
+          "18",
+          "35"
+        ],
+        "Fouls": [
+          "9",
+          "5"
+        ]
+      }
+    },
+    {
+      "id": "8GzOzh66",
+      "date": "2025-09-21T12:30:00.000Z",
+      "round": "Round 10",
+      "homeTeam": "Gornik Leczna",
+      "awayTeam": "Wisla Krakow",
+      "homeScore": 1,
+      "awayScore": 2,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "41%",
+          "59%"
+        ],
+        "Total shots": [
+          "8",
+          "18"
+        ],
+        "Shots on target": [
+          "1",
+          "2"
+        ],
+        "Corner kicks": [
+          "2",
+          "9"
+        ],
+        "Yellow cards": [
+          "8",
+          "2"
+        ],
+        "Red cards": [
+          "1",
+          "0"
+        ],
+        "Shots off target": [
+          "7",
+          "16"
+        ],
+        "Offsides": [
+          "1",
+          "3"
+        ],
+        "Free kicks": [
+          "20",
+          "19"
+        ],
+        "Throw ins": [
+          "12",
+          "20"
+        ],
+        "Fouls": [
+          "17",
+          "17"
+        ]
+      }
+    },
+    {
+      "id": "EgckiDjm",
+      "date": "2025-09-20T17:30:00.000Z",
+      "round": "Round 10",
+      "homeTeam": "MKP Pogon Siedlce",
+      "awayTeam": "Slask Wroclaw",
+      "homeScore": 2,
+      "awayScore": 3,
+      "htHome": 2,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "41%",
+          "59%"
+        ],
+        "Total shots": [
+          "11",
+          "10"
+        ],
+        "Shots on target": [
+          "7",
+          "7"
+        ],
+        "Corner kicks": [
+          "4",
+          "9"
+        ],
+        "Yellow cards": [
+          "4",
+          "2"
+        ],
+        "Shots off target": [
+          "4",
+          "3"
+        ],
+        "Offsides": [
+          "1",
+          "0"
+        ],
+        "Free kicks": [
+          "10",
+          "20"
+        ],
+        "Throw ins": [
+          "21",
+          "19"
+        ],
+        "Fouls": [
+          "19",
+          "10"
+        ]
+      }
+    },
+    {
+      "id": "MJ0ckiLa",
+      "date": "2025-09-20T17:30:00.000Z",
+      "round": "Round 10",
+      "homeTeam": "Polonia Bytom",
+      "awayTeam": "Miedz Legnica",
+      "homeScore": 4,
+      "awayScore": 0,
+      "htHome": 3,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "47%",
+          "53%"
+        ],
+        "Total shots": [
+          "17",
+          "14"
+        ],
+        "Shots on target": [
+          "9",
+          "6"
+        ],
+        "Corner kicks": [
+          "7",
+          "8"
+        ],
+        "Yellow cards": [
+          "1",
+          "3"
+        ],
+        "Shots off target": [
+          "8",
+          "8"
+        ],
+        "Offsides": [
+          "0",
+          "2"
+        ],
+        "Free kicks": [
+          "11",
+          "11"
+        ],
+        "Throw ins": [
+          "16",
+          "25"
+        ],
+        "Fouls": [
+          "11",
+          "9"
+        ]
+      }
+    },
+    {
+      "id": "Iof6mVkC",
+      "date": "2025-09-20T17:30:00.000Z",
+      "round": "Round 10",
+      "homeTeam": "Polonia Warsaw",
+      "awayTeam": "Puszcza Niepolomice",
+      "homeScore": 1,
+      "awayScore": 2,
+      "htHome": 0,
+      "htAway": 2,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "63%",
+          "37%"
+        ],
+        "Total shots": [
+          "15",
+          "4"
+        ],
+        "Shots on target": [
+          "6",
+          "4"
+        ],
+        "Corner kicks": [
+          "6",
+          "3"
+        ],
+        "Yellow cards": [
+          "3",
+          "4"
+        ],
+        "Shots off target": [
+          "9",
+          "0"
+        ],
+        "Offsides": [
+          "0",
+          "0"
+        ],
+        "Free kicks": [
+          "16",
+          "10"
+        ],
+        "Throw ins": [
+          "29",
+          "15"
+        ],
+        "Fouls": [
+          "10",
+          "16"
+        ]
+      }
+    },
+    {
+      "id": "SGLIhQRi",
+      "date": "2025-09-19T18:30:00.000Z",
+      "round": "Round 10",
+      "homeTeam": "Stal Mielec",
+      "awayTeam": "Pogon Grodzisk Mazowiecki",
+      "homeScore": 1,
+      "awayScore": 2,
+      "htHome": 1,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "54%",
+          "46%"
+        ],
+        "Total shots": [
+          "13",
+          "21"
+        ],
+        "Shots on target": [
+          "3",
+          "6"
+        ],
+        "Corner kicks": [
+          "5",
+          "2"
+        ],
+        "Yellow cards": [
+          "3",
+          "3"
+        ],
+        "Red cards": [
+          "1",
+          "0"
+        ],
+        "Shots off target": [
+          "10",
+          "15"
+        ],
+        "Offsides": [
+          "2",
+          "1"
+        ],
+        "Free kicks": [
+          "9",
+          "10"
+        ],
+        "Throw ins": [
+          "18",
+          "20"
+        ],
+        "Fouls": [
+          "8",
+          "8"
+        ]
+      }
+    },
+    {
+      "id": "ULLIdZSP",
+      "date": "2025-09-19T16:00:00.000Z",
+      "round": "Round 10",
+      "homeTeam": "Odra Opole",
+      "awayTeam": "Stal Rzeszow",
+      "homeScore": 2,
+      "awayScore": 1,
+      "htHome": 2,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "39%",
+          "61%"
+        ],
+        "Total shots": [
+          "10",
+          "14"
+        ],
+        "Shots on target": [
+          "3",
+          "5"
+        ],
+        "Corner kicks": [
+          "5",
+          "10"
+        ],
+        "Yellow cards": [
+          "6",
+          "2"
+        ],
+        "Red cards": [
+          "1",
+          "0"
+        ],
+        "Shots off target": [
+          "7",
+          "9"
+        ],
+        "Offsides": [
+          "1",
+          "1"
+        ],
+        "Free kicks": [
+          "9",
+          "17"
+        ],
+        "Throw ins": [
+          "14",
+          "21"
+        ]
+      }
+    },
+    {
+      "id": "vyq7vz7s",
+      "date": "2025-09-15T17:00:00.000Z",
+      "round": "Round 9",
+      "homeTeam": "Wieczysta Krakow",
+      "awayTeam": "Stal Mielec",
+      "homeScore": 2,
+      "awayScore": 0,
+      "htHome": 2,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "51%",
+          "49%"
+        ],
+        "Total shots": [
+          "16",
+          "3"
+        ],
+        "Shots on target": [
+          "6",
+          "0"
+        ],
+        "Corner kicks": [
+          "7",
+          "5"
+        ],
+        "Yellow cards": [
+          "3",
+          "3"
+        ],
+        "Red cards": [
+          "0",
+          "1"
+        ],
+        "Shots off target": [
+          "10",
+          "3"
+        ],
+        "Offsides": [
+          "0",
+          "1"
+        ],
+        "Free kicks": [
+          "4",
+          "4"
+        ],
+        "Goalkeeper saves": [
+          "0",
+          "4"
+        ]
+      }
+    },
+    {
+      "id": "b38YPzhl",
+      "date": "2025-09-14T15:30:00.000Z",
+      "round": "Round 9",
+      "homeTeam": "Pogon Grodzisk Mazowiecki",
+      "awayTeam": "Gornik Leczna",
+      "homeScore": 3,
+      "awayScore": 3,
+      "htHome": 1,
+      "htAway": 2,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "54%",
+          "46%"
+        ],
+        "Total shots": [
+          "13",
+          "10"
+        ],
+        "Shots on target": [
+          "6",
+          "6"
+        ],
+        "Corner kicks": [
+          "5",
+          "3"
+        ],
+        "Yellow cards": [
+          "2",
+          "4"
+        ],
+        "Shots off target": [
+          "7",
+          "4"
+        ],
+        "Offsides": [
+          "1",
+          "1"
+        ],
+        "Free kicks": [
+          "17",
+          "9"
+        ],
+        "Throw ins": [
+          "19",
+          "13"
+        ],
+        "Fouls": [
+          "7",
+          "16"
+        ],
+        "Goalkeeper saves": [
+          "3",
+          "3"
+        ]
+      }
+    },
+    {
+      "id": "fV1sOEM0",
+      "date": "2025-09-14T13:30:00.000Z",
+      "round": "Round 9",
+      "homeTeam": "Ruch Chorzow",
+      "awayTeam": "LKS Lodz",
+      "homeScore": 2,
+      "awayScore": 1,
+      "htHome": 2,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "53%",
+          "47%"
+        ],
+        "Total shots": [
+          "18",
+          "12"
+        ],
+        "Shots on target": [
+          "5",
+          "4"
+        ],
+        "Corner kicks": [
+          "5",
+          "4"
+        ],
+        "Yellow cards": [
+          "1",
+          "2"
+        ],
+        "Shots off target": [
+          "13",
+          "8"
+        ],
+        "Offsides": [
+          "1",
+          "2"
+        ],
+        "Free kicks": [
+          "13",
+          "14"
+        ],
+        "Throw ins": [
+          "35",
+          "20"
+        ],
+        "Fouls": [
+          "10",
+          "10"
+        ],
+        "Goalkeeper saves": [
+          "3",
+          "3"
+        ]
+      }
+    },
+    {
+      "id": "2XM2VdUQ",
+      "date": "2025-09-14T10:00:00.000Z",
+      "round": "Round 9",
+      "homeTeam": "Miedz Legnica",
+      "awayTeam": "Polonia Warsaw",
+      "homeScore": 1,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "39%",
+          "61%"
+        ],
+        "Total shots": [
+          "4",
+          "13"
+        ],
+        "Shots on target": [
+          "3",
+          "5"
+        ],
+        "Corner kicks": [
+          "4",
+          "12"
+        ],
+        "Yellow cards": [
+          "5",
+          "2"
+        ],
+        "Red cards": [
+          "1",
+          "0"
+        ],
+        "Shots off target": [
+          "1",
+          "8"
+        ],
+        "Offsides": [
+          "1",
+          "2"
+        ],
+        "Free kicks": [
+          "11",
+          "17"
+        ],
+        "Throw ins": [
+          "17",
+          "17"
+        ],
+        "Fouls": [
+          "15",
+          "8"
+        ],
+        "Goalkeeper saves": [
+          "4",
+          "2"
+        ]
+      }
+    },
+    {
+      "id": "vyq7vz7s",
+      "date": "2025-09-15T17:00:00.000Z",
+      "round": "Round 9",
+      "homeTeam": "Wieczysta Krakow",
+      "awayTeam": "Stal Mielec",
+      "homeScore": 2,
+      "awayScore": 0,
+      "htHome": 2,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "51%",
+          "49%"
+        ],
+        "Total shots": [
+          "16",
+          "3"
+        ],
+        "Shots on target": [
+          "6",
+          "0"
+        ],
+        "Corner kicks": [
+          "7",
+          "5"
+        ],
+        "Yellow cards": [
+          "3",
+          "3"
+        ],
+        "Red cards": [
+          "0",
+          "1"
+        ],
+        "Shots off target": [
+          "10",
+          "3"
+        ],
+        "Offsides": [
+          "0",
+          "1"
+        ],
+        "Free kicks": [
+          "4",
+          "4"
+        ],
+        "Goalkeeper saves": [
+          "0",
+          "4"
+        ]
+      }
+    },
+    {
+      "id": "b38YPzhl",
+      "date": "2025-09-14T15:30:00.000Z",
+      "round": "Round 9",
+      "homeTeam": "Pogon Grodzisk Mazowiecki",
+      "awayTeam": "Gornik Leczna",
+      "homeScore": 3,
+      "awayScore": 3,
+      "htHome": 1,
+      "htAway": 2,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "54%",
+          "46%"
+        ],
+        "Total shots": [
+          "13",
+          "10"
+        ],
+        "Shots on target": [
+          "6",
+          "6"
+        ],
+        "Corner kicks": [
+          "5",
+          "3"
+        ],
+        "Yellow cards": [
+          "2",
+          "4"
+        ],
+        "Shots off target": [
+          "7",
+          "4"
+        ],
+        "Offsides": [
+          "1",
+          "1"
+        ],
+        "Free kicks": [
+          "17",
+          "9"
+        ],
+        "Throw ins": [
+          "19",
+          "13"
+        ],
+        "Fouls": [
+          "7",
+          "16"
+        ],
+        "Goalkeeper saves": [
+          "3",
+          "3"
+        ]
+      }
+    },
+    {
+      "id": "fV1sOEM0",
+      "date": "2025-09-14T13:30:00.000Z",
+      "round": "Round 9",
+      "homeTeam": "Ruch Chorzow",
+      "awayTeam": "LKS Lodz",
+      "homeScore": 2,
+      "awayScore": 1,
+      "htHome": 2,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "53%",
+          "47%"
+        ],
+        "Total shots": [
+          "18",
+          "12"
+        ],
+        "Shots on target": [
+          "5",
+          "4"
+        ],
+        "Corner kicks": [
+          "5",
+          "4"
+        ],
+        "Yellow cards": [
+          "1",
+          "2"
+        ],
+        "Shots off target": [
+          "13",
+          "8"
+        ],
+        "Offsides": [
+          "1",
+          "2"
+        ],
+        "Free kicks": [
+          "13",
+          "14"
+        ],
+        "Throw ins": [
+          "35",
+          "20"
+        ],
+        "Fouls": [
+          "10",
+          "10"
+        ],
+        "Goalkeeper saves": [
+          "3",
+          "3"
+        ]
+      }
+    },
+    {
+      "id": "2XM2VdUQ",
+      "date": "2025-09-14T10:00:00.000Z",
+      "round": "Round 9",
+      "homeTeam": "Miedz Legnica",
+      "awayTeam": "Polonia Warsaw",
+      "homeScore": 1,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "39%",
+          "61%"
+        ],
+        "Total shots": [
+          "4",
+          "13"
+        ],
+        "Shots on target": [
+          "3",
+          "5"
+        ],
+        "Corner kicks": [
+          "4",
+          "12"
+        ],
+        "Yellow cards": [
+          "5",
+          "2"
+        ],
+        "Red cards": [
+          "1",
+          "0"
+        ],
+        "Shots off target": [
+          "1",
+          "8"
+        ],
+        "Offsides": [
+          "1",
+          "2"
+        ],
+        "Free kicks": [
+          "11",
+          "17"
+        ],
+        "Throw ins": [
+          "17",
+          "17"
+        ],
+        "Fouls": [
+          "15",
+          "8"
+        ],
+        "Goalkeeper saves": [
+          "4",
+          "2"
+        ]
+      }
+    },
+    {
+      "id": "rirxpdqK",
+      "date": "2025-09-13T17:30:00.000Z",
+      "round": "Round 9",
+      "homeTeam": "Slask Wroclaw",
+      "awayTeam": "Puszcza Niepolomice",
+      "homeScore": 2,
+      "awayScore": 0,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "50%",
+          "50%"
+        ],
+        "Total shots": [
+          "11",
+          "8"
+        ],
+        "Shots on target": [
+          "5",
+          "3"
+        ],
+        "Corner kicks": [
+          "5",
+          "7"
+        ],
+        "Yellow cards": [
+          "2",
+          "2"
+        ],
+        "Shots off target": [
+          "6",
+          "5"
+        ],
+        "Offsides": [
+          "1",
+          "2"
+        ],
+        "Free kicks": [
+          "19",
+          "9"
+        ],
+        "Throw ins": [
+          "12",
+          "13"
+        ],
+        "Fouls": [
+          "6",
+          "14"
+        ],
+        "Goalkeeper saves": [
+          "3",
+          "3"
+        ]
+      }
+    },
+    {
+      "id": "2e5kMhiD",
+      "date": "2025-09-13T17:30:00.000Z",
+      "round": "Round 9",
+      "homeTeam": "Stal Rzeszow",
+      "awayTeam": "Znicz Pruszków",
+      "homeScore": 1,
+      "awayScore": 0,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "55%",
+          "45%"
+        ],
+        "Total shots": [
+          "11",
+          "24"
+        ],
+        "Shots on target": [
+          "4",
+          "5"
+        ],
+        "Corner kicks": [
+          "5",
+          "6"
+        ],
+        "Shots off target": [
+          "7",
+          "19"
+        ],
+        "Offsides": [
+          "4",
+          "3"
+        ],
+        "Free kicks": [
+          "14",
+          "9"
+        ],
+        "Throw ins": [
+          "22",
+          "22"
+        ],
+        "Fouls": [
+          "0",
+          "0"
+        ],
+        "Goalkeeper saves": [
+          "5",
+          "3"
+        ]
+      }
+    },
+    {
+      "id": "z3xGxEyf",
+      "date": "2025-09-13T17:30:00.000Z",
+      "round": "Round 9",
+      "homeTeam": "Wisla Krakow",
+      "awayTeam": "Odra Opole",
+      "homeScore": 2,
+      "awayScore": 2,
+      "htHome": 1,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "61%",
+          "39%"
+        ],
+        "Total shots": [
+          "13",
+          "5"
+        ],
+        "Shots on target": [
+          "7",
+          "3"
+        ],
+        "Corner kicks": [
+          "7",
+          "2"
+        ],
+        "Yellow cards": [
+          "2",
+          "2"
+        ],
+        "Shots off target": [
+          "6",
+          "2"
+        ],
+        "Offsides": [
+          "3",
+          "2"
+        ],
+        "Free kicks": [
+          "23",
+          "17"
+        ],
+        "Throw ins": [
+          "25",
+          "27"
+        ],
+        "Fouls": [
+          "14",
+          "20"
+        ],
+        "Goalkeeper saves": [
+          "1",
+          "5"
+        ]
+      }
+    },
+    {
+      "id": "tSy89F77",
+      "date": "2025-09-12T18:30:00.000Z",
+      "round": "Round 9",
+      "homeTeam": "Chrobry Glogow",
+      "awayTeam": "MKP Pogon Siedlce",
+      "homeScore": 2,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "58%",
+          "42%"
+        ],
+        "Total shots": [
+          "19",
+          "3"
+        ],
+        "Shots on target": [
+          "6",
+          "2"
+        ],
+        "Corner kicks": [
+          "8",
+          "0"
+        ],
+        "Yellow cards": [
+          "2",
+          "3"
+        ],
+        "Shots off target": [
+          "13",
+          "1"
+        ],
+        "Offsides": [
+          "0",
+          "0"
+        ],
+        "Free kicks": [
+          "13",
+          "17"
+        ],
+        "Throw ins": [
+          "18",
+          "20"
+        ],
+        "Fouls": [
+          "16",
+          "13"
+        ],
+        "Goalkeeper saves": [
+          "1",
+          "4"
+        ]
+      }
+    },
+    {
+      "id": "8YTgXIaE",
+      "date": "2025-09-12T16:00:00.000Z",
+      "round": "Round 9",
+      "homeTeam": "GKS Tychy 71",
+      "awayTeam": "Polonia Bytom",
+      "homeScore": 1,
+      "awayScore": 2,
+      "htHome": 1,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "54%",
+          "46%"
+        ],
+        "Total shots": [
+          "3",
+          "6"
+        ],
+        "Shots on target": [
+          "1",
+          "2"
+        ],
+        "Corner kicks": [
+          "12",
+          "9"
+        ],
+        "Yellow cards": [
+          "3",
+          "3"
+        ],
+        "Shots off target": [
+          "2",
+          "4"
+        ],
+        "Offsides": [
+          "2",
+          "2"
+        ],
+        "Free kicks": [
+          "15",
+          "6"
+        ],
+        "Throw ins": [
+          "24",
+          "12"
+        ],
+        "Fouls": [
+          "4",
+          "12"
+        ],
+        "Goalkeeper saves": [
+          "0",
+          "0"
+        ]
+      }
+    },
+    {
+      "id": "dErKKuG8",
+      "date": "2025-08-31T17:30:00.000Z",
+      "round": "Round 8",
+      "homeTeam": "Puszcza Niepolomice",
+      "awayTeam": "Chrobry Glogow",
+      "homeScore": 0,
+      "awayScore": 0,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "45%",
+          "55%"
+        ],
+        "Total shots": [
+          "10",
+          "7"
+        ],
+        "Shots on target": [
+          "2",
+          "4"
+        ],
+        "Corner kicks": [
+          "3",
+          "3"
+        ],
+        "Shots off target": [
+          "8",
+          "3"
+        ],
+        "Offsides": [
+          "0",
+          "2"
+        ],
+        "Free kicks": [
+          "10",
+          "13"
+        ],
+        "Throw ins": [
+          "22",
+          "16"
+        ],
+        "Fouls": [
+          "0",
+          "0"
+        ],
+        "Goalkeeper saves": [
+          "4",
+          "2"
+        ]
+      }
+    },
+    {
+      "id": "COcgXcrH",
+      "date": "2025-08-31T15:30:00.000Z",
+      "round": "Round 8",
+      "homeTeam": "Odra Opole",
+      "awayTeam": "LKS Lodz",
+      "homeScore": 1,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "55%",
+          "45%"
+        ],
+        "Total shots": [
+          "13",
+          "12"
+        ],
+        "Shots on target": [
+          "5",
+          "5"
+        ],
+        "Corner kicks": [
+          "5",
+          "4"
+        ],
+        "Yellow cards": [
+          "3",
+          "2"
+        ],
+        "Shots off target": [
+          "8",
+          "7"
+        ],
+        "Offsides": [
+          "1",
+          "3"
+        ],
+        "Free kicks": [
+          "19",
+          "12"
+        ],
+        "Throw ins": [
+          "25",
+          "11"
+        ],
+        "Fouls": [
+          "12",
+          "16"
+        ],
+        "Goalkeeper saves": [
+          "4",
+          "4"
+        ]
+      }
+    },
+    {
+      "id": "URtSIJpL",
+      "date": "2025-08-31T12:30:00.000Z",
+      "round": "Round 8",
+      "homeTeam": "Stal Mielec",
+      "awayTeam": "Ruch Chorzow",
+      "homeScore": 2,
+      "awayScore": 2,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "51%",
+          "49%"
+        ],
+        "Total shots": [
+          "8",
+          "10"
+        ],
+        "Shots on target": [
+          "2",
+          "5"
+        ],
+        "Corner kicks": [
+          "3",
+          "2"
+        ],
+        "Yellow cards": [
+          "3",
+          "0"
+        ],
+        "Shots off target": [
+          "6",
+          "5"
+        ],
+        "Offsides": [
+          "2",
+          "2"
+        ],
+        "Free kicks": [
+          "15",
+          "14"
+        ],
+        "Throw ins": [
+          "20",
+          "21"
+        ],
+        "Fouls": [
+          "10",
+          "5"
+        ],
+        "Goalkeeper saves": [
+          "3",
+          "0"
+        ]
+      }
+    },
+    {
+      "id": "Olnwytqh",
+      "date": "2025-08-30T17:30:00.000Z",
+      "round": "Round 8",
+      "homeTeam": "Gornik Leczna",
+      "awayTeam": "Stal Rzeszow",
+      "homeScore": 0,
+      "awayScore": 4,
+      "htHome": 0,
+      "htAway": 2,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "66%",
+          "34%"
+        ],
+        "Total shots": [
+          "10",
+          "13"
+        ],
+        "Shots on target": [
+          "4",
+          "6"
+        ],
+        "Corner kicks": [
+          "9",
+          "5"
+        ],
+        "Yellow cards": [
+          "3",
+          "3"
+        ],
+        "Red cards": [
+          "0",
+          "1"
+        ],
+        "Shots off target": [
+          "6",
+          "7"
+        ],
+        "Offsides": [
+          "1",
+          "2"
+        ],
+        "Free kicks": [
+          "12",
+          "12"
+        ],
+        "Throw ins": [
+          "26",
+          "20"
+        ],
+        "Fouls": [
+          "11",
+          "10"
+        ]
+      }
+    },
+    {
+      "id": "vwEZCTd2",
+      "date": "2025-08-30T17:30:00.000Z",
+      "round": "Round 8",
+      "homeTeam": "Polonia Warsaw",
+      "awayTeam": "Pogon Grodzisk Mazowiecki",
+      "homeScore": 2,
+      "awayScore": 1,
+      "htHome": 2,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "57%",
+          "43%"
+        ],
+        "Total shots": [
+          "10",
+          "12"
+        ],
+        "Shots on target": [
+          "4",
+          "3"
+        ],
+        "Corner kicks": [
+          "10",
+          "4"
+        ],
+        "Yellow cards": [
+          "2",
+          "1"
+        ],
+        "Shots off target": [
+          "6",
+          "9"
+        ],
+        "Offsides": [
+          "4",
+          "2"
+        ],
+        "Free kicks": [
+          "13",
+          "14"
+        ],
+        "Throw ins": [
+          "11",
+          "17"
+        ],
+        "Fouls": [
+          "11",
+          "11"
+        ]
+      }
+    },
+    {
+      "id": "KCmaBywe",
+      "date": "2025-08-30T17:30:00.000Z",
+      "round": "Round 8",
+      "homeTeam": "Znicz Pruszków",
+      "awayTeam": "MKP Pogon Siedlce",
+      "homeScore": 0,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "50%",
+          "50%"
+        ],
+        "Total shots": [
+          "16",
+          "9"
+        ],
+        "Shots on target": [
+          "5",
+          "2"
+        ],
+        "Corner kicks": [
+          "10",
+          "4"
+        ],
+        "Yellow cards": [
+          "0",
+          "2"
+        ],
+        "Shots off target": [
+          "11",
+          "7"
+        ],
+        "Offsides": [
+          "3",
+          "2"
+        ],
+        "Free kicks": [
+          "16",
+          "16"
+        ],
+        "Throw ins": [
+          "28",
+          "25"
+        ],
+        "Fouls": [
+          "13",
+          "13"
+        ]
+      }
+    },
+    {
+      "id": "WCAREkSk",
+      "date": "2025-08-30T12:45:00.000Z",
+      "round": "Round 8",
+      "homeTeam": "Polonia Bytom",
+      "awayTeam": "Wieczysta Krakow",
+      "homeScore": 4,
+      "awayScore": 2,
+      "htHome": 3,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "49%",
+          "51%"
+        ],
+        "Total shots": [
+          "17",
+          "9"
+        ],
+        "Shots on target": [
+          "7",
+          "5"
+        ],
+        "Corner kicks": [
+          "3",
+          "4"
+        ],
+        "Yellow cards": [
+          "2",
+          "2"
+        ],
+        "Shots off target": [
+          "10",
+          "4"
+        ],
+        "Offsides": [
+          "0",
+          "1"
+        ],
+        "Free kicks": [
+          "17",
+          "11"
+        ],
+        "Throw ins": [
+          "22",
+          "19"
+        ],
+        "Fouls": [
+          "12",
+          "16"
+        ]
+      }
+    },
+    {
+      "id": "KGunZJD4",
+      "date": "2025-08-29T18:30:00.000Z",
+      "round": "Round 8",
+      "homeTeam": "Miedz Legnica",
+      "awayTeam": "Wisla Krakow",
+      "homeScore": 2,
+      "awayScore": 0,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "52%",
+          "48%"
+        ],
+        "Total shots": [
+          "11",
+          "5"
+        ],
+        "Shots on target": [
+          "2",
+          "2"
+        ],
+        "Corner kicks": [
+          "4",
+          "5"
+        ],
+        "Yellow cards": [
+          "0",
+          "4"
+        ],
+        "Shots off target": [
+          "9",
+          "3"
+        ],
+        "Offsides": [
+          "1",
+          "2"
+        ],
+        "Free kicks": [
+          "13",
+          "11"
+        ],
+        "Throw ins": [
+          "32",
+          "20"
+        ],
+        "Fouls": [
+          "11",
+          "9"
+        ]
+      }
+    },
+    {
+      "id": "CnpiDc8r",
+      "date": "2025-08-29T16:00:00.000Z",
+      "round": "Round 8",
+      "homeTeam": "Slask Wroclaw",
+      "awayTeam": "GKS Tychy 71",
+      "homeScore": 2,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "53%",
+          "47%"
+        ],
+        "Total shots": [
+          "14",
+          "6"
+        ],
+        "Shots on target": [
+          "5",
+          "2"
+        ],
+        "Corner kicks": [
+          "6",
+          "8"
+        ],
+        "Red cards": [
+          "0",
+          "1"
+        ],
+        "Shots off target": [
+          "9",
+          "4"
+        ],
+        "Offsides": [
+          "1",
+          "3"
+        ],
+        "Free kicks": [
+          "9",
+          "12"
+        ],
+        "Throw ins": [
+          "20",
+          "19"
+        ],
+        "Fouls": [
+          "10",
+          "6"
+        ]
+      }
+    },
+    {
+      "id": "rB2M93pg",
+      "date": "2025-08-25T17:00:00.000Z",
+      "round": "Round 7",
+      "homeTeam": "GKS Tychy 71",
+      "awayTeam": "Stal Mielec",
+      "homeScore": 0,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "56%",
+          "44%"
+        ],
+        "Total shots": [
+          "4",
+          "4"
+        ],
+        "Shots on target": [
+          "1",
+          "1"
+        ],
+        "Corner kicks": [
+          "2",
+          "4"
+        ],
+        "Yellow cards": [
+          "4",
+          "6"
+        ],
+        "Red cards": [
+          "0",
+          "1"
+        ],
+        "Shots off target": [
+          "3",
+          "3"
+        ],
+        "Offsides": [
+          "1",
+          "1"
+        ],
+        "Free kicks": [
+          "15",
+          "10"
+        ],
+        "Throw ins": [
+          "27",
+          "11"
+        ],
+        "Fouls": [
+          "9",
+          "14"
+        ]
+      }
+    },
+    {
+      "id": "CAIKIbTN",
+      "date": "2025-08-25T15:30:00.000Z",
+      "round": "Round 7",
+      "homeTeam": "Wieczysta Krakow",
+      "awayTeam": "Gornik Leczna",
+      "homeScore": 2,
+      "awayScore": 2,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "48%",
+          "52%"
+        ],
+        "Total shots": [
+          "8",
+          "10"
+        ],
+        "Shots on target": [
+          "2",
+          "3"
+        ],
+        "Corner kicks": [
+          "12",
+          "7"
+        ],
+        "Yellow cards": [
+          "2",
+          "0"
+        ],
+        "Shots off target": [
+          "6",
+          "7"
+        ],
+        "Offsides": [
+          "2",
+          "1"
+        ],
+        "Free kicks": [
+          "10",
+          "16"
+        ],
+        "Throw ins": [
+          "18",
+          "16"
+        ],
+        "Fouls": [
+          "14",
+          "8"
+        ]
+      }
+    },
+    {
+      "id": "dESeO2an",
+      "date": "2025-08-24T17:30:00.000Z",
+      "round": "Round 7",
+      "homeTeam": "MKP Pogon Siedlce",
+      "awayTeam": "Puszcza Niepolomice",
+      "homeScore": 0,
+      "awayScore": 0,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "34%",
+          "66%"
+        ],
+        "Total shots": [
+          "4",
+          "9"
+        ],
+        "Shots on target": [
+          "2",
+          "2"
+        ],
+        "Corner kicks": [
+          "1",
+          "4"
+        ],
+        "Yellow cards": [
+          "3",
+          "4"
+        ],
+        "Shots off target": [
+          "2",
+          "7"
+        ],
+        "Offsides": [
+          "2",
+          "1"
+        ],
+        "Free kicks": [
+          "10",
+          "19"
+        ],
+        "Throw ins": [
+          "25",
+          "29"
+        ],
+        "Fouls": [
+          "17",
+          "9"
+        ]
+      }
+    },
+    {
+      "id": "4vW3MtUb",
+      "date": "2025-08-24T15:30:00.000Z",
+      "round": "Round 7",
+      "homeTeam": "Ruch Chorzow",
+      "awayTeam": "Polonia Bytom",
+      "homeScore": 1,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "52%",
+          "48%"
+        ],
+        "Total shots": [
+          "12",
+          "8"
+        ],
+        "Shots on target": [
+          "2",
+          "3"
+        ],
+        "Corner kicks": [
+          "3",
+          "5"
+        ],
+        "Yellow cards": [
+          "5",
+          "1"
+        ],
+        "Shots off target": [
+          "10",
+          "5"
+        ],
+        "Offsides": [
+          "0",
+          "3"
+        ],
+        "Free kicks": [
+          "17",
+          "17"
+        ],
+        "Throw ins": [
+          "23",
+          "18"
+        ],
+        "Fouls": [
+          "16",
+          "11"
+        ]
+      }
+    },
+    {
+      "id": "WfaiDxio",
+      "date": "2025-08-24T12:30:00.000Z",
+      "round": "Round 7",
+      "homeTeam": "Wisla Krakow",
+      "awayTeam": "Slask Wroclaw",
+      "homeScore": 5,
+      "awayScore": 0,
+      "htHome": 2,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "62%",
+          "38%"
+        ],
+        "Total shots": [
+          "16",
+          "5"
+        ],
+        "Shots on target": [
+          "7",
+          "1"
+        ],
+        "Corner kicks": [
+          "5",
+          "3"
+        ],
+        "Yellow cards": [
+          "1",
+          "1"
+        ],
+        "Shots off target": [
+          "9",
+          "4"
+        ],
+        "Offsides": [
+          "3",
+          "0"
+        ],
+        "Free kicks": [
+          "9",
+          "19"
+        ],
+        "Throw ins": [
+          "13",
+          "13"
+        ],
+        "Fouls": [
+          "16",
+          "7"
+        ]
+      }
+    },
+    {
+      "id": "pzaw6LqI",
+      "date": "2025-08-24T10:00:00.000Z",
+      "round": "Round 7",
+      "homeTeam": "Odra Opole",
+      "awayTeam": "Znicz Pruszków",
+      "homeScore": 0,
+      "awayScore": 2,
+      "htHome": 0,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "51%",
+          "49%"
+        ],
+        "Total shots": [
+          "13",
+          "9"
+        ],
+        "Shots on target": [
+          "4",
+          "4"
+        ],
+        "Corner kicks": [
+          "5",
+          "4"
+        ],
+        "Yellow cards": [
+          "2",
+          "3"
+        ],
+        "Red cards": [
+          "1",
+          "0"
+        ],
+        "Shots off target": [
+          "9",
+          "5"
+        ],
+        "Offsides": [
+          "5",
+          "4"
+        ],
+        "Free kicks": [
+          "19",
+          "13"
+        ],
+        "Throw ins": [
+          "19",
+          "11"
+        ],
+        "Fouls": [
+          "7",
+          "15"
+        ]
+      }
+    },
+    {
+      "id": "Imco4aEU",
+      "date": "2025-08-23T17:30:00.000Z",
+      "round": "Round 7",
+      "homeTeam": "Pogon Grodzisk Mazowiecki",
+      "awayTeam": "Chrobry Glogow",
+      "homeScore": 1,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "43%",
+          "57%"
+        ],
+        "Total shots": [
+          "12",
+          "16"
+        ],
+        "Shots on target": [
+          "6",
+          "7"
+        ],
+        "Corner kicks": [
+          "6",
+          "4"
+        ],
+        "Yellow cards": [
+          "1",
+          "2"
+        ],
+        "Shots off target": [
+          "6",
+          "9"
+        ],
+        "Offsides": [
+          "1",
+          "1"
+        ],
+        "Free kicks": [
+          "9",
+          "11"
+        ],
+        "Throw ins": [
+          "15",
+          "26"
+        ],
+        "Fouls": [
+          "9",
+          "8"
+        ]
+      }
+    },
+    {
+      "id": "jy6U7sF5",
+      "date": "2025-08-23T17:30:00.000Z",
+      "round": "Round 7",
+      "homeTeam": "LKS Lodz",
+      "awayTeam": "Polonia Warsaw",
+      "homeScore": 2,
+      "awayScore": 2,
+      "htHome": 0,
+      "htAway": 2,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "69%",
+          "31%"
+        ],
+        "Total shots": [
+          "8",
+          "7"
+        ],
+        "Shots on target": [
+          "2",
+          "4"
+        ],
+        "Corner kicks": [
+          "10",
+          "5"
+        ],
+        "Yellow cards": [
+          "1",
+          "1"
+        ],
+        "Shots off target": [
+          "6",
+          "3"
+        ],
+        "Offsides": [
+          "3",
+          "1"
+        ],
+        "Free kicks": [
+          "9",
+          "14"
+        ],
+        "Throw ins": [
+          "32",
+          "14"
+        ],
+        "Fouls": [
+          "11",
+          "8"
+        ]
+      }
+    },
+    {
+      "id": "QgKCKKbB",
+      "date": "2025-08-23T17:30:00.000Z",
+      "round": "Round 7",
+      "homeTeam": "Stal Rzeszow",
+      "awayTeam": "Miedz Legnica",
+      "homeScore": 1,
+      "awayScore": 2,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "48%",
+          "52%"
+        ],
+        "Total shots": [
+          "7",
+          "12"
+        ],
+        "Shots on target": [
+          "2",
+          "5"
+        ],
+        "Corner kicks": [
+          "7",
+          "5"
+        ],
+        "Yellow cards": [
+          "2",
+          "2"
+        ],
+        "Shots off target": [
+          "5",
+          "7"
+        ],
+        "Offsides": [
+          "0",
+          "1"
+        ],
+        "Free kicks": [
+          "10",
+          "7"
+        ],
+        "Throw ins": [
+          "13",
+          "19"
+        ],
+        "Fouls": [
+          "7",
+          "10"
+        ]
+      }
+    },
+    {
+      "id": "v3uMt5G6",
+      "date": "2025-08-21T17:30:00.000Z",
+      "round": "Round 6",
+      "homeTeam": "Gornik Leczna",
+      "awayTeam": "MKP Pogon Siedlce",
+      "homeScore": 1,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "57%",
+          "43%"
+        ],
+        "Total shots": [
+          "17",
+          "8"
+        ],
+        "Shots on target": [
+          "4",
+          "2"
+        ],
+        "Corner kicks": [
+          "7",
+          "5"
+        ],
+        "Yellow cards": [
+          "1",
+          "2"
+        ],
+        "Shots off target": [
+          "13",
+          "6"
+        ],
+        "Offsides": [
+          "0",
+          "3"
+        ],
+        "Free kicks": [
+          "15",
+          "17"
+        ],
+        "Throw ins": [
+          "13",
+          "13"
+        ],
+        "Fouls": [
+          "16",
+          "12"
+        ]
+      }
+    },
+    {
+      "id": "h65ee4Va",
+      "date": "2025-08-21T17:30:00.000Z",
+      "round": "Round 6",
+      "homeTeam": "Puszcza Niepolomice",
+      "awayTeam": "GKS Tychy 71",
+      "homeScore": 1,
+      "awayScore": 2,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "36%",
+          "64%"
+        ],
+        "Total shots": [
+          "9",
+          "14"
+        ],
+        "Shots on target": [
+          "4",
+          "3"
+        ],
+        "Corner kicks": [
+          "2",
+          "11"
+        ],
+        "Yellow cards": [
+          "0",
+          "2"
+        ],
+        "Shots off target": [
+          "5",
+          "11"
+        ],
+        "Offsides": [
+          "2",
+          "0"
+        ],
+        "Free kicks": [
+          "8",
+          "12"
+        ],
+        "Throw ins": [
+          "18",
+          "21"
+        ],
+        "Fouls": [
+          "10",
+          "8"
+        ]
+      }
+    },
+    {
+      "id": "WWY3iMUO",
+      "date": "2025-08-21T17:30:00.000Z",
+      "round": "Round 6",
+      "homeTeam": "Stal Mielec",
+      "awayTeam": "Odra Opole",
+      "homeScore": 2,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "53%",
+          "47%"
+        ],
+        "Total shots": [
+          "7",
+          "9"
+        ],
+        "Shots on target": [
+          "3",
+          "3"
+        ],
+        "Corner kicks": [
+          "5",
+          "5"
+        ],
+        "Yellow cards": [
+          "5",
+          "2"
+        ],
+        "Red cards": [
+          "1",
+          "0"
+        ],
+        "Shots off target": [
+          "4",
+          "6"
+        ],
+        "Offsides": [
+          "1",
+          "3"
+        ],
+        "Free kicks": [
+          "9",
+          "14"
+        ],
+        "Throw ins": [
+          "22",
+          "18"
+        ],
+        "Fouls": [
+          "11",
+          "5"
+        ]
+      }
+    },
+    {
+      "id": "QJ33gr0C",
+      "date": "2025-08-20T18:30:00.000Z",
+      "round": "Round 6",
+      "homeTeam": "Ruch Chorzow",
+      "awayTeam": "Stal Rzeszow",
+      "homeScore": 4,
+      "awayScore": 0,
+      "htHome": 2,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "55%",
+          "45%"
+        ],
+        "Total shots": [
+          "21",
+          "9"
+        ],
+        "Shots on target": [
+          "8",
+          "0"
+        ],
+        "Corner kicks": [
+          "5",
+          "10"
+        ],
+        "Shots off target": [
+          "13",
+          "9"
+        ],
+        "Offsides": [
+          "3",
+          "1"
+        ],
+        "Free kicks": [
+          "7",
+          "7"
+        ],
+        "Throw ins": [
+          "17",
+          "19"
+        ],
+        "Fouls": [
+          "5",
+          "6"
+        ]
+      }
+    },
+    {
+      "id": "rynDrRof",
+      "date": "2025-08-20T16:00:00.000Z",
+      "round": "Round 6",
+      "homeTeam": "Chrobry Glogow",
+      "awayTeam": "Slask Wroclaw",
+      "homeScore": 1,
+      "awayScore": 2,
+      "htHome": 0,
+      "htAway": 2,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "56%",
+          "44%"
+        ],
+        "Total shots": [
+          "8",
+          "11"
+        ],
+        "Shots on target": [
+          "3",
+          "10"
+        ],
+        "Corner kicks": [
+          "12",
+          "3"
+        ],
+        "Yellow cards": [
+          "3",
+          "4"
+        ],
+        "Shots off target": [
+          "5",
+          "1"
+        ],
+        "Offsides": [
+          "1",
+          "0"
+        ],
+        "Free kicks": [
+          "16",
+          "16"
+        ],
+        "Throw ins": [
+          "19",
+          "13"
+        ],
+        "Fouls": [
+          "15",
+          "15"
+        ]
+      }
+    },
+    {
+      "id": "QeLG2nwQ",
+      "date": "2025-08-20T16:00:00.000Z",
+      "round": "Round 6",
+      "homeTeam": "Polonia Bytom",
+      "awayTeam": "Pogon Grodzisk Mazowiecki",
+      "homeScore": 3,
+      "awayScore": 0,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "51%",
+          "49%"
+        ],
+        "Total shots": [
+          "8",
+          "8"
+        ],
+        "Shots on target": [
+          "4",
+          "3"
+        ],
+        "Corner kicks": [
+          "7",
+          "3"
+        ],
+        "Yellow cards": [
+          "4",
+          "2"
+        ],
+        "Shots off target": [
+          "4",
+          "5"
+        ],
+        "Offsides": [
+          "0",
+          "1"
+        ],
+        "Free kicks": [
+          "12",
+          "14"
+        ],
+        "Throw ins": [
+          "13",
+          "17"
+        ],
+        "Fouls": [
+          "14",
+          "11"
+        ]
+      }
+    },
+    {
+      "id": "MeEDBPFt",
+      "date": "2025-08-19T18:30:00.000Z",
+      "round": "Round 6",
+      "homeTeam": "Znicz Pruszków",
+      "awayTeam": "Wisla Krakow",
+      "homeScore": 0,
+      "awayScore": 7,
+      "htHome": 0,
+      "htAway": 3,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "35%",
+          "65%"
+        ],
+        "Total shots": [
+          "6",
+          "22"
+        ],
+        "Shots on target": [
+          "2",
+          "9"
+        ],
+        "Corner kicks": [
+          "2",
+          "8"
+        ],
+        "Yellow cards": [
+          "2",
+          "1"
+        ],
+        "Shots off target": [
+          "4",
+          "13"
+        ],
+        "Offsides": [
+          "2",
+          "0"
+        ],
+        "Free kicks": [
+          "12",
+          "11"
+        ],
+        "Throw ins": [
+          "26",
+          "24"
+        ],
+        "Fouls": [
+          "8",
+          "12"
+        ]
+      }
+    },
+    {
+      "id": "dvCncQ0m",
+      "date": "2025-08-19T16:00:00.000Z",
+      "round": "Round 6",
+      "homeTeam": "Polonia Warsaw",
+      "awayTeam": "Wieczysta Krakow",
+      "homeScore": 1,
+      "awayScore": 6,
+      "htHome": 0,
+      "htAway": 2,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "48%",
+          "52%"
+        ],
+        "Total shots": [
+          "3",
+          "14"
+        ],
+        "Shots on target": [
+          "1",
+          "10"
+        ],
+        "Corner kicks": [
+          "8",
+          "6"
+        ],
+        "Yellow cards": [
+          "3",
+          "2"
+        ],
+        "Shots off target": [
+          "2",
+          "4"
+        ],
+        "Offsides": [
+          "2",
+          "2"
+        ],
+        "Free kicks": [
+          "19",
+          "12"
+        ],
+        "Throw ins": [
+          "11",
+          "18"
+        ],
+        "Fouls": [
+          "10",
+          "17"
+        ]
+      }
+    },
+    {
+      "id": "p0rUvqoJ",
+      "date": "2025-08-19T14:00:00.000Z",
+      "round": "Round 6",
+      "homeTeam": "Miedz Legnica",
+      "awayTeam": "LKS Lodz",
+      "homeScore": 2,
+      "awayScore": 1,
+      "htHome": 2,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "42%",
+          "58%"
+        ],
+        "Total shots": [
+          "9",
+          "8"
+        ],
+        "Shots on target": [
+          "2",
+          "2"
+        ],
+        "Corner kicks": [
+          "6",
+          "7"
+        ],
+        "Yellow cards": [
+          "1",
+          "2"
+        ],
+        "Shots off target": [
+          "7",
+          "6"
+        ],
+        "Offsides": [
+          "1",
+          "1"
+        ],
+        "Free kicks": [
+          "16",
+          "13"
+        ],
+        "Throw ins": [
+          "14",
+          "21"
+        ],
+        "Fouls": [
+          "13",
+          "14"
+        ]
+      }
+    },
+    {
+      "id": "lAfxsEAk",
+      "date": "2025-08-17T17:30:00.000Z",
+      "round": "Round 5",
+      "homeTeam": "MKP Pogon Siedlce",
+      "awayTeam": "Polonia Bytom",
+      "homeScore": 2,
+      "awayScore": 0,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "53%",
+          "47%"
+        ],
+        "Total shots": [
+          "10",
+          "12"
+        ],
+        "Shots on target": [
+          "5",
+          "0"
+        ],
+        "Corner kicks": [
+          "6",
+          "8"
+        ],
+        "Yellow cards": [
+          "1",
+          "6"
+        ],
+        "Shots off target": [
+          "5",
+          "12"
+        ],
+        "Offsides": [
+          "1",
+          "1"
+        ],
+        "Free kicks": [
+          "24",
+          "16"
+        ],
+        "Throw ins": [
+          "22",
+          "23"
+        ],
+        "Fouls": [
+          "14",
+          "20"
+        ]
+      }
+    },
+    {
+      "id": "tWBeUzRq",
+      "date": "2025-08-17T15:00:00.000Z",
+      "round": "Round 5",
+      "homeTeam": "GKS Tychy 71",
+      "awayTeam": "Gornik Leczna",
+      "homeScore": 2,
+      "awayScore": 2,
+      "htHome": 2,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "54%",
+          "46%"
+        ],
+        "Total shots": [
+          "8",
+          "9"
+        ],
+        "Shots on target": [
+          "4",
+          "3"
+        ],
+        "Corner kicks": [
+          "8",
+          "7"
+        ],
+        "Yellow cards": [
+          "2",
+          "1"
+        ],
+        "Red cards": [
+          "1",
+          "0"
+        ],
+        "Shots off target": [
+          "4",
+          "6"
+        ],
+        "Offsides": [
+          "2",
+          "3"
+        ],
+        "Free kicks": [
+          "12",
+          "16"
+        ],
+        "Throw ins": [
+          "25",
+          "9"
+        ],
+        "Fouls": [
+          "12",
+          "10"
+        ]
+      }
+    },
+    {
+      "id": "MaAcldIF",
+      "date": "2025-08-17T12:30:00.000Z",
+      "round": "Round 5",
+      "homeTeam": "Odra Opole",
+      "awayTeam": "Slask Wroclaw",
+      "homeScore": 1,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "41%",
+          "59%"
+        ],
+        "Total shots": [
+          "11",
+          "11"
+        ],
+        "Shots on target": [
+          "5",
+          "3"
+        ],
+        "Corner kicks": [
+          "8",
+          "6"
+        ],
+        "Yellow cards": [
+          "1",
+          "0"
+        ],
+        "Red cards": [
+          "0",
+          "1"
+        ],
+        "Shots off target": [
+          "6",
+          "8"
+        ],
+        "Offsides": [
+          "2",
+          "3"
+        ],
+        "Free kicks": [
+          "19",
+          "15"
+        ],
+        "Throw ins": [
+          "14",
+          "19"
+        ],
+        "Fouls": [
+          "11",
+          "18"
+        ]
+      }
+    },
+    {
+      "id": "lnCkjIm3",
+      "date": "2025-08-16T17:30:00.000Z",
+      "round": "Round 5",
+      "homeTeam": "Chrobry Glogow",
+      "awayTeam": "Miedz Legnica",
+      "homeScore": 2,
+      "awayScore": 2,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "49%",
+          "51%"
+        ],
+        "Total shots": [
+          "8",
+          "12"
+        ],
+        "Shots on target": [
+          "3",
+          "3"
+        ],
+        "Corner kicks": [
+          "4",
+          "7"
+        ],
+        "Yellow cards": [
+          "4",
+          "4"
+        ],
+        "Shots off target": [
+          "5",
+          "9"
+        ],
+        "Offsides": [
+          "1",
+          "0"
+        ],
+        "Free kicks": [
+          "12",
+          "11"
+        ],
+        "Throw ins": [
+          "23",
+          "20"
+        ],
+        "Fouls": [
+          "8",
+          "11"
+        ]
+      }
+    },
+    {
+      "id": "IR36nzmS",
+      "date": "2025-08-16T17:30:00.000Z",
+      "round": "Round 5",
+      "homeTeam": "Pogon Grodzisk Mazowiecki",
+      "awayTeam": "Znicz Pruszków",
+      "homeScore": 4,
+      "awayScore": 1,
+      "htHome": 3,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "52%",
+          "48%"
+        ],
+        "Total shots": [
+          "13",
+          "17"
+        ],
+        "Shots on target": [
+          "7",
+          "7"
+        ],
+        "Corner kicks": [
+          "6",
+          "8"
+        ],
+        "Yellow cards": [
+          "0",
+          "1"
+        ],
+        "Shots off target": [
+          "6",
+          "10"
+        ],
+        "Offsides": [
+          "1",
+          "4"
+        ],
+        "Free kicks": [
+          "13",
+          "11"
+        ],
+        "Throw ins": [
+          "21",
+          "18"
+        ],
+        "Fouls": [
+          "10",
+          "11"
+        ]
+      }
+    },
+    {
+      "id": "GMVW2eX8",
+      "date": "2025-08-16T17:30:00.000Z",
+      "round": "Round 5",
+      "homeTeam": "Stal Rzeszow",
+      "awayTeam": "Puszcza Niepolomice",
+      "homeScore": 2,
+      "awayScore": 2,
+      "htHome": 1,
+      "htAway": 2,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "55%",
+          "45%"
+        ],
+        "Total shots": [
+          "15",
+          "7"
+        ],
+        "Shots on target": [
+          "7",
+          "4"
+        ],
+        "Corner kicks": [
+          "7",
+          "2"
+        ],
+        "Yellow cards": [
+          "1",
+          "5"
+        ],
+        "Red cards": [
+          "0",
+          "1"
+        ],
+        "Shots off target": [
+          "8",
+          "3"
+        ],
+        "Offsides": [
+          "2",
+          "2"
+        ],
+        "Free kicks": [
+          "20",
+          "19"
+        ],
+        "Throw ins": [
+          "35",
+          "16"
+        ],
+        "Fouls": [
+          "15",
+          "18"
+        ]
+      }
+    },
+    {
+      "id": "AProuhu2",
+      "date": "2025-08-15T18:30:00.000Z",
+      "round": "Round 5",
+      "homeTeam": "Polonia Warsaw",
+      "awayTeam": "Ruch Chorzow",
+      "homeScore": 0,
+      "awayScore": 0,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "56%",
+          "44%"
+        ],
+        "Total shots": [
+          "12",
+          "13"
+        ],
+        "Shots on target": [
+          "1",
+          "3"
+        ],
+        "Corner kicks": [
+          "10",
+          "3"
+        ],
+        "Yellow cards": [
+          "0",
+          "3"
+        ],
+        "Shots off target": [
+          "11",
+          "10"
+        ],
+        "Offsides": [
+          "0",
+          "1"
+        ],
+        "Free kicks": [
+          "23",
+          "9"
+        ],
+        "Throw ins": [
+          "17",
+          "29"
+        ],
+        "Fouls": [
+          "8",
+          "22"
+        ]
+      }
+    },
+    {
+      "id": "ldF3SEed",
+      "date": "2025-08-15T16:00:00.000Z",
+      "round": "Round 5",
+      "homeTeam": "LKS Lodz",
+      "awayTeam": "Stal Mielec",
+      "homeScore": 2,
+      "awayScore": 0,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "45%",
+          "55%"
+        ],
+        "Total shots": [
+          "8",
+          "10"
+        ],
+        "Shots on target": [
+          "4",
+          "3"
+        ],
+        "Corner kicks": [
+          "4",
+          "4"
+        ],
+        "Yellow cards": [
+          "2",
+          "0"
+        ],
+        "Shots off target": [
+          "4",
+          "7"
+        ],
+        "Offsides": [
+          "3",
+          "0"
+        ],
+        "Free kicks": [
+          "11",
+          "29"
+        ],
+        "Throw ins": [
+          "15",
+          "20"
+        ],
+        "Fouls": [
+          "21",
+          "10"
+        ]
+      }
+    },
+    {
+      "id": "ARqkNJJG",
+      "date": "2025-08-11T17:00:00.000Z",
+      "round": "Round 4",
+      "homeTeam": "Puszcza Niepolomice",
+      "awayTeam": "Wieczysta Krakow",
+      "homeScore": 0,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "39%",
+          "61%"
+        ],
+        "Total shots": [
+          "4",
+          "6"
+        ],
+        "Shots on target": [
+          "0",
+          "2"
+        ],
+        "Corner kicks": [
+          "4",
+          "10"
+        ],
+        "Yellow cards": [
+          "1",
+          "2"
+        ],
+        "Shots off target": [
+          "4",
+          "4"
+        ],
+        "Offsides": [
+          "0",
+          "0"
+        ],
+        "Free kicks": [
+          "17",
+          "15"
+        ],
+        "Throw ins": [
+          "29",
+          "34"
+        ],
+        "Fouls": [
+          "18",
+          "14"
+        ]
+      }
+    },
+    {
+      "id": "dbzPZd3M",
+      "date": "2025-08-10T17:30:00.000Z",
+      "round": "Round 4",
+      "homeTeam": "Znicz Pruszków",
+      "awayTeam": "Polonia Warsaw",
+      "homeScore": 1,
+      "awayScore": 4,
+      "htHome": 0,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "48%",
+          "52%"
+        ],
+        "Total shots": [
+          "9",
+          "19"
+        ],
+        "Shots on target": [
+          "4",
+          "6"
+        ],
+        "Corner kicks": [
+          "3",
+          "4"
+        ],
+        "Yellow cards": [
+          "3",
+          "2"
+        ],
+        "Shots off target": [
+          "5",
+          "13"
+        ],
+        "Offsides": [
+          "0",
+          "3"
+        ],
+        "Free kicks": [
+          "16",
+          "16"
+        ],
+        "Throw ins": [
+          "30",
+          "26"
+        ],
+        "Fouls": [
+          "16",
+          "12"
+        ]
+      }
+    },
+    {
+      "id": "rFhYQ1Ki",
+      "date": "2025-08-10T15:00:00.000Z",
+      "round": "Round 4",
+      "homeTeam": "Odra Opole",
+      "awayTeam": "GKS Tychy 71",
+      "homeScore": 0,
+      "awayScore": 0,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "45%",
+          "55%"
+        ],
+        "Total shots": [
+          "7",
+          "14"
+        ],
+        "Shots on target": [
+          "0",
+          "1"
+        ],
+        "Corner kicks": [
+          "3",
+          "3"
+        ],
+        "Yellow cards": [
+          "0",
+          "3"
+        ],
+        "Shots off target": [
+          "7",
+          "13"
+        ],
+        "Offsides": [
+          "2",
+          "2"
+        ],
+        "Free kicks": [
+          "20",
+          "24"
+        ],
+        "Throw ins": [
+          "24",
+          "31"
+        ],
+        "Fouls": [
+          "19",
+          "17"
+        ]
+      }
+    },
+    {
+      "id": "lYWGyJY9",
+      "date": "2025-08-10T12:30:00.000Z",
+      "round": "Round 4",
+      "homeTeam": "Wisla Krakow",
+      "awayTeam": "Pogon Grodzisk Mazowiecki",
+      "homeScore": 3,
+      "awayScore": 2,
+      "htHome": 3,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "55%",
+          "45%"
+        ],
+        "Total shots": [
+          "11",
+          "10"
+        ],
+        "Shots on target": [
+          "5",
+          "4"
+        ],
+        "Corner kicks": [
+          "7",
+          "4"
+        ],
+        "Shots off target": [
+          "6",
+          "6"
+        ],
+        "Offsides": [
+          "1",
+          "0"
+        ],
+        "Free kicks": [
+          "9",
+          "12"
+        ],
+        "Throw ins": [
+          "16",
+          "20"
+        ],
+        "Fouls": [
+          "9",
+          "8"
+        ]
+      }
+    },
+    {
+      "id": "lCetPuk4",
+      "date": "2025-08-09T17:30:00.000Z",
+      "round": "Round 4",
+      "homeTeam": "Polonia Bytom",
+      "awayTeam": "Stal Rzeszow",
+      "homeScore": 0,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "60%",
+          "40%"
+        ],
+        "Total shots": [
+          "20",
+          "8"
+        ],
+        "Shots on target": [
+          "4",
+          "2"
+        ],
+        "Corner kicks": [
+          "12",
+          "2"
+        ],
+        "Yellow cards": [
+          "3",
+          "3"
+        ],
+        "Red cards": [
+          "0",
+          "1"
+        ],
+        "Shots off target": [
+          "16",
+          "6"
+        ],
+        "Offsides": [
+          "1",
+          "1"
+        ],
+        "Free kicks": [
+          "14",
+          "18"
+        ],
+        "Throw ins": [
+          "15",
+          "16"
+        ],
+        "Fouls": [
+          "16",
+          "13"
+        ]
+      }
+    },
+    {
+      "id": "xxUTFyCj",
+      "date": "2025-08-09T15:30:00.000Z",
+      "round": "Round 4",
+      "homeTeam": "Stal Mielec",
+      "awayTeam": "Gornik Leczna",
+      "homeScore": 1,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "56%",
+          "44%"
+        ],
+        "Total shots": [
+          "20",
+          "7"
+        ],
+        "Shots on target": [
+          "7",
+          "2"
+        ],
+        "Corner kicks": [
+          "5",
+          "4"
+        ],
+        "Yellow cards": [
+          "1",
+          "4"
+        ],
+        "Shots off target": [
+          "13",
+          "5"
+        ],
+        "Offsides": [
+          "4",
+          "3"
+        ],
+        "Free kicks": [
+          "18",
+          "15"
+        ],
+        "Throw ins": [
+          "27",
+          "11"
+        ],
+        "Fouls": [
+          "8",
+          "13"
+        ]
+      }
+    },
+    {
+      "id": "S6Ao3bSp",
+      "date": "2025-08-09T12:30:00.000Z",
+      "round": "Round 4",
+      "homeTeam": "Chrobry Glogow",
+      "awayTeam": "LKS Lodz",
+      "homeScore": 2,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "43%",
+          "57%"
+        ],
+        "Total shots": [
+          "17",
+          "12"
+        ],
+        "Shots on target": [
+          "7",
+          "6"
+        ],
+        "Corner kicks": [
+          "6",
+          "10"
+        ],
+        "Yellow cards": [
+          "3",
+          "1"
+        ],
+        "Shots off target": [
+          "10",
+          "6"
+        ],
+        "Offsides": [
+          "5",
+          "0"
+        ],
+        "Free kicks": [
+          "15",
+          "17"
+        ],
+        "Throw ins": [
+          "16",
+          "26"
+        ],
+        "Fouls": [
+          "11",
+          "16"
+        ]
+      }
+    },
+    {
+      "id": "UVGFwu4c",
+      "date": "2025-08-08T18:30:00.000Z",
+      "round": "Round 4",
+      "homeTeam": "Slask Wroclaw",
+      "awayTeam": "Miedz Legnica",
+      "homeScore": 3,
+      "awayScore": 1,
+      "htHome": 1,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "56%",
+          "44%"
+        ],
+        "Total shots": [
+          "12",
+          "12"
+        ],
+        "Shots on target": [
+          "8",
+          "5"
+        ],
+        "Corner kicks": [
+          "1",
+          "8"
+        ],
+        "Yellow cards": [
+          "1",
+          "3"
+        ],
+        "Red cards": [
+          "0",
+          "1"
+        ],
+        "Shots off target": [
+          "4",
+          "7"
+        ],
+        "Offsides": [
+          "0",
+          "1"
+        ],
+        "Free kicks": [
+          "11",
+          "9"
+        ],
+        "Throw ins": [
+          "18",
+          "22"
+        ],
+        "Fouls": [
+          "6",
+          "9"
+        ]
+      }
+    },
+    {
+      "id": "IimcLclT",
+      "date": "2025-08-08T16:00:00.000Z",
+      "round": "Round 4",
+      "homeTeam": "Ruch Chorzow",
+      "awayTeam": "MKP Pogon Siedlce",
+      "homeScore": 0,
+      "awayScore": 2,
+      "htHome": 0,
+      "htAway": 2,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "64%",
+          "36%"
+        ],
+        "Total shots": [
+          "20",
+          "11"
+        ],
+        "Shots on target": [
+          "4",
+          "3"
+        ],
+        "Corner kicks": [
+          "6",
+          "4"
+        ],
+        "Yellow cards": [
+          "1",
+          "3"
+        ],
+        "Shots off target": [
+          "16",
+          "8"
+        ],
+        "Offsides": [
+          "1",
+          "0"
+        ],
+        "Free kicks": [
+          "15",
+          "15"
+        ],
+        "Throw ins": [
+          "24",
+          "18"
+        ],
+        "Fouls": [
+          "13",
+          "16"
+        ]
+      }
+    },
+    {
+      "id": "h8SFCBas",
+      "date": "2025-08-04T17:00:00.000Z",
+      "round": "Round 3",
+      "homeTeam": "GKS Tychy 71",
+      "awayTeam": "Wisla Krakow",
+      "homeScore": 3,
+      "awayScore": 4,
+      "htHome": 1,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "49%",
+          "51%"
+        ],
+        "Total shots": [
+          "4",
+          "6"
+        ],
+        "Shots on target": [
+          "3",
+          "4"
+        ],
+        "Corner kicks": [
+          "3",
+          "4"
+        ],
+        "Yellow cards": [
+          "1",
+          "3"
+        ],
+        "Shots off target": [
+          "1",
+          "2"
+        ],
+        "Offsides": [
+          "1",
+          "3"
+        ],
+        "Free kicks": [
+          "18",
+          "10"
+        ],
+        "Throw ins": [
+          "16",
+          "18"
+        ],
+        "Fouls": [
+          "9",
+          "18"
+        ]
+      }
+    },
+    {
+      "id": "n7LOAkUg",
+      "date": "2025-08-03T17:30:00.000Z",
+      "round": "Round 3",
+      "homeTeam": "Gornik Leczna",
+      "awayTeam": "Puszcza Niepolomice",
+      "homeScore": 2,
+      "awayScore": 2,
+      "htHome": 2,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "52%",
+          "48%"
+        ],
+        "Total shots": [
+          "11",
+          "10"
+        ],
+        "Shots on target": [
+          "6",
+          "3"
+        ],
+        "Corner kicks": [
+          "6",
+          "5"
+        ],
+        "Yellow cards": [
+          "3",
+          "4"
+        ],
+        "Shots off target": [
+          "5",
+          "7"
+        ],
+        "Offsides": [
+          "0",
+          "0"
+        ],
+        "Free kicks": [
+          "14",
+          "13"
+        ],
+        "Throw ins": [
+          "26",
+          "28"
+        ],
+        "Fouls": [
+          "14",
+          "14"
+        ]
+      }
+    },
+    {
+      "id": "GnDu77TI",
+      "date": "2025-08-03T15:00:00.000Z",
+      "round": "Round 3",
+      "homeTeam": "MKP Pogon Siedlce",
+      "awayTeam": "Odra Opole",
+      "homeScore": 0,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "55%",
+          "45%"
+        ],
+        "Total shots": [
+          "12",
+          "13"
+        ],
+        "Shots on target": [
+          "2",
+          "6"
+        ],
+        "Corner kicks": [
+          "11",
+          "7"
+        ],
+        "Yellow cards": [
+          "1",
+          "2"
+        ],
+        "Shots off target": [
+          "10",
+          "7"
+        ],
+        "Offsides": [
+          "1",
+          "0"
+        ],
+        "Free kicks": [
+          "15",
+          "19"
+        ],
+        "Throw ins": [
+          "22",
+          "13"
+        ],
+        "Fouls": [
+          "14",
+          "14"
+        ]
+      }
+    },
+    {
+      "id": "z9V6AtzB",
+      "date": "2025-08-03T12:30:00.000Z",
+      "round": "Round 3",
+      "homeTeam": "Slask Wroclaw",
+      "awayTeam": "Ruch Chorzow",
+      "homeScore": 3,
+      "awayScore": 1,
+      "htHome": 3,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "57%",
+          "43%"
+        ],
+        "Total shots": [
+          "12",
+          "10"
+        ],
+        "Shots on target": [
+          "5",
+          "3"
+        ],
+        "Corner kicks": [
+          "4",
+          "6"
+        ],
+        "Yellow cards": [
+          "2",
+          "1"
+        ],
+        "Shots off target": [
+          "7",
+          "7"
+        ],
+        "Offsides": [
+          "0",
+          "2"
+        ],
+        "Free kicks": [
+          "13",
+          "13"
+        ],
+        "Throw ins": [
+          "30",
+          "27"
+        ],
+        "Fouls": [
+          "12",
+          "11"
+        ]
+      }
+    },
+    {
+      "id": "tSTjEOzn",
+      "date": "2025-08-02T17:30:00.000Z",
+      "round": "Round 3",
+      "homeTeam": "Stal Mielec",
+      "awayTeam": "Polonia Warsaw",
+      "homeScore": 1,
+      "awayScore": 3,
+      "htHome": 0,
+      "htAway": 2,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "54%",
+          "46%"
+        ],
+        "Total shots": [
+          "17",
+          "11"
+        ],
+        "Shots on target": [
+          "6",
+          "5"
+        ],
+        "Corner kicks": [
+          "7",
+          "6"
+        ],
+        "Yellow cards": [
+          "2",
+          "2"
+        ],
+        "Shots off target": [
+          "11",
+          "6"
+        ],
+        "Offsides": [
+          "2",
+          "2"
+        ],
+        "Free kicks": [
+          "15",
+          "22"
+        ],
+        "Throw ins": [
+          "19",
+          "15"
+        ],
+        "Fouls": [
+          "19",
+          "12"
+        ]
+      }
+    },
+    {
+      "id": "2sIaC25b",
+      "date": "2025-08-02T15:30:00.000Z",
+      "round": "Round 3",
+      "homeTeam": "Stal Rzeszow",
+      "awayTeam": "Chrobry Glogow",
+      "homeScore": 2,
+      "awayScore": 2,
+      "htHome": 0,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "54%",
+          "46%"
+        ],
+        "Total shots": [
+          "15",
+          "11"
+        ],
+        "Shots on target": [
+          "8",
+          "8"
+        ],
+        "Corner kicks": [
+          "12",
+          "5"
+        ],
+        "Yellow cards": [
+          "0",
+          "3"
+        ],
+        "Shots off target": [
+          "7",
+          "3"
+        ],
+        "Offsides": [
+          "0",
+          "2"
+        ],
+        "Free kicks": [
+          "17",
+          "11"
+        ],
+        "Throw ins": [
+          "25",
+          "23"
+        ],
+        "Fouls": [
+          "11",
+          "15"
+        ]
+      }
+    },
+    {
+      "id": "KKJW8Tb6",
+      "date": "2025-08-02T12:30:00.000Z",
+      "round": "Round 3",
+      "homeTeam": "Pogon Grodzisk Mazowiecki",
+      "awayTeam": "Miedz Legnica",
+      "homeScore": 4,
+      "awayScore": 0,
+      "htHome": 2,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "49%",
+          "51%"
+        ],
+        "Total shots": [
+          "18",
+          "9"
+        ],
+        "Shots on target": [
+          "11",
+          "1"
+        ],
+        "Corner kicks": [
+          "6",
+          "10"
+        ],
+        "Yellow cards": [
+          "1",
+          "2"
+        ],
+        "Shots off target": [
+          "7",
+          "8"
+        ],
+        "Offsides": [
+          "1",
+          "0"
+        ],
+        "Free kicks": [
+          "12",
+          "14"
+        ],
+        "Throw ins": [
+          "21",
+          "18"
+        ],
+        "Fouls": [
+          "13",
+          "11"
+        ]
+      }
+    },
+    {
+      "id": "A33Qfj4T",
+      "date": "2025-08-01T18:30:00.000Z",
+      "round": "Round 3",
+      "homeTeam": "LKS Lodz",
+      "awayTeam": "Polonia Bytom",
+      "homeScore": 5,
+      "awayScore": 0,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "48%",
+          "52%"
+        ],
+        "Total shots": [
+          "11",
+          "8"
+        ],
+        "Shots on target": [
+          "7",
+          "2"
+        ],
+        "Corner kicks": [
+          "5",
+          "2"
+        ],
+        "Yellow cards": [
+          "2",
+          "1"
+        ],
+        "Shots off target": [
+          "4",
+          "6"
+        ],
+        "Offsides": [
+          "0",
+          "0"
+        ],
+        "Free kicks": [
+          "9",
+          "19"
+        ],
+        "Throw ins": [
+          "25",
+          "27"
+        ],
+        "Fouls": [
+          "18",
+          "10"
+        ]
+      }
+    },
+    {
+      "id": "WzPF8K4N",
+      "date": "2025-08-01T16:00:00.000Z",
+      "round": "Round 3",
+      "homeTeam": "Wieczysta Krakow",
+      "awayTeam": "Znicz Pruszków",
+      "homeScore": 4,
+      "awayScore": 0,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "58%",
+          "42%"
+        ],
+        "Total shots": [
+          "8",
+          "6"
+        ],
+        "Shots on target": [
+          "6",
+          "1"
+        ],
+        "Corner kicks": [
+          "10",
+          "1"
+        ],
+        "Yellow cards": [
+          "1",
+          "2"
+        ],
+        "Shots off target": [
+          "2",
+          "5"
+        ],
+        "Offsides": [
+          "2",
+          "0"
+        ],
+        "Free kicks": [
+          "11",
+          "11"
+        ],
+        "Throw ins": [
+          "15",
+          "23"
+        ],
+        "Fouls": [
+          "10",
+          "10"
+        ]
+      }
+    },
+    {
+      "id": "WEXGa44e",
+      "date": "2025-07-28T17:00:00.000Z",
+      "round": "Round 2",
+      "homeTeam": "Odra Opole",
+      "awayTeam": "Miedz Legnica",
+      "homeScore": 2,
+      "awayScore": 1,
+      "htHome": 2,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "47%",
+          "53%"
+        ],
+        "Total shots": [
+          "5",
+          "14"
+        ],
+        "Shots on target": [
+          "2",
+          "6"
+        ],
+        "Corner kicks": [
+          "3",
+          "6"
+        ],
+        "Yellow cards": [
+          "2",
+          "2"
+        ],
+        "Red cards": [
+          "1",
+          "0"
+        ],
+        "Shots off target": [
+          "3",
+          "8"
+        ],
+        "Offsides": [
+          "4",
+          "1"
+        ],
+        "Free kicks": [
+          "15",
+          "17"
+        ],
+        "Throw ins": [
+          "20",
+          "22"
+        ],
+        "Fouls": [
+          "13",
+          "15"
+        ],
+        "Goalkeeper saves": [
+          "3",
+          "0"
+        ]
+      }
+    },
+    {
+      "id": "hULPcrZ7",
+      "date": "2025-07-27T15:00:00.000Z",
+      "round": "Round 2",
+      "homeTeam": "Polonia Warsaw",
+      "awayTeam": "GKS Tychy 71",
+      "homeScore": 1,
+      "awayScore": 2,
+      "htHome": 1,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "53%",
+          "47%"
+        ],
+        "Total shots": [
+          "21",
+          "15"
+        ],
+        "Shots on target": [
+          "17",
+          "11"
+        ],
+        "Corner kicks": [
+          "13",
+          "3"
+        ],
+        "Yellow cards": [
+          "2",
+          "2"
+        ],
+        "Shots off target": [
+          "4",
+          "4"
+        ],
+        "Offsides": [
+          "0",
+          "0"
+        ],
+        "Free kicks": [
+          "7",
+          "10"
+        ],
+        "Throw ins": [
+          "28",
+          "18"
+        ],
+        "Fouls": [
+          "9",
+          "8"
+        ],
+        "Goalkeeper saves": [
+          "9",
+          "16"
+        ]
+      }
+    },
+    {
+      "id": "G27KJPeR",
+      "date": "2025-07-27T12:30:00.000Z",
+      "round": "Round 2",
+      "homeTeam": "Ruch Chorzow",
+      "awayTeam": "Gornik Leczna",
+      "homeScore": 2,
+      "awayScore": 1,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "48%",
+          "52%"
+        ],
+        "Total shots": [
+          "15",
+          "22"
+        ],
+        "Shots on target": [
+          "11",
+          "14"
+        ],
+        "Corner kicks": [
+          "9",
+          "2"
+        ],
+        "Yellow cards": [
+          "1",
+          "1"
+        ],
+        "Shots off target": [
+          "4",
+          "8"
+        ],
+        "Offsides": [
+          "3",
+          "0"
+        ],
+        "Free kicks": [
+          "3",
+          "27"
+        ],
+        "Throw ins": [
+          "23",
+          "21"
+        ],
+        "Fouls": [
+          "23",
+          "1"
+        ],
+        "Goalkeeper saves": [
+          "13",
+          "9"
+        ]
+      }
+    },
+    {
+      "id": "Wz9iCsl1",
+      "date": "2025-07-27T10:00:00.000Z",
+      "round": "Round 2",
+      "homeTeam": "Wieczysta Krakow",
+      "awayTeam": "MKP Pogon Siedlce",
+      "homeScore": 2,
+      "awayScore": 1,
+      "htHome": 2,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "51%",
+          "49%"
+        ],
+        "Total shots": [
+          "9",
+          "17"
+        ],
+        "Shots on target": [
+          "8",
+          "13"
+        ],
+        "Corner kicks": [
+          "8",
+          "4"
+        ],
+        "Yellow cards": [
+          "3",
+          "4"
+        ],
+        "Shots off target": [
+          "1",
+          "4"
+        ],
+        "Offsides": [
+          "2",
+          "3"
+        ],
+        "Free kicks": [
+          "16",
+          "18"
+        ],
+        "Throw ins": [
+          "15",
+          "22"
+        ],
+        "Fouls": [
+          "16",
+          "11"
+        ],
+        "Goalkeeper saves": [
+          "12",
+          "6"
+        ]
+      }
+    },
+    {
+      "id": "v7F91QZr",
+      "date": "2025-07-26T17:30:00.000Z",
+      "round": "Round 2",
+      "homeTeam": "Chrobry Glogow",
+      "awayTeam": "Polonia Bytom",
+      "homeScore": 0,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "55%",
+          "45%"
+        ],
+        "Total shots": [
+          "19",
+          "14"
+        ],
+        "Shots on target": [
+          "12",
+          "9"
+        ],
+        "Corner kicks": [
+          "5",
+          "5"
+        ],
+        "Yellow cards": [
+          "5",
+          "5"
+        ],
+        "Red cards": [
+          "0",
+          "1"
+        ],
+        "Shots off target": [
+          "7",
+          "5"
+        ],
+        "Offsides": [
+          "1",
+          "1"
+        ],
+        "Free kicks": [
+          "16",
+          "16"
+        ],
+        "Throw ins": [
+          "30",
+          "24"
+        ],
+        "Fouls": [
+          "16",
+          "16"
+        ],
+        "Goalkeeper saves": [
+          "8",
+          "12"
+        ]
+      }
+    },
+    {
+      "id": "KzEBLoRE",
+      "date": "2025-07-26T15:30:00.000Z",
+      "round": "Round 2",
+      "homeTeam": "Puszcza Niepolomice",
+      "awayTeam": "Pogon Grodzisk Mazowiecki",
+      "homeScore": 1,
+      "awayScore": 1,
+      "htHome": 1,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "50%",
+          "50%"
+        ],
+        "Total shots": [
+          "15",
+          "14"
+        ],
+        "Shots on target": [
+          "5",
+          "2"
+        ],
+        "Corner kicks": [
+          "6",
+          "4"
+        ],
+        "Yellow cards": [
+          "2",
+          "3"
+        ],
+        "Shots off target": [
+          "6",
+          "6"
+        ],
+        "Blocked shots": [
+          "4",
+          "6"
+        ],
+        "Offsides": [
+          "3",
+          "0"
+        ],
+        "Free kicks": [
+          "13",
+          "16"
+        ],
+        "Throw ins": [
+          "32",
+          "27"
+        ],
+        "Fouls": [
+          "12",
+          "11"
+        ],
+        "Goalkeeper saves": [
+          "1",
+          "4"
+        ]
+      }
+    },
+    {
+      "id": "v1CaALID",
+      "date": "2025-07-26T13:00:00.000Z",
+      "round": "Round 2",
+      "homeTeam": "Wisla Krakow",
+      "awayTeam": "LKS Lodz",
+      "homeScore": 5,
+      "awayScore": 0,
+      "htHome": 4,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "52%",
+          "48%"
+        ],
+        "Total shots": [
+          "10",
+          "6"
+        ],
+        "Shots on target": [
+          "6",
+          "2"
+        ],
+        "Corner kicks": [
+          "6",
+          "6"
+        ],
+        "Yellow cards": [
+          "0",
+          "3"
+        ],
+        "Shots off target": [
+          "4",
+          "4"
+        ],
+        "Offsides": [
+          "1",
+          "1"
+        ],
+        "Free kicks": [
+          "16",
+          "8"
+        ],
+        "Throw ins": [
+          "23",
+          "23"
+        ],
+        "Fouls": [
+          "5",
+          "12"
+        ],
+        "Goalkeeper saves": [
+          "2",
+          "1"
+        ]
+      }
+    },
+    {
+      "id": "CYhjE3Jl",
+      "date": "2025-07-25T18:30:00.000Z",
+      "round": "Round 2",
+      "homeTeam": "Stal Rzeszow",
+      "awayTeam": "Slask Wroclaw",
+      "homeScore": 2,
+      "awayScore": 1,
+      "htHome": 1,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "46%",
+          "54%"
+        ],
+        "Total shots": [
+          "21",
+          "17"
+        ],
+        "Shots on target": [
+          "5",
+          "7"
+        ],
+        "Corner kicks": [
+          "12",
+          "4"
+        ],
+        "Yellow cards": [
+          "2",
+          "1"
+        ],
+        "Red cards": [
+          "0",
+          "1"
+        ],
+        "Shots off target": [
+          "10",
+          "4"
+        ],
+        "Blocked shots": [
+          "6",
+          "6"
+        ],
+        "Offsides": [
+          "1",
+          "0"
+        ],
+        "Free kicks": [
+          "11",
+          "11"
+        ],
+        "Throw ins": [
+          "11",
+          "16"
+        ],
+        "Fouls": [
+          "11",
+          "12"
+        ],
+        "Goalkeeper saves": [
+          "6",
+          "3"
+        ]
+      }
+    },
+    {
+      "id": "MPypIXyK",
+      "date": "2025-07-25T16:00:00.000Z",
+      "round": "Round 2",
+      "homeTeam": "Znicz Pruszków",
+      "awayTeam": "Stal Mielec",
+      "homeScore": 4,
+      "awayScore": 5,
+      "htHome": 1,
+      "htAway": 2,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "54%",
+          "46%"
+        ],
+        "Total shots": [
+          "20",
+          "16"
+        ],
+        "Shots on target": [
+          "8",
+          "6"
+        ],
+        "Corner kicks": [
+          "6",
+          "5"
+        ],
+        "Yellow cards": [
+          "2",
+          "4"
+        ],
+        "Shots off target": [
+          "10",
+          "5"
+        ],
+        "Blocked shots": [
+          "2",
+          "5"
+        ],
+        "Offsides": [
+          "2",
+          "2"
+        ],
+        "Free kicks": [
+          "11",
+          "19"
+        ],
+        "Throw ins": [
+          "24",
+          "24"
+        ],
+        "Fouls": [
+          "14",
+          "10"
+        ],
+        "Goalkeeper saves": [
+          "1",
+          "4"
+        ]
+      }
+    },
+    {
+      "id": "W0hro5k2",
+      "date": "2025-07-21T17:00:00.000Z",
+      "round": "Round 1",
+      "homeTeam": "Puszcza Niepolomice",
+      "awayTeam": "Ruch Chorzow",
+      "homeScore": 1,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "51%",
+          "49%"
+        ],
+        "Total shots": [
+          "1",
+          "1"
+        ],
+        "Shots on target": [
+          "1",
+          "1"
+        ],
+        "Corner kicks": [
+          "4",
+          "5"
+        ],
+        "Yellow cards": [
+          "3",
+          "3"
+        ],
+        "Shots off target": [
+          "0",
+          "0"
+        ],
+        "Blocked shots": [
+          "0",
+          "0"
+        ],
+        "Offsides": [
+          "1",
+          "0"
+        ],
+        "Throw ins": [
+          "0",
+          "0"
+        ],
+        "Fouls": [
+          "0",
+          "0"
+        ],
+        "Goalkeeper saves": [
+          "0",
+          "0"
+        ]
+      }
+    },
+    {
+      "id": "ARuhzlyp",
+      "date": "2025-07-20T15:00:00.000Z",
+      "round": "Round 1",
+      "homeTeam": "Chrobry Glogow",
+      "awayTeam": "Odra Opole",
+      "homeScore": 3,
+      "awayScore": 0,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "48%",
+          "52%"
+        ],
+        "Total shots": [
+          "12",
+          "9"
+        ],
+        "Shots on target": [
+          "7",
+          "3"
+        ],
+        "Corner kicks": [
+          "3",
+          "5"
+        ],
+        "Yellow cards": [
+          "2",
+          "3"
+        ],
+        "Shots off target": [
+          "2",
+          "4"
+        ],
+        "Blocked shots": [
+          "3",
+          "2"
+        ],
+        "Offsides": [
+          "0",
+          "1"
+        ],
+        "Throw ins": [
+          "15",
+          "33"
+        ],
+        "Fouls": [
+          "8",
+          "19"
+        ],
+        "Goalkeeper saves": [
+          "3",
+          "4"
+        ]
+      }
+    },
+    {
+      "id": "ppfzmRKk",
+      "date": "2025-07-20T15:00:00.000Z",
+      "round": "Round 1",
+      "homeTeam": "MKP Pogon Siedlce",
+      "awayTeam": "Polonia Warsaw",
+      "homeScore": 1,
+      "awayScore": 1,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "43%",
+          "57%"
+        ],
+        "Total shots": [
+          "9",
+          "18"
+        ],
+        "Shots on target": [
+          "3",
+          "6"
+        ],
+        "Corner kicks": [
+          "2",
+          "7"
+        ],
+        "Yellow cards": [
+          "3",
+          "2"
+        ],
+        "Shots off target": [
+          "2",
+          "8"
+        ],
+        "Blocked shots": [
+          "4",
+          "4"
+        ],
+        "Offsides": [
+          "0",
+          "0"
+        ],
+        "Throw ins": [
+          "11",
+          "29"
+        ],
+        "Fouls": [
+          "16",
+          "11"
+        ],
+        "Goalkeeper saves": [
+          "5",
+          "2"
+        ]
+      }
+    },
+    {
+      "id": "n9zV88s9",
+      "date": "2025-07-20T12:30:00.000Z",
+      "round": "Round 1",
+      "homeTeam": "Stal Mielec",
+      "awayTeam": "Wisla Krakow",
+      "homeScore": 0,
+      "awayScore": 4,
+      "htHome": 0,
+      "htAway": 2,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "54%",
+          "46%"
+        ],
+        "Total shots": [
+          "15",
+          "20"
+        ],
+        "Shots on target": [
+          "1",
+          "6"
+        ],
+        "Corner kicks": [
+          "4",
+          "5"
+        ],
+        "Yellow cards": [
+          "1",
+          "1"
+        ],
+        "Shots off target": [
+          "11",
+          "6"
+        ],
+        "Blocked shots": [
+          "3",
+          "8"
+        ],
+        "Offsides": [
+          "2",
+          "4"
+        ],
+        "Throw ins": [
+          "15",
+          "17"
+        ],
+        "Fouls": [
+          "17",
+          "7"
+        ],
+        "Goalkeeper saves": [
+          "2",
+          "1"
+        ]
+      }
+    },
+    {
+      "id": "4QY0YR5d",
+      "date": "2025-07-19T17:30:00.000Z",
+      "round": "Round 1",
+      "homeTeam": "GKS Tychy 71",
+      "awayTeam": "Miedz Legnica",
+      "homeScore": 4,
+      "awayScore": 3,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "59%",
+          "41%"
+        ],
+        "Total shots": [
+          "22",
+          "16"
+        ],
+        "Shots on target": [
+          "13",
+          "4"
+        ],
+        "Corner kicks": [
+          "5",
+          "5"
+        ],
+        "Yellow cards": [
+          "2",
+          "2"
+        ],
+        "Shots off target": [
+          "5",
+          "8"
+        ],
+        "Blocked shots": [
+          "4",
+          "4"
+        ],
+        "Offsides": [
+          "0",
+          "1"
+        ],
+        "Throw ins": [
+          "25",
+          "15"
+        ],
+        "Fouls": [
+          "10",
+          "12"
+        ],
+        "Goalkeeper saves": [
+          "1",
+          "9"
+        ]
+      }
+    },
+    {
+      "id": "dKLndVc3",
+      "date": "2025-07-19T15:30:00.000Z",
+      "round": "Round 1",
+      "homeTeam": "Gornik Leczna",
+      "awayTeam": "Polonia Bytom",
+      "homeScore": 0,
+      "awayScore": 3,
+      "htHome": 0,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "57%",
+          "43%"
+        ],
+        "Total shots": [
+          "14",
+          "14"
+        ],
+        "Shots on target": [
+          "3",
+          "4"
+        ],
+        "Corner kicks": [
+          "5",
+          "5"
+        ],
+        "Yellow cards": [
+          "4",
+          "2"
+        ],
+        "Shots off target": [
+          "7",
+          "8"
+        ],
+        "Blocked shots": [
+          "4",
+          "2"
+        ],
+        "Offsides": [
+          "2",
+          "2"
+        ],
+        "Throw ins": [
+          "24",
+          "22"
+        ],
+        "Fouls": [
+          "28",
+          "15"
+        ],
+        "Goalkeeper saves": [
+          "1",
+          "3"
+        ]
+      }
+    },
+    {
+      "id": "0CI3hmcS",
+      "date": "2025-07-19T12:30:00.000Z",
+      "round": "Round 1",
+      "homeTeam": "Pogon Grodzisk Mazowiecki",
+      "awayTeam": "Stal Rzeszow",
+      "homeScore": 2,
+      "awayScore": 1,
+      "htHome": 2,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "42%",
+          "58%"
+        ],
+        "Total shots": [
+          "12",
+          "19"
+        ],
+        "Shots on target": [
+          "5",
+          "10"
+        ],
+        "Corner kicks": [
+          "3",
+          "10"
+        ],
+        "Yellow cards": [
+          "2",
+          "2"
+        ],
+        "Shots off target": [
+          "5",
+          "9"
+        ],
+        "Blocked shots": [
+          "2",
+          "0"
+        ],
+        "Offsides": [
+          "2",
+          "2"
+        ],
+        "Throw ins": [
+          "18",
+          "20"
+        ],
+        "Fouls": [
+          "9",
+          "12"
+        ],
+        "Goalkeeper saves": [
+          "9",
+          "3"
+        ]
+      }
+    },
+    {
+      "id": "hnFef9SF",
+      "date": "2025-07-18T18:30:00.000Z",
+      "round": "Round 1",
+      "homeTeam": "LKS Lodz",
+      "awayTeam": "Znicz Pruszków",
+      "homeScore": 1,
+      "awayScore": 0,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "51%",
+          "49%"
+        ],
+        "Total shots": [
+          "22",
+          "7"
+        ],
+        "Shots on target": [
+          "7",
+          "2"
+        ],
+        "Corner kicks": [
+          "8",
+          "6"
+        ],
+        "Yellow cards": [
+          "2",
+          "1"
+        ],
+        "Shots off target": [
+          "11",
+          "2"
+        ],
+        "Blocked shots": [
+          "4",
+          "3"
+        ],
+        "Offsides": [
+          "0",
+          "1"
+        ],
+        "Free kicks": [
+          "9",
+          "12"
+        ],
+        "Throw ins": [
+          "18",
+          "24"
+        ],
+        "Fouls": [
+          "12",
+          "7"
+        ],
+        "Goalkeeper saves": [
+          "2",
+          "6"
+        ]
+      }
+    },
+    {
+      "id": "KMYx7nCL",
+      "date": "2025-07-18T16:00:00.000Z",
+      "round": "Round 1",
+      "homeTeam": "Slask Wroclaw",
+      "awayTeam": "Wieczysta Krakow",
+      "homeScore": 1,
+      "awayScore": 1,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "41%",
+          "59%"
+        ],
+        "Total shots": [
+          "14",
+          "19"
+        ],
+        "Shots on target": [
+          "6",
+          "8"
+        ],
+        "Corner kicks": [
+          "2",
+          "11"
+        ],
+        "Yellow cards": [
+          "2",
+          "2"
+        ],
+        "Shots off target": [
+          "5",
+          "4"
+        ],
+        "Blocked shots": [
+          "3",
+          "7"
+        ],
+        "Offsides": [
+          "0",
+          "2"
+        ],
+        "Free kicks": [
+          "21",
+          "16"
+        ],
+        "Throw ins": [
+          "19",
+          "18"
+        ],
+        "Fouls": [
+          "13",
+          "13"
+        ],
+        "Goalkeeper saves": [
+          "7",
+          "5"
+        ]
+      }
+    }
+  ]
+}

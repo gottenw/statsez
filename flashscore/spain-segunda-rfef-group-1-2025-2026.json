@@ -1,0 +1,2951 @@
+{
+  "league": "Segunda RFEF - Group 1",
+  "country": "spain",
+  "season": "2025-2026",
+  "collectedAt": "2026-02-09T23:56:49.867Z",
+  "totalMatches": 204,
+  "matches": [
+    {
+      "id": "2Hv4NdAs",
+      "date": "2026-02-08T16:00:00.000Z",
+      "round": "Round 22",
+      "homeTeam": "Salamanca CF UDS",
+      "awayTeam": "Numancia",
+      "homeScore": 1,
+      "awayScore": 1,
+      "htHome": 1,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Red cards": [
+          "1",
+          "0"
+        ]
+      }
+    },
+    {
+      "id": "AT2w7yQ0",
+      "date": "2026-02-08T16:00:00.000Z",
+      "round": "Round 22",
+      "homeTeam": "UD Ourense",
+      "awayTeam": "Coruxo",
+      "homeScore": 1,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "jwBo5FfD",
+      "date": "2026-02-08T15:00:00.000Z",
+      "round": "Round 22",
+      "homeTeam": "Lealtad",
+      "awayTeam": "UP Langreo",
+      "homeScore": 1,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "A5KjGu3E",
+      "date": "2026-02-08T11:00:00.000Z",
+      "round": "Round 22",
+      "homeTeam": "Rayo Cantabria",
+      "awayTeam": "UD Samano",
+      "homeScore": 7,
+      "awayScore": 0,
+      "htHome": 2,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "23aV8cel",
+      "date": "2026-02-07T18:00:00.000Z",
+      "round": "Round 22",
+      "homeTeam": "Burgos Promesas",
+      "awayTeam": "Real Oviedo B",
+      "homeScore": 1,
+      "awayScore": 2,
+      "htHome": 1,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "IVNbEJXQ",
+      "date": "2026-02-07T16:00:00.000Z",
+      "round": "Round 22",
+      "homeTeam": "Atletico Astorga",
+      "awayTeam": "Bergantinos",
+      "homeScore": 3,
+      "awayScore": 0,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "WMFBhxB7",
+      "date": "2026-02-07T16:00:00.000Z",
+      "round": "Round 22",
+      "homeTeam": "Deportivo Fabril",
+      "awayTeam": "SD Sarriana",
+      "homeScore": 2,
+      "awayScore": 1,
+      "htHome": 1,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "AsrCLzuf",
+      "date": "2026-02-07T15:30:00.000Z",
+      "round": "Round 22",
+      "homeTeam": "Valladolid Promesas",
+      "awayTeam": "Real Avila",
+      "homeScore": 7,
+      "awayScore": 2,
+      "htHome": 1,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "lbUX3BDi",
+      "date": "2026-02-01T16:00:00.000Z",
+      "round": "Round 21",
+      "homeTeam": "Coruxo",
+      "awayTeam": "Salamanca CF UDS",
+      "homeScore": 1,
+      "awayScore": 0,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Red cards": [
+          "1",
+          "0"
+        ]
+      }
+    },
+    {
+      "id": "drdNESR9",
+      "date": "2026-02-01T16:00:00.000Z",
+      "round": "Round 21",
+      "homeTeam": "Marino de Luanco",
+      "awayTeam": "Rayo Cantabria",
+      "homeScore": 1,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Red cards": [
+          "1",
+          "0"
+        ]
+      }
+    },
+    {
+      "id": "2sOfdKBr",
+      "date": "2026-02-01T16:00:00.000Z",
+      "round": "Round 21",
+      "homeTeam": "Real Avila",
+      "awayTeam": "Atletico Astorga",
+      "homeScore": 2,
+      "awayScore": 4,
+      "htHome": 1,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "MPsu2kr4",
+      "date": "2026-02-01T16:00:00.000Z",
+      "round": "Round 21",
+      "homeTeam": "SD Sarriana",
+      "awayTeam": "Valladolid Promesas",
+      "homeScore": 2,
+      "awayScore": 3,
+      "htHome": 0,
+      "htAway": 2,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "b9H3fbte",
+      "date": "2026-02-01T16:00:00.000Z",
+      "round": "Round 21",
+      "homeTeam": "UD Ourense",
+      "awayTeam": "Burgos Promesas",
+      "homeScore": 1,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "Iiyl0TCG",
+      "date": "2026-02-01T16:00:00.000Z",
+      "round": "Round 21",
+      "homeTeam": "UD Samano",
+      "awayTeam": "Gimnastica Segoviana",
+      "homeScore": 0,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "zT7EGlcc",
+      "date": "2026-02-01T15:45:00.000Z",
+      "round": "Round 21",
+      "homeTeam": "Real Oviedo B",
+      "awayTeam": "Deportivo Fabril",
+      "homeScore": 1,
+      "awayScore": 1,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Red cards": [
+          "1",
+          "0"
+        ]
+      }
+    },
+    {
+      "id": "j5Zeb7sT",
+      "date": "2026-02-01T11:00:00.000Z",
+      "round": "Round 21",
+      "homeTeam": "Numancia",
+      "awayTeam": "Lealtad",
+      "homeScore": 0,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "AkGSho5j",
+      "date": "2026-01-31T17:00:00.000Z",
+      "round": "Round 21",
+      "homeTeam": "UP Langreo",
+      "awayTeam": "Bergantinos",
+      "homeScore": 0,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "Y5tQhQmg",
+      "date": "2026-01-25T16:00:00.000Z",
+      "round": "Round 20",
+      "homeTeam": "Bergantinos",
+      "awayTeam": "Marino de Luanco",
+      "homeScore": 0,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "ziEH1LWN",
+      "date": "2026-01-25T16:00:00.000Z",
+      "round": "Round 20",
+      "homeTeam": "Gimnastica Segoviana",
+      "awayTeam": "Numancia",
+      "homeScore": 0,
+      "awayScore": 0,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "CCTi7P2n",
+      "date": "2026-01-25T15:30:00.000Z",
+      "round": "Round 20",
+      "homeTeam": "Burgos Promesas",
+      "awayTeam": "SD Sarriana",
+      "homeScore": 0,
+      "awayScore": 2,
+      "htHome": 0,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "6Z4mdafo",
+      "date": "2026-01-25T15:00:00.000Z",
+      "round": "Round 20",
+      "homeTeam": "Lealtad",
+      "awayTeam": "Real Avila",
+      "homeScore": 0,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "vPK83s2B",
+      "date": "2026-01-25T12:00:00.000Z",
+      "round": "Round 20",
+      "homeTeam": "Valladolid Promesas",
+      "awayTeam": "UD Ourense",
+      "homeScore": 2,
+      "awayScore": 3,
+      "htHome": 1,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "0YaZlrmI",
+      "date": "2026-01-25T11:00:00.000Z",
+      "round": "Round 20",
+      "homeTeam": "Rayo Cantabria",
+      "awayTeam": "UP Langreo",
+      "homeScore": 1,
+      "awayScore": 2,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "MmlrmMHU",
+      "date": "2026-01-24T16:00:00.000Z",
+      "round": "Round 20",
+      "homeTeam": "Atletico Astorga",
+      "awayTeam": "Salamanca CF UDS",
+      "homeScore": 1,
+      "awayScore": 2,
+      "htHome": 0,
+      "htAway": 2,
+      "status": "FINISHED",
+      "stats": {
+        "Red cards": [
+          "1",
+          "0"
+        ]
+      }
+    },
+    {
+      "id": "h8dRj4I5",
+      "date": "2026-01-24T16:00:00.000Z",
+      "round": "Round 20",
+      "homeTeam": "Deportivo Fabril",
+      "awayTeam": "UD Samano",
+      "homeScore": 1,
+      "awayScore": 0,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Red cards": [
+          "0",
+          "1"
+        ]
+      }
+    },
+    {
+      "id": "6BM053Xb",
+      "date": "2026-01-24T15:00:00.000Z",
+      "round": "Round 20",
+      "homeTeam": "Real Oviedo B",
+      "awayTeam": "Coruxo",
+      "homeScore": 0,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "E19ax53C",
+      "date": "2026-01-18T18:00:00.000Z",
+      "round": "Round 19",
+      "homeTeam": "Gimnastica Segoviana",
+      "awayTeam": "Rayo Cantabria",
+      "homeScore": 3,
+      "awayScore": 3,
+      "htHome": 2,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Yellow cards": [
+          "1",
+          "0"
+        ],
+        "Red cards": [
+          "1",
+          "0"
+        ]
+      }
+    },
+    {
+      "id": "MRC7zqYO",
+      "date": "2026-01-18T16:00:00.000Z",
+      "round": "Round 19",
+      "homeTeam": "Coruxo",
+      "awayTeam": "Atletico Astorga",
+      "homeScore": 1,
+      "awayScore": 0,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "0v3qtm4m",
+      "date": "2026-01-18T16:00:00.000Z",
+      "round": "Round 19",
+      "homeTeam": "UP Langreo",
+      "awayTeam": "Deportivo Fabril",
+      "homeScore": 0,
+      "awayScore": 0,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "W068vzTr",
+      "date": "2026-01-18T16:00:00.000Z",
+      "round": "Round 19",
+      "homeTeam": "Marino de Luanco",
+      "awayTeam": "Lealtad",
+      "homeScore": 0,
+      "awayScore": 0,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Red cards": [
+          "1",
+          "0"
+        ]
+      }
+    },
+    {
+      "id": "IH4GxEce",
+      "date": "2026-01-18T16:00:00.000Z",
+      "round": "Round 19",
+      "homeTeam": "Real Avila",
+      "awayTeam": "UD Ourense",
+      "homeScore": 0,
+      "awayScore": 2,
+      "htHome": 0,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "EqbPzhS7",
+      "date": "2026-01-18T16:00:00.000Z",
+      "round": "Round 19",
+      "homeTeam": "Salamanca CF UDS",
+      "awayTeam": "Valladolid Promesas",
+      "homeScore": 3,
+      "awayScore": 0,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "hnLjvRYa",
+      "date": "2026-01-18T16:00:00.000Z",
+      "round": "Round 19",
+      "homeTeam": "SD Sarriana",
+      "awayTeam": "Real Oviedo B",
+      "homeScore": 0,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "6woBbeKE",
+      "date": "2026-01-18T11:00:00.000Z",
+      "round": "Round 19",
+      "homeTeam": "Numancia",
+      "awayTeam": "Bergantinos",
+      "homeScore": 2,
+      "awayScore": 1,
+      "htHome": 2,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Red cards": [
+          "0",
+          "1"
+        ]
+      }
+    },
+    {
+      "id": "0hrIfnJt",
+      "date": "2026-01-17T16:00:00.000Z",
+      "round": "Round 19",
+      "homeTeam": "UD Samano",
+      "awayTeam": "Burgos Promesas",
+      "homeScore": 1,
+      "awayScore": 2,
+      "htHome": 0,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "nTUypd5L",
+      "date": "2026-01-11T16:00:00.000Z",
+      "round": "Round 18",
+      "homeTeam": "Bergantinos",
+      "awayTeam": "Real Avila",
+      "homeScore": 0,
+      "awayScore": 0,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "xvLaByad",
+      "date": "2026-01-11T16:00:00.000Z",
+      "round": "Round 18",
+      "homeTeam": "UP Langreo",
+      "awayTeam": "Marino de Luanco",
+      "homeScore": 0,
+      "awayScore": 3,
+      "htHome": 0,
+      "htAway": 2,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "WQkaDcUq",
+      "date": "2026-01-11T16:00:00.000Z",
+      "round": "Round 18",
+      "homeTeam": "UD Ourense",
+      "awayTeam": "Salamanca CF UDS",
+      "homeScore": 1,
+      "awayScore": 0,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "jsoZPzEk",
+      "date": "2026-01-11T15:00:00.000Z",
+      "round": "Round 18",
+      "homeTeam": "Burgos Promesas",
+      "awayTeam": "Gimnastica Segoviana",
+      "homeScore": 3,
+      "awayScore": 0,
+      "htHome": 2,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "v3RToIz9",
+      "date": "2026-01-11T15:00:00.000Z",
+      "round": "Round 18",
+      "homeTeam": "Lealtad",
+      "awayTeam": "SD Sarriana",
+      "homeScore": 3,
+      "awayScore": 1,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "Qa1fXILF",
+      "date": "2026-01-11T11:30:00.000Z",
+      "round": "Round 18",
+      "homeTeam": "Rayo Cantabria",
+      "awayTeam": "Numancia",
+      "homeScore": 0,
+      "awayScore": 0,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "4pDoZvi3",
+      "date": "2026-01-11T11:00:00.000Z",
+      "round": "Round 18",
+      "homeTeam": "Real Oviedo B",
+      "awayTeam": "UD Samano",
+      "homeScore": 3,
+      "awayScore": 0,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "YP42VdjS",
+      "date": "2026-01-10T15:30:00.000Z",
+      "round": "Round 18",
+      "homeTeam": "Atletico Astorga",
+      "awayTeam": "Valladolid Promesas",
+      "homeScore": 1,
+      "awayScore": 4,
+      "htHome": 0,
+      "htAway": 2,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "OfqsOEr2",
+      "date": "2026-01-10T15:00:00.000Z",
+      "round": "Round 18",
+      "homeTeam": "Deportivo Fabril",
+      "awayTeam": "Coruxo",
+      "homeScore": 2,
+      "awayScore": 1,
+      "htHome": 1,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "ze4TIJ6M",
+      "date": "2026-01-04T16:00:00.000Z",
+      "round": "Round 17",
+      "homeTeam": "Coruxo",
+      "awayTeam": "Burgos Promesas",
+      "homeScore": 5,
+      "awayScore": 1,
+      "htHome": 2,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "hCnw82h4",
+      "date": "2026-01-04T16:00:00.000Z",
+      "round": "Round 17",
+      "homeTeam": "Gimnastica Segoviana",
+      "awayTeam": "Lealtad",
+      "homeScore": 2,
+      "awayScore": 1,
+      "htHome": 1,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "vTAKKuxA",
+      "date": "2026-01-04T16:00:00.000Z",
+      "round": "Round 17",
+      "homeTeam": "Marino de Luanco",
+      "awayTeam": "Atletico Astorga",
+      "homeScore": 0,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "dpgU9ONi",
+      "date": "2026-01-04T16:00:00.000Z",
+      "round": "Round 17",
+      "homeTeam": "Real Avila",
+      "awayTeam": "Rayo Cantabria",
+      "homeScore": 3,
+      "awayScore": 3,
+      "htHome": 2,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "W27CM17c",
+      "date": "2026-01-04T16:00:00.000Z",
+      "round": "Round 17",
+      "homeTeam": "Salamanca CF UDS",
+      "awayTeam": "UP Langreo",
+      "homeScore": 1,
+      "awayScore": 1,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "QPpo6tNG",
+      "date": "2026-01-04T16:00:00.000Z",
+      "round": "Round 17",
+      "homeTeam": "SD Sarriana",
+      "awayTeam": "Bergantinos",
+      "homeScore": 1,
+      "awayScore": 0,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "j7UPbbFj",
+      "date": "2026-01-04T16:00:00.000Z",
+      "round": "Round 17",
+      "homeTeam": "UD Samano",
+      "awayTeam": "UD Ourense",
+      "homeScore": 1,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "jm6rnLVp",
+      "date": "2026-01-04T11:00:00.000Z",
+      "round": "Round 17",
+      "homeTeam": "Numancia",
+      "awayTeam": "Real Oviedo B",
+      "homeScore": 1,
+      "awayScore": 2,
+      "htHome": 0,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Red cards": [
+          "0",
+          "1"
+        ]
+      }
+    },
+    {
+      "id": "Mivf4KiT",
+      "date": "2026-01-04T11:00:00.000Z",
+      "round": "Round 17",
+      "homeTeam": "Valladolid Promesas",
+      "awayTeam": "Deportivo Fabril",
+      "homeScore": 0,
+      "awayScore": 4,
+      "htHome": 0,
+      "htAway": 2,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "fuJCeY2s",
+      "date": "2025-12-21T16:00:00.000Z",
+      "round": "Round 16",
+      "homeTeam": "UD Ourense",
+      "awayTeam": "SD Sarriana",
+      "homeScore": 1,
+      "awayScore": 0,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "WpEyjUWI",
+      "date": "2025-12-21T14:30:00.000Z",
+      "round": "Round 16",
+      "homeTeam": "Rayo Cantabria",
+      "awayTeam": "Coruxo",
+      "homeScore": 1,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "OYk26kHa",
+      "date": "2025-12-21T11:00:00.000Z",
+      "round": "Round 16",
+      "homeTeam": "Deportivo Fabril",
+      "awayTeam": "Real Avila",
+      "homeScore": 2,
+      "awayScore": 1,
+      "htHome": 1,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Red cards": [
+          "1",
+          "0"
+        ]
+      }
+    },
+    {
+      "id": "OKATij26",
+      "date": "2025-12-21T11:00:00.000Z",
+      "round": "Round 16",
+      "homeTeam": "Real Oviedo B",
+      "awayTeam": "Gimnastica Segoviana",
+      "homeScore": 3,
+      "awayScore": 0,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "25MKgCXg",
+      "date": "2025-12-20T17:00:00.000Z",
+      "round": "Round 16",
+      "homeTeam": "UP Langreo",
+      "awayTeam": "Valladolid Promesas",
+      "homeScore": 1,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Yellow cards": [
+          "0",
+          "1"
+        ],
+        "Red cards": [
+          "0",
+          "1"
+        ]
+      }
+    },
+    {
+      "id": "CKFm1fuK",
+      "date": "2025-12-20T16:00:00.000Z",
+      "round": "Round 16",
+      "homeTeam": "Bergantinos",
+      "awayTeam": "UD Samano",
+      "homeScore": 1,
+      "awayScore": 0,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "WzBNDXOP",
+      "date": "2025-12-20T15:00:00.000Z",
+      "round": "Round 16",
+      "homeTeam": "Atletico Astorga",
+      "awayTeam": "Numancia",
+      "homeScore": 1,
+      "awayScore": 0,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "S6dg8Bnm",
+      "date": "2025-12-20T15:00:00.000Z",
+      "round": "Round 16",
+      "homeTeam": "Burgos Promesas",
+      "awayTeam": "Marino de Luanco",
+      "homeScore": 1,
+      "awayScore": 0,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Red cards": [
+          "0",
+          "1"
+        ]
+      }
+    },
+    {
+      "id": "WbgA4ToC",
+      "date": "2025-12-20T14:45:00.000Z",
+      "round": "Round 16",
+      "homeTeam": "Lealtad",
+      "awayTeam": "Salamanca CF UDS",
+      "homeScore": 0,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "vmV4pmwq",
+      "date": "2025-12-14T16:00:00.000Z",
+      "round": "Round 15",
+      "homeTeam": "Marino de Luanco",
+      "awayTeam": "Coruxo",
+      "homeScore": 1,
+      "awayScore": 2,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "r3UZk9FL",
+      "date": "2025-12-14T16:00:00.000Z",
+      "round": "Round 15",
+      "homeTeam": "Real Avila",
+      "awayTeam": "Burgos Promesas",
+      "homeScore": 2,
+      "awayScore": 1,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Red cards": [
+          "0",
+          "1"
+        ]
+      }
+    },
+    {
+      "id": "GYVpsZml",
+      "date": "2025-12-14T16:00:00.000Z",
+      "round": "Round 15",
+      "homeTeam": "Salamanca CF UDS",
+      "awayTeam": "Real Oviedo B",
+      "homeScore": 0,
+      "awayScore": 0,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "KQS1wimD",
+      "date": "2025-12-14T16:00:00.000Z",
+      "round": "Round 15",
+      "homeTeam": "SD Sarriana",
+      "awayTeam": "Atletico Astorga",
+      "homeScore": 0,
+      "awayScore": 0,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "zFODrR7e",
+      "date": "2025-12-14T14:45:00.000Z",
+      "round": "Round 15",
+      "homeTeam": "Lealtad",
+      "awayTeam": "Bergantinos",
+      "homeScore": 0,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Red cards": [
+          "1",
+          "0"
+        ]
+      }
+    },
+    {
+      "id": "ObZhuDI0",
+      "date": "2025-12-14T11:30:00.000Z",
+      "round": "Round 15",
+      "homeTeam": "Valladolid Promesas",
+      "awayTeam": "Rayo Cantabria",
+      "homeScore": 1,
+      "awayScore": 1,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "Q3i6lHeE",
+      "date": "2025-12-14T11:00:00.000Z",
+      "round": "Round 15",
+      "homeTeam": "Gimnastica Segoviana",
+      "awayTeam": "UD Ourense",
+      "homeScore": 2,
+      "awayScore": 0,
+      "htHome": 2,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "W0fEneQQ",
+      "date": "2025-12-13T17:15:00.000Z",
+      "round": "Round 15",
+      "homeTeam": "UD Samano",
+      "awayTeam": "UP Langreo",
+      "homeScore": 1,
+      "awayScore": 2,
+      "htHome": 1,
+      "htAway": 2,
+      "status": "FINISHED",
+      "stats": {
+        "Yellow cards": [
+          "1",
+          "0"
+        ],
+        "Red cards": [
+          "1",
+          "0"
+        ]
+      }
+    },
+    {
+      "id": "8SMLt5x8",
+      "date": "2025-12-13T17:00:00.000Z",
+      "round": "Round 15",
+      "homeTeam": "Numancia",
+      "awayTeam": "Deportivo Fabril",
+      "homeScore": 1,
+      "awayScore": 2,
+      "htHome": 1,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "p8beUzmo",
+      "date": "2025-12-07T16:00:00.000Z",
+      "round": "Round 14",
+      "homeTeam": "UP Langreo",
+      "awayTeam": "SD Sarriana",
+      "homeScore": 0,
+      "awayScore": 2,
+      "htHome": 0,
+      "htAway": 2,
+      "status": "FINISHED",
+      "stats": {
+        "Red cards": [
+          "1",
+          "0"
+        ]
+      }
+    },
+    {
+      "id": "fsluURh2",
+      "date": "2025-12-07T16:00:00.000Z",
+      "round": "Round 14",
+      "homeTeam": "UD Ourense",
+      "awayTeam": "Numancia",
+      "homeScore": 0,
+      "awayScore": 3,
+      "htHome": 0,
+      "htAway": 2,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "bFfWVmOk",
+      "date": "2025-12-07T14:45:00.000Z",
+      "round": "Round 14",
+      "homeTeam": "Burgos Promesas",
+      "awayTeam": "Valladolid Promesas",
+      "homeScore": 3,
+      "awayScore": 3,
+      "htHome": 0,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "fNiOyJfB",
+      "date": "2025-12-07T11:00:00.000Z",
+      "round": "Round 14",
+      "homeTeam": "Bergantinos",
+      "awayTeam": "Gimnastica Segoviana",
+      "homeScore": 3,
+      "awayScore": 1,
+      "htHome": 3,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Red cards": [
+          "0",
+          "1"
+        ]
+      }
+    },
+    {
+      "id": "MmtRiVp9",
+      "date": "2025-12-07T11:00:00.000Z",
+      "round": "Round 14",
+      "homeTeam": "Coruxo",
+      "awayTeam": "Real Avila",
+      "homeScore": 1,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "EP7PZdPN",
+      "date": "2025-12-07T11:00:00.000Z",
+      "round": "Round 14",
+      "homeTeam": "Deportivo Fabril",
+      "awayTeam": "Marino de Luanco",
+      "homeScore": 0,
+      "awayScore": 0,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "YTvjjI94",
+      "date": "2025-12-07T11:00:00.000Z",
+      "round": "Round 14",
+      "homeTeam": "Rayo Cantabria",
+      "awayTeam": "Salamanca CF UDS",
+      "homeScore": 1,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "SSXbldvH",
+      "date": "2025-12-06T15:30:00.000Z",
+      "round": "Round 14",
+      "homeTeam": "Atletico Astorga",
+      "awayTeam": "UD Samano",
+      "homeScore": 3,
+      "awayScore": 0,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "Q3yrhvuh",
+      "date": "2025-12-06T15:00:00.000Z",
+      "round": "Round 14",
+      "homeTeam": "Real Oviedo B",
+      "awayTeam": "Lealtad",
+      "homeScore": 1,
+      "awayScore": 2,
+      "htHome": 1,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "SYh8AtdC",
+      "date": "2025-11-30T16:00:00.000Z",
+      "round": "Round 13",
+      "homeTeam": "Bergantinos",
+      "awayTeam": "Real Oviedo B",
+      "homeScore": 1,
+      "awayScore": 2,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Red cards": [
+          "1",
+          "0"
+        ]
+      }
+    },
+    {
+      "id": "Qs07u1en",
+      "date": "2025-11-30T16:00:00.000Z",
+      "round": "Round 13",
+      "homeTeam": "Gimnastica Segoviana",
+      "awayTeam": "Atletico Astorga",
+      "homeScore": 1,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "zJKcLcAU",
+      "date": "2025-11-30T16:00:00.000Z",
+      "round": "Round 13",
+      "homeTeam": "Marino de Luanco",
+      "awayTeam": "Real Avila",
+      "homeScore": 1,
+      "awayScore": 0,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Red cards": [
+          "1",
+          "0"
+        ]
+      }
+    },
+    {
+      "id": "M9gGwuQb",
+      "date": "2025-11-30T16:00:00.000Z",
+      "round": "Round 13",
+      "homeTeam": "Salamanca CF UDS",
+      "awayTeam": "Burgos Promesas",
+      "homeScore": 3,
+      "awayScore": 1,
+      "htHome": 2,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "hGMQSNBt",
+      "date": "2025-11-30T16:00:00.000Z",
+      "round": "Round 13",
+      "homeTeam": "SD Sarriana",
+      "awayTeam": "Deportivo Fabril",
+      "homeScore": 1,
+      "awayScore": 1,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "EkiG8KQO",
+      "date": "2025-11-30T11:00:00.000Z",
+      "round": "Round 13",
+      "homeTeam": "Valladolid Promesas",
+      "awayTeam": "Coruxo",
+      "homeScore": 0,
+      "awayScore": 3,
+      "htHome": 0,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Yellow cards": [
+          "1",
+          "0"
+        ],
+        "Red cards": [
+          "1",
+          "0"
+        ]
+      }
+    },
+    {
+      "id": "E3WlNJuI",
+      "date": "2025-11-29T17:30:00.000Z",
+      "round": "Round 13",
+      "homeTeam": "UD Samano",
+      "awayTeam": "Rayo Cantabria",
+      "homeScore": 1,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Red cards": [
+          "0",
+          "1"
+        ]
+      }
+    },
+    {
+      "id": "MeEsPuB5",
+      "date": "2025-11-29T17:00:00.000Z",
+      "round": "Round 13",
+      "homeTeam": "Numancia",
+      "awayTeam": "UP Langreo",
+      "homeScore": 3,
+      "awayScore": 1,
+      "htHome": 1,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "QTKYQ1tg",
+      "date": "2025-11-29T14:45:00.000Z",
+      "round": "Round 13",
+      "homeTeam": "Lealtad",
+      "awayTeam": "UD Ourense",
+      "homeScore": 0,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "IyLyKgT8",
+      "date": "2025-11-23T17:00:00.000Z",
+      "round": "Round 12",
+      "homeTeam": "Deportivo Fabril",
+      "awayTeam": "Gimnastica Segoviana",
+      "homeScore": 0,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "Ozm91oDs",
+      "date": "2025-11-23T17:00:00.000Z",
+      "round": "Round 12",
+      "homeTeam": "UP Langreo",
+      "awayTeam": "Lealtad",
+      "homeScore": 4,
+      "awayScore": 0,
+      "htHome": 3,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "hr1cdjy2",
+      "date": "2025-11-23T16:00:00.000Z",
+      "round": "Round 12",
+      "homeTeam": "Coruxo",
+      "awayTeam": "UD Samano",
+      "homeScore": 4,
+      "awayScore": 1,
+      "htHome": 2,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "pjyIaPsf",
+      "date": "2025-11-23T16:00:00.000Z",
+      "round": "Round 12",
+      "homeTeam": "Marino de Luanco",
+      "awayTeam": "Salamanca CF UDS",
+      "homeScore": 1,
+      "awayScore": 2,
+      "htHome": 0,
+      "htAway": 2,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "nFXYessJ",
+      "date": "2025-11-23T16:00:00.000Z",
+      "round": "Round 12",
+      "homeTeam": "Real Avila",
+      "awayTeam": "Valladolid Promesas",
+      "homeScore": 2,
+      "awayScore": 2,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "6J4aC2Ra",
+      "date": "2025-11-23T16:00:00.000Z",
+      "round": "Round 12",
+      "homeTeam": "UD Ourense",
+      "awayTeam": "Bergantinos",
+      "homeScore": 1,
+      "awayScore": 0,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "v9KKJpZP",
+      "date": "2025-11-22T16:00:00.000Z",
+      "round": "Round 12",
+      "homeTeam": "Atletico Astorga",
+      "awayTeam": "Real Oviedo B",
+      "homeScore": 1,
+      "awayScore": 1,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Red cards": [
+          "0",
+          "1"
+        ]
+      }
+    },
+    {
+      "id": "bg1iEOdm",
+      "date": "2025-11-22T15:30:00.000Z",
+      "round": "Round 12",
+      "homeTeam": "Burgos Promesas",
+      "awayTeam": "Numancia",
+      "homeScore": 0,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "hGvQc3C6",
+      "date": "2025-11-22T15:00:00.000Z",
+      "round": "Round 12",
+      "homeTeam": "Rayo Cantabria",
+      "awayTeam": "SD Sarriana",
+      "homeScore": 2,
+      "awayScore": 0,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "Aaq7oZMq",
+      "date": "2025-11-16T16:00:00.000Z",
+      "round": "Round 11",
+      "homeTeam": "Gimnastica Segoviana",
+      "awayTeam": "UP Langreo",
+      "homeScore": 1,
+      "awayScore": 0,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "Wp6Kfw0c",
+      "date": "2025-11-16T16:00:00.000Z",
+      "round": "Round 11",
+      "homeTeam": "Numancia",
+      "awayTeam": "Coruxo",
+      "homeScore": 1,
+      "awayScore": 2,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Yellow cards": [
+          "0",
+          "1"
+        ],
+        "Red cards": [
+          "0",
+          "1"
+        ]
+      }
+    },
+    {
+      "id": "hKIA5fEF",
+      "date": "2025-11-16T16:00:00.000Z",
+      "round": "Round 11",
+      "homeTeam": "Salamanca CF UDS",
+      "awayTeam": "Real Avila",
+      "homeScore": 1,
+      "awayScore": 3,
+      "htHome": 1,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Yellow cards": [
+          "1",
+          "0"
+        ],
+        "Red cards": [
+          "1",
+          "0"
+        ]
+      }
+    },
+    {
+      "id": "KU2kbC6k",
+      "date": "2025-11-16T16:00:00.000Z",
+      "round": "Round 11",
+      "homeTeam": "SD Sarriana",
+      "awayTeam": "Burgos Promesas",
+      "homeScore": 1,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "W4U17Gq3",
+      "date": "2025-11-16T14:45:00.000Z",
+      "round": "Round 11",
+      "homeTeam": "Lealtad",
+      "awayTeam": "Rayo Cantabria",
+      "homeScore": 1,
+      "awayScore": 0,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Red cards": [
+          "1",
+          "0"
+        ]
+      }
+    },
+    {
+      "id": "6RxGqDid",
+      "date": "2025-11-16T11:00:00.000Z",
+      "round": "Round 11",
+      "homeTeam": "Valladolid Promesas",
+      "awayTeam": "Marino de Luanco",
+      "homeScore": 0,
+      "awayScore": 2,
+      "htHome": 0,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "0pMI3YrS",
+      "date": "2025-11-15T16:00:00.000Z",
+      "round": "Round 11",
+      "homeTeam": "Bergantinos",
+      "awayTeam": "Atletico Astorga",
+      "homeScore": 0,
+      "awayScore": 0,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "I14ShHU9",
+      "date": "2025-11-15T16:00:00.000Z",
+      "round": "Round 11",
+      "homeTeam": "UD Samano",
+      "awayTeam": "Deportivo Fabril",
+      "homeScore": 0,
+      "awayScore": 5,
+      "htHome": 0,
+      "htAway": 3,
+      "status": "FINISHED",
+      "stats": {
+        "Yellow cards": [
+          "1",
+          "1"
+        ],
+        "Red cards": [
+          "2",
+          "1"
+        ]
+      }
+    },
+    {
+      "id": "ETcyieaM",
+      "date": "2025-11-15T15:00:00.000Z",
+      "round": "Round 11",
+      "homeTeam": "Real Oviedo B",
+      "awayTeam": "UD Ourense",
+      "homeScore": 0,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "hKIA5fEF",
+      "date": "2025-11-16T16:00:00.000Z",
+      "round": "Round 11",
+      "homeTeam": "Salamanca CF UDS",
+      "awayTeam": "Real Avila",
+      "homeScore": 1,
+      "awayScore": 3,
+      "htHome": 1,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Yellow cards": [
+          "1",
+          "0"
+        ],
+        "Red cards": [
+          "1",
+          "0"
+        ]
+      }
+    },
+    {
+      "id": "KU2kbC6k",
+      "date": "2025-11-16T16:00:00.000Z",
+      "round": "Round 11",
+      "homeTeam": "SD Sarriana",
+      "awayTeam": "Burgos Promesas",
+      "homeScore": 1,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "W4U17Gq3",
+      "date": "2025-11-16T14:45:00.000Z",
+      "round": "Round 11",
+      "homeTeam": "Lealtad",
+      "awayTeam": "Rayo Cantabria",
+      "homeScore": 1,
+      "awayScore": 0,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Red cards": [
+          "1",
+          "0"
+        ]
+      }
+    },
+    {
+      "id": "6RxGqDid",
+      "date": "2025-11-16T11:00:00.000Z",
+      "round": "Round 11",
+      "homeTeam": "Valladolid Promesas",
+      "awayTeam": "Marino de Luanco",
+      "homeScore": 0,
+      "awayScore": 2,
+      "htHome": 0,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "0pMI3YrS",
+      "date": "2025-11-15T16:00:00.000Z",
+      "round": "Round 11",
+      "homeTeam": "Bergantinos",
+      "awayTeam": "Atletico Astorga",
+      "homeScore": 0,
+      "awayScore": 0,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "I14ShHU9",
+      "date": "2025-11-15T16:00:00.000Z",
+      "round": "Round 11",
+      "homeTeam": "UD Samano",
+      "awayTeam": "Deportivo Fabril",
+      "homeScore": 0,
+      "awayScore": 5,
+      "htHome": 0,
+      "htAway": 3,
+      "status": "FINISHED",
+      "stats": {
+        "Yellow cards": [
+          "1",
+          "1"
+        ],
+        "Red cards": [
+          "2",
+          "1"
+        ]
+      }
+    },
+    {
+      "id": "ETcyieaM",
+      "date": "2025-11-15T15:00:00.000Z",
+      "round": "Round 11",
+      "homeTeam": "Real Oviedo B",
+      "awayTeam": "UD Ourense",
+      "homeScore": 0,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "WAkBT01b",
+      "date": "2025-11-09T16:00:00.000Z",
+      "round": "Round 10",
+      "homeTeam": "Coruxo",
+      "awayTeam": "Lealtad",
+      "homeScore": 1,
+      "awayScore": 0,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "jD5CRvWA",
+      "date": "2025-11-09T16:00:00.000Z",
+      "round": "Round 10",
+      "homeTeam": "UP Langreo",
+      "awayTeam": "Real Oviedo B",
+      "homeScore": 0,
+      "awayScore": 2,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "bw9KPI0N",
+      "date": "2025-11-09T16:00:00.000Z",
+      "round": "Round 10",
+      "homeTeam": "Marino de Luanco",
+      "awayTeam": "SD Sarriana",
+      "homeScore": 1,
+      "awayScore": 1,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "AHxwr0Gi",
+      "date": "2025-11-09T16:00:00.000Z",
+      "round": "Round 10",
+      "homeTeam": "Real Avila",
+      "awayTeam": "Numancia",
+      "homeScore": 0,
+      "awayScore": 0,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "OvqgvIFG",
+      "date": "2025-11-09T15:00:00.000Z",
+      "round": "Round 10",
+      "homeTeam": "Burgos Promesas",
+      "awayTeam": "UD Samano",
+      "homeScore": 1,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "K6x2xdpT",
+      "date": "2025-11-09T11:00:00.000Z",
+      "round": "Round 10",
+      "homeTeam": "Deportivo Fabril",
+      "awayTeam": "Bergantinos",
+      "homeScore": 0,
+      "awayScore": 0,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "jkTXWZ7j",
+      "date": "2025-11-09T11:00:00.000Z",
+      "round": "Round 10",
+      "homeTeam": "Valladolid Promesas",
+      "awayTeam": "Salamanca CF UDS",
+      "homeScore": 0,
+      "awayScore": 0,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "jRpotvo4",
+      "date": "2025-11-08T15:30:00.000Z",
+      "round": "Round 10",
+      "homeTeam": "Atletico Astorga",
+      "awayTeam": "UD Ourense",
+      "homeScore": 1,
+      "awayScore": 1,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "rBpiKdOp",
+      "date": "2025-11-08T14:30:00.000Z",
+      "round": "Round 10",
+      "homeTeam": "Rayo Cantabria",
+      "awayTeam": "Gimnastica Segoviana",
+      "homeScore": 1,
+      "awayScore": 2,
+      "htHome": 1,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "SxTeV1Fl",
+      "date": "2025-11-02T16:00:00.000Z",
+      "round": "Round 9",
+      "homeTeam": "Bergantinos",
+      "awayTeam": "UP Langreo",
+      "homeScore": 0,
+      "awayScore": 0,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "bci3VMWo",
+      "date": "2025-11-02T16:00:00.000Z",
+      "round": "Round 9",
+      "homeTeam": "Gimnastica Segoviana",
+      "awayTeam": "Burgos Promesas",
+      "homeScore": 0,
+      "awayScore": 0,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Yellow cards": [
+          "1",
+          "0"
+        ],
+        "Red cards": [
+          "1",
+          "0"
+        ]
+      }
+    },
+    {
+      "id": "04t3Tup1",
+      "date": "2025-11-02T16:00:00.000Z",
+      "round": "Round 9",
+      "homeTeam": "Numancia",
+      "awayTeam": "Valladolid Promesas",
+      "homeScore": 3,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Yellow cards": [
+          "0",
+          "1"
+        ],
+        "Red cards": [
+          "0",
+          "1"
+        ]
+      }
+    },
+    {
+      "id": "dWZBRJED",
+      "date": "2025-11-02T16:00:00.000Z",
+      "round": "Round 9",
+      "homeTeam": "Salamanca CF UDS",
+      "awayTeam": "Coruxo",
+      "homeScore": 2,
+      "awayScore": 0,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "zNfotJT6",
+      "date": "2025-11-02T16:00:00.000Z",
+      "round": "Round 9",
+      "homeTeam": "SD Sarriana",
+      "awayTeam": "Real Avila",
+      "homeScore": 2,
+      "awayScore": 0,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "8A3Uq1Us",
+      "date": "2025-11-02T16:00:00.000Z",
+      "round": "Round 9",
+      "homeTeam": "UD Samano",
+      "awayTeam": "Marino de Luanco",
+      "homeScore": 1,
+      "awayScore": 0,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "E76xruaf",
+      "date": "2025-11-02T15:00:00.000Z",
+      "round": "Round 9",
+      "homeTeam": "Real Oviedo B",
+      "awayTeam": "Rayo Cantabria",
+      "homeScore": 0,
+      "awayScore": 0,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "rmbgvcbJ",
+      "date": "2025-11-02T11:00:00.000Z",
+      "round": "Round 9",
+      "homeTeam": "Lealtad",
+      "awayTeam": "Atletico Astorga",
+      "homeScore": 1,
+      "awayScore": 2,
+      "htHome": 1,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "lQMckN6K",
+      "date": "2025-11-01T15:30:00.000Z",
+      "round": "Round 9",
+      "homeTeam": "UD Ourense",
+      "awayTeam": "Deportivo Fabril",
+      "homeScore": 2,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "nJ7MG20e",
+      "date": "2025-10-26T15:00:00.000Z",
+      "round": "Round 8",
+      "homeTeam": "Burgos Promesas",
+      "awayTeam": "Lealtad",
+      "homeScore": 2,
+      "awayScore": 2,
+      "htHome": 1,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "KW5UEtV7",
+      "date": "2025-10-26T14:45:00.000Z",
+      "round": "Round 8",
+      "homeTeam": "Rayo Cantabria",
+      "awayTeam": "Bergantinos",
+      "homeScore": 1,
+      "awayScore": 2,
+      "htHome": 1,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "hKEDIOVr",
+      "date": "2025-10-26T11:00:00.000Z",
+      "round": "Round 8",
+      "homeTeam": "Salamanca CF UDS",
+      "awayTeam": "Gimnastica Segoviana",
+      "homeScore": 1,
+      "awayScore": 2,
+      "htHome": 0,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "zulHxpNE",
+      "date": "2025-10-26T11:00:00.000Z",
+      "round": "Round 8",
+      "homeTeam": "Valladolid Promesas",
+      "awayTeam": "SD Sarriana",
+      "homeScore": 3,
+      "awayScore": 0,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "r5iPzOiR",
+      "date": "2025-10-25T16:00:00.000Z",
+      "round": "Round 8",
+      "homeTeam": "UP Langreo",
+      "awayTeam": "Atletico Astorga",
+      "homeScore": 1,
+      "awayScore": 0,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "MyOsOp8L",
+      "date": "2025-10-25T16:00:00.000Z",
+      "round": "Round 8",
+      "homeTeam": "Real Avila",
+      "awayTeam": "UD Samano",
+      "homeScore": 3,
+      "awayScore": 2,
+      "htHome": 2,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Red cards": [
+          "0",
+          "1"
+        ]
+      }
+    },
+    {
+      "id": "0MZYP6w9",
+      "date": "2025-10-25T15:00:00.000Z",
+      "round": "Round 8",
+      "homeTeam": "Marino de Luanco",
+      "awayTeam": "Numancia",
+      "homeScore": 1,
+      "awayScore": 2,
+      "htHome": 0,
+      "htAway": 2,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "EDRo4PGk",
+      "date": "2025-10-25T14:30:00.000Z",
+      "round": "Round 8",
+      "homeTeam": "Coruxo",
+      "awayTeam": "UD Ourense",
+      "homeScore": 0,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "YFsm23o2",
+      "date": "2025-10-25T14:30:00.000Z",
+      "round": "Round 8",
+      "homeTeam": "Deportivo Fabril",
+      "awayTeam": "Real Oviedo B",
+      "homeScore": 0,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Red cards": [
+          "1",
+          "0"
+        ]
+      }
+    },
+    {
+      "id": "IstG9ogS",
+      "date": "2025-10-19T16:00:00.000Z",
+      "round": "Round 7",
+      "homeTeam": "Gimnastica Segoviana",
+      "awayTeam": "Real Avila",
+      "homeScore": 1,
+      "awayScore": 0,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "lj46gZ2U",
+      "date": "2025-10-19T15:00:00.000Z",
+      "round": "Round 7",
+      "homeTeam": "Bergantinos",
+      "awayTeam": "Burgos Promesas",
+      "homeScore": 4,
+      "awayScore": 2,
+      "htHome": 2,
+      "htAway": 2,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "EXXOBGIb",
+      "date": "2025-10-19T15:00:00.000Z",
+      "round": "Round 7",
+      "homeTeam": "Numancia",
+      "awayTeam": "Salamanca CF UDS",
+      "homeScore": 3,
+      "awayScore": 1,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Red cards": [
+          "1",
+          "0"
+        ]
+      }
+    },
+    {
+      "id": "tnl5inXq",
+      "date": "2025-10-19T15:00:00.000Z",
+      "round": "Round 7",
+      "homeTeam": "SD Sarriana",
+      "awayTeam": "Coruxo",
+      "homeScore": 1,
+      "awayScore": 2,
+      "htHome": 1,
+      "htAway": 2,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "Yg6CkQ1d",
+      "date": "2025-10-19T14:45:00.000Z",
+      "round": "Round 7",
+      "homeTeam": "Lealtad",
+      "awayTeam": "Deportivo Fabril",
+      "homeScore": 0,
+      "awayScore": 0,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "EkqaDTg3",
+      "date": "2025-10-18T16:00:00.000Z",
+      "round": "Round 7",
+      "homeTeam": "UD Ourense",
+      "awayTeam": "UP Langreo",
+      "homeScore": 1,
+      "awayScore": 0,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "noWW9fmB",
+      "date": "2025-10-18T15:00:00.000Z",
+      "round": "Round 7",
+      "homeTeam": "Atletico Astorga",
+      "awayTeam": "Rayo Cantabria",
+      "homeScore": 1,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "I5vGDxln",
+      "date": "2025-10-18T15:00:00.000Z",
+      "round": "Round 7",
+      "homeTeam": "UD Samano",
+      "awayTeam": "Valladolid Promesas",
+      "homeScore": 2,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "MFn7B7OF",
+      "date": "2025-10-18T14:15:00.000Z",
+      "round": "Round 7",
+      "homeTeam": "Real Oviedo B",
+      "awayTeam": "Marino de Luanco",
+      "homeScore": 1,
+      "awayScore": 1,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "KACkcH35",
+      "date": "2025-10-12T15:00:00.000Z",
+      "round": "Round 6",
+      "homeTeam": "Coruxo",
+      "awayTeam": "Bergantinos",
+      "homeScore": 0,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Red cards": [
+          "0",
+          "1"
+        ]
+      }
+    },
+    {
+      "id": "67nGrIlC",
+      "date": "2025-10-12T15:00:00.000Z",
+      "round": "Round 6",
+      "homeTeam": "Numancia",
+      "awayTeam": "UD Samano",
+      "homeScore": 0,
+      "awayScore": 0,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "EXkOtdJO",
+      "date": "2025-10-12T15:00:00.000Z",
+      "round": "Round 6",
+      "homeTeam": "Real Avila",
+      "awayTeam": "Real Oviedo B",
+      "homeScore": 1,
+      "awayScore": 1,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "SzGceeYH",
+      "date": "2025-10-12T10:30:00.000Z",
+      "round": "Round 6",
+      "homeTeam": "Burgos Promesas",
+      "awayTeam": "Atletico Astorga",
+      "homeScore": 1,
+      "awayScore": 0,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "jVKY0a4t",
+      "date": "2025-10-12T10:00:00.000Z",
+      "round": "Round 6",
+      "homeTeam": "Valladolid Promesas",
+      "awayTeam": "Lealtad",
+      "homeScore": 4,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Yellow cards": [
+          "0",
+          "1"
+        ],
+        "Red cards": [
+          "0",
+          "1"
+        ]
+      }
+    },
+    {
+      "id": "xSfan0km",
+      "date": "2025-10-11T15:00:00.000Z",
+      "round": "Round 6",
+      "homeTeam": "Marino de Luanco",
+      "awayTeam": "Gimnastica Segoviana",
+      "homeScore": 0,
+      "awayScore": 0,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "OrJtawZh",
+      "date": "2025-10-11T15:00:00.000Z",
+      "round": "Round 6",
+      "homeTeam": "Salamanca CF UDS",
+      "awayTeam": "SD Sarriana",
+      "homeScore": 2,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "phb7pvKa",
+      "date": "2025-10-11T14:30:00.000Z",
+      "round": "Round 6",
+      "homeTeam": "Rayo Cantabria",
+      "awayTeam": "UD Ourense",
+      "homeScore": 1,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "8dxyhMRP",
+      "date": "2025-10-11T14:15:00.000Z",
+      "round": "Round 6",
+      "homeTeam": "Deportivo Fabril",
+      "awayTeam": "UP Langreo",
+      "homeScore": 2,
+      "awayScore": 0,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "YJXbJ1L0",
+      "date": "2025-10-05T16:00:00.000Z",
+      "round": "Round 5",
+      "homeTeam": "Gimnastica Segoviana",
+      "awayTeam": "Coruxo",
+      "homeScore": 2,
+      "awayScore": 0,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "6XV6HujD",
+      "date": "2025-10-05T15:15:00.000Z",
+      "round": "Round 5",
+      "homeTeam": "Lealtad",
+      "awayTeam": "Marino de Luanco",
+      "homeScore": 0,
+      "awayScore": 2,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "h2HIwW6F",
+      "date": "2025-10-05T15:00:00.000Z",
+      "round": "Round 5",
+      "homeTeam": "Bergantinos",
+      "awayTeam": "Valladolid Promesas",
+      "homeScore": 1,
+      "awayScore": 0,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Yellow cards": [
+          "1",
+          "0"
+        ],
+        "Red cards": [
+          "1",
+          "0"
+        ]
+      }
+    },
+    {
+      "id": "je4PZM5s",
+      "date": "2025-10-05T15:00:00.000Z",
+      "round": "Round 5",
+      "homeTeam": "SD Sarriana",
+      "awayTeam": "Numancia",
+      "homeScore": 4,
+      "awayScore": 2,
+      "htHome": 1,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "CAhYX0zf",
+      "date": "2025-10-05T15:00:00.000Z",
+      "round": "Round 5",
+      "homeTeam": "UD Ourense",
+      "awayTeam": "Real Avila",
+      "homeScore": 1,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "KzdtWv56",
+      "date": "2025-10-05T15:00:00.000Z",
+      "round": "Round 5",
+      "homeTeam": "UD Samano",
+      "awayTeam": "Salamanca CF UDS",
+      "homeScore": 0,
+      "awayScore": 2,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "G2kkUIZI",
+      "date": "2025-10-05T14:30:00.000Z",
+      "round": "Round 5",
+      "homeTeam": "Real Oviedo B",
+      "awayTeam": "Burgos Promesas",
+      "homeScore": 5,
+      "awayScore": 2,
+      "htHome": 4,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "MuEguqrK",
+      "date": "2025-10-04T16:00:00.000Z",
+      "round": "Round 5",
+      "homeTeam": "UP Langreo",
+      "awayTeam": "Rayo Cantabria",
+      "homeScore": 2,
+      "awayScore": 2,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "xhvjLNjl",
+      "date": "2025-10-04T15:30:00.000Z",
+      "round": "Round 5",
+      "homeTeam": "Atletico Astorga",
+      "awayTeam": "Deportivo Fabril",
+      "homeScore": 0,
+      "awayScore": 4,
+      "htHome": 0,
+      "htAway": 2,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "jaEBSpsH",
+      "date": "2025-09-28T16:15:00.000Z",
+      "round": "Round 4",
+      "homeTeam": "Coruxo",
+      "awayTeam": "Real Oviedo B",
+      "homeScore": 2,
+      "awayScore": 2,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Red cards": [
+          "0",
+          "1"
+        ]
+      }
+    },
+    {
+      "id": "O8pTSEhc",
+      "date": "2025-09-28T15:00:00.000Z",
+      "round": "Round 4",
+      "homeTeam": "Numancia",
+      "awayTeam": "Gimnastica Segoviana",
+      "homeScore": 1,
+      "awayScore": 0,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "WYmyRhN9",
+      "date": "2025-09-28T15:00:00.000Z",
+      "round": "Round 4",
+      "homeTeam": "Real Avila",
+      "awayTeam": "Lealtad",
+      "homeScore": 1,
+      "awayScore": 0,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "4tyOHlpd",
+      "date": "2025-09-28T15:00:00.000Z",
+      "round": "Round 4",
+      "homeTeam": "Salamanca CF UDS",
+      "awayTeam": "UD Ourense",
+      "homeScore": 1,
+      "awayScore": 0,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "WnT9uhx3",
+      "date": "2025-09-28T10:30:00.000Z",
+      "round": "Round 4",
+      "homeTeam": "Valladolid Promesas",
+      "awayTeam": "Atletico Astorga",
+      "homeScore": 1,
+      "awayScore": 3,
+      "htHome": 0,
+      "htAway": 2,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "A1UCQOBT",
+      "date": "2025-09-28T10:00:00.000Z",
+      "round": "Round 4",
+      "homeTeam": "Rayo Cantabria",
+      "awayTeam": "Deportivo Fabril",
+      "homeScore": 2,
+      "awayScore": 3,
+      "htHome": 1,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "8EsFJAFq",
+      "date": "2025-09-27T16:00:00.000Z",
+      "round": "Round 4",
+      "homeTeam": "Marino de Luanco",
+      "awayTeam": "Bergantinos",
+      "homeScore": 1,
+      "awayScore": 1,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "tpLrL2Zj",
+      "date": "2025-09-27T16:00:00.000Z",
+      "round": "Round 4",
+      "homeTeam": "UD Samano",
+      "awayTeam": "SD Sarriana",
+      "homeScore": 1,
+      "awayScore": 2,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "CrdqPWiM",
+      "date": "2025-09-27T15:00:00.000Z",
+      "round": "Round 4",
+      "homeTeam": "Burgos Promesas",
+      "awayTeam": "UP Langreo",
+      "homeScore": 1,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "4rjUF7cB",
+      "date": "2025-09-21T16:00:00.000Z",
+      "round": "Round 3",
+      "homeTeam": "Gimnastica Segoviana",
+      "awayTeam": "SD Sarriana",
+      "homeScore": 1,
+      "awayScore": 0,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "fDU88Pko",
+      "date": "2025-09-21T16:00:00.000Z",
+      "round": "Round 3",
+      "homeTeam": "Lealtad",
+      "awayTeam": "UD Samano",
+      "homeScore": 2,
+      "awayScore": 2,
+      "htHome": 0,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "OAFe18rI",
+      "date": "2025-09-21T15:00:00.000Z",
+      "round": "Round 3",
+      "homeTeam": "Bergantinos",
+      "awayTeam": "Numancia",
+      "homeScore": 3,
+      "awayScore": 1,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "dxT2anDU",
+      "date": "2025-09-21T15:00:00.000Z",
+      "round": "Round 3",
+      "homeTeam": "Deportivo Fabril",
+      "awayTeam": "Salamanca CF UDS",
+      "homeScore": 2,
+      "awayScore": 1,
+      "htHome": 1,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Red cards": [
+          "0",
+          "1"
+        ]
+      }
+    },
+    {
+      "id": "AugxEoSN",
+      "date": "2025-09-21T15:00:00.000Z",
+      "round": "Round 3",
+      "homeTeam": "UD Ourense",
+      "awayTeam": "Marino de Luanco",
+      "homeScore": 0,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "IoG3U6C4",
+      "date": "2025-09-21T10:00:00.000Z",
+      "round": "Round 3",
+      "homeTeam": "Rayo Cantabria",
+      "awayTeam": "Burgos Promesas",
+      "homeScore": 0,
+      "awayScore": 0,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Red cards": [
+          "1",
+          "0"
+        ]
+      }
+    },
+    {
+      "id": "8GdLHTSb",
+      "date": "2025-09-20T16:00:00.000Z",
+      "round": "Round 3",
+      "homeTeam": "Atletico Astorga",
+      "awayTeam": "Coruxo",
+      "homeScore": 0,
+      "awayScore": 2,
+      "htHome": 0,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "MJMfWSsh",
+      "date": "2025-09-20T16:00:00.000Z",
+      "round": "Round 3",
+      "homeTeam": "UP Langreo",
+      "awayTeam": "Real Avila",
+      "homeScore": 1,
+      "awayScore": 2,
+      "htHome": 1,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Red cards": [
+          "2",
+          "0"
+        ]
+      }
+    },
+    {
+      "id": "z3bDJkbn",
+      "date": "2025-09-20T15:00:00.000Z",
+      "round": "Round 3",
+      "homeTeam": "Real Oviedo B",
+      "awayTeam": "Valladolid Promesas",
+      "homeScore": 2,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "MwoX8apR",
+      "date": "2025-09-14T16:00:00.000Z",
+      "round": "Round 2",
+      "homeTeam": "Real Avila",
+      "awayTeam": "Bergantinos",
+      "homeScore": 2,
+      "awayScore": 1,
+      "htHome": 1,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "zVxpmIN7",
+      "date": "2025-09-14T15:00:00.000Z",
+      "round": "Round 2",
+      "homeTeam": "Coruxo",
+      "awayTeam": "Deportivo Fabril",
+      "homeScore": 0,
+      "awayScore": 2,
+      "htHome": 0,
+      "htAway": 2,
+      "status": "FINISHED",
+      "stats": {
+        "Yellow cards": [
+          "1",
+          "0"
+        ],
+        "Red cards": [
+          "1",
+          "0"
+        ]
+      }
+    },
+    {
+      "id": "b3UV6CEt",
+      "date": "2025-09-14T15:00:00.000Z",
+      "round": "Round 2",
+      "homeTeam": "Numancia",
+      "awayTeam": "Rayo Cantabria",
+      "homeScore": 2,
+      "awayScore": 1,
+      "htHome": 1,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "EDsPALFE",
+      "date": "2025-09-14T15:00:00.000Z",
+      "round": "Round 2",
+      "homeTeam": "SD Sarriana",
+      "awayTeam": "Lealtad",
+      "homeScore": 2,
+      "awayScore": 0,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Red cards": [
+          "0",
+          "1"
+        ]
+      }
+    },
+    {
+      "id": "6BM33w8l",
+      "date": "2025-09-14T10:00:00.000Z",
+      "round": "Round 2",
+      "homeTeam": "Burgos Promesas",
+      "awayTeam": "UD Ourense",
+      "homeScore": 1,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "fVNv5jqg",
+      "date": "2025-09-14T10:00:00.000Z",
+      "round": "Round 2",
+      "homeTeam": "Salamanca CF UDS",
+      "awayTeam": "Atletico Astorga",
+      "homeScore": 2,
+      "awayScore": 0,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "2eRn3UD5",
+      "date": "2025-09-14T10:00:00.000Z",
+      "round": "Round 2",
+      "homeTeam": "Valladolid Promesas",
+      "awayTeam": "Gimnastica Segoviana",
+      "homeScore": 2,
+      "awayScore": 2,
+      "htHome": 2,
+      "htAway": 2,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "EyQB1Hx1",
+      "date": "2025-09-13T16:00:00.000Z",
+      "round": "Round 2",
+      "homeTeam": "Marino de Luanco",
+      "awayTeam": "UP Langreo",
+      "homeScore": 2,
+      "awayScore": 0,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "8zJKae7D",
+      "date": "2025-09-13T15:00:00.000Z",
+      "round": "Round 2",
+      "homeTeam": "UD Samano",
+      "awayTeam": "Real Oviedo B",
+      "homeScore": 0,
+      "awayScore": 2,
+      "htHome": 0,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "z7fcdM0L",
+      "date": "2025-09-07T16:00:00.000Z",
+      "round": "Round 1",
+      "homeTeam": "Gimnastica Segoviana",
+      "awayTeam": "UD Samano",
+      "homeScore": 3,
+      "awayScore": 0,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "Ei6lbrW8",
+      "date": "2025-09-07T16:00:00.000Z",
+      "round": "Round 1",
+      "homeTeam": "UP Langreo",
+      "awayTeam": "Coruxo",
+      "homeScore": 1,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "SMS7o5n3",
+      "date": "2025-09-07T15:00:00.000Z",
+      "round": "Round 1",
+      "homeTeam": "Bergantinos",
+      "awayTeam": "Salamanca CF UDS",
+      "homeScore": 2,
+      "awayScore": 2,
+      "htHome": 1,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "EwRFqqHF",
+      "date": "2025-09-07T15:00:00.000Z",
+      "round": "Round 1",
+      "homeTeam": "UD Ourense",
+      "awayTeam": "Valladolid Promesas",
+      "homeScore": 0,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "2Hvxkvge",
+      "date": "2025-09-07T10:00:00.000Z",
+      "round": "Round 1",
+      "homeTeam": "Deportivo Fabril",
+      "awayTeam": "Burgos Promesas",
+      "homeScore": 3,
+      "awayScore": 0,
+      "htHome": 2,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "6y6fx19k",
+      "date": "2025-09-07T10:00:00.000Z",
+      "round": "Round 1",
+      "homeTeam": "Rayo Cantabria",
+      "awayTeam": "Marino de Luanco",
+      "homeScore": 1,
+      "awayScore": 0,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Red cards": [
+          "0",
+          "1"
+        ]
+      }
+    },
+    {
+      "id": "23a3zuv2",
+      "date": "2025-09-06T16:00:00.000Z",
+      "round": "Round 1",
+      "homeTeam": "Atletico Astorga",
+      "awayTeam": "Real Avila",
+      "homeScore": 1,
+      "awayScore": 3,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "6koTj0Or",
+      "date": "2025-09-06T16:00:00.000Z",
+      "round": "Round 1",
+      "homeTeam": "Lealtad",
+      "awayTeam": "Numancia",
+      "homeScore": 1,
+      "awayScore": 1,
+      "htHome": 1,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Yellow cards": [
+          "2",
+          "0"
+        ],
+        "Red cards": [
+          "2",
+          "1"
+        ]
+      }
+    },
+    {
+      "id": "A5KOsNoS",
+      "date": "2025-09-06T15:30:00.000Z",
+      "round": "Round 1",
+      "homeTeam": "Real Oviedo B",
+      "awayTeam": "SD Sarriana",
+      "homeScore": 3,
+      "awayScore": 2,
+      "htHome": 2,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {}
+    }
+  ]
+}

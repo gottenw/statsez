@@ -1,0 +1,8307 @@
+{
+  "league": "Cyprus League",
+  "country": "cyprus",
+  "season": "2025-2026",
+  "collectedAt": "2026-02-10T16:24:26.118Z",
+  "totalMatches": 151,
+  "matches": [
+    {
+      "id": "EosQVgUP",
+      "date": "2026-02-09T17:00:00.000Z",
+      "round": "Round 21",
+      "homeTeam": "Aris Limassol",
+      "awayTeam": "Anorthosis Famagusta",
+      "homeScore": 0,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "48%",
+          "52%"
+        ],
+        "Total shots": [
+          "10",
+          "4"
+        ],
+        "Shots on target": [
+          "5",
+          "2"
+        ],
+        "Corner kicks": [
+          "15",
+          "3"
+        ],
+        "Yellow cards": [
+          "3",
+          "2"
+        ],
+        "Shots off target": [
+          "5",
+          "2"
+        ],
+        "Offsides": [
+          "0",
+          "0"
+        ],
+        "Free kicks": [
+          "11",
+          "17"
+        ],
+        "Throw ins": [
+          "24",
+          "25"
+        ],
+        "Fouls": [
+          "16",
+          "11"
+        ]
+      }
+    },
+    {
+      "id": "bwaw8jxJ",
+      "date": "2026-02-09T17:00:00.000Z",
+      "round": "Round 21",
+      "homeTeam": "Krasava ENY Ypsonas",
+      "awayTeam": "AEL Limassol",
+      "homeScore": 3,
+      "awayScore": 0,
+      "htHome": 2,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "54%",
+          "46%"
+        ],
+        "Total shots": [
+          "9",
+          "4"
+        ],
+        "Shots on target": [
+          "3",
+          "3"
+        ],
+        "Corner kicks": [
+          "4",
+          "3"
+        ],
+        "Yellow cards": [
+          "4",
+          "4"
+        ],
+        "Shots off target": [
+          "6",
+          "1"
+        ],
+        "Offsides": [
+          "4",
+          "0"
+        ],
+        "Free kicks": [
+          "19",
+          "15"
+        ],
+        "Throw ins": [
+          "24",
+          "24"
+        ],
+        "Fouls": [
+          "11",
+          "19"
+        ]
+      }
+    },
+    {
+      "id": "CtPCMkiC",
+      "date": "2026-02-09T17:00:00.000Z",
+      "round": "Round 21",
+      "homeTeam": "Omonia Aradippou",
+      "awayTeam": "Akritas Chlorakas",
+      "homeScore": 2,
+      "awayScore": 0,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "50%",
+          "50%"
+        ],
+        "Total shots": [
+          "9",
+          "1"
+        ],
+        "Shots on target": [
+          "4",
+          "0"
+        ],
+        "Corner kicks": [
+          "1",
+          "4"
+        ],
+        "Yellow cards": [
+          "4",
+          "5"
+        ],
+        "Red cards": [
+          "0",
+          "1"
+        ],
+        "Shots off target": [
+          "5",
+          "1"
+        ],
+        "Offsides": [
+          "0",
+          "1"
+        ],
+        "Free kicks": [
+          "19",
+          "22"
+        ],
+        "Throw ins": [
+          "21",
+          "27"
+        ],
+        "Fouls": [
+          "22",
+          "18"
+        ]
+      }
+    },
+    {
+      "id": "CM0V9C76",
+      "date": "2026-02-08T17:00:00.000Z",
+      "round": "Round 21",
+      "homeTeam": "Pafos FC",
+      "awayTeam": "Omonia Nicosia",
+      "homeScore": 2,
+      "awayScore": 4,
+      "htHome": 1,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "48%",
+          "52%"
+        ],
+        "Total shots": [
+          "10",
+          "10"
+        ],
+        "Shots on target": [
+          "6",
+          "9"
+        ],
+        "Corner kicks": [
+          "4",
+          "2"
+        ],
+        "Yellow cards": [
+          "3",
+          "5"
+        ],
+        "Shots off target": [
+          "4",
+          "1"
+        ],
+        "Offsides": [
+          "0",
+          "0"
+        ],
+        "Free kicks": [
+          "15",
+          "10"
+        ],
+        "Throw ins": [
+          "17",
+          "18"
+        ],
+        "Fouls": [
+          "10",
+          "13"
+        ]
+      }
+    },
+    {
+      "id": "AHSeQXim",
+      "date": "2026-02-08T16:00:00.000Z",
+      "round": "Round 21",
+      "homeTeam": "Apollon Limassol",
+      "awayTeam": "Olympiakos Nicosia",
+      "homeScore": 3,
+      "awayScore": 1,
+      "htHome": 1,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "64%",
+          "36%"
+        ],
+        "Total shots": [
+          "14",
+          "2"
+        ],
+        "Shots on target": [
+          "8",
+          "1"
+        ],
+        "Corner kicks": [
+          "8",
+          "1"
+        ],
+        "Yellow cards": [
+          "1",
+          "1"
+        ],
+        "Red cards": [
+          "0",
+          "1"
+        ],
+        "Shots off target": [
+          "6",
+          "1"
+        ],
+        "Offsides": [
+          "3",
+          "2"
+        ],
+        "Free kicks": [
+          "15",
+          "11"
+        ],
+        "Throw ins": [
+          "21",
+          "16"
+        ],
+        "Fouls": [
+          "8",
+          "12"
+        ]
+      }
+    },
+    {
+      "id": "6qM4OBMa",
+      "date": "2026-02-08T14:00:00.000Z",
+      "round": "Round 21",
+      "homeTeam": "Apoel Nicosia",
+      "awayTeam": "AEK Larnaca",
+      "homeScore": 1,
+      "awayScore": 2,
+      "htHome": 1,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "45%",
+          "55%"
+        ],
+        "Total shots": [
+          "13",
+          "5"
+        ],
+        "Shots on target": [
+          "6",
+          "2"
+        ],
+        "Corner kicks": [
+          "7",
+          "4"
+        ],
+        "Yellow cards": [
+          "3",
+          "5"
+        ],
+        "Shots off target": [
+          "7",
+          "3"
+        ],
+        "Offsides": [
+          "3",
+          "2"
+        ],
+        "Free kicks": [
+          "18",
+          "20"
+        ],
+        "Throw ins": [
+          "18",
+          "23"
+        ],
+        "Fouls": [
+          "17",
+          "16"
+        ]
+      }
+    },
+    {
+      "id": "j7CMBYxf",
+      "date": "2026-02-07T15:00:00.000Z",
+      "round": "Round 21",
+      "homeTeam": "Enosis Paralimni",
+      "awayTeam": "Ethnikos Achnas",
+      "homeScore": 0,
+      "awayScore": 2,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "40%",
+          "60%"
+        ],
+        "Total shots": [
+          "3",
+          "18"
+        ],
+        "Shots on target": [
+          "0",
+          "10"
+        ],
+        "Corner kicks": [
+          "0",
+          "6"
+        ],
+        "Yellow cards": [
+          "4",
+          "4"
+        ],
+        "Red cards": [
+          "1",
+          "0"
+        ],
+        "Shots off target": [
+          "3",
+          "8"
+        ],
+        "Offsides": [
+          "0",
+          "1"
+        ],
+        "Free kicks": [
+          "12",
+          "11"
+        ],
+        "Throw ins": [
+          "19",
+          "18"
+        ],
+        "Fouls": [
+          "11",
+          "11"
+        ]
+      }
+    },
+    {
+      "id": "2HAa5phS",
+      "date": "2026-02-04T17:00:00.000Z",
+      "round": "Round 15",
+      "homeTeam": "Pafos FC",
+      "awayTeam": "Apoel Nicosia",
+      "homeScore": 2,
+      "awayScore": 0,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "45%",
+          "55%"
+        ],
+        "Total shots": [
+          "8",
+          "11"
+        ],
+        "Shots on target": [
+          "3",
+          "3"
+        ],
+        "Corner kicks": [
+          "7",
+          "7"
+        ],
+        "Yellow cards": [
+          "3",
+          "4"
+        ],
+        "Shots off target": [
+          "5",
+          "8"
+        ],
+        "Offsides": [
+          "0",
+          "2"
+        ],
+        "Free kicks": [
+          "10",
+          "20"
+        ],
+        "Throw ins": [
+          "20",
+          "16"
+        ],
+        "Fouls": [
+          "19",
+          "8"
+        ]
+      }
+    },
+    {
+      "id": "OvH7H39F",
+      "date": "2026-02-01T17:00:00.000Z",
+      "round": "Round 20",
+      "homeTeam": "AEL Limassol",
+      "awayTeam": "Aris Limassol",
+      "homeScore": 2,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "48%",
+          "52%"
+        ],
+        "Total shots": [
+          "5",
+          "12"
+        ],
+        "Shots on target": [
+          "4",
+          "3"
+        ],
+        "Corner kicks": [
+          "4",
+          "5"
+        ],
+        "Yellow cards": [
+          "1",
+          "2"
+        ],
+        "Shots off target": [
+          "1",
+          "9"
+        ],
+        "Offsides": [
+          "0",
+          "1"
+        ],
+        "Free kicks": [
+          "16",
+          "9"
+        ],
+        "Throw ins": [
+          "17",
+          "28"
+        ],
+        "Fouls": [
+          "9",
+          "14"
+        ]
+      }
+    },
+    {
+      "id": "GEDaJPv3",
+      "date": "2026-02-01T15:00:00.000Z",
+      "round": "Round 20",
+      "homeTeam": "Akritas Chlorakas",
+      "awayTeam": "Anorthosis Famagusta",
+      "homeScore": 2,
+      "awayScore": 0,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "48%",
+          "52%"
+        ],
+        "Total shots": [
+          "10",
+          "6"
+        ],
+        "Shots on target": [
+          "4",
+          "2"
+        ],
+        "Corner kicks": [
+          "4",
+          "6"
+        ],
+        "Yellow cards": [
+          "3",
+          "1"
+        ],
+        "Shots off target": [
+          "6",
+          "4"
+        ],
+        "Offsides": [
+          "1",
+          "0"
+        ],
+        "Free kicks": [
+          "17",
+          "17"
+        ],
+        "Throw ins": [
+          "23",
+          "27"
+        ],
+        "Fouls": [
+          "16",
+          "17"
+        ]
+      }
+    },
+    {
+      "id": "pf5GFsvS",
+      "date": "2026-02-01T14:00:00.000Z",
+      "round": "Round 20",
+      "homeTeam": "Omonia Nicosia",
+      "awayTeam": "Krasava ENY Ypsonas",
+      "homeScore": 1,
+      "awayScore": 0,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "54%",
+          "46%"
+        ],
+        "Total shots": [
+          "16",
+          "4"
+        ],
+        "Shots on target": [
+          "7",
+          "2"
+        ],
+        "Corner kicks": [
+          "8",
+          "4"
+        ],
+        "Yellow cards": [
+          "2",
+          "3"
+        ],
+        "Shots off target": [
+          "9",
+          "2"
+        ],
+        "Offsides": [
+          "0",
+          "0"
+        ],
+        "Free kicks": [
+          "17",
+          "8"
+        ],
+        "Throw ins": [
+          "21",
+          "23"
+        ],
+        "Fouls": [
+          "8",
+          "13"
+        ]
+      }
+    },
+    {
+      "id": "ltitW2O8",
+      "date": "2026-01-31T17:00:00.000Z",
+      "round": "Round 20",
+      "homeTeam": "Olympiakos Nicosia",
+      "awayTeam": "Apoel Nicosia",
+      "homeScore": 0,
+      "awayScore": 2,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "42%",
+          "58%"
+        ],
+        "Total shots": [
+          "6",
+          "16"
+        ],
+        "Shots on target": [
+          "2",
+          "6"
+        ],
+        "Corner kicks": [
+          "1",
+          "7"
+        ],
+        "Yellow cards": [
+          "3",
+          "0"
+        ],
+        "Red cards": [
+          "1",
+          "0"
+        ],
+        "Shots off target": [
+          "4",
+          "10"
+        ],
+        "Offsides": [
+          "3",
+          "2"
+        ],
+        "Free kicks": [
+          "11",
+          "19"
+        ],
+        "Throw ins": [
+          "17",
+          "12"
+        ],
+        "Fouls": [
+          "17",
+          "8"
+        ]
+      }
+    },
+    {
+      "id": "dn4f8aW1",
+      "date": "2026-01-31T15:00:00.000Z",
+      "round": "Round 20",
+      "homeTeam": "AEK Larnaca",
+      "awayTeam": "Enosis Paralimni",
+      "homeScore": 5,
+      "awayScore": 0,
+      "htHome": 3,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "67%",
+          "33%"
+        ],
+        "Total shots": [
+          "14",
+          "3"
+        ],
+        "Shots on target": [
+          "8",
+          "1"
+        ],
+        "Corner kicks": [
+          "7",
+          "0"
+        ],
+        "Yellow cards": [
+          "1",
+          "1"
+        ],
+        "Shots off target": [
+          "6",
+          "2"
+        ],
+        "Offsides": [
+          "3",
+          "2"
+        ],
+        "Free kicks": [
+          "10",
+          "15"
+        ],
+        "Throw ins": [
+          "15",
+          "13"
+        ],
+        "Fouls": [
+          "12",
+          "8"
+        ]
+      }
+    },
+    {
+      "id": "GxdnAL1k",
+      "date": "2026-01-31T14:00:00.000Z",
+      "round": "Round 20",
+      "homeTeam": "Ethnikos Achnas",
+      "awayTeam": "Pafos FC",
+      "homeScore": 2,
+      "awayScore": 1,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "48%",
+          "52%"
+        ],
+        "Total shots": [
+          "9",
+          "9"
+        ],
+        "Shots on target": [
+          "5",
+          "6"
+        ],
+        "Corner kicks": [
+          "1",
+          "8"
+        ],
+        "Yellow cards": [
+          "4",
+          "5"
+        ],
+        "Red cards": [
+          "0",
+          "2"
+        ],
+        "Shots off target": [
+          "4",
+          "3"
+        ],
+        "Offsides": [
+          "1",
+          "4"
+        ],
+        "Free kicks": [
+          "27",
+          "8"
+        ],
+        "Throw ins": [
+          "10",
+          "24"
+        ],
+        "Fouls": [
+          "6",
+          "23"
+        ]
+      }
+    },
+    {
+      "id": "rs9EDf8s",
+      "date": "2026-01-30T17:00:00.000Z",
+      "round": "Round 20",
+      "homeTeam": "Omonia Aradippou",
+      "awayTeam": "Apollon Limassol",
+      "homeScore": 0,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "41%",
+          "59%"
+        ],
+        "Total shots": [
+          "8",
+          "5"
+        ],
+        "Shots on target": [
+          "0",
+          "3"
+        ],
+        "Corner kicks": [
+          "2",
+          "6"
+        ],
+        "Yellow cards": [
+          "4",
+          "4"
+        ],
+        "Shots off target": [
+          "8",
+          "2"
+        ],
+        "Offsides": [
+          "2",
+          "4"
+        ],
+        "Free kicks": [
+          "20",
+          "14"
+        ],
+        "Throw ins": [
+          "23",
+          "22"
+        ],
+        "Fouls": [
+          "12",
+          "16"
+        ]
+      }
+    },
+    {
+      "id": "pYTu34fM",
+      "date": "2026-01-26T17:00:00.000Z",
+      "round": "Round 19",
+      "homeTeam": "Enosis Paralimni",
+      "awayTeam": "Olympiakos Nicosia",
+      "homeScore": 0,
+      "awayScore": 2,
+      "htHome": 0,
+      "htAway": 2,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "46%",
+          "54%"
+        ],
+        "Total shots": [
+          "4",
+          "9"
+        ],
+        "Shots on target": [
+          "1",
+          "3"
+        ],
+        "Corner kicks": [
+          "1",
+          "11"
+        ],
+        "Yellow cards": [
+          "2",
+          "1"
+        ],
+        "Shots off target": [
+          "3",
+          "6"
+        ],
+        "Offsides": [
+          "1",
+          "3"
+        ],
+        "Free kicks": [
+          "14",
+          "16"
+        ],
+        "Throw ins": [
+          "28",
+          "32"
+        ],
+        "Fouls": [
+          "0",
+          "0"
+        ]
+      }
+    },
+    {
+      "id": "jFpwqq3j",
+      "date": "2026-01-25T17:00:00.000Z",
+      "round": "Round 19",
+      "homeTeam": "Aris Limassol",
+      "awayTeam": "Omonia Nicosia",
+      "homeScore": 3,
+      "awayScore": 5,
+      "htHome": 2,
+      "htAway": 4,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "58%",
+          "42%"
+        ],
+        "Total shots": [
+          "12",
+          "11"
+        ],
+        "Shots on target": [
+          "7",
+          "10"
+        ],
+        "Corner kicks": [
+          "6",
+          "8"
+        ],
+        "Yellow cards": [
+          "4",
+          "2"
+        ],
+        "Shots off target": [
+          "5",
+          "1"
+        ],
+        "Offsides": [
+          "0",
+          "1"
+        ],
+        "Free kicks": [
+          "10",
+          "10"
+        ],
+        "Throw ins": [
+          "17",
+          "17"
+        ],
+        "Fouls": [
+          "10",
+          "9"
+        ]
+      }
+    },
+    {
+      "id": "4IACcrIq",
+      "date": "2026-01-25T17:00:00.000Z",
+      "round": "Round 19",
+      "homeTeam": "Pafos FC",
+      "awayTeam": "AEK Larnaca",
+      "homeScore": 1,
+      "awayScore": 2,
+      "htHome": 0,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "59%",
+          "41%"
+        ],
+        "Total shots": [
+          "13",
+          "8"
+        ],
+        "Shots on target": [
+          "3",
+          "6"
+        ],
+        "Corner kicks": [
+          "5",
+          "1"
+        ],
+        "Yellow cards": [
+          "1",
+          "1"
+        ],
+        "Shots off target": [
+          "10",
+          "2"
+        ],
+        "Offsides": [
+          "1",
+          "4"
+        ],
+        "Free kicks": [
+          "14",
+          "11"
+        ],
+        "Throw ins": [
+          "21",
+          "8"
+        ],
+        "Fouls": [
+          "0",
+          "0"
+        ]
+      }
+    },
+    {
+      "id": "GhxP6nec",
+      "date": "2026-01-25T14:00:00.000Z",
+      "round": "Round 19",
+      "homeTeam": "Anorthosis Famagusta",
+      "awayTeam": "AEL Limassol",
+      "homeScore": 2,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "54%",
+          "46%"
+        ],
+        "Total shots": [
+          "14",
+          "3"
+        ],
+        "Shots on target": [
+          "4",
+          "1"
+        ],
+        "Corner kicks": [
+          "3",
+          "0"
+        ],
+        "Yellow cards": [
+          "2",
+          "2"
+        ],
+        "Shots off target": [
+          "10",
+          "2"
+        ],
+        "Offsides": [
+          "3",
+          "0"
+        ],
+        "Free kicks": [
+          "17",
+          "19"
+        ],
+        "Throw ins": [
+          "21",
+          "17"
+        ],
+        "Fouls": [
+          "16",
+          "17"
+        ]
+      }
+    },
+    {
+      "id": "xW8KeMnd",
+      "date": "2026-01-24T17:00:00.000Z",
+      "round": "Round 19",
+      "homeTeam": "Apollon Limassol",
+      "awayTeam": "Akritas Chlorakas",
+      "homeScore": 4,
+      "awayScore": 0,
+      "htHome": 3,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "52%",
+          "48%"
+        ],
+        "Total shots": [
+          "14",
+          "6"
+        ],
+        "Shots on target": [
+          "8",
+          "0"
+        ],
+        "Corner kicks": [
+          "4",
+          "4"
+        ],
+        "Yellow cards": [
+          "0",
+          "3"
+        ],
+        "Shots off target": [
+          "6",
+          "6"
+        ],
+        "Offsides": [
+          "1",
+          "0"
+        ],
+        "Free kicks": [
+          "9",
+          "12"
+        ],
+        "Throw ins": [
+          "13",
+          "21"
+        ],
+        "Fouls": [
+          "11",
+          "9"
+        ]
+      }
+    },
+    {
+      "id": "WU36l5uT",
+      "date": "2026-01-24T14:00:00.000Z",
+      "round": "Round 19",
+      "homeTeam": "Krasava ENY Ypsonas",
+      "awayTeam": "Ethnikos Achnas",
+      "homeScore": 1,
+      "awayScore": 0,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "53%",
+          "47%"
+        ],
+        "Total shots": [
+          "11",
+          "5"
+        ],
+        "Shots on target": [
+          "6",
+          "1"
+        ],
+        "Corner kicks": [
+          "5",
+          "5"
+        ],
+        "Yellow cards": [
+          "2",
+          "6"
+        ],
+        "Shots off target": [
+          "5",
+          "4"
+        ],
+        "Offsides": [
+          "2",
+          "0"
+        ],
+        "Free kicks": [
+          "19",
+          "16"
+        ],
+        "Throw ins": [
+          "25",
+          "29"
+        ],
+        "Fouls": [
+          "14",
+          "19"
+        ]
+      }
+    },
+    {
+      "id": "x8QX4QP9",
+      "date": "2026-01-23T17:00:00.000Z",
+      "round": "Round 19",
+      "homeTeam": "Apoel Nicosia",
+      "awayTeam": "Omonia Aradippou",
+      "homeScore": 1,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "53%",
+          "47%"
+        ],
+        "Total shots": [
+          "10",
+          "4"
+        ],
+        "Shots on target": [
+          "4",
+          "3"
+        ],
+        "Corner kicks": [
+          "8",
+          "4"
+        ],
+        "Yellow cards": [
+          "0",
+          "3"
+        ],
+        "Shots off target": [
+          "6",
+          "1"
+        ],
+        "Offsides": [
+          "2",
+          "1"
+        ],
+        "Free kicks": [
+          "17",
+          "20"
+        ],
+        "Throw ins": [
+          "23",
+          "31"
+        ],
+        "Fouls": [
+          "17",
+          "16"
+        ]
+      }
+    },
+    {
+      "id": "2kCkhmt4",
+      "date": "2026-01-19T17:00:00.000Z",
+      "round": "Round 18",
+      "homeTeam": "Omonia Aradippou",
+      "awayTeam": "Enosis Paralimni",
+      "homeScore": 4,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "69%",
+          "31%"
+        ],
+        "Total shots": [
+          "19",
+          "4"
+        ],
+        "Shots on target": [
+          "12",
+          "3"
+        ],
+        "Corner kicks": [
+          "9",
+          "0"
+        ],
+        "Yellow cards": [
+          "1",
+          "1"
+        ],
+        "Red cards": [
+          "0",
+          "1"
+        ],
+        "Shots off target": [
+          "7",
+          "1"
+        ],
+        "Offsides": [
+          "1",
+          "0"
+        ],
+        "Free kicks": [
+          "15",
+          "13"
+        ],
+        "Throw ins": [
+          "28",
+          "10"
+        ],
+        "Fouls": [
+          "12",
+          "15"
+        ]
+      }
+    },
+    {
+      "id": "bH5bjRAG",
+      "date": "2026-01-18T17:00:00.000Z",
+      "round": "Round 18",
+      "homeTeam": "Apollon Limassol",
+      "awayTeam": "Apoel Nicosia",
+      "homeScore": 2,
+      "awayScore": 1,
+      "htHome": 2,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "62%",
+          "38%"
+        ],
+        "Total shots": [
+          "10",
+          "5"
+        ],
+        "Shots on target": [
+          "5",
+          "3"
+        ],
+        "Corner kicks": [
+          "4",
+          "6"
+        ],
+        "Yellow cards": [
+          "5",
+          "2"
+        ],
+        "Red cards": [
+          "1",
+          "1"
+        ],
+        "Shots off target": [
+          "5",
+          "2"
+        ],
+        "Offsides": [
+          "0",
+          "2"
+        ],
+        "Free kicks": [
+          "15",
+          "9"
+        ],
+        "Throw ins": [
+          "29",
+          "18"
+        ],
+        "Fouls": [
+          "9",
+          "12"
+        ]
+      }
+    },
+    {
+      "id": "zRApWndo",
+      "date": "2026-01-18T15:00:00.000Z",
+      "round": "Round 18",
+      "homeTeam": "AEK Larnaca",
+      "awayTeam": "Krasava ENY Ypsonas",
+      "homeScore": 2,
+      "awayScore": 1,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "49%",
+          "51%"
+        ],
+        "Total shots": [
+          "10",
+          "10"
+        ],
+        "Shots on target": [
+          "5",
+          "5"
+        ],
+        "Corner kicks": [
+          "3",
+          "4"
+        ],
+        "Yellow cards": [
+          "0",
+          "1"
+        ],
+        "Shots off target": [
+          "5",
+          "5"
+        ],
+        "Offsides": [
+          "0",
+          "3"
+        ],
+        "Free kicks": [
+          "19",
+          "19"
+        ],
+        "Throw ins": [
+          "19",
+          "9"
+        ],
+        "Fouls": [
+          "19",
+          "14"
+        ]
+      }
+    },
+    {
+      "id": "8GQ5wV3B",
+      "date": "2026-01-18T14:00:00.000Z",
+      "round": "Round 18",
+      "homeTeam": "Omonia Nicosia",
+      "awayTeam": "Anorthosis Famagusta",
+      "homeScore": 2,
+      "awayScore": 0,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "46%",
+          "54%"
+        ],
+        "Total shots": [
+          "9",
+          "5"
+        ],
+        "Shots on target": [
+          "6",
+          "2"
+        ],
+        "Corner kicks": [
+          "2",
+          "7"
+        ],
+        "Yellow cards": [
+          "0",
+          "3"
+        ],
+        "Shots off target": [
+          "3",
+          "3"
+        ],
+        "Offsides": [
+          "0",
+          "2"
+        ],
+        "Free kicks": [
+          "16",
+          "10"
+        ],
+        "Throw ins": [
+          "10",
+          "19"
+        ],
+        "Fouls": [
+          "10",
+          "14"
+        ]
+      }
+    },
+    {
+      "id": "UNbrf9Bi",
+      "date": "2026-01-17T17:00:00.000Z",
+      "round": "Round 18",
+      "homeTeam": "Olympiakos Nicosia",
+      "awayTeam": "Pafos FC",
+      "homeScore": 2,
+      "awayScore": 0,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "54%",
+          "46%"
+        ],
+        "Total shots": [
+          "8",
+          "12"
+        ],
+        "Shots on target": [
+          "4",
+          "8"
+        ],
+        "Corner kicks": [
+          "7",
+          "5"
+        ],
+        "Yellow cards": [
+          "2",
+          "2"
+        ],
+        "Shots off target": [
+          "4",
+          "4"
+        ],
+        "Offsides": [
+          "3",
+          "3"
+        ],
+        "Free kicks": [
+          "15",
+          "13"
+        ],
+        "Throw ins": [
+          "21",
+          "15"
+        ],
+        "Fouls": [
+          "10",
+          "12"
+        ]
+      }
+    },
+    {
+      "id": "z3ScuiZb",
+      "date": "2026-01-17T15:00:00.000Z",
+      "round": "Round 18",
+      "homeTeam": "Akritas Chlorakas",
+      "awayTeam": "AEL Limassol",
+      "homeScore": 0,
+      "awayScore": 2,
+      "htHome": 0,
+      "htAway": 2,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "54%",
+          "46%"
+        ],
+        "Total shots": [
+          "7",
+          "7"
+        ],
+        "Shots on target": [
+          "4",
+          "4"
+        ],
+        "Corner kicks": [
+          "6",
+          "1"
+        ],
+        "Yellow cards": [
+          "1",
+          "2"
+        ],
+        "Shots off target": [
+          "3",
+          "3"
+        ],
+        "Offsides": [
+          "1",
+          "0"
+        ],
+        "Free kicks": [
+          "14",
+          "12"
+        ],
+        "Throw ins": [
+          "21",
+          "15"
+        ],
+        "Fouls": [
+          "11",
+          "14"
+        ]
+      }
+    },
+    {
+      "id": "4rKEy9YN",
+      "date": "2026-01-17T14:00:00.000Z",
+      "round": "Round 18",
+      "homeTeam": "Ethnikos Achnas",
+      "awayTeam": "Aris Limassol",
+      "homeScore": 0,
+      "awayScore": 3,
+      "htHome": 0,
+      "htAway": 2,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "51%",
+          "49%"
+        ],
+        "Total shots": [
+          "6",
+          "5"
+        ],
+        "Shots on target": [
+          "4",
+          "4"
+        ],
+        "Corner kicks": [
+          "9",
+          "2"
+        ],
+        "Yellow cards": [
+          "3",
+          "2"
+        ],
+        "Shots off target": [
+          "2",
+          "1"
+        ],
+        "Offsides": [
+          "0",
+          "0"
+        ],
+        "Free kicks": [
+          "16",
+          "16"
+        ],
+        "Throw ins": [
+          "17",
+          "18"
+        ],
+        "Fouls": [
+          "16",
+          "16"
+        ]
+      }
+    },
+    {
+      "id": "f9UUyIS6",
+      "date": "2026-01-12T17:00:00.000Z",
+      "round": "Round 17",
+      "homeTeam": "Krasava ENY Ypsonas",
+      "awayTeam": "Olympiakos Nicosia",
+      "homeScore": 1,
+      "awayScore": 0,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "46%",
+          "54%"
+        ],
+        "Total shots": [
+          "9",
+          "12"
+        ],
+        "Shots on target": [
+          "5",
+          "8"
+        ],
+        "Corner kicks": [
+          "5",
+          "8"
+        ],
+        "Yellow cards": [
+          "1",
+          "0"
+        ],
+        "Shots off target": [
+          "4",
+          "4"
+        ],
+        "Offsides": [
+          "4",
+          "1"
+        ],
+        "Free kicks": [
+          "17",
+          "16"
+        ],
+        "Throw ins": [
+          "20",
+          "24"
+        ],
+        "Fouls": [
+          "10",
+          "15"
+        ]
+      }
+    },
+    {
+      "id": "nqRMwvbf",
+      "date": "2026-01-12T17:00:00.000Z",
+      "round": "Round 17",
+      "homeTeam": "Pafos FC",
+      "awayTeam": "Omonia Aradippou",
+      "homeScore": 2,
+      "awayScore": 0,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "57%",
+          "43%"
+        ],
+        "Total shots": [
+          "16",
+          "8"
+        ],
+        "Shots on target": [
+          "9",
+          "5"
+        ],
+        "Corner kicks": [
+          "3",
+          "1"
+        ],
+        "Yellow cards": [
+          "1",
+          "2"
+        ],
+        "Shots off target": [
+          "7",
+          "3"
+        ],
+        "Offsides": [
+          "2",
+          "1"
+        ],
+        "Free kicks": [
+          "9",
+          "21"
+        ],
+        "Throw ins": [
+          "27",
+          "18"
+        ],
+        "Fouls": [
+          "19",
+          "8"
+        ]
+      }
+    },
+    {
+      "id": "WAPkoM5K",
+      "date": "2026-01-11T15:00:00.000Z",
+      "round": "Round 17",
+      "homeTeam": "Anorthosis Famagusta",
+      "awayTeam": "Ethnikos Achnas",
+      "homeScore": 1,
+      "awayScore": 0,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "59%",
+          "41%"
+        ],
+        "Total shots": [
+          "9",
+          "8"
+        ],
+        "Shots on target": [
+          "5",
+          "4"
+        ],
+        "Corner kicks": [
+          "10",
+          "5"
+        ],
+        "Yellow cards": [
+          "3",
+          "4"
+        ],
+        "Shots off target": [
+          "4",
+          "4"
+        ],
+        "Offsides": [
+          "1",
+          "1"
+        ],
+        "Free kicks": [
+          "17",
+          "14"
+        ],
+        "Throw ins": [
+          "29",
+          "19"
+        ],
+        "Fouls": [
+          "13",
+          "14"
+        ]
+      }
+    },
+    {
+      "id": "zexmbUQp",
+      "date": "2026-01-11T15:00:00.000Z",
+      "round": "Round 17",
+      "homeTeam": "Enosis Paralimni",
+      "awayTeam": "Apollon Limassol",
+      "homeScore": 0,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "42%",
+          "58%"
+        ],
+        "Total shots": [
+          "5",
+          "16"
+        ],
+        "Shots on target": [
+          "1",
+          "6"
+        ],
+        "Corner kicks": [
+          "3",
+          "10"
+        ],
+        "Yellow cards": [
+          "2",
+          "1"
+        ],
+        "Shots off target": [
+          "4",
+          "10"
+        ],
+        "Offsides": [
+          "1",
+          "0"
+        ],
+        "Free kicks": [
+          "15",
+          "13"
+        ],
+        "Throw ins": [
+          "19",
+          "22"
+        ],
+        "Fouls": [
+          "12",
+          "15"
+        ]
+      }
+    },
+    {
+      "id": "t4ZlsD4n",
+      "date": "2026-01-10T17:00:00.000Z",
+      "round": "Round 17",
+      "homeTeam": "Apoel Nicosia",
+      "awayTeam": "Akritas Chlorakas",
+      "homeScore": 2,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "55%",
+          "45%"
+        ],
+        "Total shots": [
+          "13",
+          "4"
+        ],
+        "Shots on target": [
+          "4",
+          "2"
+        ],
+        "Corner kicks": [
+          "8",
+          "2"
+        ],
+        "Yellow cards": [
+          "2",
+          "2"
+        ],
+        "Shots off target": [
+          "9",
+          "2"
+        ],
+        "Offsides": [
+          "0",
+          "0"
+        ],
+        "Free kicks": [
+          "5",
+          "11"
+        ],
+        "Throw ins": [
+          "21",
+          "20"
+        ],
+        "Fouls": [
+          "11",
+          "5"
+        ]
+      }
+    },
+    {
+      "id": "GOIwzdcJ",
+      "date": "2026-01-10T17:00:00.000Z",
+      "round": "Round 17",
+      "homeTeam": "Aris Limassol",
+      "awayTeam": "AEK Larnaca",
+      "homeScore": 1,
+      "awayScore": 0,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "52%",
+          "48%"
+        ],
+        "Total shots": [
+          "8",
+          "4"
+        ],
+        "Shots on target": [
+          "4",
+          "4"
+        ],
+        "Corner kicks": [
+          "3",
+          "3"
+        ],
+        "Yellow cards": [
+          "3",
+          "1"
+        ],
+        "Red cards": [
+          "1",
+          "0"
+        ],
+        "Shots off target": [
+          "4",
+          "0"
+        ],
+        "Offsides": [
+          "2",
+          "2"
+        ],
+        "Free kicks": [
+          "13",
+          "21"
+        ],
+        "Throw ins": [
+          "16",
+          "27"
+        ],
+        "Fouls": [
+          "18",
+          "9"
+        ]
+      }
+    },
+    {
+      "id": "StBLu0Ts",
+      "date": "2026-01-09T17:00:00.000Z",
+      "round": "Round 17",
+      "homeTeam": "AEL Limassol",
+      "awayTeam": "Omonia Nicosia",
+      "homeScore": 0,
+      "awayScore": 2,
+      "htHome": 0,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "58%",
+          "42%"
+        ],
+        "Total shots": [
+          "7",
+          "7"
+        ],
+        "Shots on target": [
+          "4",
+          "3"
+        ],
+        "Corner kicks": [
+          "5",
+          "1"
+        ],
+        "Yellow cards": [
+          "2",
+          "1"
+        ],
+        "Shots off target": [
+          "3",
+          "4"
+        ],
+        "Offsides": [
+          "1",
+          "5"
+        ],
+        "Free kicks": [
+          "17",
+          "10"
+        ],
+        "Throw ins": [
+          "22",
+          "13"
+        ],
+        "Fouls": [
+          "8",
+          "12"
+        ]
+      }
+    },
+    {
+      "id": "8xvePvq1",
+      "date": "2026-01-04T17:00:00.000Z",
+      "round": "Round 16",
+      "homeTeam": "Apollon Limassol",
+      "awayTeam": "Pafos FC",
+      "homeScore": 2,
+      "awayScore": 1,
+      "htHome": 1,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "46%",
+          "54%"
+        ],
+        "Total shots": [
+          "12",
+          "11"
+        ],
+        "Shots on target": [
+          "7",
+          "7"
+        ],
+        "Corner kicks": [
+          "6",
+          "12"
+        ],
+        "Yellow cards": [
+          "3",
+          "3"
+        ],
+        "Shots off target": [
+          "5",
+          "4"
+        ],
+        "Offsides": [
+          "0",
+          "0"
+        ],
+        "Free kicks": [
+          "12",
+          "16"
+        ],
+        "Throw ins": [
+          "19",
+          "19"
+        ],
+        "Fouls": [
+          "15",
+          "12"
+        ]
+      }
+    },
+    {
+      "id": "zVj8YrME",
+      "date": "2026-01-04T15:00:00.000Z",
+      "round": "Round 16",
+      "homeTeam": "AEK Larnaca",
+      "awayTeam": "Anorthosis Famagusta",
+      "homeScore": 4,
+      "awayScore": 0,
+      "htHome": 2,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "63%",
+          "37%"
+        ],
+        "Total shots": [
+          "6",
+          "8"
+        ],
+        "Shots on target": [
+          "5",
+          "5"
+        ],
+        "Corner kicks": [
+          "1",
+          "1"
+        ],
+        "Yellow cards": [
+          "1",
+          "3"
+        ],
+        "Shots off target": [
+          "1",
+          "3"
+        ],
+        "Offsides": [
+          "0",
+          "0"
+        ],
+        "Free kicks": [
+          "13",
+          "14"
+        ],
+        "Throw ins": [
+          "10",
+          "13"
+        ],
+        "Fouls": [
+          "13",
+          "13"
+        ]
+      }
+    },
+    {
+      "id": "WdpHWMjR",
+      "date": "2026-01-04T14:00:00.000Z",
+      "round": "Round 16",
+      "homeTeam": "Olympiakos Nicosia",
+      "awayTeam": "Aris Limassol",
+      "homeScore": 0,
+      "awayScore": 0,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "51%",
+          "49%"
+        ],
+        "Total shots": [
+          "6",
+          "10"
+        ],
+        "Shots on target": [
+          "4",
+          "2"
+        ],
+        "Corner kicks": [
+          "3",
+          "8"
+        ],
+        "Yellow cards": [
+          "1",
+          "3"
+        ],
+        "Shots off target": [
+          "2",
+          "8"
+        ],
+        "Offsides": [
+          "1",
+          "3"
+        ],
+        "Free kicks": [
+          "25",
+          "9"
+        ],
+        "Throw ins": [
+          "16",
+          "22"
+        ],
+        "Fouls": [
+          "8",
+          "22"
+        ]
+      }
+    },
+    {
+      "id": "n9ADC1ae",
+      "date": "2026-01-03T17:00:00.000Z",
+      "round": "Round 16",
+      "homeTeam": "Akritas Chlorakas",
+      "awayTeam": "Omonia Nicosia",
+      "homeScore": 0,
+      "awayScore": 4,
+      "htHome": 0,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "37%",
+          "63%"
+        ],
+        "Total shots": [
+          "5",
+          "20"
+        ],
+        "Shots on target": [
+          "3",
+          "13"
+        ],
+        "Corner kicks": [
+          "1",
+          "10"
+        ],
+        "Yellow cards": [
+          "2",
+          "0"
+        ],
+        "Shots off target": [
+          "2",
+          "7"
+        ],
+        "Offsides": [
+          "0",
+          "2"
+        ],
+        "Free kicks": [
+          "7",
+          "3"
+        ],
+        "Throw ins": [
+          "17",
+          "26"
+        ],
+        "Fouls": [
+          "13",
+          "13"
+        ]
+      }
+    },
+    {
+      "id": "G2s3NIDD",
+      "date": "2026-01-03T16:00:00.000Z",
+      "round": "Round 16",
+      "homeTeam": "Apoel Nicosia",
+      "awayTeam": "Enosis Paralimni",
+      "homeScore": 3,
+      "awayScore": 0,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "59%",
+          "41%"
+        ],
+        "Total shots": [
+          "14",
+          "3"
+        ],
+        "Shots on target": [
+          "7",
+          "2"
+        ],
+        "Corner kicks": [
+          "5",
+          "3"
+        ],
+        "Yellow cards": [
+          "1",
+          "2"
+        ],
+        "Shots off target": [
+          "7",
+          "1"
+        ],
+        "Offsides": [
+          "1",
+          "2"
+        ],
+        "Free kicks": [
+          "13",
+          "15"
+        ],
+        "Throw ins": [
+          "30",
+          "22"
+        ],
+        "Fouls": [
+          "0",
+          "0"
+        ]
+      }
+    },
+    {
+      "id": "ry4MAuU7",
+      "date": "2026-01-03T15:00:00.000Z",
+      "round": "Round 16",
+      "homeTeam": "Ethnikos Achnas",
+      "awayTeam": "AEL Limassol",
+      "homeScore": 0,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "46%",
+          "54%"
+        ],
+        "Total shots": [
+          "8",
+          "10"
+        ],
+        "Shots on target": [
+          "5",
+          "7"
+        ],
+        "Corner kicks": [
+          "2",
+          "5"
+        ],
+        "Yellow cards": [
+          "3",
+          "3"
+        ],
+        "Red cards": [
+          "1",
+          "0"
+        ],
+        "Shots off target": [
+          "3",
+          "3"
+        ],
+        "Offsides": [
+          "3",
+          "1"
+        ],
+        "Free kicks": [
+          "11",
+          "15"
+        ],
+        "Throw ins": [
+          "17",
+          "23"
+        ],
+        "Fouls": [
+          "12",
+          "10"
+        ]
+      }
+    },
+    {
+      "id": "nNknR0El",
+      "date": "2026-01-02T17:00:00.000Z",
+      "round": "Round 16",
+      "homeTeam": "Omonia Aradippou",
+      "awayTeam": "Krasava ENY Ypsonas",
+      "homeScore": 1,
+      "awayScore": 0,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "57%",
+          "43%"
+        ],
+        "Total shots": [
+          "11",
+          "11"
+        ],
+        "Shots on target": [
+          "6",
+          "5"
+        ],
+        "Corner kicks": [
+          "6",
+          "4"
+        ],
+        "Yellow cards": [
+          "5",
+          "3"
+        ],
+        "Shots off target": [
+          "5",
+          "6"
+        ],
+        "Offsides": [
+          "3",
+          "4"
+        ],
+        "Free kicks": [
+          "20",
+          "14"
+        ],
+        "Throw ins": [
+          "26",
+          "17"
+        ],
+        "Fouls": [
+          "10",
+          "16"
+        ]
+      }
+    },
+    {
+      "id": "GKzZJq7L",
+      "date": "2025-12-22T17:00:00.000Z",
+      "round": "Round 15",
+      "homeTeam": "AEL Limassol",
+      "awayTeam": "AEK Larnaca",
+      "homeScore": 0,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "45%",
+          "55%"
+        ],
+        "Total shots": [
+          "5",
+          "5"
+        ],
+        "Shots on target": [
+          "0",
+          "3"
+        ],
+        "Corner kicks": [
+          "1",
+          "4"
+        ],
+        "Yellow cards": [
+          "3",
+          "1"
+        ],
+        "Shots off target": [
+          "5",
+          "2"
+        ],
+        "Offsides": [
+          "2",
+          "5"
+        ],
+        "Free kicks": [
+          "22",
+          "22"
+        ],
+        "Throw ins": [
+          "22",
+          "12"
+        ],
+        "Fouls": [
+          "19",
+          "16"
+        ]
+      }
+    },
+    {
+      "id": "fi7i76NF",
+      "date": "2025-12-22T17:00:00.000Z",
+      "round": "Round 15",
+      "homeTeam": "Omonia Nicosia",
+      "awayTeam": "Ethnikos Achnas",
+      "homeScore": 4,
+      "awayScore": 0,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "56%",
+          "44%"
+        ],
+        "Total shots": [
+          "15",
+          "6"
+        ],
+        "Shots on target": [
+          "9",
+          "2"
+        ],
+        "Corner kicks": [
+          "7",
+          "2"
+        ],
+        "Yellow cards": [
+          "2",
+          "2"
+        ],
+        "Shots off target": [
+          "6",
+          "4"
+        ],
+        "Offsides": [
+          "2",
+          "1"
+        ],
+        "Free kicks": [
+          "12",
+          "9"
+        ],
+        "Throw ins": [
+          "17",
+          "13"
+        ],
+        "Fouls": [
+          "7",
+          "11"
+        ]
+      }
+    },
+    {
+      "id": "KYjWaOFk",
+      "date": "2025-12-21T17:00:00.000Z",
+      "round": "Round 15",
+      "homeTeam": "Krasava ENY Ypsonas",
+      "awayTeam": "Apollon Limassol",
+      "homeScore": 0,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "45%",
+          "55%"
+        ],
+        "Total shots": [
+          "3",
+          "8"
+        ],
+        "Shots on target": [
+          "1",
+          "4"
+        ],
+        "Corner kicks": [
+          "4",
+          "5"
+        ],
+        "Yellow cards": [
+          "2",
+          "3"
+        ],
+        "Shots off target": [
+          "2",
+          "4"
+        ],
+        "Offsides": [
+          "0",
+          "0"
+        ],
+        "Free kicks": [
+          "17",
+          "17"
+        ],
+        "Throw ins": [
+          "19",
+          "20"
+        ],
+        "Fouls": [
+          "16",
+          "17"
+        ]
+      }
+    },
+    {
+      "id": "8fXQL5x9",
+      "date": "2025-12-20T17:00:00.000Z",
+      "round": "Round 15",
+      "homeTeam": "Anorthosis Famagusta",
+      "awayTeam": "Olympiakos Nicosia",
+      "homeScore": 0,
+      "awayScore": 0,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "51%",
+          "49%"
+        ],
+        "Total shots": [
+          "7",
+          "2"
+        ],
+        "Shots on target": [
+          "3",
+          "1"
+        ],
+        "Corner kicks": [
+          "6",
+          "2"
+        ],
+        "Yellow cards": [
+          "4",
+          "3"
+        ],
+        "Red cards": [
+          "0",
+          "1"
+        ],
+        "Shots off target": [
+          "4",
+          "1"
+        ],
+        "Offsides": [
+          "3",
+          "3"
+        ],
+        "Free kicks": [
+          "31",
+          "21"
+        ],
+        "Throw ins": [
+          "24",
+          "30"
+        ],
+        "Fouls": [
+          "16",
+          "26"
+        ]
+      }
+    },
+    {
+      "id": "hnkvb2p2",
+      "date": "2025-12-20T15:00:00.000Z",
+      "round": "Round 15",
+      "homeTeam": "Aris Limassol",
+      "awayTeam": "Omonia Aradippou",
+      "homeScore": 2,
+      "awayScore": 2,
+      "htHome": 2,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "51%",
+          "49%"
+        ],
+        "Total shots": [
+          "12",
+          "8"
+        ],
+        "Shots on target": [
+          "8",
+          "5"
+        ],
+        "Corner kicks": [
+          "6",
+          "4"
+        ],
+        "Yellow cards": [
+          "3",
+          "2"
+        ],
+        "Shots off target": [
+          "4",
+          "3"
+        ],
+        "Offsides": [
+          "1",
+          "1"
+        ],
+        "Free kicks": [
+          "15",
+          "16"
+        ],
+        "Throw ins": [
+          "16",
+          "21"
+        ],
+        "Fouls": [
+          "15",
+          "14"
+        ]
+      }
+    },
+    {
+      "id": "0hC5ENUr",
+      "date": "2025-12-20T15:00:00.000Z",
+      "round": "Round 15",
+      "homeTeam": "Enosis Paralimni",
+      "awayTeam": "Akritas Chlorakas",
+      "homeScore": 0,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "57%",
+          "43%"
+        ],
+        "Total shots": [
+          "9",
+          "4"
+        ],
+        "Shots on target": [
+          "5",
+          "2"
+        ],
+        "Corner kicks": [
+          "6",
+          "2"
+        ],
+        "Yellow cards": [
+          "4",
+          "4"
+        ],
+        "Shots off target": [
+          "4",
+          "2"
+        ],
+        "Offsides": [
+          "1",
+          "2"
+        ],
+        "Free kicks": [
+          "19",
+          "18"
+        ],
+        "Throw ins": [
+          "25",
+          "33"
+        ],
+        "Fouls": [
+          "17",
+          "16"
+        ]
+      }
+    },
+    {
+      "id": "Qwx89ymn",
+      "date": "2025-12-15T17:00:00.000Z",
+      "round": "Round 14",
+      "homeTeam": "AEK Larnaca",
+      "awayTeam": "Omonia Nicosia",
+      "homeScore": 1,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "49%",
+          "51%"
+        ],
+        "Total shots": [
+          "7",
+          "10"
+        ],
+        "Shots on target": [
+          "2",
+          "6"
+        ],
+        "Corner kicks": [
+          "1",
+          "6"
+        ],
+        "Yellow cards": [
+          "3",
+          "3"
+        ],
+        "Shots off target": [
+          "5",
+          "4"
+        ],
+        "Offsides": [
+          "1",
+          "1"
+        ],
+        "Free kicks": [
+          "14",
+          "18"
+        ],
+        "Throw ins": [
+          "17",
+          "13"
+        ],
+        "Fouls": [
+          "15",
+          "13"
+        ]
+      }
+    },
+    {
+      "id": "0IedmoWq",
+      "date": "2025-12-14T17:00:00.000Z",
+      "round": "Round 14",
+      "homeTeam": "Apollon Limassol",
+      "awayTeam": "Aris Limassol",
+      "homeScore": 0,
+      "awayScore": 2,
+      "htHome": 0,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "51%",
+          "49%"
+        ],
+        "Total shots": [
+          "6",
+          "7"
+        ],
+        "Shots on target": [
+          "4",
+          "6"
+        ],
+        "Corner kicks": [
+          "6",
+          "6"
+        ],
+        "Yellow cards": [
+          "3",
+          "3"
+        ],
+        "Shots off target": [
+          "2",
+          "1"
+        ],
+        "Offsides": [
+          "2",
+          "3"
+        ],
+        "Free kicks": [
+          "20",
+          "17"
+        ],
+        "Throw ins": [
+          "30",
+          "9"
+        ],
+        "Fouls": [
+          "14",
+          "16"
+        ]
+      }
+    },
+    {
+      "id": "YyJr9Sh3",
+      "date": "2025-12-14T17:00:00.000Z",
+      "round": "Round 14",
+      "homeTeam": "Enosis Paralimni",
+      "awayTeam": "Pafos FC",
+      "homeScore": 0,
+      "awayScore": 2,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "35%",
+          "65%"
+        ],
+        "Total shots": [
+          "1",
+          "19"
+        ],
+        "Shots on target": [
+          "0",
+          "10"
+        ],
+        "Corner kicks": [
+          "1",
+          "7"
+        ],
+        "Yellow cards": [
+          "2",
+          "0"
+        ],
+        "Shots off target": [
+          "1",
+          "9"
+        ],
+        "Offsides": [
+          "0",
+          "2"
+        ],
+        "Free kicks": [
+          "14",
+          "10"
+        ],
+        "Throw ins": [
+          "19",
+          "33"
+        ],
+        "Fouls": [
+          "10",
+          "12"
+        ]
+      }
+    },
+    {
+      "id": "Y3uG7FHb",
+      "date": "2025-12-14T14:00:00.000Z",
+      "round": "Round 14",
+      "homeTeam": "Olympiakos Nicosia",
+      "awayTeam": "AEL Limassol",
+      "homeScore": 0,
+      "awayScore": 0,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "55%",
+          "45%"
+        ],
+        "Total shots": [
+          "4",
+          "3"
+        ],
+        "Shots on target": [
+          "2",
+          "1"
+        ],
+        "Corner kicks": [
+          "7",
+          "1"
+        ],
+        "Yellow cards": [
+          "5",
+          "3"
+        ],
+        "Red cards": [
+          "2",
+          "0"
+        ],
+        "Shots off target": [
+          "2",
+          "2"
+        ],
+        "Offsides": [
+          "1",
+          "2"
+        ],
+        "Free kicks": [
+          "21",
+          "18"
+        ],
+        "Throw ins": [
+          "17",
+          "17"
+        ],
+        "Fouls": [
+          "15",
+          "19"
+        ]
+      }
+    },
+    {
+      "id": "UVYO5gnB",
+      "date": "2025-12-13T17:00:00.000Z",
+      "round": "Round 14",
+      "homeTeam": "Omonia Aradippou",
+      "awayTeam": "Anorthosis Famagusta",
+      "homeScore": 1,
+      "awayScore": 0,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "34%",
+          "66%"
+        ],
+        "Total shots": [
+          "6",
+          "9"
+        ],
+        "Shots on target": [
+          "4",
+          "2"
+        ],
+        "Corner kicks": [
+          "4",
+          "3"
+        ],
+        "Yellow cards": [
+          "2",
+          "1"
+        ],
+        "Shots off target": [
+          "2",
+          "7"
+        ],
+        "Offsides": [
+          "0",
+          "2"
+        ],
+        "Free kicks": [
+          "10",
+          "24"
+        ],
+        "Throw ins": [
+          "17",
+          "29"
+        ],
+        "Fouls": [
+          "24",
+          "8"
+        ]
+      }
+    },
+    {
+      "id": "6VQdoP0d",
+      "date": "2025-12-13T16:00:00.000Z",
+      "round": "Round 14",
+      "homeTeam": "Apoel Nicosia",
+      "awayTeam": "Krasava ENY Ypsonas",
+      "homeScore": 0,
+      "awayScore": 0,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "58%",
+          "42%"
+        ],
+        "Total shots": [
+          "14",
+          "6"
+        ],
+        "Shots on target": [
+          "8",
+          "2"
+        ],
+        "Corner kicks": [
+          "5",
+          "5"
+        ],
+        "Yellow cards": [
+          "3",
+          "3"
+        ],
+        "Red cards": [
+          "1",
+          "0"
+        ],
+        "Shots off target": [
+          "6",
+          "4"
+        ],
+        "Offsides": [
+          "0",
+          "0"
+        ],
+        "Free kicks": [
+          "13",
+          "7"
+        ],
+        "Throw ins": [
+          "21",
+          "12"
+        ],
+        "Fouls": [
+          "7",
+          "13"
+        ]
+      }
+    },
+    {
+      "id": "MPBckY1U",
+      "date": "2025-12-13T15:00:00.000Z",
+      "round": "Round 14",
+      "homeTeam": "Akritas Chlorakas",
+      "awayTeam": "Ethnikos Achnas",
+      "homeScore": 3,
+      "awayScore": 1,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "48%",
+          "52%"
+        ],
+        "Total shots": [
+          "4",
+          "9"
+        ],
+        "Shots on target": [
+          "3",
+          "4"
+        ],
+        "Corner kicks": [
+          "1",
+          "7"
+        ],
+        "Yellow cards": [
+          "3",
+          "3"
+        ],
+        "Shots off target": [
+          "1",
+          "5"
+        ],
+        "Offsides": [
+          "0",
+          "0"
+        ],
+        "Free kicks": [
+          "11",
+          "10"
+        ],
+        "Throw ins": [
+          "17",
+          "29"
+        ],
+        "Fouls": [
+          "10",
+          "10"
+        ]
+      }
+    },
+    {
+      "id": "jLNPdb3t",
+      "date": "2025-12-07T17:00:00.000Z",
+      "round": "Round 13",
+      "homeTeam": "Apollon Limassol",
+      "awayTeam": "Anorthosis Famagusta",
+      "homeScore": 0,
+      "awayScore": 0,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "49%",
+          "51%"
+        ],
+        "Total shots": [
+          "8",
+          "7"
+        ],
+        "Shots on target": [
+          "5",
+          "4"
+        ],
+        "Corner kicks": [
+          "6",
+          "3"
+        ],
+        "Yellow cards": [
+          "3",
+          "3"
+        ],
+        "Shots off target": [
+          "3",
+          "3"
+        ],
+        "Offsides": [
+          "0",
+          "2"
+        ],
+        "Free kicks": [
+          "13",
+          "15"
+        ],
+        "Throw ins": [
+          "25",
+          "9"
+        ],
+        "Fouls": [
+          "14",
+          "11"
+        ]
+      }
+    },
+    {
+      "id": "M5mGxeIO",
+      "date": "2025-12-07T15:00:00.000Z",
+      "round": "Round 13",
+      "homeTeam": "Apoel Nicosia",
+      "awayTeam": "Aris Limassol",
+      "homeScore": 2,
+      "awayScore": 0,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "47%",
+          "53%"
+        ],
+        "Total shots": [
+          "8",
+          "12"
+        ],
+        "Shots on target": [
+          "5",
+          "9"
+        ],
+        "Corner kicks": [
+          "2",
+          "10"
+        ],
+        "Yellow cards": [
+          "3",
+          "5"
+        ],
+        "Shots off target": [
+          "3",
+          "3"
+        ],
+        "Offsides": [
+          "0",
+          "1"
+        ],
+        "Free kicks": [
+          "19",
+          "12"
+        ],
+        "Throw ins": [
+          "14",
+          "15"
+        ],
+        "Fouls": [
+          "12",
+          "18"
+        ]
+      }
+    },
+    {
+      "id": "nmHYfxYh",
+      "date": "2025-12-07T15:00:00.000Z",
+      "round": "Round 13",
+      "homeTeam": "Omonia Aradippou",
+      "awayTeam": "AEL Limassol",
+      "homeScore": 1,
+      "awayScore": 3,
+      "htHome": 1,
+      "htAway": 2,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "51%",
+          "49%"
+        ],
+        "Total shots": [
+          "7",
+          "7"
+        ],
+        "Shots on target": [
+          "4",
+          "4"
+        ],
+        "Corner kicks": [
+          "3",
+          "1"
+        ],
+        "Yellow cards": [
+          "3",
+          "3"
+        ],
+        "Shots off target": [
+          "3",
+          "3"
+        ],
+        "Offsides": [
+          "1",
+          "4"
+        ],
+        "Free kicks": [
+          "24",
+          "20"
+        ],
+        "Throw ins": [
+          "25",
+          "16"
+        ],
+        "Fouls": [
+          "19",
+          "20"
+        ]
+      }
+    },
+    {
+      "id": "GS8kifXH",
+      "date": "2025-12-06T17:00:00.000Z",
+      "round": "Round 13",
+      "homeTeam": "AEK Larnaca",
+      "awayTeam": "Ethnikos Achnas",
+      "homeScore": 2,
+      "awayScore": 1,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "61%",
+          "39%"
+        ],
+        "Total shots": [
+          "17",
+          "3"
+        ],
+        "Shots on target": [
+          "7",
+          "2"
+        ],
+        "Corner kicks": [
+          "7",
+          "3"
+        ],
+        "Yellow cards": [
+          "1",
+          "4"
+        ],
+        "Shots off target": [
+          "10",
+          "1"
+        ],
+        "Offsides": [
+          "0",
+          "3"
+        ],
+        "Free kicks": [
+          "17",
+          "10"
+        ],
+        "Throw ins": [
+          "21",
+          "20"
+        ],
+        "Fouls": [
+          "10",
+          "13"
+        ]
+      }
+    },
+    {
+      "id": "K0FtgG25",
+      "date": "2025-12-06T15:00:00.000Z",
+      "round": "Round 13",
+      "homeTeam": "Olympiakos Nicosia",
+      "awayTeam": "Omonia Nicosia",
+      "homeScore": 0,
+      "awayScore": 3,
+      "htHome": 0,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "48%",
+          "52%"
+        ],
+        "Total shots": [
+          "6",
+          "13"
+        ],
+        "Shots on target": [
+          "2",
+          "6"
+        ],
+        "Corner kicks": [
+          "0",
+          "3"
+        ],
+        "Yellow cards": [
+          "0",
+          "2"
+        ],
+        "Shots off target": [
+          "4",
+          "7"
+        ],
+        "Offsides": [
+          "2",
+          "4"
+        ],
+        "Free kicks": [
+          "18",
+          "16"
+        ],
+        "Throw ins": [
+          "19",
+          "18"
+        ],
+        "Fouls": [
+          "14",
+          "14"
+        ]
+      }
+    },
+    {
+      "id": "0ja7vHmC",
+      "date": "2025-12-05T17:00:00.000Z",
+      "round": "Round 13",
+      "homeTeam": "Enosis Paralimni",
+      "awayTeam": "Krasava ENY Ypsonas",
+      "homeScore": 0,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "47%",
+          "53%"
+        ],
+        "Total shots": [
+          "1",
+          "9"
+        ],
+        "Shots on target": [
+          "0",
+          "6"
+        ],
+        "Corner kicks": [
+          "3",
+          "6"
+        ],
+        "Yellow cards": [
+          "1",
+          "2"
+        ],
+        "Shots off target": [
+          "1",
+          "3"
+        ],
+        "Offsides": [
+          "2",
+          "1"
+        ],
+        "Free kicks": [
+          "13",
+          "14"
+        ],
+        "Throw ins": [
+          "29",
+          "18"
+        ],
+        "Fouls": [
+          "11",
+          "11"
+        ]
+      }
+    },
+    {
+      "id": "hQeatwJa",
+      "date": "2025-12-05T16:00:00.000Z",
+      "round": "Round 13",
+      "homeTeam": "Pafos FC",
+      "awayTeam": "Akritas Chlorakas",
+      "homeScore": 4,
+      "awayScore": 0,
+      "htHome": 2,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "54%",
+          "46%"
+        ],
+        "Total shots": [
+          "11",
+          "8"
+        ],
+        "Shots on target": [
+          "7",
+          "4"
+        ],
+        "Corner kicks": [
+          "5",
+          "6"
+        ],
+        "Yellow cards": [
+          "2",
+          "2"
+        ],
+        "Shots off target": [
+          "4",
+          "4"
+        ],
+        "Offsides": [
+          "2",
+          "0"
+        ],
+        "Free kicks": [
+          "9",
+          "14"
+        ],
+        "Throw ins": [
+          "24",
+          "18"
+        ],
+        "Fouls": [
+          "12",
+          "9"
+        ]
+      }
+    },
+    {
+      "id": "db2jralm",
+      "date": "2025-12-01T17:00:00.000Z",
+      "round": "Round 12",
+      "homeTeam": "Akritas Chlorakas",
+      "awayTeam": "AEK Larnaca",
+      "homeScore": 1,
+      "awayScore": 1,
+      "htHome": 1,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "39%",
+          "61%"
+        ],
+        "Total shots": [
+          "3",
+          "13"
+        ],
+        "Shots on target": [
+          "3",
+          "7"
+        ],
+        "Corner kicks": [
+          "2",
+          "5"
+        ],
+        "Yellow cards": [
+          "4",
+          "2"
+        ],
+        "Shots off target": [
+          "0",
+          "6"
+        ],
+        "Offsides": [
+          "3",
+          "2"
+        ],
+        "Free kicks": [
+          "13",
+          "19"
+        ],
+        "Throw ins": [
+          "14",
+          "30"
+        ],
+        "Fouls": [
+          "16",
+          "11"
+        ]
+      }
+    },
+    {
+      "id": "OWO9VL4s",
+      "date": "2025-12-01T17:00:00.000Z",
+      "round": "Round 12",
+      "homeTeam": "Omonia Nicosia",
+      "awayTeam": "Omonia Aradippou",
+      "homeScore": 3,
+      "awayScore": 1,
+      "htHome": 3,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "58%",
+          "42%"
+        ],
+        "Total shots": [
+          "9",
+          "5"
+        ],
+        "Shots on target": [
+          "6",
+          "4"
+        ],
+        "Corner kicks": [
+          "5",
+          "3"
+        ],
+        "Yellow cards": [
+          "2",
+          "2"
+        ],
+        "Shots off target": [
+          "3",
+          "1"
+        ],
+        "Offsides": [
+          "3",
+          "1"
+        ],
+        "Free kicks": [
+          "14",
+          "15"
+        ],
+        "Throw ins": [
+          "19",
+          "11"
+        ],
+        "Fouls": [
+          "12",
+          "13"
+        ]
+      }
+    },
+    {
+      "id": "WdSHTaZg",
+      "date": "2025-11-30T17:00:00.000Z",
+      "round": "Round 12",
+      "homeTeam": "AEL Limassol",
+      "awayTeam": "Apollon Limassol",
+      "homeScore": 2,
+      "awayScore": 2,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "56%",
+          "44%"
+        ],
+        "Total shots": [
+          "6",
+          "8"
+        ],
+        "Shots on target": [
+          "4",
+          "4"
+        ],
+        "Corner kicks": [
+          "4",
+          "2"
+        ],
+        "Yellow cards": [
+          "2",
+          "2"
+        ],
+        "Shots off target": [
+          "2",
+          "4"
+        ],
+        "Offsides": [
+          "0",
+          "3"
+        ],
+        "Free kicks": [
+          "17",
+          "13"
+        ],
+        "Throw ins": [
+          "26",
+          "17"
+        ],
+        "Fouls": [
+          "12",
+          "12"
+        ]
+      }
+    },
+    {
+      "id": "0SGKmLQP",
+      "date": "2025-11-30T15:00:00.000Z",
+      "round": "Round 12",
+      "homeTeam": "Krasava ENY Ypsonas",
+      "awayTeam": "Pafos FC",
+      "homeScore": 2,
+      "awayScore": 3,
+      "htHome": 0,
+      "htAway": 2,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "39%",
+          "61%"
+        ],
+        "Total shots": [
+          "10",
+          "10"
+        ],
+        "Shots on target": [
+          "3",
+          "7"
+        ],
+        "Corner kicks": [
+          "5",
+          "3"
+        ],
+        "Yellow cards": [
+          "4",
+          "4"
+        ],
+        "Shots off target": [
+          "7",
+          "3"
+        ],
+        "Offsides": [
+          "1",
+          "0"
+        ],
+        "Free kicks": [
+          "9",
+          "9"
+        ],
+        "Throw ins": [
+          "14",
+          "16"
+        ],
+        "Fouls": [
+          "8",
+          "9"
+        ]
+      }
+    },
+    {
+      "id": "hCGQRw46",
+      "date": "2025-11-29T17:00:00.000Z",
+      "round": "Round 12",
+      "homeTeam": "Anorthosis Famagusta",
+      "awayTeam": "Apoel Nicosia",
+      "homeScore": 1,
+      "awayScore": 1,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "50%",
+          "50%"
+        ],
+        "Total shots": [
+          "4",
+          "12"
+        ],
+        "Shots on target": [
+          "1",
+          "3"
+        ],
+        "Corner kicks": [
+          "2",
+          "4"
+        ],
+        "Yellow cards": [
+          "1",
+          "2"
+        ],
+        "Shots off target": [
+          "3",
+          "9"
+        ],
+        "Offsides": [
+          "1",
+          "0"
+        ],
+        "Free kicks": [
+          "22",
+          "12"
+        ],
+        "Throw ins": [
+          "15",
+          "17"
+        ],
+        "Fouls": [
+          "11",
+          "20"
+        ]
+      }
+    },
+    {
+      "id": "tCLpyrsK",
+      "date": "2025-11-29T15:00:00.000Z",
+      "round": "Round 12",
+      "homeTeam": "Ethnikos Achnas",
+      "awayTeam": "Olympiakos Nicosia",
+      "homeScore": 0,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "49%",
+          "51%"
+        ],
+        "Total shots": [
+          "11",
+          "7"
+        ],
+        "Shots on target": [
+          "3",
+          "4"
+        ],
+        "Corner kicks": [
+          "4",
+          "1"
+        ],
+        "Yellow cards": [
+          "4",
+          "1"
+        ],
+        "Shots off target": [
+          "8",
+          "3"
+        ],
+        "Offsides": [
+          "0",
+          "0"
+        ],
+        "Free kicks": [
+          "18",
+          "16"
+        ],
+        "Throw ins": [
+          "17",
+          "28"
+        ],
+        "Fouls": [
+          "16",
+          "18"
+        ]
+      }
+    },
+    {
+      "id": "0xKYPHYI",
+      "date": "2025-11-29T15:00:00.000Z",
+      "round": "Round 12",
+      "homeTeam": "Aris Limassol",
+      "awayTeam": "Enosis Paralimni",
+      "homeScore": 4,
+      "awayScore": 0,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "57%",
+          "43%"
+        ],
+        "Total shots": [
+          "13",
+          "8"
+        ],
+        "Shots on target": [
+          "6",
+          "6"
+        ],
+        "Corner kicks": [
+          "5",
+          "5"
+        ],
+        "Yellow cards": [
+          "1",
+          "2"
+        ],
+        "Shots off target": [
+          "7",
+          "2"
+        ],
+        "Offsides": [
+          "3",
+          "2"
+        ],
+        "Free kicks": [
+          "14",
+          "13"
+        ],
+        "Throw ins": [
+          "14",
+          "21"
+        ],
+        "Fouls": [
+          "10",
+          "12"
+        ]
+      }
+    },
+    {
+      "id": "Ukg9V0mp",
+      "date": "2025-11-24T17:00:00.000Z",
+      "round": "Round 11",
+      "homeTeam": "Krasava ENY Ypsonas",
+      "awayTeam": "Akritas Chlorakas",
+      "homeScore": 0,
+      "awayScore": 3,
+      "htHome": 0,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "46%",
+          "54%"
+        ],
+        "Total shots": [
+          "6",
+          "7"
+        ],
+        "Shots on target": [
+          "3",
+          "5"
+        ],
+        "Corner kicks": [
+          "5",
+          "6"
+        ],
+        "Yellow cards": [
+          "1",
+          "4"
+        ],
+        "Red cards": [
+          "1",
+          "0"
+        ],
+        "Shots off target": [
+          "3",
+          "2"
+        ],
+        "Offsides": [
+          "2",
+          "1"
+        ],
+        "Free kicks": [
+          "9",
+          "6"
+        ],
+        "Throw ins": [
+          "21",
+          "18"
+        ],
+        "Fouls": [
+          "4",
+          "7"
+        ]
+      }
+    },
+    {
+      "id": "QyP9ZU5F",
+      "date": "2025-11-23T17:00:00.000Z",
+      "round": "Round 11",
+      "homeTeam": "Apoel Nicosia",
+      "awayTeam": "AEL Limassol",
+      "homeScore": 1,
+      "awayScore": 2,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "55%",
+          "45%"
+        ],
+        "Total shots": [
+          "10",
+          "4"
+        ],
+        "Shots on target": [
+          "5",
+          "4"
+        ],
+        "Corner kicks": [
+          "8",
+          "3"
+        ],
+        "Yellow cards": [
+          "2",
+          "4"
+        ],
+        "Shots off target": [
+          "5",
+          "0"
+        ],
+        "Offsides": [
+          "0",
+          "2"
+        ],
+        "Free kicks": [
+          "17",
+          "17"
+        ],
+        "Throw ins": [
+          "29",
+          "17"
+        ],
+        "Fouls": [
+          "17",
+          "15"
+        ]
+      }
+    },
+    {
+      "id": "pQyrHMkl",
+      "date": "2025-11-23T17:00:00.000Z",
+      "round": "Round 11",
+      "homeTeam": "Apollon Limassol",
+      "awayTeam": "Omonia Nicosia",
+      "homeScore": 2,
+      "awayScore": 0,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "50%",
+          "50%"
+        ],
+        "Total shots": [
+          "4",
+          "11"
+        ],
+        "Shots on target": [
+          "2",
+          "6"
+        ],
+        "Corner kicks": [
+          "3",
+          "5"
+        ],
+        "Yellow cards": [
+          "4",
+          "2"
+        ],
+        "Red cards": [
+          "1",
+          "0"
+        ],
+        "Shots off target": [
+          "2",
+          "5"
+        ],
+        "Offsides": [
+          "2",
+          "2"
+        ],
+        "Free kicks": [
+          "14",
+          "15"
+        ],
+        "Throw ins": [
+          "26",
+          "19"
+        ],
+        "Fouls": [
+          "13",
+          "12"
+        ]
+      }
+    },
+    {
+      "id": "KvM1yiy3",
+      "date": "2025-11-23T15:00:00.000Z",
+      "round": "Round 11",
+      "homeTeam": "Enosis Paralimni",
+      "awayTeam": "Anorthosis Famagusta",
+      "homeScore": 2,
+      "awayScore": 3,
+      "htHome": 2,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "46%",
+          "54%"
+        ],
+        "Total shots": [
+          "7",
+          "14"
+        ],
+        "Shots on target": [
+          "4",
+          "8"
+        ],
+        "Corner kicks": [
+          "5",
+          "6"
+        ],
+        "Yellow cards": [
+          "2",
+          "1"
+        ],
+        "Shots off target": [
+          "3",
+          "6"
+        ],
+        "Offsides": [
+          "3",
+          "0"
+        ],
+        "Free kicks": [
+          "12",
+          "20"
+        ],
+        "Throw ins": [
+          "27",
+          "18"
+        ],
+        "Fouls": [
+          "17",
+          "12"
+        ]
+      }
+    },
+    {
+      "id": "lIYbDvkD",
+      "date": "2025-11-22T17:00:00.000Z",
+      "round": "Round 11",
+      "homeTeam": "Olympiakos Nicosia",
+      "awayTeam": "AEK Larnaca",
+      "homeScore": 1,
+      "awayScore": 4,
+      "htHome": 1,
+      "htAway": 4,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "44%",
+          "56%"
+        ],
+        "Total shots": [
+          "3",
+          "18"
+        ],
+        "Shots on target": [
+          "2",
+          "8"
+        ],
+        "Corner kicks": [
+          "2",
+          "10"
+        ],
+        "Yellow cards": [
+          "2",
+          "0"
+        ],
+        "Shots off target": [
+          "1",
+          "10"
+        ],
+        "Offsides": [
+          "1",
+          "2"
+        ],
+        "Free kicks": [
+          "13",
+          "13"
+        ],
+        "Throw ins": [
+          "7",
+          "12"
+        ],
+        "Fouls": [
+          "12",
+          "11"
+        ]
+      }
+    },
+    {
+      "id": "hjujF0K0",
+      "date": "2025-11-22T15:00:00.000Z",
+      "round": "Round 11",
+      "homeTeam": "Omonia Aradippou",
+      "awayTeam": "Ethnikos Achnas",
+      "homeScore": 3,
+      "awayScore": 2,
+      "htHome": 1,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "53%",
+          "47%"
+        ],
+        "Total shots": [
+          "13",
+          "11"
+        ],
+        "Shots on target": [
+          "7",
+          "6"
+        ],
+        "Corner kicks": [
+          "4",
+          "5"
+        ],
+        "Yellow cards": [
+          "3",
+          "3"
+        ],
+        "Red cards": [
+          "0",
+          "1"
+        ],
+        "Shots off target": [
+          "6",
+          "5"
+        ],
+        "Offsides": [
+          "2",
+          "0"
+        ],
+        "Free kicks": [
+          "12",
+          "11"
+        ],
+        "Throw ins": [
+          "23",
+          "18"
+        ],
+        "Fouls": [
+          "9",
+          "12"
+        ]
+      }
+    },
+    {
+      "id": "23iHTvId",
+      "date": "2025-11-21T17:00:00.000Z",
+      "round": "Round 11",
+      "homeTeam": "Pafos FC",
+      "awayTeam": "Aris Limassol",
+      "homeScore": 2,
+      "awayScore": 1,
+      "htHome": 1,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "54%",
+          "46%"
+        ],
+        "Total shots": [
+          "7",
+          "4"
+        ],
+        "Shots on target": [
+          "5",
+          "4"
+        ],
+        "Corner kicks": [
+          "5",
+          "4"
+        ],
+        "Yellow cards": [
+          "2",
+          "2"
+        ],
+        "Shots off target": [
+          "2",
+          "0"
+        ],
+        "Offsides": [
+          "3",
+          "0"
+        ],
+        "Free kicks": [
+          "9",
+          "19"
+        ],
+        "Throw ins": [
+          "21",
+          "23"
+        ],
+        "Fouls": [
+          "15",
+          "9"
+        ]
+      }
+    },
+    {
+      "id": "lIIzH1Yj",
+      "date": "2025-11-09T17:00:00.000Z",
+      "round": "Round 10",
+      "homeTeam": "Anorthosis Famagusta",
+      "awayTeam": "Pafos FC",
+      "homeScore": 1,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "52%",
+          "48%"
+        ],
+        "Total shots": [
+          "7",
+          "5"
+        ],
+        "Shots on target": [
+          "2",
+          "2"
+        ],
+        "Corner kicks": [
+          "5",
+          "4"
+        ],
+        "Yellow cards": [
+          "4",
+          "4"
+        ],
+        "Shots off target": [
+          "5",
+          "3"
+        ],
+        "Offsides": [
+          "0",
+          "3"
+        ],
+        "Free kicks": [
+          "25",
+          "11"
+        ],
+        "Throw ins": [
+          "17",
+          "18"
+        ],
+        "Fouls": [
+          "11",
+          "20"
+        ]
+      }
+    },
+    {
+      "id": "dKwdOqtH",
+      "date": "2025-11-09T17:00:00.000Z",
+      "round": "Round 10",
+      "homeTeam": "Omonia Nicosia",
+      "awayTeam": "Apoel Nicosia",
+      "homeScore": 2,
+      "awayScore": 2,
+      "htHome": 1,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "59%",
+          "41%"
+        ],
+        "Total shots": [
+          "6",
+          "10"
+        ],
+        "Shots on target": [
+          "4",
+          "2"
+        ],
+        "Corner kicks": [
+          "4",
+          "3"
+        ],
+        "Yellow cards": [
+          "3",
+          "2"
+        ],
+        "Shots off target": [
+          "2",
+          "8"
+        ],
+        "Offsides": [
+          "1",
+          "0"
+        ],
+        "Free kicks": [
+          "19",
+          "20"
+        ],
+        "Throw ins": [
+          "26",
+          "15"
+        ],
+        "Fouls": [
+          "19",
+          "19"
+        ]
+      }
+    },
+    {
+      "id": "xvaVxqeA",
+      "date": "2025-11-09T15:00:00.000Z",
+      "round": "Round 10",
+      "homeTeam": "AEK Larnaca",
+      "awayTeam": "Omonia Aradippou",
+      "homeScore": 1,
+      "awayScore": 0,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "62%",
+          "38%"
+        ],
+        "Total shots": [
+          "13",
+          "5"
+        ],
+        "Shots on target": [
+          "6",
+          "2"
+        ],
+        "Corner kicks": [
+          "7",
+          "2"
+        ],
+        "Yellow cards": [
+          "2",
+          "4"
+        ],
+        "Shots off target": [
+          "7",
+          "3"
+        ],
+        "Offsides": [
+          "1",
+          "2"
+        ],
+        "Free kicks": [
+          "20",
+          "9"
+        ],
+        "Throw ins": [
+          "18",
+          "14"
+        ],
+        "Fouls": [
+          "8",
+          "17"
+        ]
+      }
+    },
+    {
+      "id": "GOAMv5Qc",
+      "date": "2025-11-08T17:00:00.000Z",
+      "round": "Round 10",
+      "homeTeam": "Aris Limassol",
+      "awayTeam": "Krasava ENY Ypsonas",
+      "homeScore": 3,
+      "awayScore": 0,
+      "htHome": 2,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "53%",
+          "47%"
+        ],
+        "Total shots": [
+          "14",
+          "3"
+        ],
+        "Shots on target": [
+          "7",
+          "1"
+        ],
+        "Corner kicks": [
+          "3",
+          "4"
+        ],
+        "Yellow cards": [
+          "0",
+          "2"
+        ],
+        "Shots off target": [
+          "7",
+          "2"
+        ],
+        "Offsides": [
+          "4",
+          "0"
+        ],
+        "Free kicks": [
+          "9",
+          "13"
+        ],
+        "Throw ins": [
+          "12",
+          "20"
+        ],
+        "Fouls": [
+          "9",
+          "9"
+        ]
+      }
+    },
+    {
+      "id": "2LpmQ5B4",
+      "date": "2025-11-08T16:00:00.000Z",
+      "round": "Round 10",
+      "homeTeam": "Ethnikos Achnas",
+      "awayTeam": "Apollon Limassol",
+      "homeScore": 0,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "42%",
+          "58%"
+        ],
+        "Total shots": [
+          "3",
+          "9"
+        ],
+        "Shots on target": [
+          "0",
+          "4"
+        ],
+        "Corner kicks": [
+          "5",
+          "4"
+        ],
+        "Yellow cards": [
+          "2",
+          "5"
+        ],
+        "Shots off target": [
+          "3",
+          "5"
+        ],
+        "Offsides": [
+          "1",
+          "0"
+        ],
+        "Free kicks": [
+          "19",
+          "12"
+        ],
+        "Throw ins": [
+          "20",
+          "21"
+        ],
+        "Fouls": [
+          "11",
+          "19"
+        ]
+      }
+    },
+    {
+      "id": "A5CxyNPM",
+      "date": "2025-11-08T14:00:00.000Z",
+      "round": "Round 10",
+      "homeTeam": "Akritas Chlorakas",
+      "awayTeam": "Olympiakos Nicosia",
+      "homeScore": 1,
+      "awayScore": 1,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "42%",
+          "58%"
+        ],
+        "Total shots": [
+          "7",
+          "6"
+        ],
+        "Shots on target": [
+          "5",
+          "4"
+        ],
+        "Corner kicks": [
+          "1",
+          "4"
+        ],
+        "Yellow cards": [
+          "3",
+          "1"
+        ],
+        "Shots off target": [
+          "2",
+          "2"
+        ],
+        "Offsides": [
+          "3",
+          "1"
+        ],
+        "Free kicks": [
+          "13",
+          "15"
+        ],
+        "Throw ins": [
+          "25",
+          "28"
+        ],
+        "Fouls": [
+          "12",
+          "12"
+        ]
+      }
+    },
+    {
+      "id": "UXy4MNAT",
+      "date": "2025-11-07T17:00:00.000Z",
+      "round": "Round 10",
+      "homeTeam": "AEL Limassol",
+      "awayTeam": "Enosis Paralimni",
+      "homeScore": 3,
+      "awayScore": 0,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "60%",
+          "40%"
+        ],
+        "Total shots": [
+          "11",
+          "5"
+        ],
+        "Shots on target": [
+          "5",
+          "2"
+        ],
+        "Corner kicks": [
+          "7",
+          "2"
+        ],
+        "Yellow cards": [
+          "0",
+          "5"
+        ],
+        "Red cards": [
+          "0",
+          "1"
+        ],
+        "Shots off target": [
+          "6",
+          "3"
+        ],
+        "Offsides": [
+          "8",
+          "1"
+        ],
+        "Free kicks": [
+          "16",
+          "21"
+        ],
+        "Throw ins": [
+          "21",
+          "18"
+        ],
+        "Fouls": [
+          "13",
+          "15"
+        ]
+      }
+    },
+    {
+      "id": "Ea4h4Olo",
+      "date": "2025-11-02T17:00:00.000Z",
+      "round": "Round 9",
+      "homeTeam": "Apollon Limassol",
+      "awayTeam": "AEK Larnaca",
+      "homeScore": 1,
+      "awayScore": 2,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "46%",
+          "54%"
+        ],
+        "Total shots": [
+          "12",
+          "9"
+        ],
+        "Shots on target": [
+          "8",
+          "4"
+        ],
+        "Corner kicks": [
+          "8",
+          "4"
+        ],
+        "Yellow cards": [
+          "4",
+          "2"
+        ],
+        "Shots off target": [
+          "4",
+          "5"
+        ],
+        "Offsides": [
+          "1",
+          "0"
+        ],
+        "Free kicks": [
+          "9",
+          "17"
+        ],
+        "Throw ins": [
+          "25",
+          "15"
+        ],
+        "Fouls": [
+          "16",
+          "9"
+        ]
+      }
+    },
+    {
+      "id": "j1aDDSRb",
+      "date": "2025-11-02T17:00:00.000Z",
+      "round": "Round 9",
+      "homeTeam": "Pafos FC",
+      "awayTeam": "AEL Limassol",
+      "homeScore": 1,
+      "awayScore": 0,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "57%",
+          "43%"
+        ],
+        "Total shots": [
+          "8",
+          "7"
+        ],
+        "Shots on target": [
+          "2",
+          "1"
+        ],
+        "Corner kicks": [
+          "4",
+          "3"
+        ],
+        "Yellow cards": [
+          "3",
+          "2"
+        ],
+        "Shots off target": [
+          "6",
+          "6"
+        ],
+        "Offsides": [
+          "2",
+          "1"
+        ],
+        "Free kicks": [
+          "11",
+          "16"
+        ],
+        "Throw ins": [
+          "20",
+          "15"
+        ],
+        "Fouls": [
+          "14",
+          "10"
+        ]
+      }
+    },
+    {
+      "id": "fZ54Flcn",
+      "date": "2025-11-02T15:00:00.000Z",
+      "round": "Round 9",
+      "homeTeam": "Krasava ENY Ypsonas",
+      "awayTeam": "Anorthosis Famagusta",
+      "homeScore": 0,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "42%",
+          "58%"
+        ],
+        "Total shots": [
+          "7",
+          "8"
+        ],
+        "Shots on target": [
+          "4",
+          "4"
+        ],
+        "Corner kicks": [
+          "0",
+          "5"
+        ],
+        "Yellow cards": [
+          "5",
+          "2"
+        ],
+        "Red cards": [
+          "2",
+          "0"
+        ],
+        "Shots off target": [
+          "3",
+          "4"
+        ],
+        "Offsides": [
+          "1",
+          "4"
+        ],
+        "Free kicks": [
+          "16",
+          "15"
+        ],
+        "Throw ins": [
+          "23",
+          "31"
+        ],
+        "Fouls": [
+          "14",
+          "12"
+        ]
+      }
+    },
+    {
+      "id": "rHDM9pRN",
+      "date": "2025-11-01T17:00:00.000Z",
+      "round": "Round 9",
+      "homeTeam": "Apoel Nicosia",
+      "awayTeam": "Ethnikos Achnas",
+      "homeScore": 4,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "56%",
+          "44%"
+        ],
+        "Total shots": [
+          "20",
+          "3"
+        ],
+        "Shots on target": [
+          "7",
+          "1"
+        ],
+        "Corner kicks": [
+          "4",
+          "0"
+        ],
+        "Yellow cards": [
+          "2",
+          "2"
+        ],
+        "Red cards": [
+          "0",
+          "1"
+        ],
+        "Shots off target": [
+          "13",
+          "2"
+        ],
+        "Offsides": [
+          "1",
+          "0"
+        ],
+        "Free kicks": [
+          "13",
+          "10"
+        ],
+        "Throw ins": [
+          "15",
+          "16"
+        ],
+        "Fouls": [
+          "9",
+          "13"
+        ]
+      }
+    },
+    {
+      "id": "OEcLB6dB",
+      "date": "2025-11-01T17:00:00.000Z",
+      "round": "Round 9",
+      "homeTeam": "Enosis Paralimni",
+      "awayTeam": "Omonia Nicosia",
+      "homeScore": 0,
+      "awayScore": 2,
+      "htHome": 0,
+      "htAway": 2,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "47%",
+          "53%"
+        ],
+        "Total shots": [
+          "8",
+          "12"
+        ],
+        "Shots on target": [
+          "5",
+          "8"
+        ],
+        "Corner kicks": [
+          "3",
+          "7"
+        ],
+        "Yellow cards": [
+          "2",
+          "3"
+        ],
+        "Shots off target": [
+          "3",
+          "4"
+        ],
+        "Offsides": [
+          "0",
+          "4"
+        ],
+        "Free kicks": [
+          "21",
+          "16"
+        ],
+        "Throw ins": [
+          "14",
+          "18"
+        ],
+        "Fouls": [
+          "16",
+          "17"
+        ]
+      }
+    },
+    {
+      "id": "fesuSRth",
+      "date": "2025-11-01T15:00:00.000Z",
+      "round": "Round 9",
+      "homeTeam": "Omonia Aradippou",
+      "awayTeam": "Olympiakos Nicosia",
+      "homeScore": 0,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "47%",
+          "53%"
+        ],
+        "Total shots": [
+          "11",
+          "9"
+        ],
+        "Shots on target": [
+          "3",
+          "4"
+        ],
+        "Corner kicks": [
+          "6",
+          "3"
+        ],
+        "Yellow cards": [
+          "2",
+          "2"
+        ],
+        "Shots off target": [
+          "8",
+          "5"
+        ],
+        "Offsides": [
+          "3",
+          "2"
+        ],
+        "Free kicks": [
+          "12",
+          "14"
+        ],
+        "Throw ins": [
+          "25",
+          "23"
+        ],
+        "Fouls": [
+          "0",
+          "0"
+        ]
+      }
+    },
+    {
+      "id": "4AQfeoCU",
+      "date": "2025-10-31T17:00:00.000Z",
+      "round": "Round 9",
+      "homeTeam": "Aris Limassol",
+      "awayTeam": "Akritas Chlorakas",
+      "homeScore": 3,
+      "awayScore": 1,
+      "htHome": 2,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "56%",
+          "44%"
+        ],
+        "Total shots": [
+          "15",
+          "2"
+        ],
+        "Shots on target": [
+          "10",
+          "2"
+        ],
+        "Corner kicks": [
+          "8",
+          "2"
+        ],
+        "Yellow cards": [
+          "3",
+          "4"
+        ],
+        "Shots off target": [
+          "5",
+          "0"
+        ],
+        "Offsides": [
+          "1",
+          "3"
+        ],
+        "Free kicks": [
+          "16",
+          "16"
+        ],
+        "Throw ins": [
+          "11",
+          "13"
+        ],
+        "Fouls": [
+          "14",
+          "12"
+        ]
+      }
+    },
+    {
+      "id": "jmKvaTC5",
+      "date": "2025-10-27T17:00:00.000Z",
+      "round": "Round 8",
+      "homeTeam": "AEK Larnaca",
+      "awayTeam": "Apoel Nicosia",
+      "homeScore": 1,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "59%",
+          "41%"
+        ],
+        "Total shots": [
+          "7",
+          "6"
+        ],
+        "Shots on target": [
+          "3",
+          "5"
+        ],
+        "Corner kicks": [
+          "5",
+          "6"
+        ],
+        "Yellow cards": [
+          "4",
+          "1"
+        ],
+        "Shots off target": [
+          "4",
+          "1"
+        ],
+        "Offsides": [
+          "2",
+          "1"
+        ],
+        "Free kicks": [
+          "18",
+          "14"
+        ],
+        "Throw ins": [
+          "23",
+          "14"
+        ],
+        "Fouls": [
+          "12",
+          "17"
+        ]
+      }
+    },
+    {
+      "id": "M9N3cGy1",
+      "date": "2025-10-27T17:00:00.000Z",
+      "round": "Round 8",
+      "homeTeam": "Omonia Nicosia",
+      "awayTeam": "Pafos FC",
+      "homeScore": 2,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "60%",
+          "40%"
+        ],
+        "Total shots": [
+          "15",
+          "1"
+        ],
+        "Shots on target": [
+          "8",
+          "1"
+        ],
+        "Corner kicks": [
+          "10",
+          "0"
+        ],
+        "Yellow cards": [
+          "2",
+          "2"
+        ],
+        "Shots off target": [
+          "7",
+          "0"
+        ],
+        "Offsides": [
+          "1",
+          "1"
+        ],
+        "Free kicks": [
+          "17",
+          "13"
+        ],
+        "Throw ins": [
+          "17",
+          "17"
+        ],
+        "Fouls": [
+          "12",
+          "16"
+        ]
+      }
+    },
+    {
+      "id": "8QLBef6D",
+      "date": "2025-10-26T17:00:00.000Z",
+      "round": "Round 8",
+      "homeTeam": "AEL Limassol",
+      "awayTeam": "Krasava ENY Ypsonas",
+      "homeScore": 1,
+      "awayScore": 0,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "52%",
+          "48%"
+        ],
+        "Total shots": [
+          "4",
+          "5"
+        ],
+        "Shots on target": [
+          "2",
+          "2"
+        ],
+        "Corner kicks": [
+          "5",
+          "4"
+        ],
+        "Yellow cards": [
+          "3",
+          "5"
+        ],
+        "Shots off target": [
+          "2",
+          "3"
+        ],
+        "Offsides": [
+          "5",
+          "2"
+        ],
+        "Free kicks": [
+          "21",
+          "12"
+        ],
+        "Throw ins": [
+          "24",
+          "19"
+        ],
+        "Fouls": [
+          "7",
+          "19"
+        ]
+      }
+    },
+    {
+      "id": "M7SN2BDt",
+      "date": "2025-10-26T17:00:00.000Z",
+      "round": "Round 8",
+      "homeTeam": "Anorthosis Famagusta",
+      "awayTeam": "Aris Limassol",
+      "homeScore": 1,
+      "awayScore": 1,
+      "htHome": 1,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "52%",
+          "48%"
+        ],
+        "Total shots": [
+          "7",
+          "11"
+        ],
+        "Shots on target": [
+          "5",
+          "6"
+        ],
+        "Corner kicks": [
+          "6",
+          "6"
+        ],
+        "Yellow cards": [
+          "2",
+          "3"
+        ],
+        "Shots off target": [
+          "2",
+          "5"
+        ],
+        "Offsides": [
+          "1",
+          "0"
+        ],
+        "Free kicks": [
+          "18",
+          "8"
+        ],
+        "Throw ins": [
+          "15",
+          "21"
+        ],
+        "Fouls": [
+          "7",
+          "18"
+        ]
+      }
+    },
+    {
+      "id": "rexnc7sI",
+      "date": "2025-10-26T15:00:00.000Z",
+      "round": "Round 8",
+      "homeTeam": "Akritas Chlorakas",
+      "awayTeam": "Omonia Aradippou",
+      "homeScore": 0,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "55%",
+          "45%"
+        ],
+        "Total shots": [
+          "9",
+          "13"
+        ],
+        "Shots on target": [
+          "3",
+          "4"
+        ],
+        "Corner kicks": [
+          "4",
+          "3"
+        ],
+        "Yellow cards": [
+          "3",
+          "4"
+        ],
+        "Shots off target": [
+          "6",
+          "9"
+        ],
+        "Offsides": [
+          "0",
+          "2"
+        ],
+        "Free kicks": [
+          "17",
+          "12"
+        ],
+        "Throw ins": [
+          "22",
+          "18"
+        ],
+        "Fouls": [
+          "12",
+          "13"
+        ]
+      }
+    },
+    {
+      "id": "fLQV0krg",
+      "date": "2025-10-25T16:00:00.000Z",
+      "round": "Round 8",
+      "homeTeam": "Olympiakos Nicosia",
+      "awayTeam": "Apollon Limassol",
+      "homeScore": 2,
+      "awayScore": 2,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "49%",
+          "51%"
+        ],
+        "Total shots": [
+          "7",
+          "11"
+        ],
+        "Shots on target": [
+          "3",
+          "7"
+        ],
+        "Corner kicks": [
+          "5",
+          "9"
+        ],
+        "Yellow cards": [
+          "3",
+          "0"
+        ],
+        "Shots off target": [
+          "4",
+          "4"
+        ],
+        "Offsides": [
+          "0",
+          "3"
+        ],
+        "Free kicks": [
+          "19",
+          "13"
+        ],
+        "Throw ins": [
+          "22",
+          "38"
+        ],
+        "Fouls": [
+          "13",
+          "16"
+        ]
+      }
+    },
+    {
+      "id": "0fZfax7l",
+      "date": "2025-10-25T14:00:00.000Z",
+      "round": "Round 8",
+      "homeTeam": "Ethnikos Achnas",
+      "awayTeam": "Enosis Paralimni",
+      "homeScore": 5,
+      "awayScore": 1,
+      "htHome": 4,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "52%",
+          "48%"
+        ],
+        "Total shots": [
+          "13",
+          "3"
+        ],
+        "Shots on target": [
+          "10",
+          "2"
+        ],
+        "Corner kicks": [
+          "6",
+          "1"
+        ],
+        "Yellow cards": [
+          "1",
+          "3"
+        ],
+        "Red cards": [
+          "0",
+          "1"
+        ],
+        "Shots off target": [
+          "3",
+          "1"
+        ],
+        "Offsides": [
+          "2",
+          "4"
+        ],
+        "Free kicks": [
+          "24",
+          "9"
+        ],
+        "Throw ins": [
+          "17",
+          "18"
+        ],
+        "Fouls": [
+          "7",
+          "20"
+        ]
+      }
+    },
+    {
+      "id": "YqkG6KEE",
+      "date": "2025-10-19T16:00:00.000Z",
+      "round": "Round 7",
+      "homeTeam": "Apoel Nicosia",
+      "awayTeam": "Olympiakos Nicosia",
+      "homeScore": 2,
+      "awayScore": 2,
+      "htHome": 0,
+      "htAway": 2,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "54%",
+          "46%"
+        ],
+        "Total shots": [
+          "15",
+          "4"
+        ],
+        "Shots on target": [
+          "10",
+          "3"
+        ],
+        "Corner kicks": [
+          "2",
+          "1"
+        ],
+        "Yellow cards": [
+          "3",
+          "6"
+        ],
+        "Shots off target": [
+          "5",
+          "1"
+        ],
+        "Offsides": [
+          "1",
+          "1"
+        ],
+        "Free kicks": [
+          "26",
+          "15"
+        ],
+        "Throw ins": [
+          "28",
+          "22"
+        ],
+        "Fouls": [
+          "14",
+          "25"
+        ]
+      }
+    },
+    {
+      "id": "fgUthLaL",
+      "date": "2025-10-19T16:00:00.000Z",
+      "round": "Round 7",
+      "homeTeam": "Aris Limassol",
+      "awayTeam": "AEL Limassol",
+      "homeScore": 4,
+      "awayScore": 0,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "56%",
+          "44%"
+        ],
+        "Total shots": [
+          "23",
+          "3"
+        ],
+        "Shots on target": [
+          "12",
+          "1"
+        ],
+        "Corner kicks": [
+          "6",
+          "3"
+        ],
+        "Yellow cards": [
+          "2",
+          "2"
+        ],
+        "Shots off target": [
+          "11",
+          "2"
+        ],
+        "Offsides": [
+          "5",
+          "3"
+        ],
+        "Free kicks": [
+          "13",
+          "13"
+        ],
+        "Throw ins": [
+          "24",
+          "24"
+        ],
+        "Fouls": [
+          "8",
+          "9"
+        ]
+      }
+    },
+    {
+      "id": "vR5DnaNr",
+      "date": "2025-10-19T15:00:00.000Z",
+      "round": "Round 7",
+      "homeTeam": "Krasava ENY Ypsonas",
+      "awayTeam": "Omonia Nicosia",
+      "homeScore": 1,
+      "awayScore": 2,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "49%",
+          "51%"
+        ],
+        "Total shots": [
+          "6",
+          "21"
+        ],
+        "Shots on target": [
+          "4",
+          "10"
+        ],
+        "Corner kicks": [
+          "1",
+          "5"
+        ],
+        "Yellow cards": [
+          "2",
+          "2"
+        ],
+        "Shots off target": [
+          "2",
+          "11"
+        ],
+        "Offsides": [
+          "1",
+          "1"
+        ],
+        "Free kicks": [
+          "14",
+          "12"
+        ],
+        "Throw ins": [
+          "18",
+          "23"
+        ],
+        "Fouls": [
+          "10",
+          "13"
+        ]
+      }
+    },
+    {
+      "id": "nTQYgsV8",
+      "date": "2025-10-18T16:00:00.000Z",
+      "round": "Round 7",
+      "homeTeam": "Anorthosis Famagusta",
+      "awayTeam": "Akritas Chlorakas",
+      "homeScore": 2,
+      "awayScore": 2,
+      "htHome": 1,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "56%",
+          "44%"
+        ],
+        "Total shots": [
+          "8",
+          "7"
+        ],
+        "Shots on target": [
+          "7",
+          "5"
+        ],
+        "Corner kicks": [
+          "4",
+          "2"
+        ],
+        "Yellow cards": [
+          "1",
+          "3"
+        ],
+        "Shots off target": [
+          "1",
+          "2"
+        ],
+        "Offsides": [
+          "3",
+          "1"
+        ],
+        "Free kicks": [
+          "14",
+          "15"
+        ],
+        "Throw ins": [
+          "11",
+          "22"
+        ],
+        "Fouls": [
+          "12",
+          "13"
+        ]
+      }
+    },
+    {
+      "id": "UBrP4bqR",
+      "date": "2025-10-18T16:00:00.000Z",
+      "round": "Round 7",
+      "homeTeam": "Apollon Limassol",
+      "awayTeam": "Omonia Aradippou",
+      "homeScore": 1,
+      "awayScore": 0,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "57%",
+          "43%"
+        ],
+        "Total shots": [
+          "14",
+          "8"
+        ],
+        "Shots on target": [
+          "5",
+          "2"
+        ],
+        "Corner kicks": [
+          "6",
+          "4"
+        ],
+        "Yellow cards": [
+          "3",
+          "4"
+        ],
+        "Shots off target": [
+          "9",
+          "6"
+        ],
+        "Offsides": [
+          "0",
+          "1"
+        ],
+        "Free kicks": [
+          "16",
+          "13"
+        ],
+        "Throw ins": [
+          "19",
+          "16"
+        ],
+        "Fouls": [
+          "12",
+          "14"
+        ]
+      }
+    },
+    {
+      "id": "tj2UrHM7",
+      "date": "2025-10-18T16:00:00.000Z",
+      "round": "Round 7",
+      "homeTeam": "Enosis Paralimni",
+      "awayTeam": "AEK Larnaca",
+      "homeScore": 0,
+      "awayScore": 2,
+      "htHome": 0,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "36%",
+          "64%"
+        ],
+        "Total shots": [
+          "1",
+          "9"
+        ],
+        "Shots on target": [
+          "0",
+          "5"
+        ],
+        "Corner kicks": [
+          "0",
+          "8"
+        ],
+        "Yellow cards": [
+          "4",
+          "1"
+        ],
+        "Shots off target": [
+          "1",
+          "4"
+        ],
+        "Offsides": [
+          "5",
+          "0"
+        ],
+        "Free kicks": [
+          "16",
+          "22"
+        ],
+        "Throw ins": [
+          "23",
+          "19"
+        ],
+        "Fouls": [
+          "17",
+          "16"
+        ]
+      }
+    },
+    {
+      "id": "vR5DnaNr",
+      "date": "2025-10-19T15:00:00.000Z",
+      "round": "Round 7",
+      "homeTeam": "Krasava ENY Ypsonas",
+      "awayTeam": "Omonia Nicosia",
+      "homeScore": 1,
+      "awayScore": 2,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "49%",
+          "51%"
+        ],
+        "Total shots": [
+          "6",
+          "21"
+        ],
+        "Shots on target": [
+          "4",
+          "10"
+        ],
+        "Corner kicks": [
+          "1",
+          "5"
+        ],
+        "Yellow cards": [
+          "2",
+          "2"
+        ],
+        "Shots off target": [
+          "2",
+          "11"
+        ],
+        "Offsides": [
+          "1",
+          "1"
+        ],
+        "Free kicks": [
+          "14",
+          "12"
+        ],
+        "Throw ins": [
+          "18",
+          "23"
+        ],
+        "Fouls": [
+          "10",
+          "13"
+        ]
+      }
+    },
+    {
+      "id": "nTQYgsV8",
+      "date": "2025-10-18T16:00:00.000Z",
+      "round": "Round 7",
+      "homeTeam": "Anorthosis Famagusta",
+      "awayTeam": "Akritas Chlorakas",
+      "homeScore": 2,
+      "awayScore": 2,
+      "htHome": 1,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "56%",
+          "44%"
+        ],
+        "Total shots": [
+          "8",
+          "7"
+        ],
+        "Shots on target": [
+          "7",
+          "5"
+        ],
+        "Corner kicks": [
+          "4",
+          "2"
+        ],
+        "Yellow cards": [
+          "1",
+          "3"
+        ],
+        "Shots off target": [
+          "1",
+          "2"
+        ],
+        "Offsides": [
+          "3",
+          "1"
+        ],
+        "Free kicks": [
+          "14",
+          "15"
+        ],
+        "Throw ins": [
+          "11",
+          "22"
+        ],
+        "Fouls": [
+          "12",
+          "13"
+        ]
+      }
+    },
+    {
+      "id": "UBrP4bqR",
+      "date": "2025-10-18T16:00:00.000Z",
+      "round": "Round 7",
+      "homeTeam": "Apollon Limassol",
+      "awayTeam": "Omonia Aradippou",
+      "homeScore": 1,
+      "awayScore": 0,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "57%",
+          "43%"
+        ],
+        "Total shots": [
+          "14",
+          "8"
+        ],
+        "Shots on target": [
+          "5",
+          "2"
+        ],
+        "Corner kicks": [
+          "6",
+          "4"
+        ],
+        "Yellow cards": [
+          "3",
+          "4"
+        ],
+        "Shots off target": [
+          "9",
+          "6"
+        ],
+        "Offsides": [
+          "0",
+          "1"
+        ],
+        "Free kicks": [
+          "16",
+          "13"
+        ],
+        "Throw ins": [
+          "19",
+          "16"
+        ],
+        "Fouls": [
+          "12",
+          "14"
+        ]
+      }
+    },
+    {
+      "id": "tj2UrHM7",
+      "date": "2025-10-18T16:00:00.000Z",
+      "round": "Round 7",
+      "homeTeam": "Enosis Paralimni",
+      "awayTeam": "AEK Larnaca",
+      "homeScore": 0,
+      "awayScore": 2,
+      "htHome": 0,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "36%",
+          "64%"
+        ],
+        "Total shots": [
+          "1",
+          "9"
+        ],
+        "Shots on target": [
+          "0",
+          "5"
+        ],
+        "Corner kicks": [
+          "0",
+          "8"
+        ],
+        "Yellow cards": [
+          "4",
+          "1"
+        ],
+        "Shots off target": [
+          "1",
+          "4"
+        ],
+        "Offsides": [
+          "5",
+          "0"
+        ],
+        "Free kicks": [
+          "16",
+          "22"
+        ],
+        "Throw ins": [
+          "23",
+          "19"
+        ],
+        "Fouls": [
+          "17",
+          "16"
+        ]
+      }
+    },
+    {
+      "id": "ni9Lpwhe",
+      "date": "2025-10-17T16:00:00.000Z",
+      "round": "Round 7",
+      "homeTeam": "Pafos FC",
+      "awayTeam": "Ethnikos Achnas",
+      "homeScore": 4,
+      "awayScore": 0,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "56%",
+          "44%"
+        ],
+        "Total shots": [
+          "13",
+          "10"
+        ],
+        "Shots on target": [
+          "8",
+          "6"
+        ],
+        "Corner kicks": [
+          "9",
+          "5"
+        ],
+        "Yellow cards": [
+          "0",
+          "1"
+        ],
+        "Shots off target": [
+          "5",
+          "4"
+        ],
+        "Offsides": [
+          "1",
+          "0"
+        ],
+        "Free kicks": [
+          "8",
+          "13"
+        ],
+        "Throw ins": [
+          "17",
+          "15"
+        ],
+        "Fouls": [
+          "12",
+          "7"
+        ]
+      }
+    },
+    {
+      "id": "zJrDJ0gd",
+      "date": "2025-10-05T17:00:00.000Z",
+      "round": "Round 6",
+      "homeTeam": "Omonia Nicosia",
+      "awayTeam": "Aris Limassol",
+      "homeScore": 0,
+      "awayScore": 0,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "42%",
+          "58%"
+        ],
+        "Total shots": [
+          "11",
+          "3"
+        ],
+        "Shots on target": [
+          "3",
+          "2"
+        ],
+        "Corner kicks": [
+          "8",
+          "3"
+        ],
+        "Yellow cards": [
+          "1",
+          "5"
+        ],
+        "Red cards": [
+          "0",
+          "1"
+        ],
+        "Shots off target": [
+          "8",
+          "1"
+        ],
+        "Offsides": [
+          "3",
+          "4"
+        ],
+        "Free kicks": [
+          "20",
+          "12"
+        ],
+        "Throw ins": [
+          "17",
+          "19"
+        ],
+        "Fouls": [
+          "9",
+          "16"
+        ]
+      }
+    },
+    {
+      "id": "lM8nYa8k",
+      "date": "2025-10-05T16:00:00.000Z",
+      "round": "Round 6",
+      "homeTeam": "AEK Larnaca",
+      "awayTeam": "Pafos FC",
+      "homeScore": 2,
+      "awayScore": 4,
+      "htHome": 1,
+      "htAway": 2,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "51%",
+          "49%"
+        ],
+        "Total shots": [
+          "6",
+          "10"
+        ],
+        "Shots on target": [
+          "5",
+          "9"
+        ],
+        "Corner kicks": [
+          "4",
+          "2"
+        ],
+        "Yellow cards": [
+          "1",
+          "3"
+        ],
+        "Shots off target": [
+          "1",
+          "1"
+        ],
+        "Offsides": [
+          "1",
+          "3"
+        ],
+        "Free kicks": [
+          "25",
+          "8"
+        ],
+        "Throw ins": [
+          "13",
+          "21"
+        ],
+        "Fouls": [
+          "7",
+          "22"
+        ]
+      }
+    },
+    {
+      "id": "vik4LMOq",
+      "date": "2025-10-05T14:00:00.000Z",
+      "round": "Round 6",
+      "homeTeam": "Ethnikos Achnas",
+      "awayTeam": "Krasava ENY Ypsonas",
+      "homeScore": 1,
+      "awayScore": 0,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "51%",
+          "49%"
+        ],
+        "Total shots": [
+          "3",
+          "5"
+        ],
+        "Shots on target": [
+          "3",
+          "3"
+        ],
+        "Corner kicks": [
+          "0",
+          "7"
+        ],
+        "Yellow cards": [
+          "1",
+          "4"
+        ],
+        "Red cards": [
+          "0",
+          "1"
+        ],
+        "Shots off target": [
+          "0",
+          "2"
+        ],
+        "Offsides": [
+          "0",
+          "1"
+        ],
+        "Free kicks": [
+          "19",
+          "12"
+        ],
+        "Throw ins": [
+          "25",
+          "22"
+        ],
+        "Fouls": [
+          "12",
+          "15"
+        ]
+      }
+    },
+    {
+      "id": "0dzas4o3",
+      "date": "2025-10-04T17:00:00.000Z",
+      "round": "Round 6",
+      "homeTeam": "AEL Limassol",
+      "awayTeam": "Anorthosis Famagusta",
+      "homeScore": 4,
+      "awayScore": 1,
+      "htHome": 1,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "48%",
+          "52%"
+        ],
+        "Total shots": [
+          "10",
+          "4"
+        ],
+        "Shots on target": [
+          "5",
+          "2"
+        ],
+        "Corner kicks": [
+          "8",
+          "4"
+        ],
+        "Yellow cards": [
+          "4",
+          "1"
+        ],
+        "Shots off target": [
+          "5",
+          "2"
+        ],
+        "Offsides": [
+          "0",
+          "1"
+        ],
+        "Free kicks": [
+          "13",
+          "21"
+        ],
+        "Throw ins": [
+          "25",
+          "26"
+        ],
+        "Fouls": [
+          "20",
+          "11"
+        ]
+      }
+    },
+    {
+      "id": "MZ6fWww2",
+      "date": "2025-10-04T16:00:00.000Z",
+      "round": "Round 6",
+      "homeTeam": "Akritas Chlorakas",
+      "awayTeam": "Apollon Limassol",
+      "homeScore": 0,
+      "awayScore": 2,
+      "htHome": 0,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "48%",
+          "52%"
+        ],
+        "Total shots": [
+          "4",
+          "7"
+        ],
+        "Shots on target": [
+          "1",
+          "4"
+        ],
+        "Corner kicks": [
+          "2",
+          "2"
+        ],
+        "Yellow cards": [
+          "4",
+          "3"
+        ],
+        "Shots off target": [
+          "3",
+          "3"
+        ],
+        "Offsides": [
+          "0",
+          "2"
+        ],
+        "Free kicks": [
+          "21",
+          "10"
+        ],
+        "Throw ins": [
+          "16",
+          "21"
+        ],
+        "Fouls": [
+          "10",
+          "19"
+        ]
+      }
+    },
+    {
+      "id": "UySFwMpS",
+      "date": "2025-10-04T14:00:00.000Z",
+      "round": "Round 6",
+      "homeTeam": "Olympiakos Nicosia",
+      "awayTeam": "Enosis Paralimni",
+      "homeScore": 1,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "48%",
+          "52%"
+        ],
+        "Total shots": [
+          "9",
+          "7"
+        ],
+        "Shots on target": [
+          "4",
+          "4"
+        ],
+        "Corner kicks": [
+          "6",
+          "2"
+        ],
+        "Yellow cards": [
+          "3",
+          "5"
+        ],
+        "Shots off target": [
+          "5",
+          "3"
+        ],
+        "Offsides": [
+          "2",
+          "1"
+        ],
+        "Free kicks": [
+          "14",
+          "16"
+        ],
+        "Throw ins": [
+          "32",
+          "34"
+        ],
+        "Fouls": [
+          "14",
+          "13"
+        ]
+      }
+    },
+    {
+      "id": "MBO7urGF",
+      "date": "2025-10-03T16:00:00.000Z",
+      "round": "Round 6",
+      "homeTeam": "Omonia Aradippou",
+      "awayTeam": "Apoel Nicosia",
+      "homeScore": 0,
+      "awayScore": 4,
+      "htHome": 0,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "51%",
+          "49%"
+        ],
+        "Total shots": [
+          "6",
+          "13"
+        ],
+        "Shots on target": [
+          "3",
+          "8"
+        ],
+        "Corner kicks": [
+          "3",
+          "2"
+        ],
+        "Yellow cards": [
+          "2",
+          "1"
+        ],
+        "Shots off target": [
+          "3",
+          "5"
+        ],
+        "Offsides": [
+          "2",
+          "1"
+        ],
+        "Free kicks": [
+          "23",
+          "18"
+        ],
+        "Throw ins": [
+          "18",
+          "9"
+        ],
+        "Fouls": [
+          "16",
+          "22"
+        ]
+      }
+    },
+    {
+      "id": "IFDlRie5",
+      "date": "2025-09-28T16:00:00.000Z",
+      "round": "Round 5",
+      "homeTeam": "Anorthosis Famagusta",
+      "awayTeam": "Omonia Nicosia",
+      "homeScore": 0,
+      "awayScore": 5,
+      "htHome": 0,
+      "htAway": 2,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "56%",
+          "44%"
+        ],
+        "Total shots": [
+          "11",
+          "10"
+        ],
+        "Shots on target": [
+          "7",
+          "7"
+        ],
+        "Corner kicks": [
+          "3",
+          "3"
+        ],
+        "Yellow cards": [
+          "5",
+          "3"
+        ],
+        "Shots off target": [
+          "4",
+          "3"
+        ],
+        "Offsides": [
+          "1",
+          "0"
+        ],
+        "Free kicks": [
+          "17",
+          "13"
+        ],
+        "Throw ins": [
+          "21",
+          "14"
+        ],
+        "Fouls": [
+          "12",
+          "17"
+        ]
+      }
+    },
+    {
+      "id": "rL3YQr1M",
+      "date": "2025-09-28T16:00:00.000Z",
+      "round": "Round 5",
+      "homeTeam": "Apoel Nicosia",
+      "awayTeam": "Apollon Limassol",
+      "homeScore": 2,
+      "awayScore": 0,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "48%",
+          "52%"
+        ],
+        "Total shots": [
+          "12",
+          "5"
+        ],
+        "Shots on target": [
+          "7",
+          "2"
+        ],
+        "Corner kicks": [
+          "5",
+          "6"
+        ],
+        "Yellow cards": [
+          "2",
+          "4"
+        ],
+        "Shots off target": [
+          "5",
+          "3"
+        ],
+        "Offsides": [
+          "1",
+          "0"
+        ],
+        "Free kicks": [
+          "24",
+          "10"
+        ],
+        "Throw ins": [
+          "16",
+          "11"
+        ],
+        "Fouls": [
+          "9",
+          "24"
+        ]
+      }
+    },
+    {
+      "id": "ngAPS4W9",
+      "date": "2025-09-28T16:00:00.000Z",
+      "round": "Round 5",
+      "homeTeam": "Enosis Paralimni",
+      "awayTeam": "Omonia Aradippou",
+      "homeScore": 0,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "58%",
+          "42%"
+        ],
+        "Total shots": [
+          "5",
+          "8"
+        ],
+        "Shots on target": [
+          "1",
+          "4"
+        ],
+        "Corner kicks": [
+          "5",
+          "8"
+        ],
+        "Yellow cards": [
+          "2",
+          "2"
+        ],
+        "Red cards": [
+          "0",
+          "1"
+        ],
+        "Shots off target": [
+          "4",
+          "4"
+        ],
+        "Offsides": [
+          "1",
+          "2"
+        ],
+        "Free kicks": [
+          "20",
+          "14"
+        ],
+        "Throw ins": [
+          "20",
+          "20"
+        ],
+        "Fouls": [
+          "13",
+          "18"
+        ]
+      }
+    },
+    {
+      "id": "p2FtTDQh",
+      "date": "2025-09-27T16:00:00.000Z",
+      "round": "Round 5",
+      "homeTeam": "AEL Limassol",
+      "awayTeam": "Akritas Chlorakas",
+      "homeScore": 0,
+      "awayScore": 2,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "49%",
+          "51%"
+        ],
+        "Total shots": [
+          "7",
+          "6"
+        ],
+        "Shots on target": [
+          "2",
+          "5"
+        ],
+        "Corner kicks": [
+          "11",
+          "1"
+        ],
+        "Yellow cards": [
+          "2",
+          "2"
+        ],
+        "Shots off target": [
+          "5",
+          "1"
+        ],
+        "Offsides": [
+          "3",
+          "2"
+        ],
+        "Free kicks": [
+          "20",
+          "10"
+        ],
+        "Throw ins": [
+          "18",
+          "10"
+        ],
+        "Fouls": [
+          "7",
+          "18"
+        ]
+      }
+    },
+    {
+      "id": "KtZU6N9j",
+      "date": "2025-09-27T16:00:00.000Z",
+      "round": "Round 5",
+      "homeTeam": "Krasava ENY Ypsonas",
+      "awayTeam": "AEK Larnaca",
+      "homeScore": 0,
+      "awayScore": 4,
+      "htHome": 0,
+      "htAway": 2,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "44%",
+          "56%"
+        ],
+        "Total shots": [
+          "6",
+          "12"
+        ],
+        "Shots on target": [
+          "4",
+          "9"
+        ],
+        "Corner kicks": [
+          "4",
+          "1"
+        ],
+        "Yellow cards": [
+          "2",
+          "3"
+        ],
+        "Red cards": [
+          "1",
+          "0"
+        ],
+        "Shots off target": [
+          "2",
+          "3"
+        ],
+        "Offsides": [
+          "1",
+          "0"
+        ],
+        "Free kicks": [
+          "13",
+          "9"
+        ],
+        "Throw ins": [
+          "12",
+          "21"
+        ],
+        "Fouls": [
+          "8",
+          "13"
+        ]
+      }
+    },
+    {
+      "id": "0xCHUQ1c",
+      "date": "2025-09-27T16:00:00.000Z",
+      "round": "Round 5",
+      "homeTeam": "Pafos FC",
+      "awayTeam": "Olympiakos Nicosia",
+      "homeScore": 2,
+      "awayScore": 1,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "46%",
+          "54%"
+        ],
+        "Total shots": [
+          "12",
+          "13"
+        ],
+        "Shots on target": [
+          "5",
+          "8"
+        ],
+        "Corner kicks": [
+          "3",
+          "3"
+        ],
+        "Yellow cards": [
+          "2",
+          "4"
+        ],
+        "Shots off target": [
+          "7",
+          "5"
+        ],
+        "Offsides": [
+          "2",
+          "0"
+        ],
+        "Free kicks": [
+          "15",
+          "23"
+        ],
+        "Throw ins": [
+          "31",
+          "23"
+        ],
+        "Fouls": [
+          "20",
+          "13"
+        ]
+      }
+    },
+    {
+      "id": "Es7cPVPH",
+      "date": "2025-09-26T16:00:00.000Z",
+      "round": "Round 5",
+      "homeTeam": "Aris Limassol",
+      "awayTeam": "Ethnikos Achnas",
+      "homeScore": 3,
+      "awayScore": 0,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "49%",
+          "51%"
+        ],
+        "Total shots": [
+          "17",
+          "6"
+        ],
+        "Shots on target": [
+          "11",
+          "3"
+        ],
+        "Corner kicks": [
+          "10",
+          "4"
+        ],
+        "Yellow cards": [
+          "3",
+          "1"
+        ],
+        "Shots off target": [
+          "6",
+          "3"
+        ],
+        "Offsides": [
+          "1",
+          "1"
+        ],
+        "Free kicks": [
+          "10",
+          "17"
+        ],
+        "Throw ins": [
+          "14",
+          "23"
+        ],
+        "Fouls": [
+          "15",
+          "9"
+        ]
+      }
+    },
+    {
+      "id": "SjCrkwRj",
+      "date": "2025-09-24T16:00:00.000Z",
+      "round": "Round 1",
+      "homeTeam": "Pafos FC",
+      "awayTeam": "Enosis Paralimni",
+      "homeScore": 3,
+      "awayScore": 0,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "46%",
+          "54%"
+        ],
+        "Total shots": [
+          "10",
+          "6"
+        ],
+        "Shots on target": [
+          "5",
+          "3"
+        ],
+        "Corner kicks": [
+          "4",
+          "2"
+        ],
+        "Yellow cards": [
+          "0",
+          "3"
+        ],
+        "Shots off target": [
+          "5",
+          "3"
+        ],
+        "Offsides": [
+          "2",
+          "1"
+        ],
+        "Free kicks": [
+          "11",
+          "18"
+        ],
+        "Throw ins": [
+          "32",
+          "23"
+        ],
+        "Fouls": [
+          "13",
+          "10"
+        ]
+      }
+    },
+    {
+      "id": "ETROAWAO",
+      "date": "2025-09-22T16:00:00.000Z",
+      "round": "Round 4",
+      "homeTeam": "AEK Larnaca",
+      "awayTeam": "Aris Limassol",
+      "homeScore": 3,
+      "awayScore": 2,
+      "htHome": 2,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "51%",
+          "49%"
+        ],
+        "Total shots": [
+          "8",
+          "8"
+        ],
+        "Shots on target": [
+          "3",
+          "7"
+        ],
+        "Corner kicks": [
+          "1",
+          "5"
+        ],
+        "Yellow cards": [
+          "4",
+          "4"
+        ],
+        "Red cards": [
+          "1",
+          "0"
+        ],
+        "Shots off target": [
+          "5",
+          "1"
+        ],
+        "Offsides": [
+          "2",
+          "2"
+        ],
+        "Free kicks": [
+          "21",
+          "11"
+        ],
+        "Throw ins": [
+          "22",
+          "13"
+        ],
+        "Fouls": [
+          "9",
+          "19"
+        ]
+      }
+    },
+    {
+      "id": "UFYzMdJP",
+      "date": "2025-09-22T16:00:00.000Z",
+      "round": "Round 4",
+      "homeTeam": "Omonia Nicosia",
+      "awayTeam": "AEL Limassol",
+      "homeScore": 5,
+      "awayScore": 0,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "41%",
+          "59%"
+        ],
+        "Total shots": [
+          "9",
+          "4"
+        ],
+        "Shots on target": [
+          "5",
+          "1"
+        ],
+        "Corner kicks": [
+          "5",
+          "1"
+        ],
+        "Yellow cards": [
+          "0",
+          "4"
+        ],
+        "Shots off target": [
+          "4",
+          "3"
+        ],
+        "Offsides": [
+          "1",
+          "0"
+        ],
+        "Free kicks": [
+          "9",
+          "15"
+        ],
+        "Throw ins": [
+          "16",
+          "14"
+        ],
+        "Fouls": [
+          "14",
+          "9"
+        ]
+      }
+    },
+    {
+      "id": "QoK6Gzsm",
+      "date": "2025-09-21T16:00:00.000Z",
+      "round": "Round 4",
+      "homeTeam": "Apollon Limassol",
+      "awayTeam": "Enosis Paralimni",
+      "homeScore": 3,
+      "awayScore": 0,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "54%",
+          "46%"
+        ],
+        "Total shots": [
+          "12",
+          "4"
+        ],
+        "Shots on target": [
+          "7",
+          "3"
+        ],
+        "Corner kicks": [
+          "3",
+          "8"
+        ],
+        "Yellow cards": [
+          "2",
+          "5"
+        ],
+        "Shots off target": [
+          "5",
+          "1"
+        ],
+        "Offsides": [
+          "1",
+          "1"
+        ],
+        "Free kicks": [
+          "19",
+          "11"
+        ],
+        "Throw ins": [
+          "22",
+          "15"
+        ],
+        "Fouls": [
+          "10",
+          "18"
+        ]
+      }
+    },
+    {
+      "id": "plz8EEBa",
+      "date": "2025-09-21T16:00:00.000Z",
+      "round": "Round 4",
+      "homeTeam": "Omonia Aradippou",
+      "awayTeam": "Pafos FC",
+      "homeScore": 0,
+      "awayScore": 2,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "54%",
+          "46%"
+        ],
+        "Total shots": [
+          "8",
+          "13"
+        ],
+        "Shots on target": [
+          "3",
+          "6"
+        ],
+        "Corner kicks": [
+          "5",
+          "9"
+        ],
+        "Yellow cards": [
+          "1",
+          "2"
+        ],
+        "Shots off target": [
+          "5",
+          "7"
+        ],
+        "Offsides": [
+          "0",
+          "3"
+        ],
+        "Free kicks": [
+          "16",
+          "8"
+        ],
+        "Throw ins": [
+          "17",
+          "22"
+        ],
+        "Fouls": [
+          "8",
+          "13"
+        ]
+      }
+    },
+    {
+      "id": "Cv4jEp0J",
+      "date": "2025-09-20T16:00:00.000Z",
+      "round": "Round 4",
+      "homeTeam": "Ethnikos Achnas",
+      "awayTeam": "Anorthosis Famagusta",
+      "homeScore": 2,
+      "awayScore": 0,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "45%",
+          "55%"
+        ],
+        "Total shots": [
+          "11",
+          "4"
+        ],
+        "Shots on target": [
+          "5",
+          "1"
+        ],
+        "Corner kicks": [
+          "4",
+          "0"
+        ],
+        "Yellow cards": [
+          "3",
+          "1"
+        ],
+        "Red cards": [
+          "1",
+          "1"
+        ],
+        "Shots off target": [
+          "6",
+          "3"
+        ],
+        "Offsides": [
+          "1",
+          "2"
+        ],
+        "Free kicks": [
+          "15",
+          "20"
+        ],
+        "Throw ins": [
+          "15",
+          "31"
+        ],
+        "Fouls": [
+          "19",
+          "13"
+        ]
+      }
+    },
+    {
+      "id": "4h7YUZet",
+      "date": "2025-09-20T16:00:00.000Z",
+      "round": "Round 4",
+      "homeTeam": "Akritas Chlorakas",
+      "awayTeam": "Apoel Nicosia",
+      "homeScore": 0,
+      "awayScore": 4,
+      "htHome": 0,
+      "htAway": 2,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "53%",
+          "47%"
+        ],
+        "Total shots": [
+          "3",
+          "11"
+        ],
+        "Shots on target": [
+          "0",
+          "8"
+        ],
+        "Corner kicks": [
+          "2",
+          "10"
+        ],
+        "Yellow cards": [
+          "4",
+          "3"
+        ],
+        "Shots off target": [
+          "3",
+          "3"
+        ],
+        "Offsides": [
+          "2",
+          "2"
+        ],
+        "Free kicks": [
+          "21",
+          "17"
+        ],
+        "Throw ins": [
+          "21",
+          "16"
+        ],
+        "Fouls": [
+          "15",
+          "19"
+        ]
+      }
+    },
+    {
+      "id": "hEwGChtC",
+      "date": "2025-09-19T16:00:00.000Z",
+      "round": "Round 4",
+      "homeTeam": "Olympiakos Nicosia",
+      "awayTeam": "Krasava ENY Ypsonas",
+      "homeScore": 1,
+      "awayScore": 1,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "55%",
+          "45%"
+        ],
+        "Total shots": [
+          "7",
+          "10"
+        ],
+        "Shots on target": [
+          "3",
+          "2"
+        ],
+        "Corner kicks": [
+          "3",
+          "2"
+        ],
+        "Yellow cards": [
+          "1",
+          "5"
+        ],
+        "Shots off target": [
+          "4",
+          "8"
+        ],
+        "Offsides": [
+          "3",
+          "0"
+        ],
+        "Free kicks": [
+          "18",
+          "16"
+        ],
+        "Throw ins": [
+          "32",
+          "26"
+        ],
+        "Fouls": [
+          "13",
+          "18"
+        ]
+      }
+    },
+    {
+      "id": "SUz8x0so",
+      "date": "2025-09-17T16:00:00.000Z",
+      "round": "Round 1",
+      "homeTeam": "Omonia Nicosia",
+      "awayTeam": "AEK Larnaca",
+      "homeScore": 1,
+      "awayScore": 0,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "50%",
+          "50%"
+        ],
+        "Total shots": [
+          "10",
+          "6"
+        ],
+        "Shots on target": [
+          "3",
+          "1"
+        ],
+        "Corner kicks": [
+          "5",
+          "3"
+        ],
+        "Yellow cards": [
+          "1",
+          "5"
+        ],
+        "Shots off target": [
+          "7",
+          "5"
+        ],
+        "Offsides": [
+          "0",
+          "0"
+        ],
+        "Free kicks": [
+          "0",
+          "0"
+        ],
+        "Fouls": [
+          "0",
+          "0"
+        ]
+      }
+    },
+    {
+      "id": "IHSfPA8K",
+      "date": "2025-09-15T16:00:00.000Z",
+      "round": "Round 3",
+      "homeTeam": "Aris Limassol",
+      "awayTeam": "Olympiakos Nicosia",
+      "homeScore": 2,
+      "awayScore": 0,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "51%",
+          "49%"
+        ],
+        "Total shots": [
+          "17",
+          "6"
+        ],
+        "Shots on target": [
+          "9",
+          "4"
+        ],
+        "Corner kicks": [
+          "2",
+          "5"
+        ],
+        "Yellow cards": [
+          "2",
+          "2"
+        ],
+        "Shots off target": [
+          "8",
+          "2"
+        ],
+        "Offsides": [
+          "2",
+          "0"
+        ],
+        "Free kicks": [
+          "0",
+          "10"
+        ],
+        "Fouls": [
+          "10",
+          "10"
+        ],
+        "Goalkeeper saves": [
+          "4",
+          "7"
+        ]
+      }
+    },
+    {
+      "id": "x29RJlWs",
+      "date": "2025-09-15T16:00:00.000Z",
+      "round": "Round 3",
+      "homeTeam": "Krasava ENY Ypsonas",
+      "awayTeam": "Omonia Aradippou",
+      "homeScore": 2,
+      "awayScore": 0,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "45%",
+          "55%"
+        ],
+        "Total shots": [
+          "9",
+          "6"
+        ],
+        "Shots on target": [
+          "5",
+          "2"
+        ],
+        "Corner kicks": [
+          "1",
+          "2"
+        ],
+        "Yellow cards": [
+          "3",
+          "4"
+        ],
+        "Shots off target": [
+          "4",
+          "4"
+        ],
+        "Offsides": [
+          "4",
+          "4"
+        ],
+        "Free kicks": [
+          "21",
+          "14"
+        ],
+        "Fouls": [
+          "13",
+          "21"
+        ],
+        "Goalkeeper saves": [
+          "2",
+          "3"
+        ]
+      }
+    },
+    {
+      "id": "Uen03To1",
+      "date": "2025-09-14T16:00:00.000Z",
+      "round": "Round 3",
+      "homeTeam": "AEL Limassol",
+      "awayTeam": "Ethnikos Achnas",
+      "homeScore": 2,
+      "awayScore": 2,
+      "htHome": 0,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "51%",
+          "49%"
+        ],
+        "Total shots": [
+          "9",
+          "10"
+        ],
+        "Shots on target": [
+          "6",
+          "7"
+        ],
+        "Corner kicks": [
+          "8",
+          "6"
+        ],
+        "Yellow cards": [
+          "2",
+          "4"
+        ],
+        "Shots off target": [
+          "3",
+          "3"
+        ],
+        "Offsides": [
+          "1",
+          "1"
+        ],
+        "Free kicks": [
+          "13",
+          "11"
+        ],
+        "Throw ins": [
+          "21",
+          "23"
+        ],
+        "Fouls": [
+          "9",
+          "11"
+        ],
+        "Goalkeeper saves": [
+          "5",
+          "4"
+        ]
+      }
+    },
+    {
+      "id": "4E0rG6V6",
+      "date": "2025-09-14T16:00:00.000Z",
+      "round": "Round 3",
+      "homeTeam": "Enosis Paralimni",
+      "awayTeam": "Apoel Nicosia",
+      "homeScore": 0,
+      "awayScore": 2,
+      "htHome": 0,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "42%",
+          "58%"
+        ],
+        "Total shots": [
+          "4",
+          "5"
+        ],
+        "Shots on target": [
+          "1",
+          "5"
+        ],
+        "Corner kicks": [
+          "2",
+          "6"
+        ],
+        "Yellow cards": [
+          "3",
+          "0"
+        ],
+        "Shots off target": [
+          "3",
+          "0"
+        ],
+        "Offsides": [
+          "1",
+          "0"
+        ],
+        "Free kicks": [
+          "19",
+          "15"
+        ],
+        "Throw ins": [
+          "28",
+          "17"
+        ],
+        "Fouls": [
+          "14",
+          "19"
+        ],
+        "Goalkeeper saves": [
+          "3",
+          "1"
+        ]
+      }
+    },
+    {
+      "id": "QNu917GD",
+      "date": "2025-09-13T17:00:00.000Z",
+      "round": "Round 3",
+      "homeTeam": "Anorthosis Famagusta",
+      "awayTeam": "AEK Larnaca",
+      "homeScore": 1,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "49%",
+          "51%"
+        ],
+        "Total shots": [
+          "5",
+          "15"
+        ],
+        "Shots on target": [
+          "2",
+          "7"
+        ],
+        "Corner kicks": [
+          "3",
+          "7"
+        ],
+        "Yellow cards": [
+          "5",
+          "3"
+        ],
+        "Shots off target": [
+          "3",
+          "8"
+        ],
+        "Offsides": [
+          "2",
+          "0"
+        ],
+        "Free kicks": [
+          "14",
+          "15"
+        ],
+        "Throw ins": [
+          "15",
+          "19"
+        ],
+        "Fouls": [
+          "13",
+          "14"
+        ],
+        "Goalkeeper saves": [
+          "6",
+          "1"
+        ]
+      }
+    },
+    {
+      "id": "raCZHS0f",
+      "date": "2025-09-13T17:00:00.000Z",
+      "round": "Round 3",
+      "homeTeam": "Pafos FC",
+      "awayTeam": "Apollon Limassol",
+      "homeScore": 0,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "53%",
+          "47%"
+        ],
+        "Total shots": [
+          "4",
+          "9"
+        ],
+        "Shots on target": [
+          "3",
+          "4"
+        ],
+        "Corner kicks": [
+          "2",
+          "0"
+        ],
+        "Yellow cards": [
+          "4",
+          "11"
+        ],
+        "Red cards": [
+          "1",
+          "2"
+        ],
+        "Shots off target": [
+          "1",
+          "5"
+        ],
+        "Offsides": [
+          "2",
+          "2"
+        ],
+        "Free kicks": [
+          "20",
+          "19"
+        ],
+        "Throw ins": [
+          "22",
+          "13"
+        ],
+        "Fouls": [
+          "16",
+          "18"
+        ],
+        "Goalkeeper saves": [
+          "3",
+          "3"
+        ]
+      }
+    },
+    {
+      "id": "dUYh5kHl",
+      "date": "2025-09-13T16:00:00.000Z",
+      "round": "Round 3",
+      "homeTeam": "Omonia Nicosia",
+      "awayTeam": "Akritas Chlorakas",
+      "homeScore": 3,
+      "awayScore": 0,
+      "htHome": 2,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "49%",
+          "51%"
+        ],
+        "Total shots": [
+          "11",
+          "7"
+        ],
+        "Shots on target": [
+          "6",
+          "4"
+        ],
+        "Corner kicks": [
+          "4",
+          "2"
+        ],
+        "Yellow cards": [
+          "2",
+          "2"
+        ],
+        "Shots off target": [
+          "5",
+          "3"
+        ],
+        "Offsides": [
+          "1",
+          "0"
+        ],
+        "Free kicks": [
+          "11",
+          "20"
+        ],
+        "Throw ins": [
+          "11",
+          "6"
+        ],
+        "Fouls": [
+          "19",
+          "11"
+        ],
+        "Goalkeeper saves": [
+          "4",
+          "3"
+        ]
+      }
+    },
+    {
+      "id": "GChwBKmA",
+      "date": "2025-08-31T17:00:00.000Z",
+      "round": "Round 2",
+      "homeTeam": "Apoel Nicosia",
+      "awayTeam": "Pafos FC",
+      "homeScore": 0,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "51%",
+          "49%"
+        ],
+        "Total shots": [
+          "8",
+          "3"
+        ],
+        "Shots on target": [
+          "3",
+          "2"
+        ],
+        "Corner kicks": [
+          "2",
+          "3"
+        ],
+        "Yellow cards": [
+          "2",
+          "4"
+        ],
+        "Shots off target": [
+          "5",
+          "1"
+        ],
+        "Offsides": [
+          "3",
+          "1"
+        ],
+        "Free kicks": [
+          "21",
+          "14"
+        ],
+        "Throw ins": [
+          "28",
+          "32"
+        ],
+        "Fouls": [
+          "11",
+          "20"
+        ],
+        "Goalkeeper saves": [
+          "1",
+          "3"
+        ]
+      }
+    },
+    {
+      "id": "fc4UCtJc",
+      "date": "2025-08-31T16:00:00.000Z",
+      "round": "Round 2",
+      "homeTeam": "Ethnikos Achnas",
+      "awayTeam": "Omonia Nicosia",
+      "homeScore": 2,
+      "awayScore": 1,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "41%",
+          "59%"
+        ],
+        "Total shots": [
+          "9",
+          "11"
+        ],
+        "Shots on target": [
+          "5",
+          "6"
+        ],
+        "Corner kicks": [
+          "0",
+          "8"
+        ],
+        "Yellow cards": [
+          "6",
+          "2"
+        ],
+        "Red cards": [
+          "1",
+          "0"
+        ],
+        "Shots off target": [
+          "4",
+          "5"
+        ],
+        "Offsides": [
+          "1",
+          "2"
+        ],
+        "Free kicks": [
+          "18",
+          "18"
+        ],
+        "Throw ins": [
+          "13",
+          "29"
+        ],
+        "Fouls": [
+          "17",
+          "16"
+        ],
+        "Goalkeeper saves": [
+          "5",
+          "3"
+        ]
+      }
+    },
+    {
+      "id": "4WgECXOE",
+      "date": "2025-08-31T16:00:00.000Z",
+      "round": "Round 2",
+      "homeTeam": "AEK Larnaca",
+      "awayTeam": "AEL Limassol",
+      "homeScore": 2,
+      "awayScore": 0,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "59%",
+          "41%"
+        ],
+        "Total shots": [
+          "12",
+          "4"
+        ],
+        "Shots on target": [
+          "7",
+          "2"
+        ],
+        "Corner kicks": [
+          "8",
+          "2"
+        ],
+        "Yellow cards": [
+          "0",
+          "4"
+        ],
+        "Red cards": [
+          "0",
+          "1"
+        ],
+        "Shots off target": [
+          "5",
+          "2"
+        ],
+        "Offsides": [
+          "2",
+          "4"
+        ],
+        "Free kicks": [
+          "18",
+          "9"
+        ],
+        "Throw ins": [
+          "27",
+          "24"
+        ],
+        "Fouls": [
+          "7",
+          "14"
+        ],
+        "Goalkeeper saves": [
+          "2",
+          "5"
+        ]
+      }
+    },
+    {
+      "id": "lOBRlUW7",
+      "date": "2025-08-30T16:00:00.000Z",
+      "round": "Round 2",
+      "homeTeam": "Olympiakos Nicosia",
+      "awayTeam": "Anorthosis Famagusta",
+      "homeScore": 2,
+      "awayScore": 1,
+      "htHome": 2,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "53%",
+          "47%"
+        ],
+        "Total shots": [
+          "8",
+          "5"
+        ],
+        "Shots on target": [
+          "5",
+          "3"
+        ],
+        "Corner kicks": [
+          "4",
+          "2"
+        ],
+        "Yellow cards": [
+          "2",
+          "2"
+        ],
+        "Shots off target": [
+          "3",
+          "2"
+        ],
+        "Offsides": [
+          "0",
+          "3"
+        ],
+        "Free kicks": [
+          "15",
+          "17"
+        ],
+        "Throw ins": [
+          "22",
+          "28"
+        ],
+        "Fouls": [
+          "18",
+          "15"
+        ]
+      }
+    },
+    {
+      "id": "GADJjj2e",
+      "date": "2025-08-30T16:00:00.000Z",
+      "round": "Round 2",
+      "homeTeam": "Omonia Aradippou",
+      "awayTeam": "Aris Limassol",
+      "homeScore": 0,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "42%",
+          "58%"
+        ],
+        "Total shots": [
+          "4",
+          "14"
+        ],
+        "Shots on target": [
+          "3",
+          "5"
+        ],
+        "Corner kicks": [
+          "2",
+          "8"
+        ],
+        "Yellow cards": [
+          "2",
+          "2"
+        ],
+        "Shots off target": [
+          "1",
+          "9"
+        ],
+        "Offsides": [
+          "3",
+          "1"
+        ],
+        "Free kicks": [
+          "17",
+          "18"
+        ],
+        "Throw ins": [
+          "22",
+          "26"
+        ],
+        "Fouls": [
+          "15",
+          "16"
+        ]
+      }
+    },
+    {
+      "id": "MBKAhCXr",
+      "date": "2025-08-29T17:00:00.000Z",
+      "round": "Round 2",
+      "homeTeam": "Apollon Limassol",
+      "awayTeam": "Krasava ENY Ypsonas",
+      "homeScore": 0,
+      "awayScore": 3,
+      "htHome": 0,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "55%",
+          "45%"
+        ],
+        "Total shots": [
+          "10",
+          "4"
+        ],
+        "Shots on target": [
+          "4",
+          "4"
+        ],
+        "Corner kicks": [
+          "4",
+          "2"
+        ],
+        "Yellow cards": [
+          "5",
+          "3"
+        ],
+        "Shots off target": [
+          "6",
+          "0"
+        ],
+        "Offsides": [
+          "1",
+          "2"
+        ],
+        "Free kicks": [
+          "16",
+          "16"
+        ],
+        "Throw ins": [
+          "35",
+          "20"
+        ],
+        "Fouls": [
+          "15",
+          "14"
+        ]
+      }
+    },
+    {
+      "id": "CdcMABgR",
+      "date": "2025-08-29T16:00:00.000Z",
+      "round": "Round 2",
+      "homeTeam": "Akritas Chlorakas",
+      "awayTeam": "Enosis Paralimni",
+      "homeScore": 1,
+      "awayScore": 0,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "60%",
+          "40%"
+        ],
+        "Total shots": [
+          "9",
+          "4"
+        ],
+        "Shots on target": [
+          "4",
+          "1"
+        ],
+        "Corner kicks": [
+          "4",
+          "1"
+        ],
+        "Yellow cards": [
+          "4",
+          "4"
+        ],
+        "Shots off target": [
+          "5",
+          "3"
+        ],
+        "Offsides": [
+          "5",
+          "1"
+        ],
+        "Free kicks": [
+          "22",
+          "13"
+        ],
+        "Throw ins": [
+          "26",
+          "17"
+        ],
+        "Fouls": [
+          "8",
+          "21"
+        ]
+      }
+    },
+    {
+      "id": "pW8Jfa3T",
+      "date": "2025-08-24T17:00:00.000Z",
+      "round": "Round 1",
+      "homeTeam": "Krasava ENY Ypsonas",
+      "awayTeam": "Apoel Nicosia",
+      "homeScore": 1,
+      "awayScore": 2,
+      "htHome": 0,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "41%",
+          "59%"
+        ],
+        "Total shots": [
+          "5",
+          "7"
+        ],
+        "Shots on target": [
+          "3",
+          "4"
+        ],
+        "Corner kicks": [
+          "6",
+          "6"
+        ],
+        "Yellow cards": [
+          "3",
+          "3"
+        ],
+        "Shots off target": [
+          "2",
+          "3"
+        ],
+        "Offsides": [
+          "1",
+          "1"
+        ],
+        "Free kicks": [
+          "11",
+          "17"
+        ],
+        "Throw ins": [
+          "25",
+          "27"
+        ],
+        "Fouls": [
+          "16",
+          "10"
+        ]
+      }
+    },
+    {
+      "id": "C4VxrMJN",
+      "date": "2025-08-24T16:00:00.000Z",
+      "round": "Round 1",
+      "homeTeam": "Ethnikos Achnas",
+      "awayTeam": "Akritas Chlorakas",
+      "homeScore": 0,
+      "awayScore": 0,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "49%",
+          "51%"
+        ],
+        "Total shots": [
+          "11",
+          "7"
+        ],
+        "Shots on target": [
+          "3",
+          "3"
+        ],
+        "Corner kicks": [
+          "10",
+          "4"
+        ],
+        "Yellow cards": [
+          "3",
+          "3"
+        ],
+        "Red cards": [
+          "0",
+          "1"
+        ],
+        "Shots off target": [
+          "8",
+          "4"
+        ],
+        "Offsides": [
+          "0",
+          "0"
+        ],
+        "Free kicks": [
+          "16",
+          "15"
+        ],
+        "Throw ins": [
+          "18",
+          "17"
+        ],
+        "Fouls": [
+          "15",
+          "16"
+        ]
+      }
+    },
+    {
+      "id": "GjH2bs44",
+      "date": "2025-08-23T17:00:00.000Z",
+      "round": "Round 1",
+      "homeTeam": "Anorthosis Famagusta",
+      "awayTeam": "Omonia Aradippou",
+      "homeScore": 0,
+      "awayScore": 0,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "58%",
+          "42%"
+        ],
+        "Total shots": [
+          "5",
+          "6"
+        ],
+        "Shots on target": [
+          "3",
+          "1"
+        ],
+        "Corner kicks": [
+          "6",
+          "5"
+        ],
+        "Yellow cards": [
+          "2",
+          "4"
+        ],
+        "Shots off target": [
+          "2",
+          "5"
+        ],
+        "Offsides": [
+          "2",
+          "1"
+        ],
+        "Free kicks": [
+          "19",
+          "11"
+        ],
+        "Throw ins": [
+          "16",
+          "15"
+        ],
+        "Fouls": [
+          "9",
+          "18"
+        ]
+      }
+    },
+    {
+      "id": "CIABdLYG",
+      "date": "2025-08-23T16:00:00.000Z",
+      "round": "Round 1",
+      "homeTeam": "Aris Limassol",
+      "awayTeam": "Apollon Limassol",
+      "homeScore": 3,
+      "awayScore": 1,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "51%",
+          "49%"
+        ],
+        "Total shots": [
+          "9",
+          "6"
+        ],
+        "Shots on target": [
+          "4",
+          "5"
+        ],
+        "Corner kicks": [
+          "3",
+          "9"
+        ],
+        "Yellow cards": [
+          "2",
+          "1"
+        ],
+        "Shots off target": [
+          "5",
+          "1"
+        ],
+        "Offsides": [
+          "1",
+          "1"
+        ],
+        "Free kicks": [
+          "12",
+          "15"
+        ],
+        "Throw ins": [
+          "24",
+          "15"
+        ],
+        "Fouls": [
+          "14",
+          "11"
+        ]
+      }
+    },
+    {
+      "id": "8QDf03Zi",
+      "date": "2025-08-22T17:00:00.000Z",
+      "round": "Round 1",
+      "homeTeam": "AEL Limassol",
+      "awayTeam": "Olympiakos Nicosia",
+      "homeScore": 2,
+      "awayScore": 0,
+      "htHome": 2,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "49%",
+          "51%"
+        ],
+        "Total shots": [
+          "6",
+          "7"
+        ],
+        "Shots on target": [
+          "3",
+          "3"
+        ],
+        "Corner kicks": [
+          "6",
+          "8"
+        ],
+        "Yellow cards": [
+          "5",
+          "2"
+        ],
+        "Shots off target": [
+          "3",
+          "4"
+        ],
+        "Offsides": [
+          "1",
+          "0"
+        ],
+        "Free kicks": [
+          "10",
+          "26"
+        ],
+        "Throw ins": [
+          "21",
+          "18"
+        ],
+        "Fouls": [
+          "25",
+          "9"
+        ]
+      }
+    }
+  ]
+}

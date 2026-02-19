@@ -1,0 +1,3093 @@
+{
+  "league": "Ligue Professionnelle 1",
+  "country": "tunisia",
+  "season": "2025-2026",
+  "collectedAt": "2026-02-10T19:31:04.743Z",
+  "totalMatches": 164,
+  "matches": [
+    {
+      "id": "rN9WHSpg",
+      "date": "2026-02-08T13:00:00.000Z",
+      "round": "Round 20",
+      "homeTeam": "Bizertin",
+      "awayTeam": "US Ben Guerdane",
+      "homeScore": 1,
+      "awayScore": 0,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Yellow cards": [
+          "2",
+          "4"
+        ]
+      }
+    },
+    {
+      "id": "zc6OJlGt",
+      "date": "2026-02-08T13:00:00.000Z",
+      "round": "Round 20",
+      "homeTeam": "CS Sfaxien",
+      "awayTeam": "Club Africain",
+      "homeScore": 1,
+      "awayScore": 1,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Red cards": [
+          "0",
+          "1"
+        ]
+      }
+    },
+    {
+      "id": "zVRwG6F5",
+      "date": "2026-02-08T13:00:00.000Z",
+      "round": "Round 20",
+      "homeTeam": "JS Omrane",
+      "awayTeam": "ES Metlaoui",
+      "homeScore": 2,
+      "awayScore": 1,
+      "htHome": 2,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Yellow cards": [
+          "4",
+          "1"
+        ],
+        "Red cards": [
+          "0",
+          "1"
+        ]
+      }
+    },
+    {
+      "id": "x4i5Egv1",
+      "date": "2026-02-07T13:00:00.000Z",
+      "round": "Round 20",
+      "homeTeam": "Avenir de La Marsa",
+      "awayTeam": "JS Kairouanaise",
+      "homeScore": 1,
+      "awayScore": 2,
+      "htHome": 0,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Yellow cards": [
+          "3",
+          "5"
+        ],
+        "Red cards": [
+          "0",
+          "1"
+        ]
+      }
+    },
+    {
+      "id": "fH7RLynR",
+      "date": "2026-02-07T13:00:00.000Z",
+      "round": "Round 20",
+      "homeTeam": "Etoile Sportive Sahel",
+      "awayTeam": "US Monastir",
+      "homeScore": 1,
+      "awayScore": 0,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Yellow cards": [
+          "0",
+          "1"
+        ]
+      }
+    },
+    {
+      "id": "pUfDCX8D",
+      "date": "2026-02-07T13:00:00.000Z",
+      "round": "Round 20",
+      "homeTeam": "Olympique de Beja",
+      "awayTeam": "AS Soliman",
+      "homeScore": 1,
+      "awayScore": 0,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Yellow cards": [
+          "4",
+          "2"
+        ]
+      }
+    },
+    {
+      "id": "jmgcGF9l",
+      "date": "2026-02-07T13:00:00.000Z",
+      "round": "Round 20",
+      "homeTeam": "ES Zarzis",
+      "awayTeam": "AS Gabes",
+      "homeScore": 0,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Yellow cards": [
+          "2",
+          "3"
+        ]
+      }
+    },
+    {
+      "id": "p2o9JACc",
+      "date": "2026-02-01T13:00:00.000Z",
+      "round": "Round 19",
+      "homeTeam": "AS Gabes",
+      "awayTeam": "Etoile Sportive Sahel",
+      "homeScore": 0,
+      "awayScore": 0,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Yellow cards": [
+          "4",
+          "4"
+        ],
+        "Red cards": [
+          "0",
+          "1"
+        ]
+      }
+    },
+    {
+      "id": "bBCj1TdT",
+      "date": "2026-02-01T13:00:00.000Z",
+      "round": "Round 19",
+      "homeTeam": "JS Omrane",
+      "awayTeam": "CS Sfaxien",
+      "homeScore": 1,
+      "awayScore": 0,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "6HZHHlsA",
+      "date": "2026-02-01T13:00:00.000Z",
+      "round": "Round 19",
+      "homeTeam": "ES Metlaoui",
+      "awayTeam": "Stade Tunisien",
+      "homeScore": 0,
+      "awayScore": 0,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "IegNe7Kj",
+      "date": "2026-02-01T13:00:00.000Z",
+      "round": "Round 19",
+      "homeTeam": "US Monastir",
+      "awayTeam": "Avenir de La Marsa",
+      "homeScore": 1,
+      "awayScore": 0,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "QcEr3kSG",
+      "date": "2026-01-31T13:00:00.000Z",
+      "round": "Round 19",
+      "homeTeam": "US Ben Guerdane",
+      "awayTeam": "ES Zarzis",
+      "homeScore": 0,
+      "awayScore": 0,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "OYHR6XSi",
+      "date": "2026-01-31T13:00:00.000Z",
+      "round": "Round 19",
+      "homeTeam": "Club Africain",
+      "awayTeam": "Bizertin",
+      "homeScore": 1,
+      "awayScore": 0,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "WbLZ4Bc4",
+      "date": "2026-01-31T13:00:00.000Z",
+      "round": "Round 19",
+      "homeTeam": "JS Kairouanaise",
+      "awayTeam": "Olympique de Beja",
+      "homeScore": 1,
+      "awayScore": 0,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "rwuuqUzo",
+      "date": "2026-01-28T13:00:00.000Z",
+      "round": "Round 18",
+      "homeTeam": "Avenir de La Marsa",
+      "awayTeam": "AS Gabes",
+      "homeScore": 1,
+      "awayScore": 0,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "hhY7jCrB",
+      "date": "2026-01-28T13:00:00.000Z",
+      "round": "Round 18",
+      "homeTeam": "Etoile Sportive Sahel",
+      "awayTeam": "US Ben Guerdane",
+      "homeScore": 0,
+      "awayScore": 0,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Yellow cards": [
+          "0",
+          "1"
+        ]
+      }
+    },
+    {
+      "id": "Cfl9ljDN",
+      "date": "2026-01-28T13:00:00.000Z",
+      "round": "Round 18",
+      "homeTeam": "Olympique de Beja",
+      "awayTeam": "US Monastir",
+      "homeScore": 1,
+      "awayScore": 0,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "Kvz0hYDb",
+      "date": "2026-01-28T13:00:00.000Z",
+      "round": "Round 18",
+      "homeTeam": "Stade Tunisien",
+      "awayTeam": "AS Soliman",
+      "homeScore": 1,
+      "awayScore": 0,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Red cards": [
+          "1",
+          "0"
+        ]
+      }
+    },
+    {
+      "id": "bXPumwxJ",
+      "date": "2026-01-27T13:00:00.000Z",
+      "round": "Round 18",
+      "homeTeam": "Bizertin",
+      "awayTeam": "JS Omrane",
+      "homeScore": 1,
+      "awayScore": 0,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Red cards": [
+          "1",
+          "0"
+        ]
+      }
+    },
+    {
+      "id": "OCtiffqn",
+      "date": "2026-01-27T13:00:00.000Z",
+      "round": "Round 18",
+      "homeTeam": "CS Sfaxien",
+      "awayTeam": "ES Metlaoui",
+      "homeScore": 2,
+      "awayScore": 0,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Red cards": [
+          "1",
+          "0"
+        ]
+      }
+    },
+    {
+      "id": "pAJPjLxf",
+      "date": "2026-01-27T13:00:00.000Z",
+      "round": "Round 18",
+      "homeTeam": "Esperance de Tunis",
+      "awayTeam": "JS Kairouanaise",
+      "homeScore": 1,
+      "awayScore": 0,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Yellow cards": [
+          "1",
+          "1"
+        ],
+        "Red cards": [
+          "0",
+          "1"
+        ]
+      }
+    },
+    {
+      "id": "xIyXla76",
+      "date": "2026-01-27T13:00:00.000Z",
+      "round": "Round 18",
+      "homeTeam": "ES Zarzis",
+      "awayTeam": "Club Africain",
+      "homeScore": 0,
+      "awayScore": 0,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "MXZ8E3BT",
+      "date": "2026-01-23T13:00:00.000Z",
+      "round": "Round 17",
+      "homeTeam": "US Ben Guerdane",
+      "awayTeam": "Avenir de La Marsa",
+      "homeScore": 1,
+      "awayScore": 0,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Yellow cards": [
+          "2",
+          "1"
+        ],
+        "Red cards": [
+          "0",
+          "1"
+        ]
+      }
+    },
+    {
+      "id": "IZgqK7sh",
+      "date": "2026-01-23T13:00:00.000Z",
+      "round": "Round 17",
+      "homeTeam": "JS Omrane",
+      "awayTeam": "ES Zarzis",
+      "homeScore": 2,
+      "awayScore": 1,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Yellow cards": [
+          "1",
+          "1"
+        ]
+      }
+    },
+    {
+      "id": "Q5t0GPtH",
+      "date": "2026-01-23T13:00:00.000Z",
+      "round": "Round 17",
+      "homeTeam": "ES Metlaoui",
+      "awayTeam": "AS Soliman",
+      "homeScore": 2,
+      "awayScore": 2,
+      "htHome": 1,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Yellow cards": [
+          "0",
+          "2"
+        ]
+      }
+    },
+    {
+      "id": "I3Lv9sZj",
+      "date": "2026-01-22T13:00:00.000Z",
+      "round": "Round 17",
+      "homeTeam": "Club Africain",
+      "awayTeam": "Etoile Sportive Sahel",
+      "homeScore": 3,
+      "awayScore": 0,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Yellow cards": [
+          "3",
+          "4"
+        ]
+      }
+    },
+    {
+      "id": "vkrhIoC4",
+      "date": "2026-01-21T13:00:00.000Z",
+      "round": "Round 17",
+      "homeTeam": "AS Gabes",
+      "awayTeam": "Olympique de Beja",
+      "homeScore": 1,
+      "awayScore": 0,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Yellow cards": [
+          "4",
+          "2"
+        ],
+        "Red cards": [
+          "0",
+          "1"
+        ]
+      }
+    },
+    {
+      "id": "zujPGghc",
+      "date": "2026-01-21T13:00:00.000Z",
+      "round": "Round 17",
+      "homeTeam": "CS Sfaxien",
+      "awayTeam": "Bizertin",
+      "homeScore": 4,
+      "awayScore": 0,
+      "htHome": 2,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Red cards": [
+          "0",
+          "1"
+        ]
+      }
+    },
+    {
+      "id": "jT1cd4ko",
+      "date": "2026-01-20T13:00:00.000Z",
+      "round": "Round 17",
+      "homeTeam": "JS Kairouanaise",
+      "awayTeam": "Stade Tunisien",
+      "homeScore": 0,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Yellow cards": [
+          "3",
+          "3"
+        ]
+      }
+    },
+    {
+      "id": "dSqPEC5C",
+      "date": "2026-01-19T13:00:00.000Z",
+      "round": "Round 17",
+      "homeTeam": "US Monastir",
+      "awayTeam": "Esperance de Tunis",
+      "homeScore": 2,
+      "awayScore": 1,
+      "htHome": 1,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Yellow cards": [
+          "6",
+          "4"
+        ],
+        "Red cards": [
+          "1",
+          "0"
+        ]
+      }
+    },
+    {
+      "id": "AuusSSR8",
+      "date": "2026-01-17T13:00:00.000Z",
+      "round": "Round 16",
+      "homeTeam": "Avenir de La Marsa",
+      "awayTeam": "Club Africain",
+      "homeScore": 0,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Yellow cards": [
+          "5",
+          "3"
+        ]
+      }
+    },
+    {
+      "id": "MJbn6o5k",
+      "date": "2026-01-17T13:00:00.000Z",
+      "round": "Round 16",
+      "homeTeam": "Bizertin",
+      "awayTeam": "ES Metlaoui",
+      "homeScore": 0,
+      "awayScore": 0,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Yellow cards": [
+          "2",
+          "3"
+        ],
+        "Red cards": [
+          "1",
+          "0"
+        ]
+      }
+    },
+    {
+      "id": "Iohe4PZ1",
+      "date": "2026-01-17T13:00:00.000Z",
+      "round": "Round 16",
+      "homeTeam": "Etoile Sportive Sahel",
+      "awayTeam": "JS Omrane",
+      "homeScore": 1,
+      "awayScore": 0,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Yellow cards": [
+          "3",
+          "2"
+        ]
+      }
+    },
+    {
+      "id": "ULJ7DTCF",
+      "date": "2026-01-16T13:00:00.000Z",
+      "round": "Round 16",
+      "homeTeam": "Olympique de Beja",
+      "awayTeam": "US Ben Guerdane",
+      "homeScore": 2,
+      "awayScore": 2,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Yellow cards": [
+          "1",
+          "3"
+        ]
+      }
+    },
+    {
+      "id": "xE10Fkr3",
+      "date": "2026-01-16T13:00:00.000Z",
+      "round": "Round 16",
+      "homeTeam": "Stade Tunisien",
+      "awayTeam": "US Monastir",
+      "homeScore": 0,
+      "awayScore": 0,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Yellow cards": [
+          "4",
+          "1"
+        ]
+      }
+    },
+    {
+      "id": "jy8GB7sS",
+      "date": "2026-01-16T13:00:00.000Z",
+      "round": "Round 16",
+      "homeTeam": "ES Zarzis",
+      "awayTeam": "CS Sfaxien",
+      "homeScore": 0,
+      "awayScore": 2,
+      "htHome": 0,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Red cards": [
+          "1",
+          "0"
+        ]
+      }
+    },
+    {
+      "id": "lhL5g8Lq",
+      "date": "2026-01-15T13:00:00.000Z",
+      "round": "Round 16",
+      "homeTeam": "Esperance de Tunis",
+      "awayTeam": "AS Gabes",
+      "homeScore": 2,
+      "awayScore": 1,
+      "htHome": 2,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Yellow cards": [
+          "2",
+          "1"
+        ]
+      }
+    },
+    {
+      "id": "M5JDinjd",
+      "date": "2026-01-15T13:00:00.000Z",
+      "round": "Round 16",
+      "homeTeam": "AS Soliman",
+      "awayTeam": "JS Kairouanaise",
+      "homeScore": 0,
+      "awayScore": 0,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Yellow cards": [
+          "3",
+          "3"
+        ]
+      }
+    },
+    {
+      "id": "WfuxMgQ9",
+      "date": "2026-01-10T13:00:00.000Z",
+      "round": "Round 15",
+      "homeTeam": "Esperance de Tunis",
+      "awayTeam": "US Ben Guerdane",
+      "homeScore": 4,
+      "awayScore": 0,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Yellow cards": [
+          "3",
+          "0"
+        ]
+      }
+    },
+    {
+      "id": "AuiTNFec",
+      "date": "2025-11-23T13:00:00.000Z",
+      "round": "Round 15",
+      "homeTeam": "Etoile Sportive Sahel",
+      "awayTeam": "CS Sfaxien",
+      "homeScore": 0,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Yellow cards": [
+          "4",
+          "2"
+        ],
+        "Red cards": [
+          "1",
+          "0"
+        ]
+      }
+    },
+    {
+      "id": "UNvxKCwP",
+      "date": "2025-11-23T13:00:00.000Z",
+      "round": "Round 15",
+      "homeTeam": "Olympique de Beja",
+      "awayTeam": "Club Africain",
+      "homeScore": 0,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Yellow cards": [
+          "1",
+          "4"
+        ]
+      }
+    },
+    {
+      "id": "j1s9IKJH",
+      "date": "2025-11-23T13:00:00.000Z",
+      "round": "Round 15",
+      "homeTeam": "AS Soliman",
+      "awayTeam": "US Monastir",
+      "homeScore": 1,
+      "awayScore": 2,
+      "htHome": 0,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Yellow cards": [
+          "3",
+          "2"
+        ]
+      }
+    },
+    {
+      "id": "Imq1Ktk5",
+      "date": "2025-11-23T13:00:00.000Z",
+      "round": "Round 15",
+      "homeTeam": "Stade Tunisien",
+      "awayTeam": "AS Gabes",
+      "homeScore": 4,
+      "awayScore": 0,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Yellow cards": [
+          "1",
+          "2"
+        ]
+      }
+    },
+    {
+      "id": "MLkhM2Kh",
+      "date": "2025-11-22T13:00:00.000Z",
+      "round": "Round 15",
+      "homeTeam": "Avenir de La Marsa",
+      "awayTeam": "JS Omrane",
+      "homeScore": 2,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Yellow cards": [
+          "3",
+          "3"
+        ],
+        "Red cards": [
+          "0",
+          "2"
+        ]
+      }
+    },
+    {
+      "id": "z5ipOOkt",
+      "date": "2025-11-22T13:00:00.000Z",
+      "round": "Round 15",
+      "homeTeam": "JS Kairouanaise",
+      "awayTeam": "ES Metlaoui",
+      "homeScore": 0,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Yellow cards": [
+          "3",
+          "1"
+        ]
+      }
+    },
+    {
+      "id": "p2as0C3j",
+      "date": "2025-11-22T13:00:00.000Z",
+      "round": "Round 15",
+      "homeTeam": "ES Zarzis",
+      "awayTeam": "Bizertin",
+      "homeScore": 3,
+      "awayScore": 0,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Yellow cards": [
+          "1",
+          "3"
+        ],
+        "Red cards": [
+          "0",
+          "1"
+        ]
+      }
+    },
+    {
+      "id": "hIqDPG9m",
+      "date": "2025-11-10T13:30:00.000Z",
+      "round": "Round 14",
+      "homeTeam": "JS Omrane",
+      "awayTeam": "Olympique de Beja",
+      "homeScore": 0,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Yellow cards": [
+          "2",
+          "5"
+        ],
+        "Red cards": [
+          "0",
+          "1"
+        ]
+      }
+    },
+    {
+      "id": "Mqde7ZgJ",
+      "date": "2025-11-09T13:30:00.000Z",
+      "round": "Round 14",
+      "homeTeam": "US Ben Guerdane",
+      "awayTeam": "Stade Tunisien",
+      "homeScore": 1,
+      "awayScore": 0,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Yellow cards": [
+          "3",
+          "2"
+        ]
+      }
+    },
+    {
+      "id": "h44vBHff",
+      "date": "2025-11-09T13:30:00.000Z",
+      "round": "Round 14",
+      "homeTeam": "Club Africain",
+      "awayTeam": "Esperance de Tunis",
+      "homeScore": 0,
+      "awayScore": 0,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Yellow cards": [
+          "2",
+          "4"
+        ]
+      }
+    },
+    {
+      "id": "0U7n9eP6",
+      "date": "2025-11-09T13:30:00.000Z",
+      "round": "Round 14",
+      "homeTeam": "ES Metlaoui",
+      "awayTeam": "ES Zarzis",
+      "homeScore": 0,
+      "awayScore": 0,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Yellow cards": [
+          "1",
+          "0"
+        ]
+      }
+    },
+    {
+      "id": "McyULY8C",
+      "date": "2025-11-08T13:30:00.000Z",
+      "round": "Round 14",
+      "homeTeam": "AS Gabes",
+      "awayTeam": "AS Soliman",
+      "homeScore": 1,
+      "awayScore": 1,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Yellow cards": [
+          "1",
+          "6"
+        ],
+        "Red cards": [
+          "0",
+          "1"
+        ]
+      }
+    },
+    {
+      "id": "QVsLNfv0",
+      "date": "2025-11-08T13:30:00.000Z",
+      "round": "Round 14",
+      "homeTeam": "Bizertin",
+      "awayTeam": "Etoile Sportive Sahel",
+      "homeScore": 1,
+      "awayScore": 1,
+      "htHome": 1,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Yellow cards": [
+          "2",
+          "4"
+        ],
+        "Red cards": [
+          "1",
+          "0"
+        ]
+      }
+    },
+    {
+      "id": "ljlsVxnQ",
+      "date": "2025-11-08T13:30:00.000Z",
+      "round": "Round 14",
+      "homeTeam": "CS Sfaxien",
+      "awayTeam": "Avenir de La Marsa",
+      "homeScore": 2,
+      "awayScore": 0,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Yellow cards": [
+          "1",
+          "1"
+        ]
+      }
+    },
+    {
+      "id": "Y1lwDwQs",
+      "date": "2025-11-08T13:30:00.000Z",
+      "round": "Round 14",
+      "homeTeam": "US Monastir",
+      "awayTeam": "JS Kairouanaise",
+      "homeScore": 2,
+      "awayScore": 0,
+      "htHome": 2,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Yellow cards": [
+          "3",
+          "2"
+        ]
+      }
+    },
+    {
+      "id": "S0qP5MIE",
+      "date": "2025-11-06T13:30:00.000Z",
+      "round": "Round 13",
+      "homeTeam": "Esperance de Tunis",
+      "awayTeam": "JS Omrane",
+      "homeScore": 4,
+      "awayScore": 0,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Yellow cards": [
+          "0",
+          "1"
+        ]
+      }
+    },
+    {
+      "id": "vu3Uqude",
+      "date": "2025-11-06T13:30:00.000Z",
+      "round": "Round 13",
+      "homeTeam": "Stade Tunisien",
+      "awayTeam": "Club Africain",
+      "homeScore": 0,
+      "awayScore": 0,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Yellow cards": [
+          "2",
+          "1"
+        ]
+      }
+    },
+    {
+      "id": "EcHCdIu1",
+      "date": "2025-11-05T13:30:00.000Z",
+      "round": "Round 13",
+      "homeTeam": "Avenir de La Marsa",
+      "awayTeam": "Bizertin",
+      "homeScore": 2,
+      "awayScore": 0,
+      "htHome": 2,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Yellow cards": [
+          "2",
+          "1"
+        ],
+        "Red cards": [
+          "0",
+          "1"
+        ]
+      }
+    },
+    {
+      "id": "z7dwrJQ7",
+      "date": "2025-11-05T13:30:00.000Z",
+      "round": "Round 13",
+      "homeTeam": "Etoile Sportive Sahel",
+      "awayTeam": "ES Zarzis",
+      "homeScore": 1,
+      "awayScore": 0,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Yellow cards": [
+          "3",
+          "1"
+        ],
+        "Red cards": [
+          "1",
+          "3"
+        ]
+      }
+    },
+    {
+      "id": "hrT3bvBl",
+      "date": "2025-11-05T13:30:00.000Z",
+      "round": "Round 13",
+      "homeTeam": "ES Metlaoui",
+      "awayTeam": "US Monastir",
+      "homeScore": 2,
+      "awayScore": 2,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Yellow cards": [
+          "1",
+          "3"
+        ]
+      }
+    },
+    {
+      "id": "MNKKfdAD",
+      "date": "2025-11-05T13:30:00.000Z",
+      "round": "Round 13",
+      "homeTeam": "Olympique de Beja",
+      "awayTeam": "CS Sfaxien",
+      "homeScore": 0,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Yellow cards": [
+          "1",
+          "0"
+        ],
+        "Red cards": [
+          "0",
+          "1"
+        ]
+      }
+    },
+    {
+      "id": "OSxY30mR",
+      "date": "2025-11-04T13:30:00.000Z",
+      "round": "Round 13",
+      "homeTeam": "JS Kairouanaise",
+      "awayTeam": "AS Gabes",
+      "homeScore": 2,
+      "awayScore": 1,
+      "htHome": 2,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Yellow cards": [
+          "2",
+          "1"
+        ]
+      }
+    },
+    {
+      "id": "xW27Ia2K",
+      "date": "2025-11-04T13:30:00.000Z",
+      "round": "Round 13",
+      "homeTeam": "AS Soliman",
+      "awayTeam": "US Ben Guerdane",
+      "homeScore": 0,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Yellow cards": [
+          "3",
+          "1"
+        ],
+        "Red cards": [
+          "0",
+          "1"
+        ]
+      }
+    },
+    {
+      "id": "nPxk49sA",
+      "date": "2025-11-02T13:30:00.000Z",
+      "round": "Round 12",
+      "homeTeam": "Bizertin",
+      "awayTeam": "Olympique de Beja",
+      "homeScore": 3,
+      "awayScore": 0,
+      "htHome": 2,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Yellow cards": [
+          "0",
+          "1"
+        ]
+      }
+    },
+    {
+      "id": "Qe97iWc4",
+      "date": "2025-11-02T13:30:00.000Z",
+      "round": "Round 12",
+      "homeTeam": "CS Sfaxien",
+      "awayTeam": "Esperance de Tunis",
+      "homeScore": 1,
+      "awayScore": 2,
+      "htHome": 1,
+      "htAway": 2,
+      "status": "FINISHED",
+      "stats": {
+        "Yellow cards": [
+          "2",
+          "2"
+        ]
+      }
+    },
+    {
+      "id": "SK5OmlcT",
+      "date": "2025-11-02T13:30:00.000Z",
+      "round": "Round 12",
+      "homeTeam": "JS Omrane",
+      "awayTeam": "Stade Tunisien",
+      "homeScore": 0,
+      "awayScore": 0,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Yellow cards": [
+          "2",
+          "5"
+        ],
+        "Red cards": [
+          "0",
+          "1"
+        ]
+      }
+    },
+    {
+      "id": "OjifrSKj",
+      "date": "2025-11-02T13:30:00.000Z",
+      "round": "Round 12",
+      "homeTeam": "ES Zarzis",
+      "awayTeam": "Avenir de La Marsa",
+      "homeScore": 0,
+      "awayScore": 2,
+      "htHome": 0,
+      "htAway": 2,
+      "status": "FINISHED",
+      "stats": {
+        "Yellow cards": [
+          "1",
+          "2"
+        ]
+      }
+    },
+    {
+      "id": "vaZt6VCc",
+      "date": "2025-11-01T13:30:00.000Z",
+      "round": "Round 12",
+      "homeTeam": "AS Gabes",
+      "awayTeam": "US Monastir",
+      "homeScore": 1,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Yellow cards": [
+          "2",
+          "0"
+        ],
+        "Red cards": [
+          "0",
+          "1"
+        ]
+      }
+    },
+    {
+      "id": "4tLbghTi",
+      "date": "2025-11-01T13:30:00.000Z",
+      "round": "Round 12",
+      "homeTeam": "US Ben Guerdane",
+      "awayTeam": "JS Kairouanaise",
+      "homeScore": 2,
+      "awayScore": 0,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Yellow cards": [
+          "2",
+          "2"
+        ],
+        "Red cards": [
+          "0",
+          "1"
+        ]
+      }
+    },
+    {
+      "id": "6DkNo1Rr",
+      "date": "2025-11-01T13:30:00.000Z",
+      "round": "Round 12",
+      "homeTeam": "Club Africain",
+      "awayTeam": "AS Soliman",
+      "homeScore": 1,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Yellow cards": [
+          "0",
+          "3"
+        ],
+        "Red cards": [
+          "0",
+          "1"
+        ]
+      }
+    },
+    {
+      "id": "YLCFkASG",
+      "date": "2025-11-01T13:30:00.000Z",
+      "round": "Round 12",
+      "homeTeam": "Etoile Sportive Sahel",
+      "awayTeam": "ES Metlaoui",
+      "homeScore": 2,
+      "awayScore": 0,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Yellow cards": [
+          "1",
+          "2"
+        ],
+        "Red cards": [
+          "0",
+          "1"
+        ]
+      }
+    },
+    {
+      "id": "QZXWvgEb",
+      "date": "2025-10-30T13:30:00.000Z",
+      "round": "Round 11",
+      "homeTeam": "Esperance de Tunis",
+      "awayTeam": "Bizertin",
+      "homeScore": 2,
+      "awayScore": 0,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Yellow cards": [
+          "1",
+          "1"
+        ]
+      }
+    },
+    {
+      "id": "xzTCVlyo",
+      "date": "2025-10-29T13:30:00.000Z",
+      "round": "Round 11",
+      "homeTeam": "Avenir de La Marsa",
+      "awayTeam": "Etoile Sportive Sahel",
+      "homeScore": 0,
+      "awayScore": 2,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Yellow cards": [
+          "4",
+          "3"
+        ]
+      }
+    },
+    {
+      "id": "fFPmyBDN",
+      "date": "2025-10-29T13:30:00.000Z",
+      "round": "Round 11",
+      "homeTeam": "US Monastir",
+      "awayTeam": "US Ben Guerdane",
+      "homeScore": 0,
+      "awayScore": 0,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Yellow cards": [
+          "4",
+          "3"
+        ],
+        "Red cards": [
+          "1",
+          "0"
+        ]
+      }
+    },
+    {
+      "id": "M1RuwXrB",
+      "date": "2025-10-29T13:30:00.000Z",
+      "round": "Round 11",
+      "homeTeam": "Stade Tunisien",
+      "awayTeam": "CS Sfaxien",
+      "homeScore": 0,
+      "awayScore": 0,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Yellow cards": [
+          "3",
+          "3"
+        ],
+        "Red cards": [
+          "1",
+          "0"
+        ]
+      }
+    },
+    {
+      "id": "Mmn7OXTH",
+      "date": "2025-10-26T13:30:00.000Z",
+      "round": "Round 11",
+      "homeTeam": "Olympique de Beja",
+      "awayTeam": "ES Zarzis",
+      "homeScore": 0,
+      "awayScore": 3,
+      "htHome": 0,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Yellow cards": [
+          "2",
+          "1"
+        ]
+      }
+    },
+    {
+      "id": "Ee4EMBbU",
+      "date": "2025-10-26T13:30:00.000Z",
+      "round": "Round 11",
+      "homeTeam": "AS Soliman",
+      "awayTeam": "JS Omrane",
+      "homeScore": 0,
+      "awayScore": 0,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Yellow cards": [
+          "5",
+          "2"
+        ]
+      }
+    },
+    {
+      "id": "QLhbQga5",
+      "date": "2025-10-25T13:30:00.000Z",
+      "round": "Round 11",
+      "homeTeam": "JS Kairouanaise",
+      "awayTeam": "Club Africain",
+      "homeScore": 1,
+      "awayScore": 3,
+      "htHome": 0,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Yellow cards": [
+          "0",
+          "6"
+        ]
+      }
+    },
+    {
+      "id": "I9UOtFqn",
+      "date": "2025-10-25T13:30:00.000Z",
+      "round": "Round 11",
+      "homeTeam": "ES Metlaoui",
+      "awayTeam": "AS Gabes",
+      "homeScore": 1,
+      "awayScore": 0,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Yellow cards": [
+          "1",
+          "1"
+        ]
+      }
+    },
+    {
+      "id": "boZGDGFa",
+      "date": "2025-10-22T14:00:00.000Z",
+      "round": "Round 10",
+      "homeTeam": "Bizertin",
+      "awayTeam": "Stade Tunisien",
+      "homeScore": 0,
+      "awayScore": 2,
+      "htHome": 0,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Yellow cards": [
+          "2",
+          "2"
+        ]
+      }
+    },
+    {
+      "id": "dt1sUy0t",
+      "date": "2025-10-22T14:00:00.000Z",
+      "round": "Round 10",
+      "homeTeam": "Etoile Sportive Sahel",
+      "awayTeam": "Olympique de Beja",
+      "homeScore": 1,
+      "awayScore": 2,
+      "htHome": 1,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Yellow cards": [
+          "4",
+          "0"
+        ]
+      }
+    },
+    {
+      "id": "WWIzYp1E",
+      "date": "2025-10-22T14:00:00.000Z",
+      "round": "Round 10",
+      "homeTeam": "ES Zarzis",
+      "awayTeam": "Esperance de Tunis",
+      "homeScore": 0,
+      "awayScore": 0,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Yellow cards": [
+          "3",
+          "3"
+        ]
+      }
+    },
+    {
+      "id": "SQQX9YEO",
+      "date": "2025-10-21T14:00:00.000Z",
+      "round": "Round 10",
+      "homeTeam": "Club Africain",
+      "awayTeam": "US Monastir",
+      "homeScore": 2,
+      "awayScore": 1,
+      "htHome": 1,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Yellow cards": [
+          "3",
+          "2"
+        ]
+      }
+    },
+    {
+      "id": "2Ju8Fxom",
+      "date": "2025-10-19T14:00:00.000Z",
+      "round": "Round 10",
+      "homeTeam": "Avenir de La Marsa",
+      "awayTeam": "ES Metlaoui",
+      "homeScore": 0,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Yellow cards": [
+          "1",
+          "2"
+        ]
+      }
+    },
+    {
+      "id": "h8fjSFUh",
+      "date": "2025-10-19T14:00:00.000Z",
+      "round": "Round 10",
+      "homeTeam": "CS Sfaxien",
+      "awayTeam": "AS Soliman",
+      "homeScore": 2,
+      "awayScore": 0,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Yellow cards": [
+          "1",
+          "1"
+        ]
+      }
+    },
+    {
+      "id": "6BxPBfpC",
+      "date": "2025-10-18T14:00:00.000Z",
+      "round": "Round 10",
+      "homeTeam": "US Ben Guerdane",
+      "awayTeam": "AS Gabes",
+      "homeScore": 1,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Yellow cards": [
+          "3",
+          "4"
+        ]
+      }
+    },
+    {
+      "id": "IiylAs97",
+      "date": "2025-10-18T14:00:00.000Z",
+      "round": "Round 10",
+      "homeTeam": "JS Omrane",
+      "awayTeam": "JS Kairouanaise",
+      "homeScore": 2,
+      "awayScore": 0,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Yellow cards": [
+          "2",
+          "2"
+        ]
+      }
+    },
+    {
+      "id": "ARXuC3ve",
+      "date": "2025-10-05T14:00:00.000Z",
+      "round": "Round 9",
+      "homeTeam": "Esperance de Tunis",
+      "awayTeam": "Etoile Sportive Sahel",
+      "homeScore": 1,
+      "awayScore": 0,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Yellow cards": [
+          "3",
+          "1"
+        ]
+      }
+    },
+    {
+      "id": "ITh1JonL",
+      "date": "2025-10-05T14:00:00.000Z",
+      "round": "Round 9",
+      "homeTeam": "JS Kairouanaise",
+      "awayTeam": "CS Sfaxien",
+      "homeScore": 0,
+      "awayScore": 3,
+      "htHome": 0,
+      "htAway": 2,
+      "status": "FINISHED",
+      "stats": {
+        "Yellow cards": [
+          "2",
+          "2"
+        ],
+        "Red cards": [
+          "0",
+          "1"
+        ]
+      }
+    },
+    {
+      "id": "KMzFc4P1",
+      "date": "2025-10-05T14:00:00.000Z",
+      "round": "Round 9",
+      "homeTeam": "US Monastir",
+      "awayTeam": "JS Omrane",
+      "homeScore": 2,
+      "awayScore": 1,
+      "htHome": 1,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Yellow cards": [
+          "3",
+          "4"
+        ]
+      }
+    },
+    {
+      "id": "Ofs6aQfk",
+      "date": "2025-10-04T14:00:00.000Z",
+      "round": "Round 9",
+      "homeTeam": "Olympique de Beja",
+      "awayTeam": "Avenir de La Marsa",
+      "homeScore": 0,
+      "awayScore": 6,
+      "htHome": 0,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Yellow cards": [
+          "2",
+          "3"
+        ]
+      }
+    },
+    {
+      "id": "CGN0L7H8",
+      "date": "2025-10-04T14:00:00.000Z",
+      "round": "Round 9",
+      "homeTeam": "AS Soliman",
+      "awayTeam": "Bizertin",
+      "homeScore": 0,
+      "awayScore": 0,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Yellow cards": [
+          "4",
+          "5"
+        ],
+        "Red cards": [
+          "0",
+          "1"
+        ]
+      }
+    },
+    {
+      "id": "hCjz5nXR",
+      "date": "2025-10-04T14:00:00.000Z",
+      "round": "Round 9",
+      "homeTeam": "Stade Tunisien",
+      "awayTeam": "ES Zarzis",
+      "homeScore": 3,
+      "awayScore": 0,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Yellow cards": [
+          "3",
+          "5"
+        ]
+      }
+    },
+    {
+      "id": "Wd2R682F",
+      "date": "2025-10-03T14:00:00.000Z",
+      "round": "Round 9",
+      "homeTeam": "AS Gabes",
+      "awayTeam": "Club Africain",
+      "homeScore": 0,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Yellow cards": [
+          "3",
+          "2"
+        ]
+      }
+    },
+    {
+      "id": "lCqXDP9r",
+      "date": "2025-10-03T14:00:00.000Z",
+      "round": "Round 9",
+      "homeTeam": "ES Metlaoui",
+      "awayTeam": "US Ben Guerdane",
+      "homeScore": 1,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Yellow cards": [
+          "1",
+          "4"
+        ],
+        "Red cards": [
+          "1",
+          "1"
+        ]
+      }
+    },
+    {
+      "id": "no0ud9Yj",
+      "date": "2025-10-01T14:00:00.000Z",
+      "round": "Round 8",
+      "homeTeam": "Avenir de La Marsa",
+      "awayTeam": "Esperance de Tunis",
+      "homeScore": 0,
+      "awayScore": 3,
+      "htHome": 0,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Yellow cards": [
+          "0",
+          "2"
+        ]
+      }
+    },
+    {
+      "id": "t8LEA8mp",
+      "date": "2025-10-01T14:00:00.000Z",
+      "round": "Round 8",
+      "homeTeam": "CS Sfaxien",
+      "awayTeam": "US Monastir",
+      "homeScore": 0,
+      "awayScore": 0,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Yellow cards": [
+          "3",
+          "3"
+        ],
+        "Red cards": [
+          "0",
+          "1"
+        ]
+      }
+    },
+    {
+      "id": "z7tzIjeA",
+      "date": "2025-10-01T14:00:00.000Z",
+      "round": "Round 8",
+      "homeTeam": "Etoile Sportive Sahel",
+      "awayTeam": "Stade Tunisien",
+      "homeScore": 1,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Yellow cards": [
+          "3",
+          "4"
+        ],
+        "Red cards": [
+          "1",
+          "1"
+        ]
+      }
+    },
+    {
+      "id": "S0J81VAT",
+      "date": "2025-09-28T14:30:00.000Z",
+      "round": "Round 8",
+      "homeTeam": "Bizertin",
+      "awayTeam": "JS Kairouanaise",
+      "homeScore": 1,
+      "awayScore": 0,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Yellow cards": [
+          "3",
+          "4"
+        ],
+        "Red cards": [
+          "0",
+          "1"
+        ]
+      }
+    },
+    {
+      "id": "ELJM8nId",
+      "date": "2025-09-28T14:30:00.000Z",
+      "round": "Round 8",
+      "homeTeam": "Club Africain",
+      "awayTeam": "US Ben Guerdane",
+      "homeScore": 2,
+      "awayScore": 0,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Yellow cards": [
+          "3",
+          "4"
+        ]
+      }
+    },
+    {
+      "id": "EihRJCQc",
+      "date": "2025-09-28T14:30:00.000Z",
+      "round": "Round 8",
+      "homeTeam": "Olympique de Beja",
+      "awayTeam": "ES Metlaoui",
+      "homeScore": 1,
+      "awayScore": 0,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Yellow cards": [
+          "4",
+          "2"
+        ],
+        "Red cards": [
+          "1",
+          "0"
+        ]
+      }
+    },
+    {
+      "id": "QaaJ8UX2",
+      "date": "2025-09-28T14:30:00.000Z",
+      "round": "Round 8",
+      "homeTeam": "ES Zarzis",
+      "awayTeam": "AS Soliman",
+      "homeScore": 1,
+      "awayScore": 3,
+      "htHome": 1,
+      "htAway": 2,
+      "status": "FINISHED",
+      "stats": {
+        "Yellow cards": [
+          "5",
+          "4"
+        ],
+        "Red cards": [
+          "1",
+          "0"
+        ]
+      }
+    },
+    {
+      "id": "MNvrGUPM",
+      "date": "2025-09-26T14:30:00.000Z",
+      "round": "Round 8",
+      "homeTeam": "JS Omrane",
+      "awayTeam": "AS Gabes",
+      "homeScore": 2,
+      "awayScore": 1,
+      "htHome": 1,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Yellow cards": [
+          "5",
+          "3"
+        ],
+        "Red cards": [
+          "1",
+          "0"
+        ]
+      }
+    },
+    {
+      "id": "6D9p7Zth",
+      "date": "2025-09-24T14:30:00.000Z",
+      "round": "Round 7",
+      "homeTeam": "Esperance de Tunis",
+      "awayTeam": "Olympique de Beja",
+      "homeScore": 2,
+      "awayScore": 0,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Yellow cards": [
+          "1",
+          "3"
+        ]
+      }
+    },
+    {
+      "id": "QHWcqWlo",
+      "date": "2025-09-24T14:30:00.000Z",
+      "round": "Round 7",
+      "homeTeam": "US Monastir",
+      "awayTeam": "Bizertin",
+      "homeScore": 1,
+      "awayScore": 0,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Yellow cards": [
+          "2",
+          "1"
+        ]
+      }
+    },
+    {
+      "id": "fmL03itH",
+      "date": "2025-09-24T14:30:00.000Z",
+      "round": "Round 7",
+      "homeTeam": "AS Soliman",
+      "awayTeam": "Etoile Sportive Sahel",
+      "homeScore": 0,
+      "awayScore": 2,
+      "htHome": 0,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Yellow cards": [
+          "1",
+          "1"
+        ],
+        "Red cards": [
+          "1",
+          "0"
+        ]
+      }
+    },
+    {
+      "id": "0GlP30z0",
+      "date": "2025-09-24T14:30:00.000Z",
+      "round": "Round 7",
+      "homeTeam": "Stade Tunisien",
+      "awayTeam": "Avenir de La Marsa",
+      "homeScore": 1,
+      "awayScore": 0,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Yellow cards": [
+          "3",
+          "2"
+        ]
+      }
+    },
+    {
+      "id": "QaaJ8UX2",
+      "date": "2025-09-28T14:30:00.000Z",
+      "round": "Round 8",
+      "homeTeam": "ES Zarzis",
+      "awayTeam": "AS Soliman",
+      "homeScore": 1,
+      "awayScore": 3,
+      "htHome": 1,
+      "htAway": 2,
+      "status": "FINISHED",
+      "stats": {
+        "Yellow cards": [
+          "5",
+          "4"
+        ],
+        "Red cards": [
+          "1",
+          "0"
+        ]
+      }
+    },
+    {
+      "id": "MNvrGUPM",
+      "date": "2025-09-26T14:30:00.000Z",
+      "round": "Round 8",
+      "homeTeam": "JS Omrane",
+      "awayTeam": "AS Gabes",
+      "homeScore": 2,
+      "awayScore": 1,
+      "htHome": 1,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Yellow cards": [
+          "5",
+          "3"
+        ],
+        "Red cards": [
+          "1",
+          "0"
+        ]
+      }
+    },
+    {
+      "id": "6D9p7Zth",
+      "date": "2025-09-24T14:30:00.000Z",
+      "round": "Round 7",
+      "homeTeam": "Esperance de Tunis",
+      "awayTeam": "Olympique de Beja",
+      "homeScore": 2,
+      "awayScore": 0,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Yellow cards": [
+          "1",
+          "3"
+        ]
+      }
+    },
+    {
+      "id": "QHWcqWlo",
+      "date": "2025-09-24T14:30:00.000Z",
+      "round": "Round 7",
+      "homeTeam": "US Monastir",
+      "awayTeam": "Bizertin",
+      "homeScore": 1,
+      "awayScore": 0,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Yellow cards": [
+          "2",
+          "1"
+        ]
+      }
+    },
+    {
+      "id": "fmL03itH",
+      "date": "2025-09-24T14:30:00.000Z",
+      "round": "Round 7",
+      "homeTeam": "AS Soliman",
+      "awayTeam": "Etoile Sportive Sahel",
+      "homeScore": 0,
+      "awayScore": 2,
+      "htHome": 0,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Yellow cards": [
+          "1",
+          "1"
+        ],
+        "Red cards": [
+          "1",
+          "0"
+        ]
+      }
+    },
+    {
+      "id": "0GlP30z0",
+      "date": "2025-09-24T14:30:00.000Z",
+      "round": "Round 7",
+      "homeTeam": "Stade Tunisien",
+      "awayTeam": "Avenir de La Marsa",
+      "homeScore": 1,
+      "awayScore": 0,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Yellow cards": [
+          "3",
+          "2"
+        ]
+      }
+    },
+    {
+      "id": "KI4Q1v5C",
+      "date": "2025-09-21T14:30:00.000Z",
+      "round": "Round 7",
+      "homeTeam": "US Ben Guerdane",
+      "awayTeam": "JS Omrane",
+      "homeScore": 0,
+      "awayScore": 0,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Yellow cards": [
+          "2",
+          "2"
+        ]
+      }
+    },
+    {
+      "id": "8I9pBrrQ",
+      "date": "2025-09-21T14:30:00.000Z",
+      "round": "Round 7",
+      "homeTeam": "ES Metlaoui",
+      "awayTeam": "Club Africain",
+      "homeScore": 1,
+      "awayScore": 0,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Yellow cards": [
+          "1",
+          "3"
+        ],
+        "Red cards": [
+          "0",
+          "1"
+        ]
+      }
+    },
+    {
+      "id": "EwDh5DB4",
+      "date": "2025-09-20T14:30:00.000Z",
+      "round": "Round 7",
+      "homeTeam": "AS Gabes",
+      "awayTeam": "CS Sfaxien",
+      "homeScore": 0,
+      "awayScore": 0,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Yellow cards": [
+          "3",
+          "2"
+        ],
+        "Red cards": [
+          "0",
+          "1"
+        ]
+      }
+    },
+    {
+      "id": "S2jH5M5m",
+      "date": "2025-09-20T14:30:00.000Z",
+      "round": "Round 7",
+      "homeTeam": "JS Kairouanaise",
+      "awayTeam": "ES Zarzis",
+      "homeScore": 1,
+      "awayScore": 4,
+      "htHome": 1,
+      "htAway": 4,
+      "status": "FINISHED",
+      "stats": {
+        "Yellow cards": [
+          "1",
+          "2"
+        ]
+      }
+    },
+    {
+      "id": "tCHbmujJ",
+      "date": "2025-09-18T14:30:00.000Z",
+      "round": "Round 6",
+      "homeTeam": "Avenir de La Marsa",
+      "awayTeam": "AS Soliman",
+      "homeScore": 1,
+      "awayScore": 0,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Yellow cards": [
+          "2",
+          "2"
+        ]
+      }
+    },
+    {
+      "id": "IXWYhqMs",
+      "date": "2025-09-17T14:30:00.000Z",
+      "round": "Round 6",
+      "homeTeam": "Bizertin",
+      "awayTeam": "AS Gabes",
+      "homeScore": 3,
+      "awayScore": 0,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Yellow cards": [
+          "1",
+          "1"
+        ]
+      }
+    },
+    {
+      "id": "KdTkk1L6",
+      "date": "2025-09-17T14:30:00.000Z",
+      "round": "Round 6",
+      "homeTeam": "CS Sfaxien",
+      "awayTeam": "US Ben Guerdane",
+      "homeScore": 2,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Yellow cards": [
+          "4",
+          "5"
+        ]
+      }
+    },
+    {
+      "id": "YRk9xOy1",
+      "date": "2025-09-17T14:30:00.000Z",
+      "round": "Round 6",
+      "homeTeam": "JS Omrane",
+      "awayTeam": "Club Africain",
+      "homeScore": 0,
+      "awayScore": 3,
+      "htHome": 0,
+      "htAway": 2,
+      "status": "FINISHED",
+      "stats": {
+        "Yellow cards": [
+          "3",
+          "1"
+        ]
+      }
+    },
+    {
+      "id": "EaQsiNjf",
+      "date": "2025-09-17T14:30:00.000Z",
+      "round": "Round 6",
+      "homeTeam": "ES Zarzis",
+      "awayTeam": "US Monastir",
+      "homeScore": 0,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Yellow cards": [
+          "0",
+          "4"
+        ]
+      }
+    },
+    {
+      "id": "6g3Gz26D",
+      "date": "2025-09-16T14:30:00.000Z",
+      "round": "Round 6",
+      "homeTeam": "Esperance de Tunis",
+      "awayTeam": "ES Metlaoui",
+      "homeScore": 2,
+      "awayScore": 0,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Yellow cards": [
+          "1",
+          "0"
+        ],
+        "Red cards": [
+          "0",
+          "1"
+        ]
+      }
+    },
+    {
+      "id": "CC10vp7l",
+      "date": "2025-09-16T14:30:00.000Z",
+      "round": "Round 6",
+      "homeTeam": "Etoile Sportive Sahel",
+      "awayTeam": "JS Kairouanaise",
+      "homeScore": 2,
+      "awayScore": 3,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Yellow cards": [
+          "3",
+          "5"
+        ],
+        "Red cards": [
+          "0",
+          "1"
+        ]
+      }
+    },
+    {
+      "id": "M1o3b5bK",
+      "date": "2025-09-16T14:30:00.000Z",
+      "round": "Round 6",
+      "homeTeam": "Olympique de Beja",
+      "awayTeam": "Stade Tunisien",
+      "homeScore": 1,
+      "awayScore": 2,
+      "htHome": 1,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Yellow cards": [
+          "2",
+          "2"
+        ]
+      }
+    },
+    {
+      "id": "bogvZlV8",
+      "date": "2025-09-14T15:00:00.000Z",
+      "round": "Round 5",
+      "homeTeam": "AS Gabes",
+      "awayTeam": "ES Zarzis",
+      "homeScore": 0,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Yellow cards": [
+          "0",
+          "2"
+        ],
+        "Red cards": [
+          "1",
+          "0"
+        ]
+      }
+    },
+    {
+      "id": "p2HLoSEE",
+      "date": "2025-09-14T15:00:00.000Z",
+      "round": "Round 5",
+      "homeTeam": "Club Africain",
+      "awayTeam": "CS Sfaxien",
+      "homeScore": 1,
+      "awayScore": 1,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Yellow cards": [
+          "2",
+          "1"
+        ]
+      }
+    },
+    {
+      "id": "b9yRPphe",
+      "date": "2025-09-13T15:00:00.000Z",
+      "round": "Round 5",
+      "homeTeam": "US Ben Guerdane",
+      "awayTeam": "Bizertin",
+      "homeScore": 0,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Yellow cards": [
+          "4",
+          "5"
+        ],
+        "Red cards": [
+          "1",
+          "1"
+        ]
+      }
+    },
+    {
+      "id": "tUAUq6qR",
+      "date": "2025-09-13T15:00:00.000Z",
+      "round": "Round 5",
+      "homeTeam": "US Monastir",
+      "awayTeam": "Etoile Sportive Sahel",
+      "homeScore": 1,
+      "awayScore": 1,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Yellow cards": [
+          "2",
+          "4"
+        ]
+      }
+    },
+    {
+      "id": "K2laBow2",
+      "date": "2025-09-13T15:00:00.000Z",
+      "round": "Round 5",
+      "homeTeam": "Stade Tunisien",
+      "awayTeam": "Esperance de Tunis",
+      "homeScore": 1,
+      "awayScore": 0,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Yellow cards": [
+          "2",
+          "3"
+        ]
+      }
+    },
+    {
+      "id": "6BdnXSaL",
+      "date": "2025-09-11T15:00:00.000Z",
+      "round": "Round 5",
+      "homeTeam": "JS Kairouanaise",
+      "awayTeam": "Avenir de La Marsa",
+      "homeScore": 2,
+      "awayScore": 1,
+      "htHome": 1,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Yellow cards": [
+          "2",
+          "2"
+        ]
+      }
+    },
+    {
+      "id": "jqYIR6Nr",
+      "date": "2025-09-11T15:00:00.000Z",
+      "round": "Round 5",
+      "homeTeam": "ES Metlaoui",
+      "awayTeam": "JS Omrane",
+      "homeScore": 0,
+      "awayScore": 0,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Yellow cards": [
+          "1",
+          "1"
+        ]
+      }
+    },
+    {
+      "id": "h8UZNOM7",
+      "date": "2025-09-11T15:00:00.000Z",
+      "round": "Round 5",
+      "homeTeam": "AS Soliman",
+      "awayTeam": "Olympique de Beja",
+      "homeScore": 1,
+      "awayScore": 0,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Yellow cards": [
+          "2",
+          "1"
+        ]
+      }
+    },
+    {
+      "id": "O8t2ZcPi",
+      "date": "2025-08-28T15:30:00.000Z",
+      "round": "Round 4",
+      "homeTeam": "CS Sfaxien",
+      "awayTeam": "JS Omrane",
+      "homeScore": 2,
+      "awayScore": 0,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Yellow cards": [
+          "3",
+          "3"
+        ]
+      }
+    },
+    {
+      "id": "KMfxJxuB",
+      "date": "2025-08-28T15:30:00.000Z",
+      "round": "Round 4",
+      "homeTeam": "Esperance de Tunis",
+      "awayTeam": "AS Soliman",
+      "homeScore": 2,
+      "awayScore": 0,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Yellow cards": [
+          "3",
+          "1"
+        ]
+      }
+    },
+    {
+      "id": "pOUAXyf4",
+      "date": "2025-08-28T15:30:00.000Z",
+      "round": "Round 4",
+      "homeTeam": "Etoile Sportive Sahel",
+      "awayTeam": "AS Gabes",
+      "homeScore": 3,
+      "awayScore": 0,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Yellow cards": [
+          "3",
+          "3"
+        ]
+      }
+    },
+    {
+      "id": "hzgpHG9N",
+      "date": "2025-08-28T15:30:00.000Z",
+      "round": "Round 4",
+      "homeTeam": "ES Zarzis",
+      "awayTeam": "US Ben Guerdane",
+      "homeScore": 1,
+      "awayScore": 1,
+      "htHome": 1,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Yellow cards": [
+          "3",
+          "5"
+        ]
+      }
+    },
+    {
+      "id": "Of1TKbAb",
+      "date": "2025-08-27T15:30:00.000Z",
+      "round": "Round 4",
+      "homeTeam": "Avenir de La Marsa",
+      "awayTeam": "US Monastir",
+      "homeScore": 0,
+      "awayScore": 0,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Yellow cards": [
+          "1",
+          "2"
+        ]
+      }
+    },
+    {
+      "id": "CKZGBfXp",
+      "date": "2025-08-27T15:30:00.000Z",
+      "round": "Round 4",
+      "homeTeam": "Bizertin",
+      "awayTeam": "Club Africain",
+      "homeScore": 0,
+      "awayScore": 2,
+      "htHome": 0,
+      "htAway": 2,
+      "status": "FINISHED",
+      "stats": {
+        "Yellow cards": [
+          "1",
+          "0"
+        ]
+      }
+    },
+    {
+      "id": "hlYIVFOG",
+      "date": "2025-08-27T15:30:00.000Z",
+      "round": "Round 4",
+      "homeTeam": "Olympique de Beja",
+      "awayTeam": "JS Kairouanaise",
+      "homeScore": 0,
+      "awayScore": 0,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Yellow cards": [
+          "1",
+          "2"
+        ]
+      }
+    },
+    {
+      "id": "nkjiD78k",
+      "date": "2025-08-27T15:30:00.000Z",
+      "round": "Round 4",
+      "homeTeam": "Stade Tunisien",
+      "awayTeam": "ES Metlaoui",
+      "homeScore": 2,
+      "awayScore": 0,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Yellow cards": [
+          "4",
+          "2"
+        ]
+      }
+    },
+    {
+      "id": "Cd9TkvBO",
+      "date": "2025-08-22T15:30:00.000Z",
+      "round": "Round 3",
+      "homeTeam": "AS Gabes",
+      "awayTeam": "Avenir de La Marsa",
+      "homeScore": 2,
+      "awayScore": 1,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Yellow cards": [
+          "5",
+          "2"
+        ]
+      }
+    },
+    {
+      "id": "xv3LMKun",
+      "date": "2025-08-22T15:30:00.000Z",
+      "round": "Round 3",
+      "homeTeam": "Club Africain",
+      "awayTeam": "ES Zarzis",
+      "homeScore": 1,
+      "awayScore": 2,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Yellow cards": [
+          "0",
+          "2"
+        ]
+      }
+    },
+    {
+      "id": "dKsn8LQh",
+      "date": "2025-08-22T15:30:00.000Z",
+      "round": "Round 3",
+      "homeTeam": "JS Omrane",
+      "awayTeam": "Bizertin",
+      "homeScore": 1,
+      "awayScore": 0,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Yellow cards": [
+          "0",
+          "2"
+        ]
+      }
+    },
+    {
+      "id": "2LlwAsdt",
+      "date": "2025-08-22T15:30:00.000Z",
+      "round": "Round 3",
+      "homeTeam": "ES Metlaoui",
+      "awayTeam": "CS Sfaxien",
+      "homeScore": 2,
+      "awayScore": 1,
+      "htHome": 1,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Yellow cards": [
+          "2",
+          "0"
+        ]
+      }
+    },
+    {
+      "id": "UXuf6ae5",
+      "date": "2025-08-22T15:30:00.000Z",
+      "round": "Round 3",
+      "homeTeam": "US Monastir",
+      "awayTeam": "Olympique de Beja",
+      "homeScore": 2,
+      "awayScore": 0,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Yellow cards": [
+          "1",
+          "2"
+        ]
+      }
+    },
+    {
+      "id": "jsLKi0tC",
+      "date": "2025-08-21T15:30:00.000Z",
+      "round": "Round 3",
+      "homeTeam": "US Ben Guerdane",
+      "awayTeam": "Etoile Sportive Sahel",
+      "homeScore": 0,
+      "awayScore": 0,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Yellow cards": [
+          "3",
+          "1"
+        ]
+      }
+    },
+    {
+      "id": "QaZ24wQH",
+      "date": "2025-08-21T15:30:00.000Z",
+      "round": "Round 3",
+      "homeTeam": "JS Kairouanaise",
+      "awayTeam": "Esperance de Tunis",
+      "homeScore": 0,
+      "awayScore": 4,
+      "htHome": 0,
+      "htAway": 3,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "YPxB2HfU",
+      "date": "2025-08-21T15:30:00.000Z",
+      "round": "Round 3",
+      "homeTeam": "AS Soliman",
+      "awayTeam": "Stade Tunisien",
+      "homeScore": 0,
+      "awayScore": 0,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Yellow cards": [
+          "4",
+          "3"
+        ],
+        "Red cards": [
+          "1",
+          "0"
+        ]
+      }
+    },
+    {
+      "id": "fHvucz1f",
+      "date": "2025-08-16T15:30:00.000Z",
+      "round": "Round 2",
+      "homeTeam": "Bizertin",
+      "awayTeam": "CS Sfaxien",
+      "homeScore": 1,
+      "awayScore": 1,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Yellow cards": [
+          "4",
+          "0"
+        ],
+        "Red cards": [
+          "1",
+          "0"
+        ]
+      }
+    },
+    {
+      "id": "rHHCgMBa",
+      "date": "2025-08-16T15:30:00.000Z",
+      "round": "Round 2",
+      "homeTeam": "Etoile Sportive Sahel",
+      "awayTeam": "Club Africain",
+      "homeScore": 0,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Yellow cards": [
+          "3",
+          "3"
+        ]
+      }
+    },
+    {
+      "id": "tY0t14JP",
+      "date": "2025-08-16T15:30:00.000Z",
+      "round": "Round 2",
+      "homeTeam": "Stade Tunisien",
+      "awayTeam": "JS Kairouanaise",
+      "homeScore": 1,
+      "awayScore": 0,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Yellow cards": [
+          "0",
+          "2"
+        ]
+      }
+    },
+    {
+      "id": "fJJbH4n9",
+      "date": "2025-08-16T15:30:00.000Z",
+      "round": "Round 2",
+      "homeTeam": "ES Zarzis",
+      "awayTeam": "JS Omrane",
+      "homeScore": 1,
+      "awayScore": 0,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Yellow cards": [
+          "2",
+          "1"
+        ]
+      }
+    },
+    {
+      "id": "OdWegh0J",
+      "date": "2025-08-15T15:30:00.000Z",
+      "round": "Round 2",
+      "homeTeam": "Avenir de La Marsa",
+      "awayTeam": "US Ben Guerdane",
+      "homeScore": 1,
+      "awayScore": 0,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Yellow cards": [
+          "1",
+          "2"
+        ]
+      }
+    },
+    {
+      "id": "x4nCersm",
+      "date": "2025-08-15T15:30:00.000Z",
+      "round": "Round 2",
+      "homeTeam": "Esperance de Tunis",
+      "awayTeam": "US Monastir",
+      "homeScore": 1,
+      "awayScore": 1,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Yellow cards": [
+          "0",
+          "1"
+        ]
+      }
+    },
+    {
+      "id": "GWSmeEV6",
+      "date": "2025-08-15T15:30:00.000Z",
+      "round": "Round 2",
+      "homeTeam": "Olympique de Beja",
+      "awayTeam": "AS Gabes",
+      "homeScore": 0,
+      "awayScore": 0,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Yellow cards": [
+          "3",
+          "2"
+        ],
+        "Red cards": [
+          "0",
+          "1"
+        ]
+      }
+    },
+    {
+      "id": "lKyXbdWs",
+      "date": "2025-08-15T15:30:00.000Z",
+      "round": "Round 2",
+      "homeTeam": "AS Soliman",
+      "awayTeam": "ES Metlaoui",
+      "homeScore": 0,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Yellow cards": [
+          "3",
+          "1"
+        ],
+        "Red cards": [
+          "1",
+          "0"
+        ]
+      }
+    },
+    {
+      "id": "vBw5PC14",
+      "date": "2025-08-10T15:30:00.000Z",
+      "round": "Round 1",
+      "homeTeam": "US Ben Guerdane",
+      "awayTeam": "Olympique de Beja",
+      "homeScore": 2,
+      "awayScore": 0,
+      "htHome": 2,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "CIQiG8Oj",
+      "date": "2025-08-10T15:30:00.000Z",
+      "round": "Round 1",
+      "homeTeam": "CS Sfaxien",
+      "awayTeam": "ES Zarzis",
+      "homeScore": 1,
+      "awayScore": 2,
+      "htHome": 1,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Yellow cards": [
+          "0",
+          "1"
+        ]
+      }
+    },
+    {
+      "id": "vPIwvCGc",
+      "date": "2025-08-10T15:30:00.000Z",
+      "round": "Round 1",
+      "homeTeam": "JS Omrane",
+      "awayTeam": "Etoile Sportive Sahel",
+      "homeScore": 3,
+      "awayScore": 1,
+      "htHome": 2,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Yellow cards": [
+          "2",
+          "3"
+        ]
+      }
+    },
+    {
+      "id": "K66v9iHN",
+      "date": "2025-08-10T15:30:00.000Z",
+      "round": "Round 1",
+      "homeTeam": "US Monastir",
+      "awayTeam": "Stade Tunisien",
+      "homeScore": 1,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Yellow cards": [
+          "1",
+          "3"
+        ]
+      }
+    },
+    {
+      "id": "WpzcRYWi",
+      "date": "2025-08-09T15:30:00.000Z",
+      "round": "Round 1",
+      "homeTeam": "AS Gabes",
+      "awayTeam": "Esperance de Tunis",
+      "homeScore": 0,
+      "awayScore": 0,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Yellow cards": [
+          "5",
+          "2"
+        ]
+      }
+    },
+    {
+      "id": "jkcA3Vvo",
+      "date": "2025-08-09T15:30:00.000Z",
+      "round": "Round 1",
+      "homeTeam": "Club Africain",
+      "awayTeam": "Avenir de La Marsa",
+      "homeScore": 1,
+      "awayScore": 0,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Yellow cards": [
+          "2",
+          "3"
+        ]
+      }
+    },
+    {
+      "id": "hYqLLU0T",
+      "date": "2025-08-09T15:30:00.000Z",
+      "round": "Round 1",
+      "homeTeam": "JS Kairouanaise",
+      "awayTeam": "AS Soliman",
+      "homeScore": 1,
+      "awayScore": 0,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Yellow cards": [
+          "2",
+          "3"
+        ]
+      }
+    },
+    {
+      "id": "KKoDNjWG",
+      "date": "2025-08-09T15:30:00.000Z",
+      "round": "Round 1",
+      "homeTeam": "ES Metlaoui",
+      "awayTeam": "Bizertin",
+      "homeScore": 0,
+      "awayScore": 0,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {}
+    }
+  ]
+}

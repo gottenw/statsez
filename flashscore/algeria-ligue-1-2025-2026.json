@@ -1,0 +1,2918 @@
+{
+  "league": "Ligue 1",
+  "country": "algeria",
+  "season": "2025-2026",
+  "collectedAt": "2026-02-10T15:58:41.645Z",
+  "totalMatches": 140,
+  "matches": [
+    {
+      "id": "rseJPJjl",
+      "date": "2026-02-08T17:00:00.000Z",
+      "round": "Round 18",
+      "homeTeam": "ES Setif",
+      "awayTeam": "MC El Bayadh",
+      "homeScore": 0,
+      "awayScore": 0,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "48%",
+          "52%"
+        ],
+        "Total shots": [
+          "9",
+          "11"
+        ],
+        "Shots on target": [
+          "5",
+          "4"
+        ],
+        "Corner kicks": [
+          "6",
+          "6"
+        ],
+        "Yellow cards": [
+          "2",
+          "0"
+        ],
+        "Shots off target": [
+          "4",
+          "7"
+        ]
+      }
+    },
+    {
+      "id": "nB9mVuTQ",
+      "date": "2026-02-08T15:00:00.000Z",
+      "round": "Round 18",
+      "homeTeam": "ASO Chlef",
+      "awayTeam": "JS Saoura",
+      "homeScore": 0,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "61%",
+          "39%"
+        ],
+        "Total shots": [
+          "5",
+          "4"
+        ],
+        "Shots on target": [
+          "1",
+          "2"
+        ],
+        "Corner kicks": [
+          "4",
+          "0"
+        ],
+        "Yellow cards": [
+          "0",
+          "2"
+        ],
+        "Shots off target": [
+          "4",
+          "2"
+        ]
+      }
+    },
+    {
+      "id": "v9lSNcL0",
+      "date": "2026-02-08T14:00:00.000Z",
+      "round": "Round 18",
+      "homeTeam": "MB Rouissat",
+      "awayTeam": "CS Constantine",
+      "homeScore": 1,
+      "awayScore": 2,
+      "htHome": 0,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "56%",
+          "44%"
+        ],
+        "Total shots": [
+          "4",
+          "2"
+        ],
+        "Shots on target": [
+          "4",
+          "2"
+        ],
+        "Corner kicks": [
+          "4",
+          "3"
+        ],
+        "Yellow cards": [
+          "0",
+          "3"
+        ],
+        "Shots off target": [
+          "0",
+          "0"
+        ]
+      }
+    },
+    {
+      "id": "SfEDI2qL",
+      "date": "2026-02-07T14:00:00.000Z",
+      "round": "Round 18",
+      "homeTeam": "ES Mostaganem",
+      "awayTeam": "MC Oran",
+      "homeScore": 0,
+      "awayScore": 0,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "48%",
+          "52%"
+        ],
+        "Total shots": [
+          "5",
+          "4"
+        ],
+        "Shots on target": [
+          "2",
+          "2"
+        ],
+        "Corner kicks": [
+          "4",
+          "5"
+        ],
+        "Shots off target": [
+          "3",
+          "2"
+        ]
+      }
+    },
+    {
+      "id": "8SYNzPsh",
+      "date": "2026-02-04T15:00:00.000Z",
+      "round": "Round 17",
+      "homeTeam": "JS Saoura",
+      "awayTeam": "ES Setif",
+      "homeScore": 1,
+      "awayScore": 0,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "58%",
+          "42%"
+        ],
+        "Total shots": [
+          "14",
+          "4"
+        ],
+        "Shots on target": [
+          "5",
+          "1"
+        ],
+        "Corner kicks": [
+          "7",
+          "0"
+        ],
+        "Yellow cards": [
+          "4",
+          "3"
+        ],
+        "Shots off target": [
+          "9",
+          "3"
+        ]
+      }
+    },
+    {
+      "id": "GYoxDLko",
+      "date": "2026-02-04T14:00:00.000Z",
+      "round": "Round 17",
+      "homeTeam": "MC El Bayadh",
+      "awayTeam": "MB Rouissat",
+      "homeScore": 2,
+      "awayScore": 0,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "47%",
+          "53%"
+        ],
+        "Total shots": [
+          "7",
+          "6"
+        ],
+        "Shots on target": [
+          "3",
+          "0"
+        ],
+        "Corner kicks": [
+          "1",
+          "2"
+        ],
+        "Yellow cards": [
+          "3",
+          "3"
+        ],
+        "Shots off target": [
+          "4",
+          "6"
+        ]
+      }
+    },
+    {
+      "id": "4fSWY2C4",
+      "date": "2026-02-04T14:00:00.000Z",
+      "round": "Round 17",
+      "homeTeam": "USM Khenchela",
+      "awayTeam": "ASO Chlef",
+      "homeScore": 2,
+      "awayScore": 2,
+      "htHome": 1,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "63%",
+          "37%"
+        ],
+        "Total shots": [
+          "12",
+          "9"
+        ],
+        "Shots on target": [
+          "5",
+          "4"
+        ],
+        "Corner kicks": [
+          "4",
+          "1"
+        ],
+        "Yellow cards": [
+          "1",
+          "1"
+        ],
+        "Shots off target": [
+          "7",
+          "5"
+        ]
+      }
+    },
+    {
+      "id": "dl55IsSN",
+      "date": "2026-02-03T16:00:00.000Z",
+      "round": "Round 17",
+      "homeTeam": "CS Constantine",
+      "awayTeam": "ES Mostaganem",
+      "homeScore": 2,
+      "awayScore": 1,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "60%",
+          "40%"
+        ],
+        "Total shots": [
+          "15",
+          "2"
+        ],
+        "Shots on target": [
+          "8",
+          "1"
+        ],
+        "Corner kicks": [
+          "8",
+          "4"
+        ],
+        "Yellow cards": [
+          "1",
+          "2"
+        ],
+        "Red cards": [
+          "1",
+          "0"
+        ],
+        "Shots off target": [
+          "7",
+          "1"
+        ]
+      }
+    },
+    {
+      "id": "fsG5KOE8",
+      "date": "2026-02-03T16:00:00.000Z",
+      "round": "Round 17",
+      "homeTeam": "MC Oran",
+      "awayTeam": "Olympique Akbou",
+      "homeScore": 0,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "48%",
+          "52%"
+        ],
+        "Total shots": [
+          "4",
+          "5"
+        ],
+        "Shots on target": [
+          "2",
+          "2"
+        ],
+        "Corner kicks": [
+          "2",
+          "2"
+        ],
+        "Yellow cards": [
+          "5",
+          "4"
+        ],
+        "Red cards": [
+          "1",
+          "0"
+        ],
+        "Shots off target": [
+          "2",
+          "3"
+        ]
+      }
+    },
+    {
+      "id": "2VNPOeHF",
+      "date": "2026-01-24T16:00:00.000Z",
+      "round": "Round 16",
+      "homeTeam": "CS Constantine",
+      "awayTeam": "MC El Bayadh",
+      "homeScore": 1,
+      "awayScore": 1,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "58%",
+          "42%"
+        ],
+        "Total shots": [
+          "8",
+          "8"
+        ],
+        "Shots on target": [
+          "3",
+          "4"
+        ],
+        "Corner kicks": [
+          "4",
+          "0"
+        ],
+        "Yellow cards": [
+          "3",
+          "4"
+        ],
+        "Shots off target": [
+          "5",
+          "4"
+        ]
+      }
+    },
+    {
+      "id": "f5KHQHn3",
+      "date": "2026-01-24T13:00:00.000Z",
+      "round": "Round 16",
+      "homeTeam": "ES Ben Aknoun",
+      "awayTeam": "MC Oran",
+      "homeScore": 2,
+      "awayScore": 1,
+      "htHome": 1,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "42%",
+          "58%"
+        ],
+        "Total shots": [
+          "9",
+          "8"
+        ],
+        "Shots on target": [
+          "7",
+          "5"
+        ],
+        "Corner kicks": [
+          "3",
+          "5"
+        ],
+        "Yellow cards": [
+          "3",
+          "3"
+        ],
+        "Shots off target": [
+          "2",
+          "3"
+        ]
+      }
+    },
+    {
+      "id": "vcxV2Efd",
+      "date": "2026-01-24T13:00:00.000Z",
+      "round": "Round 16",
+      "homeTeam": "MB Rouissat",
+      "awayTeam": "JS Saoura",
+      "homeScore": 1,
+      "awayScore": 0,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "45%",
+          "55%"
+        ],
+        "Total shots": [
+          "3",
+          "6"
+        ],
+        "Shots on target": [
+          "2",
+          "0"
+        ],
+        "Corner kicks": [
+          "6",
+          "9"
+        ],
+        "Yellow cards": [
+          "3",
+          "2"
+        ],
+        "Red cards": [
+          "1",
+          "1"
+        ],
+        "Shots off target": [
+          "1",
+          "6"
+        ]
+      }
+    },
+    {
+      "id": "6qvN4zQq",
+      "date": "2026-01-23T17:00:00.000Z",
+      "round": "Round 16",
+      "homeTeam": "ES Setif",
+      "awayTeam": "USM Khenchela",
+      "homeScore": 4,
+      "awayScore": 1,
+      "htHome": 3,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "39%",
+          "61%"
+        ],
+        "Total shots": [
+          "11",
+          "9"
+        ],
+        "Shots on target": [
+          "5",
+          "5"
+        ],
+        "Corner kicks": [
+          "4",
+          "4"
+        ],
+        "Yellow cards": [
+          "4",
+          "2"
+        ],
+        "Red cards": [
+          "0",
+          "1"
+        ],
+        "Shots off target": [
+          "6",
+          "4"
+        ]
+      }
+    },
+    {
+      "id": "lScjAd2M",
+      "date": "2026-01-23T15:00:00.000Z",
+      "round": "Round 16",
+      "homeTeam": "ASO Chlef",
+      "awayTeam": "Paradou AC",
+      "homeScore": 2,
+      "awayScore": 0,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "37%",
+          "63%"
+        ],
+        "Total shots": [
+          "10",
+          "8"
+        ],
+        "Shots on target": [
+          "7",
+          "6"
+        ],
+        "Corner kicks": [
+          "4",
+          "1"
+        ],
+        "Yellow cards": [
+          "2",
+          "2"
+        ],
+        "Red cards": [
+          "1",
+          "0"
+        ],
+        "Shots off target": [
+          "3",
+          "2"
+        ]
+      }
+    },
+    {
+      "id": "t2frCIX9",
+      "date": "2026-01-23T14:00:00.000Z",
+      "round": "Round 16",
+      "homeTeam": "ES Mostaganem",
+      "awayTeam": "Olympique Akbou",
+      "homeScore": 1,
+      "awayScore": 0,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "49%",
+          "51%"
+        ],
+        "Total shots": [
+          "1",
+          "3"
+        ],
+        "Shots on target": [
+          "1",
+          "1"
+        ],
+        "Corner kicks": [
+          "3",
+          "4"
+        ],
+        "Yellow cards": [
+          "4",
+          "2"
+        ],
+        "Shots off target": [
+          "0",
+          "2"
+        ]
+      }
+    },
+    {
+      "id": "0raKGt6s",
+      "date": "2026-01-09T17:00:00.000Z",
+      "round": "Round 15",
+      "homeTeam": "CR Belouizdad",
+      "awayTeam": "JS Kabylie",
+      "homeScore": 0,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Yellow cards": [
+          "4",
+          "4"
+        ]
+      }
+    },
+    {
+      "id": "fqXnZlM8",
+      "date": "2026-01-09T15:00:00.000Z",
+      "round": "Round 15",
+      "homeTeam": "ASO Chlef",
+      "awayTeam": "MC Alger",
+      "homeScore": 0,
+      "awayScore": 0,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Yellow cards": [
+          "3",
+          "3"
+        ]
+      }
+    },
+    {
+      "id": "xhYTITyS",
+      "date": "2026-01-09T15:00:00.000Z",
+      "round": "Round 15",
+      "homeTeam": "CS Constantine",
+      "awayTeam": "JS Saoura",
+      "homeScore": 1,
+      "awayScore": 0,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Yellow cards": [
+          "3",
+          "2"
+        ]
+      }
+    },
+    {
+      "id": "dxF0D7ak",
+      "date": "2026-01-09T15:00:00.000Z",
+      "round": "Round 15",
+      "homeTeam": "MB Rouissat",
+      "awayTeam": "USM Khenchela",
+      "homeScore": 2,
+      "awayScore": 0,
+      "htHome": 2,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Yellow cards": [
+          "2",
+          "3"
+        ]
+      }
+    },
+    {
+      "id": "McmTEKzf",
+      "date": "2026-01-08T19:00:00.000Z",
+      "round": "Round 15",
+      "homeTeam": "USM Alger",
+      "awayTeam": "MC Oran",
+      "homeScore": 1,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Yellow cards": [
+          "1",
+          "3"
+        ]
+      }
+    },
+    {
+      "id": "UkD8BoU1",
+      "date": "2026-01-08T16:45:00.000Z",
+      "round": "Round 15",
+      "homeTeam": "ES Setif",
+      "awayTeam": "Paradou AC",
+      "homeScore": 2,
+      "awayScore": 2,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Yellow cards": [
+          "0",
+          "2"
+        ]
+      }
+    },
+    {
+      "id": "UNjyDb56",
+      "date": "2026-01-08T13:00:00.000Z",
+      "round": "Round 15",
+      "homeTeam": "ES Ben Aknoun",
+      "awayTeam": "Olympique Akbou",
+      "homeScore": 2,
+      "awayScore": 2,
+      "htHome": 1,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Yellow cards": [
+          "7",
+          "4"
+        ],
+        "Red cards": [
+          "1",
+          "0"
+        ]
+      }
+    },
+    {
+      "id": "URULKk7F",
+      "date": "2026-01-08T13:00:00.000Z",
+      "round": "Round 15",
+      "homeTeam": "MC El Bayadh",
+      "awayTeam": "ES Mostaganem",
+      "homeScore": 1,
+      "awayScore": 0,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Yellow cards": [
+          "4",
+          "3"
+        ]
+      }
+    },
+    {
+      "id": "jFImczhf",
+      "date": "2026-01-05T19:00:00.000Z",
+      "round": "Round 12",
+      "homeTeam": "MC Alger",
+      "awayTeam": "CS Constantine",
+      "homeScore": 1,
+      "awayScore": 0,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Yellow cards": [
+          "0",
+          "1"
+        ],
+        "Red cards": [
+          "0",
+          "1"
+        ]
+      }
+    },
+    {
+      "id": "pIFuadNs",
+      "date": "2026-01-05T16:45:00.000Z",
+      "round": "Round 12",
+      "homeTeam": "JS Kabylie",
+      "awayTeam": "MB Rouissat",
+      "homeScore": 1,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Red cards": [
+          "1",
+          "0"
+        ]
+      }
+    },
+    {
+      "id": "xChEryw1",
+      "date": "2026-01-03T13:00:00.000Z",
+      "round": "Round 12",
+      "homeTeam": "ES Ben Aknoun",
+      "awayTeam": "CR Belouizdad",
+      "homeScore": 0,
+      "awayScore": 2,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Yellow cards": [
+          "4",
+          "4"
+        ]
+      }
+    },
+    {
+      "id": "6DDldukA",
+      "date": "2026-01-02T16:00:00.000Z",
+      "round": "Round 6",
+      "homeTeam": "JS Kabylie",
+      "awayTeam": "MC Alger",
+      "homeScore": 1,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Yellow cards": [
+          "4",
+          "5"
+        ],
+        "Red cards": [
+          "0",
+          "1"
+        ]
+      }
+    },
+    {
+      "id": "jyAn6jhM",
+      "date": "2025-12-29T18:30:00.000Z",
+      "round": "Round 14",
+      "homeTeam": "MC Alger",
+      "awayTeam": "ES Setif",
+      "homeScore": 2,
+      "awayScore": 0,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Yellow cards": [
+          "2",
+          "3"
+        ],
+        "Red cards": [
+          "0",
+          "1"
+        ]
+      }
+    },
+    {
+      "id": "8hIV9Yhc",
+      "date": "2025-12-29T16:00:00.000Z",
+      "round": "Round 14",
+      "homeTeam": "MC Oran",
+      "awayTeam": "CR Belouizdad",
+      "homeScore": 1,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Yellow cards": [
+          "1",
+          "2"
+        ]
+      }
+    },
+    {
+      "id": "fo2F7rCT",
+      "date": "2025-12-29T13:00:00.000Z",
+      "round": "Round 14",
+      "homeTeam": "ES Mostaganem",
+      "awayTeam": "ES Ben Aknoun",
+      "homeScore": 0,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Yellow cards": [
+          "1",
+          "2"
+        ]
+      }
+    },
+    {
+      "id": "f9Gw8CN9",
+      "date": "2025-12-27T16:00:00.000Z",
+      "round": "Round 14",
+      "homeTeam": "JS Kabylie",
+      "awayTeam": "ASO Chlef",
+      "homeScore": 2,
+      "awayScore": 1,
+      "htHome": 1,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "QTho2MZj",
+      "date": "2025-12-27T13:00:00.000Z",
+      "round": "Round 14",
+      "homeTeam": "Olympique Akbou",
+      "awayTeam": "USM Alger",
+      "homeScore": 1,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Yellow cards": [
+          "3",
+          "3"
+        ]
+      }
+    },
+    {
+      "id": "n7eI0UFq",
+      "date": "2025-12-27T13:00:00.000Z",
+      "round": "Round 14",
+      "homeTeam": "Paradou AC",
+      "awayTeam": "MB Rouissat",
+      "homeScore": 1,
+      "awayScore": 0,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Yellow cards": [
+          "2",
+          "4"
+        ],
+        "Red cards": [
+          "0",
+          "1"
+        ]
+      }
+    },
+    {
+      "id": "rZlRb8pd",
+      "date": "2025-12-26T14:00:00.000Z",
+      "round": "Round 14",
+      "homeTeam": "USM Khenchela",
+      "awayTeam": "CS Constantine",
+      "homeScore": 0,
+      "awayScore": 0,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "8CtDMBx3",
+      "date": "2025-12-26T14:00:00.000Z",
+      "round": "Round 14",
+      "homeTeam": "JS Saoura",
+      "awayTeam": "MC El Bayadh",
+      "homeScore": 2,
+      "awayScore": 1,
+      "htHome": 2,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Yellow cards": [
+          "2",
+          "2"
+        ]
+      }
+    },
+    {
+      "id": "S2GzkIbs",
+      "date": "2025-12-25T18:30:00.000Z",
+      "round": "Round 8",
+      "homeTeam": "CR Belouizdad",
+      "awayTeam": "ES Setif",
+      "homeScore": 3,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Yellow cards": [
+          "3",
+          "2"
+        ]
+      }
+    },
+    {
+      "id": "rqI5id2k",
+      "date": "2025-12-23T18:30:00.000Z",
+      "round": "Round 3",
+      "homeTeam": "MC Alger",
+      "awayTeam": "ES Ben Aknoun",
+      "homeScore": 1,
+      "awayScore": 0,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Yellow cards": [
+          "1",
+          "1"
+        ]
+      }
+    },
+    {
+      "id": "lI4qmdTg",
+      "date": "2025-12-22T18:30:00.000Z",
+      "round": "Round 8",
+      "homeTeam": "USM Alger",
+      "awayTeam": "MB Rouissat",
+      "homeScore": 2,
+      "awayScore": 0,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Yellow cards": [
+          "4",
+          "2"
+        ]
+      }
+    },
+    {
+      "id": "Q5AbBQC4",
+      "date": "2025-12-20T17:00:00.000Z",
+      "round": "Round 13",
+      "homeTeam": "CR Belouizdad",
+      "awayTeam": "Olympique Akbou",
+      "homeScore": 3,
+      "awayScore": 2,
+      "htHome": 1,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Yellow cards": [
+          "5",
+          "7"
+        ]
+      }
+    },
+    {
+      "id": "YyHG09bn",
+      "date": "2025-12-20T14:00:00.000Z",
+      "round": "Round 13",
+      "homeTeam": "JS Saoura",
+      "awayTeam": "ES Mostaganem",
+      "homeScore": 3,
+      "awayScore": 2,
+      "htHome": 3,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Yellow cards": [
+          "5",
+          "2"
+        ]
+      }
+    },
+    {
+      "id": "IkA4kqjo",
+      "date": "2025-12-19T17:00:00.000Z",
+      "round": "Round 13",
+      "homeTeam": "ES Setif",
+      "awayTeam": "JS Kabylie",
+      "homeScore": 1,
+      "awayScore": 0,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Yellow cards": [
+          "3",
+          "1"
+        ]
+      }
+    },
+    {
+      "id": "QiVPdRcB",
+      "date": "2025-12-19T16:00:00.000Z",
+      "round": "Round 13",
+      "homeTeam": "CS Constantine",
+      "awayTeam": "Paradou AC",
+      "homeScore": 2,
+      "awayScore": 0,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Yellow cards": [
+          "2",
+          "3"
+        ]
+      }
+    },
+    {
+      "id": "6kFObmTb",
+      "date": "2025-12-19T13:30:00.000Z",
+      "round": "Round 13",
+      "homeTeam": "MC El Bayadh",
+      "awayTeam": "USM Khenchela",
+      "homeScore": 1,
+      "awayScore": 2,
+      "htHome": 0,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Yellow cards": [
+          "1",
+          "0"
+        ]
+      }
+    },
+    {
+      "id": "bJ8694sH",
+      "date": "2025-12-18T19:00:00.000Z",
+      "round": "Round 13",
+      "homeTeam": "USM Alger",
+      "awayTeam": "ES Ben Aknoun",
+      "homeScore": 2,
+      "awayScore": 2,
+      "htHome": 2,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Yellow cards": [
+          "5",
+          "3"
+        ],
+        "Red cards": [
+          "1",
+          "0"
+        ]
+      }
+    },
+    {
+      "id": "pd2jDnrh",
+      "date": "2025-12-18T16:00:00.000Z",
+      "round": "Round 13",
+      "homeTeam": "ASO Chlef",
+      "awayTeam": "MC Oran",
+      "homeScore": 1,
+      "awayScore": 0,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Yellow cards": [
+          "2",
+          "2"
+        ]
+      }
+    },
+    {
+      "id": "YHYXf5SN",
+      "date": "2025-12-18T16:00:00.000Z",
+      "round": "Round 13",
+      "homeTeam": "MB Rouissat",
+      "awayTeam": "MC Alger",
+      "homeScore": 1,
+      "awayScore": 0,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Yellow cards": [
+          "4",
+          "1"
+        ]
+      }
+    },
+    {
+      "id": "niuyl2v0",
+      "date": "2025-12-08T19:00:00.000Z",
+      "round": "Round 1",
+      "homeTeam": "MC Alger",
+      "awayTeam": "CR Belouizdad",
+      "homeScore": 2,
+      "awayScore": 1,
+      "htHome": 1,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Yellow cards": [
+          "4",
+          "5"
+        ],
+        "Red cards": [
+          "1",
+          "0"
+        ]
+      }
+    },
+    {
+      "id": "tfxTkO9m",
+      "date": "2025-12-08T16:45:00.000Z",
+      "round": "Round 1",
+      "homeTeam": "JS Kabylie",
+      "awayTeam": "USM Alger",
+      "homeScore": 1,
+      "awayScore": 2,
+      "htHome": 0,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Yellow cards": [
+          "0",
+          "4"
+        ]
+      }
+    },
+    {
+      "id": "KfA4ghiJ",
+      "date": "2025-11-22T13:00:00.000Z",
+      "round": "Round 12",
+      "homeTeam": "USM Khenchela",
+      "awayTeam": "JS Saoura",
+      "homeScore": 3,
+      "awayScore": 0,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Yellow cards": [
+          "0",
+          "3"
+        ]
+      }
+    },
+    {
+      "id": "YwnNtF7D",
+      "date": "2025-11-21T13:45:00.000Z",
+      "round": "Round 12",
+      "homeTeam": "Olympique Akbou",
+      "awayTeam": "ASO Chlef",
+      "homeScore": 2,
+      "awayScore": 1,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Yellow cards": [
+          "3",
+          "4"
+        ],
+        "Red cards": [
+          "2",
+          "0"
+        ]
+      }
+    },
+    {
+      "id": "QXY84IaK",
+      "date": "2025-11-20T18:00:00.000Z",
+      "round": "Round 12",
+      "homeTeam": "MC Oran",
+      "awayTeam": "ES Setif",
+      "homeScore": 0,
+      "awayScore": 0,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "CU6deEM6",
+      "date": "2025-11-20T13:00:00.000Z",
+      "round": "Round 12",
+      "homeTeam": "Paradou AC",
+      "awayTeam": "MC El Bayadh",
+      "homeScore": 2,
+      "awayScore": 0,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Yellow cards": [
+          "4",
+          "3"
+        ]
+      }
+    },
+    {
+      "id": "4pu7pc8l",
+      "date": "2025-11-17T15:00:00.000Z",
+      "round": "Round 12",
+      "homeTeam": "ES Mostaganem",
+      "awayTeam": "USM Alger",
+      "homeScore": 2,
+      "awayScore": 2,
+      "htHome": 1,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Yellow cards": [
+          "0",
+          "3"
+        ]
+      }
+    },
+    {
+      "id": "xUopu2W8",
+      "date": "2025-11-09T17:00:00.000Z",
+      "round": "Round 11",
+      "homeTeam": "JS Saoura",
+      "awayTeam": "Paradou AC",
+      "homeScore": 1,
+      "awayScore": 2,
+      "htHome": 0,
+      "htAway": 2,
+      "status": "FINISHED",
+      "stats": {
+        "Yellow cards": [
+          "1",
+          "3"
+        ]
+      }
+    },
+    {
+      "id": "Cn0SiuGE",
+      "date": "2025-11-09T16:45:00.000Z",
+      "round": "Round 11",
+      "homeTeam": "ASO Chlef",
+      "awayTeam": "ES Ben Aknoun",
+      "homeScore": 1,
+      "awayScore": 2,
+      "htHome": 0,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Yellow cards": [
+          "2",
+          "1"
+        ]
+      }
+    },
+    {
+      "id": "URQOXJOr",
+      "date": "2025-11-09T16:45:00.000Z",
+      "round": "Round 11",
+      "homeTeam": "CS Constantine",
+      "awayTeam": "JS Kabylie",
+      "homeScore": 1,
+      "awayScore": 0,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Yellow cards": [
+          "5",
+          "3"
+        ],
+        "Red cards": [
+          "1",
+          "0"
+        ]
+      }
+    },
+    {
+      "id": "bqzgwt1L",
+      "date": "2025-11-09T13:30:00.000Z",
+      "round": "Round 11",
+      "homeTeam": "MC El Bayadh",
+      "awayTeam": "MC Alger",
+      "homeScore": 0,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Yellow cards": [
+          "2",
+          "3"
+        ]
+      }
+    },
+    {
+      "id": "dvIuUyO7",
+      "date": "2025-11-08T17:00:00.000Z",
+      "round": "Round 11",
+      "homeTeam": "ES Setif",
+      "awayTeam": "Olympique Akbou",
+      "homeScore": 1,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Yellow cards": [
+          "2",
+          "2"
+        ]
+      }
+    },
+    {
+      "id": "OQJXVcge",
+      "date": "2025-11-08T16:00:00.000Z",
+      "round": "Round 11",
+      "homeTeam": "MB Rouissat",
+      "awayTeam": "MC Oran",
+      "homeScore": 1,
+      "awayScore": 3,
+      "htHome": 1,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Yellow cards": [
+          "1",
+          "5"
+        ]
+      }
+    },
+    {
+      "id": "KC3zjJpR",
+      "date": "2025-11-08T13:30:00.000Z",
+      "round": "Round 11",
+      "homeTeam": "CR Belouizdad",
+      "awayTeam": "USM Alger",
+      "homeScore": 0,
+      "awayScore": 0,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Yellow cards": [
+          "2",
+          "3"
+        ]
+      }
+    },
+    {
+      "id": "ANgbHbv2",
+      "date": "2025-11-08T13:30:00.000Z",
+      "round": "Round 11",
+      "homeTeam": "USM Khenchela",
+      "awayTeam": "ES Mostaganem",
+      "homeScore": 1,
+      "awayScore": 0,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Yellow cards": [
+          "5",
+          "3"
+        ]
+      }
+    },
+    {
+      "id": "fkhROtnS",
+      "date": "2025-11-03T19:00:00.000Z",
+      "round": "Round 10",
+      "homeTeam": "MC Alger",
+      "awayTeam": "JS Saoura",
+      "homeScore": 1,
+      "awayScore": 0,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Yellow cards": [
+          "3",
+          "1"
+        ]
+      }
+    },
+    {
+      "id": "bNbIQ2HF",
+      "date": "2025-11-03T16:45:00.000Z",
+      "round": "Round 10",
+      "homeTeam": "JS Kabylie",
+      "awayTeam": "MC El Bayadh",
+      "homeScore": 4,
+      "awayScore": 1,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Yellow cards": [
+          "0",
+          "1"
+        ]
+      }
+    },
+    {
+      "id": "jLwcJK9k",
+      "date": "2025-11-03T13:30:00.000Z",
+      "round": "Round 10",
+      "homeTeam": "Paradou AC",
+      "awayTeam": "USM Khenchela",
+      "homeScore": 2,
+      "awayScore": 0,
+      "htHome": 2,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Yellow cards": [
+          "3",
+          "2"
+        ]
+      }
+    },
+    {
+      "id": "OhrrPktB",
+      "date": "2025-11-02T18:00:00.000Z",
+      "round": "Round 10",
+      "homeTeam": "USM Alger",
+      "awayTeam": "ASO Chlef",
+      "homeScore": 1,
+      "awayScore": 0,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Yellow cards": [
+          "3",
+          "0"
+        ],
+        "Red cards": [
+          "1",
+          "0"
+        ]
+      }
+    },
+    {
+      "id": "jupzRBBb",
+      "date": "2025-11-02T16:00:00.000Z",
+      "round": "Round 10",
+      "homeTeam": "ES Mostaganem",
+      "awayTeam": "CR Belouizdad",
+      "homeScore": 0,
+      "awayScore": 2,
+      "htHome": 0,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Yellow cards": [
+          "4",
+          "5"
+        ]
+      }
+    },
+    {
+      "id": "Ig0G6sQq",
+      "date": "2025-11-02T13:30:00.000Z",
+      "round": "Round 10",
+      "homeTeam": "ES Ben Aknoun",
+      "awayTeam": "ES Setif",
+      "homeScore": 0,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Yellow cards": [
+          "3",
+          "5"
+        ],
+        "Red cards": [
+          "0",
+          "1"
+        ]
+      }
+    },
+    {
+      "id": "jceASOn3",
+      "date": "2025-11-01T17:00:00.000Z",
+      "round": "Round 10",
+      "homeTeam": "MC Oran",
+      "awayTeam": "CS Constantine",
+      "homeScore": 1,
+      "awayScore": 0,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Yellow cards": [
+          "4",
+          "2"
+        ]
+      }
+    },
+    {
+      "id": "A1IN4Lfd",
+      "date": "2025-11-01T13:30:00.000Z",
+      "round": "Round 10",
+      "homeTeam": "Olympique Akbou",
+      "awayTeam": "MB Rouissat",
+      "homeScore": 2,
+      "awayScore": 1,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Yellow cards": [
+          "2",
+          "4"
+        ],
+        "Red cards": [
+          "0",
+          "1"
+        ]
+      }
+    },
+    {
+      "id": "ju2ZeiCO",
+      "date": "2025-10-30T14:00:00.000Z",
+      "round": "Round 9",
+      "homeTeam": "USM Khenchela",
+      "awayTeam": "MC Alger",
+      "homeScore": 0,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Yellow cards": [
+          "1",
+          "3"
+        ]
+      }
+    },
+    {
+      "id": "QcGH8UeU",
+      "date": "2025-10-29T17:00:00.000Z",
+      "round": "Round 9",
+      "homeTeam": "ES Setif",
+      "awayTeam": "USM Alger",
+      "homeScore": 1,
+      "awayScore": 3,
+      "htHome": 0,
+      "htAway": 2,
+      "status": "FINISHED",
+      "stats": {
+        "Yellow cards": [
+          "2",
+          "2"
+        ]
+      }
+    },
+    {
+      "id": "fDjRSXtn",
+      "date": "2025-10-29T16:00:00.000Z",
+      "round": "Round 9",
+      "homeTeam": "ASO Chlef",
+      "awayTeam": "CR Belouizdad",
+      "homeScore": 0,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Yellow cards": [
+          "2",
+          "5"
+        ]
+      }
+    },
+    {
+      "id": "SxXqGfct",
+      "date": "2025-10-29T15:00:00.000Z",
+      "round": "Round 9",
+      "homeTeam": "JS Saoura",
+      "awayTeam": "JS Kabylie",
+      "homeScore": 2,
+      "awayScore": 2,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Yellow cards": [
+          "1",
+          "1"
+        ]
+      }
+    },
+    {
+      "id": "rFbRcDsC",
+      "date": "2025-10-26T14:00:00.000Z",
+      "round": "Round 9",
+      "homeTeam": "Paradou AC",
+      "awayTeam": "ES Mostaganem",
+      "homeScore": 1,
+      "awayScore": 0,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Yellow cards": [
+          "4",
+          "1"
+        ],
+        "Red cards": [
+          "1",
+          "0"
+        ]
+      }
+    },
+    {
+      "id": "4rS8AjRH",
+      "date": "2025-10-25T17:00:00.000Z",
+      "round": "Round 9",
+      "homeTeam": "MB Rouissat",
+      "awayTeam": "ES Ben Aknoun",
+      "homeScore": 0,
+      "awayScore": 0,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Yellow cards": [
+          "3",
+          "3"
+        ]
+      }
+    },
+    {
+      "id": "dIO0CCd5",
+      "date": "2025-10-25T16:00:00.000Z",
+      "round": "Round 9",
+      "homeTeam": "CS Constantine",
+      "awayTeam": "Olympique Akbou",
+      "homeScore": 2,
+      "awayScore": 1,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Yellow cards": [
+          "1",
+          "2"
+        ]
+      }
+    },
+    {
+      "id": "0jViEYRh",
+      "date": "2025-10-25T14:00:00.000Z",
+      "round": "Round 9",
+      "homeTeam": "MC El Bayadh",
+      "awayTeam": "MC Oran",
+      "homeScore": 0,
+      "awayScore": 2,
+      "htHome": 0,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Yellow cards": [
+          "1",
+          "2"
+        ]
+      }
+    },
+    {
+      "id": "MaAIaZCa",
+      "date": "2025-10-22T19:00:00.000Z",
+      "round": "Round 8",
+      "homeTeam": "MC Alger",
+      "awayTeam": "Paradou AC",
+      "homeScore": 2,
+      "awayScore": 1,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Yellow cards": [
+          "1",
+          "2"
+        ]
+      }
+    },
+    {
+      "id": "EZ6A1erm",
+      "date": "2025-10-21T18:00:00.000Z",
+      "round": "Round 8",
+      "homeTeam": "JS Kabylie",
+      "awayTeam": "USM Khenchela",
+      "homeScore": 1,
+      "awayScore": 0,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Yellow cards": [
+          "3",
+          "2"
+        ],
+        "Red cards": [
+          "0",
+          "1"
+        ]
+      }
+    },
+    {
+      "id": "p4ln7HKP",
+      "date": "2025-10-18T17:00:00.000Z",
+      "round": "Round 8",
+      "homeTeam": "MC Oran",
+      "awayTeam": "JS Saoura",
+      "homeScore": 1,
+      "awayScore": 1,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Yellow cards": [
+          "5",
+          "4"
+        ]
+      }
+    },
+    {
+      "id": "dr8iozb6",
+      "date": "2025-10-18T14:00:00.000Z",
+      "round": "Round 8",
+      "homeTeam": "ES Ben Aknoun",
+      "awayTeam": "CS Constantine",
+      "homeScore": 1,
+      "awayScore": 0,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Yellow cards": [
+          "1",
+          "2"
+        ]
+      }
+    },
+    {
+      "id": "bmQ4fvyK",
+      "date": "2025-10-17T17:00:00.000Z",
+      "round": "Round 8",
+      "homeTeam": "ES Mostaganem",
+      "awayTeam": "ASO Chlef",
+      "homeScore": 0,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Yellow cards": [
+          "5",
+          "5"
+        ]
+      }
+    },
+    {
+      "id": "hA10qESI",
+      "date": "2025-10-17T14:00:00.000Z",
+      "round": "Round 8",
+      "homeTeam": "Olympique Akbou",
+      "awayTeam": "MC El Bayadh",
+      "homeScore": 1,
+      "awayScore": 0,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Yellow cards": [
+          "2",
+          "3"
+        ],
+        "Red cards": [
+          "0",
+          "1"
+        ]
+      }
+    },
+    {
+      "id": "nNLdfJJM",
+      "date": "2025-10-04T17:00:00.000Z",
+      "round": "Round 7",
+      "homeTeam": "MC Alger",
+      "awayTeam": "ES Mostaganem",
+      "homeScore": 1,
+      "awayScore": 0,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Yellow cards": [
+          "0",
+          "1"
+        ]
+      }
+    },
+    {
+      "id": "CW33jAIl",
+      "date": "2025-10-04T16:45:00.000Z",
+      "round": "Round 7",
+      "homeTeam": "CS Constantine",
+      "awayTeam": "USM Alger",
+      "homeScore": 1,
+      "awayScore": 1,
+      "htHome": 1,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Yellow cards": [
+          "2",
+          "3"
+        ]
+      }
+    },
+    {
+      "id": "6RhNAv43",
+      "date": "2025-10-04T16:00:00.000Z",
+      "round": "Round 7",
+      "homeTeam": "JS Saoura",
+      "awayTeam": "Olympique Akbou",
+      "homeScore": 3,
+      "awayScore": 2,
+      "htHome": 1,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Yellow cards": [
+          "5",
+          "5"
+        ]
+      }
+    },
+    {
+      "id": "tCeKnSHD",
+      "date": "2025-10-04T15:00:00.000Z",
+      "round": "Round 7",
+      "homeTeam": "ES Setif",
+      "awayTeam": "ASO Chlef",
+      "homeScore": 1,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Yellow cards": [
+          "2",
+          "2"
+        ]
+      }
+    },
+    {
+      "id": "StsW8IYF",
+      "date": "2025-10-04T14:00:00.000Z",
+      "round": "Round 7",
+      "homeTeam": "MC El Bayadh",
+      "awayTeam": "ES Ben Aknoun",
+      "homeScore": 1,
+      "awayScore": 2,
+      "htHome": 0,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Yellow cards": [
+          "1",
+          "5"
+        ],
+        "Red cards": [
+          "0",
+          "1"
+        ]
+      }
+    },
+    {
+      "id": "vL0ymyCd",
+      "date": "2025-10-04T14:00:00.000Z",
+      "round": "Round 7",
+      "homeTeam": "USM Khenchela",
+      "awayTeam": "MC Oran",
+      "homeScore": 2,
+      "awayScore": 0,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Yellow cards": [
+          "3",
+          "3"
+        ],
+        "Red cards": [
+          "0",
+          "1"
+        ]
+      }
+    },
+    {
+      "id": "8bcCllm1",
+      "date": "2025-10-03T17:00:00.000Z",
+      "round": "Round 7",
+      "homeTeam": "MB Rouissat",
+      "awayTeam": "CR Belouizdad",
+      "homeScore": 1,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Yellow cards": [
+          "3",
+          "3"
+        ]
+      }
+    },
+    {
+      "id": "rg7Slcsp",
+      "date": "2025-10-03T14:30:00.000Z",
+      "round": "Round 7",
+      "homeTeam": "Paradou AC",
+      "awayTeam": "JS Kabylie",
+      "homeScore": 1,
+      "awayScore": 2,
+      "htHome": 1,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Yellow cards": [
+          "1",
+          "1"
+        ]
+      }
+    },
+    {
+      "id": "WKtKNKro",
+      "date": "2025-09-29T17:00:00.000Z",
+      "round": "Round 6",
+      "homeTeam": "ES Mostaganem",
+      "awayTeam": "ES Setif",
+      "homeScore": 1,
+      "awayScore": 0,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Yellow cards": [
+          "2",
+          "5"
+        ]
+      }
+    },
+    {
+      "id": "S6QMstzH",
+      "date": "2025-09-29T15:00:00.000Z",
+      "round": "Round 6",
+      "homeTeam": "USM Alger",
+      "awayTeam": "MC El Bayadh",
+      "homeScore": 1,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Yellow cards": [
+          "2",
+          "1"
+        ]
+      }
+    },
+    {
+      "id": "fgSEq254",
+      "date": "2025-09-28T15:00:00.000Z",
+      "round": "Round 6",
+      "homeTeam": "CR Belouizdad",
+      "awayTeam": "CS Constantine",
+      "homeScore": 2,
+      "awayScore": 2,
+      "htHome": 1,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Yellow cards": [
+          "1",
+          "1"
+        ]
+      }
+    },
+    {
+      "id": "IiXgzbSj",
+      "date": "2025-09-28T15:00:00.000Z",
+      "round": "Round 6",
+      "homeTeam": "Olympique Akbou",
+      "awayTeam": "USM Khenchela",
+      "homeScore": 1,
+      "awayScore": 1,
+      "htHome": 1,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Yellow cards": [
+          "2",
+          "3"
+        ]
+      }
+    },
+    {
+      "id": "bmAtb1Kc",
+      "date": "2025-09-27T16:45:00.000Z",
+      "round": "Round 6",
+      "homeTeam": "MC Oran",
+      "awayTeam": "Paradou AC",
+      "homeScore": 3,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Yellow cards": [
+          "2",
+          "0"
+        ]
+      }
+    },
+    {
+      "id": "bRY5oOzh",
+      "date": "2025-09-27T16:00:00.000Z",
+      "round": "Round 6",
+      "homeTeam": "ASO Chlef",
+      "awayTeam": "MB Rouissat",
+      "homeScore": 1,
+      "awayScore": 1,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Yellow cards": [
+          "1",
+          "2"
+        ]
+      }
+    },
+    {
+      "id": "n9tOuK4T",
+      "date": "2025-09-27T15:00:00.000Z",
+      "round": "Round 6",
+      "homeTeam": "ES Ben Aknoun",
+      "awayTeam": "JS Saoura",
+      "homeScore": 1,
+      "awayScore": 1,
+      "htHome": 1,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Yellow cards": [
+          "2",
+          "2"
+        ]
+      }
+    },
+    {
+      "id": "WxzjKoxg",
+      "date": "2025-09-24T18:00:00.000Z",
+      "round": "Round 5",
+      "homeTeam": "JS Kabylie",
+      "awayTeam": "ES Mostaganem",
+      "homeScore": 1,
+      "awayScore": 0,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Yellow cards": [
+          "4",
+          "2"
+        ]
+      }
+    },
+    {
+      "id": "CAAOYpin",
+      "date": "2025-09-20T16:30:00.000Z",
+      "round": "Round 5",
+      "homeTeam": "JS Saoura",
+      "awayTeam": "USM Alger",
+      "homeScore": 1,
+      "awayScore": 0,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Yellow cards": [
+          "7",
+          "4"
+        ],
+        "Red cards": [
+          "1",
+          "1"
+        ]
+      }
+    },
+    {
+      "id": "pO8WWOLb",
+      "date": "2025-09-20T15:00:00.000Z",
+      "round": "Round 5",
+      "homeTeam": "MC El Bayadh",
+      "awayTeam": "CR Belouizdad",
+      "homeScore": 1,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Yellow cards": [
+          "2",
+          "5"
+        ]
+      }
+    },
+    {
+      "id": "YquEEs6U",
+      "date": "2025-09-20T15:00:00.000Z",
+      "round": "Round 5",
+      "homeTeam": "USM Khenchela",
+      "awayTeam": "ES Ben Aknoun",
+      "homeScore": 1,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Yellow cards": [
+          "5",
+          "3"
+        ]
+      }
+    },
+    {
+      "id": "nm5mTtLN",
+      "date": "2025-09-19T19:00:00.000Z",
+      "round": "Round 5",
+      "homeTeam": "MB Rouissat",
+      "awayTeam": "ES Setif",
+      "homeScore": 3,
+      "awayScore": 0,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Yellow cards": [
+          "4",
+          "3"
+        ]
+      }
+    },
+    {
+      "id": "tj2uV2jB",
+      "date": "2025-09-19T16:45:00.000Z",
+      "round": "Round 5",
+      "homeTeam": "CS Constantine",
+      "awayTeam": "ASO Chlef",
+      "homeScore": 2,
+      "awayScore": 2,
+      "htHome": 0,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Yellow cards": [
+          "2",
+          "2"
+        ]
+      }
+    },
+    {
+      "id": "0IR6G3yI",
+      "date": "2025-09-19T15:00:00.000Z",
+      "round": "Round 5",
+      "homeTeam": "Paradou AC",
+      "awayTeam": "Olympique Akbou",
+      "homeScore": 1,
+      "awayScore": 2,
+      "htHome": 0,
+      "htAway": 2,
+      "status": "FINISHED",
+      "stats": {
+        "Yellow cards": [
+          "1",
+          "4"
+        ]
+      }
+    },
+    {
+      "id": "pO8WWOLb",
+      "date": "2025-09-20T15:00:00.000Z",
+      "round": "Round 5",
+      "homeTeam": "MC El Bayadh",
+      "awayTeam": "CR Belouizdad",
+      "homeScore": 1,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Yellow cards": [
+          "2",
+          "5"
+        ]
+      }
+    },
+    {
+      "id": "YquEEs6U",
+      "date": "2025-09-20T15:00:00.000Z",
+      "round": "Round 5",
+      "homeTeam": "USM Khenchela",
+      "awayTeam": "ES Ben Aknoun",
+      "homeScore": 1,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Yellow cards": [
+          "5",
+          "3"
+        ]
+      }
+    },
+    {
+      "id": "nm5mTtLN",
+      "date": "2025-09-19T19:00:00.000Z",
+      "round": "Round 5",
+      "homeTeam": "MB Rouissat",
+      "awayTeam": "ES Setif",
+      "homeScore": 3,
+      "awayScore": 0,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Yellow cards": [
+          "4",
+          "3"
+        ]
+      }
+    },
+    {
+      "id": "tj2uV2jB",
+      "date": "2025-09-19T16:45:00.000Z",
+      "round": "Round 5",
+      "homeTeam": "CS Constantine",
+      "awayTeam": "ASO Chlef",
+      "homeScore": 2,
+      "awayScore": 2,
+      "htHome": 0,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Yellow cards": [
+          "2",
+          "2"
+        ]
+      }
+    },
+    {
+      "id": "0IR6G3yI",
+      "date": "2025-09-19T15:00:00.000Z",
+      "round": "Round 5",
+      "homeTeam": "Paradou AC",
+      "awayTeam": "Olympique Akbou",
+      "homeScore": 1,
+      "awayScore": 2,
+      "htHome": 0,
+      "htAway": 2,
+      "status": "FINISHED",
+      "stats": {
+        "Yellow cards": [
+          "1",
+          "4"
+        ]
+      }
+    },
+    {
+      "id": "v3wbIP65",
+      "date": "2025-09-16T18:00:00.000Z",
+      "round": "Round 5",
+      "homeTeam": "MC Alger",
+      "awayTeam": "MC Oran",
+      "homeScore": 3,
+      "awayScore": 2,
+      "htHome": 2,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Yellow cards": [
+          "3",
+          "3"
+        ],
+        "Red cards": [
+          "1",
+          "0"
+        ]
+      }
+    },
+    {
+      "id": "bocrOfwR",
+      "date": "2025-09-13T18:00:00.000Z",
+      "round": "Round 4",
+      "homeTeam": "CR Belouizdad",
+      "awayTeam": "JS Saoura",
+      "homeScore": 1,
+      "awayScore": 2,
+      "htHome": 1,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Yellow cards": [
+          "2",
+          "1"
+        ]
+      }
+    },
+    {
+      "id": "rJYEIY0l",
+      "date": "2025-09-13T18:00:00.000Z",
+      "round": "Round 4",
+      "homeTeam": "USM Alger",
+      "awayTeam": "USM Khenchela",
+      "homeScore": 1,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Yellow cards": [
+          "1",
+          "1"
+        ]
+      }
+    },
+    {
+      "id": "jLgzQG8E",
+      "date": "2025-09-13T16:00:00.000Z",
+      "round": "Round 4",
+      "homeTeam": "ASO Chlef",
+      "awayTeam": "MC El Bayadh",
+      "homeScore": 2,
+      "awayScore": 0,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Yellow cards": [
+          "4",
+          "3"
+        ]
+      }
+    },
+    {
+      "id": "zBtsM77t",
+      "date": "2025-09-12T18:00:00.000Z",
+      "round": "Round 4",
+      "homeTeam": "MC Oran",
+      "awayTeam": "JS Kabylie",
+      "homeScore": 2,
+      "awayScore": 0,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Yellow cards": [
+          "5",
+          "5"
+        ]
+      }
+    },
+    {
+      "id": "jqxNGCV0",
+      "date": "2025-09-12T15:00:00.000Z",
+      "round": "Round 4",
+      "homeTeam": "ES Ben Aknoun",
+      "awayTeam": "Paradou AC",
+      "homeScore": 1,
+      "awayScore": 0,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Yellow cards": [
+          "4",
+          "4"
+        ]
+      }
+    },
+    {
+      "id": "prVVEj0D",
+      "date": "2025-09-12T15:00:00.000Z",
+      "round": "Round 4",
+      "homeTeam": "Olympique Akbou",
+      "awayTeam": "MC Alger",
+      "homeScore": 0,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Yellow cards": [
+          "2",
+          "3"
+        ]
+      }
+    },
+    {
+      "id": "vPjm4Zoe",
+      "date": "2025-09-11T18:00:00.000Z",
+      "round": "Round 4",
+      "homeTeam": "ES Mostaganem",
+      "awayTeam": "MB Rouissat",
+      "homeScore": 1,
+      "awayScore": 1,
+      "htHome": 1,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Yellow cards": [
+          "2",
+          "2"
+        ]
+      }
+    },
+    {
+      "id": "Cxke2DG7",
+      "date": "2025-09-11T16:45:00.000Z",
+      "round": "Round 4",
+      "homeTeam": "ES Setif",
+      "awayTeam": "CS Constantine",
+      "homeScore": 2,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Yellow cards": [
+          "5",
+          "2"
+        ]
+      }
+    },
+    {
+      "id": "jowRbvAF",
+      "date": "2025-09-06T18:00:00.000Z",
+      "round": "Round 3",
+      "homeTeam": "JS Kabylie",
+      "awayTeam": "Olympique Akbou",
+      "homeScore": 0,
+      "awayScore": 0,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Yellow cards": [
+          "2",
+          "3"
+        ]
+      }
+    },
+    {
+      "id": "vBBEkzX1",
+      "date": "2025-09-06T16:00:00.000Z",
+      "round": "Round 3",
+      "homeTeam": "USM Khenchela",
+      "awayTeam": "CR Belouizdad",
+      "homeScore": 1,
+      "awayScore": 1,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Yellow cards": [
+          "4",
+          "4"
+        ]
+      }
+    },
+    {
+      "id": "nDWZdIvS",
+      "date": "2025-09-06T16:00:00.000Z",
+      "round": "Round 3",
+      "homeTeam": "Paradou AC",
+      "awayTeam": "USM Alger",
+      "homeScore": 0,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Yellow cards": [
+          "3",
+          "3"
+        ]
+      }
+    },
+    {
+      "id": "jaIaDwP8",
+      "date": "2025-09-05T19:00:00.000Z",
+      "round": "Round 3",
+      "homeTeam": "JS Saoura",
+      "awayTeam": "ASO Chlef",
+      "homeScore": 1,
+      "awayScore": 0,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Yellow cards": [
+          "0",
+          "2"
+        ]
+      }
+    },
+    {
+      "id": "4UvJ00u3",
+      "date": "2025-09-05T18:00:00.000Z",
+      "round": "Round 3",
+      "homeTeam": "MC Oran",
+      "awayTeam": "ES Mostaganem",
+      "homeScore": 0,
+      "awayScore": 0,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Yellow cards": [
+          "2",
+          "4"
+        ]
+      }
+    },
+    {
+      "id": "rccv6eHr",
+      "date": "2025-09-05T17:00:00.000Z",
+      "round": "Round 3",
+      "homeTeam": "CS Constantine",
+      "awayTeam": "MB Rouissat",
+      "homeScore": 2,
+      "awayScore": 0,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Yellow cards": [
+          "4",
+          "2"
+        ]
+      }
+    },
+    {
+      "id": "CE68BHgL",
+      "date": "2025-09-05T16:00:00.000Z",
+      "round": "Round 3",
+      "homeTeam": "MC El Bayadh",
+      "awayTeam": "ES Setif",
+      "homeScore": 1,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Yellow cards": [
+          "0",
+          "5"
+        ],
+        "Red cards": [
+          "0",
+          "1"
+        ]
+      }
+    },
+    {
+      "id": "dOHipueM",
+      "date": "2025-08-31T18:00:00.000Z",
+      "round": "Round 2",
+      "homeTeam": "USM Alger",
+      "awayTeam": "MC Alger",
+      "homeScore": 0,
+      "awayScore": 0,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Yellow cards": [
+          "2",
+          "2"
+        ]
+      }
+    },
+    {
+      "id": "G8bOvJIq",
+      "date": "2025-08-31T16:00:00.000Z",
+      "round": "Round 2",
+      "homeTeam": "ES Ben Aknoun",
+      "awayTeam": "JS Kabylie",
+      "homeScore": 1,
+      "awayScore": 1,
+      "htHome": 1,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Yellow cards": [
+          "0",
+          "3"
+        ]
+      }
+    },
+    {
+      "id": "UBQzlNec",
+      "date": "2025-08-30T18:00:00.000Z",
+      "round": "Round 2",
+      "homeTeam": "ASO Chlef",
+      "awayTeam": "USM Khenchela",
+      "homeScore": 1,
+      "awayScore": 2,
+      "htHome": 0,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Yellow cards": [
+          "1",
+          "3"
+        ]
+      }
+    },
+    {
+      "id": "ziI8plk5",
+      "date": "2025-08-30T18:00:00.000Z",
+      "round": "Round 2",
+      "homeTeam": "ES Mostaganem",
+      "awayTeam": "CS Constantine",
+      "homeScore": 2,
+      "awayScore": 0,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Yellow cards": [
+          "4",
+          "3"
+        ]
+      }
+    },
+    {
+      "id": "OAJqn1Q9",
+      "date": "2025-08-30T16:00:00.000Z",
+      "round": "Round 2",
+      "homeTeam": "CR Belouizdad",
+      "awayTeam": "Paradou AC",
+      "homeScore": 1,
+      "awayScore": 0,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Yellow cards": [
+          "4",
+          "1"
+        ]
+      }
+    },
+    {
+      "id": "rHLGrSJH",
+      "date": "2025-08-29T19:00:00.000Z",
+      "round": "Round 2",
+      "homeTeam": "MB Rouissat",
+      "awayTeam": "MC El Bayadh",
+      "homeScore": 1,
+      "awayScore": 0,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Yellow cards": [
+          "3",
+          "3"
+        ]
+      }
+    },
+    {
+      "id": "25YlQJ3j",
+      "date": "2025-08-29T18:00:00.000Z",
+      "round": "Round 2",
+      "homeTeam": "ES Setif",
+      "awayTeam": "JS Saoura",
+      "homeScore": 1,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Yellow cards": [
+          "2",
+          "6"
+        ]
+      }
+    },
+    {
+      "id": "OY1Wxcmd",
+      "date": "2025-08-29T16:00:00.000Z",
+      "round": "Round 2",
+      "homeTeam": "Olympique Akbou",
+      "awayTeam": "MC Oran",
+      "homeScore": 1,
+      "awayScore": 0,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Yellow cards": [
+          "4",
+          "2"
+        ],
+        "Red cards": [
+          "1",
+          "0"
+        ]
+      }
+    },
+    {
+      "id": "GWWipKwP",
+      "date": "2025-08-23T16:00:00.000Z",
+      "round": "Round 1",
+      "homeTeam": "USM Khenchela",
+      "awayTeam": "ES Setif",
+      "homeScore": 1,
+      "awayScore": 1,
+      "htHome": 1,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Yellow cards": [
+          "1",
+          "3"
+        ]
+      }
+    },
+    {
+      "id": "86Tqnt9C",
+      "date": "2025-08-23T16:00:00.000Z",
+      "round": "Round 1",
+      "homeTeam": "Paradou AC",
+      "awayTeam": "ASO Chlef",
+      "homeScore": 0,
+      "awayScore": 0,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Yellow cards": [
+          "0",
+          "1"
+        ]
+      }
+    },
+    {
+      "id": "Uwm8nAKh",
+      "date": "2025-08-22T16:00:00.000Z",
+      "round": "Round 1",
+      "homeTeam": "MC El Bayadh",
+      "awayTeam": "CS Constantine",
+      "homeScore": 0,
+      "awayScore": 2,
+      "htHome": 0,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Yellow cards": [
+          "1",
+          "3"
+        ]
+      }
+    },
+    {
+      "id": "UF8AXtfJ",
+      "date": "2025-08-22T16:00:00.000Z",
+      "round": "Round 1",
+      "homeTeam": "Olympique Akbou",
+      "awayTeam": "ES Mostaganem",
+      "homeScore": 1,
+      "awayScore": 0,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Yellow cards": [
+          "1",
+          "5"
+        ],
+        "Red cards": [
+          "0",
+          "1"
+        ]
+      }
+    },
+    {
+      "id": "dQl0lWkt",
+      "date": "2025-08-21T19:00:00.000Z",
+      "round": "Round 1",
+      "homeTeam": "JS Saoura",
+      "awayTeam": "MB Rouissat",
+      "homeScore": 1,
+      "awayScore": 2,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Yellow cards": [
+          "2",
+          "3"
+        ]
+      }
+    },
+    {
+      "id": "M9edepnQ",
+      "date": "2025-08-21T17:00:00.000Z",
+      "round": "Round 1",
+      "homeTeam": "MC Oran",
+      "awayTeam": "ES Ben Aknoun",
+      "homeScore": 2,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Yellow cards": [
+          "2",
+          "0"
+        ]
+      }
+    }
+  ]
+}

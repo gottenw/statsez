@@ -1,0 +1,597 @@
+{
+  "league": "Premier Division",
+  "country": "ireland",
+  "season": "2026",
+  "collectedAt": "2026-02-10T18:18:07.720Z",
+  "totalMatches": 4,
+  "matches": [
+    {
+      "id": "EgRbQlSp",
+      "date": "2026-02-08T14:00:00.000Z",
+      "round": "Round 1",
+      "homeTeam": "Bohemians",
+      "awayTeam": "St. Patricks",
+      "homeScore": 0,
+      "awayScore": 0,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Expected goals (xG)": [
+          "0.53",
+          "0.26"
+        ],
+        "Ball possession": [
+          "54%",
+          "46%"
+        ],
+        "Total shots": [
+          "6",
+          "8"
+        ],
+        "Shots on target": [
+          "4",
+          "2"
+        ],
+        "Big chances": [
+          "1",
+          "0"
+        ],
+        "Corner kicks": [
+          "2",
+          "4"
+        ],
+        "Passes": [
+          "83% (407/490)",
+          "78% (324/415)"
+        ],
+        "Yellow cards": [
+          "1",
+          "2"
+        ],
+        "xG on target (xGOT)": [
+          "0.36",
+          "0.04"
+        ],
+        "Shots off target": [
+          "1",
+          "4"
+        ],
+        "Blocked shots": [
+          "1",
+          "2"
+        ],
+        "Shots inside the box": [
+          "4",
+          "3"
+        ],
+        "Shots outside the box": [
+          "2",
+          "5"
+        ],
+        "Hit the woodwork": [
+          "0",
+          "0"
+        ],
+        "Touches in opposition box": [
+          "12",
+          "10"
+        ],
+        "Accurate through passes": [
+          "0",
+          "0"
+        ],
+        "Offsides": [
+          "2",
+          "0"
+        ],
+        "Free kicks": [
+          "10",
+          "11"
+        ],
+        "Long passes": [
+          "39% (17/44)",
+          "40% (24/60)"
+        ],
+        "Passes in final third": [
+          "63% (54/86)",
+          "53% (60/113)"
+        ],
+        "Crosses": [
+          "9% (1/11)",
+          "8% (1/13)"
+        ],
+        "Expected assists (xA)": [
+          "0.19",
+          "0.31"
+        ],
+        "Throw ins": [
+          "18",
+          "23"
+        ],
+        "Fouls": [
+          "11",
+          "10"
+        ],
+        "Tackles": [
+          "59% (13/22)",
+          "67% (12/18)"
+        ],
+        "Duels won": [
+          "51",
+          "45"
+        ],
+        "Clearances": [
+          "22",
+          "18"
+        ],
+        "Interceptions": [
+          "8",
+          "13"
+        ],
+        "Errors leading to shot": [
+          "0",
+          "1"
+        ],
+        "Errors leading to goal": [
+          "0",
+          "0"
+        ],
+        "Goalkeeper saves": [
+          "1",
+          "4"
+        ],
+        "xGOT faced": [
+          "0.04",
+          "0.36"
+        ],
+        "Goals prevented": [
+          "0.04",
+          "0.36"
+        ]
+      }
+    },
+    {
+      "id": "b3n1GKdE",
+      "date": "2026-02-06T20:00:00.000Z",
+      "round": "Round 1",
+      "homeTeam": "Derry City",
+      "awayTeam": "Sligo Rovers",
+      "homeScore": 2,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Expected goals (xG)": [
+          "2.03",
+          "0.72"
+        ],
+        "Ball possession": [
+          "67%",
+          "33%"
+        ],
+        "Total shots": [
+          "23",
+          "4"
+        ],
+        "Shots on target": [
+          "8",
+          "3"
+        ],
+        "Big chances": [
+          "2",
+          "1"
+        ],
+        "Corner kicks": [
+          "9",
+          "0"
+        ],
+        "Passes": [
+          "81% (441/547)",
+          "58% (159/276)"
+        ],
+        "Yellow cards": [
+          "2",
+          "1"
+        ],
+        "xG on target (xGOT)": [
+          "1.84",
+          "1.05"
+        ],
+        "Shots off target": [
+          "7",
+          "1"
+        ],
+        "Blocked shots": [
+          "8",
+          "0"
+        ],
+        "Shots inside the box": [
+          "12",
+          "2"
+        ],
+        "Shots outside the box": [
+          "11",
+          "2"
+        ],
+        "Hit the woodwork": [
+          "1",
+          "0"
+        ],
+        "Touches in opposition box": [
+          "26",
+          "6"
+        ],
+        "Accurate through passes": [
+          "0",
+          "0"
+        ],
+        "Offsides": [
+          "1",
+          "2"
+        ],
+        "Free kicks": [
+          "6",
+          "5"
+        ],
+        "Long passes": [
+          "41% (32/78)",
+          "19% (15/80)"
+        ],
+        "Passes in final third": [
+          "69% (150/216)",
+          "45% (30/66)"
+        ],
+        "Crosses": [
+          "21% (7/34)",
+          "33% (4/12)"
+        ],
+        "Expected assists (xA)": [
+          "1.43",
+          "0.60"
+        ],
+        "Throw ins": [
+          "31",
+          "13"
+        ],
+        "Fouls": [
+          "5",
+          "6"
+        ],
+        "Tackles": [
+          "92% (12/13)",
+          "73% (19/26)"
+        ],
+        "Duels won": [
+          "47",
+          "56"
+        ],
+        "Clearances": [
+          "24",
+          "38"
+        ],
+        "Interceptions": [
+          "2",
+          "13"
+        ],
+        "Errors leading to shot": [
+          "0",
+          "1"
+        ],
+        "Errors leading to goal": [
+          "0",
+          "0"
+        ],
+        "Goalkeeper saves": [
+          "2",
+          "6"
+        ],
+        "xGOT faced": [
+          "1.05",
+          "1.84"
+        ],
+        "Goals prevented": [
+          "0.05",
+          "-0.16"
+        ]
+      }
+    },
+    {
+      "id": "EVrCZh5b",
+      "date": "2026-02-06T19:45:00.000Z",
+      "round": "Round 1",
+      "homeTeam": "Galway",
+      "awayTeam": "Drogheda",
+      "homeScore": 0,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Expected goals (xG)": [
+          "2.49",
+          "0.86"
+        ],
+        "Ball possession": [
+          "52%",
+          "48%"
+        ],
+        "Total shots": [
+          "16",
+          "7"
+        ],
+        "Shots on target": [
+          "3",
+          "3"
+        ],
+        "Big chances": [
+          "4",
+          "0"
+        ],
+        "Corner kicks": [
+          "4",
+          "7"
+        ],
+        "Passes": [
+          "54% (154/283)",
+          "46% (123/267)"
+        ],
+        "Yellow cards": [
+          "2",
+          "2"
+        ],
+        "xG on target (xGOT)": [
+          "0.21",
+          "1.14"
+        ],
+        "Shots off target": [
+          "11",
+          "2"
+        ],
+        "Blocked shots": [
+          "2",
+          "2"
+        ],
+        "Shots inside the box": [
+          "14",
+          "6"
+        ],
+        "Shots outside the box": [
+          "2",
+          "1"
+        ],
+        "Hit the woodwork": [
+          "2",
+          "0"
+        ],
+        "Touches in opposition box": [
+          "29",
+          "21"
+        ],
+        "Accurate through passes": [
+          "0",
+          "0"
+        ],
+        "Offsides": [
+          "4",
+          "1"
+        ],
+        "Free kicks": [
+          "12",
+          "10"
+        ],
+        "Long passes": [
+          "31% (25/80)",
+          "20% (18/89)"
+        ],
+        "Passes in final third": [
+          "51% (75/146)",
+          "41% (42/102)"
+        ],
+        "Crosses": [
+          "26% (7/27)",
+          "13% (3/24)"
+        ],
+        "Expected assists (xA)": [
+          "1.28",
+          "1.15"
+        ],
+        "Throw ins": [
+          "29",
+          "29"
+        ],
+        "Fouls": [
+          "10",
+          "12"
+        ],
+        "Tackles": [
+          "76% (13/17)",
+          "67% (8/12)"
+        ],
+        "Duels won": [
+          "78",
+          "64"
+        ],
+        "Clearances": [
+          "44",
+          "31"
+        ],
+        "Interceptions": [
+          "7",
+          "8"
+        ],
+        "Errors leading to shot": [
+          "0",
+          "0"
+        ],
+        "Errors leading to goal": [
+          "0",
+          "0"
+        ],
+        "Goalkeeper saves": [
+          "2",
+          "3"
+        ],
+        "xGOT faced": [
+          "1.14",
+          "0.21"
+        ],
+        "Goals prevented": [
+          "0.14",
+          "0.21"
+        ]
+      }
+    },
+    {
+      "id": "nqsKXWZA",
+      "date": "2026-02-06T19:45:00.000Z",
+      "round": "Round 1",
+      "homeTeam": "Waterford",
+      "awayTeam": "Shelbourne",
+      "homeScore": 1,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Expected goals (xG)": [
+          "0.30",
+          "1.46"
+        ],
+        "Ball possession": [
+          "33%",
+          "67%"
+        ],
+        "Total shots": [
+          "6",
+          "24"
+        ],
+        "Shots on target": [
+          "2",
+          "5"
+        ],
+        "Big chances": [
+          "0",
+          "2"
+        ],
+        "Corner kicks": [
+          "2",
+          "8"
+        ],
+        "Passes": [
+          "63% (141/225)",
+          "81% (368/457)"
+        ],
+        "Yellow cards": [
+          "5",
+          "2"
+        ],
+        "xG on target (xGOT)": [
+          "0.53",
+          "1.39"
+        ],
+        "Shots off target": [
+          "2",
+          "13"
+        ],
+        "Blocked shots": [
+          "2",
+          "6"
+        ],
+        "Shots inside the box": [
+          "3",
+          "18"
+        ],
+        "Shots outside the box": [
+          "3",
+          "6"
+        ],
+        "Hit the woodwork": [
+          "0",
+          "0"
+        ],
+        "Headed goals": [
+          "1",
+          "0"
+        ],
+        "Touches in opposition box": [
+          "12",
+          "42"
+        ],
+        "Accurate through passes": [
+          "0",
+          "0"
+        ],
+        "Offsides": [
+          "2",
+          "1"
+        ],
+        "Free kicks": [
+          "10",
+          "10"
+        ],
+        "Long passes": [
+          "53% (36/68)",
+          "58% (46/79)"
+        ],
+        "Passes in final third": [
+          "47% (38/81)",
+          "69% (120/174)"
+        ],
+        "Crosses": [
+          "15% (2/13)",
+          "37% (13/35)"
+        ],
+        "Expected assists (xA)": [
+          "0.51",
+          "1.68"
+        ],
+        "Throw ins": [
+          "22",
+          "27"
+        ],
+        "Fouls": [
+          "10",
+          "10"
+        ],
+        "Tackles": [
+          "77% (10/13)",
+          "88% (7/8)"
+        ],
+        "Duels won": [
+          "47",
+          "46"
+        ],
+        "Clearances": [
+          "43",
+          "21"
+        ],
+        "Interceptions": [
+          "9",
+          "6"
+        ],
+        "Errors leading to shot": [
+          "0",
+          "0"
+        ],
+        "Errors leading to goal": [
+          "0",
+          "0"
+        ],
+        "Goalkeeper saves": [
+          "4",
+          "1"
+        ],
+        "xGOT faced": [
+          "1.39",
+          "0.53"
+        ],
+        "Goals prevented": [
+          "0.39",
+          "-0.47"
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,3902 @@
+{
+  "league": "National",
+  "country": "france",
+  "season": "2025-2026",
+  "collectedAt": "2026-02-10T16:44:38.227Z",
+  "totalMatches": 171,
+  "matches": [
+    {
+      "id": "MuQWcaro",
+      "date": "2026-02-06T18:30:00.000Z",
+      "round": "Round 20",
+      "homeTeam": "Bourg-Peronnas",
+      "awayTeam": "Le Puy",
+      "homeScore": 1,
+      "awayScore": 0,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "38%",
+          "62%"
+        ],
+        "Total shots": [
+          "13",
+          "7"
+        ],
+        "Shots on target": [
+          "8",
+          "4"
+        ],
+        "Corner kicks": [
+          "7",
+          "8"
+        ],
+        "Yellow cards": [
+          "3",
+          "1"
+        ],
+        "Shots off target": [
+          "5",
+          "3"
+        ]
+      }
+    },
+    {
+      "id": "OvuzGb4T",
+      "date": "2026-02-06T18:30:00.000Z",
+      "round": "Round 20",
+      "homeTeam": "Caen",
+      "awayTeam": "FC Fleury 91",
+      "homeScore": 1,
+      "awayScore": 0,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "51%",
+          "49%"
+        ],
+        "Total shots": [
+          "8",
+          "5"
+        ],
+        "Shots on target": [
+          "4",
+          "3"
+        ],
+        "Corner kicks": [
+          "7",
+          "4"
+        ],
+        "Yellow cards": [
+          "2",
+          "2"
+        ],
+        "Red cards": [
+          "0",
+          "1"
+        ],
+        "Shots off target": [
+          "4",
+          "2"
+        ]
+      }
+    },
+    {
+      "id": "x8l03LKN",
+      "date": "2026-02-06T18:30:00.000Z",
+      "round": "Round 20",
+      "homeTeam": "Concarneau",
+      "awayTeam": "Aubagne",
+      "homeScore": 1,
+      "awayScore": 0,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "44%",
+          "56%"
+        ],
+        "Total shots": [
+          "6",
+          "2"
+        ],
+        "Shots on target": [
+          "3",
+          "1"
+        ],
+        "Corner kicks": [
+          "3",
+          "4"
+        ],
+        "Yellow cards": [
+          "3",
+          "5"
+        ],
+        "Shots off target": [
+          "3",
+          "1"
+        ]
+      }
+    },
+    {
+      "id": "pEBRJt54",
+      "date": "2026-02-06T18:30:00.000Z",
+      "round": "Round 20",
+      "homeTeam": "US Orleans 45",
+      "awayTeam": "Chateauroux",
+      "homeScore": 2,
+      "awayScore": 2,
+      "htHome": 1,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "49%",
+          "51%"
+        ],
+        "Total shots": [
+          "9",
+          "9"
+        ],
+        "Shots on target": [
+          "5",
+          "6"
+        ],
+        "Corner kicks": [
+          "3",
+          "2"
+        ],
+        "Yellow cards": [
+          "1",
+          "4"
+        ],
+        "Red cards": [
+          "0",
+          "1"
+        ],
+        "Shots off target": [
+          "4",
+          "3"
+        ]
+      }
+    },
+    {
+      "id": "IR9ZHKZG",
+      "date": "2026-02-06T18:30:00.000Z",
+      "round": "Round 20",
+      "homeTeam": "Paris 13 Atletico",
+      "awayTeam": "Dijon",
+      "homeScore": 1,
+      "awayScore": 4,
+      "htHome": 0,
+      "htAway": 2,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "50%",
+          "50%"
+        ],
+        "Total shots": [
+          "5",
+          "9"
+        ],
+        "Shots on target": [
+          "4",
+          "8"
+        ],
+        "Corner kicks": [
+          "4",
+          "5"
+        ],
+        "Yellow cards": [
+          "2",
+          "2"
+        ],
+        "Shots off target": [
+          "1",
+          "1"
+        ]
+      }
+    },
+    {
+      "id": "lnIIL2zh",
+      "date": "2026-02-06T18:30:00.000Z",
+      "round": "Round 20",
+      "homeTeam": "Rouen",
+      "awayTeam": "Valenciennes",
+      "homeScore": 1,
+      "awayScore": 2,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "56%",
+          "44%"
+        ],
+        "Total shots": [
+          "8",
+          "6"
+        ],
+        "Shots on target": [
+          "4",
+          "5"
+        ],
+        "Corner kicks": [
+          "9",
+          "2"
+        ],
+        "Yellow cards": [
+          "1",
+          "3"
+        ],
+        "Shots off target": [
+          "4",
+          "1"
+        ]
+      }
+    },
+    {
+      "id": "fNV5AxSj",
+      "date": "2026-02-06T18:30:00.000Z",
+      "round": "Round 20",
+      "homeTeam": "Stade Briochin",
+      "awayTeam": "Sochaux",
+      "homeScore": 1,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "44%",
+          "56%"
+        ],
+        "Total shots": [
+          "5",
+          "6"
+        ],
+        "Shots on target": [
+          "5",
+          "3"
+        ],
+        "Corner kicks": [
+          "6",
+          "3"
+        ],
+        "Yellow cards": [
+          "5",
+          "4"
+        ],
+        "Shots off target": [
+          "0",
+          "3"
+        ]
+      }
+    },
+    {
+      "id": "zJ8hYuKc",
+      "date": "2026-02-06T18:30:00.000Z",
+      "round": "Round 20",
+      "homeTeam": "Villefranche",
+      "awayTeam": "Versailles 78",
+      "homeScore": 1,
+      "awayScore": 0,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "53%",
+          "47%"
+        ],
+        "Total shots": [
+          "11",
+          "10"
+        ],
+        "Shots on target": [
+          "5",
+          "3"
+        ],
+        "Corner kicks": [
+          "3",
+          "8"
+        ],
+        "Yellow cards": [
+          "1",
+          "2"
+        ],
+        "Red cards": [
+          "0",
+          "1"
+        ],
+        "Shots off target": [
+          "6",
+          "7"
+        ]
+      }
+    },
+    {
+      "id": "zqhq73Lb",
+      "date": "2026-01-31T16:30:00.000Z",
+      "round": "Round 19",
+      "homeTeam": "Valenciennes",
+      "awayTeam": "US Orleans 45",
+      "homeScore": 0,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "53%",
+          "47%"
+        ],
+        "Total shots": [
+          "11",
+          "5"
+        ],
+        "Shots on target": [
+          "3",
+          "1"
+        ],
+        "Corner kicks": [
+          "7",
+          "2"
+        ],
+        "Yellow cards": [
+          "2",
+          "0"
+        ],
+        "Shots off target": [
+          "8",
+          "4"
+        ]
+      }
+    },
+    {
+      "id": "GYyAh465",
+      "date": "2026-01-30T18:30:00.000Z",
+      "round": "Round 19",
+      "homeTeam": "Chateauroux",
+      "awayTeam": "Le Puy",
+      "homeScore": 0,
+      "awayScore": 2,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "42%",
+          "58%"
+        ],
+        "Total shots": [
+          "8",
+          "6"
+        ],
+        "Shots on target": [
+          "1",
+          "3"
+        ],
+        "Corner kicks": [
+          "5",
+          "7"
+        ],
+        "Yellow cards": [
+          "2",
+          "1"
+        ],
+        "Red cards": [
+          "1",
+          "0"
+        ],
+        "Shots off target": [
+          "7",
+          "3"
+        ]
+      }
+    },
+    {
+      "id": "Ctugdn7t",
+      "date": "2026-01-30T18:30:00.000Z",
+      "round": "Round 19",
+      "homeTeam": "Concarneau",
+      "awayTeam": "Bourg-Peronnas",
+      "homeScore": 0,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "60%",
+          "40%"
+        ],
+        "Total shots": [
+          "11",
+          "5"
+        ],
+        "Shots on target": [
+          "6",
+          "4"
+        ],
+        "Corner kicks": [
+          "6",
+          "2"
+        ],
+        "Yellow cards": [
+          "0",
+          "2"
+        ],
+        "Shots off target": [
+          "5",
+          "1"
+        ]
+      }
+    },
+    {
+      "id": "88Y1fQyg",
+      "date": "2026-01-30T18:30:00.000Z",
+      "round": "Round 19",
+      "homeTeam": "Dijon",
+      "awayTeam": "Stade Briochin",
+      "homeScore": 0,
+      "awayScore": 0,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "59%",
+          "41%"
+        ],
+        "Total shots": [
+          "14",
+          "5"
+        ],
+        "Shots on target": [
+          "3",
+          "3"
+        ],
+        "Corner kicks": [
+          "12",
+          "6"
+        ],
+        "Yellow cards": [
+          "0",
+          "3"
+        ],
+        "Shots off target": [
+          "11",
+          "2"
+        ]
+      }
+    },
+    {
+      "id": "xlQIjryI",
+      "date": "2026-01-30T18:30:00.000Z",
+      "round": "Round 19",
+      "homeTeam": "FC Fleury 91",
+      "awayTeam": "Paris 13 Atletico",
+      "homeScore": 1,
+      "awayScore": 0,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "54%",
+          "46%"
+        ],
+        "Total shots": [
+          "7",
+          "7"
+        ],
+        "Shots on target": [
+          "4",
+          "1"
+        ],
+        "Corner kicks": [
+          "3",
+          "2"
+        ],
+        "Yellow cards": [
+          "1",
+          "4"
+        ],
+        "Shots off target": [
+          "3",
+          "6"
+        ]
+      }
+    },
+    {
+      "id": "2Vgy9Pjn",
+      "date": "2026-01-30T18:30:00.000Z",
+      "round": "Round 19",
+      "homeTeam": "US Quevilly",
+      "awayTeam": "Villefranche",
+      "homeScore": 1,
+      "awayScore": 2,
+      "htHome": 0,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "49%",
+          "51%"
+        ],
+        "Total shots": [
+          "5",
+          "10"
+        ],
+        "Shots on target": [
+          "3",
+          "5"
+        ],
+        "Corner kicks": [
+          "6",
+          "6"
+        ],
+        "Yellow cards": [
+          "2",
+          "1"
+        ],
+        "Shots off target": [
+          "2",
+          "5"
+        ]
+      }
+    },
+    {
+      "id": "O4OQlM5U",
+      "date": "2026-01-30T18:30:00.000Z",
+      "round": "Round 19",
+      "homeTeam": "Sochaux",
+      "awayTeam": "Rouen",
+      "homeScore": 1,
+      "awayScore": 1,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "50%",
+          "50%"
+        ],
+        "Total shots": [
+          "9",
+          "8"
+        ],
+        "Shots on target": [
+          "5",
+          "4"
+        ],
+        "Corner kicks": [
+          "6",
+          "9"
+        ],
+        "Yellow cards": [
+          "2",
+          "1"
+        ],
+        "Shots off target": [
+          "4",
+          "4"
+        ]
+      }
+    },
+    {
+      "id": "WAoh5sjB",
+      "date": "2026-01-30T18:30:00.000Z",
+      "round": "Round 19",
+      "homeTeam": "Versailles 78",
+      "awayTeam": "Caen",
+      "homeScore": 2,
+      "awayScore": 1,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "38%",
+          "62%"
+        ],
+        "Total shots": [
+          "4",
+          "3"
+        ],
+        "Shots on target": [
+          "3",
+          "3"
+        ],
+        "Corner kicks": [
+          "4",
+          "4"
+        ],
+        "Yellow cards": [
+          "2",
+          "1"
+        ],
+        "Shots off target": [
+          "1",
+          "0"
+        ]
+      }
+    },
+    {
+      "id": "Uqz0vEoe",
+      "date": "2026-01-24T17:00:00.000Z",
+      "round": "Round 18",
+      "homeTeam": "Rouen",
+      "awayTeam": "Dijon",
+      "homeScore": 0,
+      "awayScore": 0,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "48%",
+          "52%"
+        ],
+        "Total shots": [
+          "5",
+          "5"
+        ],
+        "Shots on target": [
+          "1",
+          "3"
+        ],
+        "Corner kicks": [
+          "6",
+          "3"
+        ],
+        "Yellow cards": [
+          "1",
+          "1"
+        ],
+        "Shots off target": [
+          "4",
+          "2"
+        ]
+      }
+    },
+    {
+      "id": "YHtitzHr",
+      "date": "2026-01-23T18:30:00.000Z",
+      "round": "Round 18",
+      "homeTeam": "Bourg-Peronnas",
+      "awayTeam": "Chateauroux",
+      "homeScore": 1,
+      "awayScore": 1,
+      "htHome": 1,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "44%",
+          "56%"
+        ],
+        "Total shots": [
+          "5",
+          "8"
+        ],
+        "Shots on target": [
+          "2",
+          "3"
+        ],
+        "Corner kicks": [
+          "3",
+          "3"
+        ],
+        "Yellow cards": [
+          "2",
+          "1"
+        ],
+        "Shots off target": [
+          "3",
+          "5"
+        ]
+      }
+    },
+    {
+      "id": "8fgTuRMa",
+      "date": "2026-01-23T18:30:00.000Z",
+      "round": "Round 18",
+      "homeTeam": "Caen",
+      "awayTeam": "US Quevilly",
+      "homeScore": 0,
+      "awayScore": 0,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "53%",
+          "47%"
+        ],
+        "Total shots": [
+          "4",
+          "4"
+        ],
+        "Shots on target": [
+          "1",
+          "2"
+        ],
+        "Corner kicks": [
+          "3",
+          "2"
+        ],
+        "Yellow cards": [
+          "2",
+          "1"
+        ],
+        "Red cards": [
+          "1",
+          "0"
+        ],
+        "Shots off target": [
+          "3",
+          "2"
+        ]
+      }
+    },
+    {
+      "id": "2cY7xhG7",
+      "date": "2026-01-23T18:30:00.000Z",
+      "round": "Round 18",
+      "homeTeam": "Le Puy",
+      "awayTeam": "Valenciennes",
+      "homeScore": 3,
+      "awayScore": 0,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "57%",
+          "43%"
+        ],
+        "Total shots": [
+          "11",
+          "6"
+        ],
+        "Shots on target": [
+          "6",
+          "2"
+        ],
+        "Corner kicks": [
+          "6",
+          "2"
+        ],
+        "Yellow cards": [
+          "1",
+          "0"
+        ],
+        "Shots off target": [
+          "5",
+          "4"
+        ]
+      }
+    },
+    {
+      "id": "ttwm0e8E",
+      "date": "2026-01-23T18:30:00.000Z",
+      "round": "Round 18",
+      "homeTeam": "US Orleans 45",
+      "awayTeam": "Sochaux",
+      "homeScore": 1,
+      "awayScore": 2,
+      "htHome": 0,
+      "htAway": 2,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "44%",
+          "56%"
+        ],
+        "Total shots": [
+          "4",
+          "4"
+        ],
+        "Shots on target": [
+          "2",
+          "2"
+        ],
+        "Corner kicks": [
+          "3",
+          "4"
+        ],
+        "Yellow cards": [
+          "3",
+          "2"
+        ],
+        "Red cards": [
+          "1",
+          "0"
+        ],
+        "Shots off target": [
+          "2",
+          "2"
+        ]
+      }
+    },
+    {
+      "id": "nu5Ksmhm",
+      "date": "2026-01-23T18:30:00.000Z",
+      "round": "Round 18",
+      "homeTeam": "Paris 13 Atletico",
+      "awayTeam": "Versailles 78",
+      "homeScore": 1,
+      "awayScore": 3,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "57%",
+          "43%"
+        ],
+        "Total shots": [
+          "6",
+          "8"
+        ],
+        "Shots on target": [
+          "3",
+          "5"
+        ],
+        "Corner kicks": [
+          "4",
+          "4"
+        ],
+        "Yellow cards": [
+          "3",
+          "1"
+        ],
+        "Shots off target": [
+          "3",
+          "3"
+        ]
+      }
+    },
+    {
+      "id": "dU4qxqMO",
+      "date": "2026-01-23T17:00:00.000Z",
+      "round": "Round 18",
+      "homeTeam": "Villefranche",
+      "awayTeam": "Aubagne",
+      "homeScore": 2,
+      "awayScore": 1,
+      "htHome": 1,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "50%",
+          "50%"
+        ],
+        "Total shots": [
+          "8",
+          "12"
+        ],
+        "Shots on target": [
+          "4",
+          "5"
+        ],
+        "Corner kicks": [
+          "4",
+          "9"
+        ],
+        "Yellow cards": [
+          "4",
+          "2"
+        ],
+        "Red cards": [
+          "1",
+          "1"
+        ],
+        "Shots off target": [
+          "4",
+          "7"
+        ]
+      }
+    },
+    {
+      "id": "6TsyFcIq",
+      "date": "2026-01-16T18:30:00.000Z",
+      "round": "Round 17",
+      "homeTeam": "Aubagne",
+      "awayTeam": "Paris 13 Atletico",
+      "homeScore": 1,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "57%",
+          "43%"
+        ],
+        "Total shots": [
+          "10",
+          "7"
+        ],
+        "Shots on target": [
+          "3",
+          "4"
+        ],
+        "Corner kicks": [
+          "7",
+          "3"
+        ],
+        "Yellow cards": [
+          "3",
+          "2"
+        ],
+        "Shots off target": [
+          "7",
+          "3"
+        ]
+      }
+    },
+    {
+      "id": "EgoqDymd",
+      "date": "2026-01-16T18:30:00.000Z",
+      "round": "Round 17",
+      "homeTeam": "Concarneau",
+      "awayTeam": "Caen",
+      "homeScore": 3,
+      "awayScore": 3,
+      "htHome": 2,
+      "htAway": 2,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "54%",
+          "46%"
+        ],
+        "Total shots": [
+          "11",
+          "4"
+        ],
+        "Shots on target": [
+          "6",
+          "4"
+        ],
+        "Corner kicks": [
+          "7",
+          "2"
+        ],
+        "Yellow cards": [
+          "2",
+          "3"
+        ],
+        "Shots off target": [
+          "5",
+          "0"
+        ]
+      }
+    },
+    {
+      "id": "fkOVzuu3",
+      "date": "2026-01-16T18:30:00.000Z",
+      "round": "Round 17",
+      "homeTeam": "Dijon",
+      "awayTeam": "Le Puy",
+      "homeScore": 2,
+      "awayScore": 0,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "56%",
+          "44%"
+        ],
+        "Total shots": [
+          "14",
+          "5"
+        ],
+        "Shots on target": [
+          "5",
+          "2"
+        ],
+        "Corner kicks": [
+          "8",
+          "2"
+        ],
+        "Yellow cards": [
+          "2",
+          "4"
+        ],
+        "Shots off target": [
+          "9",
+          "3"
+        ]
+      }
+    },
+    {
+      "id": "OrVoXdvS",
+      "date": "2026-01-16T18:30:00.000Z",
+      "round": "Round 17",
+      "homeTeam": "FC Fleury 91",
+      "awayTeam": "US Orleans 45",
+      "homeScore": 3,
+      "awayScore": 0,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "44%",
+          "56%"
+        ],
+        "Total shots": [
+          "12",
+          "9"
+        ],
+        "Shots on target": [
+          "7",
+          "5"
+        ],
+        "Corner kicks": [
+          "3",
+          "8"
+        ],
+        "Yellow cards": [
+          "3",
+          "4"
+        ],
+        "Red cards": [
+          "0",
+          "1"
+        ],
+        "Shots off target": [
+          "5",
+          "4"
+        ]
+      }
+    },
+    {
+      "id": "GtAQPEW1",
+      "date": "2026-01-16T18:30:00.000Z",
+      "round": "Round 17",
+      "homeTeam": "US Quevilly",
+      "awayTeam": "Stade Briochin",
+      "homeScore": 0,
+      "awayScore": 0,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "52%",
+          "48%"
+        ],
+        "Total shots": [
+          "2",
+          "4"
+        ],
+        "Shots on target": [
+          "1",
+          "3"
+        ],
+        "Corner kicks": [
+          "6",
+          "3"
+        ],
+        "Yellow cards": [
+          "2",
+          "1"
+        ],
+        "Shots off target": [
+          "1",
+          "1"
+        ]
+      }
+    },
+    {
+      "id": "KEGHRz2k",
+      "date": "2026-01-16T18:30:00.000Z",
+      "round": "Round 17",
+      "homeTeam": "Sochaux",
+      "awayTeam": "Chateauroux",
+      "homeScore": 1,
+      "awayScore": 0,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "61%",
+          "39%"
+        ],
+        "Total shots": [
+          "9",
+          "5"
+        ],
+        "Shots on target": [
+          "5",
+          "0"
+        ],
+        "Corner kicks": [
+          "8",
+          "4"
+        ],
+        "Yellow cards": [
+          "0",
+          "1"
+        ],
+        "Shots off target": [
+          "4",
+          "5"
+        ]
+      }
+    },
+    {
+      "id": "tK1CmIO8",
+      "date": "2026-01-16T18:30:00.000Z",
+      "round": "Round 17",
+      "homeTeam": "Valenciennes",
+      "awayTeam": "Bourg-Peronnas",
+      "homeScore": 3,
+      "awayScore": 1,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "50%",
+          "50%"
+        ],
+        "Total shots": [
+          "13",
+          "6"
+        ],
+        "Shots on target": [
+          "9",
+          "4"
+        ],
+        "Corner kicks": [
+          "6",
+          "4"
+        ],
+        "Yellow cards": [
+          "0",
+          "1"
+        ],
+        "Shots off target": [
+          "4",
+          "2"
+        ]
+      }
+    },
+    {
+      "id": "2ZkLodgL",
+      "date": "2026-01-16T18:30:00.000Z",
+      "round": "Round 17",
+      "homeTeam": "Versailles 78",
+      "awayTeam": "Rouen",
+      "homeScore": 1,
+      "awayScore": 3,
+      "htHome": 1,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "35%",
+          "65%"
+        ],
+        "Total shots": [
+          "5",
+          "13"
+        ],
+        "Shots on target": [
+          "2",
+          "7"
+        ],
+        "Corner kicks": [
+          "3",
+          "11"
+        ],
+        "Yellow cards": [
+          "4",
+          "1"
+        ],
+        "Red cards": [
+          "1",
+          "0"
+        ],
+        "Shots off target": [
+          "3",
+          "6"
+        ]
+      }
+    },
+    {
+      "id": "tQML92t4",
+      "date": "2025-12-12T19:00:00.000Z",
+      "round": "Round 16",
+      "homeTeam": "Rouen",
+      "awayTeam": "US Quevilly",
+      "homeScore": 1,
+      "awayScore": 0,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Yellow cards": [
+          "1",
+          "2"
+        ]
+      }
+    },
+    {
+      "id": "8CODBOBi",
+      "date": "2025-12-12T18:30:00.000Z",
+      "round": "Round 16",
+      "homeTeam": "Chateauroux",
+      "awayTeam": "Dijon",
+      "homeScore": 0,
+      "awayScore": 0,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Yellow cards": [
+          "2",
+          "0"
+        ]
+      }
+    },
+    {
+      "id": "0SxN7tBG",
+      "date": "2025-12-12T18:30:00.000Z",
+      "round": "Round 16",
+      "homeTeam": "Le Puy",
+      "awayTeam": "FC Fleury 91",
+      "homeScore": 2,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Yellow cards": [
+          "2",
+          "4"
+        ]
+      }
+    },
+    {
+      "id": "8htV5KuT",
+      "date": "2025-12-12T18:30:00.000Z",
+      "round": "Round 16",
+      "homeTeam": "US Orleans 45",
+      "awayTeam": "Versailles 78",
+      "homeScore": 2,
+      "awayScore": 0,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Yellow cards": [
+          "2",
+          "2"
+        ]
+      }
+    },
+    {
+      "id": "hQH10b3j",
+      "date": "2025-12-12T18:30:00.000Z",
+      "round": "Round 16",
+      "homeTeam": "Paris 13 Atletico",
+      "awayTeam": "Concarneau",
+      "homeScore": 0,
+      "awayScore": 0,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "50%",
+          "50%"
+        ],
+        "Total shots": [
+          "0",
+          "0"
+        ],
+        "Shots on target": [
+          "0",
+          "0"
+        ],
+        "Corner kicks": [
+          "0",
+          "0"
+        ],
+        "Shots off target": [
+          "0",
+          "0"
+        ]
+      }
+    },
+    {
+      "id": "KW9mO1ec",
+      "date": "2025-12-12T18:30:00.000Z",
+      "round": "Round 16",
+      "homeTeam": "Stade Briochin",
+      "awayTeam": "Aubagne",
+      "homeScore": 1,
+      "awayScore": 3,
+      "htHome": 1,
+      "htAway": 2,
+      "status": "FINISHED",
+      "stats": {
+        "Yellow cards": [
+          "2",
+          "2"
+        ]
+      }
+    },
+    {
+      "id": "EV2dMuQ9",
+      "date": "2025-12-12T18:30:00.000Z",
+      "round": "Round 16",
+      "homeTeam": "Valenciennes",
+      "awayTeam": "Sochaux",
+      "homeScore": 0,
+      "awayScore": 3,
+      "htHome": 0,
+      "htAway": 3,
+      "status": "FINISHED",
+      "stats": {
+        "Yellow cards": [
+          "2",
+          "5"
+        ]
+      }
+    },
+    {
+      "id": "nq14KJfM",
+      "date": "2025-12-12T18:30:00.000Z",
+      "round": "Round 16",
+      "homeTeam": "Villefranche",
+      "awayTeam": "Bourg-Peronnas",
+      "homeScore": 0,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Yellow cards": [
+          "2",
+          "5"
+        ]
+      }
+    },
+    {
+      "id": "rkkfJXcf",
+      "date": "2025-12-05T18:30:00.000Z",
+      "round": "Round 15",
+      "homeTeam": "Aubagne",
+      "awayTeam": "Rouen",
+      "homeScore": 1,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Yellow cards": [
+          "2",
+          "2"
+        ],
+        "Red cards": [
+          "0",
+          "1"
+        ]
+      }
+    },
+    {
+      "id": "IRTdwgkQ",
+      "date": "2025-12-05T18:30:00.000Z",
+      "round": "Round 15",
+      "homeTeam": "Bourg-Peronnas",
+      "awayTeam": "Sochaux",
+      "homeScore": 1,
+      "awayScore": 3,
+      "htHome": 0,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Yellow cards": [
+          "2",
+          "2"
+        ]
+      }
+    },
+    {
+      "id": "U5m2HBS6",
+      "date": "2025-12-05T18:30:00.000Z",
+      "round": "Round 15",
+      "homeTeam": "Concarneau",
+      "awayTeam": "Stade Briochin",
+      "homeScore": 2,
+      "awayScore": 2,
+      "htHome": 0,
+      "htAway": 2,
+      "status": "FINISHED",
+      "stats": {
+        "Yellow cards": [
+          "3",
+          "5"
+        ],
+        "Red cards": [
+          "1",
+          "1"
+        ]
+      }
+    },
+    {
+      "id": "QXtBFkcJ",
+      "date": "2025-12-05T18:30:00.000Z",
+      "round": "Round 15",
+      "homeTeam": "Dijon",
+      "awayTeam": "Valenciennes",
+      "homeScore": 4,
+      "awayScore": 1,
+      "htHome": 2,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Yellow cards": [
+          "0",
+          "1"
+        ]
+      }
+    },
+    {
+      "id": "xCATXWCm",
+      "date": "2025-12-05T18:30:00.000Z",
+      "round": "Round 15",
+      "homeTeam": "FC Fleury 91",
+      "awayTeam": "Chateauroux",
+      "homeScore": 0,
+      "awayScore": 0,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Yellow cards": [
+          "1",
+          "2"
+        ]
+      }
+    },
+    {
+      "id": "UJSzWAs0",
+      "date": "2025-12-05T18:30:00.000Z",
+      "round": "Round 15",
+      "homeTeam": "US Quevilly",
+      "awayTeam": "US Orleans 45",
+      "homeScore": 0,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Yellow cards": [
+          "3",
+          "1"
+        ]
+      }
+    },
+    {
+      "id": "jZGqUlCC",
+      "date": "2025-12-05T18:30:00.000Z",
+      "round": "Round 15",
+      "homeTeam": "Versailles 78",
+      "awayTeam": "Le Puy",
+      "homeScore": 0,
+      "awayScore": 3,
+      "htHome": 0,
+      "htAway": 2,
+      "status": "FINISHED",
+      "stats": {
+        "Yellow cards": [
+          "3",
+          "3"
+        ],
+        "Red cards": [
+          "1",
+          "0"
+        ]
+      }
+    },
+    {
+      "id": "dYrHBtdo",
+      "date": "2025-12-05T18:30:00.000Z",
+      "round": "Round 15",
+      "homeTeam": "Villefranche",
+      "awayTeam": "Caen",
+      "homeScore": 1,
+      "awayScore": 1,
+      "htHome": 1,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Yellow cards": [
+          "1",
+          "5"
+        ]
+      }
+    },
+    {
+      "id": "zqSS2CDD",
+      "date": "2025-11-21T18:30:00.000Z",
+      "round": "Round 14",
+      "homeTeam": "Caen",
+      "awayTeam": "Bourg-Peronnas",
+      "homeScore": 1,
+      "awayScore": 0,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Yellow cards": [
+          "2",
+          "3"
+        ]
+      }
+    },
+    {
+      "id": "lS3ojZT7",
+      "date": "2025-11-21T18:30:00.000Z",
+      "round": "Round 14",
+      "homeTeam": "Chateauroux",
+      "awayTeam": "Versailles 78",
+      "homeScore": 1,
+      "awayScore": 3,
+      "htHome": 1,
+      "htAway": 2,
+      "status": "FINISHED",
+      "stats": {
+        "Yellow cards": [
+          "3",
+          "3"
+        ],
+        "Red cards": [
+          "1",
+          "0"
+        ]
+      }
+    },
+    {
+      "id": "xlptCGjR",
+      "date": "2025-11-21T18:30:00.000Z",
+      "round": "Round 14",
+      "homeTeam": "Le Puy",
+      "awayTeam": "US Quevilly",
+      "homeScore": 2,
+      "awayScore": 1,
+      "htHome": 1,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Yellow cards": [
+          "2",
+          "2"
+        ]
+      }
+    },
+    {
+      "id": "8WzC6fEl",
+      "date": "2025-11-21T18:30:00.000Z",
+      "round": "Round 14",
+      "homeTeam": "US Orleans 45",
+      "awayTeam": "Aubagne",
+      "homeScore": 2,
+      "awayScore": 4,
+      "htHome": 1,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Yellow cards": [
+          "3",
+          "2"
+        ]
+      }
+    },
+    {
+      "id": "2VTK4Yr1",
+      "date": "2025-11-21T18:30:00.000Z",
+      "round": "Round 14",
+      "homeTeam": "Paris 13 Atletico",
+      "awayTeam": "Villefranche",
+      "homeScore": 1,
+      "awayScore": 0,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Yellow cards": [
+          "1",
+          "2"
+        ]
+      }
+    },
+    {
+      "id": "GYeXDxME",
+      "date": "2025-11-21T18:30:00.000Z",
+      "round": "Round 14",
+      "homeTeam": "Rouen",
+      "awayTeam": "Concarneau",
+      "homeScore": 0,
+      "awayScore": 0,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Yellow cards": [
+          "1",
+          "4"
+        ],
+        "Red cards": [
+          "0",
+          "1"
+        ]
+      }
+    },
+    {
+      "id": "jiAFQF5K",
+      "date": "2025-11-21T18:30:00.000Z",
+      "round": "Round 14",
+      "homeTeam": "Sochaux",
+      "awayTeam": "Dijon",
+      "homeScore": 0,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Yellow cards": [
+          "3",
+          "2"
+        ]
+      }
+    },
+    {
+      "id": "MZ0oLgTs",
+      "date": "2025-11-21T18:30:00.000Z",
+      "round": "Round 14",
+      "homeTeam": "Valenciennes",
+      "awayTeam": "FC Fleury 91",
+      "homeScore": 0,
+      "awayScore": 2,
+      "htHome": 0,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Yellow cards": [
+          "1",
+          "3"
+        ]
+      }
+    },
+    {
+      "id": "UqfNan14",
+      "date": "2025-11-07T18:30:00.000Z",
+      "round": "Round 13",
+      "homeTeam": "Aubagne",
+      "awayTeam": "Le Puy",
+      "homeScore": 1,
+      "awayScore": 4,
+      "htHome": 1,
+      "htAway": 4,
+      "status": "FINISHED",
+      "stats": {
+        "Yellow cards": [
+          "4",
+          "2"
+        ],
+        "Red cards": [
+          "1",
+          "0"
+        ]
+      }
+    },
+    {
+      "id": "dbA3uIFk",
+      "date": "2025-11-07T18:30:00.000Z",
+      "round": "Round 13",
+      "homeTeam": "Bourg-Peronnas",
+      "awayTeam": "Dijon",
+      "homeScore": 1,
+      "awayScore": 2,
+      "htHome": 1,
+      "htAway": 2,
+      "status": "FINISHED",
+      "stats": {
+        "Yellow cards": [
+          "0",
+          "4"
+        ],
+        "Red cards": [
+          "0",
+          "1"
+        ]
+      }
+    },
+    {
+      "id": "rijb1ax9",
+      "date": "2025-11-07T18:30:00.000Z",
+      "round": "Round 13",
+      "homeTeam": "Caen",
+      "awayTeam": "Paris 13 Atletico",
+      "homeScore": 0,
+      "awayScore": 0,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Yellow cards": [
+          "3",
+          "3"
+        ]
+      }
+    },
+    {
+      "id": "2chVcQVG",
+      "date": "2025-11-07T18:30:00.000Z",
+      "round": "Round 13",
+      "homeTeam": "Concarneau",
+      "awayTeam": "US Orleans 45",
+      "homeScore": 3,
+      "awayScore": 0,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Yellow cards": [
+          "2",
+          "0"
+        ]
+      }
+    },
+    {
+      "id": "2eDBwdp2",
+      "date": "2025-11-07T18:30:00.000Z",
+      "round": "Round 13",
+      "homeTeam": "FC Fleury 91",
+      "awayTeam": "Sochaux",
+      "homeScore": 0,
+      "awayScore": 0,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Yellow cards": [
+          "3",
+          "3"
+        ]
+      }
+    },
+    {
+      "id": "jHg6aw7L",
+      "date": "2025-11-07T18:30:00.000Z",
+      "round": "Round 13",
+      "homeTeam": "US Quevilly",
+      "awayTeam": "Chateauroux",
+      "homeScore": 0,
+      "awayScore": 3,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Yellow cards": [
+          "3",
+          "2"
+        ]
+      }
+    },
+    {
+      "id": "A1zwfHUr",
+      "date": "2025-11-07T18:30:00.000Z",
+      "round": "Round 13",
+      "homeTeam": "Versailles 78",
+      "awayTeam": "Valenciennes",
+      "homeScore": 1,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Yellow cards": [
+          "0",
+          "4"
+        ]
+      }
+    },
+    {
+      "id": "rFYpheae",
+      "date": "2025-11-07T18:30:00.000Z",
+      "round": "Round 13",
+      "homeTeam": "Villefranche",
+      "awayTeam": "Stade Briochin",
+      "homeScore": 3,
+      "awayScore": 1,
+      "htHome": 1,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Yellow cards": [
+          "3",
+          "0"
+        ]
+      }
+    },
+    {
+      "id": "6ssXlVnn",
+      "date": "2025-11-01T14:00:00.000Z",
+      "round": "Round 12",
+      "homeTeam": "Rouen",
+      "awayTeam": "Villefranche",
+      "homeScore": 2,
+      "awayScore": 1,
+      "htHome": 1,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Yellow cards": [
+          "2",
+          "4"
+        ]
+      }
+    },
+    {
+      "id": "rZdNUR1U",
+      "date": "2025-10-31T18:30:00.000Z",
+      "round": "Round 12",
+      "homeTeam": "Chateauroux",
+      "awayTeam": "Aubagne",
+      "homeScore": 0,
+      "awayScore": 3,
+      "htHome": 0,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Yellow cards": [
+          "3",
+          "2"
+        ]
+      }
+    },
+    {
+      "id": "z9gFWmXH",
+      "date": "2025-10-31T18:30:00.000Z",
+      "round": "Round 12",
+      "homeTeam": "Dijon",
+      "awayTeam": "FC Fleury 91",
+      "homeScore": 0,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Yellow cards": [
+          "1",
+          "4"
+        ],
+        "Red cards": [
+          "0",
+          "1"
+        ]
+      }
+    },
+    {
+      "id": "veuum9Hb",
+      "date": "2025-10-31T18:30:00.000Z",
+      "round": "Round 12",
+      "homeTeam": "Le Puy",
+      "awayTeam": "Concarneau",
+      "homeScore": 1,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Yellow cards": [
+          "3",
+          "3"
+        ],
+        "Red cards": [
+          "1",
+          "0"
+        ]
+      }
+    },
+    {
+      "id": "zNYmomnB",
+      "date": "2025-10-31T18:30:00.000Z",
+      "round": "Round 12",
+      "homeTeam": "Paris 13 Atletico",
+      "awayTeam": "Bourg-Peronnas",
+      "homeScore": 2,
+      "awayScore": 1,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Yellow cards": [
+          "2",
+          "2"
+        ]
+      }
+    },
+    {
+      "id": "rmxdqRGN",
+      "date": "2025-10-31T18:30:00.000Z",
+      "round": "Round 12",
+      "homeTeam": "Sochaux",
+      "awayTeam": "Versailles 78",
+      "homeScore": 2,
+      "awayScore": 0,
+      "htHome": 2,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Yellow cards": [
+          "3",
+          "3"
+        ]
+      }
+    },
+    {
+      "id": "SKDSw5vo",
+      "date": "2025-10-31T18:30:00.000Z",
+      "round": "Round 12",
+      "homeTeam": "Stade Briochin",
+      "awayTeam": "Caen",
+      "homeScore": 1,
+      "awayScore": 1,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Yellow cards": [
+          "3",
+          "1"
+        ],
+        "Red cards": [
+          "1",
+          "0"
+        ]
+      }
+    },
+    {
+      "id": "YH0E18Wi",
+      "date": "2025-10-31T18:30:00.000Z",
+      "round": "Round 12",
+      "homeTeam": "Valenciennes",
+      "awayTeam": "US Quevilly",
+      "homeScore": 2,
+      "awayScore": 0,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Yellow cards": [
+          "2",
+          "3"
+        ],
+        "Red cards": [
+          "0",
+          "1"
+        ]
+      }
+    },
+    {
+      "id": "WEBmIlIO",
+      "date": "2025-10-21T18:00:00.000Z",
+      "round": "Round 11",
+      "homeTeam": "Caen",
+      "awayTeam": "Rouen",
+      "homeScore": 1,
+      "awayScore": 1,
+      "htHome": 1,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Yellow cards": [
+          "3",
+          "2"
+        ],
+        "Red cards": [
+          "1",
+          "1"
+        ]
+      }
+    },
+    {
+      "id": "Mqh55BYI",
+      "date": "2025-10-21T17:30:00.000Z",
+      "round": "Round 11",
+      "homeTeam": "Aubagne",
+      "awayTeam": "Valenciennes",
+      "homeScore": 1,
+      "awayScore": 1,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Yellow cards": [
+          "4",
+          "4"
+        ]
+      }
+    },
+    {
+      "id": "SMEWLWIa",
+      "date": "2025-10-21T17:30:00.000Z",
+      "round": "Round 11",
+      "homeTeam": "Bourg-Peronnas",
+      "awayTeam": "FC Fleury 91",
+      "homeScore": 2,
+      "awayScore": 2,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Yellow cards": [
+          "2",
+          "5"
+        ]
+      }
+    },
+    {
+      "id": "67QNNhlm",
+      "date": "2025-10-21T17:30:00.000Z",
+      "round": "Round 11",
+      "homeTeam": "Concarneau",
+      "awayTeam": "Chateauroux",
+      "homeScore": 0,
+      "awayScore": 0,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Yellow cards": [
+          "3",
+          "1"
+        ]
+      }
+    },
+    {
+      "id": "zmIvKAmC",
+      "date": "2025-10-21T17:30:00.000Z",
+      "round": "Round 11",
+      "homeTeam": "Paris 13 Atletico",
+      "awayTeam": "Stade Briochin",
+      "homeScore": 3,
+      "awayScore": 0,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Yellow cards": [
+          "1",
+          "2"
+        ]
+      }
+    },
+    {
+      "id": "nRocxh3t",
+      "date": "2025-10-21T17:30:00.000Z",
+      "round": "Round 11",
+      "homeTeam": "US Quevilly",
+      "awayTeam": "Sochaux",
+      "homeScore": 1,
+      "awayScore": 1,
+      "htHome": 1,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Yellow cards": [
+          "1",
+          "0"
+        ]
+      }
+    },
+    {
+      "id": "6T1bzWXh",
+      "date": "2025-10-21T17:30:00.000Z",
+      "round": "Round 11",
+      "homeTeam": "Versailles 78",
+      "awayTeam": "Dijon",
+      "homeScore": 0,
+      "awayScore": 2,
+      "htHome": 0,
+      "htAway": 2,
+      "status": "FINISHED",
+      "stats": {
+        "Yellow cards": [
+          "2",
+          "2"
+        ]
+      }
+    },
+    {
+      "id": "Eg56Y925",
+      "date": "2025-10-21T17:30:00.000Z",
+      "round": "Round 11",
+      "homeTeam": "Villefranche",
+      "awayTeam": "US Orleans 45",
+      "homeScore": 1,
+      "awayScore": 2,
+      "htHome": 1,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Yellow cards": [
+          "0",
+          "1"
+        ],
+        "Red cards": [
+          "1",
+          "1"
+        ]
+      }
+    },
+    {
+      "id": "noAZEO5F",
+      "date": "2025-10-17T17:30:00.000Z",
+      "round": "Round 10",
+      "homeTeam": "Dijon",
+      "awayTeam": "US Quevilly",
+      "homeScore": 4,
+      "awayScore": 1,
+      "htHome": 2,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Yellow cards": [
+          "3",
+          "0"
+        ]
+      }
+    },
+    {
+      "id": "xGlE7tbk",
+      "date": "2025-10-17T17:30:00.000Z",
+      "round": "Round 10",
+      "homeTeam": "FC Fleury 91",
+      "awayTeam": "Versailles 78",
+      "homeScore": 0,
+      "awayScore": 0,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Yellow cards": [
+          "2",
+          "4"
+        ]
+      }
+    },
+    {
+      "id": "YsrN5KS1",
+      "date": "2025-10-17T17:30:00.000Z",
+      "round": "Round 10",
+      "homeTeam": "Le Puy",
+      "awayTeam": "Villefranche",
+      "homeScore": 3,
+      "awayScore": 0,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Yellow cards": [
+          "1",
+          "2"
+        ]
+      }
+    },
+    {
+      "id": "0lz9TNK8",
+      "date": "2025-10-17T17:30:00.000Z",
+      "round": "Round 10",
+      "homeTeam": "US Orleans 45",
+      "awayTeam": "Caen",
+      "homeScore": 2,
+      "awayScore": 1,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Yellow cards": [
+          "2",
+          "2"
+        ]
+      }
+    },
+    {
+      "id": "tp3rD2zS",
+      "date": "2025-10-17T17:30:00.000Z",
+      "round": "Round 10",
+      "homeTeam": "Rouen",
+      "awayTeam": "Paris 13 Atletico",
+      "homeScore": 3,
+      "awayScore": 0,
+      "htHome": 2,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Yellow cards": [
+          "2",
+          "3"
+        ]
+      }
+    },
+    {
+      "id": "KxmsBF4s",
+      "date": "2025-10-17T17:30:00.000Z",
+      "round": "Round 10",
+      "homeTeam": "Sochaux",
+      "awayTeam": "Aubagne",
+      "homeScore": 2,
+      "awayScore": 0,
+      "htHome": 2,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Yellow cards": [
+          "1",
+          "2"
+        ]
+      }
+    },
+    {
+      "id": "h40l9gZg",
+      "date": "2025-10-17T17:30:00.000Z",
+      "round": "Round 10",
+      "homeTeam": "Stade Briochin",
+      "awayTeam": "Bourg-Peronnas",
+      "homeScore": 1,
+      "awayScore": 2,
+      "htHome": 0,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Yellow cards": [
+          "1",
+          "1"
+        ]
+      }
+    },
+    {
+      "id": "lWgc7X36",
+      "date": "2025-10-17T17:30:00.000Z",
+      "round": "Round 10",
+      "homeTeam": "Valenciennes",
+      "awayTeam": "Concarneau",
+      "homeScore": 1,
+      "awayScore": 2,
+      "htHome": 1,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Yellow cards": [
+          "5",
+          "2"
+        ],
+        "Red cards": [
+          "2",
+          "0"
+        ]
+      }
+    },
+    {
+      "id": "d4Tx33fU",
+      "date": "2025-10-07T17:30:00.000Z",
+      "round": "Round 4",
+      "homeTeam": "Versailles 78",
+      "awayTeam": "Villefranche",
+      "homeScore": 2,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Yellow cards": [
+          "5",
+          "1"
+        ]
+      }
+    },
+    {
+      "id": "QiFz2HAT",
+      "date": "2025-10-03T17:30:00.000Z",
+      "round": "Round 9",
+      "homeTeam": "Aubagne",
+      "awayTeam": "Dijon",
+      "homeScore": 1,
+      "awayScore": 1,
+      "htHome": 1,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Yellow cards": [
+          "5",
+          "2"
+        ]
+      }
+    },
+    {
+      "id": "xWrgKbQc",
+      "date": "2025-10-03T17:30:00.000Z",
+      "round": "Round 9",
+      "homeTeam": "Bourg-Peronnas",
+      "awayTeam": "Versailles 78",
+      "homeScore": 0,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Yellow cards": [
+          "2",
+          "4"
+        ]
+      }
+    },
+    {
+      "id": "6BzAGGPM",
+      "date": "2025-10-03T17:30:00.000Z",
+      "round": "Round 9",
+      "homeTeam": "Caen",
+      "awayTeam": "Le Puy",
+      "homeScore": 2,
+      "awayScore": 0,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Yellow cards": [
+          "4",
+          "4"
+        ]
+      }
+    },
+    {
+      "id": "APj7deYj",
+      "date": "2025-10-03T17:30:00.000Z",
+      "round": "Round 9",
+      "homeTeam": "Concarneau",
+      "awayTeam": "Sochaux",
+      "homeScore": 1,
+      "awayScore": 0,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Yellow cards": [
+          "3",
+          "3"
+        ]
+      }
+    },
+    {
+      "id": "Ycx2IxeA",
+      "date": "2025-10-03T17:30:00.000Z",
+      "round": "Round 9",
+      "homeTeam": "Paris 13 Atletico",
+      "awayTeam": "US Orleans 45",
+      "homeScore": 2,
+      "awayScore": 2,
+      "htHome": 1,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Yellow cards": [
+          "2",
+          "0"
+        ]
+      }
+    },
+    {
+      "id": "ddss9YHd",
+      "date": "2025-10-03T17:30:00.000Z",
+      "round": "Round 9",
+      "homeTeam": "US Quevilly",
+      "awayTeam": "FC Fleury 91",
+      "homeScore": 1,
+      "awayScore": 1,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Yellow cards": [
+          "2",
+          "4"
+        ]
+      }
+    },
+    {
+      "id": "lWwZAfmp",
+      "date": "2025-10-03T17:30:00.000Z",
+      "round": "Round 9",
+      "homeTeam": "Stade Briochin",
+      "awayTeam": "Rouen",
+      "homeScore": 0,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "vL6RGpy3",
+      "date": "2025-10-03T17:30:00.000Z",
+      "round": "Round 9",
+      "homeTeam": "Villefranche",
+      "awayTeam": "Chateauroux",
+      "homeScore": 2,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Yellow cards": [
+          "4",
+          "4"
+        ]
+      }
+    },
+    {
+      "id": "AspwgMRb",
+      "date": "2025-09-26T17:30:00.000Z",
+      "round": "Round 8",
+      "homeTeam": "Chateauroux",
+      "awayTeam": "Caen",
+      "homeScore": 2,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Yellow cards": [
+          "2",
+          "1"
+        ]
+      }
+    },
+    {
+      "id": "EFjUfrcn",
+      "date": "2025-09-26T17:30:00.000Z",
+      "round": "Round 8",
+      "homeTeam": "Dijon",
+      "awayTeam": "Concarneau",
+      "homeScore": 3,
+      "awayScore": 0,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Yellow cards": [
+          "1",
+          "2"
+        ]
+      }
+    },
+    {
+      "id": "vNyfkvRN",
+      "date": "2025-09-26T17:30:00.000Z",
+      "round": "Round 8",
+      "homeTeam": "FC Fleury 91",
+      "awayTeam": "Aubagne",
+      "homeScore": 0,
+      "awayScore": 2,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Yellow cards": [
+          "0",
+          "1"
+        ]
+      }
+    },
+    {
+      "id": "ldNPqIlo",
+      "date": "2025-09-26T17:30:00.000Z",
+      "round": "Round 8",
+      "homeTeam": "Le Puy",
+      "awayTeam": "Paris 13 Atletico",
+      "homeScore": 1,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Yellow cards": [
+          "4",
+          "0"
+        ],
+        "Red cards": [
+          "0",
+          "1"
+        ]
+      }
+    },
+    {
+      "id": "445C7Lth",
+      "date": "2025-09-26T17:30:00.000Z",
+      "round": "Round 8",
+      "homeTeam": "US Orleans 45",
+      "awayTeam": "Stade Briochin",
+      "homeScore": 3,
+      "awayScore": 2,
+      "htHome": 2,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Yellow cards": [
+          "1",
+          "3"
+        ]
+      }
+    },
+    {
+      "id": "I7moi0dB",
+      "date": "2025-09-26T17:30:00.000Z",
+      "round": "Round 8",
+      "homeTeam": "Rouen",
+      "awayTeam": "Bourg-Peronnas",
+      "homeScore": 1,
+      "awayScore": 0,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Yellow cards": [
+          "1",
+          "5"
+        ]
+      }
+    },
+    {
+      "id": "xI3K5aB4",
+      "date": "2025-09-26T17:30:00.000Z",
+      "round": "Round 8",
+      "homeTeam": "Valenciennes",
+      "awayTeam": "Villefranche",
+      "homeScore": 2,
+      "awayScore": 0,
+      "htHome": 2,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Yellow cards": [
+          "2",
+          "0"
+        ]
+      }
+    },
+    {
+      "id": "YqcT3wtH",
+      "date": "2025-09-26T17:30:00.000Z",
+      "round": "Round 8",
+      "homeTeam": "Versailles 78",
+      "awayTeam": "US Quevilly",
+      "homeScore": 1,
+      "awayScore": 2,
+      "htHome": 1,
+      "htAway": 2,
+      "status": "FINISHED",
+      "stats": {
+        "Yellow cards": [
+          "2",
+          "4"
+        ],
+        "Red cards": [
+          "0",
+          "1"
+        ]
+      }
+    },
+    {
+      "id": "zihSvW6l",
+      "date": "2025-09-19T17:30:00.000Z",
+      "round": "Round 7",
+      "homeTeam": "Aubagne",
+      "awayTeam": "Versailles 78",
+      "homeScore": 1,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Yellow cards": [
+          "0",
+          "1"
+        ]
+      }
+    },
+    {
+      "id": "4Wqqyl6D",
+      "date": "2025-09-19T17:30:00.000Z",
+      "round": "Round 7",
+      "homeTeam": "Bourg-Peronnas",
+      "awayTeam": "US Quevilly",
+      "homeScore": 0,
+      "awayScore": 3,
+      "htHome": 0,
+      "htAway": 2,
+      "status": "FINISHED",
+      "stats": {
+        "Yellow cards": [
+          "1",
+          "2"
+        ]
+      }
+    },
+    {
+      "id": "MNr2i9jf",
+      "date": "2025-09-19T17:30:00.000Z",
+      "round": "Round 7",
+      "homeTeam": "Caen",
+      "awayTeam": "Valenciennes",
+      "homeScore": 0,
+      "awayScore": 0,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Yellow cards": [
+          "2",
+          "1"
+        ]
+      }
+    },
+    {
+      "id": "WIoywAy1",
+      "date": "2025-09-19T17:30:00.000Z",
+      "round": "Round 7",
+      "homeTeam": "Concarneau",
+      "awayTeam": "FC Fleury 91",
+      "homeScore": 0,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Yellow cards": [
+          "3",
+          "4"
+        ],
+        "Red cards": [
+          "1",
+          "0"
+        ]
+      }
+    },
+    {
+      "id": "08fggVLs",
+      "date": "2025-09-19T17:30:00.000Z",
+      "round": "Round 7",
+      "homeTeam": "Paris 13 Atletico",
+      "awayTeam": "Chateauroux",
+      "homeScore": 1,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Yellow cards": [
+          "1",
+          "0"
+        ]
+      }
+    },
+    {
+      "id": "UP3NbibK",
+      "date": "2025-09-19T17:30:00.000Z",
+      "round": "Round 7",
+      "homeTeam": "Rouen",
+      "awayTeam": "US Orleans 45",
+      "homeScore": 1,
+      "awayScore": 0,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Yellow cards": [
+          "2",
+          "1"
+        ]
+      }
+    },
+    {
+      "id": "UmnAkmL6",
+      "date": "2025-09-19T17:30:00.000Z",
+      "round": "Round 7",
+      "homeTeam": "Stade Briochin",
+      "awayTeam": "Le Puy",
+      "homeScore": 1,
+      "awayScore": 2,
+      "htHome": 0,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Yellow cards": [
+          "1",
+          "3"
+        ]
+      }
+    },
+    {
+      "id": "OnuJmRkJ",
+      "date": "2025-09-19T17:30:00.000Z",
+      "round": "Round 7",
+      "homeTeam": "Villefranche",
+      "awayTeam": "Sochaux",
+      "homeScore": 1,
+      "awayScore": 0,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Yellow cards": [
+          "0",
+          "4"
+        ],
+        "Red cards": [
+          "0",
+          "1"
+        ]
+      }
+    },
+    {
+      "id": "ldNPqIlo",
+      "date": "2025-09-26T17:30:00.000Z",
+      "round": "Round 8",
+      "homeTeam": "Le Puy",
+      "awayTeam": "Paris 13 Atletico",
+      "homeScore": 1,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Yellow cards": [
+          "4",
+          "0"
+        ],
+        "Red cards": [
+          "0",
+          "1"
+        ]
+      }
+    },
+    {
+      "id": "445C7Lth",
+      "date": "2025-09-26T17:30:00.000Z",
+      "round": "Round 8",
+      "homeTeam": "US Orleans 45",
+      "awayTeam": "Stade Briochin",
+      "homeScore": 3,
+      "awayScore": 2,
+      "htHome": 2,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Yellow cards": [
+          "1",
+          "3"
+        ]
+      }
+    },
+    {
+      "id": "xI3K5aB4",
+      "date": "2025-09-26T17:30:00.000Z",
+      "round": "Round 8",
+      "homeTeam": "Valenciennes",
+      "awayTeam": "Villefranche",
+      "homeScore": 2,
+      "awayScore": 0,
+      "htHome": 2,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Yellow cards": [
+          "2",
+          "0"
+        ]
+      }
+    },
+    {
+      "id": "YqcT3wtH",
+      "date": "2025-09-26T17:30:00.000Z",
+      "round": "Round 8",
+      "homeTeam": "Versailles 78",
+      "awayTeam": "US Quevilly",
+      "homeScore": 1,
+      "awayScore": 2,
+      "htHome": 1,
+      "htAway": 2,
+      "status": "FINISHED",
+      "stats": {
+        "Yellow cards": [
+          "2",
+          "4"
+        ],
+        "Red cards": [
+          "0",
+          "1"
+        ]
+      }
+    },
+    {
+      "id": "zihSvW6l",
+      "date": "2025-09-19T17:30:00.000Z",
+      "round": "Round 7",
+      "homeTeam": "Aubagne",
+      "awayTeam": "Versailles 78",
+      "homeScore": 1,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Yellow cards": [
+          "0",
+          "1"
+        ]
+      }
+    },
+    {
+      "id": "4Wqqyl6D",
+      "date": "2025-09-19T17:30:00.000Z",
+      "round": "Round 7",
+      "homeTeam": "Bourg-Peronnas",
+      "awayTeam": "US Quevilly",
+      "homeScore": 0,
+      "awayScore": 3,
+      "htHome": 0,
+      "htAway": 2,
+      "status": "FINISHED",
+      "stats": {
+        "Yellow cards": [
+          "1",
+          "2"
+        ]
+      }
+    },
+    {
+      "id": "MNr2i9jf",
+      "date": "2025-09-19T17:30:00.000Z",
+      "round": "Round 7",
+      "homeTeam": "Caen",
+      "awayTeam": "Valenciennes",
+      "homeScore": 0,
+      "awayScore": 0,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Yellow cards": [
+          "2",
+          "1"
+        ]
+      }
+    },
+    {
+      "id": "WIoywAy1",
+      "date": "2025-09-19T17:30:00.000Z",
+      "round": "Round 7",
+      "homeTeam": "Concarneau",
+      "awayTeam": "FC Fleury 91",
+      "homeScore": 0,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Yellow cards": [
+          "3",
+          "4"
+        ],
+        "Red cards": [
+          "1",
+          "0"
+        ]
+      }
+    },
+    {
+      "id": "08fggVLs",
+      "date": "2025-09-19T17:30:00.000Z",
+      "round": "Round 7",
+      "homeTeam": "Paris 13 Atletico",
+      "awayTeam": "Chateauroux",
+      "homeScore": 1,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Yellow cards": [
+          "1",
+          "0"
+        ]
+      }
+    },
+    {
+      "id": "UP3NbibK",
+      "date": "2025-09-19T17:30:00.000Z",
+      "round": "Round 7",
+      "homeTeam": "Rouen",
+      "awayTeam": "US Orleans 45",
+      "homeScore": 1,
+      "awayScore": 0,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Yellow cards": [
+          "2",
+          "1"
+        ]
+      }
+    },
+    {
+      "id": "UmnAkmL6",
+      "date": "2025-09-19T17:30:00.000Z",
+      "round": "Round 7",
+      "homeTeam": "Stade Briochin",
+      "awayTeam": "Le Puy",
+      "homeScore": 1,
+      "awayScore": 2,
+      "htHome": 0,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Yellow cards": [
+          "1",
+          "3"
+        ]
+      }
+    },
+    {
+      "id": "OnuJmRkJ",
+      "date": "2025-09-19T17:30:00.000Z",
+      "round": "Round 7",
+      "homeTeam": "Villefranche",
+      "awayTeam": "Sochaux",
+      "homeScore": 1,
+      "awayScore": 0,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Yellow cards": [
+          "0",
+          "4"
+        ],
+        "Red cards": [
+          "0",
+          "1"
+        ]
+      }
+    },
+    {
+      "id": "rZl6ZzV8",
+      "date": "2025-09-12T17:30:00.000Z",
+      "round": "Round 6",
+      "homeTeam": "Chateauroux",
+      "awayTeam": "Stade Briochin",
+      "homeScore": 2,
+      "awayScore": 2,
+      "htHome": 1,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Yellow cards": [
+          "1",
+          "7"
+        ]
+      }
+    },
+    {
+      "id": "2wCJBXx2",
+      "date": "2025-09-12T17:30:00.000Z",
+      "round": "Round 6",
+      "homeTeam": "Dijon",
+      "awayTeam": "Villefranche",
+      "homeScore": 0,
+      "awayScore": 0,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Yellow cards": [
+          "5",
+          "4"
+        ],
+        "Red cards": [
+          "1",
+          "0"
+        ]
+      }
+    },
+    {
+      "id": "UkmEXEaL",
+      "date": "2025-09-12T17:30:00.000Z",
+      "round": "Round 6",
+      "homeTeam": "Le Puy",
+      "awayTeam": "Rouen",
+      "homeScore": 0,
+      "awayScore": 3,
+      "htHome": 0,
+      "htAway": 2,
+      "status": "FINISHED",
+      "stats": {
+        "Yellow cards": [
+          "1",
+          "2"
+        ],
+        "Red cards": [
+          "1",
+          "0"
+        ]
+      }
+    },
+    {
+      "id": "lzUpShNr",
+      "date": "2025-09-12T17:30:00.000Z",
+      "round": "Round 6",
+      "homeTeam": "US Orleans 45",
+      "awayTeam": "Bourg-Peronnas",
+      "homeScore": 1,
+      "awayScore": 0,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Yellow cards": [
+          "1",
+          "2"
+        ],
+        "Red cards": [
+          "0",
+          "1"
+        ]
+      }
+    },
+    {
+      "id": "IFL1OAM7",
+      "date": "2025-09-12T17:30:00.000Z",
+      "round": "Round 6",
+      "homeTeam": "US Quevilly",
+      "awayTeam": "Aubagne",
+      "homeScore": 1,
+      "awayScore": 2,
+      "htHome": 1,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Yellow cards": [
+          "3",
+          "2"
+        ],
+        "Red cards": [
+          "1",
+          "0"
+        ]
+      }
+    },
+    {
+      "id": "MmShQWie",
+      "date": "2025-09-12T17:30:00.000Z",
+      "round": "Round 6",
+      "homeTeam": "Sochaux",
+      "awayTeam": "Caen",
+      "homeScore": 1,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Yellow cards": [
+          "0",
+          "4"
+        ]
+      }
+    },
+    {
+      "id": "rgDmnEEE",
+      "date": "2025-09-12T17:30:00.000Z",
+      "round": "Round 6",
+      "homeTeam": "Valenciennes",
+      "awayTeam": "Paris 13 Atletico",
+      "homeScore": 1,
+      "awayScore": 0,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Yellow cards": [
+          "2",
+          "0"
+        ],
+        "Red cards": [
+          "1",
+          "1"
+        ]
+      }
+    },
+    {
+      "id": "481dphqR",
+      "date": "2025-09-12T17:30:00.000Z",
+      "round": "Round 6",
+      "homeTeam": "Versailles 78",
+      "awayTeam": "Concarneau",
+      "homeScore": 4,
+      "awayScore": 0,
+      "htHome": 2,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Yellow cards": [
+          "3",
+          "4"
+        ]
+      }
+    },
+    {
+      "id": "YquU0GOq",
+      "date": "2025-09-06T16:00:00.000Z",
+      "round": "Round 5",
+      "homeTeam": "Rouen",
+      "awayTeam": "Chateauroux",
+      "homeScore": 1,
+      "awayScore": 2,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Yellow cards": [
+          "5",
+          "2"
+        ],
+        "Red cards": [
+          "1",
+          "0"
+        ]
+      }
+    },
+    {
+      "id": "SpDdJOvB",
+      "date": "2025-09-05T16:30:00.000Z",
+      "round": "Round 5",
+      "homeTeam": "Bourg-Peronnas",
+      "awayTeam": "Aubagne",
+      "homeScore": 0,
+      "awayScore": 0,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Yellow cards": [
+          "3",
+          "2"
+        ]
+      }
+    },
+    {
+      "id": "2FTWKyGF",
+      "date": "2025-09-05T16:30:00.000Z",
+      "round": "Round 5",
+      "homeTeam": "Caen",
+      "awayTeam": "Dijon",
+      "homeScore": 0,
+      "awayScore": 0,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Yellow cards": [
+          "3",
+          "4"
+        ]
+      }
+    },
+    {
+      "id": "8rceLpAb",
+      "date": "2025-09-05T16:30:00.000Z",
+      "round": "Round 5",
+      "homeTeam": "Concarneau",
+      "awayTeam": "US Quevilly",
+      "homeScore": 3,
+      "awayScore": 1,
+      "htHome": 2,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Yellow cards": [
+          "3",
+          "3"
+        ],
+        "Red cards": [
+          "0",
+          "1"
+        ]
+      }
+    },
+    {
+      "id": "faTxafgd",
+      "date": "2025-09-05T16:30:00.000Z",
+      "round": "Round 5",
+      "homeTeam": "US Orleans 45",
+      "awayTeam": "Le Puy",
+      "homeScore": 1,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Yellow cards": [
+          "5",
+          "2"
+        ]
+      }
+    },
+    {
+      "id": "M5LOMco3",
+      "date": "2025-09-05T16:30:00.000Z",
+      "round": "Round 5",
+      "homeTeam": "Paris 13 Atletico",
+      "awayTeam": "Sochaux",
+      "homeScore": 1,
+      "awayScore": 3,
+      "htHome": 0,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Yellow cards": [
+          "3",
+          "0"
+        ]
+      }
+    },
+    {
+      "id": "zTRvJFpS",
+      "date": "2025-09-05T16:30:00.000Z",
+      "round": "Round 5",
+      "homeTeam": "Stade Briochin",
+      "awayTeam": "Valenciennes",
+      "homeScore": 2,
+      "awayScore": 1,
+      "htHome": 2,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Yellow cards": [
+          "1",
+          "1"
+        ]
+      }
+    },
+    {
+      "id": "fD8BDg8k",
+      "date": "2025-09-05T16:30:00.000Z",
+      "round": "Round 5",
+      "homeTeam": "Villefranche",
+      "awayTeam": "FC Fleury 91",
+      "homeScore": 0,
+      "awayScore": 3,
+      "htHome": 0,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Yellow cards": [
+          "2",
+          "2"
+        ]
+      }
+    },
+    {
+      "id": "tfbuf8Ba",
+      "date": "2025-08-29T17:30:00.000Z",
+      "round": "Round 4",
+      "homeTeam": "Aubagne",
+      "awayTeam": "Concarneau",
+      "homeScore": 1,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Yellow cards": [
+          "2",
+          "2"
+        ]
+      }
+    },
+    {
+      "id": "Am5ejQAO",
+      "date": "2025-08-29T17:30:00.000Z",
+      "round": "Round 4",
+      "homeTeam": "Chateauroux",
+      "awayTeam": "US Orleans 45",
+      "homeScore": 0,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Yellow cards": [
+          "3",
+          "5"
+        ]
+      }
+    },
+    {
+      "id": "ELBnhntC",
+      "date": "2025-08-29T17:30:00.000Z",
+      "round": "Round 4",
+      "homeTeam": "Dijon",
+      "awayTeam": "Paris 13 Atletico",
+      "homeScore": 4,
+      "awayScore": 2,
+      "htHome": 2,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Yellow cards": [
+          "3",
+          "2"
+        ]
+      }
+    },
+    {
+      "id": "Qau5ATet",
+      "date": "2025-08-29T17:30:00.000Z",
+      "round": "Round 4",
+      "homeTeam": "FC Fleury 91",
+      "awayTeam": "Caen",
+      "homeScore": 1,
+      "awayScore": 2,
+      "htHome": 0,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Yellow cards": [
+          "2",
+          "4"
+        ]
+      }
+    },
+    {
+      "id": "MRYD87Qh",
+      "date": "2025-08-29T17:30:00.000Z",
+      "round": "Round 4",
+      "homeTeam": "Le Puy",
+      "awayTeam": "Bourg-Peronnas",
+      "homeScore": 1,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Yellow cards": [
+          "4",
+          "5"
+        ]
+      }
+    },
+    {
+      "id": "SOyM6oe5",
+      "date": "2025-08-29T17:30:00.000Z",
+      "round": "Round 4",
+      "homeTeam": "Sochaux",
+      "awayTeam": "Stade Briochin",
+      "homeScore": 2,
+      "awayScore": 0,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Yellow cards": [
+          "1",
+          "2"
+        ]
+      }
+    },
+    {
+      "id": "lvQU4PPH",
+      "date": "2025-08-29T17:30:00.000Z",
+      "round": "Round 4",
+      "homeTeam": "Valenciennes",
+      "awayTeam": "Rouen",
+      "homeScore": 2,
+      "awayScore": 3,
+      "htHome": 0,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Yellow cards": [
+          "1",
+          "4"
+        ]
+      }
+    },
+    {
+      "id": "p4QYt1GD",
+      "date": "2025-08-22T17:30:00.000Z",
+      "round": "Round 3",
+      "homeTeam": "Bourg-Peronnas",
+      "awayTeam": "Concarneau",
+      "homeScore": 0,
+      "awayScore": 2,
+      "htHome": 0,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Yellow cards": [
+          "1",
+          "2"
+        ]
+      }
+    },
+    {
+      "id": "WKlGgv0J",
+      "date": "2025-08-22T17:30:00.000Z",
+      "round": "Round 3",
+      "homeTeam": "Caen",
+      "awayTeam": "Versailles 78",
+      "homeScore": 0,
+      "awayScore": 2,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Yellow cards": [
+          "1",
+          "2"
+        ]
+      }
+    },
+    {
+      "id": "drfiarWs",
+      "date": "2025-08-22T17:30:00.000Z",
+      "round": "Round 3",
+      "homeTeam": "Le Puy",
+      "awayTeam": "Chateauroux",
+      "homeScore": 2,
+      "awayScore": 2,
+      "htHome": 0,
+      "htAway": 2,
+      "status": "FINISHED",
+      "stats": {
+        "Yellow cards": [
+          "3",
+          "7"
+        ],
+        "Red cards": [
+          "0",
+          "2"
+        ]
+      }
+    },
+    {
+      "id": "48cacM0f",
+      "date": "2025-08-22T17:30:00.000Z",
+      "round": "Round 3",
+      "homeTeam": "US Orleans 45",
+      "awayTeam": "Valenciennes",
+      "homeScore": 2,
+      "awayScore": 1,
+      "htHome": 2,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Yellow cards": [
+          "1",
+          "1"
+        ]
+      }
+    },
+    {
+      "id": "b7j8e0V6",
+      "date": "2025-08-22T17:30:00.000Z",
+      "round": "Round 3",
+      "homeTeam": "Paris 13 Atletico",
+      "awayTeam": "FC Fleury 91",
+      "homeScore": 1,
+      "awayScore": 0,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Yellow cards": [
+          "2",
+          "2"
+        ],
+        "Red cards": [
+          "0",
+          "1"
+        ]
+      }
+    },
+    {
+      "id": "CAIK448K",
+      "date": "2025-08-22T17:30:00.000Z",
+      "round": "Round 3",
+      "homeTeam": "Rouen",
+      "awayTeam": "Sochaux",
+      "homeScore": 3,
+      "awayScore": 1,
+      "htHome": 1,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Yellow cards": [
+          "1",
+          "2"
+        ]
+      }
+    },
+    {
+      "id": "ldJ01jJP",
+      "date": "2025-08-22T17:30:00.000Z",
+      "round": "Round 3",
+      "homeTeam": "Stade Briochin",
+      "awayTeam": "Dijon",
+      "homeScore": 0,
+      "awayScore": 0,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Yellow cards": [
+          "1",
+          "3"
+        ],
+        "Red cards": [
+          "0",
+          "1"
+        ]
+      }
+    },
+    {
+      "id": "KvAWeUtm",
+      "date": "2025-08-22T17:30:00.000Z",
+      "round": "Round 3",
+      "homeTeam": "Villefranche",
+      "awayTeam": "US Quevilly",
+      "homeScore": 2,
+      "awayScore": 1,
+      "htHome": 1,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Yellow cards": [
+          "1",
+          "4"
+        ],
+        "Red cards": [
+          "1",
+          "1"
+        ]
+      }
+    },
+    {
+      "id": "QLGAjEmA",
+      "date": "2025-08-15T17:30:00.000Z",
+      "round": "Round 2",
+      "homeTeam": "Aubagne",
+      "awayTeam": "Villefranche",
+      "homeScore": 3,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Yellow cards": [
+          "3",
+          "3"
+        ],
+        "Red cards": [
+          "1",
+          "1"
+        ]
+      }
+    },
+    {
+      "id": "IJekqWup",
+      "date": "2025-08-15T17:30:00.000Z",
+      "round": "Round 2",
+      "homeTeam": "Chateauroux",
+      "awayTeam": "Bourg-Peronnas",
+      "homeScore": 2,
+      "awayScore": 2,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Yellow cards": [
+          "3",
+          "3"
+        ]
+      }
+    },
+    {
+      "id": "bZEIlhIM",
+      "date": "2025-08-15T17:30:00.000Z",
+      "round": "Round 2",
+      "homeTeam": "Dijon",
+      "awayTeam": "Rouen",
+      "homeScore": 1,
+      "awayScore": 1,
+      "htHome": 1,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Yellow cards": [
+          "3",
+          "2"
+        ]
+      }
+    },
+    {
+      "id": "ARDdsAAd",
+      "date": "2025-08-15T17:30:00.000Z",
+      "round": "Round 2",
+      "homeTeam": "FC Fleury 91",
+      "awayTeam": "Stade Briochin",
+      "homeScore": 4,
+      "awayScore": 1,
+      "htHome": 3,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Yellow cards": [
+          "0",
+          "2"
+        ]
+      }
+    },
+    {
+      "id": "bmfi3iXF",
+      "date": "2025-08-15T17:30:00.000Z",
+      "round": "Round 2",
+      "homeTeam": "US Quevilly",
+      "awayTeam": "Caen",
+      "homeScore": 1,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Yellow cards": [
+          "2",
+          "2"
+        ]
+      }
+    },
+    {
+      "id": "jNjq5D23",
+      "date": "2025-08-15T17:30:00.000Z",
+      "round": "Round 2",
+      "homeTeam": "Sochaux",
+      "awayTeam": "US Orleans 45",
+      "homeScore": 5,
+      "awayScore": 0,
+      "htHome": 4,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Yellow cards": [
+          "4",
+          "5"
+        ]
+      }
+    },
+    {
+      "id": "hlCPpqHl",
+      "date": "2025-08-15T17:30:00.000Z",
+      "round": "Round 2",
+      "homeTeam": "Valenciennes",
+      "awayTeam": "Le Puy",
+      "homeScore": 2,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Yellow cards": [
+          "2",
+          "1"
+        ]
+      }
+    },
+    {
+      "id": "Q1AXrNo1",
+      "date": "2025-08-15T17:30:00.000Z",
+      "round": "Round 2",
+      "homeTeam": "Versailles 78",
+      "awayTeam": "Paris 13 Atletico",
+      "homeScore": 2,
+      "awayScore": 1,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Yellow cards": [
+          "2",
+          "3"
+        ]
+      }
+    },
+    {
+      "id": "vPbqzg3T",
+      "date": "2025-08-08T17:30:00.000Z",
+      "round": "Round 1",
+      "homeTeam": "Caen",
+      "awayTeam": "Aubagne",
+      "homeScore": 3,
+      "awayScore": 0,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Yellow cards": [
+          "4",
+          "4"
+        ],
+        "Red cards": [
+          "1",
+          "0"
+        ]
+      }
+    },
+    {
+      "id": "IeV1NFJN",
+      "date": "2025-08-08T17:30:00.000Z",
+      "round": "Round 1",
+      "homeTeam": "Chateauroux",
+      "awayTeam": "Valenciennes",
+      "homeScore": 0,
+      "awayScore": 0,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Yellow cards": [
+          "1",
+          "2"
+        ]
+      }
+    },
+    {
+      "id": "2J3KucZi",
+      "date": "2025-08-08T17:30:00.000Z",
+      "round": "Round 1",
+      "homeTeam": "Le Puy",
+      "awayTeam": "Sochaux",
+      "homeScore": 0,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Yellow cards": [
+          "1",
+          "2"
+        ]
+      }
+    },
+    {
+      "id": "zX1Swy44",
+      "date": "2025-08-08T17:30:00.000Z",
+      "round": "Round 1",
+      "homeTeam": "US Orleans 45",
+      "awayTeam": "Dijon",
+      "homeScore": 1,
+      "awayScore": 2,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Yellow cards": [
+          "1",
+          "3"
+        ]
+      }
+    },
+    {
+      "id": "WbeyxFYG",
+      "date": "2025-08-08T17:30:00.000Z",
+      "round": "Round 1",
+      "homeTeam": "Paris 13 Atletico",
+      "awayTeam": "US Quevilly",
+      "homeScore": 1,
+      "awayScore": 0,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Yellow cards": [
+          "1",
+          "3"
+        ]
+      }
+    },
+    {
+      "id": "lvMXHgso",
+      "date": "2025-08-08T17:30:00.000Z",
+      "round": "Round 1",
+      "homeTeam": "Rouen",
+      "awayTeam": "FC Fleury 91",
+      "homeScore": 0,
+      "awayScore": 0,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Yellow cards": [
+          "3",
+          "1"
+        ],
+        "Red cards": [
+          "1",
+          "0"
+        ]
+      }
+    },
+    {
+      "id": "OdzGUWQj",
+      "date": "2025-08-08T17:30:00.000Z",
+      "round": "Round 1",
+      "homeTeam": "Stade Briochin",
+      "awayTeam": "Versailles 78",
+      "homeScore": 0,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Yellow cards": [
+          "1",
+          "2"
+        ],
+        "Red cards": [
+          "1",
+          "0"
+        ]
+      }
+    },
+    {
+      "id": "UgN1hzJc",
+      "date": "2025-08-08T17:30:00.000Z",
+      "round": "Round 1",
+      "homeTeam": "Villefranche",
+      "awayTeam": "Concarneau",
+      "homeScore": 0,
+      "awayScore": 0,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Yellow cards": [
+          "3",
+          "2"
+        ]
+      }
+    }
+  ]
+}

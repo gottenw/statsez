@@ -1,0 +1,3057 @@
+{
+  "league": "Botola Pro",
+  "country": "morocco",
+  "season": "2025-2026",
+  "collectedAt": "2026-02-10T17:40:03.526Z",
+  "totalMatches": 76,
+  "matches": [
+    {
+      "id": "lOEZgJN6",
+      "date": "2026-02-08T17:00:00.000Z",
+      "round": "Round 11",
+      "homeTeam": "CODM Meknes",
+      "awayTeam": "Raja Casablanca",
+      "homeScore": 1,
+      "awayScore": 0,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "44%",
+          "56%"
+        ],
+        "Total shots": [
+          "11",
+          "21"
+        ],
+        "Shots on target": [
+          "6",
+          "10"
+        ],
+        "Corner kicks": [
+          "2",
+          "7"
+        ],
+        "Yellow cards": [
+          "4",
+          "3"
+        ],
+        "Shots off target": [
+          "5",
+          "11"
+        ]
+      }
+    },
+    {
+      "id": "tbBReugf",
+      "date": "2026-02-08T15:00:00.000Z",
+      "round": "Round 11",
+      "homeTeam": "Renaissance Zemamra",
+      "awayTeam": "Ittihad Tanger",
+      "homeScore": 1,
+      "awayScore": 0,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "26%",
+          "74%"
+        ],
+        "Total shots": [
+          "5",
+          "16"
+        ],
+        "Shots on target": [
+          "2",
+          "6"
+        ],
+        "Corner kicks": [
+          "1",
+          "7"
+        ],
+        "Yellow cards": [
+          "6",
+          "2"
+        ],
+        "Shots off target": [
+          "3",
+          "10"
+        ]
+      }
+    },
+    {
+      "id": "fsDJc1Os",
+      "date": "2026-02-07T17:00:00.000Z",
+      "round": "Round 11",
+      "homeTeam": "Union de Touarga",
+      "awayTeam": "HUSA Agadir",
+      "homeScore": 0,
+      "awayScore": 2,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "56%",
+          "44%"
+        ],
+        "Total shots": [
+          "7",
+          "9"
+        ],
+        "Shots on target": [
+          "3",
+          "5"
+        ],
+        "Corner kicks": [
+          "1",
+          "1"
+        ],
+        "Yellow cards": [
+          "5",
+          "1"
+        ],
+        "Red cards": [
+          "1",
+          "0"
+        ],
+        "Shots off target": [
+          "4",
+          "4"
+        ]
+      }
+    },
+    {
+      "id": "bBRm3N0K",
+      "date": "2026-02-07T15:00:00.000Z",
+      "round": "Round 11",
+      "homeTeam": "Olympique Dcheira",
+      "awayTeam": "FUS Rabat",
+      "homeScore": 1,
+      "awayScore": 1,
+      "htHome": 1,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "49%",
+          "51%"
+        ],
+        "Total shots": [
+          "11",
+          "5"
+        ],
+        "Shots on target": [
+          "3",
+          "3"
+        ],
+        "Corner kicks": [
+          "3",
+          "3"
+        ],
+        "Yellow cards": [
+          "3",
+          "3"
+        ],
+        "Red cards": [
+          "0",
+          "1"
+        ],
+        "Shots off target": [
+          "8",
+          "2"
+        ]
+      }
+    },
+    {
+      "id": "Cp3APfPs",
+      "date": "2026-02-01T17:00:00.000Z",
+      "round": "Round 10",
+      "homeTeam": "Raja Casablanca",
+      "awayTeam": "Renaissance Zemamra",
+      "homeScore": 3,
+      "awayScore": 0,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "50%",
+          "50%"
+        ],
+        "Total shots": [
+          "9",
+          "5"
+        ],
+        "Shots on target": [
+          "5",
+          "0"
+        ],
+        "Corner kicks": [
+          "4",
+          "6"
+        ],
+        "Yellow cards": [
+          "1",
+          "1"
+        ],
+        "Shots off target": [
+          "4",
+          "5"
+        ]
+      }
+    },
+    {
+      "id": "pCGHNYgf",
+      "date": "2026-02-01T15:00:00.000Z",
+      "round": "Round 10",
+      "homeTeam": "Ittihad Tanger",
+      "awayTeam": "KACM Marrakesh",
+      "homeScore": 0,
+      "awayScore": 0,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "62%",
+          "38%"
+        ],
+        "Total shots": [
+          "7",
+          "7"
+        ],
+        "Shots on target": [
+          "1",
+          "2"
+        ],
+        "Corner kicks": [
+          "3",
+          "2"
+        ],
+        "Yellow cards": [
+          "2",
+          "2"
+        ],
+        "Red cards": [
+          "0",
+          "1"
+        ],
+        "Shots off target": [
+          "6",
+          "5"
+        ]
+      }
+    },
+    {
+      "id": "SCRwVG1K",
+      "date": "2026-01-31T19:00:00.000Z",
+      "round": "Round 10",
+      "homeTeam": "Difaa El Jadida",
+      "awayTeam": "MAS Fes",
+      "homeScore": 0,
+      "awayScore": 0,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "40%",
+          "60%"
+        ],
+        "Total shots": [
+          "2",
+          "9"
+        ],
+        "Shots on target": [
+          "1",
+          "2"
+        ],
+        "Corner kicks": [
+          "1",
+          "2"
+        ],
+        "Yellow cards": [
+          "1",
+          "1"
+        ],
+        "Shots off target": [
+          "1",
+          "7"
+        ]
+      }
+    },
+    {
+      "id": "06Zi7D9D",
+      "date": "2026-01-31T17:00:00.000Z",
+      "round": "Round 10",
+      "homeTeam": "CODM Meknes",
+      "awayTeam": "Union de Touarga",
+      "homeScore": 1,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "62%",
+          "38%"
+        ],
+        "Total shots": [
+          "7",
+          "6"
+        ],
+        "Shots on target": [
+          "2",
+          "2"
+        ],
+        "Corner kicks": [
+          "6",
+          "3"
+        ],
+        "Yellow cards": [
+          "3",
+          "2"
+        ],
+        "Shots off target": [
+          "5",
+          "4"
+        ]
+      }
+    },
+    {
+      "id": "4vtq9Zv1",
+      "date": "2026-01-31T15:00:00.000Z",
+      "round": "Round 10",
+      "homeTeam": "HUSA Agadir",
+      "awayTeam": "US Yacoub El Mansour",
+      "homeScore": 2,
+      "awayScore": 0,
+      "htHome": 2,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "40%",
+          "60%"
+        ],
+        "Total shots": [
+          "5",
+          "6"
+        ],
+        "Shots on target": [
+          "2",
+          "2"
+        ],
+        "Corner kicks": [
+          "7",
+          "6"
+        ],
+        "Yellow cards": [
+          "3",
+          "3"
+        ],
+        "Shots off target": [
+          "3",
+          "4"
+        ]
+      }
+    },
+    {
+      "id": "INH1ddee",
+      "date": "2026-01-25T17:00:00.000Z",
+      "round": "Round 9",
+      "homeTeam": "Union de Touarga",
+      "awayTeam": "Raja Casablanca",
+      "homeScore": 1,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "35%",
+          "65%"
+        ],
+        "Total shots": [
+          "9",
+          "8"
+        ],
+        "Shots on target": [
+          "6",
+          "1"
+        ],
+        "Corner kicks": [
+          "2",
+          "3"
+        ],
+        "Yellow cards": [
+          "4",
+          "2"
+        ],
+        "Red cards": [
+          "0",
+          "1"
+        ],
+        "Shots off target": [
+          "3",
+          "7"
+        ]
+      }
+    },
+    {
+      "id": "bL10bIQr",
+      "date": "2026-01-25T15:00:00.000Z",
+      "round": "Round 9",
+      "homeTeam": "Renaissance Zemamra",
+      "awayTeam": "CODM Meknes",
+      "homeScore": 1,
+      "awayScore": 2,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "48%",
+          "52%"
+        ],
+        "Total shots": [
+          "3",
+          "6"
+        ],
+        "Shots on target": [
+          "3",
+          "3"
+        ],
+        "Corner kicks": [
+          "7",
+          "2"
+        ],
+        "Yellow cards": [
+          "4",
+          "1"
+        ],
+        "Shots off target": [
+          "0",
+          "3"
+        ]
+      }
+    },
+    {
+      "id": "SYvTGQtA",
+      "date": "2026-01-24T19:00:00.000Z",
+      "round": "Round 9",
+      "homeTeam": "US Yacoub El Mansour",
+      "awayTeam": "Ittihad Tanger",
+      "homeScore": 1,
+      "awayScore": 2,
+      "htHome": 0,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "54%",
+          "46%"
+        ],
+        "Total shots": [
+          "9",
+          "10"
+        ],
+        "Shots on target": [
+          "2",
+          "5"
+        ],
+        "Corner kicks": [
+          "6",
+          "4"
+        ],
+        "Yellow cards": [
+          "2",
+          "3"
+        ],
+        "Red cards": [
+          "1",
+          "0"
+        ],
+        "Shots off target": [
+          "7",
+          "5"
+        ]
+      }
+    },
+    {
+      "id": "W6oKInCc",
+      "date": "2026-01-24T17:00:00.000Z",
+      "round": "Round 9",
+      "homeTeam": "MAS Fes",
+      "awayTeam": "FUS Rabat",
+      "homeScore": 4,
+      "awayScore": 2,
+      "htHome": 2,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "53%",
+          "47%"
+        ],
+        "Total shots": [
+          "15",
+          "3"
+        ],
+        "Shots on target": [
+          "7",
+          "2"
+        ],
+        "Corner kicks": [
+          "5",
+          "3"
+        ],
+        "Yellow cards": [
+          "2",
+          "0"
+        ],
+        "Red cards": [
+          "0",
+          "1"
+        ],
+        "Shots off target": [
+          "8",
+          "1"
+        ]
+      }
+    },
+    {
+      "id": "40gYfqKj",
+      "date": "2026-01-24T15:00:00.000Z",
+      "round": "Round 9",
+      "homeTeam": "Olympique Dcheira",
+      "awayTeam": "Difaa El Jadida",
+      "homeScore": 0,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "53%",
+          "47%"
+        ],
+        "Total shots": [
+          "7",
+          "7"
+        ],
+        "Shots on target": [
+          "2",
+          "2"
+        ],
+        "Corner kicks": [
+          "6",
+          "5"
+        ],
+        "Yellow cards": [
+          "0",
+          "2"
+        ],
+        "Red cards": [
+          "0",
+          "1"
+        ],
+        "Shots off target": [
+          "5",
+          "5"
+        ]
+      }
+    },
+    {
+      "id": "ruC0XnUj",
+      "date": "2025-11-09T19:00:00.000Z",
+      "round": "Round 8",
+      "homeTeam": "FAR Rabat",
+      "awayTeam": "MAS Fes",
+      "homeScore": 0,
+      "awayScore": 0,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "56%",
+          "44%"
+        ],
+        "Total shots": [
+          "9",
+          "9"
+        ],
+        "Shots on target": [
+          "6",
+          "5"
+        ],
+        "Corner kicks": [
+          "3",
+          "5"
+        ],
+        "Yellow cards": [
+          "0",
+          "2"
+        ],
+        "Shots off target": [
+          "3",
+          "4"
+        ]
+      }
+    },
+    {
+      "id": "n9QUx96T",
+      "date": "2025-11-09T17:00:00.000Z",
+      "round": "Round 8",
+      "homeTeam": "Ittihad Tanger",
+      "awayTeam": "RSB Berkane",
+      "homeScore": 1,
+      "awayScore": 0,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "44%",
+          "56%"
+        ],
+        "Total shots": [
+          "9",
+          "6"
+        ],
+        "Shots on target": [
+          "5",
+          "2"
+        ],
+        "Corner kicks": [
+          "3",
+          "10"
+        ],
+        "Yellow cards": [
+          "2",
+          "0"
+        ],
+        "Red cards": [
+          "1",
+          "0"
+        ],
+        "Shots off target": [
+          "4",
+          "4"
+        ]
+      }
+    },
+    {
+      "id": "bZEEti74",
+      "date": "2025-11-09T15:00:00.000Z",
+      "round": "Round 8",
+      "homeTeam": "Difaa El Jadida",
+      "awayTeam": "FUS Rabat",
+      "homeScore": 1,
+      "awayScore": 0,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "41%",
+          "59%"
+        ],
+        "Total shots": [
+          "4",
+          "5"
+        ],
+        "Shots on target": [
+          "1",
+          "1"
+        ],
+        "Corner kicks": [
+          "4",
+          "3"
+        ],
+        "Yellow cards": [
+          "5",
+          "1"
+        ],
+        "Red cards": [
+          "1",
+          "0"
+        ],
+        "Shots off target": [
+          "3",
+          "4"
+        ]
+      }
+    },
+    {
+      "id": "6aIMvVyH",
+      "date": "2025-11-09T15:00:00.000Z",
+      "round": "Round 8",
+      "homeTeam": "OC Safi",
+      "awayTeam": "Wydad AC",
+      "homeScore": 1,
+      "awayScore": 2,
+      "htHome": 0,
+      "htAway": 2,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "41%",
+          "59%"
+        ],
+        "Total shots": [
+          "3",
+          "3"
+        ],
+        "Shots on target": [
+          "2",
+          "2"
+        ],
+        "Corner kicks": [
+          "6",
+          "5"
+        ],
+        "Yellow cards": [
+          "1",
+          "2"
+        ],
+        "Shots off target": [
+          "1",
+          "1"
+        ]
+      }
+    },
+    {
+      "id": "xKQ5rDxh",
+      "date": "2025-11-08T19:00:00.000Z",
+      "round": "Round 8",
+      "homeTeam": "CODM Meknes",
+      "awayTeam": "US Yacoub El Mansour",
+      "homeScore": 1,
+      "awayScore": 0,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "56%",
+          "44%"
+        ],
+        "Total shots": [
+          "5",
+          "17"
+        ],
+        "Shots on target": [
+          "4",
+          "11"
+        ],
+        "Corner kicks": [
+          "3",
+          "6"
+        ],
+        "Yellow cards": [
+          "3",
+          "2"
+        ],
+        "Shots off target": [
+          "1",
+          "6"
+        ]
+      }
+    },
+    {
+      "id": "ADYJK9po",
+      "date": "2025-11-08T17:00:00.000Z",
+      "round": "Round 8",
+      "homeTeam": "Union de Touarga",
+      "awayTeam": "Renaissance Zemamra",
+      "homeScore": 1,
+      "awayScore": 2,
+      "htHome": 1,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "45%",
+          "55%"
+        ],
+        "Total shots": [
+          "1",
+          "2"
+        ],
+        "Shots on target": [
+          "1",
+          "2"
+        ],
+        "Corner kicks": [
+          "5",
+          "5"
+        ],
+        "Yellow cards": [
+          "4",
+          "4"
+        ],
+        "Red cards": [
+          "3",
+          "0"
+        ],
+        "Shots off target": [
+          "0",
+          "0"
+        ]
+      }
+    },
+    {
+      "id": "ShVfQVMN",
+      "date": "2025-11-08T15:00:00.000Z",
+      "round": "Round 8",
+      "homeTeam": "HUSA Agadir",
+      "awayTeam": "Olympique Dcheira",
+      "homeScore": 0,
+      "awayScore": 3,
+      "htHome": 0,
+      "htAway": 2,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "43%",
+          "57%"
+        ],
+        "Total shots": [
+          "10",
+          "13"
+        ],
+        "Shots on target": [
+          "5",
+          "9"
+        ],
+        "Corner kicks": [
+          "12",
+          "3"
+        ],
+        "Yellow cards": [
+          "4",
+          "1"
+        ],
+        "Shots off target": [
+          "5",
+          "4"
+        ]
+      }
+    },
+    {
+      "id": "nJJaAaFi",
+      "date": "2025-11-06T19:00:00.000Z",
+      "round": "Round 6",
+      "homeTeam": "FAR Rabat",
+      "awayTeam": "FUS Rabat",
+      "homeScore": 1,
+      "awayScore": 0,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "58%",
+          "42%"
+        ],
+        "Total shots": [
+          "13",
+          "8"
+        ],
+        "Shots on target": [
+          "6",
+          "3"
+        ],
+        "Corner kicks": [
+          "4",
+          "2"
+        ],
+        "Yellow cards": [
+          "4",
+          "5"
+        ],
+        "Red cards": [
+          "0",
+          "1"
+        ],
+        "Shots off target": [
+          "7",
+          "5"
+        ]
+      }
+    },
+    {
+      "id": "CYYk30hI",
+      "date": "2025-11-05T17:00:00.000Z",
+      "round": "Round 5",
+      "homeTeam": "RSB Berkane",
+      "awayTeam": "CODM Meknes",
+      "homeScore": 2,
+      "awayScore": 0,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "55%",
+          "45%"
+        ],
+        "Total shots": [
+          "17",
+          "9"
+        ],
+        "Shots on target": [
+          "9",
+          "1"
+        ],
+        "Corner kicks": [
+          "4",
+          "1"
+        ],
+        "Yellow cards": [
+          "3",
+          "2"
+        ],
+        "Shots off target": [
+          "8",
+          "8"
+        ]
+      }
+    },
+    {
+      "id": "fPWDndNp",
+      "date": "2025-11-05T17:00:00.000Z",
+      "round": "Round 6",
+      "homeTeam": "OC Safi",
+      "awayTeam": "Difaa El Jadida",
+      "homeScore": 1,
+      "awayScore": 2,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "53%",
+          "47%"
+        ],
+        "Total shots": [
+          "9",
+          "5"
+        ],
+        "Shots on target": [
+          "6",
+          "4"
+        ],
+        "Corner kicks": [
+          "4",
+          "1"
+        ],
+        "Yellow cards": [
+          "2",
+          "3"
+        ],
+        "Shots off target": [
+          "3",
+          "1"
+        ]
+      }
+    },
+    {
+      "id": "zujshIaN",
+      "date": "2025-11-05T15:00:00.000Z",
+      "round": "Round 6",
+      "homeTeam": "HUSA Agadir",
+      "awayTeam": "Wydad AC",
+      "homeScore": 1,
+      "awayScore": 2,
+      "htHome": 1,
+      "htAway": 2,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "39%",
+          "61%"
+        ],
+        "Total shots": [
+          "7",
+          "10"
+        ],
+        "Shots on target": [
+          "2",
+          "3"
+        ],
+        "Corner kicks": [
+          "3",
+          "7"
+        ],
+        "Yellow cards": [
+          "2",
+          "3"
+        ],
+        "Shots off target": [
+          "5",
+          "7"
+        ]
+      }
+    },
+    {
+      "id": "fuXnSihB",
+      "date": "2025-11-04T19:00:00.000Z",
+      "round": "Round 8",
+      "homeTeam": "Raja Casablanca",
+      "awayTeam": "KACM Marrakesh",
+      "homeScore": 1,
+      "awayScore": 0,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "66%",
+          "34%"
+        ],
+        "Total shots": [
+          "22",
+          "10"
+        ],
+        "Shots on target": [
+          "10",
+          "1"
+        ],
+        "Corner kicks": [
+          "7",
+          "5"
+        ],
+        "Yellow cards": [
+          "4",
+          "6"
+        ],
+        "Shots off target": [
+          "12",
+          "9"
+        ]
+      }
+    },
+    {
+      "id": "6s1LoZC5",
+      "date": "2025-11-02T19:00:00.000Z",
+      "round": "Round 7",
+      "homeTeam": "FUS Rabat",
+      "awayTeam": "HUSA Agadir",
+      "homeScore": 1,
+      "awayScore": 2,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "52%",
+          "48%"
+        ],
+        "Total shots": [
+          "8",
+          "5"
+        ],
+        "Shots on target": [
+          "2",
+          "4"
+        ],
+        "Corner kicks": [
+          "2",
+          "3"
+        ],
+        "Yellow cards": [
+          "2",
+          "3"
+        ],
+        "Shots off target": [
+          "6",
+          "1"
+        ]
+      }
+    },
+    {
+      "id": "04vfVDSO",
+      "date": "2025-11-02T19:00:00.000Z",
+      "round": "Round 7",
+      "homeTeam": "Wydad AC",
+      "awayTeam": "Ittihad Tanger",
+      "homeScore": 2,
+      "awayScore": 0,
+      "htHome": 2,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "48%",
+          "52%"
+        ],
+        "Total shots": [
+          "17",
+          "8"
+        ],
+        "Shots on target": [
+          "9",
+          "2"
+        ],
+        "Corner kicks": [
+          "8",
+          "5"
+        ],
+        "Yellow cards": [
+          "4",
+          "2"
+        ],
+        "Red cards": [
+          "1",
+          "0"
+        ],
+        "Shots off target": [
+          "8",
+          "6"
+        ]
+      }
+    },
+    {
+      "id": "pSCCmerg",
+      "date": "2025-11-02T17:00:00.000Z",
+      "round": "Round 7",
+      "homeTeam": "Difaa El Jadida",
+      "awayTeam": "FAR Rabat",
+      "homeScore": 0,
+      "awayScore": 4,
+      "htHome": 0,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "37%",
+          "63%"
+        ],
+        "Total shots": [
+          "8",
+          "20"
+        ],
+        "Shots on target": [
+          "3",
+          "10"
+        ],
+        "Corner kicks": [
+          "4",
+          "7"
+        ],
+        "Yellow cards": [
+          "2",
+          "1"
+        ],
+        "Shots off target": [
+          "5",
+          "10"
+        ]
+      }
+    },
+    {
+      "id": "vV94kHDt",
+      "date": "2025-11-02T15:00:00.000Z",
+      "round": "Round 7",
+      "homeTeam": "MAS Fes",
+      "awayTeam": "OC Safi",
+      "homeScore": 4,
+      "awayScore": 0,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "59%",
+          "41%"
+        ],
+        "Total shots": [
+          "7",
+          "1"
+        ],
+        "Shots on target": [
+          "5",
+          "1"
+        ],
+        "Corner kicks": [
+          "2",
+          "3"
+        ],
+        "Yellow cards": [
+          "1",
+          "5"
+        ],
+        "Red cards": [
+          "0",
+          "1"
+        ],
+        "Shots off target": [
+          "2",
+          "0"
+        ]
+      }
+    },
+    {
+      "id": "SjtnXZcC",
+      "date": "2025-11-01T19:00:00.000Z",
+      "round": "Round 7",
+      "homeTeam": "US Yacoub El Mansour",
+      "awayTeam": "Renaissance Zemamra",
+      "homeScore": 2,
+      "awayScore": 0,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "50%",
+          "50%"
+        ],
+        "Total shots": [
+          "10",
+          "6"
+        ],
+        "Shots on target": [
+          "3",
+          "3"
+        ],
+        "Corner kicks": [
+          "1",
+          "3"
+        ],
+        "Yellow cards": [
+          "2",
+          "2"
+        ],
+        "Shots off target": [
+          "7",
+          "3"
+        ]
+      }
+    },
+    {
+      "id": "bcZVzIbm",
+      "date": "2025-10-31T15:00:00.000Z",
+      "round": "Round 7",
+      "homeTeam": "Olympique Dcheira",
+      "awayTeam": "CODM Meknes",
+      "homeScore": 1,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "58%",
+          "42%"
+        ],
+        "Total shots": [
+          "12",
+          "6"
+        ],
+        "Shots on target": [
+          "3",
+          "3"
+        ],
+        "Corner kicks": [
+          "8",
+          "1"
+        ],
+        "Yellow cards": [
+          "2",
+          "2"
+        ],
+        "Shots off target": [
+          "9",
+          "3"
+        ]
+      }
+    },
+    {
+      "id": "WOnwZeTa",
+      "date": "2025-10-31T15:00:00.000Z",
+      "round": "Round 7",
+      "homeTeam": "KACM Marrakesh",
+      "awayTeam": "Union de Touarga",
+      "homeScore": 3,
+      "awayScore": 0,
+      "htHome": 2,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "41%",
+          "59%"
+        ],
+        "Total shots": [
+          "14",
+          "6"
+        ],
+        "Shots on target": [
+          "7",
+          "0"
+        ],
+        "Corner kicks": [
+          "6",
+          "5"
+        ],
+        "Yellow cards": [
+          "3",
+          "3"
+        ],
+        "Red cards": [
+          "0",
+          "1"
+        ],
+        "Shots off target": [
+          "7",
+          "6"
+        ]
+      }
+    },
+    {
+      "id": "IZus5MN5",
+      "date": "2025-10-30T19:00:00.000Z",
+      "round": "Round 5",
+      "homeTeam": "FUS Rabat",
+      "awayTeam": "OC Safi",
+      "homeScore": 2,
+      "awayScore": 1,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "48%",
+          "52%"
+        ],
+        "Total shots": [
+          "10",
+          "9"
+        ],
+        "Shots on target": [
+          "7",
+          "5"
+        ],
+        "Corner kicks": [
+          "4",
+          "3"
+        ],
+        "Yellow cards": [
+          "1",
+          "3"
+        ],
+        "Shots off target": [
+          "3",
+          "4"
+        ]
+      }
+    },
+    {
+      "id": "A9xZ6rgg",
+      "date": "2025-10-29T19:00:00.000Z",
+      "round": "Round 5",
+      "homeTeam": "Wydad AC",
+      "awayTeam": "Raja Casablanca",
+      "homeScore": 0,
+      "awayScore": 0,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "44%",
+          "56%"
+        ],
+        "Total shots": [
+          "7",
+          "4"
+        ],
+        "Shots on target": [
+          "1",
+          "1"
+        ],
+        "Corner kicks": [
+          "4",
+          "4"
+        ],
+        "Yellow cards": [
+          "2",
+          "3"
+        ],
+        "Shots off target": [
+          "6",
+          "3"
+        ]
+      }
+    },
+    {
+      "id": "lflQ84Ot",
+      "date": "2025-10-29T17:00:00.000Z",
+      "round": "Round 5",
+      "homeTeam": "FAR Rabat",
+      "awayTeam": "HUSA Agadir",
+      "homeScore": 3,
+      "awayScore": 0,
+      "htHome": 2,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "59%",
+          "41%"
+        ],
+        "Total shots": [
+          "17",
+          "6"
+        ],
+        "Shots on target": [
+          "10",
+          "3"
+        ],
+        "Corner kicks": [
+          "7",
+          "4"
+        ],
+        "Yellow cards": [
+          "1",
+          "2"
+        ],
+        "Shots off target": [
+          "7",
+          "3"
+        ]
+      }
+    },
+    {
+      "id": "lOiZgvVA",
+      "date": "2025-10-26T17:00:00.000Z",
+      "round": "Round 6",
+      "homeTeam": "CODM Meknes",
+      "awayTeam": "KACM Marrakesh",
+      "homeScore": 1,
+      "awayScore": 0,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "25%",
+          "75%"
+        ],
+        "Total shots": [
+          "1",
+          "4"
+        ],
+        "Shots on target": [
+          "1",
+          "0"
+        ],
+        "Corner kicks": [
+          "2",
+          "9"
+        ],
+        "Yellow cards": [
+          "1",
+          "3"
+        ],
+        "Red cards": [
+          "1",
+          "0"
+        ],
+        "Shots off target": [
+          "0",
+          "4"
+        ]
+      }
+    },
+    {
+      "id": "S83Qe00b",
+      "date": "2025-10-26T15:00:00.000Z",
+      "round": "Round 6",
+      "homeTeam": "Union de Touarga",
+      "awayTeam": "US Yacoub El Mansour",
+      "homeScore": 1,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "56%",
+          "44%"
+        ],
+        "Total shots": [
+          "12",
+          "15"
+        ],
+        "Shots on target": [
+          "4",
+          "6"
+        ],
+        "Corner kicks": [
+          "1",
+          "2"
+        ],
+        "Yellow cards": [
+          "3",
+          "4"
+        ],
+        "Shots off target": [
+          "8",
+          "9"
+        ]
+      }
+    },
+    {
+      "id": "Kr0IcMVo",
+      "date": "2025-10-25T17:00:00.000Z",
+      "round": "Round 6",
+      "homeTeam": "Raja Casablanca",
+      "awayTeam": "Olympique Dcheira",
+      "homeScore": 1,
+      "awayScore": 0,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "62%",
+          "38%"
+        ],
+        "Total shots": [
+          "9",
+          "8"
+        ],
+        "Shots on target": [
+          "5",
+          "2"
+        ],
+        "Corner kicks": [
+          "4",
+          "1"
+        ],
+        "Yellow cards": [
+          "4",
+          "2"
+        ],
+        "Shots off target": [
+          "4",
+          "6"
+        ]
+      }
+    },
+    {
+      "id": "pnXc1vNU",
+      "date": "2025-10-25T15:00:00.000Z",
+      "round": "Round 6",
+      "homeTeam": "Ittihad Tanger",
+      "awayTeam": "MAS Fes",
+      "homeScore": 1,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "61%",
+          "39%"
+        ],
+        "Total shots": [
+          "13",
+          "8"
+        ],
+        "Shots on target": [
+          "3",
+          "6"
+        ],
+        "Corner kicks": [
+          "3",
+          "4"
+        ],
+        "Yellow cards": [
+          "2",
+          "1"
+        ],
+        "Red cards": [
+          "0",
+          "1"
+        ],
+        "Shots off target": [
+          "10",
+          "2"
+        ]
+      }
+    },
+    {
+      "id": "bV8Gl1wP",
+      "date": "2025-10-19T17:00:00.000Z",
+      "round": "Round 5",
+      "homeTeam": "Difaa El Jadida",
+      "awayTeam": "Ittihad Tanger",
+      "homeScore": 2,
+      "awayScore": 2,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "40%",
+          "60%"
+        ],
+        "Total shots": [
+          "12",
+          "10"
+        ],
+        "Shots on target": [
+          "6",
+          "4"
+        ],
+        "Corner kicks": [
+          "2",
+          "5"
+        ],
+        "Yellow cards": [
+          "2",
+          "1"
+        ],
+        "Shots off target": [
+          "6",
+          "6"
+        ]
+      }
+    },
+    {
+      "id": "hIwGjN8C",
+      "date": "2025-10-19T15:00:00.000Z",
+      "round": "Round 5",
+      "homeTeam": "KACM Marrakesh",
+      "awayTeam": "US Yacoub El Mansour",
+      "homeScore": 2,
+      "awayScore": 1,
+      "htHome": 2,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "35%",
+          "65%"
+        ],
+        "Total shots": [
+          "7",
+          "10"
+        ],
+        "Shots on target": [
+          "5",
+          "4"
+        ],
+        "Corner kicks": [
+          "0",
+          "5"
+        ],
+        "Yellow cards": [
+          "5",
+          "6"
+        ],
+        "Red cards": [
+          "0",
+          "1"
+        ],
+        "Shots off target": [
+          "2",
+          "6"
+        ]
+      }
+    },
+    {
+      "id": "Oxnaf59m",
+      "date": "2025-10-18T15:00:00.000Z",
+      "round": "Round 5",
+      "homeTeam": "Olympique Dcheira",
+      "awayTeam": "Renaissance Zemamra",
+      "homeScore": 0,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "57%",
+          "43%"
+        ],
+        "Total shots": [
+          "14",
+          "10"
+        ],
+        "Shots on target": [
+          "5",
+          "6"
+        ],
+        "Corner kicks": [
+          "3",
+          "3"
+        ],
+        "Yellow cards": [
+          "2",
+          "2"
+        ],
+        "Shots off target": [
+          "9",
+          "4"
+        ]
+      }
+    },
+    {
+      "id": "K4u8hqv0",
+      "date": "2025-10-18T15:00:00.000Z",
+      "round": "Round 5",
+      "homeTeam": "MAS Fes",
+      "awayTeam": "Union de Touarga",
+      "homeScore": 1,
+      "awayScore": 0,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "53%",
+          "47%"
+        ],
+        "Total shots": [
+          "1",
+          "2"
+        ],
+        "Shots on target": [
+          "1",
+          "0"
+        ],
+        "Corner kicks": [
+          "0",
+          "3"
+        ],
+        "Yellow cards": [
+          "4",
+          "3"
+        ],
+        "Shots off target": [
+          "0",
+          "2"
+        ]
+      }
+    },
+    {
+      "id": "6TeLuaZ8",
+      "date": "2025-10-05T19:00:00.000Z",
+      "round": "Round 4",
+      "homeTeam": "OC Safi",
+      "awayTeam": "FAR Rabat",
+      "homeScore": 0,
+      "awayScore": 3,
+      "htHome": 0,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "43%",
+          "57%"
+        ],
+        "Total shots": [
+          "6",
+          "15"
+        ],
+        "Shots on target": [
+          "4",
+          "11"
+        ],
+        "Corner kicks": [
+          "3",
+          "8"
+        ],
+        "Yellow cards": [
+          "2",
+          "3"
+        ],
+        "Red cards": [
+          "1",
+          "0"
+        ],
+        "Shots off target": [
+          "2",
+          "4"
+        ]
+      }
+    },
+    {
+      "id": "jLDYHes2",
+      "date": "2025-10-05T17:00:00.000Z",
+      "round": "Round 4",
+      "homeTeam": "Union de Touarga",
+      "awayTeam": "RSB Berkane",
+      "homeScore": 2,
+      "awayScore": 2,
+      "htHome": 1,
+      "htAway": 2,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "37%",
+          "63%"
+        ],
+        "Total shots": [
+          "5",
+          "14"
+        ],
+        "Shots on target": [
+          "4",
+          "7"
+        ],
+        "Corner kicks": [
+          "3",
+          "4"
+        ],
+        "Yellow cards": [
+          "6",
+          "2"
+        ],
+        "Red cards": [
+          "0",
+          "1"
+        ],
+        "Shots off target": [
+          "1",
+          "7"
+        ]
+      }
+    },
+    {
+      "id": "I7FQJHCk",
+      "date": "2025-10-05T15:00:00.000Z",
+      "round": "Round 4",
+      "homeTeam": "HUSA Agadir",
+      "awayTeam": "Difaa El Jadida",
+      "homeScore": 2,
+      "awayScore": 1,
+      "htHome": 1,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "38%",
+          "62%"
+        ],
+        "Total shots": [
+          "8",
+          "7"
+        ],
+        "Shots on target": [
+          "4",
+          "5"
+        ],
+        "Corner kicks": [
+          "0",
+          "4"
+        ],
+        "Yellow cards": [
+          "3",
+          "3"
+        ],
+        "Shots off target": [
+          "4",
+          "2"
+        ]
+      }
+    },
+    {
+      "id": "bNYgPwkS",
+      "date": "2025-10-05T15:00:00.000Z",
+      "round": "Round 4",
+      "homeTeam": "US Yacoub El Mansour",
+      "awayTeam": "Olympique Dcheira",
+      "homeScore": 0,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "44%",
+          "56%"
+        ],
+        "Total shots": [
+          "19",
+          "9"
+        ],
+        "Shots on target": [
+          "4",
+          "4"
+        ],
+        "Corner kicks": [
+          "7",
+          "2"
+        ],
+        "Yellow cards": [
+          "2",
+          "3"
+        ],
+        "Red cards": [
+          "1",
+          "0"
+        ],
+        "Shots off target": [
+          "15",
+          "5"
+        ]
+      }
+    },
+    {
+      "id": "QeLnRaKF",
+      "date": "2025-10-04T17:00:00.000Z",
+      "round": "Round 4",
+      "homeTeam": "Ittihad Tanger",
+      "awayTeam": "FUS Rabat",
+      "homeScore": 0,
+      "awayScore": 3,
+      "htHome": 0,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "45%",
+          "55%"
+        ],
+        "Total shots": [
+          "11",
+          "22"
+        ],
+        "Shots on target": [
+          "5",
+          "13"
+        ],
+        "Corner kicks": [
+          "2",
+          "6"
+        ],
+        "Yellow cards": [
+          "3",
+          "2"
+        ],
+        "Red cards": [
+          "2",
+          "0"
+        ],
+        "Shots off target": [
+          "6",
+          "9"
+        ]
+      }
+    },
+    {
+      "id": "4tXwTLk3",
+      "date": "2025-10-04T15:00:00.000Z",
+      "round": "Round 4",
+      "homeTeam": "Renaissance Zemamra",
+      "awayTeam": "KACM Marrakesh",
+      "homeScore": 1,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "63%",
+          "37%"
+        ],
+        "Total shots": [
+          "10",
+          "11"
+        ],
+        "Shots on target": [
+          "1",
+          "5"
+        ],
+        "Corner kicks": [
+          "8",
+          "1"
+        ],
+        "Yellow cards": [
+          "1",
+          "1"
+        ],
+        "Shots off target": [
+          "9",
+          "6"
+        ]
+      }
+    },
+    {
+      "id": "xzuh5Icd",
+      "date": "2025-10-03T19:00:00.000Z",
+      "round": "Round 4",
+      "homeTeam": "Raja Casablanca",
+      "awayTeam": "MAS Fes",
+      "homeScore": 1,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "57%",
+          "43%"
+        ],
+        "Total shots": [
+          "11",
+          "5"
+        ],
+        "Shots on target": [
+          "3",
+          "3"
+        ],
+        "Corner kicks": [
+          "2",
+          "3"
+        ],
+        "Yellow cards": [
+          "3",
+          "2"
+        ],
+        "Shots off target": [
+          "8",
+          "2"
+        ]
+      }
+    },
+    {
+      "id": "t8oq7vTq",
+      "date": "2025-10-03T17:00:00.000Z",
+      "round": "Round 4",
+      "homeTeam": "CODM Meknes",
+      "awayTeam": "Wydad AC",
+      "homeScore": 1,
+      "awayScore": 3,
+      "htHome": 1,
+      "htAway": 2,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "57%",
+          "43%"
+        ],
+        "Total shots": [
+          "20",
+          "14"
+        ],
+        "Shots on target": [
+          "10",
+          "7"
+        ],
+        "Corner kicks": [
+          "2",
+          "3"
+        ],
+        "Yellow cards": [
+          "2",
+          "7"
+        ],
+        "Shots off target": [
+          "10",
+          "7"
+        ]
+      }
+    },
+    {
+      "id": "ALOBPnqB",
+      "date": "2025-10-01T19:00:00.000Z",
+      "round": "Round 3",
+      "homeTeam": "RSB Berkane",
+      "awayTeam": "US Yacoub El Mansour",
+      "homeScore": 3,
+      "awayScore": 3,
+      "htHome": 3,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "56%",
+          "44%"
+        ],
+        "Total shots": [
+          "13",
+          "10"
+        ],
+        "Shots on target": [
+          "7",
+          "8"
+        ],
+        "Corner kicks": [
+          "5",
+          "1"
+        ],
+        "Yellow cards": [
+          "0",
+          "3"
+        ],
+        "Red cards": [
+          "0",
+          "1"
+        ],
+        "Shots off target": [
+          "6",
+          "2"
+        ]
+      }
+    },
+    {
+      "id": "GMV2R8Eb",
+      "date": "2025-10-01T17:00:00.000Z",
+      "round": "Round 3",
+      "homeTeam": "FAR Rabat",
+      "awayTeam": "Ittihad Tanger",
+      "homeScore": 1,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "63%",
+          "37%"
+        ],
+        "Total shots": [
+          "13",
+          "5"
+        ],
+        "Shots on target": [
+          "2",
+          "1"
+        ],
+        "Corner kicks": [
+          "5",
+          "5"
+        ],
+        "Yellow cards": [
+          "2",
+          "2"
+        ],
+        "Shots off target": [
+          "11",
+          "4"
+        ]
+      }
+    },
+    {
+      "id": "8dSfTUqn",
+      "date": "2025-10-01T15:00:00.000Z",
+      "round": "Round 3",
+      "homeTeam": "OC Safi",
+      "awayTeam": "HUSA Agadir",
+      "homeScore": 1,
+      "awayScore": 0,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "55%",
+          "45%"
+        ],
+        "Total shots": [
+          "9",
+          "9"
+        ],
+        "Shots on target": [
+          "5",
+          "3"
+        ],
+        "Corner kicks": [
+          "4",
+          "2"
+        ],
+        "Yellow cards": [
+          "4",
+          "0"
+        ],
+        "Red cards": [
+          "1",
+          "1"
+        ],
+        "Shots off target": [
+          "4",
+          "6"
+        ]
+      }
+    },
+    {
+      "id": "xGryD9a5",
+      "date": "2025-09-28T19:00:00.000Z",
+      "round": "Round 3",
+      "homeTeam": "Wydad AC",
+      "awayTeam": "Renaissance Zemamra",
+      "homeScore": 3,
+      "awayScore": 1,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "53%",
+          "47%"
+        ],
+        "Total shots": [
+          "12",
+          "7"
+        ],
+        "Shots on target": [
+          "9",
+          "4"
+        ],
+        "Corner kicks": [
+          "7",
+          "9"
+        ],
+        "Yellow cards": [
+          "2",
+          "0"
+        ],
+        "Shots off target": [
+          "3",
+          "3"
+        ]
+      }
+    },
+    {
+      "id": "4r2p9RbU",
+      "date": "2025-09-28T17:00:00.000Z",
+      "round": "Round 3",
+      "homeTeam": "MAS Fes",
+      "awayTeam": "CODM Meknes",
+      "homeScore": 0,
+      "awayScore": 0,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "49%",
+          "51%"
+        ],
+        "Total shots": [
+          "12",
+          "11"
+        ],
+        "Shots on target": [
+          "10",
+          "6"
+        ],
+        "Corner kicks": [
+          "4",
+          "4"
+        ],
+        "Yellow cards": [
+          "1",
+          "0"
+        ],
+        "Shots off target": [
+          "2",
+          "5"
+        ]
+      }
+    },
+    {
+      "id": "dIbxBmUH",
+      "date": "2025-09-28T15:00:00.000Z",
+      "round": "Round 3",
+      "homeTeam": "Difaa El Jadida",
+      "awayTeam": "Raja Casablanca",
+      "homeScore": 0,
+      "awayScore": 2,
+      "htHome": 0,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "53%",
+          "47%"
+        ],
+        "Total shots": [
+          "11",
+          "10"
+        ],
+        "Shots on target": [
+          "6",
+          "6"
+        ],
+        "Corner kicks": [
+          "5",
+          "4"
+        ],
+        "Yellow cards": [
+          "1",
+          "3"
+        ],
+        "Shots off target": [
+          "5",
+          "4"
+        ]
+      }
+    },
+    {
+      "id": "42pTEVUh",
+      "date": "2025-09-27T15:00:00.000Z",
+      "round": "Round 3",
+      "homeTeam": "Olympique Dcheira",
+      "awayTeam": "KACM Marrakesh",
+      "homeScore": 2,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "46%",
+          "54%"
+        ],
+        "Total shots": [
+          "13",
+          "15"
+        ],
+        "Shots on target": [
+          "10",
+          "3"
+        ],
+        "Corner kicks": [
+          "0",
+          "7"
+        ],
+        "Yellow cards": [
+          "3",
+          "5"
+        ],
+        "Shots off target": [
+          "3",
+          "12"
+        ]
+      }
+    },
+    {
+      "id": "8ziKGi0t",
+      "date": "2025-09-26T19:00:00.000Z",
+      "round": "Round 3",
+      "homeTeam": "FUS Rabat",
+      "awayTeam": "Union de Touarga",
+      "homeScore": 1,
+      "awayScore": 1,
+      "htHome": 1,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "60%",
+          "40%"
+        ],
+        "Total shots": [
+          "12",
+          "6"
+        ],
+        "Shots on target": [
+          "5",
+          "3"
+        ],
+        "Corner kicks": [
+          "7",
+          "1"
+        ],
+        "Yellow cards": [
+          "3",
+          "4"
+        ],
+        "Shots off target": [
+          "7",
+          "3"
+        ]
+      }
+    },
+    {
+      "id": "KSeLdvL6",
+      "date": "2025-09-21T17:00:00.000Z",
+      "round": "Round 2",
+      "homeTeam": "Union de Touarga",
+      "awayTeam": "Olympique Dcheira",
+      "homeScore": 1,
+      "awayScore": 1,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "48%",
+          "52%"
+        ],
+        "Total shots": [
+          "9",
+          "14"
+        ],
+        "Shots on target": [
+          "5",
+          "5"
+        ],
+        "Corner kicks": [
+          "2",
+          "6"
+        ],
+        "Yellow cards": [
+          "5",
+          "1"
+        ],
+        "Red cards": [
+          "2",
+          "1"
+        ],
+        "Shots off target": [
+          "4",
+          "9"
+        ]
+      }
+    },
+    {
+      "id": "nFcDb0jf",
+      "date": "2025-09-21T15:00:00.000Z",
+      "round": "Round 2",
+      "homeTeam": "Renaissance Zemamra",
+      "awayTeam": "Difaa El Jadida",
+      "homeScore": 0,
+      "awayScore": 0,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "56%",
+          "44%"
+        ],
+        "Total shots": [
+          "25",
+          "6"
+        ],
+        "Shots on target": [
+          "15",
+          "2"
+        ],
+        "Corner kicks": [
+          "6",
+          "3"
+        ],
+        "Yellow cards": [
+          "4",
+          "1"
+        ],
+        "Shots off target": [
+          "10",
+          "4"
+        ]
+      }
+    },
+    {
+      "id": "6csXIUy9",
+      "date": "2025-09-20T17:00:00.000Z",
+      "round": "Round 2",
+      "homeTeam": "CODM Meknes",
+      "awayTeam": "FUS Rabat",
+      "homeScore": 2,
+      "awayScore": 0,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "45%",
+          "55%"
+        ],
+        "Total shots": [
+          "5",
+          "12"
+        ],
+        "Shots on target": [
+          "1",
+          "5"
+        ],
+        "Corner kicks": [
+          "4",
+          "4"
+        ],
+        "Yellow cards": [
+          "3",
+          "1"
+        ],
+        "Red cards": [
+          "1",
+          "0"
+        ],
+        "Shots off target": [
+          "4",
+          "7"
+        ]
+      }
+    },
+    {
+      "id": "jm440MLs",
+      "date": "2025-09-20T15:00:00.000Z",
+      "round": "Round 2",
+      "homeTeam": "HUSA Agadir",
+      "awayTeam": "MAS Fes",
+      "homeScore": 0,
+      "awayScore": 2,
+      "htHome": 0,
+      "htAway": 2,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "50%",
+          "50%"
+        ],
+        "Total shots": [
+          "14",
+          "4"
+        ],
+        "Shots on target": [
+          "3",
+          "3"
+        ],
+        "Corner kicks": [
+          "7",
+          "1"
+        ],
+        "Yellow cards": [
+          "2",
+          "4"
+        ],
+        "Shots off target": [
+          "11",
+          "1"
+        ]
+      }
+    },
+    {
+      "id": "GfkUfIkJ",
+      "date": "2025-09-19T19:00:00.000Z",
+      "round": "Round 2",
+      "homeTeam": "US Yacoub El Mansour",
+      "awayTeam": "Wydad AC",
+      "homeScore": 1,
+      "awayScore": 1,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "54%",
+          "46%"
+        ],
+        "Total shots": [
+          "11",
+          "6"
+        ],
+        "Shots on target": [
+          "6",
+          "5"
+        ],
+        "Corner kicks": [
+          "6",
+          "5"
+        ],
+        "Yellow cards": [
+          "1",
+          "1"
+        ],
+        "Shots off target": [
+          "5",
+          "1"
+        ]
+      }
+    },
+    {
+      "id": "Q14peRq2",
+      "date": "2025-09-17T19:00:00.000Z",
+      "round": "Round 2",
+      "homeTeam": "Raja Casablanca",
+      "awayTeam": "FAR Rabat",
+      "homeScore": 0,
+      "awayScore": 0,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "56%",
+          "44%"
+        ],
+        "Total shots": [
+          "5",
+          "9"
+        ],
+        "Shots on target": [
+          "1",
+          "6"
+        ],
+        "Corner kicks": [
+          "3",
+          "4"
+        ],
+        "Yellow cards": [
+          "4",
+          "1"
+        ],
+        "Shots off target": [
+          "4",
+          "3"
+        ]
+      }
+    },
+    {
+      "id": "Iy1xcmFk",
+      "date": "2025-09-16T19:00:00.000Z",
+      "round": "Round 2",
+      "homeTeam": "KACM Marrakesh",
+      "awayTeam": "RSB Berkane",
+      "homeScore": 1,
+      "awayScore": 2,
+      "htHome": 0,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "47%",
+          "53%"
+        ],
+        "Total shots": [
+          "9",
+          "6"
+        ],
+        "Shots on target": [
+          "4",
+          "4"
+        ],
+        "Corner kicks": [
+          "3",
+          "5"
+        ],
+        "Yellow cards": [
+          "0",
+          "2"
+        ],
+        "Red cards": [
+          "1",
+          "0"
+        ],
+        "Shots off target": [
+          "5",
+          "2"
+        ],
+        "Goalkeeper saves": [
+          "2",
+          "2"
+        ]
+      }
+    },
+    {
+      "id": "biK529iS",
+      "date": "2025-09-15T16:00:00.000Z",
+      "round": "Round 2",
+      "homeTeam": "Ittihad Tanger",
+      "awayTeam": "OC Safi",
+      "homeScore": 1,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "52%",
+          "48%"
+        ],
+        "Total shots": [
+          "11",
+          "18"
+        ],
+        "Shots on target": [
+          "4",
+          "6"
+        ],
+        "Corner kicks": [
+          "5",
+          "0"
+        ],
+        "Yellow cards": [
+          "2",
+          "1"
+        ],
+        "Red cards": [
+          "3",
+          "1"
+        ],
+        "Shots off target": [
+          "7",
+          "12"
+        ],
+        "Goalkeeper saves": [
+          "5",
+          "3"
+        ]
+      }
+    },
+    {
+      "id": "dAMPbhvo",
+      "date": "2025-09-14T19:00:00.000Z",
+      "round": "Round 1",
+      "homeTeam": "MAS Fes",
+      "awayTeam": "Renaissance Zemamra",
+      "homeScore": 2,
+      "awayScore": 0,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "44%",
+          "56%"
+        ],
+        "Total shots": [
+          "6",
+          "10"
+        ],
+        "Shots on target": [
+          "4",
+          "3"
+        ],
+        "Corner kicks": [
+          "2",
+          "5"
+        ],
+        "Yellow cards": [
+          "5",
+          "4"
+        ],
+        "Red cards": [
+          "1",
+          "0"
+        ],
+        "Shots off target": [
+          "2",
+          "7"
+        ],
+        "Goalkeeper saves": [
+          "3",
+          "2"
+        ]
+      }
+    },
+    {
+      "id": "4Cso6znB",
+      "date": "2025-09-14T17:00:00.000Z",
+      "round": "Round 1",
+      "homeTeam": "Difaa El Jadida",
+      "awayTeam": "CODM Meknes",
+      "homeScore": 0,
+      "awayScore": 0,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "51%",
+          "49%"
+        ],
+        "Total shots": [
+          "5",
+          "6"
+        ],
+        "Shots on target": [
+          "0",
+          "3"
+        ],
+        "Corner kicks": [
+          "0",
+          "3"
+        ],
+        "Yellow cards": [
+          "2",
+          "3"
+        ],
+        "Shots off target": [
+          "5",
+          "3"
+        ],
+        "Goalkeeper saves": [
+          "3",
+          "0"
+        ]
+      }
+    },
+    {
+      "id": "ADlx8dHb",
+      "date": "2025-09-13T19:00:00.000Z",
+      "round": "Round 1",
+      "homeTeam": "FAR Rabat",
+      "awayTeam": "US Yacoub El Mansour",
+      "homeScore": 2,
+      "awayScore": 0,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "49%",
+          "51%"
+        ],
+        "Total shots": [
+          "7",
+          "9"
+        ],
+        "Shots on target": [
+          "4",
+          "3"
+        ],
+        "Corner kicks": [
+          "4",
+          "5"
+        ],
+        "Yellow cards": [
+          "1",
+          "3"
+        ],
+        "Shots off target": [
+          "3",
+          "6"
+        ],
+        "Goalkeeper saves": [
+          "3",
+          "2"
+        ]
+      }
+    },
+    {
+      "id": "xQug4EGN",
+      "date": "2025-09-13T17:00:00.000Z",
+      "round": "Round 1",
+      "homeTeam": "FUS Rabat",
+      "awayTeam": "Raja Casablanca",
+      "homeScore": 0,
+      "awayScore": 2,
+      "htHome": 0,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "45%",
+          "55%"
+        ],
+        "Total shots": [
+          "15",
+          "12"
+        ],
+        "Shots on target": [
+          "4",
+          "7"
+        ],
+        "Corner kicks": [
+          "2",
+          "5"
+        ],
+        "Yellow cards": [
+          "4",
+          "0"
+        ],
+        "Red cards": [
+          "1",
+          "0"
+        ],
+        "Shots off target": [
+          "11",
+          "5"
+        ],
+        "Goalkeeper saves": [
+          "5",
+          "4"
+        ]
+      }
+    },
+    {
+      "id": "OGEBMeWi",
+      "date": "2025-09-12T19:00:00.000Z",
+      "round": "Round 1",
+      "homeTeam": "Wydad AC",
+      "awayTeam": "KACM Marrakesh",
+      "homeScore": 1,
+      "awayScore": 0,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "51%",
+          "49%"
+        ],
+        "Total shots": [
+          "13",
+          "10"
+        ],
+        "Shots on target": [
+          "7",
+          "1"
+        ],
+        "Corner kicks": [
+          "3",
+          "5"
+        ],
+        "Yellow cards": [
+          "1",
+          "2"
+        ],
+        "Red cards": [
+          "0",
+          "1"
+        ],
+        "Shots off target": [
+          "6",
+          "9"
+        ],
+        "Goalkeeper saves": [
+          "1",
+          "6"
+        ]
+      }
+    },
+    {
+      "id": "j9HBiyXH",
+      "date": "2025-09-12T17:00:00.000Z",
+      "round": "Round 1",
+      "homeTeam": "Olympique Dcheira",
+      "awayTeam": "RSB Berkane",
+      "homeScore": 0,
+      "awayScore": 4,
+      "htHome": 0,
+      "htAway": 3,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "40%",
+          "60%"
+        ],
+        "Total shots": [
+          "9",
+          "16"
+        ],
+        "Shots on target": [
+          "3",
+          "8"
+        ],
+        "Corner kicks": [
+          "2",
+          "3"
+        ],
+        "Yellow cards": [
+          "3",
+          "2"
+        ],
+        "Shots off target": [
+          "6",
+          "8"
+        ],
+        "Goalkeeper saves": [
+          "4",
+          "3"
+        ]
+      }
+    },
+    {
+      "id": "2moU9Inn",
+      "date": "2025-09-12T17:00:00.000Z",
+      "round": "Round 1",
+      "homeTeam": "OC Safi",
+      "awayTeam": "Union de Touarga",
+      "homeScore": 1,
+      "awayScore": 1,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "51%",
+          "49%"
+        ],
+        "Total shots": [
+          "11",
+          "7"
+        ],
+        "Shots on target": [
+          "3",
+          "3"
+        ],
+        "Corner kicks": [
+          "4",
+          "1"
+        ],
+        "Yellow cards": [
+          "2",
+          "4"
+        ],
+        "Shots off target": [
+          "8",
+          "4"
+        ],
+        "Goalkeeper saves": [
+          "2",
+          "2"
+        ]
+      }
+    },
+    {
+      "id": "bZKJkF1U",
+      "date": "2025-09-12T15:00:00.000Z",
+      "round": "Round 1",
+      "homeTeam": "Ittihad Tanger",
+      "awayTeam": "HUSA Agadir",
+      "homeScore": 1,
+      "awayScore": 1,
+      "htHome": 1,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "55%",
+          "45%"
+        ],
+        "Total shots": [
+          "7",
+          "8"
+        ],
+        "Shots on target": [
+          "2",
+          "4"
+        ],
+        "Corner kicks": [
+          "1",
+          "5"
+        ],
+        "Yellow cards": [
+          "3",
+          "3"
+        ],
+        "Shots off target": [
+          "5",
+          "4"
+        ],
+        "Goalkeeper saves": [
+          "3",
+          "1"
+        ]
+      }
+    }
+  ]
+}

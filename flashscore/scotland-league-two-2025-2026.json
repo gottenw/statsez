@@ -1,0 +1,2235 @@
+{
+  "league": "League Two",
+  "country": "scotland",
+  "season": "2025-2026",
+  "collectedAt": "2026-02-10T18:25:48.390Z",
+  "totalMatches": 120,
+  "matches": [
+    {
+      "id": "Stieo4Dr",
+      "date": "2026-02-07T15:00:00.000Z",
+      "round": "Round 24",
+      "homeTeam": "FC Edinburgh",
+      "awayTeam": "East Kilbride",
+      "homeScore": 0,
+      "awayScore": 2,
+      "htHome": 0,
+      "htAway": 2,
+      "status": "FINISHED",
+      "stats": {
+        "Yellow cards": [
+          "3",
+          "3"
+        ]
+      }
+    },
+    {
+      "id": "z7f3qrre",
+      "date": "2026-02-07T15:00:00.000Z",
+      "round": "Round 24",
+      "homeTeam": "Forfar",
+      "awayTeam": "Dumbarton",
+      "homeScore": 2,
+      "awayScore": 0,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Yellow cards": [
+          "1",
+          "1"
+        ]
+      }
+    },
+    {
+      "id": "WYmCsMC7",
+      "date": "2026-02-07T15:00:00.000Z",
+      "round": "Round 24",
+      "homeTeam": "Stranraer",
+      "awayTeam": "Annan Athletic",
+      "homeScore": 0,
+      "awayScore": 0,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Yellow cards": [
+          "3",
+          "2"
+        ]
+      }
+    },
+    {
+      "id": "MN0tiZq4",
+      "date": "2026-01-31T15:00:00.000Z",
+      "round": "Round 23",
+      "homeTeam": "Annan Athletic",
+      "awayTeam": "Clyde",
+      "homeScore": 1,
+      "awayScore": 1,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Yellow cards": [
+          "3",
+          "1"
+        ]
+      }
+    },
+    {
+      "id": "8valkDEG",
+      "date": "2026-01-31T15:00:00.000Z",
+      "round": "Round 23",
+      "homeTeam": "Dumbarton",
+      "awayTeam": "FC Edinburgh",
+      "homeScore": 1,
+      "awayScore": 2,
+      "htHome": 1,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Yellow cards": [
+          "2",
+          "4"
+        ]
+      }
+    },
+    {
+      "id": "46hcmiqT",
+      "date": "2026-01-31T15:00:00.000Z",
+      "round": "Round 23",
+      "homeTeam": "East Kilbride",
+      "awayTeam": "Forfar",
+      "homeScore": 3,
+      "awayScore": 1,
+      "htHome": 2,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Yellow cards": [
+          "1",
+          "2"
+        ]
+      }
+    },
+    {
+      "id": "0xvTsV6j",
+      "date": "2026-01-31T15:00:00.000Z",
+      "round": "Round 23",
+      "homeTeam": "Elgin",
+      "awayTeam": "Spartans",
+      "homeScore": 3,
+      "awayScore": 3,
+      "htHome": 2,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Yellow cards": [
+          "2",
+          "1"
+        ]
+      }
+    },
+    {
+      "id": "GpMF5Ybc",
+      "date": "2026-01-31T15:00:00.000Z",
+      "round": "Round 23",
+      "homeTeam": "Stirling",
+      "awayTeam": "Stranraer",
+      "homeScore": 1,
+      "awayScore": 1,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Yellow cards": [
+          "2",
+          "0"
+        ]
+      }
+    },
+    {
+      "id": "pbRmZI8C",
+      "date": "2026-01-27T19:45:00.000Z",
+      "round": "Round 20",
+      "homeTeam": "East Kilbride",
+      "awayTeam": "Spartans",
+      "homeScore": 0,
+      "awayScore": 6,
+      "htHome": 0,
+      "htAway": 3,
+      "status": "FINISHED",
+      "stats": {
+        "Yellow cards": [
+          "3",
+          "3"
+        ]
+      }
+    },
+    {
+      "id": "n5nbvd0b",
+      "date": "2026-01-24T15:00:00.000Z",
+      "round": "Round 22",
+      "homeTeam": "Clyde",
+      "awayTeam": "Spartans",
+      "homeScore": 2,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Yellow cards": [
+          "2",
+          "0"
+        ]
+      }
+    },
+    {
+      "id": "t4u7xzVA",
+      "date": "2026-01-24T15:00:00.000Z",
+      "round": "Round 22",
+      "homeTeam": "Dumbarton",
+      "awayTeam": "Elgin",
+      "homeScore": 2,
+      "awayScore": 2,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Yellow cards": [
+          "2",
+          "1"
+        ]
+      }
+    },
+    {
+      "id": "EHwFzEaN",
+      "date": "2026-01-24T15:00:00.000Z",
+      "round": "Round 22",
+      "homeTeam": "East Kilbride",
+      "awayTeam": "Stranraer",
+      "homeScore": 0,
+      "awayScore": 2,
+      "htHome": 0,
+      "htAway": 2,
+      "status": "FINISHED",
+      "stats": {
+        "Yellow cards": [
+          "2",
+          "3"
+        ]
+      }
+    },
+    {
+      "id": "Y1KoViNp",
+      "date": "2026-01-24T15:00:00.000Z",
+      "round": "Round 22",
+      "homeTeam": "FC Edinburgh",
+      "awayTeam": "Annan Athletic",
+      "homeScore": 2,
+      "awayScore": 2,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Yellow cards": [
+          "0",
+          "3"
+        ]
+      }
+    },
+    {
+      "id": "08CXheFi",
+      "date": "2026-01-24T15:00:00.000Z",
+      "round": "Round 22",
+      "homeTeam": "Forfar",
+      "awayTeam": "Stirling",
+      "homeScore": 0,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Yellow cards": [
+          "1",
+          "0"
+        ]
+      }
+    },
+    {
+      "id": "WUHNodhI",
+      "date": "2026-01-17T15:00:00.000Z",
+      "round": "Round 21",
+      "homeTeam": "Stirling",
+      "awayTeam": "East Kilbride",
+      "homeScore": 1,
+      "awayScore": 2,
+      "htHome": 0,
+      "htAway": 2,
+      "status": "FINISHED",
+      "stats": {
+        "Yellow cards": [
+          "3",
+          "4"
+        ]
+      }
+    },
+    {
+      "id": "6DFdXdwP",
+      "date": "2026-01-10T15:00:00.000Z",
+      "round": "Round 20",
+      "homeTeam": "FC Edinburgh",
+      "awayTeam": "Stirling",
+      "homeScore": 1,
+      "awayScore": 4,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Yellow cards": [
+          "1",
+          "1"
+        ]
+      }
+    },
+    {
+      "id": "dxe6i0Ot",
+      "date": "2026-01-10T15:00:00.000Z",
+      "round": "Round 20",
+      "homeTeam": "Forfar",
+      "awayTeam": "Stranraer",
+      "homeScore": 2,
+      "awayScore": 2,
+      "htHome": 1,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Yellow cards": [
+          "0",
+          "1"
+        ]
+      }
+    },
+    {
+      "id": "IPnQtAAL",
+      "date": "2026-01-03T15:00:00.000Z",
+      "round": "Round 19",
+      "homeTeam": "Clyde",
+      "awayTeam": "Forfar",
+      "homeScore": 1,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Yellow cards": [
+          "6",
+          "2"
+        ],
+        "Red cards": [
+          "1",
+          "0"
+        ]
+      }
+    },
+    {
+      "id": "Cn8ae9PE",
+      "date": "2026-01-03T15:00:00.000Z",
+      "round": "Round 19",
+      "homeTeam": "Spartans",
+      "awayTeam": "Dumbarton",
+      "homeScore": 2,
+      "awayScore": 0,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "dvQCX5X7",
+      "date": "2026-01-03T15:00:00.000Z",
+      "round": "Round 19",
+      "homeTeam": "Stranraer",
+      "awayTeam": "FC Edinburgh",
+      "homeScore": 1,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Yellow cards": [
+          "1",
+          "0"
+        ]
+      }
+    },
+    {
+      "id": "ddJrUWQF",
+      "date": "2025-12-27T15:00:00.000Z",
+      "round": "Round 18",
+      "homeTeam": "Annan Athletic",
+      "awayTeam": "Stranraer",
+      "homeScore": 2,
+      "awayScore": 2,
+      "htHome": 2,
+      "htAway": 2,
+      "status": "FINISHED",
+      "stats": {
+        "Yellow cards": [
+          "2",
+          "2"
+        ]
+      }
+    },
+    {
+      "id": "IB7iSAeS",
+      "date": "2025-12-27T15:00:00.000Z",
+      "round": "Round 18",
+      "homeTeam": "Dumbarton",
+      "awayTeam": "Stirling",
+      "homeScore": 1,
+      "awayScore": 2,
+      "htHome": 0,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Yellow cards": [
+          "0",
+          "2"
+        ]
+      }
+    },
+    {
+      "id": "lfbNMlJk",
+      "date": "2025-12-27T15:00:00.000Z",
+      "round": "Round 18",
+      "homeTeam": "East Kilbride",
+      "awayTeam": "Clyde",
+      "homeScore": 1,
+      "awayScore": 1,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Yellow cards": [
+          "5",
+          "5"
+        ],
+        "Red cards": [
+          "1",
+          "1"
+        ]
+      }
+    },
+    {
+      "id": "U36VKSm2",
+      "date": "2025-12-27T15:00:00.000Z",
+      "round": "Round 18",
+      "homeTeam": "FC Edinburgh",
+      "awayTeam": "Spartans",
+      "homeScore": 1,
+      "awayScore": 3,
+      "htHome": 1,
+      "htAway": 2,
+      "status": "FINISHED",
+      "stats": {
+        "Yellow cards": [
+          "2",
+          "3"
+        ]
+      }
+    },
+    {
+      "id": "McgHrWu9",
+      "date": "2025-12-27T15:00:00.000Z",
+      "round": "Round 18",
+      "homeTeam": "Forfar",
+      "awayTeam": "Elgin",
+      "homeScore": 4,
+      "awayScore": 2,
+      "htHome": 2,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Yellow cards": [
+          "3",
+          "4"
+        ],
+        "Red cards": [
+          "0",
+          "1"
+        ]
+      }
+    },
+    {
+      "id": "APS8HgsA",
+      "date": "2025-12-20T15:00:00.000Z",
+      "round": "Round 17",
+      "homeTeam": "Clyde",
+      "awayTeam": "Stirling",
+      "homeScore": 1,
+      "awayScore": 2,
+      "htHome": 0,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Yellow cards": [
+          "0",
+          "3"
+        ]
+      }
+    },
+    {
+      "id": "IkWGFXBM",
+      "date": "2025-12-20T15:00:00.000Z",
+      "round": "Round 17",
+      "homeTeam": "East Kilbride",
+      "awayTeam": "Annan Athletic",
+      "homeScore": 1,
+      "awayScore": 3,
+      "htHome": 1,
+      "htAway": 2,
+      "status": "FINISHED",
+      "stats": {
+        "Yellow cards": [
+          "8",
+          "3"
+        ],
+        "Red cards": [
+          "1",
+          "0"
+        ]
+      }
+    },
+    {
+      "id": "xzDmABZq",
+      "date": "2025-12-20T15:00:00.000Z",
+      "round": "Round 17",
+      "homeTeam": "Forfar",
+      "awayTeam": "FC Edinburgh",
+      "homeScore": 2,
+      "awayScore": 3,
+      "htHome": 1,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Yellow cards": [
+          "4",
+          "4"
+        ]
+      }
+    },
+    {
+      "id": "lWFzWhd3",
+      "date": "2025-12-20T15:00:00.000Z",
+      "round": "Round 17",
+      "homeTeam": "Spartans",
+      "awayTeam": "Elgin",
+      "homeScore": 1,
+      "awayScore": 0,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Yellow cards": [
+          "0",
+          "1"
+        ]
+      }
+    },
+    {
+      "id": "AmBe8k4d",
+      "date": "2025-12-20T15:00:00.000Z",
+      "round": "Round 17",
+      "homeTeam": "Stranraer",
+      "awayTeam": "Dumbarton",
+      "homeScore": 1,
+      "awayScore": 1,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Yellow cards": [
+          "2",
+          "0"
+        ]
+      }
+    },
+    {
+      "id": "z7EQ4Gc4",
+      "date": "2025-12-13T15:00:00.000Z",
+      "round": "Round 16",
+      "homeTeam": "Annan Athletic",
+      "awayTeam": "Forfar",
+      "homeScore": 3,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Yellow cards": [
+          "2",
+          "2"
+        ]
+      }
+    },
+    {
+      "id": "WY7Z2fSG",
+      "date": "2025-12-13T15:00:00.000Z",
+      "round": "Round 16",
+      "homeTeam": "Dumbarton",
+      "awayTeam": "East Kilbride",
+      "homeScore": 2,
+      "awayScore": 0,
+      "htHome": 2,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Yellow cards": [
+          "4",
+          "3"
+        ]
+      }
+    },
+    {
+      "id": "4n6s1YdT",
+      "date": "2025-12-13T15:00:00.000Z",
+      "round": "Round 16",
+      "homeTeam": "FC Edinburgh",
+      "awayTeam": "Clyde",
+      "homeScore": 1,
+      "awayScore": 4,
+      "htHome": 1,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Yellow cards": [
+          "2",
+          "4"
+        ]
+      }
+    },
+    {
+      "id": "OWnEeCKj",
+      "date": "2025-12-13T15:00:00.000Z",
+      "round": "Round 16",
+      "homeTeam": "Elgin",
+      "awayTeam": "Stranraer",
+      "homeScore": 1,
+      "awayScore": 2,
+      "htHome": 0,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Yellow cards": [
+          "3",
+          "2"
+        ],
+        "Red cards": [
+          "1",
+          "0"
+        ]
+      }
+    },
+    {
+      "id": "lAv0JFCc",
+      "date": "2025-12-13T15:00:00.000Z",
+      "round": "Round 16",
+      "homeTeam": "Stirling",
+      "awayTeam": "Spartans",
+      "homeScore": 1,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Yellow cards": [
+          "4",
+          "1"
+        ]
+      }
+    },
+    {
+      "id": "n54r5Pim",
+      "date": "2025-12-06T15:00:00.000Z",
+      "round": "Round 15",
+      "homeTeam": "Annan Athletic",
+      "awayTeam": "Spartans",
+      "homeScore": 1,
+      "awayScore": 1,
+      "htHome": 1,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Yellow cards": [
+          "3",
+          "2"
+        ]
+      }
+    },
+    {
+      "id": "KI2j33Ma",
+      "date": "2025-12-06T15:00:00.000Z",
+      "round": "Round 15",
+      "homeTeam": "FC Edinburgh",
+      "awayTeam": "Dumbarton",
+      "homeScore": 4,
+      "awayScore": 3,
+      "htHome": 3,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Yellow cards": [
+          "2",
+          "3"
+        ]
+      }
+    },
+    {
+      "id": "Gpda1siC",
+      "date": "2025-12-06T15:00:00.000Z",
+      "round": "Round 15",
+      "homeTeam": "Elgin",
+      "awayTeam": "Clyde",
+      "homeScore": 1,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Yellow cards": [
+          "1",
+          "3"
+        ]
+      }
+    },
+    {
+      "id": "MqOWrZzo",
+      "date": "2025-12-06T15:00:00.000Z",
+      "round": "Round 15",
+      "homeTeam": "Forfar",
+      "awayTeam": "East Kilbride",
+      "homeScore": 0,
+      "awayScore": 3,
+      "htHome": 0,
+      "htAway": 3,
+      "status": "FINISHED",
+      "stats": {
+        "Yellow cards": [
+          "5",
+          "2"
+        ]
+      }
+    },
+    {
+      "id": "2u1J6xTi",
+      "date": "2025-12-06T15:00:00.000Z",
+      "round": "Round 15",
+      "homeTeam": "Stranraer",
+      "awayTeam": "Stirling",
+      "homeScore": 3,
+      "awayScore": 2,
+      "htHome": 3,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Yellow cards": [
+          "3",
+          "4"
+        ]
+      }
+    },
+    {
+      "id": "EaO7hn8s",
+      "date": "2025-11-22T15:00:00.000Z",
+      "round": "Round 14",
+      "homeTeam": "Clyde",
+      "awayTeam": "Annan Athletic",
+      "homeScore": 1,
+      "awayScore": 0,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Yellow cards": [
+          "5",
+          "0"
+        ]
+      }
+    },
+    {
+      "id": "Y1v9jQxf",
+      "date": "2025-11-22T15:00:00.000Z",
+      "round": "Round 14",
+      "homeTeam": "Dumbarton",
+      "awayTeam": "Forfar",
+      "homeScore": 1,
+      "awayScore": 4,
+      "htHome": 1,
+      "htAway": 3,
+      "status": "FINISHED",
+      "stats": {
+        "Yellow cards": [
+          "2",
+          "1"
+        ]
+      }
+    },
+    {
+      "id": "tSsHl476",
+      "date": "2025-11-22T15:00:00.000Z",
+      "round": "Round 14",
+      "homeTeam": "East Kilbride",
+      "awayTeam": "FC Edinburgh",
+      "homeScore": 1,
+      "awayScore": 1,
+      "htHome": 1,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Yellow cards": [
+          "3",
+          "1"
+        ]
+      }
+    },
+    {
+      "id": "UmOBAoUP",
+      "date": "2025-11-22T15:00:00.000Z",
+      "round": "Round 14",
+      "homeTeam": "Spartans",
+      "awayTeam": "Stranraer",
+      "homeScore": 0,
+      "awayScore": 4,
+      "htHome": 0,
+      "htAway": 4,
+      "status": "FINISHED",
+      "stats": {
+        "Yellow cards": [
+          "1",
+          "2"
+        ]
+      }
+    },
+    {
+      "id": "2sWPnrxJ",
+      "date": "2025-11-22T15:00:00.000Z",
+      "round": "Round 14",
+      "homeTeam": "Stirling",
+      "awayTeam": "Elgin",
+      "homeScore": 1,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Yellow cards": [
+          "1",
+          "0"
+        ]
+      }
+    },
+    {
+      "id": "IFc3q9VQ",
+      "date": "2025-11-15T15:00:00.000Z",
+      "round": "Round 13",
+      "homeTeam": "Annan Athletic",
+      "awayTeam": "FC Edinburgh",
+      "homeScore": 1,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Yellow cards": [
+          "2",
+          "2"
+        ]
+      }
+    },
+    {
+      "id": "Yu3Ywmgl",
+      "date": "2025-11-15T15:00:00.000Z",
+      "round": "Round 13",
+      "homeTeam": "Elgin",
+      "awayTeam": "Dumbarton",
+      "homeScore": 2,
+      "awayScore": 0,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "ITxxb8pK",
+      "date": "2025-11-15T15:00:00.000Z",
+      "round": "Round 13",
+      "homeTeam": "Spartans",
+      "awayTeam": "Clyde",
+      "homeScore": 1,
+      "awayScore": 1,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Yellow cards": [
+          "2",
+          "4"
+        ],
+        "Red cards": [
+          "1",
+          "0"
+        ]
+      }
+    },
+    {
+      "id": "feisxRN0",
+      "date": "2025-11-15T15:00:00.000Z",
+      "round": "Round 13",
+      "homeTeam": "Stirling",
+      "awayTeam": "Forfar",
+      "homeScore": 0,
+      "awayScore": 4,
+      "htHome": 0,
+      "htAway": 2,
+      "status": "FINISHED",
+      "stats": {
+        "Yellow cards": [
+          "2",
+          "1"
+        ]
+      }
+    },
+    {
+      "id": "2Lfkz5hD",
+      "date": "2025-11-15T15:00:00.000Z",
+      "round": "Round 13",
+      "homeTeam": "Stranraer",
+      "awayTeam": "East Kilbride",
+      "homeScore": 1,
+      "awayScore": 3,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Yellow cards": [
+          "2",
+          "4"
+        ]
+      }
+    },
+    {
+      "id": "2wlLWVoL",
+      "date": "2025-11-08T15:00:00.000Z",
+      "round": "Round 12",
+      "homeTeam": "Clyde",
+      "awayTeam": "Stranraer",
+      "homeScore": 0,
+      "awayScore": 0,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Yellow cards": [
+          "3",
+          "4"
+        ]
+      }
+    },
+    {
+      "id": "nBPiR99r",
+      "date": "2025-11-08T15:00:00.000Z",
+      "round": "Round 12",
+      "homeTeam": "Dumbarton",
+      "awayTeam": "Annan Athletic",
+      "homeScore": 2,
+      "awayScore": 1,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Yellow cards": [
+          "3",
+          "4"
+        ]
+      }
+    },
+    {
+      "id": "YRNaPmve",
+      "date": "2025-11-08T15:00:00.000Z",
+      "round": "Round 12",
+      "homeTeam": "East Kilbride",
+      "awayTeam": "Stirling",
+      "homeScore": 2,
+      "awayScore": 0,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Yellow cards": [
+          "2",
+          "3"
+        ],
+        "Red cards": [
+          "0",
+          "1"
+        ]
+      }
+    },
+    {
+      "id": "UgH8NR87",
+      "date": "2025-11-08T15:00:00.000Z",
+      "round": "Round 12",
+      "homeTeam": "FC Edinburgh",
+      "awayTeam": "Elgin",
+      "homeScore": 1,
+      "awayScore": 3,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Yellow cards": [
+          "1",
+          "2"
+        ]
+      }
+    },
+    {
+      "id": "Mm4foV0E",
+      "date": "2025-11-08T15:00:00.000Z",
+      "round": "Round 12",
+      "homeTeam": "Forfar",
+      "awayTeam": "Spartans",
+      "homeScore": 1,
+      "awayScore": 1,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Yellow cards": [
+          "3",
+          "3"
+        ]
+      }
+    },
+    {
+      "id": "4QdvmWE4",
+      "date": "2025-11-01T15:00:00.000Z",
+      "round": "Round 11",
+      "homeTeam": "Clyde",
+      "awayTeam": "Dumbarton",
+      "homeScore": 3,
+      "awayScore": 1,
+      "htHome": 1,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Yellow cards": [
+          "1",
+          "1"
+        ]
+      }
+    },
+    {
+      "id": "Cj0noAqH",
+      "date": "2025-11-01T15:00:00.000Z",
+      "round": "Round 11",
+      "homeTeam": "Elgin",
+      "awayTeam": "Annan Athletic",
+      "homeScore": 2,
+      "awayScore": 0,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Yellow cards": [
+          "1",
+          "4"
+        ]
+      }
+    },
+    {
+      "id": "fDpDYiH8",
+      "date": "2025-11-01T15:00:00.000Z",
+      "round": "Round 11",
+      "homeTeam": "Spartans",
+      "awayTeam": "East Kilbride",
+      "homeScore": 2,
+      "awayScore": 1,
+      "htHome": 2,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Yellow cards": [
+          "1",
+          "1"
+        ]
+      }
+    },
+    {
+      "id": "4OHKS1Tk",
+      "date": "2025-11-01T15:00:00.000Z",
+      "round": "Round 11",
+      "homeTeam": "Stirling",
+      "awayTeam": "FC Edinburgh",
+      "homeScore": 0,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Yellow cards": [
+          "2",
+          "2"
+        ]
+      }
+    },
+    {
+      "id": "xxGSQub2",
+      "date": "2025-11-01T15:00:00.000Z",
+      "round": "Round 11",
+      "homeTeam": "Stranraer",
+      "awayTeam": "Forfar",
+      "homeScore": 3,
+      "awayScore": 1,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Yellow cards": [
+          "2",
+          "2"
+        ]
+      }
+    },
+    {
+      "id": "Ig64zgVb",
+      "date": "2025-10-18T14:00:00.000Z",
+      "round": "Round 10",
+      "homeTeam": "Annan Athletic",
+      "awayTeam": "Stirling",
+      "homeScore": 1,
+      "awayScore": 1,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Yellow cards": [
+          "0",
+          "2"
+        ]
+      }
+    },
+    {
+      "id": "ELaDYWaB",
+      "date": "2025-10-18T14:00:00.000Z",
+      "round": "Round 10",
+      "homeTeam": "Dumbarton",
+      "awayTeam": "Spartans",
+      "homeScore": 1,
+      "awayScore": 2,
+      "htHome": 1,
+      "htAway": 2,
+      "status": "FINISHED",
+      "stats": {
+        "Yellow cards": [
+          "2",
+          "2"
+        ]
+      }
+    },
+    {
+      "id": "nZcLWAUN",
+      "date": "2025-10-18T14:00:00.000Z",
+      "round": "Round 10",
+      "homeTeam": "East Kilbride",
+      "awayTeam": "Elgin",
+      "homeScore": 3,
+      "awayScore": 0,
+      "htHome": 3,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Yellow cards": [
+          "2",
+          "4"
+        ]
+      }
+    },
+    {
+      "id": "G4GqRlho",
+      "date": "2025-10-18T14:00:00.000Z",
+      "round": "Round 10",
+      "homeTeam": "FC Edinburgh",
+      "awayTeam": "Stranraer",
+      "homeScore": 1,
+      "awayScore": 3,
+      "htHome": 1,
+      "htAway": 2,
+      "status": "FINISHED",
+      "stats": {
+        "Yellow cards": [
+          "4",
+          "3"
+        ]
+      }
+    },
+    {
+      "id": "rB8Vlhph",
+      "date": "2025-10-18T14:00:00.000Z",
+      "round": "Round 10",
+      "homeTeam": "Forfar",
+      "awayTeam": "Clyde",
+      "homeScore": 0,
+      "awayScore": 0,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Yellow cards": [
+          "2",
+          "3"
+        ]
+      }
+    },
+    {
+      "id": "WxrNNFog",
+      "date": "2025-10-04T14:00:00.000Z",
+      "round": "Round 9",
+      "homeTeam": "Clyde",
+      "awayTeam": "East Kilbride",
+      "homeScore": 2,
+      "awayScore": 2,
+      "htHome": 0,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Yellow cards": [
+          "1",
+          "1"
+        ]
+      }
+    },
+    {
+      "id": "4jtVLgG5",
+      "date": "2025-10-04T14:00:00.000Z",
+      "round": "Round 9",
+      "homeTeam": "Elgin",
+      "awayTeam": "Forfar",
+      "homeScore": 2,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Yellow cards": [
+          "1",
+          "3"
+        ]
+      }
+    },
+    {
+      "id": "AT2dxF0n",
+      "date": "2025-10-04T14:00:00.000Z",
+      "round": "Round 9",
+      "homeTeam": "Spartans",
+      "awayTeam": "FC Edinburgh",
+      "homeScore": 0,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Yellow cards": [
+          "3",
+          "6"
+        ]
+      }
+    },
+    {
+      "id": "0IZwKXpI",
+      "date": "2025-10-04T14:00:00.000Z",
+      "round": "Round 9",
+      "homeTeam": "Stirling",
+      "awayTeam": "Dumbarton",
+      "homeScore": 2,
+      "awayScore": 2,
+      "htHome": 1,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Yellow cards": [
+          "1",
+          "2"
+        ]
+      }
+    },
+    {
+      "id": "6FxnIBFU",
+      "date": "2025-10-04T14:00:00.000Z",
+      "round": "Round 9",
+      "homeTeam": "Stranraer",
+      "awayTeam": "Annan Athletic",
+      "homeScore": 0,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Yellow cards": [
+          "1",
+          "3"
+        ]
+      }
+    },
+    {
+      "id": "tlTvBx2m",
+      "date": "2025-09-27T14:00:00.000Z",
+      "round": "Round 8",
+      "homeTeam": "Annan Athletic",
+      "awayTeam": "East Kilbride",
+      "homeScore": 3,
+      "awayScore": 1,
+      "htHome": 2,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Yellow cards": [
+          "4",
+          "3"
+        ],
+        "Red cards": [
+          "0",
+          "1"
+        ]
+      }
+    },
+    {
+      "id": "xGMm9GWa",
+      "date": "2025-09-27T14:00:00.000Z",
+      "round": "Round 8",
+      "homeTeam": "Dumbarton",
+      "awayTeam": "Stranraer",
+      "homeScore": 1,
+      "awayScore": 2,
+      "htHome": 0,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Yellow cards": [
+          "1",
+          "3"
+        ]
+      }
+    },
+    {
+      "id": "ptQe7f1C",
+      "date": "2025-09-27T14:00:00.000Z",
+      "round": "Round 8",
+      "homeTeam": "FC Edinburgh",
+      "awayTeam": "Forfar",
+      "homeScore": 1,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Yellow cards": [
+          "3",
+          "6"
+        ],
+        "Red cards": [
+          "0",
+          "1"
+        ]
+      }
+    },
+    {
+      "id": "6eE45YVO",
+      "date": "2025-09-27T14:00:00.000Z",
+      "round": "Round 8",
+      "homeTeam": "Elgin",
+      "awayTeam": "Spartans",
+      "homeScore": 2,
+      "awayScore": 3,
+      "htHome": 1,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Yellow cards": [
+          "1",
+          "4"
+        ]
+      }
+    },
+    {
+      "id": "zBlEPyHt",
+      "date": "2025-09-27T14:00:00.000Z",
+      "round": "Round 8",
+      "homeTeam": "Stirling",
+      "awayTeam": "Clyde",
+      "homeScore": 2,
+      "awayScore": 4,
+      "htHome": 0,
+      "htAway": 2,
+      "status": "FINISHED",
+      "stats": {
+        "Yellow cards": [
+          "1",
+          "1"
+        ]
+      }
+    },
+    {
+      "id": "8MkbbaIs",
+      "date": "2025-09-20T14:00:00.000Z",
+      "round": "Round 7",
+      "homeTeam": "Clyde",
+      "awayTeam": "FC Edinburgh",
+      "homeScore": 2,
+      "awayScore": 1,
+      "htHome": 1,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Yellow cards": [
+          "4",
+          "3"
+        ]
+      }
+    },
+    {
+      "id": "Gng6dwmf",
+      "date": "2025-09-20T14:00:00.000Z",
+      "round": "Round 7",
+      "homeTeam": "East Kilbride",
+      "awayTeam": "Dumbarton",
+      "homeScore": 1,
+      "awayScore": 1,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Yellow cards": [
+          "2",
+          "1"
+        ]
+      }
+    },
+    {
+      "id": "x2sFfHH6",
+      "date": "2025-09-20T14:00:00.000Z",
+      "round": "Round 7",
+      "homeTeam": "Forfar",
+      "awayTeam": "Annan Athletic",
+      "homeScore": 1,
+      "awayScore": 0,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Yellow cards": [
+          "2",
+          "3"
+        ]
+      }
+    },
+    {
+      "id": "pIs9GbvQ",
+      "date": "2025-09-20T14:00:00.000Z",
+      "round": "Round 7",
+      "homeTeam": "Spartans",
+      "awayTeam": "Stirling",
+      "homeScore": 1,
+      "awayScore": 3,
+      "htHome": 0,
+      "htAway": 2,
+      "status": "FINISHED",
+      "stats": {
+        "Yellow cards": [
+          "1",
+          "3"
+        ]
+      }
+    },
+    {
+      "id": "pSpNhenJ",
+      "date": "2025-09-20T14:00:00.000Z",
+      "round": "Round 7",
+      "homeTeam": "Stranraer",
+      "awayTeam": "Elgin",
+      "homeScore": 1,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Yellow cards": [
+          "1",
+          "2"
+        ]
+      }
+    },
+    {
+      "id": "ARkb28JF",
+      "date": "2025-09-13T14:00:00.000Z",
+      "round": "Round 6",
+      "homeTeam": "Annan Athletic",
+      "awayTeam": "Clyde",
+      "homeScore": 0,
+      "awayScore": 6,
+      "htHome": 0,
+      "htAway": 4,
+      "status": "FINISHED",
+      "stats": {
+        "Yellow cards": [
+          "0",
+          "1"
+        ]
+      }
+    },
+    {
+      "id": "Wtv70nlS",
+      "date": "2025-09-13T14:00:00.000Z",
+      "round": "Round 6",
+      "homeTeam": "FC Edinburgh",
+      "awayTeam": "East Kilbride",
+      "homeScore": 2,
+      "awayScore": 2,
+      "htHome": 1,
+      "htAway": 2,
+      "status": "FINISHED",
+      "stats": {
+        "Yellow cards": [
+          "4",
+          "6"
+        ]
+      }
+    },
+    {
+      "id": "2PUxeQBk",
+      "date": "2025-09-13T14:00:00.000Z",
+      "round": "Round 6",
+      "homeTeam": "Elgin",
+      "awayTeam": "Stirling",
+      "homeScore": 3,
+      "awayScore": 0,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Yellow cards": [
+          "4",
+          "3"
+        ],
+        "Red cards": [
+          "0",
+          "1"
+        ]
+      }
+    },
+    {
+      "id": "biOog4t2",
+      "date": "2025-09-13T14:00:00.000Z",
+      "round": "Round 6",
+      "homeTeam": "Forfar",
+      "awayTeam": "Dumbarton",
+      "homeScore": 2,
+      "awayScore": 3,
+      "htHome": 2,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Yellow cards": [
+          "1",
+          "2"
+        ]
+      }
+    },
+    {
+      "id": "joBXG7Y8",
+      "date": "2025-09-13T14:00:00.000Z",
+      "round": "Round 6",
+      "homeTeam": "Stranraer",
+      "awayTeam": "Spartans",
+      "homeScore": 0,
+      "awayScore": 2,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Yellow cards": [
+          "4",
+          "2"
+        ],
+        "Red cards": [
+          "1",
+          "0"
+        ]
+      }
+    },
+    {
+      "id": "OdCHkVZ9",
+      "date": "2025-08-30T14:00:00.000Z",
+      "round": "Round 5",
+      "homeTeam": "Clyde",
+      "awayTeam": "Elgin",
+      "homeScore": 0,
+      "awayScore": 0,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Yellow cards": [
+          "3",
+          "2"
+        ]
+      }
+    },
+    {
+      "id": "dOPOm94M",
+      "date": "2025-08-30T14:00:00.000Z",
+      "round": "Round 5",
+      "homeTeam": "Dumbarton",
+      "awayTeam": "FC Edinburgh",
+      "homeScore": 1,
+      "awayScore": 2,
+      "htHome": 0,
+      "htAway": 2,
+      "status": "FINISHED",
+      "stats": {
+        "Yellow cards": [
+          "2",
+          "4"
+        ]
+      }
+    },
+    {
+      "id": "G86ermSq",
+      "date": "2025-08-30T14:00:00.000Z",
+      "round": "Round 5",
+      "homeTeam": "East Kilbride",
+      "awayTeam": "Forfar",
+      "homeScore": 5,
+      "awayScore": 0,
+      "htHome": 3,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Yellow cards": [
+          "2",
+          "3"
+        ]
+      }
+    },
+    {
+      "id": "4Unj4Ul3",
+      "date": "2025-08-30T14:00:00.000Z",
+      "round": "Round 5",
+      "homeTeam": "Spartans",
+      "awayTeam": "Annan Athletic",
+      "homeScore": 1,
+      "awayScore": 0,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Yellow cards": [
+          "2",
+          "2"
+        ]
+      }
+    },
+    {
+      "id": "lM43tRdd",
+      "date": "2025-08-30T14:00:00.000Z",
+      "round": "Round 5",
+      "homeTeam": "Stirling",
+      "awayTeam": "Stranraer",
+      "homeScore": 1,
+      "awayScore": 0,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Yellow cards": [
+          "3",
+          "3"
+        ]
+      }
+    },
+    {
+      "id": "lvbZxhj4",
+      "date": "2025-08-23T14:00:00.000Z",
+      "round": "Round 4",
+      "homeTeam": "Annan Athletic",
+      "awayTeam": "Dumbarton",
+      "homeScore": 3,
+      "awayScore": 4,
+      "htHome": 0,
+      "htAway": 2,
+      "status": "FINISHED",
+      "stats": {
+        "Yellow cards": [
+          "2",
+          "1"
+        ]
+      }
+    },
+    {
+      "id": "rwiryWKG",
+      "date": "2025-08-23T14:00:00.000Z",
+      "round": "Round 4",
+      "homeTeam": "Elgin",
+      "awayTeam": "FC Edinburgh",
+      "homeScore": 2,
+      "awayScore": 4,
+      "htHome": 0,
+      "htAway": 2,
+      "status": "FINISHED",
+      "stats": {
+        "Yellow cards": [
+          "3",
+          "3"
+        ]
+      }
+    },
+    {
+      "id": "2sO8ii5c",
+      "date": "2025-08-23T14:00:00.000Z",
+      "round": "Round 4",
+      "homeTeam": "Spartans",
+      "awayTeam": "Forfar",
+      "homeScore": 1,
+      "awayScore": 0,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Yellow cards": [
+          "2",
+          "5"
+        ]
+      }
+    },
+    {
+      "id": "GjkjZ9kT",
+      "date": "2025-08-23T14:00:00.000Z",
+      "round": "Round 4",
+      "homeTeam": "Stirling",
+      "awayTeam": "East Kilbride",
+      "homeScore": 2,
+      "awayScore": 3,
+      "htHome": 1,
+      "htAway": 3,
+      "status": "FINISHED",
+      "stats": {
+        "Yellow cards": [
+          "2",
+          "5"
+        ],
+        "Red cards": [
+          "0",
+          "1"
+        ]
+      }
+    },
+    {
+      "id": "zyWMTmDj",
+      "date": "2025-08-23T14:00:00.000Z",
+      "round": "Round 4",
+      "homeTeam": "Stranraer",
+      "awayTeam": "Clyde",
+      "homeScore": 1,
+      "awayScore": 1,
+      "htHome": 1,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Yellow cards": [
+          "2",
+          "2"
+        ]
+      }
+    },
+    {
+      "id": "xKCaQE6b",
+      "date": "2025-08-16T14:00:00.000Z",
+      "round": "Round 3",
+      "homeTeam": "Clyde",
+      "awayTeam": "Spartans",
+      "homeScore": 1,
+      "awayScore": 3,
+      "htHome": 1,
+      "htAway": 2,
+      "status": "FINISHED",
+      "stats": {
+        "Yellow cards": [
+          "2",
+          "0"
+        ]
+      }
+    },
+    {
+      "id": "AXA7OhyB",
+      "date": "2025-08-16T14:00:00.000Z",
+      "round": "Round 3",
+      "homeTeam": "Dumbarton",
+      "awayTeam": "Elgin",
+      "homeScore": 1,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Yellow cards": [
+          "3",
+          "4"
+        ]
+      }
+    },
+    {
+      "id": "UZQ8MW5N",
+      "date": "2025-08-16T14:00:00.000Z",
+      "round": "Round 3",
+      "homeTeam": "East Kilbride",
+      "awayTeam": "Stranraer",
+      "homeScore": 3,
+      "awayScore": 1,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Yellow cards": [
+          "4",
+          "0"
+        ],
+        "Red cards": [
+          "1",
+          "0"
+        ]
+      }
+    },
+    {
+      "id": "0IHvHATp",
+      "date": "2025-08-16T14:00:00.000Z",
+      "round": "Round 3",
+      "homeTeam": "FC Edinburgh",
+      "awayTeam": "Annan Athletic",
+      "homeScore": 2,
+      "awayScore": 2,
+      "htHome": 0,
+      "htAway": 2,
+      "status": "FINISHED",
+      "stats": {
+        "Yellow cards": [
+          "2",
+          "4"
+        ]
+      }
+    },
+    {
+      "id": "tEfRvELi",
+      "date": "2025-08-16T14:00:00.000Z",
+      "round": "Round 3",
+      "homeTeam": "Forfar",
+      "awayTeam": "Stirling",
+      "homeScore": 4,
+      "awayScore": 2,
+      "htHome": 2,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Yellow cards": [
+          "3",
+          "2"
+        ]
+      }
+    },
+    {
+      "id": "6N2GQN0s",
+      "date": "2025-08-09T14:00:00.000Z",
+      "round": "Round 2",
+      "homeTeam": "Clyde",
+      "awayTeam": "Forfar",
+      "homeScore": 0,
+      "awayScore": 0,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Yellow cards": [
+          "1",
+          "3"
+        ]
+      }
+    },
+    {
+      "id": "2kdPO1Vg",
+      "date": "2025-08-09T14:00:00.000Z",
+      "round": "Round 2",
+      "homeTeam": "Elgin",
+      "awayTeam": "East Kilbride",
+      "homeScore": 0,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Yellow cards": [
+          "7",
+          "3"
+        ]
+      }
+    },
+    {
+      "id": "thJjSzxn",
+      "date": "2025-08-09T14:00:00.000Z",
+      "round": "Round 2",
+      "homeTeam": "Spartans",
+      "awayTeam": "Dumbarton",
+      "homeScore": 1,
+      "awayScore": 2,
+      "htHome": 0,
+      "htAway": 2,
+      "status": "FINISHED",
+      "stats": {
+        "Yellow cards": [
+          "1",
+          "4"
+        ],
+        "Red cards": [
+          "0",
+          "1"
+        ]
+      }
+    },
+    {
+      "id": "fcEWMu06",
+      "date": "2025-08-09T14:00:00.000Z",
+      "round": "Round 2",
+      "homeTeam": "Stirling",
+      "awayTeam": "Annan Athletic",
+      "homeScore": 0,
+      "awayScore": 0,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Yellow cards": [
+          "2",
+          "3"
+        ]
+      }
+    },
+    {
+      "id": "GC2uLJUI",
+      "date": "2025-08-09T14:00:00.000Z",
+      "round": "Round 2",
+      "homeTeam": "Stranraer",
+      "awayTeam": "FC Edinburgh",
+      "homeScore": 1,
+      "awayScore": 2,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Yellow cards": [
+          "3",
+          "4"
+        ]
+      }
+    },
+    {
+      "id": "AB14Ajgn",
+      "date": "2025-08-02T14:00:00.000Z",
+      "round": "Round 1",
+      "homeTeam": "Annan Athletic",
+      "awayTeam": "Elgin",
+      "homeScore": 3,
+      "awayScore": 2,
+      "htHome": 0,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Yellow cards": [
+          "2",
+          "3"
+        ]
+      }
+    },
+    {
+      "id": "dSaC8UNb",
+      "date": "2025-08-02T14:00:00.000Z",
+      "round": "Round 1",
+      "homeTeam": "Dumbarton",
+      "awayTeam": "Clyde",
+      "homeScore": 2,
+      "awayScore": 1,
+      "htHome": 2,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Yellow cards": [
+          "2",
+          "3"
+        ]
+      }
+    },
+    {
+      "id": "hfgL68hB",
+      "date": "2025-08-02T14:00:00.000Z",
+      "round": "Round 1",
+      "homeTeam": "East Kilbride",
+      "awayTeam": "Spartans",
+      "homeScore": 1,
+      "awayScore": 3,
+      "htHome": 1,
+      "htAway": 3,
+      "status": "FINISHED",
+      "stats": {
+        "Yellow cards": [
+          "3",
+          "1"
+        ],
+        "Red cards": [
+          "0",
+          "1"
+        ]
+      }
+    },
+    {
+      "id": "OtGhl0xp",
+      "date": "2025-08-02T14:00:00.000Z",
+      "round": "Round 1",
+      "homeTeam": "FC Edinburgh",
+      "awayTeam": "Stirling",
+      "homeScore": 1,
+      "awayScore": 2,
+      "htHome": 0,
+      "htAway": 2,
+      "status": "FINISHED",
+      "stats": {
+        "Yellow cards": [
+          "3",
+          "4"
+        ]
+      }
+    },
+    {
+      "id": "K891nv7d",
+      "date": "2025-08-02T14:00:00.000Z",
+      "round": "Round 1",
+      "homeTeam": "Forfar",
+      "awayTeam": "Stranraer",
+      "homeScore": 1,
+      "awayScore": 0,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Yellow cards": [
+          "4",
+          "3"
+        ],
+        "Red cards": [
+          "0",
+          "1"
+        ]
+      }
+    },
+    {
+      "id": "6N2GQN0s",
+      "date": "2025-08-09T14:00:00.000Z",
+      "round": "Round 2",
+      "homeTeam": "Clyde",
+      "awayTeam": "Forfar",
+      "homeScore": 0,
+      "awayScore": 0,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Yellow cards": [
+          "1",
+          "3"
+        ]
+      }
+    },
+    {
+      "id": "2kdPO1Vg",
+      "date": "2025-08-09T14:00:00.000Z",
+      "round": "Round 2",
+      "homeTeam": "Elgin",
+      "awayTeam": "East Kilbride",
+      "homeScore": 0,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Yellow cards": [
+          "7",
+          "3"
+        ]
+      }
+    },
+    {
+      "id": "thJjSzxn",
+      "date": "2025-08-09T14:00:00.000Z",
+      "round": "Round 2",
+      "homeTeam": "Spartans",
+      "awayTeam": "Dumbarton",
+      "homeScore": 1,
+      "awayScore": 2,
+      "htHome": 0,
+      "htAway": 2,
+      "status": "FINISHED",
+      "stats": {
+        "Yellow cards": [
+          "1",
+          "4"
+        ],
+        "Red cards": [
+          "0",
+          "1"
+        ]
+      }
+    },
+    {
+      "id": "fcEWMu06",
+      "date": "2025-08-09T14:00:00.000Z",
+      "round": "Round 2",
+      "homeTeam": "Stirling",
+      "awayTeam": "Annan Athletic",
+      "homeScore": 0,
+      "awayScore": 0,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Yellow cards": [
+          "2",
+          "3"
+        ]
+      }
+    },
+    {
+      "id": "GC2uLJUI",
+      "date": "2025-08-09T14:00:00.000Z",
+      "round": "Round 2",
+      "homeTeam": "Stranraer",
+      "awayTeam": "FC Edinburgh",
+      "homeScore": 1,
+      "awayScore": 2,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Yellow cards": [
+          "3",
+          "4"
+        ]
+      }
+    },
+    {
+      "id": "AB14Ajgn",
+      "date": "2025-08-02T14:00:00.000Z",
+      "round": "Round 1",
+      "homeTeam": "Annan Athletic",
+      "awayTeam": "Elgin",
+      "homeScore": 3,
+      "awayScore": 2,
+      "htHome": 0,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Yellow cards": [
+          "2",
+          "3"
+        ]
+      }
+    },
+    {
+      "id": "dSaC8UNb",
+      "date": "2025-08-02T14:00:00.000Z",
+      "round": "Round 1",
+      "homeTeam": "Dumbarton",
+      "awayTeam": "Clyde",
+      "homeScore": 2,
+      "awayScore": 1,
+      "htHome": 2,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Yellow cards": [
+          "2",
+          "3"
+        ]
+      }
+    },
+    {
+      "id": "hfgL68hB",
+      "date": "2025-08-02T14:00:00.000Z",
+      "round": "Round 1",
+      "homeTeam": "East Kilbride",
+      "awayTeam": "Spartans",
+      "homeScore": 1,
+      "awayScore": 3,
+      "htHome": 1,
+      "htAway": 3,
+      "status": "FINISHED",
+      "stats": {
+        "Yellow cards": [
+          "3",
+          "1"
+        ],
+        "Red cards": [
+          "0",
+          "1"
+        ]
+      }
+    },
+    {
+      "id": "OtGhl0xp",
+      "date": "2025-08-02T14:00:00.000Z",
+      "round": "Round 1",
+      "homeTeam": "FC Edinburgh",
+      "awayTeam": "Stirling",
+      "homeScore": 1,
+      "awayScore": 2,
+      "htHome": 0,
+      "htAway": 2,
+      "status": "FINISHED",
+      "stats": {
+        "Yellow cards": [
+          "3",
+          "4"
+        ]
+      }
+    },
+    {
+      "id": "K891nv7d",
+      "date": "2025-08-02T14:00:00.000Z",
+      "round": "Round 1",
+      "homeTeam": "Forfar",
+      "awayTeam": "Stranraer",
+      "homeScore": 1,
+      "awayScore": 0,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Yellow cards": [
+          "4",
+          "3"
+        ],
+        "Red cards": [
+          "0",
+          "1"
+        ]
+      }
+    }
+  ]
+}

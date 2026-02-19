@@ -1,0 +1,2485 @@
+{
+  "league": "Premier League",
+  "country": "hong-kong",
+  "season": "2025-2026",
+  "collectedAt": "2026-02-10T17:21:20.752Z",
+  "totalMatches": 64,
+  "matches": [
+    {
+      "id": "pMJGBexh",
+      "date": "2026-02-01T07:00:00.000Z",
+      "round": "Round 14",
+      "homeTeam": "Kowloon City",
+      "awayTeam": "Lee Man FC",
+      "homeScore": 1,
+      "awayScore": 4,
+      "htHome": 0,
+      "htAway": 2,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "39%",
+          "61%"
+        ],
+        "Total shots": [
+          "5",
+          "19"
+        ],
+        "Shots on target": [
+          "3",
+          "9"
+        ],
+        "Corner kicks": [
+          "3",
+          "8"
+        ],
+        "Yellow cards": [
+          "3",
+          "0"
+        ],
+        "Shots off target": [
+          "2",
+          "10"
+        ]
+      }
+    },
+    {
+      "id": "tlDP9Z64",
+      "date": "2026-02-01T07:00:00.000Z",
+      "round": "Round 14",
+      "homeTeam": "Tai Po",
+      "awayTeam": "Hong Kong FC",
+      "homeScore": 2,
+      "awayScore": 0,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "56%",
+          "44%"
+        ],
+        "Total shots": [
+          "12",
+          "7"
+        ],
+        "Shots on target": [
+          "6",
+          "2"
+        ],
+        "Corner kicks": [
+          "5",
+          "6"
+        ],
+        "Shots off target": [
+          "6",
+          "5"
+        ]
+      }
+    },
+    {
+      "id": "vPWUmhpo",
+      "date": "2026-01-31T10:00:00.000Z",
+      "round": "Round 14",
+      "homeTeam": "Eastern District",
+      "awayTeam": "HK Rangers FC",
+      "homeScore": 4,
+      "awayScore": 0,
+      "htHome": 4,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "51%",
+          "49%"
+        ],
+        "Total shots": [
+          "11",
+          "8"
+        ],
+        "Shots on target": [
+          "5",
+          "4"
+        ],
+        "Corner kicks": [
+          "4",
+          "2"
+        ],
+        "Yellow cards": [
+          "1",
+          "0"
+        ],
+        "Shots off target": [
+          "6",
+          "4"
+        ]
+      }
+    },
+    {
+      "id": "fiebgEMN",
+      "date": "2026-01-31T07:00:00.000Z",
+      "round": "Round 14",
+      "homeTeam": "Kitchee",
+      "awayTeam": "Southern District",
+      "homeScore": 3,
+      "awayScore": 0,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "64%",
+          "36%"
+        ],
+        "Total shots": [
+          "9",
+          "1"
+        ],
+        "Shots on target": [
+          "7",
+          "0"
+        ],
+        "Corner kicks": [
+          "11",
+          "4"
+        ],
+        "Yellow cards": [
+          "0",
+          "2"
+        ],
+        "Shots off target": [
+          "2",
+          "1"
+        ]
+      }
+    },
+    {
+      "id": "nRijezhB",
+      "date": "2026-01-28T12:00:00.000Z",
+      "round": "Round 14",
+      "homeTeam": "Eastern SC",
+      "awayTeam": "North District",
+      "homeScore": 1,
+      "awayScore": 4,
+      "htHome": 1,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "45%",
+          "55%"
+        ],
+        "Total shots": [
+          "5",
+          "10"
+        ],
+        "Shots on target": [
+          "2",
+          "5"
+        ],
+        "Corner kicks": [
+          "3",
+          "9"
+        ],
+        "Yellow cards": [
+          "3",
+          "0"
+        ],
+        "Shots off target": [
+          "3",
+          "5"
+        ]
+      }
+    },
+    {
+      "id": "pn1PF7Y1",
+      "date": "2026-01-25T07:00:00.000Z",
+      "round": "Round 10",
+      "homeTeam": "HK Rangers FC",
+      "awayTeam": "Hong Kong FC",
+      "homeScore": 5,
+      "awayScore": 2,
+      "htHome": 4,
+      "htAway": 2,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "45%",
+          "55%"
+        ],
+        "Total shots": [
+          "0",
+          "0"
+        ],
+        "Shots on target": [
+          "7",
+          "2"
+        ],
+        "Corner kicks": [
+          "5",
+          "5"
+        ],
+        "Shots off target": [
+          "3",
+          "5"
+        ]
+      }
+    },
+    {
+      "id": "jabscdNb",
+      "date": "2026-01-25T07:00:00.000Z",
+      "round": "Round 15",
+      "homeTeam": "Kitchee",
+      "awayTeam": "Tai Po",
+      "homeScore": 4,
+      "awayScore": 2,
+      "htHome": 4,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "63%",
+          "37%"
+        ],
+        "Total shots": [
+          "10",
+          "6"
+        ],
+        "Shots on target": [
+          "7",
+          "4"
+        ],
+        "Corner kicks": [
+          "6",
+          "4"
+        ],
+        "Yellow cards": [
+          "1",
+          "3"
+        ],
+        "Shots off target": [
+          "3",
+          "2"
+        ]
+      }
+    },
+    {
+      "id": "Io0ZbIhn",
+      "date": "2026-01-24T07:00:00.000Z",
+      "round": "Round 4",
+      "homeTeam": "Eastern District",
+      "awayTeam": "North District",
+      "homeScore": 0,
+      "awayScore": 2,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "42%",
+          "58%"
+        ],
+        "Total shots": [
+          "5",
+          "10"
+        ],
+        "Shots on target": [
+          "0",
+          "4"
+        ],
+        "Corner kicks": [
+          "3",
+          "5"
+        ],
+        "Yellow cards": [
+          "2",
+          "1"
+        ],
+        "Shots off target": [
+          "5",
+          "6"
+        ]
+      }
+    },
+    {
+      "id": "fwGPvF7U",
+      "date": "2026-01-24T07:00:00.000Z",
+      "round": "Round 4",
+      "homeTeam": "Lee Man FC",
+      "awayTeam": "Eastern SC",
+      "homeScore": 8,
+      "awayScore": 1,
+      "htHome": 2,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "55%",
+          "45%"
+        ],
+        "Total shots": [
+          "15",
+          "5"
+        ],
+        "Shots on target": [
+          "11",
+          "3"
+        ],
+        "Corner kicks": [
+          "1",
+          "1"
+        ],
+        "Yellow cards": [
+          "2",
+          "3"
+        ],
+        "Shots off target": [
+          "4",
+          "2"
+        ]
+      }
+    },
+    {
+      "id": "nDCHtywI",
+      "date": "2026-01-18T08:30:00.000Z",
+      "round": "Round 12",
+      "homeTeam": "Hong Kong FC",
+      "awayTeam": "Eastern District",
+      "homeScore": 0,
+      "awayScore": 2,
+      "htHome": 0,
+      "htAway": 2,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "64%",
+          "36%"
+        ],
+        "Total shots": [
+          "12",
+          "10"
+        ],
+        "Shots on target": [
+          "9",
+          "3"
+        ],
+        "Corner kicks": [
+          "16",
+          "4"
+        ],
+        "Yellow cards": [
+          "1",
+          "2"
+        ],
+        "Shots off target": [
+          "3",
+          "7"
+        ]
+      }
+    },
+    {
+      "id": "QcO8rc85",
+      "date": "2026-01-18T07:00:00.000Z",
+      "round": "Round 12",
+      "homeTeam": "Eastern SC",
+      "awayTeam": "Southern District",
+      "homeScore": 3,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "58%",
+          "42%"
+        ],
+        "Total shots": [
+          "10",
+          "12"
+        ],
+        "Shots on target": [
+          "7",
+          "6"
+        ],
+        "Corner kicks": [
+          "5",
+          "9"
+        ],
+        "Yellow cards": [
+          "3",
+          "5"
+        ],
+        "Shots off target": [
+          "3",
+          "6"
+        ]
+      }
+    },
+    {
+      "id": "IXK0pJwg",
+      "date": "2026-01-17T10:00:00.000Z",
+      "round": "Round 9",
+      "homeTeam": "HK Rangers FC",
+      "awayTeam": "Kitchee",
+      "homeScore": 0,
+      "awayScore": 3,
+      "htHome": 0,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "43%",
+          "57%"
+        ],
+        "Total shots": [
+          "5",
+          "16"
+        ],
+        "Shots on target": [
+          "2",
+          "6"
+        ],
+        "Corner kicks": [
+          "0",
+          "2"
+        ],
+        "Yellow cards": [
+          "2",
+          "0"
+        ],
+        "Shots off target": [
+          "3",
+          "10"
+        ]
+      }
+    },
+    {
+      "id": "bV4anu9t",
+      "date": "2026-01-17T07:00:00.000Z",
+      "round": "Round 15",
+      "homeTeam": "North District",
+      "awayTeam": "Kowloon City",
+      "homeScore": 2,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "48%",
+          "52%"
+        ],
+        "Total shots": [
+          "15",
+          "10"
+        ],
+        "Shots on target": [
+          "7",
+          "7"
+        ],
+        "Corner kicks": [
+          "10",
+          "8"
+        ],
+        "Yellow cards": [
+          "2",
+          "2"
+        ],
+        "Red cards": [
+          "1",
+          "0"
+        ],
+        "Shots off target": [
+          "8",
+          "3"
+        ]
+      }
+    },
+    {
+      "id": "82gluO1D",
+      "date": "2026-01-17T07:00:00.000Z",
+      "round": "Round 13",
+      "homeTeam": "Tai Po",
+      "awayTeam": "Lee Man FC",
+      "homeScore": 3,
+      "awayScore": 5,
+      "htHome": 0,
+      "htAway": 2,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "50%",
+          "50%"
+        ],
+        "Total shots": [
+          "8",
+          "10"
+        ],
+        "Shots on target": [
+          "5",
+          "8"
+        ],
+        "Corner kicks": [
+          "9",
+          "4"
+        ],
+        "Yellow cards": [
+          "2",
+          "5"
+        ],
+        "Red cards": [
+          "1",
+          "0"
+        ],
+        "Shots off target": [
+          "3",
+          "2"
+        ]
+      }
+    },
+    {
+      "id": "Cz0uspX0",
+      "date": "2026-01-11T08:30:00.000Z",
+      "round": "Round 4",
+      "homeTeam": "Hong Kong FC",
+      "awayTeam": "Kitchee",
+      "homeScore": 1,
+      "awayScore": 2,
+      "htHome": 1,
+      "htAway": 2,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "41%",
+          "59%"
+        ],
+        "Total shots": [
+          "5",
+          "8"
+        ],
+        "Shots on target": [
+          "3",
+          "4"
+        ],
+        "Corner kicks": [
+          "4",
+          "5"
+        ],
+        "Yellow cards": [
+          "1",
+          "1"
+        ],
+        "Shots off target": [
+          "2",
+          "4"
+        ]
+      }
+    },
+    {
+      "id": "4AdXr62l",
+      "date": "2026-01-10T07:00:00.000Z",
+      "round": "Round 12",
+      "homeTeam": "Tai Po",
+      "awayTeam": "Kowloon City",
+      "homeScore": 3,
+      "awayScore": 2,
+      "htHome": 1,
+      "htAway": 2,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "53%",
+          "47%"
+        ],
+        "Total shots": [
+          "6",
+          "7"
+        ],
+        "Shots on target": [
+          "4",
+          "4"
+        ],
+        "Corner kicks": [
+          "4",
+          "3"
+        ],
+        "Yellow cards": [
+          "2",
+          "0"
+        ],
+        "Shots off target": [
+          "2",
+          "3"
+        ]
+      }
+    },
+    {
+      "id": "KxL0lSvR",
+      "date": "2025-12-14T10:00:00.000Z",
+      "round": "Round 11",
+      "homeTeam": "Eastern SC",
+      "awayTeam": "Tai Po",
+      "homeScore": 2,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "53%",
+          "47%"
+        ],
+        "Total shots": [
+          "9",
+          "14"
+        ],
+        "Shots on target": [
+          "6",
+          "2"
+        ],
+        "Corner kicks": [
+          "4",
+          "8"
+        ],
+        "Yellow cards": [
+          "4",
+          "5"
+        ],
+        "Shots off target": [
+          "3",
+          "12"
+        ]
+      }
+    },
+    {
+      "id": "EuIhjlAE",
+      "date": "2025-12-14T08:30:00.000Z",
+      "round": "Round 11",
+      "homeTeam": "Hong Kong FC",
+      "awayTeam": "Kowloon City",
+      "homeScore": 0,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "44%",
+          "56%"
+        ],
+        "Corner kicks": [
+          "2",
+          "10"
+        ],
+        "Shots off target": [
+          "2",
+          "7"
+        ]
+      }
+    },
+    {
+      "id": "bXZ5SpI7",
+      "date": "2025-12-14T07:00:00.000Z",
+      "round": "Round 11",
+      "homeTeam": "HK Rangers FC",
+      "awayTeam": "Lee Man FC",
+      "homeScore": 1,
+      "awayScore": 2,
+      "htHome": 1,
+      "htAway": 2,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "38%",
+          "62%"
+        ],
+        "Total shots": [
+          "4",
+          "14"
+        ],
+        "Shots on target": [
+          "2",
+          "7"
+        ],
+        "Corner kicks": [
+          "3",
+          "3"
+        ],
+        "Yellow cards": [
+          "4",
+          "1"
+        ],
+        "Red cards": [
+          "1",
+          "0"
+        ],
+        "Shots off target": [
+          "2",
+          "7"
+        ]
+      }
+    },
+    {
+      "id": "QJybU6me",
+      "date": "2025-12-13T07:00:00.000Z",
+      "round": "Round 11",
+      "homeTeam": "Eastern District",
+      "awayTeam": "Southern District",
+      "homeScore": 0,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "49%",
+          "51%"
+        ],
+        "Total shots": [
+          "6",
+          "8"
+        ],
+        "Shots on target": [
+          "2",
+          "3"
+        ],
+        "Corner kicks": [
+          "3",
+          "9"
+        ],
+        "Yellow cards": [
+          "2",
+          "1"
+        ],
+        "Shots off target": [
+          "4",
+          "5"
+        ]
+      }
+    },
+    {
+      "id": "UirkWSIr",
+      "date": "2025-12-13T07:00:00.000Z",
+      "round": "Round 11",
+      "homeTeam": "North District",
+      "awayTeam": "Kitchee",
+      "homeScore": 1,
+      "awayScore": 2,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "46%",
+          "54%"
+        ],
+        "Total shots": [
+          "10",
+          "7"
+        ],
+        "Shots on target": [
+          "4",
+          "3"
+        ],
+        "Corner kicks": [
+          "5",
+          "6"
+        ],
+        "Yellow cards": [
+          "1",
+          "1"
+        ],
+        "Shots off target": [
+          "6",
+          "4"
+        ]
+      }
+    },
+    {
+      "id": "Y7sKykeL",
+      "date": "2025-12-07T08:30:00.000Z",
+      "round": "Round 8",
+      "homeTeam": "Hong Kong FC",
+      "awayTeam": "Tai Po",
+      "homeScore": 2,
+      "awayScore": 2,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "46%",
+          "54%"
+        ],
+        "Total shots": [
+          "5",
+          "22"
+        ],
+        "Shots on target": [
+          "4",
+          "10"
+        ],
+        "Corner kicks": [
+          "2",
+          "13"
+        ],
+        "Yellow cards": [
+          "4",
+          "1"
+        ],
+        "Shots off target": [
+          "1",
+          "12"
+        ]
+      }
+    },
+    {
+      "id": "hlMpNktS",
+      "date": "2025-12-07T07:00:00.000Z",
+      "round": "Round 10",
+      "homeTeam": "Kowloon City",
+      "awayTeam": "Eastern SC",
+      "homeScore": 2,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "50%",
+          "50%"
+        ],
+        "Total shots": [
+          "0",
+          "0"
+        ],
+        "Shots on target": [
+          "0",
+          "0"
+        ],
+        "Corner kicks": [
+          "0",
+          "0"
+        ],
+        "Shots off target": [
+          "0",
+          "0"
+        ]
+      }
+    },
+    {
+      "id": "ChgBwBQ8",
+      "date": "2025-12-06T07:00:00.000Z",
+      "round": "Round 10",
+      "homeTeam": "Lee Man FC",
+      "awayTeam": "Southern District",
+      "homeScore": 1,
+      "awayScore": 0,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "44%",
+          "56%"
+        ],
+        "Total shots": [
+          "7",
+          "7"
+        ],
+        "Shots on target": [
+          "4",
+          "3"
+        ],
+        "Corner kicks": [
+          "4",
+          "8"
+        ],
+        "Yellow cards": [
+          "4",
+          "4"
+        ],
+        "Shots off target": [
+          "3",
+          "4"
+        ]
+      }
+    },
+    {
+      "id": "lK7GHT3k",
+      "date": "2025-12-04T07:00:00.000Z",
+      "round": "Round 10",
+      "homeTeam": "North District",
+      "awayTeam": "Tai Po",
+      "homeScore": 1,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "51%",
+          "49%"
+        ],
+        "Total shots": [
+          "12",
+          "11"
+        ],
+        "Shots on target": [
+          "7",
+          "5"
+        ],
+        "Corner kicks": [
+          "4",
+          "8"
+        ],
+        "Yellow cards": [
+          "2",
+          "2"
+        ],
+        "Shots off target": [
+          "5",
+          "6"
+        ]
+      }
+    },
+    {
+      "id": "bkTyPBBF",
+      "date": "2025-12-02T12:00:00.000Z",
+      "round": "Round 10",
+      "homeTeam": "Kitchee",
+      "awayTeam": "Eastern District",
+      "homeScore": 1,
+      "awayScore": 0,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "61%",
+          "39%"
+        ],
+        "Total shots": [
+          "5",
+          "8"
+        ],
+        "Shots on target": [
+          "3",
+          "3"
+        ],
+        "Corner kicks": [
+          "5",
+          "2"
+        ],
+        "Yellow cards": [
+          "3",
+          "3"
+        ],
+        "Shots off target": [
+          "2",
+          "5"
+        ]
+      }
+    },
+    {
+      "id": "j3lgEfcc",
+      "date": "2025-11-26T07:00:00.000Z",
+      "round": "Round 8",
+      "homeTeam": "Southern District",
+      "awayTeam": "Kitchee",
+      "homeScore": 2,
+      "awayScore": 4,
+      "htHome": 1,
+      "htAway": 4,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "43%",
+          "57%"
+        ],
+        "Total shots": [
+          "10",
+          "8"
+        ],
+        "Shots on target": [
+          "3",
+          "4"
+        ],
+        "Corner kicks": [
+          "5",
+          "5"
+        ],
+        "Yellow cards": [
+          "2",
+          "2"
+        ],
+        "Shots off target": [
+          "7",
+          "4"
+        ]
+      }
+    },
+    {
+      "id": "jPPTQXt3",
+      "date": "2025-11-23T07:00:00.000Z",
+      "round": "Round 9",
+      "homeTeam": "Lee Man FC",
+      "awayTeam": "North District",
+      "homeScore": 2,
+      "awayScore": 2,
+      "htHome": 1,
+      "htAway": 2,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "46%",
+          "54%"
+        ],
+        "Total shots": [
+          "10",
+          "9"
+        ],
+        "Shots on target": [
+          "6",
+          "5"
+        ],
+        "Corner kicks": [
+          "7",
+          "4"
+        ],
+        "Yellow cards": [
+          "3",
+          "5"
+        ],
+        "Shots off target": [
+          "4",
+          "4"
+        ]
+      }
+    },
+    {
+      "id": "23qZ4jKq",
+      "date": "2025-11-22T07:00:00.000Z",
+      "round": "Round 9",
+      "homeTeam": "Southern District",
+      "awayTeam": "Kowloon City",
+      "homeScore": 2,
+      "awayScore": 0,
+      "htHome": 2,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "46%",
+          "54%"
+        ],
+        "Total shots": [
+          "3",
+          "6"
+        ],
+        "Shots on target": [
+          "3",
+          "4"
+        ],
+        "Corner kicks": [
+          "3",
+          "5"
+        ],
+        "Yellow cards": [
+          "1",
+          "2"
+        ],
+        "Red cards": [
+          "0",
+          "2"
+        ],
+        "Shots off target": [
+          "0",
+          "2"
+        ]
+      }
+    },
+    {
+      "id": "ATns3Uld",
+      "date": "2025-11-22T07:00:00.000Z",
+      "round": "Round 9",
+      "homeTeam": "Tai Po",
+      "awayTeam": "Eastern District",
+      "homeScore": 1,
+      "awayScore": 0,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "42%",
+          "58%"
+        ],
+        "Total shots": [
+          "3",
+          "11"
+        ],
+        "Shots on target": [
+          "2",
+          "5"
+        ],
+        "Corner kicks": [
+          "2",
+          "3"
+        ],
+        "Shots off target": [
+          "1",
+          "6"
+        ]
+      }
+    },
+    {
+      "id": "KrtAACdM",
+      "date": "2025-11-09T08:30:00.000Z",
+      "round": "Round 9",
+      "homeTeam": "Hong Kong FC",
+      "awayTeam": "Eastern SC",
+      "homeScore": 0,
+      "awayScore": 4,
+      "htHome": 0,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "46%",
+          "54%"
+        ],
+        "Total shots": [
+          "2",
+          "11"
+        ],
+        "Shots on target": [
+          "2",
+          "6"
+        ],
+        "Corner kicks": [
+          "4",
+          "6"
+        ],
+        "Yellow cards": [
+          "4",
+          "1"
+        ],
+        "Red cards": [
+          "1",
+          "0"
+        ],
+        "Shots off target": [
+          "0",
+          "5"
+        ]
+      }
+    },
+    {
+      "id": "nVs2CYR9",
+      "date": "2025-11-09T07:00:00.000Z",
+      "round": "Round 8",
+      "homeTeam": "HK Rangers FC",
+      "awayTeam": "Eastern District",
+      "homeScore": 0,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "47%",
+          "53%"
+        ],
+        "Total shots": [
+          "9",
+          "5"
+        ],
+        "Shots on target": [
+          "4",
+          "2"
+        ],
+        "Corner kicks": [
+          "4",
+          "2"
+        ],
+        "Yellow cards": [
+          "1",
+          "2"
+        ],
+        "Shots off target": [
+          "5",
+          "3"
+        ]
+      }
+    },
+    {
+      "id": "Odd7ji5j",
+      "date": "2025-11-02T07:00:00.000Z",
+      "round": "Round 7",
+      "homeTeam": "Kowloon City",
+      "awayTeam": "Kitchee",
+      "homeScore": 0,
+      "awayScore": 5,
+      "htHome": 0,
+      "htAway": 2,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "44%",
+          "56%"
+        ],
+        "Total shots": [
+          "2",
+          "9"
+        ],
+        "Shots on target": [
+          "0",
+          "6"
+        ],
+        "Corner kicks": [
+          "7",
+          "4"
+        ],
+        "Yellow cards": [
+          "3",
+          "2"
+        ],
+        "Shots off target": [
+          "2",
+          "3"
+        ]
+      }
+    },
+    {
+      "id": "48qZ8aLH",
+      "date": "2025-11-02T07:00:00.000Z",
+      "round": "Round 7",
+      "homeTeam": "North District",
+      "awayTeam": "Southern District",
+      "homeScore": 2,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "60%",
+          "40%"
+        ],
+        "Total shots": [
+          "16",
+          "3"
+        ],
+        "Shots on target": [
+          "8",
+          "1"
+        ],
+        "Corner kicks": [
+          "5",
+          "3"
+        ],
+        "Yellow cards": [
+          "2",
+          "2"
+        ],
+        "Shots off target": [
+          "8",
+          "2"
+        ]
+      }
+    },
+    {
+      "id": "C0RRALj5",
+      "date": "2025-11-01T10:00:00.000Z",
+      "round": "Round 7",
+      "homeTeam": "Lee Man FC",
+      "awayTeam": "Hong Kong FC",
+      "homeScore": 7,
+      "awayScore": 1,
+      "htHome": 2,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "57%",
+          "43%"
+        ],
+        "Total shots": [
+          "17",
+          "5"
+        ],
+        "Shots on target": [
+          "10",
+          "4"
+        ],
+        "Corner kicks": [
+          "7",
+          "3"
+        ],
+        "Yellow cards": [
+          "1",
+          "2"
+        ],
+        "Shots off target": [
+          "7",
+          "1"
+        ]
+      }
+    },
+    {
+      "id": "GYXICsMh",
+      "date": "2025-11-01T07:00:00.000Z",
+      "round": "Round 7",
+      "homeTeam": "Eastern District",
+      "awayTeam": "Eastern SC",
+      "homeScore": 1,
+      "awayScore": 0,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "47%",
+          "53%"
+        ],
+        "Total shots": [
+          "6",
+          "10"
+        ],
+        "Shots on target": [
+          "2",
+          "2"
+        ],
+        "Corner kicks": [
+          "2",
+          "4"
+        ],
+        "Yellow cards": [
+          "6",
+          "1"
+        ],
+        "Shots off target": [
+          "4",
+          "8"
+        ]
+      }
+    },
+    {
+      "id": "rLZAE3it",
+      "date": "2025-11-01T07:00:00.000Z",
+      "round": "Round 7",
+      "homeTeam": "Tai Po",
+      "awayTeam": "HK Rangers FC",
+      "homeScore": 6,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "48%",
+          "52%"
+        ],
+        "Total shots": [
+          "13",
+          "7"
+        ],
+        "Shots on target": [
+          "7",
+          "2"
+        ],
+        "Corner kicks": [
+          "6",
+          "5"
+        ],
+        "Shots off target": [
+          "6",
+          "5"
+        ]
+      }
+    },
+    {
+      "id": "2RH2AiuP",
+      "date": "2025-10-29T07:00:00.000Z",
+      "round": "Round 13",
+      "homeTeam": "Eastern District",
+      "awayTeam": "Kowloon City",
+      "homeScore": 0,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "52%",
+          "48%"
+        ],
+        "Total shots": [
+          "3",
+          "3"
+        ],
+        "Shots on target": [
+          "2",
+          "1"
+        ],
+        "Corner kicks": [
+          "8",
+          "2"
+        ],
+        "Yellow cards": [
+          "5",
+          "2"
+        ],
+        "Red cards": [
+          "1",
+          "0"
+        ],
+        "Shots off target": [
+          "1",
+          "2"
+        ]
+      }
+    },
+    {
+      "id": "GAJfCDAC",
+      "date": "2025-10-26T10:00:00.000Z",
+      "round": "Round 6",
+      "homeTeam": "Kitchee",
+      "awayTeam": "North District",
+      "homeScore": 3,
+      "awayScore": 3,
+      "htHome": 1,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "56%",
+          "44%"
+        ],
+        "Total shots": [
+          "19",
+          "9"
+        ],
+        "Shots on target": [
+          "9",
+          "4"
+        ],
+        "Corner kicks": [
+          "4",
+          "0"
+        ],
+        "Yellow cards": [
+          "3",
+          "2"
+        ],
+        "Shots off target": [
+          "10",
+          "5"
+        ]
+      }
+    },
+    {
+      "id": "nVRwGeBm",
+      "date": "2025-10-26T07:00:00.000Z",
+      "round": "Round 6",
+      "homeTeam": "Kowloon City",
+      "awayTeam": "Hong Kong FC",
+      "homeScore": 1,
+      "awayScore": 2,
+      "htHome": 0,
+      "htAway": 2,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "57%",
+          "43%"
+        ],
+        "Total shots": [
+          "10",
+          "2"
+        ],
+        "Shots on target": [
+          "5",
+          "2"
+        ],
+        "Corner kicks": [
+          "14",
+          "0"
+        ],
+        "Yellow cards": [
+          "1",
+          "4"
+        ],
+        "Shots off target": [
+          "5",
+          "0"
+        ]
+      }
+    },
+    {
+      "id": "feVoEZu0",
+      "date": "2025-10-26T07:00:00.000Z",
+      "round": "Round 6",
+      "homeTeam": "Tai Po",
+      "awayTeam": "Eastern SC",
+      "homeScore": 3,
+      "awayScore": 1,
+      "htHome": 1,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "48%",
+          "52%"
+        ],
+        "Total shots": [
+          "17",
+          "8"
+        ],
+        "Shots on target": [
+          "4",
+          "3"
+        ],
+        "Corner kicks": [
+          "6",
+          "6"
+        ],
+        "Yellow cards": [
+          "3",
+          "2"
+        ],
+        "Shots off target": [
+          "13",
+          "5"
+        ]
+      }
+    },
+    {
+      "id": "Spo7LHmQ",
+      "date": "2025-10-25T07:00:00.000Z",
+      "round": "Round 6",
+      "homeTeam": "Southern District",
+      "awayTeam": "Eastern District",
+      "homeScore": 1,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "53%",
+          "47%"
+        ],
+        "Total shots": [
+          "4",
+          "6"
+        ],
+        "Shots on target": [
+          "4",
+          "2"
+        ],
+        "Corner kicks": [
+          "7",
+          "4"
+        ],
+        "Yellow cards": [
+          "1",
+          "4"
+        ],
+        "Shots off target": [
+          "0",
+          "4"
+        ]
+      }
+    },
+    {
+      "id": "zibLcEeJ",
+      "date": "2025-10-19T08:30:00.000Z",
+      "round": "Round 5",
+      "homeTeam": "Hong Kong FC",
+      "awayTeam": "Southern District",
+      "homeScore": 0,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "47%",
+          "53%"
+        ],
+        "Total shots": [
+          "9",
+          "10"
+        ],
+        "Shots on target": [
+          "7",
+          "7"
+        ],
+        "Corner kicks": [
+          "5",
+          "1"
+        ],
+        "Yellow cards": [
+          "6",
+          "5"
+        ],
+        "Red cards": [
+          "1",
+          "0"
+        ],
+        "Shots off target": [
+          "2",
+          "3"
+        ]
+      }
+    },
+    {
+      "id": "YR141ddf",
+      "date": "2025-10-19T07:00:00.000Z",
+      "round": "Round 5",
+      "homeTeam": "HK Rangers FC",
+      "awayTeam": "Eastern SC",
+      "homeScore": 1,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "40%",
+          "60%"
+        ],
+        "Total shots": [
+          "12",
+          "12"
+        ],
+        "Shots on target": [
+          "6",
+          "9"
+        ],
+        "Corner kicks": [
+          "1",
+          "6"
+        ],
+        "Yellow cards": [
+          "2",
+          "3"
+        ],
+        "Shots off target": [
+          "6",
+          "3"
+        ]
+      }
+    },
+    {
+      "id": "th5CazR6",
+      "date": "2025-10-19T07:00:00.000Z",
+      "round": "Round 5",
+      "homeTeam": "Kowloon City",
+      "awayTeam": "North District",
+      "homeScore": 2,
+      "awayScore": 2,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "50%",
+          "50%"
+        ],
+        "Total shots": [
+          "8",
+          "14"
+        ],
+        "Shots on target": [
+          "5",
+          "8"
+        ],
+        "Corner kicks": [
+          "5",
+          "3"
+        ],
+        "Yellow cards": [
+          "3",
+          "2"
+        ],
+        "Red cards": [
+          "0",
+          "1"
+        ],
+        "Shots off target": [
+          "3",
+          "6"
+        ]
+      }
+    },
+    {
+      "id": "CCDe3IRs",
+      "date": "2025-10-18T10:00:00.000Z",
+      "round": "Round 5",
+      "homeTeam": "Lee Man FC",
+      "awayTeam": "Eastern District",
+      "homeScore": 1,
+      "awayScore": 0,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "61%",
+          "39%"
+        ],
+        "Total shots": [
+          "10",
+          "4"
+        ],
+        "Shots on target": [
+          "5",
+          "2"
+        ],
+        "Corner kicks": [
+          "6",
+          "1"
+        ],
+        "Yellow cards": [
+          "3",
+          "2"
+        ],
+        "Shots off target": [
+          "5",
+          "2"
+        ]
+      }
+    },
+    {
+      "id": "tUMP8v4K",
+      "date": "2025-10-18T07:00:00.000Z",
+      "round": "Round 5",
+      "homeTeam": "Tai Po",
+      "awayTeam": "Kitchee",
+      "homeScore": 1,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "30%",
+          "70%"
+        ],
+        "Total shots": [
+          "3",
+          "4"
+        ],
+        "Shots on target": [
+          "1",
+          "2"
+        ],
+        "Corner kicks": [
+          "0",
+          "4"
+        ],
+        "Yellow cards": [
+          "0",
+          "3"
+        ],
+        "Red cards": [
+          "1",
+          "0"
+        ],
+        "Shots off target": [
+          "2",
+          "2"
+        ]
+      }
+    },
+    {
+      "id": "Gz3ooyCD",
+      "date": "2025-10-05T08:30:00.000Z",
+      "round": "Round 13",
+      "homeTeam": "Hong Kong FC",
+      "awayTeam": "North District",
+      "homeScore": 0,
+      "awayScore": 3,
+      "htHome": 0,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "60%",
+          "40%"
+        ],
+        "Total shots": [
+          "0",
+          "4"
+        ],
+        "Shots on target": [
+          "0",
+          "6"
+        ],
+        "Corner kicks": [
+          "4",
+          "9"
+        ],
+        "Shots off target": [
+          "1",
+          "9"
+        ]
+      }
+    },
+    {
+      "id": "rN4wmcs1",
+      "date": "2025-10-04T10:00:00.000Z",
+      "round": "Round 4",
+      "homeTeam": "HK Rangers FC",
+      "awayTeam": "Kowloon City",
+      "homeScore": 2,
+      "awayScore": 3,
+      "htHome": 1,
+      "htAway": 2,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "52%",
+          "48%"
+        ],
+        "Total shots": [
+          "5",
+          "8"
+        ],
+        "Shots on target": [
+          "5",
+          "5"
+        ],
+        "Corner kicks": [
+          "7",
+          "2"
+        ],
+        "Yellow cards": [
+          "3",
+          "2"
+        ],
+        "Shots off target": [
+          "0",
+          "3"
+        ]
+      }
+    },
+    {
+      "id": "neBUlJCl",
+      "date": "2025-09-21T08:00:00.000Z",
+      "round": "Round 3",
+      "homeTeam": "Kowloon City",
+      "awayTeam": "Tai Po",
+      "homeScore": 0,
+      "awayScore": 2,
+      "htHome": 0,
+      "htAway": 2,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "53%",
+          "47%"
+        ],
+        "Total shots": [
+          "9",
+          "5"
+        ],
+        "Shots on target": [
+          "3",
+          "4"
+        ],
+        "Corner kicks": [
+          "6",
+          "2"
+        ],
+        "Yellow cards": [
+          "3",
+          "6"
+        ],
+        "Red cards": [
+          "1",
+          "1"
+        ],
+        "Shots off target": [
+          "6",
+          "1"
+        ]
+      }
+    },
+    {
+      "id": "GCKbfukR",
+      "date": "2025-09-21T08:00:00.000Z",
+      "round": "Round 3",
+      "homeTeam": "Southern District",
+      "awayTeam": "Eastern SC",
+      "homeScore": 1,
+      "awayScore": 1,
+      "htHome": 1,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "50%",
+          "50%"
+        ],
+        "Total shots": [
+          "9",
+          "7"
+        ],
+        "Shots on target": [
+          "5",
+          "3"
+        ],
+        "Corner kicks": [
+          "2",
+          "2"
+        ],
+        "Yellow cards": [
+          "1",
+          "1"
+        ],
+        "Shots off target": [
+          "4",
+          "4"
+        ]
+      }
+    },
+    {
+      "id": "fcWkd1KE",
+      "date": "2025-09-20T10:30:00.000Z",
+      "round": "Round 3",
+      "homeTeam": "Eastern District",
+      "awayTeam": "Hong Kong FC",
+      "homeScore": 3,
+      "awayScore": 0,
+      "htHome": 2,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "60%",
+          "40%"
+        ],
+        "Total shots": [
+          "7",
+          "4"
+        ],
+        "Shots on target": [
+          "1",
+          "2"
+        ],
+        "Corner kicks": [
+          "2",
+          "3"
+        ],
+        "Yellow cards": [
+          "1",
+          "4"
+        ],
+        "Red cards": [
+          "0",
+          "1"
+        ],
+        "Shots off target": [
+          "6",
+          "2"
+        ]
+      }
+    },
+    {
+      "id": "UJv4YcS7",
+      "date": "2025-09-20T08:00:00.000Z",
+      "round": "Round 3",
+      "homeTeam": "HK Rangers FC",
+      "awayTeam": "North District",
+      "homeScore": 2,
+      "awayScore": 1,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "46%",
+          "54%"
+        ],
+        "Total shots": [
+          "4",
+          "12"
+        ],
+        "Shots on target": [
+          "2",
+          "7"
+        ],
+        "Corner kicks": [
+          "2",
+          "7"
+        ],
+        "Yellow cards": [
+          "3",
+          "3"
+        ],
+        "Shots off target": [
+          "2",
+          "5"
+        ]
+      }
+    },
+    {
+      "id": "YioezKce",
+      "date": "2025-09-20T08:00:00.000Z",
+      "round": "Round 3",
+      "homeTeam": "Lee Man FC",
+      "awayTeam": "Kitchee",
+      "homeScore": 2,
+      "awayScore": 3,
+      "htHome": 0,
+      "htAway": 2,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "48%",
+          "52%"
+        ],
+        "Total shots": [
+          "8",
+          "8"
+        ],
+        "Shots on target": [
+          "5",
+          "4"
+        ],
+        "Corner kicks": [
+          "7",
+          "6"
+        ],
+        "Yellow cards": [
+          "2",
+          "3"
+        ],
+        "Shots off target": [
+          "3",
+          "4"
+        ]
+      }
+    },
+    {
+      "id": "0vmmxtTr",
+      "date": "2025-09-14T08:30:00.000Z",
+      "round": "Round 2",
+      "homeTeam": "Hong Kong FC",
+      "awayTeam": "HK Rangers FC",
+      "homeScore": 0,
+      "awayScore": 2,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "43%",
+          "57%"
+        ],
+        "Total shots": [
+          "8",
+          "17"
+        ],
+        "Shots on target": [
+          "1",
+          "9"
+        ],
+        "Corner kicks": [
+          "8",
+          "6"
+        ],
+        "Yellow cards": [
+          "3",
+          "1"
+        ],
+        "Shots off target": [
+          "7",
+          "8"
+        ],
+        "Goalkeeper saves": [
+          "7",
+          "1"
+        ]
+      }
+    },
+    {
+      "id": "6wVEflqA",
+      "date": "2025-09-14T08:00:00.000Z",
+      "round": "Round 2",
+      "homeTeam": "Eastern District",
+      "awayTeam": "Kitchee",
+      "homeScore": 0,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "41%",
+          "59%"
+        ],
+        "Total shots": [
+          "6",
+          "10"
+        ],
+        "Shots on target": [
+          "2",
+          "5"
+        ],
+        "Corner kicks": [
+          "0",
+          "6"
+        ],
+        "Yellow cards": [
+          "3",
+          "2"
+        ],
+        "Red cards": [
+          "0",
+          "1"
+        ],
+        "Shots off target": [
+          "4",
+          "5"
+        ],
+        "Goalkeeper saves": [
+          "4",
+          "2"
+        ]
+      }
+    },
+    {
+      "id": "KMW6dAEc",
+      "date": "2025-09-13T10:30:00.000Z",
+      "round": "Round 2",
+      "homeTeam": "Eastern SC",
+      "awayTeam": "Kowloon City",
+      "homeScore": 2,
+      "awayScore": 1,
+      "htHome": 1,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "55%",
+          "45%"
+        ],
+        "Total shots": [
+          "9",
+          "8"
+        ],
+        "Shots on target": [
+          "5",
+          "3"
+        ],
+        "Corner kicks": [
+          "7",
+          "7"
+        ],
+        "Yellow cards": [
+          "3",
+          "5"
+        ],
+        "Shots off target": [
+          "4",
+          "5"
+        ],
+        "Goalkeeper saves": [
+          "2",
+          "3"
+        ]
+      }
+    },
+    {
+      "id": "8r3lvTbT",
+      "date": "2025-09-13T08:00:00.000Z",
+      "round": "Round 2",
+      "homeTeam": "Southern District",
+      "awayTeam": "Lee Man FC",
+      "homeScore": 0,
+      "awayScore": 3,
+      "htHome": 0,
+      "htAway": 2,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "47%",
+          "53%"
+        ],
+        "Total shots": [
+          "6",
+          "11"
+        ],
+        "Shots on target": [
+          "1",
+          "6"
+        ],
+        "Corner kicks": [
+          "6",
+          "4"
+        ],
+        "Yellow cards": [
+          "2",
+          "3"
+        ],
+        "Shots off target": [
+          "5",
+          "5"
+        ],
+        "Goalkeeper saves": [
+          "3",
+          "1"
+        ]
+      }
+    },
+    {
+      "id": "vRgKY6Mj",
+      "date": "2025-09-13T08:00:00.000Z",
+      "round": "Round 2",
+      "homeTeam": "Tai Po",
+      "awayTeam": "North District",
+      "homeScore": 0,
+      "awayScore": 2,
+      "htHome": 0,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "49%",
+          "51%"
+        ],
+        "Total shots": [
+          "5",
+          "11"
+        ],
+        "Shots on target": [
+          "2",
+          "7"
+        ],
+        "Corner kicks": [
+          "8",
+          "2"
+        ],
+        "Yellow cards": [
+          "3",
+          "2"
+        ],
+        "Shots off target": [
+          "3",
+          "4"
+        ],
+        "Goalkeeper saves": [
+          "5",
+          "2"
+        ]
+      }
+    },
+    {
+      "id": "v3BXsBa4",
+      "date": "2025-08-31T08:00:00.000Z",
+      "round": "Round 1",
+      "homeTeam": "Kowloon City",
+      "awayTeam": "Eastern District",
+      "homeScore": 0,
+      "awayScore": 0,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "52%",
+          "48%"
+        ],
+        "Total shots": [
+          "9",
+          "4"
+        ],
+        "Shots on target": [
+          "3",
+          "2"
+        ],
+        "Corner kicks": [
+          "4",
+          "0"
+        ],
+        "Yellow cards": [
+          "3",
+          "4"
+        ],
+        "Red cards": [
+          "1",
+          "0"
+        ],
+        "Shots off target": [
+          "6",
+          "2"
+        ],
+        "Goalkeeper saves": [
+          "2",
+          "3"
+        ]
+      }
+    },
+    {
+      "id": "CG9utkUG",
+      "date": "2025-08-31T08:00:00.000Z",
+      "round": "Round 1",
+      "homeTeam": "North District",
+      "awayTeam": "Hong Kong FC",
+      "homeScore": 2,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "58%",
+          "42%"
+        ],
+        "Total shots": [
+          "16",
+          "8"
+        ],
+        "Shots on target": [
+          "7",
+          "5"
+        ],
+        "Corner kicks": [
+          "6",
+          "3"
+        ],
+        "Yellow cards": [
+          "2",
+          "4"
+        ],
+        "Shots off target": [
+          "9",
+          "3"
+        ],
+        "Goalkeeper saves": [
+          "4",
+          "5"
+        ]
+      }
+    },
+    {
+      "id": "bg3PqXUi",
+      "date": "2025-08-30T10:30:00.000Z",
+      "round": "Round 1",
+      "homeTeam": "Lee Man FC",
+      "awayTeam": "Tai Po",
+      "homeScore": 2,
+      "awayScore": 2,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "55%",
+          "45%"
+        ],
+        "Total shots": [
+          "16",
+          "10"
+        ],
+        "Shots on target": [
+          "10",
+          "5"
+        ],
+        "Corner kicks": [
+          "11",
+          "3"
+        ],
+        "Yellow cards": [
+          "2",
+          "2"
+        ],
+        "Shots off target": [
+          "6",
+          "5"
+        ]
+      }
+    },
+    {
+      "id": "WnBwMTxo",
+      "date": "2025-08-30T08:00:00.000Z",
+      "round": "Round 1",
+      "homeTeam": "Southern District",
+      "awayTeam": "HK Rangers FC",
+      "homeScore": 1,
+      "awayScore": 2,
+      "htHome": 1,
+      "htAway": 2,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "58%",
+          "42%"
+        ],
+        "Total shots": [
+          "7",
+          "11"
+        ],
+        "Shots on target": [
+          "3",
+          "4"
+        ],
+        "Corner kicks": [
+          "8",
+          "4"
+        ],
+        "Yellow cards": [
+          "3",
+          "2"
+        ],
+        "Shots off target": [
+          "4",
+          "7"
+        ]
+      }
+    },
+    {
+      "id": "nFZ6RkFN",
+      "date": "2025-08-29T12:00:00.000Z",
+      "round": "Round 1",
+      "homeTeam": "Eastern SC",
+      "awayTeam": "Kitchee",
+      "homeScore": 0,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "45%",
+          "55%"
+        ],
+        "Total shots": [
+          "3",
+          "9"
+        ],
+        "Shots on target": [
+          "3",
+          "6"
+        ],
+        "Corner kicks": [
+          "1",
+          "3"
+        ],
+        "Yellow cards": [
+          "0",
+          "2"
+        ],
+        "Shots off target": [
+          "0",
+          "3"
+        ]
+      }
+    }
+  ]
+}

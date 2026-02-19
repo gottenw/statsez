@@ -1,0 +1,9211 @@
+{
+  "league": "efbet League",
+  "country": "bulgaria",
+  "season": "2025-2026",
+  "collectedAt": "2026-02-10T16:18:44.472Z",
+  "totalMatches": 163,
+  "matches": [
+    {
+      "id": "fwb4O3J5",
+      "date": "2026-02-08T14:45:00.000Z",
+      "round": "Round 20",
+      "homeTeam": "Botev Plovdiv",
+      "awayTeam": "Beroe",
+      "homeScore": 0,
+      "awayScore": 0,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "63%",
+          "37%"
+        ],
+        "Total shots": [
+          "16",
+          "9"
+        ],
+        "Shots on target": [
+          "6",
+          "3"
+        ],
+        "Corner kicks": [
+          "12",
+          "1"
+        ],
+        "Yellow cards": [
+          "3",
+          "3"
+        ],
+        "Shots off target": [
+          "10",
+          "6"
+        ],
+        "Offsides": [
+          "2",
+          "1"
+        ],
+        "Free kicks": [
+          "16",
+          "12"
+        ],
+        "Throw ins": [
+          "24",
+          "14"
+        ],
+        "Fouls": [
+          "10",
+          "15"
+        ]
+      }
+    },
+    {
+      "id": "CEUUvP3n",
+      "date": "2026-02-08T12:15:00.000Z",
+      "round": "Round 20",
+      "homeTeam": "Slavia Sofia",
+      "awayTeam": "Lokomotiv Plovdiv",
+      "homeScore": 0,
+      "awayScore": 2,
+      "htHome": 0,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "53%",
+          "47%"
+        ],
+        "Total shots": [
+          "6",
+          "15"
+        ],
+        "Shots on target": [
+          "2",
+          "5"
+        ],
+        "Corner kicks": [
+          "4",
+          "3"
+        ],
+        "Yellow cards": [
+          "1",
+          "5"
+        ],
+        "Shots off target": [
+          "4",
+          "10"
+        ],
+        "Offsides": [
+          "0",
+          "3"
+        ],
+        "Free kicks": [
+          "15",
+          "10"
+        ],
+        "Throw ins": [
+          "28",
+          "40"
+        ],
+        "Fouls": [
+          "10",
+          "12"
+        ]
+      }
+    },
+    {
+      "id": "tfMoys3B",
+      "date": "2026-02-08T10:00:00.000Z",
+      "round": "Round 20",
+      "homeTeam": "PFC Dobrudzha Dobrich",
+      "awayTeam": "Septemvri Sofia",
+      "homeScore": 3,
+      "awayScore": 0,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "53%",
+          "47%"
+        ],
+        "Total shots": [
+          "9",
+          "4"
+        ],
+        "Shots on target": [
+          "5",
+          "1"
+        ],
+        "Corner kicks": [
+          "5",
+          "3"
+        ],
+        "Yellow cards": [
+          "2",
+          "3"
+        ],
+        "Shots off target": [
+          "4",
+          "3"
+        ],
+        "Offsides": [
+          "2",
+          "0"
+        ],
+        "Free kicks": [
+          "13",
+          "12"
+        ],
+        "Throw ins": [
+          "23",
+          "29"
+        ],
+        "Fouls": [
+          "10",
+          "12"
+        ]
+      }
+    },
+    {
+      "id": "SjdCMslI",
+      "date": "2026-02-07T15:30:00.000Z",
+      "round": "Round 20",
+      "homeTeam": "Levski Sofia",
+      "awayTeam": "Botev Vratsa",
+      "homeScore": 3,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "64%",
+          "36%"
+        ],
+        "Total shots": [
+          "10",
+          "7"
+        ],
+        "Shots on target": [
+          "4",
+          "3"
+        ],
+        "Corner kicks": [
+          "8",
+          "2"
+        ],
+        "Yellow cards": [
+          "0",
+          "1"
+        ],
+        "Shots off target": [
+          "6",
+          "4"
+        ],
+        "Offsides": [
+          "2",
+          "1"
+        ],
+        "Free kicks": [
+          "9",
+          "7"
+        ],
+        "Throw ins": [
+          "30",
+          "13"
+        ],
+        "Fouls": [
+          "5",
+          "8"
+        ]
+      }
+    },
+    {
+      "id": "YTIww3Yb",
+      "date": "2026-02-07T13:00:00.000Z",
+      "round": "Round 20",
+      "homeTeam": "Lokomotiv 1929 Sofia",
+      "awayTeam": "Ludogorets Razgrad",
+      "homeScore": 1,
+      "awayScore": 3,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "42%",
+          "58%"
+        ],
+        "Total shots": [
+          "3",
+          "13"
+        ],
+        "Shots on target": [
+          "2",
+          "3"
+        ],
+        "Corner kicks": [
+          "1",
+          "7"
+        ],
+        "Red cards": [
+          "1",
+          "0"
+        ],
+        "Shots off target": [
+          "1",
+          "10"
+        ],
+        "Offsides": [
+          "1",
+          "1"
+        ],
+        "Free kicks": [
+          "12",
+          "16"
+        ],
+        "Throw ins": [
+          "25",
+          "32"
+        ],
+        "Fouls": [
+          "15",
+          "11"
+        ]
+      }
+    },
+    {
+      "id": "xMFfZKXN",
+      "date": "2026-02-07T10:30:00.000Z",
+      "round": "Round 20",
+      "homeTeam": "Cherno More Varna",
+      "awayTeam": "Spartak Varna",
+      "homeScore": 0,
+      "awayScore": 0,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "56%",
+          "44%"
+        ],
+        "Total shots": [
+          "13",
+          "5"
+        ],
+        "Shots on target": [
+          "4",
+          "3"
+        ],
+        "Corner kicks": [
+          "9",
+          "4"
+        ],
+        "Yellow cards": [
+          "3",
+          "4"
+        ],
+        "Red cards": [
+          "0",
+          "1"
+        ],
+        "Shots off target": [
+          "9",
+          "2"
+        ],
+        "Offsides": [
+          "1",
+          "1"
+        ],
+        "Free kicks": [
+          "6",
+          "8"
+        ],
+        "Throw ins": [
+          "29",
+          "17"
+        ],
+        "Fouls": [
+          "13",
+          "15"
+        ]
+      }
+    },
+    {
+      "id": "bB4eQPlg",
+      "date": "2026-02-06T15:45:00.000Z",
+      "round": "Round 20",
+      "homeTeam": "CSKA Sofia",
+      "awayTeam": "Arda Kardzhali",
+      "homeScore": 3,
+      "awayScore": 1,
+      "htHome": 1,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "55%",
+          "45%"
+        ],
+        "Total shots": [
+          "19",
+          "7"
+        ],
+        "Shots on target": [
+          "4",
+          "3"
+        ],
+        "Corner kicks": [
+          "5",
+          "5"
+        ],
+        "Yellow cards": [
+          "2",
+          "4"
+        ],
+        "Shots off target": [
+          "15",
+          "4"
+        ],
+        "Offsides": [
+          "1",
+          "1"
+        ],
+        "Free kicks": [
+          "10",
+          "16"
+        ],
+        "Throw ins": [
+          "26",
+          "19"
+        ],
+        "Fouls": [
+          "14",
+          "9"
+        ]
+      }
+    },
+    {
+      "id": "OIkLKLIU",
+      "date": "2026-02-06T13:15:00.000Z",
+      "round": "Round 20",
+      "homeTeam": "Montana",
+      "awayTeam": "CSKA 1948 Sofia",
+      "homeScore": 0,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "46%",
+          "54%"
+        ],
+        "Total shots": [
+          "6",
+          "4"
+        ],
+        "Shots on target": [
+          "1",
+          "3"
+        ],
+        "Corner kicks": [
+          "4",
+          "6"
+        ],
+        "Yellow cards": [
+          "1",
+          "2"
+        ],
+        "Shots off target": [
+          "5",
+          "1"
+        ],
+        "Offsides": [
+          "0",
+          "2"
+        ],
+        "Free kicks": [
+          "4",
+          "6"
+        ],
+        "Throw ins": [
+          "18",
+          "17"
+        ],
+        "Fouls": [
+          "12",
+          "12"
+        ]
+      }
+    },
+    {
+      "id": "0hQIZK3N",
+      "date": "2025-12-19T15:30:00.000Z",
+      "round": "Round 6",
+      "homeTeam": "Beroe",
+      "awayTeam": "Ludogorets Razgrad",
+      "homeScore": 0,
+      "awayScore": 4,
+      "htHome": 0,
+      "htAway": 2,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "41%",
+          "59%"
+        ],
+        "Total shots": [
+          "4",
+          "20"
+        ],
+        "Shots on target": [
+          "1",
+          "10"
+        ],
+        "Corner kicks": [
+          "4",
+          "8"
+        ],
+        "Yellow cards": [
+          "3",
+          "2"
+        ],
+        "Shots off target": [
+          "3",
+          "10"
+        ],
+        "Offsides": [
+          "2",
+          "2"
+        ],
+        "Free kicks": [
+          "11",
+          "4"
+        ],
+        "Throw ins": [
+          "15",
+          "19"
+        ],
+        "Fouls": [
+          "2",
+          "9"
+        ]
+      }
+    },
+    {
+      "id": "4lqMBQZa",
+      "date": "2025-12-09T15:30:00.000Z",
+      "round": "Round 19",
+      "homeTeam": "Botev Vratsa",
+      "awayTeam": "Montana",
+      "homeScore": 0,
+      "awayScore": 0,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "56%",
+          "44%"
+        ],
+        "Total shots": [
+          "12",
+          "8"
+        ],
+        "Shots on target": [
+          "3",
+          "3"
+        ],
+        "Corner kicks": [
+          "8",
+          "5"
+        ],
+        "Yellow cards": [
+          "2",
+          "3"
+        ],
+        "Red cards": [
+          "0",
+          "1"
+        ],
+        "Shots off target": [
+          "9",
+          "5"
+        ],
+        "Offsides": [
+          "2",
+          "0"
+        ],
+        "Free kicks": [
+          "8",
+          "13"
+        ],
+        "Throw ins": [
+          "25",
+          "18"
+        ],
+        "Fouls": [
+          "11",
+          "8"
+        ]
+      }
+    },
+    {
+      "id": "8ttw8rZO",
+      "date": "2025-12-08T15:30:00.000Z",
+      "round": "Round 19",
+      "homeTeam": "Ludogorets Razgrad",
+      "awayTeam": "Slavia Sofia",
+      "homeScore": 1,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "75%",
+          "25%"
+        ],
+        "Total shots": [
+          "24",
+          "6"
+        ],
+        "Shots on target": [
+          "7",
+          "2"
+        ],
+        "Corner kicks": [
+          "10",
+          "3"
+        ],
+        "Yellow cards": [
+          "2",
+          "4"
+        ],
+        "Shots off target": [
+          "17",
+          "4"
+        ],
+        "Offsides": [
+          "0",
+          "1"
+        ],
+        "Free kicks": [
+          "8",
+          "8"
+        ],
+        "Throw ins": [
+          "21",
+          "10"
+        ],
+        "Fouls": [
+          "2",
+          "4"
+        ]
+      }
+    },
+    {
+      "id": "WzoEDn5m",
+      "date": "2025-12-08T13:00:00.000Z",
+      "round": "Round 19",
+      "homeTeam": "CSKA 1948 Sofia",
+      "awayTeam": "PFC Dobrudzha Dobrich",
+      "homeScore": 0,
+      "awayScore": 0,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "52%",
+          "48%"
+        ],
+        "Total shots": [
+          "7",
+          "3"
+        ],
+        "Shots on target": [
+          "1",
+          "1"
+        ],
+        "Corner kicks": [
+          "4",
+          "3"
+        ],
+        "Yellow cards": [
+          "2",
+          "3"
+        ],
+        "Shots off target": [
+          "6",
+          "2"
+        ],
+        "Offsides": [
+          "2",
+          "1"
+        ],
+        "Free kicks": [
+          "14",
+          "14"
+        ],
+        "Throw ins": [
+          "22",
+          "16"
+        ],
+        "Fouls": [
+          "10",
+          "10"
+        ]
+      }
+    },
+    {
+      "id": "Cf6mSoKt",
+      "date": "2025-12-07T15:00:00.000Z",
+      "round": "Round 19",
+      "homeTeam": "Spartak Varna",
+      "awayTeam": "Levski Sofia",
+      "homeScore": 1,
+      "awayScore": 3,
+      "htHome": 0,
+      "htAway": 2,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "31%",
+          "69%"
+        ],
+        "Total shots": [
+          "4",
+          "10"
+        ],
+        "Shots on target": [
+          "1",
+          "4"
+        ],
+        "Corner kicks": [
+          "2",
+          "10"
+        ],
+        "Yellow cards": [
+          "1",
+          "3"
+        ],
+        "Shots off target": [
+          "3",
+          "6"
+        ],
+        "Offsides": [
+          "0",
+          "0"
+        ],
+        "Free kicks": [
+          "13",
+          "10"
+        ],
+        "Throw ins": [
+          "5",
+          "21"
+        ],
+        "Fouls": [
+          "12",
+          "16"
+        ]
+      }
+    },
+    {
+      "id": "0GxV944C",
+      "date": "2025-12-07T12:30:00.000Z",
+      "round": "Round 19",
+      "homeTeam": "Beroe",
+      "awayTeam": "Septemvri Sofia",
+      "homeScore": 0,
+      "awayScore": 0,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "50%",
+          "50%"
+        ],
+        "Total shots": [
+          "12",
+          "10"
+        ],
+        "Shots on target": [
+          "3",
+          "5"
+        ],
+        "Corner kicks": [
+          "7",
+          "4"
+        ],
+        "Yellow cards": [
+          "1",
+          "4"
+        ],
+        "Shots off target": [
+          "9",
+          "5"
+        ],
+        "Offsides": [
+          "0",
+          "2"
+        ],
+        "Free kicks": [
+          "16",
+          "11"
+        ],
+        "Throw ins": [
+          "28",
+          "15"
+        ],
+        "Fouls": [
+          "11",
+          "14"
+        ]
+      }
+    },
+    {
+      "id": "hhEtWfLE",
+      "date": "2025-12-06T15:30:00.000Z",
+      "round": "Round 19",
+      "homeTeam": "Cherno More Varna",
+      "awayTeam": "CSKA Sofia",
+      "homeScore": 2,
+      "awayScore": 0,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "44%",
+          "56%"
+        ],
+        "Total shots": [
+          "9",
+          "16"
+        ],
+        "Shots on target": [
+          "3",
+          "5"
+        ],
+        "Corner kicks": [
+          "6",
+          "8"
+        ],
+        "Yellow cards": [
+          "2",
+          "3"
+        ],
+        "Shots off target": [
+          "6",
+          "11"
+        ],
+        "Offsides": [
+          "3",
+          "0"
+        ],
+        "Free kicks": [
+          "12",
+          "21"
+        ],
+        "Throw ins": [
+          "25",
+          "31"
+        ],
+        "Fouls": [
+          "17",
+          "12"
+        ]
+      }
+    },
+    {
+      "id": "4WXoADbe",
+      "date": "2025-12-06T13:00:00.000Z",
+      "round": "Round 19",
+      "homeTeam": "Lokomotiv Plovdiv",
+      "awayTeam": "Arda Kardzhali",
+      "homeScore": 0,
+      "awayScore": 2,
+      "htHome": 0,
+      "htAway": 2,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "61%",
+          "39%"
+        ],
+        "Total shots": [
+          "8",
+          "2"
+        ],
+        "Shots on target": [
+          "2",
+          "2"
+        ],
+        "Corner kicks": [
+          "6",
+          "2"
+        ],
+        "Yellow cards": [
+          "2",
+          "3"
+        ],
+        "Shots off target": [
+          "6",
+          "0"
+        ],
+        "Offsides": [
+          "0",
+          "0"
+        ],
+        "Free kicks": [
+          "15",
+          "11"
+        ],
+        "Throw ins": [
+          "33",
+          "16"
+        ],
+        "Fouls": [
+          "9",
+          "14"
+        ]
+      }
+    },
+    {
+      "id": "QoMf8iT7",
+      "date": "2025-12-06T10:30:00.000Z",
+      "round": "Round 19",
+      "homeTeam": "Lokomotiv 1929 Sofia",
+      "awayTeam": "Botev Plovdiv",
+      "homeScore": 3,
+      "awayScore": 2,
+      "htHome": 2,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "53%",
+          "47%"
+        ],
+        "Total shots": [
+          "6",
+          "16"
+        ],
+        "Shots on target": [
+          "4",
+          "8"
+        ],
+        "Corner kicks": [
+          "6",
+          "10"
+        ],
+        "Yellow cards": [
+          "3",
+          "1"
+        ],
+        "Shots off target": [
+          "2",
+          "8"
+        ],
+        "Offsides": [
+          "0",
+          "3"
+        ],
+        "Free kicks": [
+          "14",
+          "8"
+        ],
+        "Throw ins": [
+          "19",
+          "25"
+        ],
+        "Fouls": [
+          "7",
+          "11"
+        ]
+      }
+    },
+    {
+      "id": "xfFh9ICU",
+      "date": "2025-12-04T16:00:00.000Z",
+      "round": "Round 18",
+      "homeTeam": "Slavia Sofia",
+      "awayTeam": "Levski Sofia",
+      "homeScore": 2,
+      "awayScore": 0,
+      "htHome": 2,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "29%",
+          "71%"
+        ],
+        "Total shots": [
+          "6",
+          "14"
+        ],
+        "Shots on target": [
+          "4",
+          "8"
+        ],
+        "Corner kicks": [
+          "0",
+          "7"
+        ],
+        "Yellow cards": [
+          "1",
+          "2"
+        ],
+        "Shots off target": [
+          "2",
+          "6"
+        ],
+        "Offsides": [
+          "1",
+          "0"
+        ],
+        "Free kicks": [
+          "9",
+          "15"
+        ],
+        "Throw ins": [
+          "20",
+          "25"
+        ],
+        "Fouls": [
+          "16",
+          "8"
+        ]
+      }
+    },
+    {
+      "id": "UTBpBvrI",
+      "date": "2025-12-04T13:30:00.000Z",
+      "round": "Round 18",
+      "homeTeam": "Botev Vratsa",
+      "awayTeam": "Spartak Varna",
+      "homeScore": 2,
+      "awayScore": 0,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "52%",
+          "48%"
+        ],
+        "Total shots": [
+          "18",
+          "2"
+        ],
+        "Shots on target": [
+          "8",
+          "1"
+        ],
+        "Corner kicks": [
+          "6",
+          "0"
+        ],
+        "Yellow cards": [
+          "1",
+          "2"
+        ],
+        "Red cards": [
+          "1",
+          "0"
+        ],
+        "Shots off target": [
+          "10",
+          "1"
+        ],
+        "Offsides": [
+          "0",
+          "0"
+        ],
+        "Free kicks": [
+          "11",
+          "9"
+        ],
+        "Throw ins": [
+          "24",
+          "22"
+        ],
+        "Fouls": [
+          "9",
+          "10"
+        ]
+      }
+    },
+    {
+      "id": "UsiJPwcB",
+      "date": "2025-12-04T11:00:00.000Z",
+      "round": "Round 18",
+      "homeTeam": "PFC Dobrudzha Dobrich",
+      "awayTeam": "Ludogorets Razgrad",
+      "homeScore": 0,
+      "awayScore": 2,
+      "htHome": 0,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "42%",
+          "58%"
+        ],
+        "Total shots": [
+          "3",
+          "11"
+        ],
+        "Shots on target": [
+          "1",
+          "3"
+        ],
+        "Corner kicks": [
+          "2",
+          "6"
+        ],
+        "Yellow cards": [
+          "3",
+          "3"
+        ],
+        "Shots off target": [
+          "2",
+          "8"
+        ],
+        "Offsides": [
+          "1",
+          "1"
+        ],
+        "Free kicks": [
+          "14",
+          "6"
+        ],
+        "Throw ins": [
+          "21",
+          "24"
+        ],
+        "Fouls": [
+          "8",
+          "14"
+        ]
+      }
+    },
+    {
+      "id": "t8u3TLcn",
+      "date": "2025-12-03T16:00:00.000Z",
+      "round": "Round 18",
+      "homeTeam": "CSKA Sofia",
+      "awayTeam": "Lokomotiv Plovdiv",
+      "homeScore": 2,
+      "awayScore": 1,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "57%",
+          "43%"
+        ],
+        "Total shots": [
+          "13",
+          "9"
+        ],
+        "Shots on target": [
+          "5",
+          "2"
+        ],
+        "Corner kicks": [
+          "3",
+          "1"
+        ],
+        "Yellow cards": [
+          "1",
+          "6"
+        ],
+        "Shots off target": [
+          "8",
+          "7"
+        ],
+        "Offsides": [
+          "1",
+          "2"
+        ],
+        "Free kicks": [
+          "16",
+          "13"
+        ],
+        "Throw ins": [
+          "15",
+          "17"
+        ],
+        "Fouls": [
+          "12",
+          "15"
+        ]
+      }
+    },
+    {
+      "id": "dd7a59Bd",
+      "date": "2025-12-03T13:30:00.000Z",
+      "round": "Round 18",
+      "homeTeam": "Beroe",
+      "awayTeam": "Cherno More Varna",
+      "homeScore": 1,
+      "awayScore": 2,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "52%",
+          "48%"
+        ],
+        "Total shots": [
+          "12",
+          "15"
+        ],
+        "Shots on target": [
+          "6",
+          "8"
+        ],
+        "Corner kicks": [
+          "5",
+          "2"
+        ],
+        "Yellow cards": [
+          "2",
+          "5"
+        ],
+        "Shots off target": [
+          "6",
+          "7"
+        ],
+        "Offsides": [
+          "2",
+          "1"
+        ],
+        "Free kicks": [
+          "15",
+          "12"
+        ],
+        "Throw ins": [
+          "19",
+          "21"
+        ],
+        "Fouls": [
+          "10",
+          "14"
+        ]
+      }
+    },
+    {
+      "id": "AReqD0D5",
+      "date": "2025-12-03T11:00:00.000Z",
+      "round": "Round 18",
+      "homeTeam": "Septemvri Sofia",
+      "awayTeam": "CSKA 1948 Sofia",
+      "homeScore": 1,
+      "awayScore": 4,
+      "htHome": 0,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "49%",
+          "51%"
+        ],
+        "Total shots": [
+          "5",
+          "9"
+        ],
+        "Shots on target": [
+          "2",
+          "5"
+        ],
+        "Corner kicks": [
+          "4",
+          "6"
+        ],
+        "Yellow cards": [
+          "2",
+          "1"
+        ],
+        "Shots off target": [
+          "3",
+          "4"
+        ],
+        "Offsides": [
+          "0",
+          "3"
+        ],
+        "Free kicks": [
+          "11",
+          "9"
+        ],
+        "Throw ins": [
+          "22",
+          "31"
+        ],
+        "Fouls": [
+          "8",
+          "8"
+        ]
+      }
+    },
+    {
+      "id": "0UDj7Vtp",
+      "date": "2025-12-02T16:00:00.000Z",
+      "round": "Round 18",
+      "homeTeam": "Arda Kardzhali",
+      "awayTeam": "Botev Plovdiv",
+      "homeScore": 0,
+      "awayScore": 0,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "61%",
+          "39%"
+        ],
+        "Total shots": [
+          "12",
+          "5"
+        ],
+        "Shots on target": [
+          "5",
+          "1"
+        ],
+        "Corner kicks": [
+          "8",
+          "6"
+        ],
+        "Yellow cards": [
+          "1",
+          "1"
+        ],
+        "Shots off target": [
+          "7",
+          "4"
+        ],
+        "Offsides": [
+          "1",
+          "0"
+        ],
+        "Free kicks": [
+          "8",
+          "8"
+        ],
+        "Throw ins": [
+          "29",
+          "21"
+        ],
+        "Fouls": [
+          "7",
+          "9"
+        ]
+      }
+    },
+    {
+      "id": "lYrBRaSb",
+      "date": "2025-12-02T13:30:00.000Z",
+      "round": "Round 18",
+      "homeTeam": "Montana",
+      "awayTeam": "Lokomotiv 1929 Sofia",
+      "homeScore": 1,
+      "awayScore": 2,
+      "htHome": 0,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "48%",
+          "52%"
+        ],
+        "Total shots": [
+          "8",
+          "4"
+        ],
+        "Shots on target": [
+          "3",
+          "2"
+        ],
+        "Corner kicks": [
+          "2",
+          "2"
+        ],
+        "Yellow cards": [
+          "2",
+          "3"
+        ],
+        "Red cards": [
+          "0",
+          "1"
+        ],
+        "Shots off target": [
+          "5",
+          "2"
+        ],
+        "Offsides": [
+          "0",
+          "2"
+        ],
+        "Free kicks": [
+          "14",
+          "13"
+        ],
+        "Throw ins": [
+          "31",
+          "25"
+        ],
+        "Fouls": [
+          "12",
+          "12"
+        ]
+      }
+    },
+    {
+      "id": "tn4SGrEt",
+      "date": "2025-11-30T15:30:00.000Z",
+      "round": "Round 17",
+      "homeTeam": "Levski Sofia",
+      "awayTeam": "Septemvri Sofia",
+      "homeScore": 7,
+      "awayScore": 0,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "58%",
+          "42%"
+        ],
+        "Total shots": [
+          "28",
+          "8"
+        ],
+        "Shots on target": [
+          "13",
+          "1"
+        ],
+        "Corner kicks": [
+          "7",
+          "1"
+        ],
+        "Yellow cards": [
+          "2",
+          "3"
+        ],
+        "Red cards": [
+          "0",
+          "1"
+        ],
+        "Shots off target": [
+          "15",
+          "7"
+        ],
+        "Offsides": [
+          "3",
+          "0"
+        ],
+        "Free kicks": [
+          "8",
+          "17"
+        ],
+        "Throw ins": [
+          "22",
+          "16"
+        ],
+        "Fouls": [
+          "13",
+          "8"
+        ]
+      }
+    },
+    {
+      "id": "Srvg2qam",
+      "date": "2025-11-30T13:00:00.000Z",
+      "round": "Round 17",
+      "homeTeam": "Ludogorets Razgrad",
+      "awayTeam": "Botev Vratsa",
+      "homeScore": 2,
+      "awayScore": 0,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "66%",
+          "34%"
+        ],
+        "Total shots": [
+          "14",
+          "2"
+        ],
+        "Shots on target": [
+          "5",
+          "1"
+        ],
+        "Corner kicks": [
+          "11",
+          "0"
+        ],
+        "Yellow cards": [
+          "2",
+          "1"
+        ],
+        "Shots off target": [
+          "9",
+          "1"
+        ],
+        "Offsides": [
+          "0",
+          "0"
+        ],
+        "Free kicks": [
+          "11",
+          "7"
+        ],
+        "Throw ins": [
+          "29",
+          "9"
+        ],
+        "Fouls": [
+          "7",
+          "11"
+        ]
+      }
+    },
+    {
+      "id": "U7zAb1bC",
+      "date": "2025-11-30T10:30:00.000Z",
+      "round": "Round 17",
+      "homeTeam": "Slavia Sofia",
+      "awayTeam": "PFC Dobrudzha Dobrich",
+      "homeScore": 3,
+      "awayScore": 1,
+      "htHome": 2,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "49%",
+          "51%"
+        ],
+        "Total shots": [
+          "11",
+          "9"
+        ],
+        "Shots on target": [
+          "7",
+          "6"
+        ],
+        "Corner kicks": [
+          "7",
+          "8"
+        ],
+        "Yellow cards": [
+          "0",
+          "3"
+        ],
+        "Shots off target": [
+          "4",
+          "3"
+        ],
+        "Offsides": [
+          "0",
+          "0"
+        ],
+        "Free kicks": [
+          "9",
+          "11"
+        ],
+        "Throw ins": [
+          "22",
+          "21"
+        ],
+        "Fouls": [
+          "10",
+          "9"
+        ]
+      }
+    },
+    {
+      "id": "OAX10NTa",
+      "date": "2025-11-29T15:30:00.000Z",
+      "round": "Round 17",
+      "homeTeam": "Spartak Varna",
+      "awayTeam": "CSKA Sofia",
+      "homeScore": 0,
+      "awayScore": 4,
+      "htHome": 0,
+      "htAway": 2,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "45%",
+          "55%"
+        ],
+        "Total shots": [
+          "6",
+          "22"
+        ],
+        "Shots on target": [
+          "2",
+          "11"
+        ],
+        "Corner kicks": [
+          "4",
+          "11"
+        ],
+        "Yellow cards": [
+          "2",
+          "3"
+        ],
+        "Shots off target": [
+          "4",
+          "11"
+        ],
+        "Offsides": [
+          "0",
+          "2"
+        ],
+        "Free kicks": [
+          "12",
+          "13"
+        ],
+        "Throw ins": [
+          "9",
+          "17"
+        ],
+        "Fouls": [
+          "13",
+          "10"
+        ]
+      }
+    },
+    {
+      "id": "xEcyFMrg",
+      "date": "2025-11-29T13:00:00.000Z",
+      "round": "Round 17",
+      "homeTeam": "Botev Plovdiv",
+      "awayTeam": "Cherno More Varna",
+      "homeScore": 2,
+      "awayScore": 1,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "50%",
+          "50%"
+        ],
+        "Total shots": [
+          "4",
+          "7"
+        ],
+        "Shots on target": [
+          "3",
+          "3"
+        ],
+        "Corner kicks": [
+          "2",
+          "2"
+        ],
+        "Yellow cards": [
+          "1",
+          "1"
+        ],
+        "Shots off target": [
+          "1",
+          "4"
+        ],
+        "Offsides": [
+          "0",
+          "0"
+        ],
+        "Free kicks": [
+          "12",
+          "10"
+        ],
+        "Throw ins": [
+          "25",
+          "24"
+        ],
+        "Fouls": [
+          "9",
+          "11"
+        ]
+      }
+    },
+    {
+      "id": "WChN75yQ",
+      "date": "2025-11-29T11:00:00.000Z",
+      "round": "Round 17",
+      "homeTeam": "CSKA 1948 Sofia",
+      "awayTeam": "Beroe",
+      "homeScore": 2,
+      "awayScore": 1,
+      "htHome": 1,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "63%",
+          "37%"
+        ],
+        "Total shots": [
+          "19",
+          "5"
+        ],
+        "Shots on target": [
+          "9",
+          "2"
+        ],
+        "Corner kicks": [
+          "11",
+          "4"
+        ],
+        "Yellow cards": [
+          "1",
+          "0"
+        ],
+        "Shots off target": [
+          "10",
+          "3"
+        ],
+        "Offsides": [
+          "4",
+          "1"
+        ],
+        "Free kicks": [
+          "6",
+          "12"
+        ],
+        "Throw ins": [
+          "22",
+          "18"
+        ],
+        "Fouls": [
+          "9",
+          "5"
+        ]
+      }
+    },
+    {
+      "id": "jNOIduTO",
+      "date": "2025-11-28T15:30:00.000Z",
+      "round": "Round 17",
+      "homeTeam": "Lokomotiv Plovdiv",
+      "awayTeam": "Montana",
+      "homeScore": 0,
+      "awayScore": 0,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "54%",
+          "46%"
+        ],
+        "Total shots": [
+          "8",
+          "8"
+        ],
+        "Shots on target": [
+          "4",
+          "3"
+        ],
+        "Corner kicks": [
+          "6",
+          "4"
+        ],
+        "Yellow cards": [
+          "2",
+          "2"
+        ],
+        "Shots off target": [
+          "4",
+          "5"
+        ],
+        "Offsides": [
+          "6",
+          "1"
+        ],
+        "Free kicks": [
+          "10",
+          "19"
+        ],
+        "Throw ins": [
+          "35",
+          "23"
+        ],
+        "Fouls": [
+          "13",
+          "9"
+        ]
+      }
+    },
+    {
+      "id": "G4Azp2qJ",
+      "date": "2025-11-28T13:00:00.000Z",
+      "round": "Round 17",
+      "homeTeam": "Lokomotiv 1929 Sofia",
+      "awayTeam": "Arda Kardzhali",
+      "homeScore": 0,
+      "awayScore": 0,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "50%",
+          "50%"
+        ],
+        "Total shots": [
+          "3",
+          "6"
+        ],
+        "Shots on target": [
+          "0",
+          "3"
+        ],
+        "Corner kicks": [
+          "6",
+          "3"
+        ],
+        "Yellow cards": [
+          "3",
+          "1"
+        ],
+        "Shots off target": [
+          "3",
+          "3"
+        ],
+        "Offsides": [
+          "3",
+          "0"
+        ],
+        "Free kicks": [
+          "12",
+          "17"
+        ],
+        "Throw ins": [
+          "21",
+          "26"
+        ],
+        "Fouls": [
+          "13",
+          "11"
+        ]
+      }
+    },
+    {
+      "id": "rwcToOE6",
+      "date": "2025-11-24T15:30:00.000Z",
+      "round": "Round 16",
+      "homeTeam": "Botev Vratsa",
+      "awayTeam": "Slavia Sofia",
+      "homeScore": 0,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "49%",
+          "51%"
+        ],
+        "Total shots": [
+          "14",
+          "9"
+        ],
+        "Shots on target": [
+          "3",
+          "4"
+        ],
+        "Corner kicks": [
+          "8",
+          "5"
+        ],
+        "Yellow cards": [
+          "3",
+          "0"
+        ],
+        "Shots off target": [
+          "11",
+          "5"
+        ],
+        "Offsides": [
+          "2",
+          "0"
+        ],
+        "Free kicks": [
+          "9",
+          "12"
+        ],
+        "Throw ins": [
+          "22",
+          "22"
+        ],
+        "Fouls": [
+          "9",
+          "9"
+        ]
+      }
+    },
+    {
+      "id": "2JyfXOaD",
+      "date": "2025-11-23T15:00:00.000Z",
+      "round": "Round 16",
+      "homeTeam": "Montana",
+      "awayTeam": "Levski Sofia",
+      "homeScore": 1,
+      "awayScore": 5,
+      "htHome": 0,
+      "htAway": 4,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "32%",
+          "68%"
+        ],
+        "Total shots": [
+          "3",
+          "10"
+        ],
+        "Shots on target": [
+          "1",
+          "6"
+        ],
+        "Corner kicks": [
+          "2",
+          "7"
+        ],
+        "Yellow cards": [
+          "3",
+          "0"
+        ],
+        "Shots off target": [
+          "2",
+          "4"
+        ],
+        "Offsides": [
+          "0",
+          "2"
+        ],
+        "Free kicks": [
+          "14",
+          "16"
+        ],
+        "Throw ins": [
+          "10",
+          "13"
+        ],
+        "Fouls": [
+          "16",
+          "12"
+        ]
+      }
+    },
+    {
+      "id": "MN8Kmppf",
+      "date": "2025-11-23T12:30:00.000Z",
+      "round": "Round 16",
+      "homeTeam": "Septemvri Sofia",
+      "awayTeam": "Ludogorets Razgrad",
+      "homeScore": 0,
+      "awayScore": 2,
+      "htHome": 0,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "54%",
+          "46%"
+        ],
+        "Total shots": [
+          "3",
+          "13"
+        ],
+        "Shots on target": [
+          "3",
+          "7"
+        ],
+        "Corner kicks": [
+          "4",
+          "3"
+        ],
+        "Yellow cards": [
+          "4",
+          "1"
+        ],
+        "Shots off target": [
+          "0",
+          "6"
+        ],
+        "Offsides": [
+          "1",
+          "2"
+        ],
+        "Free kicks": [
+          "12",
+          "21"
+        ],
+        "Throw ins": [
+          "16",
+          "15"
+        ],
+        "Fouls": [
+          "19",
+          "10"
+        ]
+      }
+    },
+    {
+      "id": "fDOueSiK",
+      "date": "2025-11-23T10:00:00.000Z",
+      "round": "Round 16",
+      "homeTeam": "PFC Dobrudzha Dobrich",
+      "awayTeam": "Lokomotiv Plovdiv",
+      "homeScore": 1,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "47%",
+          "53%"
+        ],
+        "Total shots": [
+          "10",
+          "5"
+        ],
+        "Shots on target": [
+          "6",
+          "5"
+        ],
+        "Corner kicks": [
+          "4",
+          "3"
+        ],
+        "Yellow cards": [
+          "3",
+          "4"
+        ],
+        "Shots off target": [
+          "4",
+          "0"
+        ],
+        "Offsides": [
+          "0",
+          "2"
+        ],
+        "Free kicks": [
+          "18",
+          "14"
+        ],
+        "Throw ins": [
+          "17",
+          "18"
+        ],
+        "Fouls": [
+          "14",
+          "16"
+        ]
+      }
+    },
+    {
+      "id": "t6S4gFGF",
+      "date": "2025-11-22T15:00:00.000Z",
+      "round": "Round 16",
+      "homeTeam": "CSKA Sofia",
+      "awayTeam": "Botev Plovdiv",
+      "homeScore": 2,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "65%",
+          "35%"
+        ],
+        "Total shots": [
+          "29",
+          "8"
+        ],
+        "Shots on target": [
+          "7",
+          "1"
+        ],
+        "Corner kicks": [
+          "11",
+          "1"
+        ],
+        "Yellow cards": [
+          "2",
+          "6"
+        ],
+        "Shots off target": [
+          "22",
+          "7"
+        ],
+        "Offsides": [
+          "0",
+          "1"
+        ],
+        "Free kicks": [
+          "15",
+          "9"
+        ],
+        "Throw ins": [
+          "26",
+          "10"
+        ],
+        "Fouls": [
+          "8",
+          "14"
+        ]
+      }
+    },
+    {
+      "id": "Ec5Ck6Fs",
+      "date": "2025-11-22T12:30:00.000Z",
+      "round": "Round 16",
+      "homeTeam": "Cherno More Varna",
+      "awayTeam": "Lokomotiv 1929 Sofia",
+      "homeScore": 0,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "56%",
+          "44%"
+        ],
+        "Total shots": [
+          "13",
+          "16"
+        ],
+        "Shots on target": [
+          "4",
+          "8"
+        ],
+        "Corner kicks": [
+          "10",
+          "6"
+        ],
+        "Yellow cards": [
+          "0",
+          "4"
+        ],
+        "Shots off target": [
+          "9",
+          "8"
+        ],
+        "Offsides": [
+          "2",
+          "1"
+        ],
+        "Free kicks": [
+          "15",
+          "13"
+        ],
+        "Throw ins": [
+          "38",
+          "27"
+        ],
+        "Fouls": [
+          "11",
+          "14"
+        ]
+      }
+    },
+    {
+      "id": "0fuwy70l",
+      "date": "2025-11-22T10:00:00.000Z",
+      "round": "Round 16",
+      "homeTeam": "Arda Kardzhali",
+      "awayTeam": "CSKA 1948 Sofia",
+      "homeScore": 3,
+      "awayScore": 0,
+      "htHome": 2,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "49%",
+          "51%"
+        ],
+        "Total shots": [
+          "10",
+          "5"
+        ],
+        "Shots on target": [
+          "6",
+          "2"
+        ],
+        "Corner kicks": [
+          "4",
+          "3"
+        ],
+        "Yellow cards": [
+          "1",
+          "1"
+        ],
+        "Shots off target": [
+          "4",
+          "3"
+        ],
+        "Offsides": [
+          "3",
+          "1"
+        ],
+        "Free kicks": [
+          "10",
+          "13"
+        ],
+        "Throw ins": [
+          "20",
+          "20"
+        ],
+        "Fouls": [
+          "10",
+          "9"
+        ]
+      }
+    },
+    {
+      "id": "8KroZpV0",
+      "date": "2025-11-21T15:45:00.000Z",
+      "round": "Round 16",
+      "homeTeam": "Beroe",
+      "awayTeam": "Spartak Varna",
+      "homeScore": 0,
+      "awayScore": 0,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "46%",
+          "54%"
+        ],
+        "Total shots": [
+          "10",
+          "9"
+        ],
+        "Shots on target": [
+          "3",
+          "1"
+        ],
+        "Corner kicks": [
+          "3",
+          "12"
+        ],
+        "Yellow cards": [
+          "0",
+          "4"
+        ],
+        "Red cards": [
+          "1",
+          "0"
+        ],
+        "Shots off target": [
+          "7",
+          "8"
+        ],
+        "Offsides": [
+          "1",
+          "2"
+        ],
+        "Free kicks": [
+          "6",
+          "12"
+        ],
+        "Throw ins": [
+          "19",
+          "16"
+        ],
+        "Fouls": [
+          "11",
+          "4"
+        ]
+      }
+    },
+    {
+      "id": "fcKHXXgd",
+      "date": "2025-11-09T15:30:00.000Z",
+      "round": "Round 15",
+      "homeTeam": "Ludogorets Razgrad",
+      "awayTeam": "Arda Kardzhali",
+      "homeScore": 2,
+      "awayScore": 3,
+      "htHome": 1,
+      "htAway": 2,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "61%",
+          "39%"
+        ],
+        "Total shots": [
+          "17",
+          "9"
+        ],
+        "Shots on target": [
+          "6",
+          "6"
+        ],
+        "Corner kicks": [
+          "14",
+          "3"
+        ],
+        "Yellow cards": [
+          "0",
+          "3"
+        ],
+        "Shots off target": [
+          "11",
+          "3"
+        ],
+        "Offsides": [
+          "0",
+          "3"
+        ],
+        "Free kicks": [
+          "20",
+          "9"
+        ],
+        "Throw ins": [
+          "30",
+          "10"
+        ],
+        "Fouls": [
+          "9",
+          "17"
+        ]
+      }
+    },
+    {
+      "id": "MVtyLfAj",
+      "date": "2025-11-09T13:00:00.000Z",
+      "round": "Round 15",
+      "homeTeam": "CSKA 1948 Sofia",
+      "awayTeam": "Cherno More Varna",
+      "homeScore": 0,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "57%",
+          "43%"
+        ],
+        "Total shots": [
+          "3",
+          "1"
+        ],
+        "Shots on target": [
+          "2",
+          "1"
+        ],
+        "Corner kicks": [
+          "7",
+          "5"
+        ],
+        "Yellow cards": [
+          "1",
+          "3"
+        ],
+        "Shots off target": [
+          "1",
+          "0"
+        ],
+        "Offsides": [
+          "1",
+          "4"
+        ],
+        "Free kicks": [
+          "16",
+          "14"
+        ],
+        "Throw ins": [
+          "17",
+          "21"
+        ],
+        "Fouls": [
+          "13",
+          "12"
+        ]
+      }
+    },
+    {
+      "id": "YuPdeyn3",
+      "date": "2025-11-09T10:30:00.000Z",
+      "round": "Round 15",
+      "homeTeam": "Slavia Sofia",
+      "awayTeam": "Montana",
+      "homeScore": 2,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "61%",
+          "39%"
+        ],
+        "Total shots": [
+          "15",
+          "12"
+        ],
+        "Shots on target": [
+          "5",
+          "3"
+        ],
+        "Corner kicks": [
+          "10",
+          "2"
+        ],
+        "Yellow cards": [
+          "0",
+          "5"
+        ],
+        "Shots off target": [
+          "10",
+          "9"
+        ],
+        "Offsides": [
+          "0",
+          "1"
+        ],
+        "Free kicks": [
+          "14",
+          "9"
+        ],
+        "Throw ins": [
+          "31",
+          "13"
+        ],
+        "Fouls": [
+          "9",
+          "13"
+        ]
+      }
+    },
+    {
+      "id": "2auwuG1M",
+      "date": "2025-11-08T16:00:00.000Z",
+      "round": "Round 15",
+      "homeTeam": "Lokomotiv Plovdiv",
+      "awayTeam": "Beroe",
+      "homeScore": 1,
+      "awayScore": 0,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "57%",
+          "43%"
+        ],
+        "Total shots": [
+          "15",
+          "6"
+        ],
+        "Shots on target": [
+          "7",
+          "4"
+        ],
+        "Corner kicks": [
+          "1",
+          "0"
+        ],
+        "Yellow cards": [
+          "4",
+          "3"
+        ],
+        "Red cards": [
+          "0",
+          "1"
+        ],
+        "Shots off target": [
+          "8",
+          "2"
+        ],
+        "Offsides": [
+          "1",
+          "1"
+        ],
+        "Free kicks": [
+          "16",
+          "26"
+        ],
+        "Throw ins": [
+          "25",
+          "21"
+        ],
+        "Fouls": [
+          "25",
+          "15"
+        ]
+      }
+    },
+    {
+      "id": "fZyVtxX9",
+      "date": "2025-11-08T13:00:00.000Z",
+      "round": "Round 15",
+      "homeTeam": "Levski Sofia",
+      "awayTeam": "CSKA Sofia",
+      "homeScore": 0,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "61%",
+          "39%"
+        ],
+        "Total shots": [
+          "14",
+          "4"
+        ],
+        "Shots on target": [
+          "4",
+          "3"
+        ],
+        "Corner kicks": [
+          "5",
+          "4"
+        ],
+        "Yellow cards": [
+          "4",
+          "7"
+        ],
+        "Red cards": [
+          "0",
+          "1"
+        ],
+        "Shots off target": [
+          "10",
+          "1"
+        ],
+        "Offsides": [
+          "1",
+          "2"
+        ],
+        "Free kicks": [
+          "26",
+          "11"
+        ],
+        "Throw ins": [
+          "23",
+          "15"
+        ],
+        "Fouls": [
+          "8",
+          "22"
+        ]
+      }
+    },
+    {
+      "id": "MqM9ZgPq",
+      "date": "2025-11-08T10:00:00.000Z",
+      "round": "Round 15",
+      "homeTeam": "Lokomotiv 1929 Sofia",
+      "awayTeam": "Botev Vratsa",
+      "homeScore": 0,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "51%",
+          "49%"
+        ],
+        "Total shots": [
+          "8",
+          "7"
+        ],
+        "Shots on target": [
+          "3",
+          "2"
+        ],
+        "Corner kicks": [
+          "10",
+          "2"
+        ],
+        "Yellow cards": [
+          "1",
+          "2"
+        ],
+        "Shots off target": [
+          "5",
+          "5"
+        ],
+        "Offsides": [
+          "0",
+          "2"
+        ],
+        "Free kicks": [
+          "17",
+          "12"
+        ],
+        "Throw ins": [
+          "36",
+          "22"
+        ],
+        "Fouls": [
+          "12",
+          "15"
+        ]
+      }
+    },
+    {
+      "id": "2o04QGnT",
+      "date": "2025-11-07T15:30:00.000Z",
+      "round": "Round 15",
+      "homeTeam": "Botev Plovdiv",
+      "awayTeam": "PFC Dobrudzha Dobrich",
+      "homeScore": 2,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "54%",
+          "46%"
+        ],
+        "Total shots": [
+          "9",
+          "11"
+        ],
+        "Shots on target": [
+          "5",
+          "4"
+        ],
+        "Corner kicks": [
+          "6",
+          "5"
+        ],
+        "Yellow cards": [
+          "4",
+          "3"
+        ],
+        "Red cards": [
+          "0",
+          "1"
+        ],
+        "Shots off target": [
+          "4",
+          "7"
+        ],
+        "Offsides": [
+          "3",
+          "0"
+        ],
+        "Free kicks": [
+          "11",
+          "12"
+        ],
+        "Throw ins": [
+          "36",
+          "25"
+        ],
+        "Fouls": [
+          "9",
+          "10"
+        ]
+      }
+    },
+    {
+      "id": "YJmMrb2c",
+      "date": "2025-11-07T13:00:00.000Z",
+      "round": "Round 15",
+      "homeTeam": "Spartak Varna",
+      "awayTeam": "Septemvri Sofia",
+      "homeScore": 1,
+      "awayScore": 4,
+      "htHome": 0,
+      "htAway": 2,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "42%",
+          "58%"
+        ],
+        "Total shots": [
+          "8",
+          "11"
+        ],
+        "Shots on target": [
+          "4",
+          "9"
+        ],
+        "Corner kicks": [
+          "3",
+          "2"
+        ],
+        "Yellow cards": [
+          "5",
+          "4"
+        ],
+        "Shots off target": [
+          "4",
+          "2"
+        ],
+        "Offsides": [
+          "0",
+          "1"
+        ],
+        "Free kicks": [
+          "9",
+          "10"
+        ],
+        "Throw ins": [
+          "25",
+          "21"
+        ],
+        "Fouls": [
+          "10",
+          "8"
+        ]
+      }
+    },
+    {
+      "id": "vqmEFaYA",
+      "date": "2025-11-03T16:15:00.000Z",
+      "round": "Round 14",
+      "homeTeam": "Botev Vratsa",
+      "awayTeam": "CSKA 1948 Sofia",
+      "homeScore": 0,
+      "awayScore": 0,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "45%",
+          "55%"
+        ],
+        "Total shots": [
+          "7",
+          "10"
+        ],
+        "Shots on target": [
+          "2",
+          "6"
+        ],
+        "Corner kicks": [
+          "1",
+          "5"
+        ],
+        "Yellow cards": [
+          "0",
+          "4"
+        ],
+        "Shots off target": [
+          "5",
+          "4"
+        ],
+        "Offsides": [
+          "5",
+          "2"
+        ],
+        "Free kicks": [
+          "13",
+          "13"
+        ],
+        "Throw ins": [
+          "22",
+          "33"
+        ],
+        "Fouls": [
+          "8",
+          "11"
+        ]
+      }
+    },
+    {
+      "id": "6Vl6HL3b",
+      "date": "2025-11-03T14:00:00.000Z",
+      "round": "Round 14",
+      "homeTeam": "Beroe",
+      "awayTeam": "Lokomotiv 1929 Sofia",
+      "homeScore": 1,
+      "awayScore": 3,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "49%",
+          "51%"
+        ],
+        "Total shots": [
+          "7",
+          "16"
+        ],
+        "Shots on target": [
+          "4",
+          "8"
+        ],
+        "Corner kicks": [
+          "6",
+          "3"
+        ],
+        "Yellow cards": [
+          "3",
+          "2"
+        ],
+        "Shots off target": [
+          "3",
+          "8"
+        ],
+        "Offsides": [
+          "2",
+          "1"
+        ],
+        "Free kicks": [
+          "13",
+          "13"
+        ],
+        "Throw ins": [
+          "22",
+          "18"
+        ],
+        "Fouls": [
+          "11",
+          "12"
+        ]
+      }
+    },
+    {
+      "id": "6gXh8HQp",
+      "date": "2025-11-02T15:45:00.000Z",
+      "round": "Round 14",
+      "homeTeam": "Cherno More Varna",
+      "awayTeam": "Ludogorets Razgrad",
+      "homeScore": 0,
+      "awayScore": 0,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "44%",
+          "56%"
+        ],
+        "Total shots": [
+          "7",
+          "13"
+        ],
+        "Shots on target": [
+          "4",
+          "5"
+        ],
+        "Corner kicks": [
+          "3",
+          "4"
+        ],
+        "Yellow cards": [
+          "3",
+          "2"
+        ],
+        "Shots off target": [
+          "3",
+          "8"
+        ],
+        "Offsides": [
+          "1",
+          "0"
+        ],
+        "Free kicks": [
+          "15",
+          "15"
+        ],
+        "Throw ins": [
+          "24",
+          "27"
+        ],
+        "Fouls": [
+          "14",
+          "15"
+        ]
+      }
+    },
+    {
+      "id": "CWecJsZo",
+      "date": "2025-11-02T13:15:00.000Z",
+      "round": "Round 14",
+      "homeTeam": "Arda Kardzhali",
+      "awayTeam": "Levski Sofia",
+      "homeScore": 0,
+      "awayScore": 3,
+      "htHome": 0,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "42%",
+          "58%"
+        ],
+        "Total shots": [
+          "6",
+          "6"
+        ],
+        "Shots on target": [
+          "2",
+          "2"
+        ],
+        "Corner kicks": [
+          "3",
+          "1"
+        ],
+        "Yellow cards": [
+          "4",
+          "2"
+        ],
+        "Shots off target": [
+          "4",
+          "4"
+        ],
+        "Offsides": [
+          "2",
+          "2"
+        ],
+        "Free kicks": [
+          "19",
+          "15"
+        ],
+        "Throw ins": [
+          "21",
+          "25"
+        ],
+        "Fouls": [
+          "0",
+          "0"
+        ]
+      }
+    },
+    {
+      "id": "zBtNDw3N",
+      "date": "2025-11-02T10:45:00.000Z",
+      "round": "Round 14",
+      "homeTeam": "CSKA Sofia",
+      "awayTeam": "Montana",
+      "homeScore": 3,
+      "awayScore": 1,
+      "htHome": 2,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "56%",
+          "44%"
+        ],
+        "Total shots": [
+          "14",
+          "4"
+        ],
+        "Shots on target": [
+          "8",
+          "3"
+        ],
+        "Corner kicks": [
+          "10",
+          "1"
+        ],
+        "Yellow cards": [
+          "0",
+          "1"
+        ],
+        "Red cards": [
+          "0",
+          "1"
+        ],
+        "Shots off target": [
+          "6",
+          "1"
+        ],
+        "Offsides": [
+          "4",
+          "1"
+        ],
+        "Free kicks": [
+          "9",
+          "13"
+        ],
+        "Throw ins": [
+          "17",
+          "20"
+        ],
+        "Fouls": [
+          "8",
+          "8"
+        ]
+      }
+    },
+    {
+      "id": "UX1dSxIG",
+      "date": "2025-11-01T15:30:00.000Z",
+      "round": "Round 14",
+      "homeTeam": "Septemvri Sofia",
+      "awayTeam": "Slavia Sofia",
+      "homeScore": 0,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "53%",
+          "47%"
+        ],
+        "Total shots": [
+          "8",
+          "12"
+        ],
+        "Shots on target": [
+          "1",
+          "6"
+        ],
+        "Corner kicks": [
+          "5",
+          "6"
+        ],
+        "Yellow cards": [
+          "2",
+          "1"
+        ],
+        "Shots off target": [
+          "7",
+          "6"
+        ],
+        "Offsides": [
+          "0",
+          "0"
+        ],
+        "Free kicks": [
+          "15",
+          "10"
+        ],
+        "Throw ins": [
+          "23",
+          "22"
+        ],
+        "Fouls": [
+          "10",
+          "15"
+        ]
+      }
+    },
+    {
+      "id": "Y58mUbm4",
+      "date": "2025-11-01T12:45:00.000Z",
+      "round": "Round 14",
+      "homeTeam": "Lokomotiv Plovdiv",
+      "awayTeam": "Botev Plovdiv",
+      "homeScore": 0,
+      "awayScore": 4,
+      "htHome": 0,
+      "htAway": 4,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "56%",
+          "44%"
+        ],
+        "Total shots": [
+          "7",
+          "7"
+        ],
+        "Shots on target": [
+          "3",
+          "3"
+        ],
+        "Corner kicks": [
+          "1",
+          "2"
+        ],
+        "Yellow cards": [
+          "1",
+          "2"
+        ],
+        "Shots off target": [
+          "4",
+          "4"
+        ],
+        "Offsides": [
+          "0",
+          "0"
+        ],
+        "Free kicks": [
+          "5",
+          "3"
+        ],
+        "Throw ins": [
+          "10",
+          "10"
+        ],
+        "Fouls": [
+          "3",
+          "5"
+        ]
+      }
+    },
+    {
+      "id": "nkAuWKIi",
+      "date": "2025-11-01T10:00:00.000Z",
+      "round": "Round 14",
+      "homeTeam": "PFC Dobrudzha Dobrich",
+      "awayTeam": "Spartak Varna",
+      "homeScore": 2,
+      "awayScore": 0,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "60%",
+          "40%"
+        ],
+        "Total shots": [
+          "15",
+          "0"
+        ],
+        "Shots on target": [
+          "6",
+          "0"
+        ],
+        "Corner kicks": [
+          "3",
+          "2"
+        ],
+        "Yellow cards": [
+          "4",
+          "2"
+        ],
+        "Shots off target": [
+          "9",
+          "0"
+        ],
+        "Offsides": [
+          "0",
+          "1"
+        ],
+        "Free kicks": [
+          "18",
+          "9"
+        ],
+        "Throw ins": [
+          "24",
+          "27"
+        ],
+        "Fouls": [
+          "9",
+          "17"
+        ]
+      }
+    },
+    {
+      "id": "dOmfPUk1",
+      "date": "2025-10-27T15:30:00.000Z",
+      "round": "Round 13",
+      "homeTeam": "CSKA 1948 Sofia",
+      "awayTeam": "Ludogorets Razgrad",
+      "homeScore": 5,
+      "awayScore": 4,
+      "htHome": 3,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "48%",
+          "52%"
+        ],
+        "Total shots": [
+          "10",
+          "14"
+        ],
+        "Shots on target": [
+          "7",
+          "9"
+        ],
+        "Corner kicks": [
+          "3",
+          "6"
+        ],
+        "Yellow cards": [
+          "3",
+          "2"
+        ],
+        "Shots off target": [
+          "3",
+          "5"
+        ],
+        "Offsides": [
+          "2",
+          "4"
+        ],
+        "Free kicks": [
+          "9",
+          "12"
+        ],
+        "Throw ins": [
+          "17",
+          "22"
+        ],
+        "Fouls": [
+          "9",
+          "5"
+        ]
+      }
+    },
+    {
+      "id": "4li2N8KD",
+      "date": "2025-10-26T15:15:00.000Z",
+      "round": "Round 13",
+      "homeTeam": "CSKA Sofia",
+      "awayTeam": "Beroe",
+      "homeScore": 5,
+      "awayScore": 1,
+      "htHome": 2,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "59%",
+          "41%"
+        ],
+        "Total shots": [
+          "20",
+          "10"
+        ],
+        "Shots on target": [
+          "12",
+          "5"
+        ],
+        "Corner kicks": [
+          "9",
+          "2"
+        ],
+        "Yellow cards": [
+          "1",
+          "2"
+        ],
+        "Shots off target": [
+          "8",
+          "5"
+        ],
+        "Offsides": [
+          "0",
+          "1"
+        ],
+        "Free kicks": [
+          "15",
+          "10"
+        ],
+        "Throw ins": [
+          "15",
+          "20"
+        ],
+        "Fouls": [
+          "10",
+          "13"
+        ]
+      }
+    },
+    {
+      "id": "hSOW2Ml5",
+      "date": "2025-10-25T15:00:00.000Z",
+      "round": "Round 13",
+      "homeTeam": "Levski Sofia",
+      "awayTeam": "PFC Dobrudzha Dobrich",
+      "homeScore": 3,
+      "awayScore": 0,
+      "htHome": 2,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "66%",
+          "34%"
+        ],
+        "Total shots": [
+          "12",
+          "6"
+        ],
+        "Shots on target": [
+          "6",
+          "1"
+        ],
+        "Corner kicks": [
+          "5",
+          "1"
+        ],
+        "Yellow cards": [
+          "3",
+          "2"
+        ],
+        "Shots off target": [
+          "6",
+          "5"
+        ],
+        "Offsides": [
+          "3",
+          "0"
+        ],
+        "Free kicks": [
+          "17",
+          "15"
+        ],
+        "Throw ins": [
+          "18",
+          "22"
+        ],
+        "Fouls": [
+          "12",
+          "17"
+        ]
+      }
+    },
+    {
+      "id": "M7GmavlU",
+      "date": "2025-10-25T12:30:00.000Z",
+      "round": "Round 13",
+      "homeTeam": "Slavia Sofia",
+      "awayTeam": "Cherno More Varna",
+      "homeScore": 0,
+      "awayScore": 0,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "45%",
+          "55%"
+        ],
+        "Total shots": [
+          "11",
+          "11"
+        ],
+        "Shots on target": [
+          "3",
+          "3"
+        ],
+        "Corner kicks": [
+          "7",
+          "6"
+        ],
+        "Yellow cards": [
+          "2",
+          "0"
+        ],
+        "Shots off target": [
+          "8",
+          "8"
+        ],
+        "Offsides": [
+          "1",
+          "1"
+        ],
+        "Free kicks": [
+          "14",
+          "12"
+        ],
+        "Throw ins": [
+          "23",
+          "27"
+        ],
+        "Fouls": [
+          "11",
+          "13"
+        ]
+      }
+    },
+    {
+      "id": "z9aoRjLl",
+      "date": "2025-10-25T10:00:00.000Z",
+      "round": "Round 13",
+      "homeTeam": "Botev Vratsa",
+      "awayTeam": "Septemvri Sofia",
+      "homeScore": 2,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "49%",
+          "51%"
+        ],
+        "Total shots": [
+          "9",
+          "9"
+        ],
+        "Shots on target": [
+          "5",
+          "5"
+        ],
+        "Corner kicks": [
+          "0",
+          "4"
+        ],
+        "Yellow cards": [
+          "4",
+          "3"
+        ],
+        "Red cards": [
+          "1",
+          "0"
+        ],
+        "Shots off target": [
+          "4",
+          "4"
+        ],
+        "Offsides": [
+          "3",
+          "2"
+        ],
+        "Free kicks": [
+          "22",
+          "15"
+        ],
+        "Throw ins": [
+          "21",
+          "24"
+        ],
+        "Fouls": [
+          "17",
+          "18"
+        ]
+      }
+    },
+    {
+      "id": "0hSv10JH",
+      "date": "2025-10-24T17:00:00.000Z",
+      "round": "Round 13",
+      "homeTeam": "Lokomotiv 1929 Sofia",
+      "awayTeam": "Lokomotiv Plovdiv",
+      "homeScore": 2,
+      "awayScore": 2,
+      "htHome": 0,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "50%",
+          "50%"
+        ],
+        "Total shots": [
+          "8",
+          "13"
+        ],
+        "Shots on target": [
+          "4",
+          "4"
+        ],
+        "Corner kicks": [
+          "3",
+          "4"
+        ],
+        "Yellow cards": [
+          "3",
+          "4"
+        ],
+        "Shots off target": [
+          "4",
+          "9"
+        ],
+        "Offsides": [
+          "0",
+          "3"
+        ],
+        "Free kicks": [
+          "18",
+          "11"
+        ],
+        "Throw ins": [
+          "24",
+          "16"
+        ],
+        "Fouls": [
+          "11",
+          "15"
+        ]
+      }
+    },
+    {
+      "id": "nFgW4rKh",
+      "date": "2025-10-24T14:30:00.000Z",
+      "round": "Round 13",
+      "homeTeam": "Spartak Varna",
+      "awayTeam": "Botev Plovdiv",
+      "homeScore": 3,
+      "awayScore": 2,
+      "htHome": 1,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "48%",
+          "52%"
+        ],
+        "Total shots": [
+          "11",
+          "11"
+        ],
+        "Shots on target": [
+          "7",
+          "5"
+        ],
+        "Corner kicks": [
+          "2",
+          "5"
+        ],
+        "Yellow cards": [
+          "4",
+          "1"
+        ],
+        "Shots off target": [
+          "4",
+          "6"
+        ],
+        "Offsides": [
+          "2",
+          "3"
+        ],
+        "Free kicks": [
+          "11",
+          "13"
+        ],
+        "Throw ins": [
+          "20",
+          "24"
+        ],
+        "Fouls": [
+          "0",
+          "0"
+        ]
+      }
+    },
+    {
+      "id": "E1eO64kt",
+      "date": "2025-10-24T12:00:00.000Z",
+      "round": "Round 13",
+      "homeTeam": "Montana",
+      "awayTeam": "Arda Kardzhali",
+      "homeScore": 1,
+      "awayScore": 1,
+      "htHome": 1,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "48%",
+          "52%"
+        ],
+        "Total shots": [
+          "11",
+          "8"
+        ],
+        "Shots on target": [
+          "4",
+          "2"
+        ],
+        "Corner kicks": [
+          "4",
+          "4"
+        ],
+        "Yellow cards": [
+          "4",
+          "4"
+        ],
+        "Shots off target": [
+          "7",
+          "6"
+        ],
+        "Offsides": [
+          "1",
+          "4"
+        ],
+        "Free kicks": [
+          "25",
+          "11"
+        ],
+        "Throw ins": [
+          "24",
+          "22"
+        ],
+        "Fouls": [
+          "10",
+          "21"
+        ]
+      }
+    },
+    {
+      "id": "ridPLeq9",
+      "date": "2025-10-20T17:00:00.000Z",
+      "round": "Round 12",
+      "homeTeam": "Beroe",
+      "awayTeam": "Montana",
+      "homeScore": 1,
+      "awayScore": 1,
+      "htHome": 1,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "56%",
+          "44%"
+        ],
+        "Total shots": [
+          "4",
+          "17"
+        ],
+        "Shots on target": [
+          "3",
+          "5"
+        ],
+        "Corner kicks": [
+          "5",
+          "7"
+        ],
+        "Yellow cards": [
+          "4",
+          "1"
+        ],
+        "Shots off target": [
+          "1",
+          "12"
+        ],
+        "Offsides": [
+          "1",
+          "1"
+        ],
+        "Free kicks": [
+          "8",
+          "9"
+        ],
+        "Throw ins": [
+          "31",
+          "16"
+        ],
+        "Fouls": [
+          "8",
+          "7"
+        ]
+      }
+    },
+    {
+      "id": "SrExbhi2",
+      "date": "2025-10-20T14:30:00.000Z",
+      "round": "Round 12",
+      "homeTeam": "Arda Kardzhali",
+      "awayTeam": "Septemvri Sofia",
+      "homeScore": 0,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "55%",
+          "45%"
+        ],
+        "Total shots": [
+          "18",
+          "6"
+        ],
+        "Shots on target": [
+          "6",
+          "3"
+        ],
+        "Corner kicks": [
+          "11",
+          "3"
+        ],
+        "Yellow cards": [
+          "3",
+          "3"
+        ],
+        "Red cards": [
+          "0",
+          "1"
+        ],
+        "Shots off target": [
+          "12",
+          "3"
+        ],
+        "Offsides": [
+          "4",
+          "1"
+        ],
+        "Free kicks": [
+          "16",
+          "14"
+        ],
+        "Throw ins": [
+          "25",
+          "12"
+        ],
+        "Fouls": [
+          "10",
+          "15"
+        ]
+      }
+    },
+    {
+      "id": "ARF6YYSE",
+      "date": "2025-10-19T17:00:00.000Z",
+      "round": "Round 12",
+      "homeTeam": "Lokomotiv 1929 Sofia",
+      "awayTeam": "CSKA 1948 Sofia",
+      "homeScore": 0,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "37%",
+          "63%"
+        ],
+        "Total shots": [
+          "9",
+          "10"
+        ],
+        "Shots on target": [
+          "4",
+          "5"
+        ],
+        "Corner kicks": [
+          "3",
+          "6"
+        ],
+        "Yellow cards": [
+          "2",
+          "3"
+        ],
+        "Shots off target": [
+          "5",
+          "5"
+        ],
+        "Offsides": [
+          "1",
+          "4"
+        ],
+        "Free kicks": [
+          "17",
+          "13"
+        ],
+        "Throw ins": [
+          "22",
+          "25"
+        ],
+        "Fouls": [
+          "12",
+          "13"
+        ]
+      }
+    },
+    {
+      "id": "zky4EDyq",
+      "date": "2025-10-19T14:30:00.000Z",
+      "round": "Round 12",
+      "homeTeam": "Cherno More Varna",
+      "awayTeam": "Levski Sofia",
+      "homeScore": 1,
+      "awayScore": 3,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "50%",
+          "50%"
+        ],
+        "Total shots": [
+          "20",
+          "15"
+        ],
+        "Shots on target": [
+          "11",
+          "7"
+        ],
+        "Corner kicks": [
+          "8",
+          "4"
+        ],
+        "Yellow cards": [
+          "2",
+          "1"
+        ],
+        "Shots off target": [
+          "9",
+          "8"
+        ],
+        "Offsides": [
+          "2",
+          "3"
+        ],
+        "Free kicks": [
+          "16",
+          "14"
+        ],
+        "Throw ins": [
+          "25",
+          "24"
+        ],
+        "Fouls": [
+          "11",
+          "14"
+        ]
+      }
+    },
+    {
+      "id": "M5ZBCi6e",
+      "date": "2025-10-19T12:00:00.000Z",
+      "round": "Round 12",
+      "homeTeam": "PFC Dobrudzha Dobrich",
+      "awayTeam": "CSKA Sofia",
+      "homeScore": 0,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "45%",
+          "55%"
+        ],
+        "Total shots": [
+          "8",
+          "8"
+        ],
+        "Shots on target": [
+          "5",
+          "4"
+        ],
+        "Corner kicks": [
+          "6",
+          "5"
+        ],
+        "Yellow cards": [
+          "5",
+          "2"
+        ],
+        "Shots off target": [
+          "3",
+          "4"
+        ],
+        "Offsides": [
+          "1",
+          "2"
+        ],
+        "Free kicks": [
+          "14",
+          "20"
+        ],
+        "Throw ins": [
+          "23",
+          "24"
+        ],
+        "Fouls": [
+          "19",
+          "12"
+        ]
+      }
+    },
+    {
+      "id": "6g9FWCcR",
+      "date": "2025-10-18T14:30:00.000Z",
+      "round": "Round 12",
+      "homeTeam": "Ludogorets Razgrad",
+      "awayTeam": "Spartak Varna",
+      "homeScore": 1,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "56%",
+          "44%"
+        ],
+        "Total shots": [
+          "19",
+          "9"
+        ],
+        "Shots on target": [
+          "3",
+          "3"
+        ],
+        "Corner kicks": [
+          "7",
+          "2"
+        ],
+        "Yellow cards": [
+          "1",
+          "3"
+        ],
+        "Shots off target": [
+          "16",
+          "6"
+        ],
+        "Offsides": [
+          "1",
+          "0"
+        ],
+        "Free kicks": [
+          "10",
+          "13"
+        ],
+        "Throw ins": [
+          "21",
+          "26"
+        ],
+        "Fouls": [
+          "12",
+          "10"
+        ]
+      }
+    },
+    {
+      "id": "jHaXJZDL",
+      "date": "2025-10-18T12:00:00.000Z",
+      "round": "Round 12",
+      "homeTeam": "Botev Plovdiv",
+      "awayTeam": "Slavia Sofia",
+      "homeScore": 1,
+      "awayScore": 1,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "56%",
+          "44%"
+        ],
+        "Total shots": [
+          "5",
+          "12"
+        ],
+        "Shots on target": [
+          "4",
+          "4"
+        ],
+        "Corner kicks": [
+          "8",
+          "6"
+        ],
+        "Yellow cards": [
+          "3",
+          "6"
+        ],
+        "Red cards": [
+          "1",
+          "1"
+        ],
+        "Shots off target": [
+          "1",
+          "8"
+        ],
+        "Offsides": [
+          "1",
+          "2"
+        ],
+        "Free kicks": [
+          "21",
+          "11"
+        ],
+        "Throw ins": [
+          "19",
+          "16"
+        ],
+        "Fouls": [
+          "10",
+          "19"
+        ]
+      }
+    },
+    {
+      "id": "IXSKAVz8",
+      "date": "2025-10-17T17:00:00.000Z",
+      "round": "Round 12",
+      "homeTeam": "Lokomotiv Plovdiv",
+      "awayTeam": "Botev Vratsa",
+      "homeScore": 3,
+      "awayScore": 0,
+      "htHome": 3,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "48%",
+          "52%"
+        ],
+        "Total shots": [
+          "9",
+          "8"
+        ],
+        "Shots on target": [
+          "5",
+          "2"
+        ],
+        "Corner kicks": [
+          "5",
+          "2"
+        ],
+        "Yellow cards": [
+          "1",
+          "3"
+        ],
+        "Shots off target": [
+          "4",
+          "6"
+        ],
+        "Offsides": [
+          "1",
+          "0"
+        ],
+        "Free kicks": [
+          "10",
+          "13"
+        ],
+        "Throw ins": [
+          "16",
+          "28"
+        ],
+        "Fouls": [
+          "12",
+          "10"
+        ]
+      }
+    },
+    {
+      "id": "fVFUaEMk",
+      "date": "2025-10-05T17:15:00.000Z",
+      "round": "Round 11",
+      "homeTeam": "CSKA Sofia",
+      "awayTeam": "Ludogorets Razgrad",
+      "homeScore": 0,
+      "awayScore": 0,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "55%",
+          "45%"
+        ],
+        "Total shots": [
+          "9",
+          "9"
+        ],
+        "Shots on target": [
+          "5",
+          "5"
+        ],
+        "Corner kicks": [
+          "2",
+          "7"
+        ],
+        "Yellow cards": [
+          "6",
+          "2"
+        ],
+        "Red cards": [
+          "1",
+          "0"
+        ],
+        "Shots off target": [
+          "4",
+          "4"
+        ],
+        "Offsides": [
+          "1",
+          "1"
+        ],
+        "Free kicks": [
+          "11",
+          "18"
+        ],
+        "Throw ins": [
+          "22",
+          "28"
+        ],
+        "Fouls": [
+          "17",
+          "10"
+        ]
+      }
+    },
+    {
+      "id": "rHuGfJpA",
+      "date": "2025-10-05T14:30:00.000Z",
+      "round": "Round 11",
+      "homeTeam": "Botev Vratsa",
+      "awayTeam": "Botev Plovdiv",
+      "homeScore": 1,
+      "awayScore": 2,
+      "htHome": 1,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "49%",
+          "51%"
+        ],
+        "Total shots": [
+          "6",
+          "6"
+        ],
+        "Shots on target": [
+          "3",
+          "3"
+        ],
+        "Corner kicks": [
+          "3",
+          "2"
+        ],
+        "Yellow cards": [
+          "1",
+          "4"
+        ],
+        "Shots off target": [
+          "3",
+          "3"
+        ],
+        "Offsides": [
+          "2",
+          "0"
+        ],
+        "Free kicks": [
+          "16",
+          "11"
+        ],
+        "Throw ins": [
+          "26",
+          "26"
+        ],
+        "Fouls": [
+          "9",
+          "15"
+        ]
+      }
+    },
+    {
+      "id": "zFKfmywp",
+      "date": "2025-10-05T12:00:00.000Z",
+      "round": "Round 11",
+      "homeTeam": "PFC Dobrudzha Dobrich",
+      "awayTeam": "Arda Kardzhali",
+      "homeScore": 0,
+      "awayScore": 2,
+      "htHome": 0,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "54%",
+          "46%"
+        ],
+        "Total shots": [
+          "7",
+          "4"
+        ],
+        "Shots on target": [
+          "2",
+          "4"
+        ],
+        "Corner kicks": [
+          "9",
+          "4"
+        ],
+        "Yellow cards": [
+          "4",
+          "3"
+        ],
+        "Shots off target": [
+          "5",
+          "0"
+        ],
+        "Offsides": [
+          "0",
+          "1"
+        ],
+        "Free kicks": [
+          "12",
+          "11"
+        ],
+        "Throw ins": [
+          "25",
+          "18"
+        ],
+        "Fouls": [
+          "0",
+          "0"
+        ]
+      }
+    },
+    {
+      "id": "MNSs9Ia3",
+      "date": "2025-10-04T17:15:00.000Z",
+      "round": "Round 11",
+      "homeTeam": "Levski Sofia",
+      "awayTeam": "Beroe",
+      "homeScore": 3,
+      "awayScore": 1,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "65%",
+          "35%"
+        ],
+        "Total shots": [
+          "16",
+          "5"
+        ],
+        "Shots on target": [
+          "9",
+          "4"
+        ],
+        "Corner kicks": [
+          "7",
+          "1"
+        ],
+        "Yellow cards": [
+          "1",
+          "0"
+        ],
+        "Red cards": [
+          "0",
+          "1"
+        ],
+        "Shots off target": [
+          "7",
+          "1"
+        ],
+        "Offsides": [
+          "1",
+          "1"
+        ],
+        "Free kicks": [
+          "9",
+          "7"
+        ],
+        "Throw ins": [
+          "17",
+          "9"
+        ]
+      }
+    },
+    {
+      "id": "fHzdoF7d",
+      "date": "2025-10-04T14:45:00.000Z",
+      "round": "Round 11",
+      "homeTeam": "Montana",
+      "awayTeam": "Cherno More Varna",
+      "homeScore": 1,
+      "awayScore": 3,
+      "htHome": 0,
+      "htAway": 2,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "50%",
+          "50%"
+        ],
+        "Total shots": [
+          "7",
+          "8"
+        ],
+        "Shots on target": [
+          "4",
+          "6"
+        ],
+        "Corner kicks": [
+          "1",
+          "3"
+        ],
+        "Yellow cards": [
+          "3",
+          "3"
+        ],
+        "Shots off target": [
+          "3",
+          "2"
+        ],
+        "Offsides": [
+          "1",
+          "0"
+        ],
+        "Free kicks": [
+          "11",
+          "2"
+        ],
+        "Throw ins": [
+          "30",
+          "21"
+        ],
+        "Fouls": [
+          "12",
+          "17"
+        ]
+      }
+    },
+    {
+      "id": "vqZOhcFM",
+      "date": "2025-10-04T12:15:00.000Z",
+      "round": "Round 11",
+      "homeTeam": "CSKA 1948 Sofia",
+      "awayTeam": "Spartak Varna",
+      "homeScore": 1,
+      "awayScore": 1,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "52%",
+          "48%"
+        ],
+        "Total shots": [
+          "10",
+          "6"
+        ],
+        "Shots on target": [
+          "6",
+          "1"
+        ],
+        "Corner kicks": [
+          "7",
+          "6"
+        ],
+        "Yellow cards": [
+          "3",
+          "0"
+        ],
+        "Shots off target": [
+          "4",
+          "5"
+        ],
+        "Offsides": [
+          "1",
+          "2"
+        ],
+        "Free kicks": [
+          "7",
+          "12"
+        ],
+        "Throw ins": [
+          "20",
+          "18"
+        ],
+        "Fouls": [
+          "11",
+          "5"
+        ]
+      }
+    },
+    {
+      "id": "j3Kb5zaS",
+      "date": "2025-10-03T16:45:00.000Z",
+      "round": "Round 11",
+      "homeTeam": "Slavia Sofia",
+      "awayTeam": "Lokomotiv 1929 Sofia",
+      "homeScore": 2,
+      "awayScore": 0,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "50%",
+          "50%"
+        ],
+        "Total shots": [
+          "10",
+          "12"
+        ],
+        "Shots on target": [
+          "3",
+          "4"
+        ],
+        "Corner kicks": [
+          "3",
+          "10"
+        ],
+        "Yellow cards": [
+          "0",
+          "2"
+        ],
+        "Shots off target": [
+          "7",
+          "8"
+        ],
+        "Offsides": [
+          "0",
+          "0"
+        ],
+        "Free kicks": [
+          "15",
+          "14"
+        ],
+        "Throw ins": [
+          "27",
+          "26"
+        ],
+        "Fouls": [
+          "14",
+          "14"
+        ]
+      }
+    },
+    {
+      "id": "rwHj7dUF",
+      "date": "2025-10-03T14:30:00.000Z",
+      "round": "Round 11",
+      "homeTeam": "Septemvri Sofia",
+      "awayTeam": "Lokomotiv Plovdiv",
+      "homeScore": 2,
+      "awayScore": 2,
+      "htHome": 0,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "54%",
+          "46%"
+        ],
+        "Total shots": [
+          "9",
+          "16"
+        ],
+        "Shots on target": [
+          "2",
+          "7"
+        ],
+        "Corner kicks": [
+          "1",
+          "5"
+        ],
+        "Yellow cards": [
+          "2",
+          "4"
+        ],
+        "Shots off target": [
+          "7",
+          "9"
+        ],
+        "Offsides": [
+          "1",
+          "1"
+        ],
+        "Free kicks": [
+          "16",
+          "10"
+        ],
+        "Throw ins": [
+          "19",
+          "32"
+        ],
+        "Fouls": [
+          "9",
+          "15"
+        ]
+      }
+    },
+    {
+      "id": "dOBlUbRp",
+      "date": "2025-09-30T14:30:00.000Z",
+      "round": "Round 6",
+      "homeTeam": "Botev Plovdiv",
+      "awayTeam": "Levski Sofia",
+      "homeScore": 0,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "36%",
+          "64%"
+        ],
+        "Total shots": [
+          "3",
+          "13"
+        ],
+        "Shots on target": [
+          "3",
+          "2"
+        ],
+        "Corner kicks": [
+          "1",
+          "12"
+        ],
+        "Yellow cards": [
+          "2",
+          "3"
+        ],
+        "Shots off target": [
+          "0",
+          "11"
+        ],
+        "Offsides": [
+          "1",
+          "4"
+        ],
+        "Free kicks": [
+          "13",
+          "13"
+        ],
+        "Throw ins": [
+          "17",
+          "24"
+        ],
+        "Fouls": [
+          "12",
+          "9"
+        ]
+      }
+    },
+    {
+      "id": "AicFxoPO",
+      "date": "2025-09-29T17:15:00.000Z",
+      "round": "Round 10",
+      "homeTeam": "Beroe",
+      "awayTeam": "PFC Dobrudzha Dobrich",
+      "homeScore": 1,
+      "awayScore": 0,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "47%",
+          "53%"
+        ],
+        "Total shots": [
+          "12",
+          "6"
+        ],
+        "Shots on target": [
+          "6",
+          "2"
+        ],
+        "Corner kicks": [
+          "9",
+          "5"
+        ],
+        "Yellow cards": [
+          "3",
+          "5"
+        ],
+        "Red cards": [
+          "0",
+          "2"
+        ],
+        "Shots off target": [
+          "6",
+          "4"
+        ],
+        "Offsides": [
+          "3",
+          "3"
+        ],
+        "Free kicks": [
+          "16",
+          "16"
+        ],
+        "Throw ins": [
+          "19",
+          "24"
+        ],
+        "Fouls": [
+          "13",
+          "13"
+        ]
+      }
+    },
+    {
+      "id": "zix8duGc",
+      "date": "2025-09-28T17:00:00.000Z",
+      "round": "Round 10",
+      "homeTeam": "Ludogorets Razgrad",
+      "awayTeam": "Montana",
+      "homeScore": 3,
+      "awayScore": 0,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "43%",
+          "57%"
+        ],
+        "Total shots": [
+          "22",
+          "7"
+        ],
+        "Shots on target": [
+          "14",
+          "3"
+        ],
+        "Corner kicks": [
+          "11",
+          "1"
+        ],
+        "Yellow cards": [
+          "0",
+          "2"
+        ],
+        "Red cards": [
+          "0",
+          "1"
+        ],
+        "Shots off target": [
+          "8",
+          "4"
+        ],
+        "Offsides": [
+          "3",
+          "1"
+        ],
+        "Free kicks": [
+          "4",
+          "8"
+        ],
+        "Throw ins": [
+          "13",
+          "21"
+        ],
+        "Fouls": [
+          "5",
+          "3"
+        ]
+      }
+    },
+    {
+      "id": "lx96v7fC",
+      "date": "2025-09-28T14:30:00.000Z",
+      "round": "Round 10",
+      "homeTeam": "Arda Kardzhali",
+      "awayTeam": "Botev Vratsa",
+      "homeScore": 0,
+      "awayScore": 2,
+      "htHome": 0,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "43%",
+          "57%"
+        ],
+        "Total shots": [
+          "21",
+          "10"
+        ],
+        "Shots on target": [
+          "2",
+          "6"
+        ],
+        "Corner kicks": [
+          "5",
+          "2"
+        ],
+        "Yellow cards": [
+          "1",
+          "2"
+        ],
+        "Shots off target": [
+          "19",
+          "4"
+        ],
+        "Offsides": [
+          "1",
+          "1"
+        ],
+        "Free kicks": [
+          "19",
+          "12"
+        ],
+        "Throw ins": [
+          "20",
+          "24"
+        ],
+        "Fouls": [
+          "11",
+          "18"
+        ]
+      }
+    },
+    {
+      "id": "fcvug695",
+      "date": "2025-09-28T12:00:00.000Z",
+      "round": "Round 10",
+      "homeTeam": "Spartak Varna",
+      "awayTeam": "Slavia Sofia",
+      "homeScore": 1,
+      "awayScore": 1,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "43%",
+          "57%"
+        ],
+        "Total shots": [
+          "5",
+          "5"
+        ],
+        "Shots on target": [
+          "2",
+          "1"
+        ],
+        "Corner kicks": [
+          "8",
+          "8"
+        ],
+        "Yellow cards": [
+          "1",
+          "3"
+        ],
+        "Shots off target": [
+          "3",
+          "4"
+        ],
+        "Offsides": [
+          "0",
+          "0"
+        ],
+        "Free kicks": [
+          "14",
+          "8"
+        ],
+        "Throw ins": [
+          "27",
+          "30"
+        ],
+        "Fouls": [
+          "8",
+          "14"
+        ]
+      }
+    },
+    {
+      "id": "feaLYyOj",
+      "date": "2025-09-27T17:00:00.000Z",
+      "round": "Round 10",
+      "homeTeam": "Lokomotiv 1929 Sofia",
+      "awayTeam": "CSKA Sofia",
+      "homeScore": 1,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "51%",
+          "49%"
+        ],
+        "Total shots": [
+          "8",
+          "10"
+        ],
+        "Shots on target": [
+          "3",
+          "2"
+        ],
+        "Corner kicks": [
+          "3",
+          "4"
+        ],
+        "Yellow cards": [
+          "2",
+          "2"
+        ],
+        "Shots off target": [
+          "5",
+          "8"
+        ],
+        "Offsides": [
+          "1",
+          "0"
+        ],
+        "Free kicks": [
+          "15",
+          "11"
+        ],
+        "Throw ins": [
+          "27",
+          "20"
+        ],
+        "Fouls": [
+          "10",
+          "15"
+        ]
+      }
+    },
+    {
+      "id": "MqtXfSvg",
+      "date": "2025-09-27T14:30:00.000Z",
+      "round": "Round 10",
+      "homeTeam": "Cherno More Varna",
+      "awayTeam": "Septemvri Sofia",
+      "homeScore": 1,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "54%",
+          "46%"
+        ],
+        "Total shots": [
+          "24",
+          "5"
+        ],
+        "Shots on target": [
+          "6",
+          "4"
+        ],
+        "Corner kicks": [
+          "12",
+          "3"
+        ],
+        "Yellow cards": [
+          "1",
+          "4"
+        ],
+        "Shots off target": [
+          "18",
+          "1"
+        ],
+        "Offsides": [
+          "0",
+          "2"
+        ],
+        "Free kicks": [
+          "20",
+          "6"
+        ],
+        "Throw ins": [
+          "43",
+          "15"
+        ],
+        "Fouls": [
+          "6",
+          "18"
+        ]
+      }
+    },
+    {
+      "id": "jPXmipvI",
+      "date": "2025-09-26T17:00:00.000Z",
+      "round": "Round 10",
+      "homeTeam": "Lokomotiv Plovdiv",
+      "awayTeam": "Levski Sofia",
+      "homeScore": 1,
+      "awayScore": 0,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "35%",
+          "65%"
+        ],
+        "Total shots": [
+          "5",
+          "10"
+        ],
+        "Shots on target": [
+          "3",
+          "6"
+        ],
+        "Corner kicks": [
+          "1",
+          "9"
+        ],
+        "Yellow cards": [
+          "4",
+          "2"
+        ],
+        "Shots off target": [
+          "2",
+          "4"
+        ],
+        "Offsides": [
+          "3",
+          "0"
+        ],
+        "Free kicks": [
+          "7",
+          "17"
+        ],
+        "Throw ins": [
+          "19",
+          "26"
+        ],
+        "Fouls": [
+          "0",
+          "0"
+        ]
+      }
+    },
+    {
+      "id": "QHnOdlAt",
+      "date": "2025-09-25T14:30:00.000Z",
+      "round": "Round 10",
+      "homeTeam": "Botev Plovdiv",
+      "awayTeam": "CSKA 1948 Sofia",
+      "homeScore": 1,
+      "awayScore": 2,
+      "htHome": 0,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "50%",
+          "50%"
+        ],
+        "Total shots": [
+          "15",
+          "12"
+        ],
+        "Shots on target": [
+          "5",
+          "8"
+        ],
+        "Corner kicks": [
+          "5",
+          "5"
+        ],
+        "Yellow cards": [
+          "1",
+          "4"
+        ],
+        "Shots off target": [
+          "10",
+          "4"
+        ],
+        "Offsides": [
+          "0",
+          "4"
+        ],
+        "Free kicks": [
+          "17",
+          "5"
+        ],
+        "Throw ins": [
+          "17",
+          "14"
+        ],
+        "Fouls": [
+          "5",
+          "13"
+        ]
+      }
+    },
+    {
+      "id": "bTm8VBBs",
+      "date": "2025-09-22T17:30:00.000Z",
+      "round": "Round 9",
+      "homeTeam": "Botev Vratsa",
+      "awayTeam": "CSKA Sofia",
+      "homeScore": 1,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "47%",
+          "53%"
+        ],
+        "Total shots": [
+          "5",
+          "13"
+        ],
+        "Shots on target": [
+          "3",
+          "3"
+        ],
+        "Corner kicks": [
+          "1",
+          "9"
+        ],
+        "Yellow cards": [
+          "3",
+          "2"
+        ],
+        "Shots off target": [
+          "2",
+          "10"
+        ],
+        "Offsides": [
+          "1",
+          "1"
+        ],
+        "Free kicks": [
+          "11",
+          "9"
+        ],
+        "Throw ins": [
+          "16",
+          "22"
+        ],
+        "Fouls": [
+          "8",
+          "11"
+        ]
+      }
+    },
+    {
+      "id": "G8pqyYmK",
+      "date": "2025-09-22T15:00:00.000Z",
+      "round": "Round 9",
+      "homeTeam": "Arda Kardzhali",
+      "awayTeam": "Cherno More Varna",
+      "homeScore": 0,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "51%",
+          "49%"
+        ],
+        "Total shots": [
+          "10",
+          "10"
+        ],
+        "Shots on target": [
+          "2",
+          "4"
+        ],
+        "Corner kicks": [
+          "6",
+          "3"
+        ],
+        "Yellow cards": [
+          "2",
+          "1"
+        ],
+        "Red cards": [
+          "1",
+          "0"
+        ],
+        "Shots off target": [
+          "8",
+          "6"
+        ],
+        "Offsides": [
+          "1",
+          "2"
+        ],
+        "Free kicks": [
+          "16",
+          "8"
+        ],
+        "Throw ins": [
+          "30",
+          "26"
+        ],
+        "Fouls": [
+          "7",
+          "14"
+        ]
+      }
+    },
+    {
+      "id": "tC5btTPa",
+      "date": "2025-09-21T17:15:00.000Z",
+      "round": "Round 9",
+      "homeTeam": "Slavia Sofia",
+      "awayTeam": "Beroe",
+      "homeScore": 0,
+      "awayScore": 0,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "45%",
+          "55%"
+        ],
+        "Total shots": [
+          "11",
+          "5"
+        ],
+        "Shots on target": [
+          "4",
+          "0"
+        ],
+        "Corner kicks": [
+          "10",
+          "4"
+        ],
+        "Yellow cards": [
+          "1",
+          "2"
+        ],
+        "Shots off target": [
+          "7",
+          "5"
+        ],
+        "Offsides": [
+          "1",
+          "1"
+        ],
+        "Free kicks": [
+          "18",
+          "12"
+        ],
+        "Throw ins": [
+          "26",
+          "27"
+        ],
+        "Fouls": [
+          "11",
+          "17"
+        ]
+      }
+    },
+    {
+      "id": "ppCkrkem",
+      "date": "2025-09-21T14:45:00.000Z",
+      "round": "Round 9",
+      "homeTeam": "Septemvri Sofia",
+      "awayTeam": "Botev Plovdiv",
+      "homeScore": 1,
+      "awayScore": 3,
+      "htHome": 1,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "43%",
+          "57%"
+        ],
+        "Total shots": [
+          "5",
+          "11"
+        ],
+        "Shots on target": [
+          "1",
+          "4"
+        ],
+        "Corner kicks": [
+          "2",
+          "7"
+        ],
+        "Yellow cards": [
+          "3",
+          "2"
+        ],
+        "Red cards": [
+          "1",
+          "0"
+        ],
+        "Shots off target": [
+          "4",
+          "7"
+        ],
+        "Offsides": [
+          "0",
+          "1"
+        ],
+        "Free kicks": [
+          "4",
+          "7"
+        ],
+        "Throw ins": [
+          "23",
+          "19"
+        ],
+        "Fouls": [
+          "11",
+          "9"
+        ]
+      }
+    },
+    {
+      "id": "6giGTktf",
+      "date": "2025-09-20T16:30:00.000Z",
+      "round": "Round 9",
+      "homeTeam": "CSKA 1948 Sofia",
+      "awayTeam": "Lokomotiv Plovdiv",
+      "homeScore": 4,
+      "awayScore": 0,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "45%",
+          "55%"
+        ],
+        "Total shots": [
+          "11",
+          "4"
+        ],
+        "Shots on target": [
+          "6",
+          "1"
+        ],
+        "Corner kicks": [
+          "4",
+          "1"
+        ],
+        "Yellow cards": [
+          "1",
+          "2"
+        ],
+        "Shots off target": [
+          "5",
+          "3"
+        ],
+        "Offsides": [
+          "1",
+          "2"
+        ],
+        "Free kicks": [
+          "14",
+          "11"
+        ],
+        "Throw ins": [
+          "24",
+          "18"
+        ],
+        "Fouls": [
+          "10",
+          "11"
+        ]
+      }
+    },
+    {
+      "id": "S8uPRTA6",
+      "date": "2025-09-20T14:00:00.000Z",
+      "round": "Round 9",
+      "homeTeam": "PFC Dobrudzha Dobrich",
+      "awayTeam": "Lokomotiv 1929 Sofia",
+      "homeScore": 2,
+      "awayScore": 2,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "48%",
+          "52%"
+        ],
+        "Total shots": [
+          "10",
+          "6"
+        ],
+        "Shots on target": [
+          "5",
+          "2"
+        ],
+        "Corner kicks": [
+          "4",
+          "2"
+        ],
+        "Yellow cards": [
+          "4",
+          "4"
+        ],
+        "Red cards": [
+          "0",
+          "1"
+        ],
+        "Shots off target": [
+          "5",
+          "4"
+        ],
+        "Offsides": [
+          "1",
+          "2"
+        ],
+        "Free kicks": [
+          "13",
+          "13"
+        ],
+        "Throw ins": [
+          "25",
+          "19"
+        ],
+        "Fouls": [
+          "12",
+          "11"
+        ]
+      }
+    },
+    {
+      "id": "lEQJmBXP",
+      "date": "2025-09-19T17:30:00.000Z",
+      "round": "Round 9",
+      "homeTeam": "Levski Sofia",
+      "awayTeam": "Ludogorets Razgrad",
+      "homeScore": 0,
+      "awayScore": 0,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "62%",
+          "38%"
+        ],
+        "Total shots": [
+          "8",
+          "7"
+        ],
+        "Shots on target": [
+          "3",
+          "2"
+        ],
+        "Corner kicks": [
+          "6",
+          "0"
+        ],
+        "Yellow cards": [
+          "3",
+          "5"
+        ],
+        "Shots off target": [
+          "5",
+          "5"
+        ],
+        "Offsides": [
+          "1",
+          "1"
+        ],
+        "Free kicks": [
+          "10",
+          "9"
+        ],
+        "Throw ins": [
+          "16",
+          "15"
+        ],
+        "Fouls": [
+          "14",
+          "19"
+        ]
+      }
+    },
+    {
+      "id": "zZrXP7uJ",
+      "date": "2025-09-19T14:45:00.000Z",
+      "round": "Round 9",
+      "homeTeam": "Montana",
+      "awayTeam": "Spartak Varna",
+      "homeScore": 1,
+      "awayScore": 2,
+      "htHome": 0,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "49%",
+          "51%"
+        ],
+        "Total shots": [
+          "29",
+          "5"
+        ],
+        "Shots on target": [
+          "13",
+          "3"
+        ],
+        "Corner kicks": [
+          "10",
+          "5"
+        ],
+        "Yellow cards": [
+          "1",
+          "3"
+        ],
+        "Shots off target": [
+          "16",
+          "2"
+        ],
+        "Offsides": [
+          "0",
+          "3"
+        ],
+        "Free kicks": [
+          "0",
+          "0"
+        ],
+        "Throw ins": [
+          "0",
+          "0"
+        ],
+        "Fouls": [
+          "10",
+          "11"
+        ]
+      }
+    },
+    {
+      "id": "4WZJSojt",
+      "date": "2025-09-18T14:30:00.000Z",
+      "round": "Round 5",
+      "homeTeam": "Arda Kardzhali",
+      "awayTeam": "CSKA Sofia",
+      "homeScore": 1,
+      "awayScore": 0,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "39%",
+          "61%"
+        ],
+        "Total shots": [
+          "5",
+          "7"
+        ],
+        "Shots on target": [
+          "1",
+          "4"
+        ],
+        "Corner kicks": [
+          "4",
+          "2"
+        ],
+        "Yellow cards": [
+          "2",
+          "2"
+        ],
+        "Shots off target": [
+          "4",
+          "3"
+        ],
+        "Offsides": [
+          "2",
+          "0"
+        ],
+        "Free kicks": [
+          "16",
+          "16"
+        ],
+        "Fouls": [
+          "14",
+          "15"
+        ]
+      }
+    },
+    {
+      "id": "pf1Gbu63",
+      "date": "2025-09-15T17:30:00.000Z",
+      "round": "Round 8",
+      "homeTeam": "Cherno More Varna",
+      "awayTeam": "PFC Dobrudzha Dobrich",
+      "homeScore": 2,
+      "awayScore": 0,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "64%",
+          "36%"
+        ],
+        "Total shots": [
+          "11",
+          "8"
+        ],
+        "Shots on target": [
+          "6",
+          "3"
+        ],
+        "Corner kicks": [
+          "5",
+          "4"
+        ],
+        "Yellow cards": [
+          "1",
+          "1"
+        ],
+        "Red cards": [
+          "0",
+          "1"
+        ],
+        "Shots off target": [
+          "5",
+          "5"
+        ],
+        "Offsides": [
+          "1",
+          "0"
+        ],
+        "Free kicks": [
+          "20",
+          "20"
+        ],
+        "Fouls": [
+          "17",
+          "17"
+        ],
+        "Goalkeeper saves": [
+          "3",
+          "4"
+        ]
+      }
+    },
+    {
+      "id": "dYKLxbqp",
+      "date": "2025-09-15T15:00:00.000Z",
+      "round": "Round 8",
+      "homeTeam": "CSKA 1948 Sofia",
+      "awayTeam": "Slavia Sofia",
+      "homeScore": 3,
+      "awayScore": 1,
+      "htHome": 1,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "54%",
+          "46%"
+        ],
+        "Total shots": [
+          "12",
+          "11"
+        ],
+        "Shots on target": [
+          "5",
+          "3"
+        ],
+        "Corner kicks": [
+          "6",
+          "6"
+        ],
+        "Yellow cards": [
+          "1",
+          "1"
+        ],
+        "Shots off target": [
+          "7",
+          "8"
+        ],
+        "Offsides": [
+          "1",
+          "1"
+        ],
+        "Fouls": [
+          "6",
+          "9"
+        ],
+        "Goalkeeper saves": [
+          "2",
+          "2"
+        ]
+      }
+    },
+    {
+      "id": "AuHdvBKl",
+      "date": "2025-09-14T17:30:00.000Z",
+      "round": "Round 8",
+      "homeTeam": "Lokomotiv 1929 Sofia",
+      "awayTeam": "Levski Sofia",
+      "homeScore": 1,
+      "awayScore": 2,
+      "htHome": 0,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "33%",
+          "67%"
+        ],
+        "Total shots": [
+          "5",
+          "16"
+        ],
+        "Shots on target": [
+          "1",
+          "6"
+        ],
+        "Corner kicks": [
+          "1",
+          "11"
+        ],
+        "Yellow cards": [
+          "1",
+          "3"
+        ],
+        "Shots off target": [
+          "4",
+          "10"
+        ],
+        "Offsides": [
+          "1",
+          "2"
+        ],
+        "Free kicks": [
+          "15",
+          "13"
+        ],
+        "Throw ins": [
+          "9",
+          "21"
+        ],
+        "Fouls": [
+          "12",
+          "13"
+        ],
+        "Goalkeeper saves": [
+          "4",
+          "0"
+        ]
+      }
+    },
+    {
+      "id": "vgfPdJzG",
+      "date": "2025-09-14T15:00:00.000Z",
+      "round": "Round 8",
+      "homeTeam": "Lokomotiv Plovdiv",
+      "awayTeam": "Ludogorets Razgrad",
+      "homeScore": 1,
+      "awayScore": 1,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "35%",
+          "65%"
+        ],
+        "Total shots": [
+          "4",
+          "23"
+        ],
+        "Shots on target": [
+          "2",
+          "6"
+        ],
+        "Corner kicks": [
+          "0",
+          "8"
+        ],
+        "Yellow cards": [
+          "4",
+          "2"
+        ],
+        "Red cards": [
+          "1",
+          "0"
+        ],
+        "Shots off target": [
+          "2",
+          "17"
+        ],
+        "Offsides": [
+          "1",
+          "1"
+        ],
+        "Free kicks": [
+          "10",
+          "11"
+        ],
+        "Throw ins": [
+          "19",
+          "22"
+        ],
+        "Fouls": [
+          "10",
+          "9"
+        ],
+        "Goalkeeper saves": [
+          "5",
+          "1"
+        ]
+      }
+    },
+    {
+      "id": "dYKLxbqp",
+      "date": "2025-09-15T15:00:00.000Z",
+      "round": "Round 8",
+      "homeTeam": "CSKA 1948 Sofia",
+      "awayTeam": "Slavia Sofia",
+      "homeScore": 3,
+      "awayScore": 1,
+      "htHome": 1,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "54%",
+          "46%"
+        ],
+        "Total shots": [
+          "12",
+          "11"
+        ],
+        "Shots on target": [
+          "5",
+          "3"
+        ],
+        "Corner kicks": [
+          "6",
+          "6"
+        ],
+        "Yellow cards": [
+          "1",
+          "1"
+        ],
+        "Shots off target": [
+          "7",
+          "8"
+        ],
+        "Offsides": [
+          "1",
+          "1"
+        ],
+        "Fouls": [
+          "6",
+          "9"
+        ],
+        "Goalkeeper saves": [
+          "2",
+          "2"
+        ]
+      }
+    },
+    {
+      "id": "AuHdvBKl",
+      "date": "2025-09-14T17:30:00.000Z",
+      "round": "Round 8",
+      "homeTeam": "Lokomotiv 1929 Sofia",
+      "awayTeam": "Levski Sofia",
+      "homeScore": 1,
+      "awayScore": 2,
+      "htHome": 0,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "33%",
+          "67%"
+        ],
+        "Total shots": [
+          "5",
+          "16"
+        ],
+        "Shots on target": [
+          "1",
+          "6"
+        ],
+        "Corner kicks": [
+          "1",
+          "11"
+        ],
+        "Yellow cards": [
+          "1",
+          "3"
+        ],
+        "Shots off target": [
+          "4",
+          "10"
+        ],
+        "Offsides": [
+          "1",
+          "2"
+        ],
+        "Free kicks": [
+          "15",
+          "13"
+        ],
+        "Throw ins": [
+          "9",
+          "21"
+        ],
+        "Fouls": [
+          "12",
+          "13"
+        ],
+        "Goalkeeper saves": [
+          "4",
+          "0"
+        ]
+      }
+    },
+    {
+      "id": "vgfPdJzG",
+      "date": "2025-09-14T15:00:00.000Z",
+      "round": "Round 8",
+      "homeTeam": "Lokomotiv Plovdiv",
+      "awayTeam": "Ludogorets Razgrad",
+      "homeScore": 1,
+      "awayScore": 1,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "35%",
+          "65%"
+        ],
+        "Total shots": [
+          "4",
+          "23"
+        ],
+        "Shots on target": [
+          "2",
+          "6"
+        ],
+        "Corner kicks": [
+          "0",
+          "8"
+        ],
+        "Yellow cards": [
+          "4",
+          "2"
+        ],
+        "Red cards": [
+          "1",
+          "0"
+        ],
+        "Shots off target": [
+          "2",
+          "17"
+        ],
+        "Offsides": [
+          "1",
+          "1"
+        ],
+        "Free kicks": [
+          "10",
+          "11"
+        ],
+        "Throw ins": [
+          "19",
+          "22"
+        ],
+        "Fouls": [
+          "10",
+          "9"
+        ],
+        "Goalkeeper saves": [
+          "5",
+          "1"
+        ]
+      }
+    },
+    {
+      "id": "Im9UzxEd",
+      "date": "2025-09-13T17:15:00.000Z",
+      "round": "Round 8",
+      "homeTeam": "CSKA Sofia",
+      "awayTeam": "Septemvri Sofia",
+      "homeScore": 3,
+      "awayScore": 1,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "56%",
+          "44%"
+        ],
+        "Total shots": [
+          "23",
+          "5"
+        ],
+        "Shots on target": [
+          "8",
+          "2"
+        ],
+        "Corner kicks": [
+          "5",
+          "1"
+        ],
+        "Yellow cards": [
+          "6",
+          "4"
+        ],
+        "Shots off target": [
+          "15",
+          "3"
+        ],
+        "Offsides": [
+          "2",
+          "0"
+        ],
+        "Free kicks": [
+          "15",
+          "10"
+        ],
+        "Throw ins": [
+          "25",
+          "11"
+        ],
+        "Fouls": [
+          "8",
+          "14"
+        ],
+        "Goalkeeper saves": [
+          "1",
+          "5"
+        ]
+      }
+    },
+    {
+      "id": "67A5xkk1",
+      "date": "2025-09-13T14:45:00.000Z",
+      "round": "Round 8",
+      "homeTeam": "Spartak Varna",
+      "awayTeam": "Arda Kardzhali",
+      "homeScore": 3,
+      "awayScore": 0,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "47%",
+          "53%"
+        ],
+        "Total shots": [
+          "8",
+          "8"
+        ],
+        "Shots on target": [
+          "6",
+          "4"
+        ],
+        "Corner kicks": [
+          "3",
+          "6"
+        ],
+        "Yellow cards": [
+          "2",
+          "3"
+        ],
+        "Shots off target": [
+          "2",
+          "4"
+        ],
+        "Offsides": [
+          "0",
+          "1"
+        ],
+        "Free kicks": [
+          "13",
+          "9"
+        ],
+        "Throw ins": [
+          "19",
+          "29"
+        ],
+        "Fouls": [
+          "9",
+          "12"
+        ],
+        "Goalkeeper saves": [
+          "4",
+          "3"
+        ]
+      }
+    },
+    {
+      "id": "QkUkrKLM",
+      "date": "2025-09-12T16:45:00.000Z",
+      "round": "Round 8",
+      "homeTeam": "Botev Plovdiv",
+      "awayTeam": "Montana",
+      "homeScore": 0,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "56%",
+          "44%"
+        ],
+        "Total shots": [
+          "17",
+          "10"
+        ],
+        "Shots on target": [
+          "6",
+          "4"
+        ],
+        "Corner kicks": [
+          "8",
+          "1"
+        ],
+        "Yellow cards": [
+          "1",
+          "2"
+        ],
+        "Shots off target": [
+          "11",
+          "6"
+        ],
+        "Offsides": [
+          "1",
+          "2"
+        ],
+        "Free kicks": [
+          "8",
+          "9"
+        ],
+        "Throw ins": [
+          "22",
+          "20"
+        ],
+        "Fouls": [
+          "8",
+          "6"
+        ],
+        "Goalkeeper saves": [
+          "3",
+          "6"
+        ]
+      }
+    },
+    {
+      "id": "6mElptiA",
+      "date": "2025-09-12T14:30:00.000Z",
+      "round": "Round 8",
+      "homeTeam": "Beroe",
+      "awayTeam": "Botev Vratsa",
+      "homeScore": 2,
+      "awayScore": 0,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "47%",
+          "53%"
+        ],
+        "Total shots": [
+          "10",
+          "15"
+        ],
+        "Shots on target": [
+          "4",
+          "4"
+        ],
+        "Corner kicks": [
+          "2",
+          "4"
+        ],
+        "Yellow cards": [
+          "4",
+          "2"
+        ],
+        "Shots off target": [
+          "6",
+          "11"
+        ],
+        "Offsides": [
+          "2",
+          "0"
+        ],
+        "Free kicks": [
+          "8",
+          "15"
+        ],
+        "Throw ins": [
+          "24",
+          "20"
+        ],
+        "Fouls": [
+          "13",
+          "8"
+        ],
+        "Goalkeeper saves": [
+          "4",
+          "2"
+        ]
+      }
+    },
+    {
+      "id": "rHL92AwR",
+      "date": "2025-08-31T18:30:00.000Z",
+      "round": "Round 7",
+      "homeTeam": "Ludogorets Razgrad",
+      "awayTeam": "Botev Plovdiv",
+      "homeScore": 2,
+      "awayScore": 1,
+      "htHome": 1,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "64%",
+          "36%"
+        ],
+        "Total shots": [
+          "21",
+          "8"
+        ],
+        "Shots on target": [
+          "11",
+          "5"
+        ],
+        "Corner kicks": [
+          "8",
+          "4"
+        ],
+        "Yellow cards": [
+          "0",
+          "4"
+        ],
+        "Shots off target": [
+          "10",
+          "3"
+        ],
+        "Offsides": [
+          "1",
+          "0"
+        ],
+        "Free kicks": [
+          "11",
+          "6"
+        ],
+        "Throw ins": [
+          "24",
+          "21"
+        ],
+        "Fouls": [
+          "5",
+          "11"
+        ],
+        "Goalkeeper saves": [
+          "4",
+          "9"
+        ]
+      }
+    },
+    {
+      "id": "A3N14W8E",
+      "date": "2025-08-31T16:15:00.000Z",
+      "round": "Round 7",
+      "homeTeam": "Levski Sofia",
+      "awayTeam": "CSKA 1948 Sofia",
+      "homeScore": 2,
+      "awayScore": 1,
+      "htHome": 2,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "53%",
+          "47%"
+        ],
+        "Total shots": [
+          "13",
+          "10"
+        ],
+        "Shots on target": [
+          "4",
+          "2"
+        ],
+        "Corner kicks": [
+          "3",
+          "7"
+        ],
+        "Yellow cards": [
+          "2",
+          "2"
+        ],
+        "Shots off target": [
+          "9",
+          "8"
+        ],
+        "Offsides": [
+          "2",
+          "0"
+        ],
+        "Free kicks": [
+          "11",
+          "13"
+        ],
+        "Throw ins": [
+          "21",
+          "18"
+        ],
+        "Fouls": [
+          "12",
+          "9"
+        ],
+        "Goalkeeper saves": [
+          "1",
+          "2"
+        ]
+      }
+    },
+    {
+      "id": "zZ6R2JX9",
+      "date": "2025-08-31T14:00:00.000Z",
+      "round": "Round 7",
+      "homeTeam": "Arda Kardzhali",
+      "awayTeam": "Beroe",
+      "homeScore": 2,
+      "awayScore": 2,
+      "htHome": 2,
+      "htAway": 2,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "65%",
+          "35%"
+        ],
+        "Total shots": [
+          "21",
+          "7"
+        ],
+        "Shots on target": [
+          "5",
+          "4"
+        ],
+        "Corner kicks": [
+          "7",
+          "2"
+        ],
+        "Yellow cards": [
+          "4",
+          "7"
+        ],
+        "Red cards": [
+          "0",
+          "1"
+        ],
+        "Shots off target": [
+          "16",
+          "3"
+        ],
+        "Offsides": [
+          "0",
+          "1"
+        ],
+        "Free kicks": [
+          "14",
+          "8"
+        ],
+        "Throw ins": [
+          "28",
+          "16"
+        ],
+        "Fouls": [
+          "8",
+          "14"
+        ],
+        "Goalkeeper saves": [
+          "2",
+          "3"
+        ]
+      }
+    },
+    {
+      "id": "Y1SteSV0",
+      "date": "2025-08-30T18:15:00.000Z",
+      "round": "Round 7",
+      "homeTeam": "Slavia Sofia",
+      "awayTeam": "CSKA Sofia",
+      "homeScore": 2,
+      "awayScore": 2,
+      "htHome": 2,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "58%",
+          "42%"
+        ],
+        "Total shots": [
+          "13",
+          "11"
+        ],
+        "Shots on target": [
+          "10",
+          "3"
+        ],
+        "Corner kicks": [
+          "7",
+          "2"
+        ],
+        "Yellow cards": [
+          "1",
+          "3"
+        ],
+        "Red cards": [
+          "0",
+          "1"
+        ],
+        "Shots off target": [
+          "3",
+          "8"
+        ],
+        "Offsides": [
+          "3",
+          "1"
+        ],
+        "Free kicks": [
+          "18",
+          "7"
+        ],
+        "Throw ins": [
+          "24",
+          "29"
+        ],
+        "Fouls": [
+          "4",
+          "17"
+        ]
+      }
+    },
+    {
+      "id": "feuFtTG7",
+      "date": "2025-08-30T16:00:00.000Z",
+      "round": "Round 7",
+      "homeTeam": "Spartak Varna",
+      "awayTeam": "Lokomotiv Plovdiv",
+      "homeScore": 1,
+      "awayScore": 2,
+      "htHome": 0,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "52%",
+          "48%"
+        ],
+        "Total shots": [
+          "8",
+          "15"
+        ],
+        "Shots on target": [
+          "1",
+          "6"
+        ],
+        "Corner kicks": [
+          "3",
+          "6"
+        ],
+        "Yellow cards": [
+          "4",
+          "5"
+        ],
+        "Red cards": [
+          "1",
+          "1"
+        ],
+        "Shots off target": [
+          "7",
+          "9"
+        ],
+        "Offsides": [
+          "0",
+          "0"
+        ],
+        "Free kicks": [
+          "16",
+          "16"
+        ],
+        "Throw ins": [
+          "18",
+          "16"
+        ],
+        "Fouls": [
+          "11",
+          "12"
+        ]
+      }
+    },
+    {
+      "id": "QyPYdl1l",
+      "date": "2025-08-29T19:00:00.000Z",
+      "round": "Round 7",
+      "homeTeam": "Septemvri Sofia",
+      "awayTeam": "Lokomotiv 1929 Sofia",
+      "homeScore": 1,
+      "awayScore": 0,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "55%",
+          "45%"
+        ],
+        "Total shots": [
+          "9",
+          "11"
+        ],
+        "Shots on target": [
+          "1",
+          "3"
+        ],
+        "Corner kicks": [
+          "2",
+          "5"
+        ],
+        "Yellow cards": [
+          "2",
+          "1"
+        ],
+        "Red cards": [
+          "0",
+          "1"
+        ],
+        "Shots off target": [
+          "8",
+          "8"
+        ],
+        "Offsides": [
+          "0",
+          "0"
+        ],
+        "Free kicks": [
+          "9",
+          "9"
+        ],
+        "Throw ins": [
+          "19",
+          "25"
+        ],
+        "Fouls": [
+          "9",
+          "7"
+        ]
+      }
+    },
+    {
+      "id": "QFmbpBHr",
+      "date": "2025-08-29T16:45:00.000Z",
+      "round": "Round 7",
+      "homeTeam": "Botev Vratsa",
+      "awayTeam": "Cherno More Varna",
+      "homeScore": 1,
+      "awayScore": 0,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "47%",
+          "53%"
+        ],
+        "Total shots": [
+          "8",
+          "3"
+        ],
+        "Shots on target": [
+          "3",
+          "1"
+        ],
+        "Corner kicks": [
+          "5",
+          "3"
+        ],
+        "Yellow cards": [
+          "3",
+          "3"
+        ],
+        "Shots off target": [
+          "5",
+          "2"
+        ],
+        "Offsides": [
+          "3",
+          "0"
+        ],
+        "Free kicks": [
+          "12",
+          "17"
+        ],
+        "Throw ins": [
+          "22",
+          "33"
+        ],
+        "Fouls": [
+          "13",
+          "12"
+        ]
+      }
+    },
+    {
+      "id": "nVy7rkne",
+      "date": "2025-08-29T14:30:00.000Z",
+      "round": "Round 7",
+      "homeTeam": "Montana",
+      "awayTeam": "PFC Dobrudzha Dobrich",
+      "homeScore": 1,
+      "awayScore": 0,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "40%",
+          "60%"
+        ],
+        "Total shots": [
+          "6",
+          "18"
+        ],
+        "Shots on target": [
+          "2",
+          "4"
+        ],
+        "Corner kicks": [
+          "4",
+          "8"
+        ],
+        "Yellow cards": [
+          "2",
+          "2"
+        ],
+        "Red cards": [
+          "1",
+          "1"
+        ],
+        "Shots off target": [
+          "4",
+          "14"
+        ],
+        "Offsides": [
+          "4",
+          "0"
+        ],
+        "Free kicks": [
+          "10",
+          "9"
+        ],
+        "Throw ins": [
+          "16",
+          "23"
+        ],
+        "Fouls": [
+          "4",
+          "10"
+        ]
+      }
+    },
+    {
+      "id": "v7DI4u3c",
+      "date": "2025-08-25T16:00:00.000Z",
+      "round": "Round 6",
+      "homeTeam": "Slavia Sofia",
+      "awayTeam": "Arda Kardzhali",
+      "homeScore": 2,
+      "awayScore": 0,
+      "htHome": 2,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "42%",
+          "58%"
+        ],
+        "Total shots": [
+          "9",
+          "8"
+        ],
+        "Shots on target": [
+          "4",
+          "3"
+        ],
+        "Corner kicks": [
+          "3",
+          "3"
+        ],
+        "Yellow cards": [
+          "4",
+          "0"
+        ],
+        "Shots off target": [
+          "5",
+          "5"
+        ],
+        "Offsides": [
+          "1",
+          "1"
+        ],
+        "Free kicks": [
+          "7",
+          "17"
+        ],
+        "Throw ins": [
+          "20",
+          "37"
+        ],
+        "Fouls": [
+          "16",
+          "6"
+        ]
+      }
+    },
+    {
+      "id": "CWgyh2Ji",
+      "date": "2025-08-24T17:15:00.000Z",
+      "round": "Round 6",
+      "homeTeam": "CSKA Sofia",
+      "awayTeam": "CSKA 1948 Sofia",
+      "homeScore": 0,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "68%",
+          "32%"
+        ],
+        "Total shots": [
+          "15",
+          "4"
+        ],
+        "Shots on target": [
+          "4",
+          "3"
+        ],
+        "Corner kicks": [
+          "9",
+          "2"
+        ],
+        "Yellow cards": [
+          "2",
+          "4"
+        ],
+        "Shots off target": [
+          "11",
+          "1"
+        ],
+        "Offsides": [
+          "0",
+          "2"
+        ],
+        "Free kicks": [
+          "18",
+          "9"
+        ],
+        "Throw ins": [
+          "38",
+          "29"
+        ],
+        "Fouls": [
+          "8",
+          "16"
+        ]
+      }
+    },
+    {
+      "id": "tCohlKIG",
+      "date": "2025-08-24T14:45:00.000Z",
+      "round": "Round 6",
+      "homeTeam": "PFC Dobrudzha Dobrich",
+      "awayTeam": "Botev Vratsa",
+      "homeScore": 0,
+      "awayScore": 2,
+      "htHome": 0,
+      "htAway": 2,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "65%",
+          "35%"
+        ],
+        "Total shots": [
+          "17",
+          "6"
+        ],
+        "Shots on target": [
+          "5",
+          "4"
+        ],
+        "Corner kicks": [
+          "10",
+          "5"
+        ],
+        "Yellow cards": [
+          "1",
+          "3"
+        ],
+        "Shots off target": [
+          "12",
+          "2"
+        ],
+        "Offsides": [
+          "1",
+          "0"
+        ],
+        "Free kicks": [
+          "19",
+          "11"
+        ],
+        "Throw ins": [
+          "40",
+          "24"
+        ],
+        "Fouls": [
+          "10",
+          "19"
+        ]
+      }
+    },
+    {
+      "id": "Kdcqjtl4",
+      "date": "2025-08-23T18:15:00.000Z",
+      "round": "Round 6",
+      "homeTeam": "Cherno More Varna",
+      "awayTeam": "Lokomotiv Plovdiv",
+      "homeScore": 1,
+      "awayScore": 1,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "47%",
+          "53%"
+        ],
+        "Total shots": [
+          "8",
+          "12"
+        ],
+        "Shots on target": [
+          "4",
+          "3"
+        ],
+        "Corner kicks": [
+          "9",
+          "4"
+        ],
+        "Yellow cards": [
+          "2",
+          "4"
+        ],
+        "Shots off target": [
+          "4",
+          "9"
+        ],
+        "Offsides": [
+          "0",
+          "1"
+        ],
+        "Free kicks": [
+          "14",
+          "12"
+        ],
+        "Throw ins": [
+          "29",
+          "23"
+        ],
+        "Fouls": [
+          "11",
+          "13"
+        ]
+      }
+    },
+    {
+      "id": "SSq0nbmT",
+      "date": "2025-08-23T16:00:00.000Z",
+      "round": "Round 6",
+      "homeTeam": "Montana",
+      "awayTeam": "Septemvri Sofia",
+      "homeScore": 2,
+      "awayScore": 0,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "42%",
+          "58%"
+        ],
+        "Total shots": [
+          "6",
+          "8"
+        ],
+        "Shots on target": [
+          "4",
+          "2"
+        ],
+        "Corner kicks": [
+          "2",
+          "4"
+        ],
+        "Yellow cards": [
+          "4",
+          "2"
+        ],
+        "Shots off target": [
+          "2",
+          "6"
+        ],
+        "Offsides": [
+          "1",
+          "1"
+        ],
+        "Free kicks": [
+          "13",
+          "11"
+        ],
+        "Throw ins": [
+          "22",
+          "33"
+        ],
+        "Fouls": [
+          "10",
+          "12"
+        ]
+      }
+    },
+    {
+      "id": "nDQWtxBj",
+      "date": "2025-08-22T17:30:00.000Z",
+      "round": "Round 6",
+      "homeTeam": "Lokomotiv 1929 Sofia",
+      "awayTeam": "Spartak Varna",
+      "homeScore": 0,
+      "awayScore": 0,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "51%",
+          "49%"
+        ],
+        "Total shots": [
+          "10",
+          "6"
+        ],
+        "Shots on target": [
+          "3",
+          "0"
+        ],
+        "Corner kicks": [
+          "8",
+          "5"
+        ],
+        "Yellow cards": [
+          "3",
+          "2"
+        ],
+        "Shots off target": [
+          "7",
+          "6"
+        ],
+        "Offsides": [
+          "2",
+          "2"
+        ],
+        "Free kicks": [
+          "15",
+          "14"
+        ],
+        "Throw ins": [
+          "27",
+          "21"
+        ],
+        "Fouls": [
+          "12",
+          "11"
+        ]
+      }
+    },
+    {
+      "id": "bTT1w34b",
+      "date": "2025-08-18T16:00:00.000Z",
+      "round": "Round 5",
+      "homeTeam": "Septemvri Sofia",
+      "awayTeam": "PFC Dobrudzha Dobrich",
+      "homeScore": 2,
+      "awayScore": 1,
+      "htHome": 2,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "54%",
+          "46%"
+        ],
+        "Total shots": [
+          "11",
+          "5"
+        ],
+        "Shots on target": [
+          "4",
+          "1"
+        ],
+        "Corner kicks": [
+          "3",
+          "5"
+        ],
+        "Yellow cards": [
+          "1",
+          "3"
+        ],
+        "Shots off target": [
+          "4",
+          "1"
+        ],
+        "Blocked shots": [
+          "3",
+          "3"
+        ],
+        "Offsides": [
+          "0",
+          "0"
+        ],
+        "Free kicks": [
+          "14",
+          "13"
+        ],
+        "Throw ins": [
+          "17",
+          "15"
+        ],
+        "Fouls": [
+          "12",
+          "14"
+        ]
+      }
+    },
+    {
+      "id": "8OWzP3k5",
+      "date": "2025-08-17T18:15:00.000Z",
+      "round": "Round 5",
+      "homeTeam": "Botev Vratsa",
+      "awayTeam": "Levski Sofia",
+      "homeScore": 0,
+      "awayScore": 0,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "27%",
+          "73%"
+        ],
+        "Total shots": [
+          "2",
+          "25"
+        ],
+        "Shots on target": [
+          "0",
+          "9"
+        ],
+        "Corner kicks": [
+          "1",
+          "8"
+        ],
+        "Yellow cards": [
+          "3",
+          "1"
+        ],
+        "Shots off target": [
+          "1",
+          "6"
+        ],
+        "Blocked shots": [
+          "1",
+          "10"
+        ],
+        "Offsides": [
+          "1",
+          "2"
+        ],
+        "Free kicks": [
+          "13",
+          "17"
+        ],
+        "Throw ins": [
+          "26",
+          "38"
+        ],
+        "Fouls": [
+          "16",
+          "10"
+        ]
+      }
+    },
+    {
+      "id": "xEuguPZo",
+      "date": "2025-08-17T16:00:00.000Z",
+      "round": "Round 5",
+      "homeTeam": "Ludogorets Razgrad",
+      "awayTeam": "Lokomotiv 1929 Sofia",
+      "homeScore": 0,
+      "awayScore": 0,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "67%",
+          "33%"
+        ],
+        "Total shots": [
+          "19",
+          "5"
+        ],
+        "Shots on target": [
+          "4",
+          "1"
+        ],
+        "Corner kicks": [
+          "9",
+          "4"
+        ],
+        "Yellow cards": [
+          "0",
+          "2"
+        ],
+        "Shots off target": [
+          "7",
+          "3"
+        ],
+        "Blocked shots": [
+          "8",
+          "1"
+        ],
+        "Offsides": [
+          "1",
+          "4"
+        ],
+        "Free kicks": [
+          "8",
+          "8"
+        ],
+        "Throw ins": [
+          "28",
+          "16"
+        ],
+        "Fouls": [
+          "8",
+          "4"
+        ]
+      }
+    },
+    {
+      "id": "CdwSQPKh",
+      "date": "2025-08-16T18:15:00.000Z",
+      "round": "Round 5",
+      "homeTeam": "Beroe",
+      "awayTeam": "Botev Plovdiv",
+      "homeScore": 1,
+      "awayScore": 2,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "60%",
+          "40%"
+        ],
+        "Total shots": [
+          "1",
+          "2"
+        ],
+        "Shots on target": [
+          "1",
+          "2"
+        ],
+        "Corner kicks": [
+          "7",
+          "4"
+        ],
+        "Yellow cards": [
+          "0",
+          "2"
+        ],
+        "Red cards": [
+          "0",
+          "1"
+        ],
+        "Shots off target": [
+          "0",
+          "0"
+        ],
+        "Blocked shots": [
+          "0",
+          "0"
+        ],
+        "Offsides": [
+          "1",
+          "0"
+        ],
+        "Free kicks": [
+          "8",
+          "2"
+        ],
+        "Throw ins": [
+          "0",
+          "0"
+        ],
+        "Fouls": [
+          "2",
+          "0"
+        ]
+      }
+    },
+    {
+      "id": "6gX9ysZA",
+      "date": "2025-08-16T16:00:00.000Z",
+      "round": "Round 5",
+      "homeTeam": "Spartak Varna",
+      "awayTeam": "Cherno More Varna",
+      "homeScore": 1,
+      "awayScore": 3,
+      "htHome": 1,
+      "htAway": 2,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "48%",
+          "52%"
+        ],
+        "Total shots": [
+          "6",
+          "11"
+        ],
+        "Shots on target": [
+          "3",
+          "5"
+        ],
+        "Corner kicks": [
+          "5",
+          "7"
+        ],
+        "Yellow cards": [
+          "4",
+          "2"
+        ],
+        "Shots off target": [
+          "2",
+          "4"
+        ],
+        "Blocked shots": [
+          "1",
+          "2"
+        ],
+        "Offsides": [
+          "1",
+          "3"
+        ],
+        "Free kicks": [
+          "15",
+          "21"
+        ],
+        "Throw ins": [
+          "31",
+          "19"
+        ],
+        "Fouls": [
+          "19",
+          "13"
+        ]
+      }
+    },
+    {
+      "id": "nk0qLLlU",
+      "date": "2025-08-15T18:15:00.000Z",
+      "round": "Round 5",
+      "homeTeam": "Lokomotiv Plovdiv",
+      "awayTeam": "Slavia Sofia",
+      "homeScore": 2,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "44%",
+          "56%"
+        ],
+        "Total shots": [
+          "16",
+          "16"
+        ],
+        "Shots on target": [
+          "10",
+          "7"
+        ],
+        "Corner kicks": [
+          "4",
+          "6"
+        ],
+        "Yellow cards": [
+          "2",
+          "0"
+        ],
+        "Shots off target": [
+          "4",
+          "5"
+        ],
+        "Blocked shots": [
+          "2",
+          "4"
+        ],
+        "Offsides": [
+          "3",
+          "0"
+        ],
+        "Free kicks": [
+          "4",
+          "16"
+        ],
+        "Throw ins": [
+          "23",
+          "11"
+        ],
+        "Fouls": [
+          "13",
+          "4"
+        ]
+      }
+    },
+    {
+      "id": "txVrNsKH",
+      "date": "2025-08-15T16:00:00.000Z",
+      "round": "Round 5",
+      "homeTeam": "CSKA 1948 Sofia",
+      "awayTeam": "Montana",
+      "homeScore": 2,
+      "awayScore": 1,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "61%",
+          "39%"
+        ],
+        "Total shots": [
+          "5",
+          "4"
+        ],
+        "Shots on target": [
+          "3",
+          "4"
+        ],
+        "Corner kicks": [
+          "3",
+          "6"
+        ],
+        "Yellow cards": [
+          "3",
+          "3"
+        ],
+        "Shots off target": [
+          "0",
+          "0"
+        ],
+        "Blocked shots": [
+          "2",
+          "0"
+        ],
+        "Offsides": [
+          "2",
+          "1"
+        ],
+        "Free kicks": [
+          "6",
+          "5"
+        ],
+        "Throw ins": [
+          "6",
+          "10"
+        ],
+        "Fouls": [
+          "3",
+          "5"
+        ]
+      }
+    },
+    {
+      "id": "fZVBSQYr",
+      "date": "2025-08-11T18:15:00.000Z",
+      "round": "Round 4",
+      "homeTeam": "Arda Kardzhali",
+      "awayTeam": "Lokomotiv Plovdiv",
+      "homeScore": 0,
+      "awayScore": 0,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "69%",
+          "31%"
+        ],
+        "Total shots": [
+          "9",
+          "6"
+        ],
+        "Shots on target": [
+          "1",
+          "2"
+        ],
+        "Corner kicks": [
+          "5",
+          "2"
+        ],
+        "Yellow cards": [
+          "4",
+          "4"
+        ],
+        "Shots off target": [
+          "6",
+          "3"
+        ],
+        "Blocked shots": [
+          "2",
+          "1"
+        ],
+        "Offsides": [
+          "0",
+          "0"
+        ],
+        "Free kicks": [
+          "23",
+          "10"
+        ],
+        "Throw ins": [
+          "31",
+          "28"
+        ],
+        "Fouls": [
+          "9",
+          "25"
+        ]
+      }
+    },
+    {
+      "id": "dQQfSHv0",
+      "date": "2025-08-11T16:00:00.000Z",
+      "round": "Round 4",
+      "homeTeam": "Septemvri Sofia",
+      "awayTeam": "Beroe",
+      "homeScore": 2,
+      "awayScore": 3,
+      "htHome": 1,
+      "htAway": 2,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "56%",
+          "44%"
+        ],
+        "Total shots": [
+          "18",
+          "22"
+        ],
+        "Shots on target": [
+          "9",
+          "10"
+        ],
+        "Corner kicks": [
+          "6",
+          "6"
+        ],
+        "Yellow cards": [
+          "1",
+          "2"
+        ],
+        "Shots off target": [
+          "6",
+          "8"
+        ],
+        "Blocked shots": [
+          "3",
+          "4"
+        ],
+        "Offsides": [
+          "0",
+          "2"
+        ],
+        "Free kicks": [
+          "17",
+          "8"
+        ],
+        "Throw ins": [
+          "20",
+          "20"
+        ],
+        "Fouls": [
+          "8",
+          "15"
+        ]
+      }
+    },
+    {
+      "id": "2aZJQ43e",
+      "date": "2025-08-10T18:15:00.000Z",
+      "round": "Round 4",
+      "homeTeam": "Botev Plovdiv",
+      "awayTeam": "Lokomotiv 1929 Sofia",
+      "homeScore": 0,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "63%",
+          "37%"
+        ],
+        "Total shots": [
+          "19",
+          "9"
+        ],
+        "Shots on target": [
+          "4",
+          "3"
+        ],
+        "Corner kicks": [
+          "11",
+          "5"
+        ],
+        "Yellow cards": [
+          "3",
+          "6"
+        ],
+        "Shots off target": [
+          "7",
+          "5"
+        ],
+        "Blocked shots": [
+          "8",
+          "1"
+        ],
+        "Offsides": [
+          "0",
+          "1"
+        ],
+        "Free kicks": [
+          "20",
+          "13"
+        ],
+        "Throw ins": [
+          "27",
+          "19"
+        ],
+        "Fouls": [
+          "12",
+          "18"
+        ]
+      }
+    },
+    {
+      "id": "bkNBOZwP",
+      "date": "2025-08-10T16:00:00.000Z",
+      "round": "Round 4",
+      "homeTeam": "Levski Sofia",
+      "awayTeam": "Spartak Varna",
+      "homeScore": 2,
+      "awayScore": 1,
+      "htHome": 2,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "71%",
+          "29%"
+        ],
+        "Total shots": [
+          "24",
+          "4"
+        ],
+        "Shots on target": [
+          "15",
+          "1"
+        ],
+        "Corner kicks": [
+          "10",
+          "2"
+        ],
+        "Yellow cards": [
+          "1",
+          "2"
+        ],
+        "Shots off target": [
+          "7",
+          "2"
+        ],
+        "Blocked shots": [
+          "2",
+          "1"
+        ],
+        "Offsides": [
+          "0",
+          "0"
+        ],
+        "Free kicks": [
+          "10",
+          "8"
+        ],
+        "Throw ins": [
+          "25",
+          "23"
+        ],
+        "Fouls": [
+          "8",
+          "9"
+        ]
+      }
+    },
+    {
+      "id": "hhK3Qe9C",
+      "date": "2025-08-09T18:15:00.000Z",
+      "round": "Round 4",
+      "homeTeam": "Slavia Sofia",
+      "awayTeam": "Ludogorets Razgrad",
+      "homeScore": 0,
+      "awayScore": 3,
+      "htHome": 0,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "40%",
+          "60%"
+        ],
+        "Total shots": [
+          "19",
+          "22"
+        ],
+        "Shots on target": [
+          "3",
+          "12"
+        ],
+        "Corner kicks": [
+          "4",
+          "4"
+        ],
+        "Yellow cards": [
+          "1",
+          "0"
+        ],
+        "Shots off target": [
+          "9",
+          "5"
+        ],
+        "Blocked shots": [
+          "7",
+          "5"
+        ],
+        "Offsides": [
+          "2",
+          "1"
+        ],
+        "Free kicks": [
+          "8",
+          "11"
+        ],
+        "Throw ins": [
+          "14",
+          "18"
+        ],
+        "Fouls": [
+          "8",
+          "8"
+        ]
+      }
+    },
+    {
+      "id": "OENSOrY7",
+      "date": "2025-08-09T16:00:00.000Z",
+      "round": "Round 4",
+      "homeTeam": "CSKA Sofia",
+      "awayTeam": "Cherno More Varna",
+      "homeScore": 0,
+      "awayScore": 0,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "66%",
+          "34%"
+        ],
+        "Total shots": [
+          "15",
+          "5"
+        ],
+        "Shots on target": [
+          "2",
+          "0"
+        ],
+        "Corner kicks": [
+          "4",
+          "2"
+        ],
+        "Yellow cards": [
+          "3",
+          "2"
+        ],
+        "Shots off target": [
+          "9",
+          "2"
+        ],
+        "Blocked shots": [
+          "4",
+          "3"
+        ],
+        "Offsides": [
+          "0",
+          "1"
+        ],
+        "Free kicks": [
+          "16",
+          "13"
+        ],
+        "Throw ins": [
+          "37",
+          "28"
+        ],
+        "Fouls": [
+          "12",
+          "14"
+        ]
+      }
+    },
+    {
+      "id": "OCSnUwAm",
+      "date": "2025-08-08T18:15:00.000Z",
+      "round": "Round 4",
+      "homeTeam": "Montana",
+      "awayTeam": "Botev Vratsa",
+      "homeScore": 0,
+      "awayScore": 0,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "48%",
+          "52%"
+        ],
+        "Total shots": [
+          "7",
+          "14"
+        ],
+        "Shots on target": [
+          "0",
+          "7"
+        ],
+        "Corner kicks": [
+          "5",
+          "6"
+        ],
+        "Yellow cards": [
+          "3",
+          "2"
+        ],
+        "Shots off target": [
+          "4",
+          "4"
+        ],
+        "Blocked shots": [
+          "3",
+          "3"
+        ],
+        "Offsides": [
+          "0",
+          "0"
+        ],
+        "Free kicks": [
+          "16",
+          "16"
+        ],
+        "Throw ins": [
+          "38",
+          "28"
+        ],
+        "Fouls": [
+          "14",
+          "16"
+        ]
+      }
+    },
+    {
+      "id": "UBAEnnQE",
+      "date": "2025-08-08T16:00:00.000Z",
+      "round": "Round 4",
+      "homeTeam": "PFC Dobrudzha Dobrich",
+      "awayTeam": "CSKA 1948 Sofia",
+      "homeScore": 2,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "44%",
+          "56%"
+        ],
+        "Total shots": [
+          "9",
+          "9"
+        ],
+        "Shots on target": [
+          "3",
+          "3"
+        ],
+        "Corner kicks": [
+          "8",
+          "6"
+        ],
+        "Yellow cards": [
+          "4",
+          "4"
+        ],
+        "Shots off target": [
+          "3",
+          "3"
+        ],
+        "Blocked shots": [
+          "3",
+          "3"
+        ],
+        "Offsides": [
+          "1",
+          "4"
+        ],
+        "Free kicks": [
+          "10",
+          "14"
+        ],
+        "Throw ins": [
+          "15",
+          "14"
+        ],
+        "Fouls": [
+          "11",
+          "6"
+        ]
+      }
+    },
+    {
+      "id": "2yiXZ8t9",
+      "date": "2025-08-04T18:15:00.000Z",
+      "round": "Round 3",
+      "homeTeam": "Botev Plovdiv",
+      "awayTeam": "Arda Kardzhali",
+      "homeScore": 0,
+      "awayScore": 5,
+      "htHome": 0,
+      "htAway": 2,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "44%",
+          "56%"
+        ],
+        "Total shots": [
+          "7",
+          "15"
+        ],
+        "Shots on target": [
+          "4",
+          "8"
+        ],
+        "Corner kicks": [
+          "2",
+          "2"
+        ],
+        "Yellow cards": [
+          "0",
+          "2"
+        ],
+        "Red cards": [
+          "2",
+          "0"
+        ],
+        "Shots off target": [
+          "1",
+          "5"
+        ],
+        "Blocked shots": [
+          "2",
+          "2"
+        ],
+        "Offsides": [
+          "1",
+          "3"
+        ],
+        "Free kicks": [
+          "12",
+          "8"
+        ],
+        "Throw ins": [
+          "9",
+          "12"
+        ],
+        "Fouls": [
+          "7",
+          "9"
+        ]
+      }
+    },
+    {
+      "id": "zkkuYnBL",
+      "date": "2025-08-04T16:00:00.000Z",
+      "round": "Round 3",
+      "homeTeam": "Cherno More Varna",
+      "awayTeam": "Beroe",
+      "homeScore": 4,
+      "awayScore": 0,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "53%",
+          "47%"
+        ],
+        "Total shots": [
+          "15",
+          "11"
+        ],
+        "Shots on target": [
+          "7",
+          "2"
+        ],
+        "Corner kicks": [
+          "7",
+          "6"
+        ],
+        "Yellow cards": [
+          "2",
+          "1"
+        ],
+        "Shots off target": [
+          "6",
+          "5"
+        ],
+        "Blocked shots": [
+          "2",
+          "4"
+        ],
+        "Offsides": [
+          "0",
+          "0"
+        ],
+        "Free kicks": [
+          "14",
+          "13"
+        ],
+        "Throw ins": [
+          "24",
+          "18"
+        ],
+        "Fouls": [
+          "12",
+          "15"
+        ]
+      }
+    },
+    {
+      "id": "2NBbL9RF",
+      "date": "2025-08-03T18:15:00.000Z",
+      "round": "Round 3",
+      "homeTeam": "Levski Sofia",
+      "awayTeam": "Slavia Sofia",
+      "homeScore": 2,
+      "awayScore": 0,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "68%",
+          "32%"
+        ],
+        "Total shots": [
+          "15",
+          "6"
+        ],
+        "Shots on target": [
+          "7",
+          "1"
+        ],
+        "Corner kicks": [
+          "12",
+          "4"
+        ],
+        "Yellow cards": [
+          "3",
+          "3"
+        ],
+        "Shots off target": [
+          "5",
+          "3"
+        ],
+        "Blocked shots": [
+          "3",
+          "2"
+        ],
+        "Offsides": [
+          "1",
+          "0"
+        ],
+        "Free kicks": [
+          "20",
+          "15"
+        ],
+        "Throw ins": [
+          "28",
+          "21"
+        ],
+        "Fouls": [
+          "13",
+          "19"
+        ]
+      }
+    },
+    {
+      "id": "fLjwERJk",
+      "date": "2025-08-03T16:00:00.000Z",
+      "round": "Round 3",
+      "homeTeam": "Lokomotiv 1929 Sofia",
+      "awayTeam": "Montana",
+      "homeScore": 3,
+      "awayScore": 0,
+      "htHome": 3,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "39%",
+          "61%"
+        ],
+        "Total shots": [
+          "8",
+          "13"
+        ],
+        "Shots on target": [
+          "5",
+          "6"
+        ],
+        "Corner kicks": [
+          "2",
+          "7"
+        ],
+        "Yellow cards": [
+          "4",
+          "1"
+        ],
+        "Red cards": [
+          "1",
+          "0"
+        ],
+        "Shots off target": [
+          "3",
+          "6"
+        ],
+        "Blocked shots": [
+          "0",
+          "1"
+        ],
+        "Offsides": [
+          "4",
+          "1"
+        ],
+        "Free kicks": [
+          "9",
+          "18"
+        ],
+        "Throw ins": [
+          "31",
+          "27"
+        ],
+        "Fouls": [
+          "14",
+          "8"
+        ]
+      }
+    },
+    {
+      "id": "2ofoC5l2",
+      "date": "2025-08-02T18:15:00.000Z",
+      "round": "Round 3",
+      "homeTeam": "Ludogorets Razgrad",
+      "awayTeam": "PFC Dobrudzha Dobrich",
+      "homeScore": 2,
+      "awayScore": 1,
+      "htHome": 1,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "68%",
+          "32%"
+        ],
+        "Total shots": [
+          "22",
+          "10"
+        ],
+        "Shots on target": [
+          "9",
+          "3"
+        ],
+        "Corner kicks": [
+          "3",
+          "1"
+        ],
+        "Yellow cards": [
+          "0",
+          "2"
+        ],
+        "Shots off target": [
+          "9",
+          "5"
+        ],
+        "Blocked shots": [
+          "4",
+          "2"
+        ],
+        "Offsides": [
+          "1",
+          "1"
+        ],
+        "Free kicks": [
+          "13",
+          "6"
+        ],
+        "Throw ins": [
+          "26",
+          "19"
+        ],
+        "Fouls": [
+          "5",
+          "13"
+        ]
+      }
+    },
+    {
+      "id": "AmF6JmdS",
+      "date": "2025-08-02T16:00:00.000Z",
+      "round": "Round 3",
+      "homeTeam": "Lokomotiv Plovdiv",
+      "awayTeam": "CSKA Sofia",
+      "homeScore": 1,
+      "awayScore": 0,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "40%",
+          "60%"
+        ],
+        "Total shots": [
+          "8",
+          "22"
+        ],
+        "Shots on target": [
+          "3",
+          "4"
+        ],
+        "Corner kicks": [
+          "4",
+          "7"
+        ],
+        "Yellow cards": [
+          "3",
+          "2"
+        ],
+        "Shots off target": [
+          "3",
+          "11"
+        ],
+        "Blocked shots": [
+          "2",
+          "7"
+        ],
+        "Offsides": [
+          "5",
+          "1"
+        ],
+        "Free kicks": [
+          "13",
+          "14"
+        ],
+        "Throw ins": [
+          "27",
+          "23"
+        ],
+        "Fouls": [
+          "9",
+          "11"
+        ]
+      }
+    },
+    {
+      "id": "jR8BaS4d",
+      "date": "2025-08-01T18:15:00.000Z",
+      "round": "Round 3",
+      "homeTeam": "CSKA 1948 Sofia",
+      "awayTeam": "Septemvri Sofia",
+      "homeScore": 2,
+      "awayScore": 1,
+      "htHome": 2,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "42%",
+          "58%"
+        ],
+        "Total shots": [
+          "18",
+          "16"
+        ],
+        "Shots on target": [
+          "4",
+          "4"
+        ],
+        "Corner kicks": [
+          "4",
+          "11"
+        ],
+        "Yellow cards": [
+          "4",
+          "3"
+        ],
+        "Red cards": [
+          "1",
+          "1"
+        ],
+        "Shots off target": [
+          "8",
+          "4"
+        ],
+        "Blocked shots": [
+          "6",
+          "8"
+        ],
+        "Offsides": [
+          "1",
+          "1"
+        ],
+        "Free kicks": [
+          "9",
+          "10"
+        ],
+        "Throw ins": [
+          "13",
+          "12"
+        ],
+        "Fouls": [
+          "9",
+          "8"
+        ]
+      }
+    },
+    {
+      "id": "rLecNVd3",
+      "date": "2025-08-01T16:00:00.000Z",
+      "round": "Round 3",
+      "homeTeam": "Spartak Varna",
+      "awayTeam": "Botev Vratsa",
+      "homeScore": 1,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "52%",
+          "48%"
+        ],
+        "Total shots": [
+          "9",
+          "12"
+        ],
+        "Shots on target": [
+          "3",
+          "7"
+        ],
+        "Corner kicks": [
+          "5",
+          "2"
+        ],
+        "Yellow cards": [
+          "3",
+          "6"
+        ],
+        "Shots off target": [
+          "1",
+          "2"
+        ],
+        "Blocked shots": [
+          "5",
+          "3"
+        ],
+        "Offsides": [
+          "0",
+          "2"
+        ],
+        "Free kicks": [
+          "14",
+          "10"
+        ],
+        "Throw ins": [
+          "36",
+          "19"
+        ],
+        "Fouls": [
+          "23",
+          "12"
+        ]
+      }
+    },
+    {
+      "id": "d4XFAhDc",
+      "date": "2025-07-28T18:15:00.000Z",
+      "round": "Round 2",
+      "homeTeam": "Montana",
+      "awayTeam": "Lokomotiv Plovdiv",
+      "homeScore": 1,
+      "awayScore": 1,
+      "htHome": 1,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "48%",
+          "52%"
+        ],
+        "Total shots": [
+          "6",
+          "15"
+        ],
+        "Shots on target": [
+          "1",
+          "6"
+        ],
+        "Corner kicks": [
+          "4",
+          "4"
+        ],
+        "Yellow cards": [
+          "3",
+          "3"
+        ],
+        "Shots off target": [
+          "4",
+          "5"
+        ],
+        "Blocked shots": [
+          "1",
+          "4"
+        ],
+        "Offsides": [
+          "0",
+          "1"
+        ],
+        "Free kicks": [
+          "16",
+          "10"
+        ],
+        "Throw ins": [
+          "35",
+          "36"
+        ],
+        "Fouls": [
+          "10",
+          "15"
+        ],
+        "Goalkeeper saves": [
+          "5",
+          "0"
+        ]
+      }
+    },
+    {
+      "id": "tdkTnkLj",
+      "date": "2025-07-28T16:00:00.000Z",
+      "round": "Round 2",
+      "homeTeam": "PFC Dobrudzha Dobrich",
+      "awayTeam": "Slavia Sofia",
+      "homeScore": 2,
+      "awayScore": 1,
+      "htHome": 1,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "40%",
+          "60%"
+        ],
+        "Total shots": [
+          "15",
+          "10"
+        ],
+        "Shots on target": [
+          "9",
+          "6"
+        ],
+        "Corner kicks": [
+          "4",
+          "8"
+        ],
+        "Yellow cards": [
+          "3",
+          "3"
+        ],
+        "Red cards": [
+          "1",
+          "0"
+        ],
+        "Shots off target": [
+          "4",
+          "2"
+        ],
+        "Blocked shots": [
+          "2",
+          "2"
+        ],
+        "Offsides": [
+          "2",
+          "7"
+        ],
+        "Free kicks": [
+          "24",
+          "12"
+        ],
+        "Throw ins": [
+          "19",
+          "18"
+        ],
+        "Fouls": [
+          "11",
+          "16"
+        ],
+        "Goalkeeper saves": [
+          "5",
+          "7"
+        ]
+      }
+    },
+    {
+      "id": "fH8YcFTi",
+      "date": "2025-07-27T19:00:00.000Z",
+      "round": "Round 2",
+      "homeTeam": "Arda Kardzhali",
+      "awayTeam": "Lokomotiv 1929 Sofia",
+      "homeScore": 1,
+      "awayScore": 1,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "59%",
+          "41%"
+        ],
+        "Total shots": [
+          "13",
+          "5"
+        ],
+        "Shots on target": [
+          "8",
+          "2"
+        ],
+        "Corner kicks": [
+          "3",
+          "1"
+        ],
+        "Yellow cards": [
+          "3",
+          "5"
+        ],
+        "Red cards": [
+          "0",
+          "1"
+        ],
+        "Shots off target": [
+          "3",
+          "3"
+        ],
+        "Blocked shots": [
+          "2",
+          "0"
+        ],
+        "Offsides": [
+          "2",
+          "0"
+        ],
+        "Free kicks": [
+          "16",
+          "10"
+        ],
+        "Throw ins": [
+          "21",
+          "13"
+        ],
+        "Fouls": [
+          "7",
+          "19"
+        ],
+        "Goalkeeper saves": [
+          "1",
+          "7"
+        ]
+      }
+    },
+    {
+      "id": "21zO8WsA",
+      "date": "2025-07-27T18:15:00.000Z",
+      "round": "Round 2",
+      "homeTeam": "Septemvri Sofia",
+      "awayTeam": "Levski Sofia",
+      "homeScore": 1,
+      "awayScore": 2,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "38%",
+          "62%"
+        ],
+        "Total shots": [
+          "8",
+          "14"
+        ],
+        "Shots on target": [
+          "3",
+          "5"
+        ],
+        "Corner kicks": [
+          "4",
+          "3"
+        ],
+        "Yellow cards": [
+          "2",
+          "3"
+        ],
+        "Shots off target": [
+          "3",
+          "9"
+        ],
+        "Blocked shots": [
+          "2",
+          "0"
+        ],
+        "Offsides": [
+          "0",
+          "0"
+        ],
+        "Free kicks": [
+          "15",
+          "7"
+        ],
+        "Throw ins": [
+          "20",
+          "28"
+        ],
+        "Fouls": [
+          "7",
+          "14"
+        ],
+        "Goalkeeper saves": [
+          "3",
+          "2"
+        ]
+      }
+    },
+    {
+      "id": "faF21lzp",
+      "date": "2025-07-27T16:45:00.000Z",
+      "round": "Round 2",
+      "homeTeam": "Cherno More Varna",
+      "awayTeam": "Botev Plovdiv",
+      "homeScore": 2,
+      "awayScore": 1,
+      "htHome": 2,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Expected goals (xG)": [
+          "0.00",
+          "0.00"
+        ],
+        "Ball possession": [
+          "52%",
+          "48%"
+        ],
+        "Total shots": [
+          "16",
+          "9"
+        ],
+        "Shots on target": [
+          "6",
+          "3"
+        ],
+        "Corner kicks": [
+          "7",
+          "3"
+        ],
+        "Yellow cards": [
+          "1",
+          "2"
+        ],
+        "Shots off target": [
+          "5",
+          "5"
+        ],
+        "Blocked shots": [
+          "5",
+          "1"
+        ],
+        "Offsides": [
+          "1",
+          "3"
+        ],
+        "Free kicks": [
+          "21",
+          "11"
+        ],
+        "Throw ins": [
+          "16",
+          "24"
+        ],
+        "Fouls": [
+          "9",
+          "16"
+        ],
+        "Goalkeeper saves": [
+          "2",
+          "4"
+        ]
+      }
+    },
+    {
+      "id": "pQ3chBcT",
+      "date": "2025-07-26T18:15:00.000Z",
+      "round": "Round 2",
+      "homeTeam": "CSKA Sofia",
+      "awayTeam": "Spartak Varna",
+      "homeScore": 1,
+      "awayScore": 1,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "75%",
+          "25%"
+        ],
+        "Total shots": [
+          "22",
+          "5"
+        ],
+        "Shots on target": [
+          "6",
+          "3"
+        ],
+        "Corner kicks": [
+          "11",
+          "1"
+        ],
+        "Yellow cards": [
+          "0",
+          "2"
+        ],
+        "Shots off target": [
+          "9",
+          "2"
+        ],
+        "Blocked shots": [
+          "7",
+          "0"
+        ],
+        "Offsides": [
+          "0",
+          "0"
+        ],
+        "Free kicks": [
+          "12",
+          "8"
+        ],
+        "Throw ins": [
+          "29",
+          "18"
+        ],
+        "Fouls": [
+          "8",
+          "12"
+        ],
+        "Goalkeeper saves": [
+          "2",
+          "5"
+        ]
+      }
+    },
+    {
+      "id": "GWdsdgb4",
+      "date": "2025-07-26T16:00:00.000Z",
+      "round": "Round 2",
+      "homeTeam": "Beroe",
+      "awayTeam": "CSKA 1948 Sofia",
+      "homeScore": 1,
+      "awayScore": 1,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "41%",
+          "59%"
+        ],
+        "Total shots": [
+          "9",
+          "30"
+        ],
+        "Shots on target": [
+          "2",
+          "8"
+        ],
+        "Corner kicks": [
+          "3",
+          "8"
+        ],
+        "Yellow cards": [
+          "3",
+          "2"
+        ],
+        "Red cards": [
+          "1",
+          "0"
+        ],
+        "Shots off target": [
+          "3",
+          "6"
+        ],
+        "Blocked shots": [
+          "4",
+          "16"
+        ],
+        "Offsides": [
+          "2",
+          "2"
+        ],
+        "Free kicks": [
+          "13",
+          "11"
+        ],
+        "Throw ins": [
+          "25",
+          "16"
+        ],
+        "Fouls": [
+          "9",
+          "11"
+        ],
+        "Goalkeeper saves": [
+          "7",
+          "1"
+        ]
+      }
+    },
+    {
+      "id": "lbAlfXSG",
+      "date": "2025-07-25T17:30:00.000Z",
+      "round": "Round 2",
+      "homeTeam": "Botev Vratsa",
+      "awayTeam": "Ludogorets Razgrad",
+      "homeScore": 0,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "26%",
+          "74%"
+        ],
+        "Total shots": [
+          "6",
+          "15"
+        ],
+        "Shots on target": [
+          "1",
+          "5"
+        ],
+        "Corner kicks": [
+          "0",
+          "9"
+        ],
+        "Yellow cards": [
+          "6",
+          "4"
+        ],
+        "Shots off target": [
+          "4",
+          "5"
+        ],
+        "Blocked shots": [
+          "1",
+          "5"
+        ],
+        "Offsides": [
+          "1",
+          "0"
+        ],
+        "Free kicks": [
+          "9",
+          "16"
+        ],
+        "Throw ins": [
+          "15",
+          "26"
+        ],
+        "Fouls": [
+          "15",
+          "10"
+        ],
+        "Goalkeeper saves": [
+          "4",
+          "1"
+        ]
+      }
+    },
+    {
+      "id": "84tyO8nL",
+      "date": "2025-07-21T18:15:00.000Z",
+      "round": "Round 1",
+      "homeTeam": "Spartak Varna",
+      "awayTeam": "Beroe",
+      "homeScore": 0,
+      "awayScore": 0,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "44%",
+          "56%"
+        ],
+        "Total shots": [
+          "10",
+          "17"
+        ],
+        "Shots on target": [
+          "2",
+          "6"
+        ],
+        "Corner kicks": [
+          "2",
+          "5"
+        ],
+        "Yellow cards": [
+          "1",
+          "2"
+        ],
+        "Shots off target": [
+          "4",
+          "9"
+        ],
+        "Blocked shots": [
+          "4",
+          "2"
+        ],
+        "Offsides": [
+          "0",
+          "0"
+        ],
+        "Free kicks": [
+          "9",
+          "15"
+        ],
+        "Throw ins": [
+          "22",
+          "26"
+        ],
+        "Fouls": [
+          "16",
+          "9"
+        ],
+        "Goalkeeper saves": [
+          "6",
+          "2"
+        ]
+      }
+    },
+    {
+      "id": "02LFGQve",
+      "date": "2025-07-21T16:00:00.000Z",
+      "round": "Round 1",
+      "homeTeam": "Lokomotiv Plovdiv",
+      "awayTeam": "PFC Dobrudzha Dobrich",
+      "homeScore": 1,
+      "awayScore": 0,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "58%",
+          "42%"
+        ],
+        "Total shots": [
+          "11",
+          "4"
+        ],
+        "Shots on target": [
+          "4",
+          "2"
+        ],
+        "Corner kicks": [
+          "6",
+          "3"
+        ],
+        "Yellow cards": [
+          "3",
+          "1"
+        ],
+        "Shots off target": [
+          "6",
+          "1"
+        ],
+        "Blocked shots": [
+          "1",
+          "1"
+        ],
+        "Offsides": [
+          "2",
+          "0"
+        ],
+        "Free kicks": [
+          "15",
+          "12"
+        ],
+        "Throw ins": [
+          "0",
+          "18"
+        ],
+        "Fouls": [
+          "10",
+          "14"
+        ],
+        "Goalkeeper saves": [
+          "2",
+          "3"
+        ]
+      }
+    },
+    {
+      "id": "vmX6InAr",
+      "date": "2025-07-20T18:15:00.000Z",
+      "round": "Round 1",
+      "homeTeam": "Levski Sofia",
+      "awayTeam": "Montana",
+      "homeScore": 5,
+      "awayScore": 0,
+      "htHome": 2,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "70%",
+          "30%"
+        ],
+        "Total shots": [
+          "19",
+          "6"
+        ],
+        "Shots on target": [
+          "9",
+          "2"
+        ],
+        "Corner kicks": [
+          "4",
+          "2"
+        ],
+        "Yellow cards": [
+          "1",
+          "2"
+        ],
+        "Shots off target": [
+          "5",
+          "0"
+        ],
+        "Blocked shots": [
+          "5",
+          "4"
+        ],
+        "Offsides": [
+          "2",
+          "1"
+        ],
+        "Free kicks": [
+          "18",
+          "17"
+        ],
+        "Throw ins": [
+          "31",
+          "8"
+        ],
+        "Fouls": [
+          "15",
+          "15"
+        ],
+        "Goalkeeper saves": [
+          "2",
+          "4"
+        ]
+      }
+    },
+    {
+      "id": "zu0IznWQ",
+      "date": "2025-07-20T16:00:00.000Z",
+      "round": "Round 1",
+      "homeTeam": "Slavia Sofia",
+      "awayTeam": "Botev Vratsa",
+      "homeScore": 2,
+      "awayScore": 2,
+      "htHome": 0,
+      "htAway": 2,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "56%",
+          "44%"
+        ],
+        "Total shots": [
+          "16",
+          "7"
+        ],
+        "Shots on target": [
+          "4",
+          "4"
+        ],
+        "Corner kicks": [
+          "3",
+          "8"
+        ],
+        "Yellow cards": [
+          "4",
+          "4"
+        ],
+        "Red cards": [
+          "1",
+          "1"
+        ],
+        "Shots off target": [
+          "7",
+          "3"
+        ],
+        "Blocked shots": [
+          "5",
+          "0"
+        ],
+        "Offsides": [
+          "0",
+          "1"
+        ],
+        "Free kicks": [
+          "11",
+          "11"
+        ],
+        "Throw ins": [
+          "27",
+          "22"
+        ],
+        "Fouls": [
+          "12",
+          "12"
+        ],
+        "Goalkeeper saves": [
+          "2",
+          "2"
+        ]
+      }
+    },
+    {
+      "id": "Kr0t2RP1",
+      "date": "2025-07-19T19:00:00.000Z",
+      "round": "Round 1",
+      "homeTeam": "Botev Plovdiv",
+      "awayTeam": "CSKA Sofia",
+      "homeScore": 1,
+      "awayScore": 1,
+      "htHome": 1,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "31%",
+          "69%"
+        ],
+        "Total shots": [
+          "6",
+          "13"
+        ],
+        "Shots on target": [
+          "2",
+          "4"
+        ],
+        "Corner kicks": [
+          "1",
+          "4"
+        ],
+        "Yellow cards": [
+          "2",
+          "3"
+        ],
+        "Shots off target": [
+          "3",
+          "5"
+        ],
+        "Blocked shots": [
+          "1",
+          "4"
+        ],
+        "Offsides": [
+          "2",
+          "0"
+        ],
+        "Free kicks": [
+          "14",
+          "15"
+        ],
+        "Throw ins": [
+          "9",
+          "10"
+        ],
+        "Fouls": [
+          "13",
+          "14"
+        ],
+        "Goalkeeper saves": [
+          "3",
+          "1"
+        ]
+      }
+    },
+    {
+      "id": "2R1Ax81E",
+      "date": "2025-07-19T17:00:00.000Z",
+      "round": "Round 1",
+      "homeTeam": "Ludogorets Razgrad",
+      "awayTeam": "Septemvri Sofia",
+      "homeScore": 5,
+      "awayScore": 0,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "63%",
+          "37%"
+        ],
+        "Total shots": [
+          "15",
+          "5"
+        ],
+        "Shots on target": [
+          "11",
+          "1"
+        ],
+        "Corner kicks": [
+          "5",
+          "0"
+        ],
+        "Yellow cards": [
+          "1",
+          "1"
+        ],
+        "Shots off target": [
+          "2",
+          "3"
+        ],
+        "Blocked shots": [
+          "2",
+          "1"
+        ],
+        "Offsides": [
+          "1",
+          "2"
+        ],
+        "Free kicks": [
+          "7",
+          "12"
+        ],
+        "Throw ins": [
+          "17",
+          "21"
+        ],
+        "Fouls": [
+          "11",
+          "5"
+        ],
+        "Goalkeeper saves": [
+          "1",
+          "6"
+        ]
+      }
+    },
+    {
+      "id": "nJJNE497",
+      "date": "2025-07-18T18:15:00.000Z",
+      "round": "Round 1",
+      "homeTeam": "Lokomotiv 1929 Sofia",
+      "awayTeam": "Cherno More Varna",
+      "homeScore": 1,
+      "awayScore": 1,
+      "htHome": 1,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "41%",
+          "59%"
+        ],
+        "Total shots": [
+          "12",
+          "15"
+        ],
+        "Shots on target": [
+          "6",
+          "7"
+        ],
+        "Corner kicks": [
+          "7",
+          "3"
+        ],
+        "Yellow cards": [
+          "0",
+          "1"
+        ],
+        "Shots off target": [
+          "3",
+          "4"
+        ],
+        "Blocked shots": [
+          "3",
+          "4"
+        ],
+        "Offsides": [
+          "2",
+          "1"
+        ],
+        "Free kicks": [
+          "9",
+          "15"
+        ],
+        "Throw ins": [
+          "23",
+          "24"
+        ],
+        "Fouls": [
+          "12",
+          "8"
+        ],
+        "Goalkeeper saves": [
+          "6",
+          "5"
+        ]
+      }
+    },
+    {
+      "id": "CxmSPUH8",
+      "date": "2025-07-18T16:00:00.000Z",
+      "round": "Round 1",
+      "homeTeam": "CSKA 1948 Sofia",
+      "awayTeam": "Arda Kardzhali",
+      "homeScore": 1,
+      "awayScore": 0,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "53%",
+          "47%"
+        ],
+        "Total shots": [
+          "11",
+          "9"
+        ],
+        "Shots on target": [
+          "2",
+          "3"
+        ],
+        "Corner kicks": [
+          "3",
+          "2"
+        ],
+        "Yellow cards": [
+          "2",
+          "3"
+        ],
+        "Red cards": [
+          "0",
+          "1"
+        ],
+        "Shots off target": [
+          "6",
+          "5"
+        ],
+        "Blocked shots": [
+          "3",
+          "1"
+        ],
+        "Offsides": [
+          "0",
+          "4"
+        ],
+        "Free kicks": [
+          "14",
+          "15"
+        ],
+        "Throw ins": [
+          "21",
+          "28"
+        ],
+        "Fouls": [
+          "15",
+          "8"
+        ],
+        "Goalkeeper saves": [
+          "3",
+          "1"
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,3092 @@
+{
+  "league": "Segunda RFEF - Group 3",
+  "country": "spain",
+  "season": "2025-2026",
+  "collectedAt": "2026-02-09T23:49:45.621Z",
+  "totalMatches": 214,
+  "matches": [
+    {
+      "id": "0xIj19Qr",
+      "date": "2026-02-08T17:00:00.000Z",
+      "round": "Round 22",
+      "homeTeam": "Barcelona B",
+      "awayTeam": "UD Barbastro",
+      "homeScore": 0,
+      "awayScore": 0,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "d4Baamee",
+      "date": "2026-02-08T17:00:00.000Z",
+      "round": "Round 22",
+      "homeTeam": "UE Sant Andreu",
+      "awayTeam": "Girona B",
+      "homeScore": 2,
+      "awayScore": 1,
+      "htHome": 2,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "zmOR7NxH",
+      "date": "2026-02-08T11:30:00.000Z",
+      "round": "Round 22",
+      "homeTeam": "Atletic Lleida",
+      "awayTeam": "UE Olot",
+      "homeScore": 0,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "46WK6V2L",
+      "date": "2026-02-08T11:00:00.000Z",
+      "round": "Round 22",
+      "homeTeam": "CE Andratx",
+      "awayTeam": "Torrent C.F.",
+      "homeScore": 1,
+      "awayScore": 0,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Yellow cards": [
+          "0",
+          "1"
+        ],
+        "Red cards": [
+          "0",
+          "1"
+        ]
+      }
+    },
+    {
+      "id": "A7wC8iY8",
+      "date": "2026-02-08T11:00:00.000Z",
+      "round": "Round 22",
+      "homeTeam": "Atletico Baleares",
+      "awayTeam": "Valencia B",
+      "homeScore": 1,
+      "awayScore": 0,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "UFER2M1m",
+      "date": "2026-02-08T11:00:00.000Z",
+      "round": "Round 22",
+      "homeTeam": "Poblense",
+      "awayTeam": "Alcoyano",
+      "homeScore": 0,
+      "awayScore": 0,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "4UE7cRP7",
+      "date": "2026-02-08T11:00:00.000Z",
+      "round": "Round 22",
+      "homeTeam": "Reus FC Reddis",
+      "awayTeam": "UE Porreres",
+      "homeScore": 2,
+      "awayScore": 0,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "pQifLUHE",
+      "date": "2026-02-08T10:30:00.000Z",
+      "round": "Round 22",
+      "homeTeam": "Ibiza Islas Pitiusas",
+      "awayTeam": "Castellon B",
+      "homeScore": 3,
+      "awayScore": 1,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "r1oQplt2",
+      "date": "2026-02-07T17:00:00.000Z",
+      "round": "Round 22",
+      "homeTeam": "Espanyol B",
+      "awayTeam": "Terrassa",
+      "homeScore": 1,
+      "awayScore": 1,
+      "htHome": 1,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "27Jfqy5c",
+      "date": "2026-02-01T17:00:00.000Z",
+      "round": "Round 21",
+      "homeTeam": "UE Olot",
+      "awayTeam": "UE Sant Andreu",
+      "homeScore": 2,
+      "awayScore": 2,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "l4irzXRq",
+      "date": "2026-02-01T17:00:00.000Z",
+      "round": "Round 21",
+      "homeTeam": "Terrassa",
+      "awayTeam": "Barcelona B",
+      "homeScore": 0,
+      "awayScore": 2,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Red cards": [
+          "1",
+          "0"
+        ]
+      }
+    },
+    {
+      "id": "bZC3sFZ9",
+      "date": "2026-02-01T16:00:00.000Z",
+      "round": "Round 21",
+      "homeTeam": "Girona B",
+      "awayTeam": "Reus FC Reddis",
+      "homeScore": 1,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "dUfjYAdd",
+      "date": "2026-02-01T11:00:00.000Z",
+      "round": "Round 21",
+      "homeTeam": "Castellon B",
+      "awayTeam": "Atletico Baleares",
+      "homeScore": 2,
+      "awayScore": 1,
+      "htHome": 1,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "CxwwdEl3",
+      "date": "2026-02-01T11:00:00.000Z",
+      "round": "Round 21",
+      "homeTeam": "Espanyol B",
+      "awayTeam": "CE Andratx",
+      "homeScore": 2,
+      "awayScore": 1,
+      "htHome": 2,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "pjyofhJF",
+      "date": "2026-02-01T11:00:00.000Z",
+      "round": "Round 21",
+      "homeTeam": "UE Porreres",
+      "awayTeam": "Ibiza Islas Pitiusas",
+      "homeScore": 1,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "UkLJ9q84",
+      "date": "2026-02-01T11:00:00.000Z",
+      "round": "Round 21",
+      "homeTeam": "Torrent C.F.",
+      "awayTeam": "Atletic Lleida",
+      "homeScore": 0,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "ADW8LXCj",
+      "date": "2026-02-01T10:30:00.000Z",
+      "round": "Round 21",
+      "homeTeam": "UD Barbastro",
+      "awayTeam": "Poblense",
+      "homeScore": 0,
+      "awayScore": 2,
+      "htHome": 0,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "j36ohWmS",
+      "date": "2026-01-31T15:00:00.000Z",
+      "round": "Round 21",
+      "homeTeam": "Valencia B",
+      "awayTeam": "Alcoyano",
+      "homeScore": 1,
+      "awayScore": 0,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Yellow cards": [
+          "1",
+          "0"
+        ],
+        "Red cards": [
+          "1",
+          "0"
+        ]
+      }
+    },
+    {
+      "id": "KOHQ8fTp",
+      "date": "2026-01-25T16:00:00.000Z",
+      "round": "Round 20",
+      "homeTeam": "Alcoyano",
+      "awayTeam": "UE Olot",
+      "homeScore": 0,
+      "awayScore": 2,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Red cards": [
+          "1",
+          "0"
+        ]
+      }
+    },
+    {
+      "id": "jTkxRgkT",
+      "date": "2026-01-25T16:00:00.000Z",
+      "round": "Round 20",
+      "homeTeam": "Reus FC Reddis",
+      "awayTeam": "Castellon B",
+      "homeScore": 2,
+      "awayScore": 3,
+      "htHome": 1,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "lxegR2qC",
+      "date": "2026-01-25T11:00:00.000Z",
+      "round": "Round 20",
+      "homeTeam": "CE Andratx",
+      "awayTeam": "Girona B",
+      "homeScore": 0,
+      "awayScore": 3,
+      "htHome": 0,
+      "htAway": 2,
+      "status": "FINISHED",
+      "stats": {
+        "Yellow cards": [
+          "1",
+          "0"
+        ],
+        "Red cards": [
+          "1",
+          "0"
+        ]
+      }
+    },
+    {
+      "id": "YNRAB5wh",
+      "date": "2026-01-25T11:00:00.000Z",
+      "round": "Round 20",
+      "homeTeam": "Atletic Lleida",
+      "awayTeam": "UE Porreres",
+      "homeScore": 2,
+      "awayScore": 0,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "8SnoTOEa",
+      "date": "2026-01-25T11:00:00.000Z",
+      "round": "Round 20",
+      "homeTeam": "Atletico Baleares",
+      "awayTeam": "Torrent C.F.",
+      "homeScore": 5,
+      "awayScore": 1,
+      "htHome": 2,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "02qwVppm",
+      "date": "2026-01-25T11:00:00.000Z",
+      "round": "Round 20",
+      "homeTeam": "UE Sant Andreu",
+      "awayTeam": "Terrassa",
+      "homeScore": 1,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Yellow cards": [
+          "1",
+          "0"
+        ],
+        "Red cards": [
+          "1",
+          "0"
+        ]
+      }
+    },
+    {
+      "id": "zXaDWcLi",
+      "date": "2026-01-25T11:00:00.000Z",
+      "round": "Round 20",
+      "homeTeam": "Valencia B",
+      "awayTeam": "UD Barbastro",
+      "homeScore": 1,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "rc3LUyj4",
+      "date": "2026-01-25T10:30:00.000Z",
+      "round": "Round 20",
+      "homeTeam": "Ibiza Islas Pitiusas",
+      "awayTeam": "Espanyol B",
+      "homeScore": 0,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "4CiUSFKG",
+      "date": "2026-01-24T16:00:00.000Z",
+      "round": "Round 20",
+      "homeTeam": "Poblense",
+      "awayTeam": "Barcelona B",
+      "homeScore": 1,
+      "awayScore": 0,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "pAeVJaKl",
+      "date": "2026-01-18T15:15:00.000Z",
+      "round": "Round 19",
+      "homeTeam": "Espanyol B",
+      "awayTeam": "Reus FC Reddis",
+      "homeScore": 2,
+      "awayScore": 0,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "lOFKC3UI",
+      "date": "2026-01-18T11:00:00.000Z",
+      "round": "Round 19",
+      "homeTeam": "UD Barbastro",
+      "awayTeam": "Alcoyano",
+      "homeScore": 0,
+      "awayScore": 0,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "0t82I70s",
+      "date": "2026-01-18T11:00:00.000Z",
+      "round": "Round 19",
+      "homeTeam": "Girona B",
+      "awayTeam": "Atletico Baleares",
+      "homeScore": 1,
+      "awayScore": 1,
+      "htHome": 1,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "lvAaPLdR",
+      "date": "2026-01-18T11:00:00.000Z",
+      "round": "Round 19",
+      "homeTeam": "UE Olot",
+      "awayTeam": "Poblense",
+      "homeScore": 1,
+      "awayScore": 0,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "txkvIwk1",
+      "date": "2026-01-18T11:00:00.000Z",
+      "round": "Round 19",
+      "homeTeam": "UE Porreres",
+      "awayTeam": "Valencia B",
+      "homeScore": 1,
+      "awayScore": 1,
+      "htHome": 1,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Red cards": [
+          "2",
+          "0"
+        ]
+      }
+    },
+    {
+      "id": "ULaJEPa6",
+      "date": "2026-01-18T11:00:00.000Z",
+      "round": "Round 19",
+      "homeTeam": "Terrassa",
+      "awayTeam": "Ibiza Islas Pitiusas",
+      "homeScore": 1,
+      "awayScore": 1,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "UcHWNTxK",
+      "date": "2026-01-18T11:00:00.000Z",
+      "round": "Round 19",
+      "homeTeam": "Torrent C.F.",
+      "awayTeam": "UE Sant Andreu",
+      "homeScore": 1,
+      "awayScore": 2,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Yellow cards": [
+          "0",
+          "1"
+        ],
+        "Red cards": [
+          "1",
+          "2"
+        ]
+      }
+    },
+    {
+      "id": "d81BGoVg",
+      "date": "2026-01-17T17:15:00.000Z",
+      "round": "Round 19",
+      "homeTeam": "Barcelona B",
+      "awayTeam": "CE Andratx",
+      "homeScore": 4,
+      "awayScore": 0,
+      "htHome": 2,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "tUvPm2oo",
+      "date": "2026-01-17T15:00:00.000Z",
+      "round": "Round 19",
+      "homeTeam": "Castellon B",
+      "awayTeam": "Atletic Lleida",
+      "homeScore": 2,
+      "awayScore": 2,
+      "htHome": 0,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Yellow cards": [
+          "0",
+          "1"
+        ],
+        "Red cards": [
+          "0",
+          "1"
+        ]
+      }
+    },
+    {
+      "id": "nTMj6A1C",
+      "date": "2026-01-11T17:00:00.000Z",
+      "round": "Round 18",
+      "homeTeam": "Atletic Lleida",
+      "awayTeam": "Espanyol B",
+      "homeScore": 1,
+      "awayScore": 1,
+      "htHome": 1,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "Qo0Nj1j2",
+      "date": "2026-01-11T16:00:00.000Z",
+      "round": "Round 18",
+      "homeTeam": "Alcoyano",
+      "awayTeam": "Castellon B",
+      "homeScore": 0,
+      "awayScore": 0,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "vkQd505e",
+      "date": "2026-01-11T16:00:00.000Z",
+      "round": "Round 18",
+      "homeTeam": "Reus FC Reddis",
+      "awayTeam": "Barcelona B",
+      "homeScore": 4,
+      "awayScore": 1,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Yellow cards": [
+          "0",
+          "1"
+        ],
+        "Red cards": [
+          "0",
+          "1"
+        ]
+      }
+    },
+    {
+      "id": "bXqsBVyH",
+      "date": "2026-01-11T11:00:00.000Z",
+      "round": "Round 18",
+      "homeTeam": "CE Andratx",
+      "awayTeam": "Terrassa",
+      "homeScore": 0,
+      "awayScore": 2,
+      "htHome": 0,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "vRsAE4r9",
+      "date": "2026-01-11T11:00:00.000Z",
+      "round": "Round 18",
+      "homeTeam": "Atletico Baleares",
+      "awayTeam": "UD Barbastro",
+      "homeScore": 1,
+      "awayScore": 0,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "CvtICrDL",
+      "date": "2026-01-11T11:00:00.000Z",
+      "round": "Round 18",
+      "homeTeam": "Poblense",
+      "awayTeam": "Girona B",
+      "homeScore": 1,
+      "awayScore": 0,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Red cards": [
+          "1",
+          "0"
+        ]
+      }
+    },
+    {
+      "id": "04E53vz8",
+      "date": "2026-01-11T11:00:00.000Z",
+      "round": "Round 18",
+      "homeTeam": "UE Sant Andreu",
+      "awayTeam": "UE Porreres",
+      "homeScore": 1,
+      "awayScore": 0,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "ILdFhNLk",
+      "date": "2026-01-11T11:00:00.000Z",
+      "round": "Round 18",
+      "homeTeam": "Ibiza Islas Pitiusas",
+      "awayTeam": "UE Olot",
+      "homeScore": 2,
+      "awayScore": 1,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "hCGjRsSE",
+      "date": "2026-01-11T11:00:00.000Z",
+      "round": "Round 18",
+      "homeTeam": "Valencia B",
+      "awayTeam": "Torrent C.F.",
+      "homeScore": 2,
+      "awayScore": 1,
+      "htHome": 2,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "l6EXKo4k",
+      "date": "2026-01-07T17:00:00.000Z",
+      "round": "Round 15",
+      "homeTeam": "Barcelona B",
+      "awayTeam": "Valencia B",
+      "homeScore": 2,
+      "awayScore": 2,
+      "htHome": 2,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "WSC0OKAs",
+      "date": "2026-01-07T16:00:00.000Z",
+      "round": "Round 15",
+      "homeTeam": "Torrent C.F.",
+      "awayTeam": "Poblense",
+      "homeScore": 1,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "E19q8WWa",
+      "date": "2026-01-04T18:00:00.000Z",
+      "round": "Round 17",
+      "homeTeam": "Atletic Lleida",
+      "awayTeam": "Reus FC Reddis",
+      "homeScore": 1,
+      "awayScore": 2,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "bwmi2zgn",
+      "date": "2026-01-04T15:45:00.000Z",
+      "round": "Round 17",
+      "homeTeam": "Terrassa",
+      "awayTeam": "Valencia B",
+      "homeScore": 2,
+      "awayScore": 0,
+      "htHome": 2,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "naJYqgwI",
+      "date": "2026-01-04T11:00:00.000Z",
+      "round": "Round 17",
+      "homeTeam": "UD Barbastro",
+      "awayTeam": "UE Sant Andreu",
+      "homeScore": 1,
+      "awayScore": 2,
+      "htHome": 0,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "jo5b0ENb",
+      "date": "2026-01-04T11:00:00.000Z",
+      "round": "Round 17",
+      "homeTeam": "Barcelona B",
+      "awayTeam": "Ibiza Islas Pitiusas",
+      "homeScore": 4,
+      "awayScore": 0,
+      "htHome": 2,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "vBwniApo",
+      "date": "2026-01-04T11:00:00.000Z",
+      "round": "Round 17",
+      "homeTeam": "Castellon B",
+      "awayTeam": "CE Andratx",
+      "homeScore": 1,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "C0g7bhhB",
+      "date": "2026-01-04T11:00:00.000Z",
+      "round": "Round 17",
+      "homeTeam": "Girona B",
+      "awayTeam": "Espanyol B",
+      "homeScore": 0,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "KQdFdWMN",
+      "date": "2026-01-04T11:00:00.000Z",
+      "round": "Round 17",
+      "homeTeam": "UE Olot",
+      "awayTeam": "Atletico Baleares",
+      "homeScore": 1,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Yellow cards": [
+          "0",
+          "1"
+        ],
+        "Red cards": [
+          "0",
+          "1"
+        ]
+      }
+    },
+    {
+      "id": "W4QXEDxh",
+      "date": "2026-01-04T11:00:00.000Z",
+      "round": "Round 17",
+      "homeTeam": "UE Porreres",
+      "awayTeam": "Poblense",
+      "homeScore": 0,
+      "awayScore": 3,
+      "htHome": 0,
+      "htAway": 2,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "j7tZCi74",
+      "date": "2026-01-03T16:00:00.000Z",
+      "round": "Round 17",
+      "homeTeam": "Torrent C.F.",
+      "awayTeam": "Alcoyano",
+      "homeScore": 0,
+      "awayScore": 0,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "r1w9kc9t",
+      "date": "2025-12-21T16:00:00.000Z",
+      "round": "Round 16",
+      "homeTeam": "Alcoyano",
+      "awayTeam": "Girona B",
+      "homeScore": 2,
+      "awayScore": 0,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "jXPPoF85",
+      "date": "2025-12-21T16:00:00.000Z",
+      "round": "Round 16",
+      "homeTeam": "UE Sant Andreu",
+      "awayTeam": "Castellon B",
+      "homeScore": 3,
+      "awayScore": 0,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "UcDZzbfm",
+      "date": "2025-12-21T11:00:00.000Z",
+      "round": "Round 16",
+      "homeTeam": "Atletico Baleares",
+      "awayTeam": "Barcelona B",
+      "homeScore": 4,
+      "awayScore": 4,
+      "htHome": 3,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "bFM3tKWP",
+      "date": "2025-12-21T11:00:00.000Z",
+      "round": "Round 16",
+      "homeTeam": "Espanyol B",
+      "awayTeam": "UE Porreres",
+      "homeScore": 0,
+      "awayScore": 0,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Yellow cards": [
+          "1",
+          "0"
+        ],
+        "Red cards": [
+          "1",
+          "0"
+        ]
+      }
+    },
+    {
+      "id": "hnLzAh2m",
+      "date": "2025-12-21T11:00:00.000Z",
+      "round": "Round 16",
+      "homeTeam": "Ibiza Islas Pitiusas",
+      "awayTeam": "Atletic Lleida",
+      "homeScore": 1,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "IJqHIGvJ",
+      "date": "2025-12-20T18:00:00.000Z",
+      "round": "Round 16",
+      "homeTeam": "Reus FC Reddis",
+      "awayTeam": "Torrent C.F.",
+      "homeScore": 4,
+      "awayScore": 2,
+      "htHome": 1,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "Od6rZyPa",
+      "date": "2025-12-20T17:00:00.000Z",
+      "round": "Round 16",
+      "homeTeam": "CE Andratx",
+      "awayTeam": "UD Barbastro",
+      "homeScore": 1,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "hxbaVgOO",
+      "date": "2025-12-20T16:00:00.000Z",
+      "round": "Round 16",
+      "homeTeam": "Poblense",
+      "awayTeam": "Terrassa",
+      "homeScore": 1,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "4GRHmyvg",
+      "date": "2025-12-20T11:00:00.000Z",
+      "round": "Round 16",
+      "homeTeam": "Valencia B",
+      "awayTeam": "UE Olot",
+      "homeScore": 3,
+      "awayScore": 2,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "4tB8Mbuf",
+      "date": "2025-12-14T16:00:00.000Z",
+      "round": "Round 15",
+      "homeTeam": "Girona B",
+      "awayTeam": "Castellon B",
+      "homeScore": 7,
+      "awayScore": 3,
+      "htHome": 6,
+      "htAway": 2,
+      "status": "FINISHED",
+      "stats": {
+        "Red cards": [
+          "0",
+          "1"
+        ]
+      }
+    },
+    {
+      "id": "KjO1Q7tS",
+      "date": "2025-12-14T16:00:00.000Z",
+      "round": "Round 15",
+      "homeTeam": "UE Olot",
+      "awayTeam": "Reus FC Reddis",
+      "homeScore": 0,
+      "awayScore": 0,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "jBWpUks3",
+      "date": "2025-12-14T11:00:00.000Z",
+      "round": "Round 15",
+      "homeTeam": "UD Barbastro",
+      "awayTeam": "Ibiza Islas Pitiusas",
+      "homeScore": 1,
+      "awayScore": 2,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "xSfStTQ8",
+      "date": "2025-12-14T11:00:00.000Z",
+      "round": "Round 15",
+      "homeTeam": "UE Porreres",
+      "awayTeam": "CE Andratx",
+      "homeScore": 2,
+      "awayScore": 0,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "AL2tJPY1",
+      "date": "2025-12-14T11:00:00.000Z",
+      "round": "Round 15",
+      "homeTeam": "Terrassa",
+      "awayTeam": "Atletico Baleares",
+      "homeScore": 3,
+      "awayScore": 1,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "M3U4FEvQ",
+      "date": "2025-12-13T17:10:00.000Z",
+      "round": "Round 15",
+      "homeTeam": "Atletic Lleida",
+      "awayTeam": "UE Sant Andreu",
+      "homeScore": 1,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "Agt9KxA6",
+      "date": "2025-12-13T16:00:00.000Z",
+      "round": "Round 15",
+      "homeTeam": "Espanyol B",
+      "awayTeam": "Alcoyano",
+      "homeScore": 1,
+      "awayScore": 2,
+      "htHome": 1,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "z3lb6nkd",
+      "date": "2025-12-07T17:00:00.000Z",
+      "round": "Round 14",
+      "homeTeam": "UE Sant Andreu",
+      "awayTeam": "Espanyol B",
+      "homeScore": 2,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "zLsU2Dr4",
+      "date": "2025-12-07T16:00:00.000Z",
+      "round": "Round 14",
+      "homeTeam": "Reus FC Reddis",
+      "awayTeam": "Terrassa",
+      "homeScore": 3,
+      "awayScore": 0,
+      "htHome": 2,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "40ZpaVsT",
+      "date": "2025-12-07T11:00:00.000Z",
+      "round": "Round 14",
+      "homeTeam": "CE Andratx",
+      "awayTeam": "UE Olot",
+      "homeScore": 2,
+      "awayScore": 0,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "dzWx1iDG",
+      "date": "2025-12-07T11:00:00.000Z",
+      "round": "Round 14",
+      "homeTeam": "Atletico Baleares",
+      "awayTeam": "UE Porreres",
+      "homeScore": 1,
+      "awayScore": 0,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "8SUGg95j",
+      "date": "2025-12-07T11:00:00.000Z",
+      "round": "Round 14",
+      "homeTeam": "Ibiza Islas Pitiusas",
+      "awayTeam": "Torrent C.F.",
+      "homeScore": 1,
+      "awayScore": 0,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "lnjj88Kq",
+      "date": "2025-12-07T10:00:00.000Z",
+      "round": "Round 14",
+      "homeTeam": "Valencia B",
+      "awayTeam": "Girona B",
+      "homeScore": 1,
+      "awayScore": 0,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "0MH2HCcc",
+      "date": "2025-12-06T16:00:00.000Z",
+      "round": "Round 14",
+      "homeTeam": "Alcoyano",
+      "awayTeam": "Barcelona B",
+      "homeScore": 3,
+      "awayScore": 2,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Red cards": [
+          "0",
+          "1"
+        ]
+      }
+    },
+    {
+      "id": "6enIiBnJ",
+      "date": "2025-12-06T15:30:00.000Z",
+      "round": "Round 14",
+      "homeTeam": "Poblense",
+      "awayTeam": "Atletic Lleida",
+      "homeScore": 3,
+      "awayScore": 0,
+      "htHome": 2,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Yellow cards": [
+          "0",
+          "1"
+        ],
+        "Red cards": [
+          "0",
+          "1"
+        ]
+      }
+    },
+    {
+      "id": "dlBBFjS9",
+      "date": "2025-12-06T15:00:00.000Z",
+      "round": "Round 14",
+      "homeTeam": "Castellon B",
+      "awayTeam": "UD Barbastro",
+      "homeScore": 1,
+      "awayScore": 3,
+      "htHome": 0,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "nqmqcNfo",
+      "date": "2025-11-30T16:00:00.000Z",
+      "round": "Round 13",
+      "homeTeam": "UE Olot",
+      "awayTeam": "Castellon B",
+      "homeScore": 2,
+      "awayScore": 0,
+      "htHome": 2,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "SfvM4ZDi",
+      "date": "2025-11-30T16:00:00.000Z",
+      "round": "Round 13",
+      "homeTeam": "Terrassa",
+      "awayTeam": "Alcoyano",
+      "homeScore": 0,
+      "awayScore": 0,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "YD8L4Edf",
+      "date": "2025-11-30T11:00:00.000Z",
+      "round": "Round 13",
+      "homeTeam": "UD Barbastro",
+      "awayTeam": "Barcelona B",
+      "homeScore": 0,
+      "awayScore": 2,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "2g0x1WeJ",
+      "date": "2025-11-30T11:00:00.000Z",
+      "round": "Round 13",
+      "homeTeam": "Espanyol B",
+      "awayTeam": "Valencia B",
+      "homeScore": 1,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "6R6T2hR6",
+      "date": "2025-11-30T11:00:00.000Z",
+      "round": "Round 13",
+      "homeTeam": "Girona B",
+      "awayTeam": "UE Sant Andreu",
+      "homeScore": 2,
+      "awayScore": 1,
+      "htHome": 2,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Red cards": [
+          "2",
+          "0"
+        ]
+      }
+    },
+    {
+      "id": "jD1D2qXN",
+      "date": "2025-11-30T11:00:00.000Z",
+      "round": "Round 13",
+      "homeTeam": "Poblense",
+      "awayTeam": "Ibiza Islas Pitiusas",
+      "homeScore": 0,
+      "awayScore": 0,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "Q5Gm8m3n",
+      "date": "2025-11-30T11:00:00.000Z",
+      "round": "Round 13",
+      "homeTeam": "UE Porreres",
+      "awayTeam": "Reus FC Reddis",
+      "homeScore": 0,
+      "awayScore": 0,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "fo84452B",
+      "date": "2025-11-30T11:00:00.000Z",
+      "round": "Round 13",
+      "homeTeam": "Torrent C.F.",
+      "awayTeam": "CE Andratx",
+      "homeScore": 2,
+      "awayScore": 2,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "YslAgXH6",
+      "date": "2025-11-29T18:00:00.000Z",
+      "round": "Round 13",
+      "homeTeam": "Atletic Lleida",
+      "awayTeam": "Atletico Baleares",
+      "homeScore": 0,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "t2EsCd4K",
+      "date": "2025-11-23T17:00:00.000Z",
+      "round": "Round 12",
+      "homeTeam": "UE Sant Andreu",
+      "awayTeam": "UE Olot",
+      "homeScore": 1,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "htYnjFs1",
+      "date": "2025-11-23T16:00:00.000Z",
+      "round": "Round 12",
+      "homeTeam": "Reus FC Reddis",
+      "awayTeam": "UD Barbastro",
+      "homeScore": 0,
+      "awayScore": 0,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "dEvvhyDl",
+      "date": "2025-11-23T11:00:00.000Z",
+      "round": "Round 12",
+      "homeTeam": "Alcoyano",
+      "awayTeam": "UE Porreres",
+      "homeScore": 2,
+      "awayScore": 0,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "6q0aaJKE",
+      "date": "2025-11-23T11:00:00.000Z",
+      "round": "Round 12",
+      "homeTeam": "CE Andratx",
+      "awayTeam": "Espanyol B",
+      "homeScore": 0,
+      "awayScore": 0,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "vw8DyGS7",
+      "date": "2025-11-23T11:00:00.000Z",
+      "round": "Round 12",
+      "homeTeam": "Atletico Baleares",
+      "awayTeam": "Poblense",
+      "homeScore": 2,
+      "awayScore": 1,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "0rg8cckR",
+      "date": "2025-11-23T11:00:00.000Z",
+      "round": "Round 12",
+      "homeTeam": "Castellon B",
+      "awayTeam": "Torrent C.F.",
+      "homeScore": 0,
+      "awayScore": 2,
+      "htHome": 0,
+      "htAway": 2,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "xnFC6zSs",
+      "date": "2025-11-23T11:00:00.000Z",
+      "round": "Round 12",
+      "homeTeam": "Ibiza Islas Pitiusas",
+      "awayTeam": "Girona B",
+      "homeScore": 1,
+      "awayScore": 0,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "INJ4wxbe",
+      "date": "2025-11-22T18:00:00.000Z",
+      "round": "Round 12",
+      "homeTeam": "Barcelona B",
+      "awayTeam": "Terrassa",
+      "homeScore": 1,
+      "awayScore": 1,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "vqe1egmf",
+      "date": "2025-11-22T15:00:00.000Z",
+      "round": "Round 12",
+      "homeTeam": "Valencia B",
+      "awayTeam": "Atletic Lleida",
+      "homeScore": 1,
+      "awayScore": 0,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "nJibWKjS",
+      "date": "2025-11-16T17:00:00.000Z",
+      "round": "Round 11",
+      "homeTeam": "Terrassa",
+      "awayTeam": "UE Sant Andreu",
+      "homeScore": 0,
+      "awayScore": 0,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "WjTUQbEk",
+      "date": "2025-11-16T16:00:00.000Z",
+      "round": "Round 11",
+      "homeTeam": "Espanyol B",
+      "awayTeam": "Barcelona B",
+      "homeScore": 1,
+      "awayScore": 0,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "AcGdubTr",
+      "date": "2025-11-16T16:00:00.000Z",
+      "round": "Round 11",
+      "homeTeam": "UE Olot",
+      "awayTeam": "Alcoyano",
+      "homeScore": 0,
+      "awayScore": 0,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Red cards": [
+          "1",
+          "0"
+        ]
+      }
+    },
+    {
+      "id": "fBZjYtMF",
+      "date": "2025-11-16T11:00:00.000Z",
+      "round": "Round 11",
+      "homeTeam": "Girona B",
+      "awayTeam": "UD Barbastro",
+      "homeScore": 0,
+      "awayScore": 0,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Yellow cards": [
+          "1",
+          "0"
+        ],
+        "Red cards": [
+          "1",
+          "0"
+        ]
+      }
+    },
+    {
+      "id": "bqtrz3i3",
+      "date": "2025-11-16T11:00:00.000Z",
+      "round": "Round 11",
+      "homeTeam": "Poblense",
+      "awayTeam": "Valencia B",
+      "homeScore": 1,
+      "awayScore": 0,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "SxDXpK5L",
+      "date": "2025-11-16T11:00:00.000Z",
+      "round": "Round 11",
+      "homeTeam": "UE Porreres",
+      "awayTeam": "Castellon B",
+      "homeScore": 2,
+      "awayScore": 3,
+      "htHome": 0,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "vHWxPxq2",
+      "date": "2025-11-16T11:00:00.000Z",
+      "round": "Round 11",
+      "homeTeam": "Torrent C.F.",
+      "awayTeam": "Atletico Baleares",
+      "homeScore": 1,
+      "awayScore": 2,
+      "htHome": 0,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "6kgdCaad",
+      "date": "2025-11-16T10:30:00.000Z",
+      "round": "Round 11",
+      "homeTeam": "Ibiza Islas Pitiusas",
+      "awayTeam": "Reus FC Reddis",
+      "homeScore": 1,
+      "awayScore": 0,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "WIigcFIs",
+      "date": "2025-11-15T16:00:00.000Z",
+      "round": "Round 11",
+      "homeTeam": "Atletic Lleida",
+      "awayTeam": "CE Andratx",
+      "homeScore": 3,
+      "awayScore": 2,
+      "htHome": 1,
+      "htAway": 2,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "jFOXJj15",
+      "date": "2025-11-09T17:00:00.000Z",
+      "round": "Round 10",
+      "homeTeam": "Barcelona B",
+      "awayTeam": "Torrent C.F.",
+      "homeScore": 4,
+      "awayScore": 1,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "noGM2yeK",
+      "date": "2025-11-09T16:00:00.000Z",
+      "round": "Round 10",
+      "homeTeam": "Alcoyano",
+      "awayTeam": "Atletic Lleida",
+      "homeScore": 2,
+      "awayScore": 1,
+      "htHome": 1,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "pEHtIUVH",
+      "date": "2025-11-09T11:00:00.000Z",
+      "round": "Round 10",
+      "homeTeam": "Atletico Baleares",
+      "awayTeam": "Girona B",
+      "homeScore": 2,
+      "awayScore": 2,
+      "htHome": 2,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "MZWGNY1t",
+      "date": "2025-11-09T11:00:00.000Z",
+      "round": "Round 10",
+      "homeTeam": "UD Barbastro",
+      "awayTeam": "Terrassa",
+      "homeScore": 0,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "rkLPLCWh",
+      "date": "2025-11-09T11:00:00.000Z",
+      "round": "Round 10",
+      "homeTeam": "UE Olot",
+      "awayTeam": "UE Porreres",
+      "homeScore": 0,
+      "awayScore": 0,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "QXxGWTpB",
+      "date": "2025-11-09T11:00:00.000Z",
+      "round": "Round 10",
+      "homeTeam": "UE Sant Andreu",
+      "awayTeam": "Ibiza Islas Pitiusas",
+      "homeScore": 2,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "4Il7YkGb",
+      "date": "2025-11-09T11:00:00.000Z",
+      "round": "Round 10",
+      "homeTeam": "Valencia B",
+      "awayTeam": "CE Andratx",
+      "homeScore": 2,
+      "awayScore": 2,
+      "htHome": 2,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "ANamELUq",
+      "date": "2025-11-09T10:30:00.000Z",
+      "round": "Round 10",
+      "homeTeam": "Reus FC Reddis",
+      "awayTeam": "Poblense",
+      "homeScore": 1,
+      "awayScore": 2,
+      "htHome": 0,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "WjTUQbEk",
+      "date": "2025-11-16T16:00:00.000Z",
+      "round": "Round 11",
+      "homeTeam": "Espanyol B",
+      "awayTeam": "Barcelona B",
+      "homeScore": 1,
+      "awayScore": 0,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "AcGdubTr",
+      "date": "2025-11-16T16:00:00.000Z",
+      "round": "Round 11",
+      "homeTeam": "UE Olot",
+      "awayTeam": "Alcoyano",
+      "homeScore": 0,
+      "awayScore": 0,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Red cards": [
+          "1",
+          "0"
+        ]
+      }
+    },
+    {
+      "id": "fBZjYtMF",
+      "date": "2025-11-16T11:00:00.000Z",
+      "round": "Round 11",
+      "homeTeam": "Girona B",
+      "awayTeam": "UD Barbastro",
+      "homeScore": 0,
+      "awayScore": 0,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Yellow cards": [
+          "1",
+          "0"
+        ],
+        "Red cards": [
+          "1",
+          "0"
+        ]
+      }
+    },
+    {
+      "id": "bqtrz3i3",
+      "date": "2025-11-16T11:00:00.000Z",
+      "round": "Round 11",
+      "homeTeam": "Poblense",
+      "awayTeam": "Valencia B",
+      "homeScore": 1,
+      "awayScore": 0,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "SxDXpK5L",
+      "date": "2025-11-16T11:00:00.000Z",
+      "round": "Round 11",
+      "homeTeam": "UE Porreres",
+      "awayTeam": "Castellon B",
+      "homeScore": 2,
+      "awayScore": 3,
+      "htHome": 0,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "vHWxPxq2",
+      "date": "2025-11-16T11:00:00.000Z",
+      "round": "Round 11",
+      "homeTeam": "Torrent C.F.",
+      "awayTeam": "Atletico Baleares",
+      "homeScore": 1,
+      "awayScore": 2,
+      "htHome": 0,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "6kgdCaad",
+      "date": "2025-11-16T10:30:00.000Z",
+      "round": "Round 11",
+      "homeTeam": "Ibiza Islas Pitiusas",
+      "awayTeam": "Reus FC Reddis",
+      "homeScore": 1,
+      "awayScore": 0,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "WIigcFIs",
+      "date": "2025-11-15T16:00:00.000Z",
+      "round": "Round 11",
+      "homeTeam": "Atletic Lleida",
+      "awayTeam": "CE Andratx",
+      "homeScore": 3,
+      "awayScore": 2,
+      "htHome": 1,
+      "htAway": 2,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "jFOXJj15",
+      "date": "2025-11-09T17:00:00.000Z",
+      "round": "Round 10",
+      "homeTeam": "Barcelona B",
+      "awayTeam": "Torrent C.F.",
+      "homeScore": 4,
+      "awayScore": 1,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "noGM2yeK",
+      "date": "2025-11-09T16:00:00.000Z",
+      "round": "Round 10",
+      "homeTeam": "Alcoyano",
+      "awayTeam": "Atletic Lleida",
+      "homeScore": 2,
+      "awayScore": 1,
+      "htHome": 1,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "pEHtIUVH",
+      "date": "2025-11-09T11:00:00.000Z",
+      "round": "Round 10",
+      "homeTeam": "Atletico Baleares",
+      "awayTeam": "Girona B",
+      "homeScore": 2,
+      "awayScore": 2,
+      "htHome": 2,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "MZWGNY1t",
+      "date": "2025-11-09T11:00:00.000Z",
+      "round": "Round 10",
+      "homeTeam": "UD Barbastro",
+      "awayTeam": "Terrassa",
+      "homeScore": 0,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "rkLPLCWh",
+      "date": "2025-11-09T11:00:00.000Z",
+      "round": "Round 10",
+      "homeTeam": "UE Olot",
+      "awayTeam": "UE Porreres",
+      "homeScore": 0,
+      "awayScore": 0,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "QXxGWTpB",
+      "date": "2025-11-09T11:00:00.000Z",
+      "round": "Round 10",
+      "homeTeam": "UE Sant Andreu",
+      "awayTeam": "Ibiza Islas Pitiusas",
+      "homeScore": 2,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "4Il7YkGb",
+      "date": "2025-11-09T11:00:00.000Z",
+      "round": "Round 10",
+      "homeTeam": "Valencia B",
+      "awayTeam": "CE Andratx",
+      "homeScore": 2,
+      "awayScore": 2,
+      "htHome": 2,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "ANamELUq",
+      "date": "2025-11-09T10:30:00.000Z",
+      "round": "Round 10",
+      "homeTeam": "Reus FC Reddis",
+      "awayTeam": "Poblense",
+      "homeScore": 1,
+      "awayScore": 2,
+      "htHome": 0,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "IRFlG80U",
+      "date": "2025-11-08T15:00:00.000Z",
+      "round": "Round 10",
+      "homeTeam": "Castellon B",
+      "awayTeam": "Espanyol B",
+      "homeScore": 1,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Red cards": [
+          "0",
+          "1"
+        ]
+      }
+    },
+    {
+      "id": "KvOzuY2D",
+      "date": "2025-11-02T16:00:00.000Z",
+      "round": "Round 9",
+      "homeTeam": "Atletic Lleida",
+      "awayTeam": "Castellon B",
+      "homeScore": 2,
+      "awayScore": 4,
+      "htHome": 1,
+      "htAway": 2,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "A168dd3s",
+      "date": "2025-11-02T11:30:00.000Z",
+      "round": "Round 9",
+      "homeTeam": "Espanyol B",
+      "awayTeam": "UE Olot",
+      "homeScore": 1,
+      "awayScore": 0,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "QZwKEePP",
+      "date": "2025-11-02T11:00:00.000Z",
+      "round": "Round 9",
+      "homeTeam": "Girona B",
+      "awayTeam": "Barcelona B",
+      "homeScore": 0,
+      "awayScore": 0,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "pv1XjhXI",
+      "date": "2025-11-02T11:00:00.000Z",
+      "round": "Round 9",
+      "homeTeam": "Poblense",
+      "awayTeam": "UD Barbastro",
+      "homeScore": 1,
+      "awayScore": 0,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "rF4GfzYg",
+      "date": "2025-11-02T11:00:00.000Z",
+      "round": "Round 9",
+      "homeTeam": "UE Porreres",
+      "awayTeam": "UE Sant Andreu",
+      "homeScore": 1,
+      "awayScore": 0,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "dIUk9Znm",
+      "date": "2025-11-02T11:00:00.000Z",
+      "round": "Round 9",
+      "homeTeam": "Reus FC Reddis",
+      "awayTeam": "Atletico Baleares",
+      "homeScore": 4,
+      "awayScore": 0,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Red cards": [
+          "0",
+          "1"
+        ]
+      }
+    },
+    {
+      "id": "WAi73VGO",
+      "date": "2025-11-02T11:00:00.000Z",
+      "round": "Round 9",
+      "homeTeam": "Ibiza Islas Pitiusas",
+      "awayTeam": "Alcoyano",
+      "homeScore": 1,
+      "awayScore": 0,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Red cards": [
+          "0",
+          "1"
+        ]
+      }
+    },
+    {
+      "id": "hpOb7DHa",
+      "date": "2025-11-02T11:00:00.000Z",
+      "round": "Round 9",
+      "homeTeam": "Terrassa",
+      "awayTeam": "CE Andratx",
+      "homeScore": 2,
+      "awayScore": 1,
+      "htHome": 1,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "vsbPhE26",
+      "date": "2025-11-02T11:00:00.000Z",
+      "round": "Round 9",
+      "homeTeam": "Torrent C.F.",
+      "awayTeam": "Valencia B",
+      "homeScore": 2,
+      "awayScore": 2,
+      "htHome": 1,
+      "htAway": 2,
+      "status": "FINISHED",
+      "stats": {
+        "Yellow cards": [
+          "0",
+          "1"
+        ],
+        "Red cards": [
+          "1",
+          "1"
+        ]
+      }
+    },
+    {
+      "id": "O4lstyJ0",
+      "date": "2025-10-26T11:00:00.000Z",
+      "round": "Round 8",
+      "homeTeam": "Alcoyano",
+      "awayTeam": "Reus FC Reddis",
+      "homeScore": 0,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "MwT0054F",
+      "date": "2025-10-26T11:00:00.000Z",
+      "round": "Round 8",
+      "homeTeam": "CE Andratx",
+      "awayTeam": "Ibiza Islas Pitiusas",
+      "homeScore": 2,
+      "awayScore": 0,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "lQUh2RZ2",
+      "date": "2025-10-26T11:00:00.000Z",
+      "round": "Round 8",
+      "homeTeam": "Atletico Baleares",
+      "awayTeam": "Espanyol B",
+      "homeScore": 1,
+      "awayScore": 1,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "0x8ZtfY0",
+      "date": "2025-10-26T11:00:00.000Z",
+      "round": "Round 8",
+      "homeTeam": "UD Barbastro",
+      "awayTeam": "Atletic Lleida",
+      "homeScore": 1,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Yellow cards": [
+          "1",
+          "0"
+        ],
+        "Red cards": [
+          "1",
+          "0"
+        ]
+      }
+    },
+    {
+      "id": "n7o9fFGd",
+      "date": "2025-10-26T11:00:00.000Z",
+      "round": "Round 8",
+      "homeTeam": "Barcelona B",
+      "awayTeam": "Poblense",
+      "homeScore": 2,
+      "awayScore": 2,
+      "htHome": 1,
+      "htAway": 2,
+      "status": "FINISHED",
+      "stats": {
+        "Red cards": [
+          "1",
+          "0"
+        ]
+      }
+    },
+    {
+      "id": "pKxjvFmD",
+      "date": "2025-10-26T11:00:00.000Z",
+      "round": "Round 8",
+      "homeTeam": "UE Olot",
+      "awayTeam": "Girona B",
+      "homeScore": 2,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "jHPy2IuK",
+      "date": "2025-10-26T11:00:00.000Z",
+      "round": "Round 8",
+      "homeTeam": "Valencia B",
+      "awayTeam": "UE Porreres",
+      "homeScore": 1,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "vsr1dynp",
+      "date": "2025-10-25T17:00:00.000Z",
+      "round": "Round 8",
+      "homeTeam": "UE Sant Andreu",
+      "awayTeam": "Torrent C.F.",
+      "homeScore": 3,
+      "awayScore": 2,
+      "htHome": 2,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "GvoZscll",
+      "date": "2025-10-25T14:00:00.000Z",
+      "round": "Round 8",
+      "homeTeam": "Castellon B",
+      "awayTeam": "Terrassa",
+      "homeScore": 3,
+      "awayScore": 3,
+      "htHome": 0,
+      "htAway": 2,
+      "status": "FINISHED",
+      "stats": {
+        "Red cards": [
+          "0",
+          "1"
+        ]
+      }
+    },
+    {
+      "id": "8xGfkKvH",
+      "date": "2025-10-19T16:00:00.000Z",
+      "round": "Round 7",
+      "homeTeam": "Terrassa",
+      "awayTeam": "Espanyol B",
+      "homeScore": 1,
+      "awayScore": 4,
+      "htHome": 1,
+      "htAway": 2,
+      "status": "FINISHED",
+      "stats": {
+        "Red cards": [
+          "1",
+          "0"
+        ]
+      }
+    },
+    {
+      "id": "SO9RrG3l",
+      "date": "2025-10-19T15:00:00.000Z",
+      "round": "Round 7",
+      "homeTeam": "Atletic Lleida",
+      "awayTeam": "Barcelona B",
+      "homeScore": 3,
+      "awayScore": 2,
+      "htHome": 1,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Red cards": [
+          "1",
+          "0"
+        ]
+      }
+    },
+    {
+      "id": "UoeLzLPN",
+      "date": "2025-10-19T15:00:00.000Z",
+      "round": "Round 7",
+      "homeTeam": "Reus FC Reddis",
+      "awayTeam": "UE Sant Andreu",
+      "homeScore": 1,
+      "awayScore": 2,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "nq3M3JgA",
+      "date": "2025-10-19T10:00:00.000Z",
+      "round": "Round 7",
+      "homeTeam": "Atletico Baleares",
+      "awayTeam": "Alcoyano",
+      "homeScore": 1,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "zm0ZsxXj",
+      "date": "2025-10-19T10:00:00.000Z",
+      "round": "Round 7",
+      "homeTeam": "Girona B",
+      "awayTeam": "CE Andratx",
+      "homeScore": 1,
+      "awayScore": 0,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Yellow cards": [
+          "1",
+          "0"
+        ],
+        "Red cards": [
+          "1",
+          "0"
+        ]
+      }
+    },
+    {
+      "id": "StmL5uPc",
+      "date": "2025-10-19T10:00:00.000Z",
+      "round": "Round 7",
+      "homeTeam": "Poblense",
+      "awayTeam": "Castellon B",
+      "homeScore": 3,
+      "awayScore": 2,
+      "htHome": 3,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "tQOwg2uh",
+      "date": "2025-10-19T10:00:00.000Z",
+      "round": "Round 7",
+      "homeTeam": "UE Porreres",
+      "awayTeam": "UD Barbastro",
+      "homeScore": 0,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Red cards": [
+          "1",
+          "0"
+        ]
+      }
+    },
+    {
+      "id": "QHtiVbmo",
+      "date": "2025-10-19T10:00:00.000Z",
+      "round": "Round 7",
+      "homeTeam": "Ibiza Islas Pitiusas",
+      "awayTeam": "Valencia B",
+      "homeScore": 1,
+      "awayScore": 2,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "nNRoitA4",
+      "date": "2025-10-19T10:00:00.000Z",
+      "round": "Round 7",
+      "homeTeam": "Torrent C.F.",
+      "awayTeam": "UE Olot",
+      "homeScore": 1,
+      "awayScore": 0,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Red cards": [
+          "0",
+          "1"
+        ]
+      }
+    },
+    {
+      "id": "8vTflxtR",
+      "date": "2025-10-12T16:00:00.000Z",
+      "round": "Round 6",
+      "homeTeam": "Espanyol B",
+      "awayTeam": "Atletic Lleida",
+      "homeScore": 1,
+      "awayScore": 0,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "I9WEToCt",
+      "date": "2025-10-12T16:00:00.000Z",
+      "round": "Round 6",
+      "homeTeam": "UE Olot",
+      "awayTeam": "Terrassa",
+      "homeScore": 1,
+      "awayScore": 1,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "hnRwOstI",
+      "date": "2025-10-12T16:00:00.000Z",
+      "round": "Round 6",
+      "homeTeam": "UE Sant Andreu",
+      "awayTeam": "Valencia B",
+      "homeScore": 3,
+      "awayScore": 2,
+      "htHome": 2,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "vw0dtPen",
+      "date": "2025-10-12T10:00:00.000Z",
+      "round": "Round 6",
+      "homeTeam": "CE Andratx",
+      "awayTeam": "Atletico Baleares",
+      "homeScore": 1,
+      "awayScore": 0,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Red cards": [
+          "1",
+          "0"
+        ]
+      }
+    },
+    {
+      "id": "0hl5v3Qb",
+      "date": "2025-10-12T10:00:00.000Z",
+      "round": "Round 6",
+      "homeTeam": "Castellon B",
+      "awayTeam": "Ibiza Islas Pitiusas",
+      "homeScore": 2,
+      "awayScore": 1,
+      "htHome": 2,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "QZZMRPtg",
+      "date": "2025-10-12T10:00:00.000Z",
+      "round": "Round 6",
+      "homeTeam": "Girona B",
+      "awayTeam": "UE Porreres",
+      "homeScore": 1,
+      "awayScore": 0,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Yellow cards": [
+          "1",
+          "0"
+        ],
+        "Red cards": [
+          "1",
+          "0"
+        ]
+      }
+    },
+    {
+      "id": "YJ1CxseB",
+      "date": "2025-10-12T09:30:00.000Z",
+      "round": "Round 6",
+      "homeTeam": "Alcoyano",
+      "awayTeam": "Poblense",
+      "homeScore": 0,
+      "awayScore": 0,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "lEKnMLAU",
+      "date": "2025-10-11T16:00:00.000Z",
+      "round": "Round 6",
+      "homeTeam": "Barcelona B",
+      "awayTeam": "Reus FC Reddis",
+      "homeScore": 4,
+      "awayScore": 2,
+      "htHome": 2,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "vuV2MU4D",
+      "date": "2025-10-11T15:00:00.000Z",
+      "round": "Round 6",
+      "homeTeam": "UD Barbastro",
+      "awayTeam": "Torrent C.F.",
+      "homeScore": 2,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Yellow cards": [
+          "0",
+          "1"
+        ],
+        "Red cards": [
+          "0",
+          "1"
+        ]
+      }
+    },
+    {
+      "id": "K0itJebL",
+      "date": "2025-10-05T16:30:00.000Z",
+      "round": "Round 5",
+      "homeTeam": "Atletico Baleares",
+      "awayTeam": "Ibiza Islas Pitiusas",
+      "homeScore": 1,
+      "awayScore": 0,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "0EPnjbBE",
+      "date": "2025-10-05T16:00:00.000Z",
+      "round": "Round 5",
+      "homeTeam": "Atletic Lleida",
+      "awayTeam": "Girona B",
+      "homeScore": 1,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "WhjKBDje",
+      "date": "2025-10-05T15:30:00.000Z",
+      "round": "Round 5",
+      "homeTeam": "Alcoyano",
+      "awayTeam": "UD Barbastro",
+      "homeScore": 1,
+      "awayScore": 0,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "nmgYKHT8",
+      "date": "2025-10-05T10:00:00.000Z",
+      "round": "Round 5",
+      "homeTeam": "Barcelona B",
+      "awayTeam": "UE Olot",
+      "homeScore": 2,
+      "awayScore": 0,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "voYCDZLr",
+      "date": "2025-10-05T10:00:00.000Z",
+      "round": "Round 5",
+      "homeTeam": "Poblense",
+      "awayTeam": "UE Sant Andreu",
+      "homeScore": 1,
+      "awayScore": 0,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "CCBgQC5l",
+      "date": "2025-10-05T10:00:00.000Z",
+      "round": "Round 5",
+      "homeTeam": "Terrassa",
+      "awayTeam": "UE Porreres",
+      "homeScore": 2,
+      "awayScore": 1,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Red cards": [
+          "1",
+          "0"
+        ]
+      }
+    },
+    {
+      "id": "WERfOjz1",
+      "date": "2025-10-05T10:00:00.000Z",
+      "round": "Round 5",
+      "homeTeam": "Valencia B",
+      "awayTeam": "Castellon B",
+      "homeScore": 3,
+      "awayScore": 3,
+      "htHome": 1,
+      "htAway": 2,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "GtQNVYsR",
+      "date": "2025-10-04T18:00:00.000Z",
+      "round": "Round 5",
+      "homeTeam": "Reus FC Reddis",
+      "awayTeam": "CE Andratx",
+      "homeScore": 2,
+      "awayScore": 1,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Red cards": [
+          "1",
+          "0"
+        ]
+      }
+    },
+    {
+      "id": "KEWEXfDE",
+      "date": "2025-10-04T15:00:00.000Z",
+      "round": "Round 5",
+      "homeTeam": "Torrent C.F.",
+      "awayTeam": "Espanyol B",
+      "homeScore": 0,
+      "awayScore": 0,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "pOCwaz7k",
+      "date": "2025-09-28T18:45:00.000Z",
+      "round": "Round 4",
+      "homeTeam": "UE Sant Andreu",
+      "awayTeam": "Barcelona B",
+      "homeScore": 0,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "KIn0SfJ7",
+      "date": "2025-09-28T16:00:00.000Z",
+      "round": "Round 4",
+      "homeTeam": "UE Olot",
+      "awayTeam": "Atletic Lleida",
+      "homeScore": 2,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Red cards": [
+          "0",
+          "1"
+        ]
+      }
+    },
+    {
+      "id": "I7JGguV9",
+      "date": "2025-09-28T11:00:00.000Z",
+      "round": "Round 4",
+      "homeTeam": "UD Barbastro",
+      "awayTeam": "Atletico Baleares",
+      "homeScore": 0,
+      "awayScore": 2,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "44i4pyhd",
+      "date": "2025-09-28T10:00:00.000Z",
+      "round": "Round 4",
+      "homeTeam": "CE Andratx",
+      "awayTeam": "Poblense",
+      "homeScore": 1,
+      "awayScore": 3,
+      "htHome": 1,
+      "htAway": 2,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "WvBocEy2",
+      "date": "2025-09-28T10:00:00.000Z",
+      "round": "Round 4",
+      "homeTeam": "Castellon B",
+      "awayTeam": "Alcoyano",
+      "homeScore": 4,
+      "awayScore": 1,
+      "htHome": 1,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Yellow cards": [
+          "0",
+          "1"
+        ],
+        "Red cards": [
+          "0",
+          "2"
+        ]
+      }
+    },
+    {
+      "id": "A5bencNq",
+      "date": "2025-09-28T10:00:00.000Z",
+      "round": "Round 4",
+      "homeTeam": "Espanyol B",
+      "awayTeam": "Ibiza Islas Pitiusas",
+      "homeScore": 2,
+      "awayScore": 2,
+      "htHome": 2,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Yellow cards": [
+          "1",
+          "0"
+        ],
+        "Red cards": [
+          "1",
+          "0"
+        ]
+      }
+    },
+    {
+      "id": "vN7PiJaM",
+      "date": "2025-09-28T10:00:00.000Z",
+      "round": "Round 4",
+      "homeTeam": "Girona B",
+      "awayTeam": "Terrassa",
+      "homeScore": 4,
+      "awayScore": 2,
+      "htHome": 1,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "dbvj8vp3",
+      "date": "2025-09-28T10:00:00.000Z",
+      "round": "Round 4",
+      "homeTeam": "UE Porreres",
+      "awayTeam": "Torrent C.F.",
+      "homeScore": 1,
+      "awayScore": 0,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "0jy74dqS",
+      "date": "2025-09-28T10:00:00.000Z",
+      "round": "Round 4",
+      "homeTeam": "Valencia B",
+      "awayTeam": "Reus FC Reddis",
+      "homeScore": 1,
+      "awayScore": 3,
+      "htHome": 0,
+      "htAway": 2,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "0b9Ny79O",
+      "date": "2025-09-22T17:00:00.000Z",
+      "round": "Round 3",
+      "homeTeam": "Barcelona B",
+      "awayTeam": "Castellon B",
+      "homeScore": 4,
+      "awayScore": 0,
+      "htHome": 2,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "AsG8e10c",
+      "date": "2025-09-21T16:30:00.000Z",
+      "round": "Round 3",
+      "homeTeam": "Reus FC Reddis",
+      "awayTeam": "Espanyol B",
+      "homeScore": 3,
+      "awayScore": 2,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "SAUhUGle",
+      "date": "2025-09-21T16:00:00.000Z",
+      "round": "Round 3",
+      "homeTeam": "Atletic Lleida",
+      "awayTeam": "Terrassa",
+      "homeScore": 2,
+      "awayScore": 2,
+      "htHome": 1,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "IZulhSg5",
+      "date": "2025-09-21T10:00:00.000Z",
+      "round": "Round 3",
+      "homeTeam": "Alcoyano",
+      "awayTeam": "CE Andratx",
+      "homeScore": 1,
+      "awayScore": 0,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "E1Zdj6OH",
+      "date": "2025-09-21T10:00:00.000Z",
+      "round": "Round 3",
+      "homeTeam": "Poblense",
+      "awayTeam": "UE Olot",
+      "homeScore": 0,
+      "awayScore": 0,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "A9xtflPh",
+      "date": "2025-09-21T10:00:00.000Z",
+      "round": "Round 3",
+      "homeTeam": "Ibiza Islas Pitiusas",
+      "awayTeam": "UE Porreres",
+      "homeScore": 1,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "pldUXc8j",
+      "date": "2025-09-21T10:00:00.000Z",
+      "round": "Round 3",
+      "homeTeam": "Torrent C.F.",
+      "awayTeam": "Girona B",
+      "homeScore": 1,
+      "awayScore": 1,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "lflXeAft",
+      "date": "2025-09-20T16:30:00.000Z",
+      "round": "Round 3",
+      "homeTeam": "Atletico Baleares",
+      "awayTeam": "UE Sant Andreu",
+      "homeScore": 2,
+      "awayScore": 4,
+      "htHome": 1,
+      "htAway": 2,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "WIH6ukAa",
+      "date": "2025-09-20T16:30:00.000Z",
+      "round": "Round 3",
+      "homeTeam": "UD Barbastro",
+      "awayTeam": "Valencia B",
+      "homeScore": 2,
+      "awayScore": 1,
+      "htHome": 1,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "zFU0SsFD",
+      "date": "2025-09-14T16:00:00.000Z",
+      "round": "Round 2",
+      "homeTeam": "Terrassa",
+      "awayTeam": "Torrent C.F.",
+      "homeScore": 1,
+      "awayScore": 0,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "v1GQr3af",
+      "date": "2025-09-14T15:00:00.000Z",
+      "round": "Round 2",
+      "homeTeam": "Espanyol B",
+      "awayTeam": "UD Barbastro",
+      "homeScore": 1,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "ziOcsBum",
+      "date": "2025-09-14T15:00:00.000Z",
+      "round": "Round 2",
+      "homeTeam": "UE Sant Andreu",
+      "awayTeam": "Alcoyano",
+      "homeScore": 0,
+      "awayScore": 0,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "EathU3p1",
+      "date": "2025-09-14T10:00:00.000Z",
+      "round": "Round 2",
+      "homeTeam": "Girona B",
+      "awayTeam": "Poblense",
+      "homeScore": 1,
+      "awayScore": 0,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "QHxSnXHP",
+      "date": "2025-09-14T10:00:00.000Z",
+      "round": "Round 2",
+      "homeTeam": "UE Olot",
+      "awayTeam": "Ibiza Islas Pitiusas",
+      "homeScore": 1,
+      "awayScore": 0,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "WrypWxKr",
+      "date": "2025-09-14T10:00:00.000Z",
+      "round": "Round 2",
+      "homeTeam": "UE Porreres",
+      "awayTeam": "Atletic Lleida",
+      "homeScore": 1,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "rgDsuLbJ",
+      "date": "2025-09-14T10:00:00.000Z",
+      "round": "Round 2",
+      "homeTeam": "Valencia B",
+      "awayTeam": "Atletico Baleares",
+      "homeScore": 0,
+      "awayScore": 2,
+      "htHome": 0,
+      "htAway": 2,
+      "status": "FINISHED",
+      "stats": {
+        "Red cards": [
+          "0",
+          "1"
+        ]
+      }
+    },
+    {
+      "id": "2LMnjo7K",
+      "date": "2025-09-13T16:00:00.000Z",
+      "round": "Round 2",
+      "homeTeam": "CE Andratx",
+      "awayTeam": "Barcelona B",
+      "homeScore": 2,
+      "awayScore": 1,
+      "htHome": 2,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "6mIIpPUs",
+      "date": "2025-09-13T14:00:00.000Z",
+      "round": "Round 2",
+      "homeTeam": "Castellon B",
+      "awayTeam": "Reus FC Reddis",
+      "homeScore": 3,
+      "awayScore": 1,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Red cards": [
+          "0",
+          "1"
+        ]
+      }
+    },
+    {
+      "id": "j1yDw8NE",
+      "date": "2025-09-07T17:00:00.000Z",
+      "round": "Round 1",
+      "homeTeam": "Alcoyano",
+      "awayTeam": "Valencia B",
+      "homeScore": 2,
+      "awayScore": 2,
+      "htHome": 0,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Red cards": [
+          "1",
+          "0"
+        ]
+      }
+    },
+    {
+      "id": "OEZKynhR",
+      "date": "2025-09-07T16:45:00.000Z",
+      "round": "Round 1",
+      "homeTeam": "Reus FC Reddis",
+      "awayTeam": "Girona B",
+      "homeScore": 1,
+      "awayScore": 0,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "zDkEyadL",
+      "date": "2025-09-07T16:00:00.000Z",
+      "round": "Round 1",
+      "homeTeam": "Atletic Lleida",
+      "awayTeam": "Torrent C.F.",
+      "homeScore": 2,
+      "awayScore": 2,
+      "htHome": 1,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Red cards": [
+          "0",
+          "1"
+        ]
+      }
+    },
+    {
+      "id": "2szxxenA",
+      "date": "2025-09-07T10:00:00.000Z",
+      "round": "Round 1",
+      "homeTeam": "Barcelona B",
+      "awayTeam": "UE Porreres",
+      "homeScore": 2,
+      "awayScore": 0,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "zggQF4V7",
+      "date": "2025-09-07T10:00:00.000Z",
+      "round": "Round 1",
+      "homeTeam": "Ibiza Islas Pitiusas",
+      "awayTeam": "Terrassa",
+      "homeScore": 1,
+      "awayScore": 0,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "6D19JnWr",
+      "date": "2025-09-06T18:00:00.000Z",
+      "round": "Round 1",
+      "homeTeam": "Atletico Baleares",
+      "awayTeam": "Castellon B",
+      "homeScore": 3,
+      "awayScore": 0,
+      "htHome": 3,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "ELgsGDPj",
+      "date": "2025-09-06T16:30:00.000Z",
+      "round": "Round 1",
+      "homeTeam": "UD Barbastro",
+      "awayTeam": "UE Olot",
+      "homeScore": 1,
+      "awayScore": 1,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "SSkIHQ0e",
+      "date": "2025-09-06T16:00:00.000Z",
+      "round": "Round 1",
+      "homeTeam": "CE Andratx",
+      "awayTeam": "UE Sant Andreu",
+      "homeScore": 1,
+      "awayScore": 0,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "6ZxpWPFl",
+      "date": "2025-09-06T15:00:00.000Z",
+      "round": "Round 1",
+      "homeTeam": "Poblense",
+      "awayTeam": "Espanyol B",
+      "homeScore": 1,
+      "awayScore": 0,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {}
+    }
+  ]
+}

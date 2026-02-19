@@ -1,0 +1,7127 @@
+{
+  "league": "Liga Nacional",
+  "country": "guatemala",
+  "season": "2025-2026",
+  "collectedAt": "2026-02-10T16:56:09.523Z",
+  "totalMatches": 179,
+  "matches": [
+    {
+      "id": "jNdl6t7F",
+      "date": "2026-02-09T01:00:00.000Z",
+      "round": "Round 5",
+      "homeTeam": "Antigua GFC",
+      "awayTeam": "Deportivo Mixco",
+      "homeScore": 1,
+      "awayScore": 2,
+      "htHome": 1,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "52%",
+          "48%"
+        ],
+        "Total shots": [
+          "9",
+          "14"
+        ],
+        "Shots on target": [
+          "5",
+          "9"
+        ],
+        "Corner kicks": [
+          "10",
+          "3"
+        ],
+        "Yellow cards": [
+          "2",
+          "3"
+        ],
+        "Shots off target": [
+          "4",
+          "5"
+        ]
+      }
+    },
+    {
+      "id": "4UGgpapd",
+      "date": "2026-02-08T21:00:00.000Z",
+      "round": "Round 5",
+      "homeTeam": "Coban Imperial",
+      "awayTeam": "Mictlán",
+      "homeScore": 3,
+      "awayScore": 1,
+      "htHome": 3,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "48%",
+          "52%"
+        ],
+        "Total shots": [
+          "12",
+          "6"
+        ],
+        "Shots on target": [
+          "8",
+          "4"
+        ],
+        "Corner kicks": [
+          "4",
+          "5"
+        ],
+        "Yellow cards": [
+          "2",
+          "3"
+        ],
+        "Red cards": [
+          "0",
+          "2"
+        ],
+        "Shots off target": [
+          "4",
+          "2"
+        ]
+      }
+    },
+    {
+      "id": "jouycxU1",
+      "date": "2026-02-08T01:00:00.000Z",
+      "round": "Round 5",
+      "homeTeam": "Guastatoya",
+      "awayTeam": "Xelaju",
+      "homeScore": 1,
+      "awayScore": 0,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "45%",
+          "55%"
+        ],
+        "Total shots": [
+          "10",
+          "1"
+        ],
+        "Shots on target": [
+          "5",
+          "0"
+        ],
+        "Corner kicks": [
+          "4",
+          "2"
+        ],
+        "Yellow cards": [
+          "3",
+          "1"
+        ],
+        "Red cards": [
+          "1",
+          "1"
+        ],
+        "Shots off target": [
+          "5",
+          "1"
+        ]
+      }
+    },
+    {
+      "id": "bm0d4KyS",
+      "date": "2026-02-07T23:00:00.000Z",
+      "round": "Round 5",
+      "homeTeam": "CSD Comunicaciones",
+      "awayTeam": "Marquense",
+      "homeScore": 2,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "61%",
+          "39%"
+        ],
+        "Total shots": [
+          "19",
+          "8"
+        ],
+        "Shots on target": [
+          "11",
+          "4"
+        ],
+        "Corner kicks": [
+          "8",
+          "2"
+        ],
+        "Yellow cards": [
+          "0",
+          "3"
+        ],
+        "Shots off target": [
+          "8",
+          "4"
+        ]
+      }
+    },
+    {
+      "id": "U78u82x3",
+      "date": "2026-02-07T21:00:00.000Z",
+      "round": "Round 5",
+      "homeTeam": "CD Achuapa",
+      "awayTeam": "Aurora",
+      "homeScore": 2,
+      "awayScore": 1,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "44%",
+          "56%"
+        ],
+        "Total shots": [
+          "11",
+          "5"
+        ],
+        "Shots on target": [
+          "6",
+          "3"
+        ],
+        "Corner kicks": [
+          "3",
+          "3"
+        ],
+        "Yellow cards": [
+          "0",
+          "1"
+        ],
+        "Red cards": [
+          "0",
+          "1"
+        ],
+        "Shots off target": [
+          "5",
+          "2"
+        ]
+      }
+    },
+    {
+      "id": "IXtTbbak",
+      "date": "2026-02-07T01:00:00.000Z",
+      "round": "Round 5",
+      "homeTeam": "Malacateco",
+      "awayTeam": "CSD Municipal",
+      "homeScore": 1,
+      "awayScore": 3,
+      "htHome": 0,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "40%",
+          "60%"
+        ],
+        "Total shots": [
+          "11",
+          "12"
+        ],
+        "Shots on target": [
+          "5",
+          "5"
+        ],
+        "Corner kicks": [
+          "4",
+          "7"
+        ],
+        "Yellow cards": [
+          "4",
+          "1"
+        ],
+        "Red cards": [
+          "1",
+          "0"
+        ],
+        "Shots off target": [
+          "6",
+          "7"
+        ]
+      }
+    },
+    {
+      "id": "tl746k1b",
+      "date": "2026-02-02T00:00:00.000Z",
+      "round": "Round 4",
+      "homeTeam": "Mictlán",
+      "awayTeam": "CD Achuapa",
+      "homeScore": 0,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "59%",
+          "41%"
+        ],
+        "Total shots": [
+          "10",
+          "5"
+        ],
+        "Shots on target": [
+          "7",
+          "4"
+        ],
+        "Corner kicks": [
+          "9",
+          "2"
+        ],
+        "Yellow cards": [
+          "2",
+          "4"
+        ],
+        "Red cards": [
+          "0",
+          "1"
+        ],
+        "Shots off target": [
+          "3",
+          "1"
+        ]
+      }
+    },
+    {
+      "id": "fFws6LkI",
+      "date": "2026-02-01T17:00:00.000Z",
+      "round": "Round 4",
+      "homeTeam": "Aurora",
+      "awayTeam": "Malacateco",
+      "homeScore": 1,
+      "awayScore": 0,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "52%",
+          "48%"
+        ],
+        "Total shots": [
+          "12",
+          "7"
+        ],
+        "Shots on target": [
+          "4",
+          "4"
+        ],
+        "Corner kicks": [
+          "6",
+          "7"
+        ],
+        "Yellow cards": [
+          "0",
+          "1"
+        ],
+        "Shots off target": [
+          "8",
+          "3"
+        ]
+      }
+    },
+    {
+      "id": "8Mgc8BWo",
+      "date": "2026-02-01T03:00:00.000Z",
+      "round": "Round 4",
+      "homeTeam": "Marquense",
+      "awayTeam": "Antigua GFC",
+      "homeScore": 1,
+      "awayScore": 1,
+      "htHome": 1,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "56%",
+          "44%"
+        ],
+        "Total shots": [
+          "17",
+          "11"
+        ],
+        "Shots on target": [
+          "7",
+          "1"
+        ],
+        "Corner kicks": [
+          "3",
+          "2"
+        ],
+        "Yellow cards": [
+          "2",
+          "2"
+        ],
+        "Red cards": [
+          "0",
+          "1"
+        ],
+        "Shots off target": [
+          "10",
+          "10"
+        ]
+      }
+    },
+    {
+      "id": "82NpnLFq",
+      "date": "2026-02-01T01:00:00.000Z",
+      "round": "Round 4",
+      "homeTeam": "Xelaju",
+      "awayTeam": "CSD Comunicaciones",
+      "homeScore": 2,
+      "awayScore": 0,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "56%",
+          "44%"
+        ],
+        "Total shots": [
+          "13",
+          "15"
+        ],
+        "Shots on target": [
+          "6",
+          "1"
+        ],
+        "Corner kicks": [
+          "6",
+          "4"
+        ],
+        "Yellow cards": [
+          "2",
+          "3"
+        ],
+        "Shots off target": [
+          "7",
+          "14"
+        ]
+      }
+    },
+    {
+      "id": "2usk4aKU",
+      "date": "2026-01-31T23:00:00.000Z",
+      "round": "Round 4",
+      "homeTeam": "CSD Municipal",
+      "awayTeam": "Guastatoya",
+      "homeScore": 2,
+      "awayScore": 1,
+      "htHome": 1,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "60%",
+          "40%"
+        ],
+        "Total shots": [
+          "10",
+          "3"
+        ],
+        "Shots on target": [
+          "7",
+          "2"
+        ],
+        "Corner kicks": [
+          "3",
+          "4"
+        ],
+        "Yellow cards": [
+          "4",
+          "1"
+        ],
+        "Shots off target": [
+          "3",
+          "1"
+        ]
+      }
+    },
+    {
+      "id": "xG0D4TVA",
+      "date": "2026-01-31T21:00:00.000Z",
+      "round": "Round 4",
+      "homeTeam": "Deportivo Mixco",
+      "awayTeam": "Coban Imperial",
+      "homeScore": 1,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "56%",
+          "44%"
+        ],
+        "Total shots": [
+          "11",
+          "6"
+        ],
+        "Shots on target": [
+          "6",
+          "2"
+        ],
+        "Corner kicks": [
+          "13",
+          "3"
+        ],
+        "Yellow cards": [
+          "2",
+          "4"
+        ],
+        "Shots off target": [
+          "5",
+          "4"
+        ]
+      }
+    },
+    {
+      "id": "tCD7iMzP",
+      "date": "2026-01-30T01:00:00.000Z",
+      "round": "Round 3",
+      "homeTeam": "Malacateco",
+      "awayTeam": "Mictlán",
+      "homeScore": 2,
+      "awayScore": 0,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "55%",
+          "45%"
+        ],
+        "Total shots": [
+          "12",
+          "1"
+        ],
+        "Shots on target": [
+          "11",
+          "1"
+        ],
+        "Corner kicks": [
+          "4",
+          "3"
+        ],
+        "Red cards": [
+          "0",
+          "1"
+        ],
+        "Shots off target": [
+          "1",
+          "0"
+        ]
+      }
+    },
+    {
+      "id": "WzgHBPLt",
+      "date": "2026-01-29T03:00:00.000Z",
+      "round": "Round 3",
+      "homeTeam": "Antigua GFC",
+      "awayTeam": "CSD Comunicaciones",
+      "homeScore": 0,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "39%",
+          "61%"
+        ],
+        "Total shots": [
+          "6",
+          "6"
+        ],
+        "Shots on target": [
+          "0",
+          "2"
+        ],
+        "Corner kicks": [
+          "1",
+          "12"
+        ],
+        "Yellow cards": [
+          "5",
+          "2"
+        ],
+        "Red cards": [
+          "1",
+          "2"
+        ],
+        "Shots off target": [
+          "6",
+          "4"
+        ]
+      }
+    },
+    {
+      "id": "CWLje4y0",
+      "date": "2026-01-29T01:00:00.000Z",
+      "round": "Round 3",
+      "homeTeam": "CSD Municipal",
+      "awayTeam": "Xelaju",
+      "homeScore": 1,
+      "awayScore": 0,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "47%",
+          "53%"
+        ],
+        "Total shots": [
+          "12",
+          "1"
+        ],
+        "Shots on target": [
+          "4",
+          "0"
+        ],
+        "Corner kicks": [
+          "7",
+          "5"
+        ],
+        "Yellow cards": [
+          "1",
+          "2"
+        ],
+        "Shots off target": [
+          "8",
+          "1"
+        ]
+      }
+    },
+    {
+      "id": "KdPbgr6C",
+      "date": "2026-01-28T23:00:00.000Z",
+      "round": "Round 3",
+      "homeTeam": "Guastatoya",
+      "awayTeam": "Aurora",
+      "homeScore": 2,
+      "awayScore": 2,
+      "htHome": 1,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "53%",
+          "47%"
+        ],
+        "Total shots": [
+          "6",
+          "9"
+        ],
+        "Shots on target": [
+          "4",
+          "7"
+        ],
+        "Corner kicks": [
+          "2",
+          "6"
+        ],
+        "Yellow cards": [
+          "2",
+          "3"
+        ],
+        "Red cards": [
+          "1",
+          "0"
+        ],
+        "Shots off target": [
+          "2",
+          "2"
+        ]
+      }
+    },
+    {
+      "id": "bmpY7sL5",
+      "date": "2026-01-28T21:00:00.000Z",
+      "round": "Round 3",
+      "homeTeam": "CD Achuapa",
+      "awayTeam": "Deportivo Mixco",
+      "homeScore": 2,
+      "awayScore": 0,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "46%",
+          "54%"
+        ],
+        "Total shots": [
+          "8",
+          "7"
+        ],
+        "Shots on target": [
+          "4",
+          "2"
+        ],
+        "Corner kicks": [
+          "2",
+          "2"
+        ],
+        "Yellow cards": [
+          "3",
+          "0"
+        ],
+        "Red cards": [
+          "0",
+          "1"
+        ],
+        "Shots off target": [
+          "4",
+          "5"
+        ]
+      }
+    },
+    {
+      "id": "QZoQ93jg",
+      "date": "2026-01-27T21:00:00.000Z",
+      "round": "Round 3",
+      "homeTeam": "Coban Imperial",
+      "awayTeam": "Marquense",
+      "homeScore": 2,
+      "awayScore": 0,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "47%",
+          "53%"
+        ],
+        "Total shots": [
+          "11",
+          "9"
+        ],
+        "Shots on target": [
+          "4",
+          "5"
+        ],
+        "Corner kicks": [
+          "2",
+          "3"
+        ],
+        "Yellow cards": [
+          "3",
+          "2"
+        ],
+        "Shots off target": [
+          "7",
+          "4"
+        ]
+      }
+    },
+    {
+      "id": "dbKJ2nqQ",
+      "date": "2026-01-26T00:00:00.000Z",
+      "round": "Round 2",
+      "homeTeam": "Antigua GFC",
+      "awayTeam": "Xelaju",
+      "homeScore": 1,
+      "awayScore": 1,
+      "htHome": 1,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "40%",
+          "60%"
+        ],
+        "Total shots": [
+          "13",
+          "7"
+        ],
+        "Shots on target": [
+          "5",
+          "2"
+        ],
+        "Corner kicks": [
+          "4",
+          "5"
+        ],
+        "Yellow cards": [
+          "4",
+          "5"
+        ],
+        "Red cards": [
+          "0",
+          "1"
+        ],
+        "Shots off target": [
+          "8",
+          "5"
+        ]
+      }
+    },
+    {
+      "id": "K2S8pmNs",
+      "date": "2026-01-25T21:45:00.000Z",
+      "round": "Round 2",
+      "homeTeam": "Deportivo Mixco",
+      "awayTeam": "Malacateco",
+      "homeScore": 1,
+      "awayScore": 0,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "56%",
+          "44%"
+        ],
+        "Total shots": [
+          "17",
+          "10"
+        ],
+        "Shots on target": [
+          "2",
+          "3"
+        ],
+        "Corner kicks": [
+          "5",
+          "5"
+        ],
+        "Yellow cards": [
+          "2",
+          "1"
+        ],
+        "Shots off target": [
+          "15",
+          "7"
+        ]
+      }
+    },
+    {
+      "id": "hU5kcQ6m",
+      "date": "2026-01-25T19:45:00.000Z",
+      "round": "Round 2",
+      "homeTeam": "Mictlán",
+      "awayTeam": "Guastatoya",
+      "homeScore": 0,
+      "awayScore": 0,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "60%",
+          "40%"
+        ],
+        "Total shots": [
+          "6",
+          "7"
+        ],
+        "Shots on target": [
+          "4",
+          "3"
+        ],
+        "Corner kicks": [
+          "3",
+          "6"
+        ],
+        "Yellow cards": [
+          "1",
+          "3"
+        ],
+        "Red cards": [
+          "0",
+          "1"
+        ],
+        "Shots off target": [
+          "2",
+          "4"
+        ]
+      }
+    },
+    {
+      "id": "tjxXvqiJ",
+      "date": "2026-01-25T17:00:00.000Z",
+      "round": "Round 2",
+      "homeTeam": "Aurora",
+      "awayTeam": "CSD Municipal",
+      "homeScore": 2,
+      "awayScore": 2,
+      "htHome": 1,
+      "htAway": 2,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "54%",
+          "46%"
+        ],
+        "Total shots": [
+          "6",
+          "8"
+        ],
+        "Shots on target": [
+          "5",
+          "5"
+        ],
+        "Corner kicks": [
+          "2",
+          "3"
+        ],
+        "Yellow cards": [
+          "4",
+          "2"
+        ],
+        "Shots off target": [
+          "1",
+          "3"
+        ]
+      }
+    },
+    {
+      "id": "CApGrRif",
+      "date": "2026-01-25T02:00:00.000Z",
+      "round": "Round 2",
+      "homeTeam": "Marquense",
+      "awayTeam": "CD Achuapa",
+      "homeScore": 1,
+      "awayScore": 0,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "48%",
+          "52%"
+        ],
+        "Total shots": [
+          "14",
+          "2"
+        ],
+        "Shots on target": [
+          "6",
+          "1"
+        ],
+        "Corner kicks": [
+          "5",
+          "7"
+        ],
+        "Yellow cards": [
+          "1",
+          "6"
+        ],
+        "Shots off target": [
+          "8",
+          "1"
+        ]
+      }
+    },
+    {
+      "id": "YPYOt5M6",
+      "date": "2026-01-25T00:00:00.000Z",
+      "round": "Round 2",
+      "homeTeam": "CSD Comunicaciones",
+      "awayTeam": "Coban Imperial",
+      "homeScore": 2,
+      "awayScore": 3,
+      "htHome": 1,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "52%",
+          "48%"
+        ],
+        "Total shots": [
+          "17",
+          "10"
+        ],
+        "Shots on target": [
+          "7",
+          "5"
+        ],
+        "Corner kicks": [
+          "11",
+          "5"
+        ],
+        "Yellow cards": [
+          "1",
+          "2"
+        ],
+        "Shots off target": [
+          "10",
+          "5"
+        ]
+      }
+    },
+    {
+      "id": "Qu7ZVm8l",
+      "date": "2026-01-23T00:00:00.000Z",
+      "round": "Round 1",
+      "homeTeam": "Guastatoya",
+      "awayTeam": "Deportivo Mixco",
+      "homeScore": 2,
+      "awayScore": 0,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "50%",
+          "50%"
+        ],
+        "Total shots": [
+          "11",
+          "5"
+        ],
+        "Shots on target": [
+          "9",
+          "3"
+        ],
+        "Corner kicks": [
+          "4",
+          "3"
+        ],
+        "Yellow cards": [
+          "2",
+          "3"
+        ],
+        "Red cards": [
+          "0",
+          "1"
+        ],
+        "Shots off target": [
+          "2",
+          "2"
+        ]
+      }
+    },
+    {
+      "id": "bRjgjIg3",
+      "date": "2026-01-22T22:00:00.000Z",
+      "round": "Round 1",
+      "homeTeam": "CSD Municipal",
+      "awayTeam": "Mictlán",
+      "homeScore": 1,
+      "awayScore": 2,
+      "htHome": 0,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "60%",
+          "40%"
+        ],
+        "Total shots": [
+          "15",
+          "3"
+        ],
+        "Shots on target": [
+          "2",
+          "2"
+        ],
+        "Corner kicks": [
+          "6",
+          "2"
+        ],
+        "Yellow cards": [
+          "4",
+          "3"
+        ],
+        "Red cards": [
+          "1",
+          "0"
+        ],
+        "Shots off target": [
+          "13",
+          "1"
+        ]
+      }
+    },
+    {
+      "id": "0Ioxj9aK",
+      "date": "2026-01-22T01:00:00.000Z",
+      "round": "Round 1",
+      "homeTeam": "Malacateco",
+      "awayTeam": "Marquense",
+      "homeScore": 2,
+      "awayScore": 1,
+      "htHome": 1,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "60%",
+          "40%"
+        ],
+        "Total shots": [
+          "8",
+          "6"
+        ],
+        "Shots on target": [
+          "3",
+          "2"
+        ],
+        "Corner kicks": [
+          "11",
+          "2"
+        ],
+        "Yellow cards": [
+          "2",
+          "3"
+        ],
+        "Red cards": [
+          "0",
+          "1"
+        ],
+        "Shots off target": [
+          "5",
+          "4"
+        ]
+      }
+    },
+    {
+      "id": "Cd5sURx1",
+      "date": "2026-01-21T22:00:00.000Z",
+      "round": "Round 1",
+      "homeTeam": "CD Achuapa",
+      "awayTeam": "CSD Comunicaciones",
+      "homeScore": 2,
+      "awayScore": 3,
+      "htHome": 1,
+      "htAway": 3,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "55%",
+          "45%"
+        ],
+        "Total shots": [
+          "8",
+          "7"
+        ],
+        "Shots on target": [
+          "5",
+          "3"
+        ],
+        "Corner kicks": [
+          "4",
+          "3"
+        ],
+        "Yellow cards": [
+          "4",
+          "3"
+        ],
+        "Red cards": [
+          "0",
+          "1"
+        ],
+        "Shots off target": [
+          "3",
+          "4"
+        ]
+      }
+    },
+    {
+      "id": "8ObjS57D",
+      "date": "2026-01-21T20:00:00.000Z",
+      "round": "Round 1",
+      "homeTeam": "Coban Imperial",
+      "awayTeam": "Antigua GFC",
+      "homeScore": 5,
+      "awayScore": 1,
+      "htHome": 3,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "52%",
+          "48%"
+        ],
+        "Total shots": [
+          "10",
+          "6"
+        ],
+        "Shots on target": [
+          "7",
+          "2"
+        ],
+        "Corner kicks": [
+          "2",
+          "1"
+        ],
+        "Yellow cards": [
+          "2",
+          "4"
+        ],
+        "Shots off target": [
+          "3",
+          "4"
+        ]
+      }
+    },
+    {
+      "id": "6if1ldOF",
+      "date": "2026-01-21T02:00:00.000Z",
+      "round": "Round 1",
+      "homeTeam": "Xelaju",
+      "awayTeam": "Aurora",
+      "homeScore": 4,
+      "awayScore": 0,
+      "htHome": 3,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "50%",
+          "50%"
+        ],
+        "Total shots": [
+          "14",
+          "5"
+        ],
+        "Shots on target": [
+          "7",
+          "2"
+        ],
+        "Corner kicks": [
+          "3",
+          "1"
+        ],
+        "Yellow cards": [
+          "2",
+          "1"
+        ],
+        "Shots off target": [
+          "7",
+          "3"
+        ]
+      }
+    },
+    {
+      "id": "8WO6AJeS",
+      "date": "2025-12-28T00:00:00.000Z",
+      "round": "Final",
+      "homeTeam": "CSD Municipal",
+      "awayTeam": "Antigua GFC",
+      "homeScore": 1,
+      "awayScore": 0,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "51%",
+          "49%"
+        ],
+        "Total shots": [
+          "13",
+          "1"
+        ],
+        "Shots on target": [
+          "8",
+          "0"
+        ],
+        "Corner kicks": [
+          "7",
+          "4"
+        ],
+        "Yellow cards": [
+          "1",
+          "4"
+        ],
+        "Shots off target": [
+          "5",
+          "1"
+        ]
+      }
+    },
+    {
+      "id": "GO6aCuRF",
+      "date": "2025-12-22T01:00:00.000Z",
+      "round": "Final",
+      "homeTeam": "Antigua GFC",
+      "awayTeam": "CSD Municipal",
+      "homeScore": 2,
+      "awayScore": 0,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "47%",
+          "53%"
+        ],
+        "Total shots": [
+          "4",
+          "6"
+        ],
+        "Shots on target": [
+          "3",
+          "1"
+        ],
+        "Corner kicks": [
+          "1",
+          "5"
+        ],
+        "Yellow cards": [
+          "4",
+          "4"
+        ],
+        "Red cards": [
+          "1",
+          "0"
+        ],
+        "Shots off target": [
+          "1",
+          "5"
+        ]
+      }
+    },
+    {
+      "id": "EBSLAfvf",
+      "date": "2025-12-19T02:00:00.000Z",
+      "round": "Semi-finals",
+      "homeTeam": "CSD Municipal",
+      "awayTeam": "CD Achuapa",
+      "homeScore": 3,
+      "awayScore": 0,
+      "htHome": 3,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "60%",
+          "40%"
+        ],
+        "Total shots": [
+          "10",
+          "3"
+        ],
+        "Shots on target": [
+          "7",
+          "1"
+        ],
+        "Corner kicks": [
+          "6",
+          "1"
+        ],
+        "Yellow cards": [
+          "1",
+          "2"
+        ],
+        "Shots off target": [
+          "3",
+          "2"
+        ]
+      }
+    },
+    {
+      "id": "86HuVOP8",
+      "date": "2025-12-18T02:00:00.000Z",
+      "round": "Semi-finals",
+      "homeTeam": "Antigua GFC",
+      "awayTeam": "Aurora",
+      "homeScore": 4,
+      "awayScore": 2,
+      "htHome": 2,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "50%",
+          "50%"
+        ],
+        "Total shots": [
+          "13",
+          "6"
+        ],
+        "Shots on target": [
+          "6",
+          "4"
+        ],
+        "Corner kicks": [
+          "3",
+          "4"
+        ],
+        "Yellow cards": [
+          "4",
+          "6"
+        ],
+        "Shots off target": [
+          "7",
+          "2"
+        ]
+      }
+    },
+    {
+      "id": "SfUDCG9s",
+      "date": "2025-12-14T21:00:00.000Z",
+      "round": "Semi-finals",
+      "homeTeam": "CD Achuapa",
+      "awayTeam": "CSD Municipal",
+      "homeScore": 1,
+      "awayScore": 1,
+      "htHome": 1,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "53%",
+          "47%"
+        ],
+        "Total shots": [
+          "7",
+          "9"
+        ],
+        "Shots on target": [
+          "2",
+          "5"
+        ],
+        "Corner kicks": [
+          "5",
+          "4"
+        ],
+        "Yellow cards": [
+          "3",
+          "4"
+        ],
+        "Shots off target": [
+          "5",
+          "4"
+        ]
+      }
+    },
+    {
+      "id": "t0Pg7LX1",
+      "date": "2025-12-14T17:00:00.000Z",
+      "round": "Semi-finals",
+      "homeTeam": "Aurora",
+      "awayTeam": "Antigua GFC",
+      "homeScore": 0,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "52%",
+          "48%"
+        ],
+        "Total shots": [
+          "12",
+          "7"
+        ],
+        "Shots on target": [
+          "3",
+          "4"
+        ],
+        "Corner kicks": [
+          "5",
+          "4"
+        ],
+        "Yellow cards": [
+          "2",
+          "2"
+        ],
+        "Shots off target": [
+          "9",
+          "3"
+        ]
+      }
+    },
+    {
+      "id": "xl8WAHCm",
+      "date": "2025-12-12T02:00:00.000Z",
+      "round": "Quarter-finals",
+      "homeTeam": "Antigua GFC",
+      "awayTeam": "Xelaju",
+      "homeScore": 2,
+      "awayScore": 0,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "59%",
+          "41%"
+        ],
+        "Total shots": [
+          "16",
+          "3"
+        ],
+        "Shots on target": [
+          "6",
+          "1"
+        ],
+        "Corner kicks": [
+          "8",
+          "2"
+        ],
+        "Yellow cards": [
+          "2",
+          "2"
+        ],
+        "Red cards": [
+          "0",
+          "1"
+        ],
+        "Shots off target": [
+          "10",
+          "2"
+        ]
+      }
+    },
+    {
+      "id": "Q9vEhzcJ",
+      "date": "2025-12-11T21:00:00.000Z",
+      "round": "Quarter-finals",
+      "homeTeam": "Deportivo Mixco",
+      "awayTeam": "CD Achuapa",
+      "homeScore": 0,
+      "awayScore": 0,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "63%",
+          "37%"
+        ],
+        "Total shots": [
+          "12",
+          "4"
+        ],
+        "Shots on target": [
+          "4",
+          "2"
+        ],
+        "Corner kicks": [
+          "11",
+          "2"
+        ],
+        "Yellow cards": [
+          "2",
+          "4"
+        ],
+        "Shots off target": [
+          "8",
+          "2"
+        ]
+      }
+    },
+    {
+      "id": "nqB5dIcf",
+      "date": "2025-12-11T02:00:00.000Z",
+      "round": "Quarter-finals",
+      "homeTeam": "CSD Municipal",
+      "awayTeam": "Mictlán",
+      "homeScore": 2,
+      "awayScore": 0,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "57%",
+          "43%"
+        ],
+        "Total shots": [
+          "18",
+          "13"
+        ],
+        "Shots on target": [
+          "9",
+          "6"
+        ],
+        "Corner kicks": [
+          "9",
+          "4"
+        ],
+        "Yellow cards": [
+          "1",
+          "4"
+        ],
+        "Shots off target": [
+          "9",
+          "7"
+        ]
+      }
+    },
+    {
+      "id": "pIkPGnq9",
+      "date": "2025-12-10T20:00:00.000Z",
+      "round": "Quarter-finals",
+      "homeTeam": "Aurora",
+      "awayTeam": "Malacateco",
+      "homeScore": 2,
+      "awayScore": 1,
+      "htHome": 1,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "53%",
+          "47%"
+        ],
+        "Total shots": [
+          "6",
+          "6"
+        ],
+        "Shots on target": [
+          "5",
+          "2"
+        ],
+        "Corner kicks": [
+          "4",
+          "2"
+        ],
+        "Yellow cards": [
+          "5",
+          "2"
+        ],
+        "Shots off target": [
+          "1",
+          "4"
+        ]
+      }
+    },
+    {
+      "id": "hGWaGwkQ",
+      "date": "2025-12-09T02:00:00.000Z",
+      "round": "Quarter-finals",
+      "homeTeam": "Xelaju",
+      "awayTeam": "Antigua GFC",
+      "homeScore": 1,
+      "awayScore": 0,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "49%",
+          "51%"
+        ],
+        "Total shots": [
+          "11",
+          "8"
+        ],
+        "Shots on target": [
+          "5",
+          "1"
+        ],
+        "Corner kicks": [
+          "5",
+          "8"
+        ],
+        "Yellow cards": [
+          "5",
+          "4"
+        ],
+        "Shots off target": [
+          "6",
+          "7"
+        ]
+      }
+    },
+    {
+      "id": "Kd9DfdS6",
+      "date": "2025-12-07T21:00:00.000Z",
+      "round": "Quarter-finals",
+      "homeTeam": "CD Achuapa",
+      "awayTeam": "Deportivo Mixco",
+      "homeScore": 3,
+      "awayScore": 2,
+      "htHome": 2,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "58%",
+          "42%"
+        ],
+        "Total shots": [
+          "7",
+          "4"
+        ],
+        "Shots on target": [
+          "5",
+          "3"
+        ],
+        "Corner kicks": [
+          "6",
+          "4"
+        ],
+        "Yellow cards": [
+          "6",
+          "2"
+        ],
+        "Red cards": [
+          "0",
+          "1"
+        ],
+        "Shots off target": [
+          "2",
+          "1"
+        ]
+      }
+    },
+    {
+      "id": "4MCxgqi2",
+      "date": "2025-12-07T01:00:00.000Z",
+      "round": "Quarter-finals",
+      "homeTeam": "Malacateco",
+      "awayTeam": "Aurora",
+      "homeScore": 1,
+      "awayScore": 0,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "52%",
+          "48%"
+        ],
+        "Total shots": [
+          "18",
+          "4"
+        ],
+        "Shots on target": [
+          "10",
+          "3"
+        ],
+        "Corner kicks": [
+          "8",
+          "3"
+        ],
+        "Yellow cards": [
+          "1",
+          "4"
+        ],
+        "Shots off target": [
+          "8",
+          "1"
+        ]
+      }
+    },
+    {
+      "id": "jHHdbvTs",
+      "date": "2025-12-06T21:00:00.000Z",
+      "round": "Quarter-finals",
+      "homeTeam": "Mictlán",
+      "awayTeam": "CSD Municipal",
+      "homeScore": 0,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "49%",
+          "51%"
+        ],
+        "Total shots": [
+          "9",
+          "10"
+        ],
+        "Shots on target": [
+          "4",
+          "5"
+        ],
+        "Corner kicks": [
+          "4",
+          "7"
+        ],
+        "Yellow cards": [
+          "3",
+          "4"
+        ],
+        "Shots off target": [
+          "5",
+          "5"
+        ]
+      }
+    },
+    {
+      "id": "xnaE5tXF",
+      "date": "2025-11-30T21:00:00.000Z",
+      "round": "Round 22",
+      "homeTeam": "Antigua GFC",
+      "awayTeam": "Malacateco",
+      "homeScore": 2,
+      "awayScore": 0,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "54%",
+          "46%"
+        ],
+        "Total shots": [
+          "11",
+          "4"
+        ],
+        "Shots on target": [
+          "5",
+          "2"
+        ],
+        "Corner kicks": [
+          "2",
+          "4"
+        ],
+        "Yellow cards": [
+          "1",
+          "1"
+        ],
+        "Red cards": [
+          "1",
+          "1"
+        ],
+        "Shots off target": [
+          "6",
+          "2"
+        ]
+      }
+    },
+    {
+      "id": "WnHnmYGl",
+      "date": "2025-11-30T21:00:00.000Z",
+      "round": "Round 22",
+      "homeTeam": "Aurora",
+      "awayTeam": "Deportivo Mixco",
+      "homeScore": 1,
+      "awayScore": 0,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "57%",
+          "43%"
+        ],
+        "Total shots": [
+          "3",
+          "6"
+        ],
+        "Shots on target": [
+          "2",
+          "1"
+        ],
+        "Corner kicks": [
+          "8",
+          "4"
+        ],
+        "Yellow cards": [
+          "3",
+          "2"
+        ],
+        "Shots off target": [
+          "1",
+          "5"
+        ]
+      }
+    },
+    {
+      "id": "ba83qjGD",
+      "date": "2025-11-30T21:00:00.000Z",
+      "round": "Round 22",
+      "homeTeam": "Coban Imperial",
+      "awayTeam": "Mictlán",
+      "homeScore": 0,
+      "awayScore": 0,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "60%",
+          "40%"
+        ],
+        "Total shots": [
+          "14",
+          "9"
+        ],
+        "Shots on target": [
+          "7",
+          "1"
+        ],
+        "Corner kicks": [
+          "8",
+          "4"
+        ],
+        "Yellow cards": [
+          "0",
+          "1"
+        ],
+        "Shots off target": [
+          "7",
+          "8"
+        ]
+      }
+    },
+    {
+      "id": "4Y067223",
+      "date": "2025-11-30T21:00:00.000Z",
+      "round": "Round 22",
+      "homeTeam": "CSD Comunicaciones",
+      "awayTeam": "Xelaju",
+      "homeScore": 0,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "44%",
+          "56%"
+        ],
+        "Total shots": [
+          "8",
+          "3"
+        ],
+        "Shots on target": [
+          "2",
+          "2"
+        ],
+        "Corner kicks": [
+          "4",
+          "2"
+        ],
+        "Yellow cards": [
+          "1",
+          "1"
+        ],
+        "Shots off target": [
+          "6",
+          "1"
+        ]
+      }
+    },
+    {
+      "id": "lQIJqaAd",
+      "date": "2025-11-30T21:00:00.000Z",
+      "round": "Round 22",
+      "homeTeam": "CD Achuapa",
+      "awayTeam": "Guastatoya",
+      "homeScore": 1,
+      "awayScore": 1,
+      "htHome": 1,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "50%",
+          "50%"
+        ],
+        "Total shots": [
+          "8",
+          "10"
+        ],
+        "Shots on target": [
+          "4",
+          "5"
+        ],
+        "Corner kicks": [
+          "4",
+          "5"
+        ],
+        "Shots off target": [
+          "4",
+          "5"
+        ]
+      }
+    },
+    {
+      "id": "Gb5CoLup",
+      "date": "2025-11-30T21:00:00.000Z",
+      "round": "Round 22",
+      "homeTeam": "Marquense",
+      "awayTeam": "CSD Municipal",
+      "homeScore": 0,
+      "awayScore": 2,
+      "htHome": 0,
+      "htAway": 2,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "50%",
+          "50%"
+        ],
+        "Total shots": [
+          "9",
+          "8"
+        ],
+        "Shots on target": [
+          "6",
+          "4"
+        ],
+        "Corner kicks": [
+          "4",
+          "4"
+        ],
+        "Yellow cards": [
+          "3",
+          "2"
+        ],
+        "Shots off target": [
+          "3",
+          "4"
+        ]
+      }
+    },
+    {
+      "id": "2BLFTnKb",
+      "date": "2025-11-27T01:30:00.000Z",
+      "round": "Round 20",
+      "homeTeam": "CSD Municipal",
+      "awayTeam": "Guastatoya",
+      "homeScore": 3,
+      "awayScore": 0,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "60%",
+          "40%"
+        ],
+        "Total shots": [
+          "17",
+          "3"
+        ],
+        "Shots on target": [
+          "11",
+          "2"
+        ],
+        "Corner kicks": [
+          "10",
+          "2"
+        ],
+        "Yellow cards": [
+          "1",
+          "3"
+        ],
+        "Shots off target": [
+          "6",
+          "1"
+        ]
+      }
+    },
+    {
+      "id": "O0QXh3mA",
+      "date": "2025-11-23T23:00:00.000Z",
+      "round": "Round 21",
+      "homeTeam": "Guastatoya",
+      "awayTeam": "Marquense",
+      "homeScore": 5,
+      "awayScore": 0,
+      "htHome": 4,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "67%",
+          "33%"
+        ],
+        "Total shots": [
+          "20",
+          "1"
+        ],
+        "Shots on target": [
+          "15",
+          "0"
+        ],
+        "Corner kicks": [
+          "6",
+          "0"
+        ],
+        "Yellow cards": [
+          "1",
+          "4"
+        ],
+        "Shots off target": [
+          "5",
+          "1"
+        ]
+      }
+    },
+    {
+      "id": "WQTuisIM",
+      "date": "2025-11-23T21:00:00.000Z",
+      "round": "Round 21",
+      "homeTeam": "Malacateco",
+      "awayTeam": "CSD Comunicaciones",
+      "homeScore": 2,
+      "awayScore": 0,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "55%",
+          "45%"
+        ],
+        "Total shots": [
+          "6",
+          "5"
+        ],
+        "Shots on target": [
+          "2",
+          "0"
+        ],
+        "Corner kicks": [
+          "2",
+          "4"
+        ],
+        "Yellow cards": [
+          "2",
+          "3"
+        ],
+        "Shots off target": [
+          "4",
+          "5"
+        ]
+      }
+    },
+    {
+      "id": "Ac0bv4YG",
+      "date": "2025-11-23T00:00:00.000Z",
+      "round": "Round 21",
+      "homeTeam": "CSD Municipal",
+      "awayTeam": "Antigua GFC",
+      "homeScore": 2,
+      "awayScore": 1,
+      "htHome": 1,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "57%",
+          "43%"
+        ],
+        "Total shots": [
+          "11",
+          "7"
+        ],
+        "Shots on target": [
+          "6",
+          "4"
+        ],
+        "Corner kicks": [
+          "9",
+          "7"
+        ],
+        "Yellow cards": [
+          "1",
+          "2"
+        ],
+        "Shots off target": [
+          "5",
+          "3"
+        ]
+      }
+    },
+    {
+      "id": "zupwXLQj",
+      "date": "2025-11-22T22:00:00.000Z",
+      "round": "Round 21",
+      "homeTeam": "Mictlán",
+      "awayTeam": "Aurora",
+      "homeScore": 4,
+      "awayScore": 0,
+      "htHome": 2,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "47%",
+          "53%"
+        ],
+        "Total shots": [
+          "20",
+          "5"
+        ],
+        "Shots on target": [
+          "14",
+          "3"
+        ],
+        "Corner kicks": [
+          "7",
+          "6"
+        ],
+        "Yellow cards": [
+          "2",
+          "6"
+        ],
+        "Shots off target": [
+          "6",
+          "2"
+        ]
+      }
+    },
+    {
+      "id": "SYWOfPIc",
+      "date": "2025-11-22T20:00:00.000Z",
+      "round": "Round 21",
+      "homeTeam": "Deportivo Mixco",
+      "awayTeam": "CD Achuapa",
+      "homeScore": 5,
+      "awayScore": 1,
+      "htHome": 2,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "48%",
+          "52%"
+        ],
+        "Total shots": [
+          "17",
+          "6"
+        ],
+        "Shots on target": [
+          "9",
+          "2"
+        ],
+        "Corner kicks": [
+          "4",
+          "1"
+        ],
+        "Yellow cards": [
+          "3",
+          "3"
+        ],
+        "Shots off target": [
+          "8",
+          "4"
+        ]
+      }
+    },
+    {
+      "id": "IN36xr3T",
+      "date": "2025-11-22T02:00:00.000Z",
+      "round": "Round 21",
+      "homeTeam": "Xelaju",
+      "awayTeam": "Coban Imperial",
+      "homeScore": 3,
+      "awayScore": 1,
+      "htHome": 1,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "55%",
+          "45%"
+        ],
+        "Total shots": [
+          "12",
+          "9"
+        ],
+        "Shots on target": [
+          "6",
+          "3"
+        ],
+        "Corner kicks": [
+          "7",
+          "5"
+        ],
+        "Yellow cards": [
+          "2",
+          "2"
+        ],
+        "Shots off target": [
+          "6",
+          "6"
+        ]
+      }
+    },
+    {
+      "id": "lrCktQ34",
+      "date": "2025-11-17T00:00:00.000Z",
+      "round": "Round 20",
+      "homeTeam": "Antigua GFC",
+      "awayTeam": "CSD Comunicaciones",
+      "homeScore": 3,
+      "awayScore": 1,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "48%",
+          "52%"
+        ],
+        "Total shots": [
+          "8",
+          "8"
+        ],
+        "Shots on target": [
+          "4",
+          "3"
+        ],
+        "Corner kicks": [
+          "1",
+          "8"
+        ],
+        "Yellow cards": [
+          "3",
+          "3"
+        ],
+        "Shots off target": [
+          "4",
+          "5"
+        ]
+      }
+    },
+    {
+      "id": "tI8srnZi",
+      "date": "2025-11-16T21:00:00.000Z",
+      "round": "Round 20",
+      "homeTeam": "CD Achuapa",
+      "awayTeam": "Mictlán",
+      "homeScore": 1,
+      "awayScore": 0,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "49%",
+          "51%"
+        ],
+        "Total shots": [
+          "11",
+          "4"
+        ],
+        "Shots on target": [
+          "5",
+          "4"
+        ],
+        "Corner kicks": [
+          "10",
+          "6"
+        ],
+        "Yellow cards": [
+          "3",
+          "3"
+        ],
+        "Shots off target": [
+          "6",
+          "0"
+        ]
+      }
+    },
+    {
+      "id": "AyPNRQlB",
+      "date": "2025-11-16T17:00:00.000Z",
+      "round": "Round 20",
+      "homeTeam": "Aurora",
+      "awayTeam": "Xelaju",
+      "homeScore": 3,
+      "awayScore": 2,
+      "htHome": 2,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "53%",
+          "47%"
+        ],
+        "Total shots": [
+          "10",
+          "7"
+        ],
+        "Shots on target": [
+          "6",
+          "3"
+        ],
+        "Corner kicks": [
+          "3",
+          "4"
+        ],
+        "Yellow cards": [
+          "2",
+          "3"
+        ],
+        "Shots off target": [
+          "4",
+          "4"
+        ]
+      }
+    },
+    {
+      "id": "2Z32Krso",
+      "date": "2025-11-16T02:00:00.000Z",
+      "round": "Round 20",
+      "homeTeam": "Marquense",
+      "awayTeam": "Deportivo Mixco",
+      "homeScore": 1,
+      "awayScore": 2,
+      "htHome": 0,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "45%",
+          "55%"
+        ],
+        "Total shots": [
+          "10",
+          "13"
+        ],
+        "Shots on target": [
+          "5",
+          "4"
+        ],
+        "Corner kicks": [
+          "6",
+          "7"
+        ],
+        "Yellow cards": [
+          "5",
+          "4"
+        ],
+        "Red cards": [
+          "1",
+          "0"
+        ],
+        "Shots off target": [
+          "5",
+          "9"
+        ]
+      }
+    },
+    {
+      "id": "63IWP4JN",
+      "date": "2025-11-15T21:00:00.000Z",
+      "round": "Round 20",
+      "homeTeam": "Coban Imperial",
+      "awayTeam": "Malacateco",
+      "homeScore": 0,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "58%",
+          "42%"
+        ],
+        "Total shots": [
+          "15",
+          "8"
+        ],
+        "Shots on target": [
+          "10",
+          "4"
+        ],
+        "Corner kicks": [
+          "9",
+          "4"
+        ],
+        "Yellow cards": [
+          "2",
+          "2"
+        ],
+        "Shots off target": [
+          "5",
+          "4"
+        ]
+      }
+    },
+    {
+      "id": "h4SpWQN6",
+      "date": "2025-11-12T21:00:00.000Z",
+      "round": "Round 13",
+      "homeTeam": "CD Achuapa",
+      "awayTeam": "Marquense",
+      "homeScore": 0,
+      "awayScore": 0,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "56%",
+          "44%"
+        ],
+        "Total shots": [
+          "11",
+          "3"
+        ],
+        "Shots on target": [
+          "3",
+          "1"
+        ],
+        "Corner kicks": [
+          "3",
+          "0"
+        ],
+        "Yellow cards": [
+          "2",
+          "2"
+        ],
+        "Shots off target": [
+          "8",
+          "2"
+        ]
+      }
+    },
+    {
+      "id": "fRgQIV5t",
+      "date": "2025-11-09T23:00:00.000Z",
+      "round": "Round 19",
+      "homeTeam": "Guastatoya",
+      "awayTeam": "Antigua GFC",
+      "homeScore": 0,
+      "awayScore": 3,
+      "htHome": 0,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "47%",
+          "53%"
+        ],
+        "Total shots": [
+          "11",
+          "14"
+        ],
+        "Shots on target": [
+          "6",
+          "7"
+        ],
+        "Corner kicks": [
+          "5",
+          "5"
+        ],
+        "Yellow cards": [
+          "2",
+          "2"
+        ],
+        "Red cards": [
+          "1",
+          "1"
+        ],
+        "Shots off target": [
+          "5",
+          "7"
+        ]
+      }
+    },
+    {
+      "id": "trhYG9zg",
+      "date": "2025-11-09T21:00:00.000Z",
+      "round": "Round 19",
+      "homeTeam": "Deportivo Mixco",
+      "awayTeam": "CSD Municipal",
+      "homeScore": 1,
+      "awayScore": 0,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "43%",
+          "57%"
+        ],
+        "Total shots": [
+          "9",
+          "10"
+        ],
+        "Shots on target": [
+          "6",
+          "2"
+        ],
+        "Corner kicks": [
+          "2",
+          "4"
+        ],
+        "Yellow cards": [
+          "4",
+          "3"
+        ],
+        "Shots off target": [
+          "3",
+          "8"
+        ]
+      }
+    },
+    {
+      "id": "6kwbB54U",
+      "date": "2025-11-09T03:00:00.000Z",
+      "round": "Round 19",
+      "homeTeam": "Xelaju",
+      "awayTeam": "CD Achuapa",
+      "homeScore": 0,
+      "awayScore": 0,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "65%",
+          "35%"
+        ],
+        "Total shots": [
+          "13",
+          "3"
+        ],
+        "Shots on target": [
+          "3",
+          "1"
+        ],
+        "Corner kicks": [
+          "6",
+          "2"
+        ],
+        "Yellow cards": [
+          "0",
+          "1"
+        ],
+        "Shots off target": [
+          "10",
+          "2"
+        ]
+      }
+    },
+    {
+      "id": "ANqkDRZH",
+      "date": "2025-11-09T01:00:00.000Z",
+      "round": "Round 19",
+      "homeTeam": "Malacateco",
+      "awayTeam": "Aurora",
+      "homeScore": 1,
+      "awayScore": 0,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "59%",
+          "41%"
+        ],
+        "Total shots": [
+          "11",
+          "0"
+        ],
+        "Shots on target": [
+          "6",
+          "0"
+        ],
+        "Corner kicks": [
+          "9",
+          "2"
+        ],
+        "Yellow cards": [
+          "3",
+          "1"
+        ],
+        "Shots off target": [
+          "5",
+          "0"
+        ]
+      }
+    },
+    {
+      "id": "xAosFm55",
+      "date": "2025-11-08T23:00:00.000Z",
+      "round": "Round 19",
+      "homeTeam": "CSD Comunicaciones",
+      "awayTeam": "Coban Imperial",
+      "homeScore": 1,
+      "awayScore": 0,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "59%",
+          "41%"
+        ],
+        "Total shots": [
+          "9",
+          "5"
+        ],
+        "Shots on target": [
+          "2",
+          "1"
+        ],
+        "Corner kicks": [
+          "5",
+          "2"
+        ],
+        "Yellow cards": [
+          "4",
+          "4"
+        ],
+        "Shots off target": [
+          "7",
+          "4"
+        ]
+      }
+    },
+    {
+      "id": "tdX6V8kn",
+      "date": "2025-11-08T21:00:00.000Z",
+      "round": "Round 19",
+      "homeTeam": "Mictlán",
+      "awayTeam": "Marquense",
+      "homeScore": 1,
+      "awayScore": 1,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "45%",
+          "55%"
+        ],
+        "Total shots": [
+          "11",
+          "8"
+        ],
+        "Shots on target": [
+          "6",
+          "2"
+        ],
+        "Corner kicks": [
+          "5",
+          "4"
+        ],
+        "Yellow cards": [
+          "4",
+          "1"
+        ],
+        "Red cards": [
+          "2",
+          "0"
+        ],
+        "Shots off target": [
+          "5",
+          "6"
+        ]
+      }
+    },
+    {
+      "id": "8Wl6DzU0",
+      "date": "2025-11-07T01:30:00.000Z",
+      "round": "Round 18",
+      "homeTeam": "CSD Municipal",
+      "awayTeam": "Mictlán",
+      "homeScore": 1,
+      "awayScore": 0,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "65%",
+          "35%"
+        ],
+        "Total shots": [
+          "23",
+          "2"
+        ],
+        "Shots on target": [
+          "11",
+          "1"
+        ],
+        "Corner kicks": [
+          "8",
+          "1"
+        ],
+        "Yellow cards": [
+          "2",
+          "3"
+        ],
+        "Shots off target": [
+          "12",
+          "1"
+        ]
+      }
+    },
+    {
+      "id": "C4ecFdal",
+      "date": "2025-11-06T23:00:00.000Z",
+      "round": "Round 18",
+      "homeTeam": "Guastatoya",
+      "awayTeam": "Deportivo Mixco",
+      "homeScore": 1,
+      "awayScore": 0,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "57%",
+          "43%"
+        ],
+        "Total shots": [
+          "10",
+          "4"
+        ],
+        "Shots on target": [
+          "3",
+          "2"
+        ],
+        "Corner kicks": [
+          "7",
+          "5"
+        ],
+        "Yellow cards": [
+          "4",
+          "2"
+        ],
+        "Shots off target": [
+          "7",
+          "2"
+        ]
+      }
+    },
+    {
+      "id": "MZGIMv7E",
+      "date": "2025-11-06T02:00:00.000Z",
+      "round": "Round 18",
+      "homeTeam": "Marquense",
+      "awayTeam": "Xelaju",
+      "homeScore": 1,
+      "awayScore": 0,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "38%",
+          "62%"
+        ],
+        "Total shots": [
+          "5",
+          "18"
+        ],
+        "Shots on target": [
+          "3",
+          "3"
+        ],
+        "Corner kicks": [
+          "2",
+          "9"
+        ],
+        "Yellow cards": [
+          "3",
+          "1"
+        ],
+        "Red cards": [
+          "1",
+          "1"
+        ],
+        "Shots off target": [
+          "2",
+          "15"
+        ]
+      }
+    },
+    {
+      "id": "fTOWbyF7",
+      "date": "2025-11-06T00:00:00.000Z",
+      "round": "Round 18",
+      "homeTeam": "Antigua GFC",
+      "awayTeam": "Coban Imperial",
+      "homeScore": 0,
+      "awayScore": 0,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "49%",
+          "51%"
+        ],
+        "Total shots": [
+          "6",
+          "7"
+        ],
+        "Shots on target": [
+          "1",
+          "0"
+        ],
+        "Corner kicks": [
+          "3",
+          "4"
+        ],
+        "Yellow cards": [
+          "4",
+          "4"
+        ],
+        "Shots off target": [
+          "5",
+          "7"
+        ]
+      }
+    },
+    {
+      "id": "GdhEBEbD",
+      "date": "2025-11-05T22:00:00.000Z",
+      "round": "Round 18",
+      "homeTeam": "Aurora",
+      "awayTeam": "CSD Comunicaciones",
+      "homeScore": 0,
+      "awayScore": 0,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "53%",
+          "47%"
+        ],
+        "Total shots": [
+          "9",
+          "9"
+        ],
+        "Shots on target": [
+          "2",
+          "5"
+        ],
+        "Corner kicks": [
+          "10",
+          "4"
+        ],
+        "Yellow cards": [
+          "5",
+          "4"
+        ],
+        "Shots off target": [
+          "7",
+          "4"
+        ]
+      }
+    },
+    {
+      "id": "GY9RKIyR",
+      "date": "2025-11-05T20:00:00.000Z",
+      "round": "Round 18",
+      "homeTeam": "CD Achuapa",
+      "awayTeam": "Malacateco",
+      "homeScore": 0,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "48%",
+          "52%"
+        ],
+        "Total shots": [
+          "5",
+          "9"
+        ],
+        "Shots on target": [
+          "0",
+          "6"
+        ],
+        "Corner kicks": [
+          "7",
+          "5"
+        ],
+        "Yellow cards": [
+          "1",
+          "1"
+        ],
+        "Shots off target": [
+          "5",
+          "3"
+        ]
+      }
+    },
+    {
+      "id": "8dYdnbV1",
+      "date": "2025-11-03T02:00:00.000Z",
+      "round": "Round 17",
+      "homeTeam": "Xelaju",
+      "awayTeam": "CSD Municipal",
+      "homeScore": 0,
+      "awayScore": 3,
+      "htHome": 0,
+      "htAway": 3,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "47%",
+          "53%"
+        ],
+        "Total shots": [
+          "2",
+          "2"
+        ],
+        "Shots on target": [
+          "1",
+          "2"
+        ],
+        "Corner kicks": [
+          "0",
+          "3"
+        ],
+        "Yellow cards": [
+          "0",
+          "3"
+        ],
+        "Red cards": [
+          "1",
+          "0"
+        ],
+        "Shots off target": [
+          "1",
+          "0"
+        ]
+      }
+    },
+    {
+      "id": "O4GqA1N8",
+      "date": "2025-11-02T21:00:00.000Z",
+      "round": "Round 17",
+      "homeTeam": "Mictlán",
+      "awayTeam": "Guastatoya",
+      "homeScore": 2,
+      "awayScore": 3,
+      "htHome": 0,
+      "htAway": 3,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "47%",
+          "53%"
+        ],
+        "Total shots": [
+          "5",
+          "11"
+        ],
+        "Shots on target": [
+          "3",
+          "8"
+        ],
+        "Corner kicks": [
+          "3",
+          "9"
+        ],
+        "Yellow cards": [
+          "0",
+          "3"
+        ],
+        "Red cards": [
+          "0",
+          "1"
+        ],
+        "Shots off target": [
+          "2",
+          "3"
+        ]
+      }
+    },
+    {
+      "id": "dIEi8uhL",
+      "date": "2025-11-02T17:00:00.000Z",
+      "round": "Round 17",
+      "homeTeam": "Coban Imperial",
+      "awayTeam": "Aurora",
+      "homeScore": 2,
+      "awayScore": 0,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "49%",
+          "51%"
+        ],
+        "Total shots": [
+          "18",
+          "6"
+        ],
+        "Shots on target": [
+          "8",
+          "1"
+        ],
+        "Corner kicks": [
+          "6",
+          "7"
+        ],
+        "Yellow cards": [
+          "2",
+          "3"
+        ],
+        "Shots off target": [
+          "10",
+          "5"
+        ]
+      }
+    },
+    {
+      "id": "YDzO0cpe",
+      "date": "2025-11-02T01:00:00.000Z",
+      "round": "Round 17",
+      "homeTeam": "Malacateco",
+      "awayTeam": "Marquense",
+      "homeScore": 2,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "55%",
+          "45%"
+        ],
+        "Total shots": [
+          "16",
+          "6"
+        ],
+        "Shots on target": [
+          "6",
+          "1"
+        ],
+        "Corner kicks": [
+          "7",
+          "2"
+        ],
+        "Yellow cards": [
+          "1",
+          "0"
+        ],
+        "Red cards": [
+          "0",
+          "1"
+        ],
+        "Shots off target": [
+          "10",
+          "5"
+        ]
+      }
+    },
+    {
+      "id": "QmXF2JFr",
+      "date": "2025-11-01T23:00:00.000Z",
+      "round": "Round 17",
+      "homeTeam": "CSD Comunicaciones",
+      "awayTeam": "CD Achuapa",
+      "homeScore": 2,
+      "awayScore": 0,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "48%",
+          "52%"
+        ],
+        "Total shots": [
+          "14",
+          "3"
+        ],
+        "Shots on target": [
+          "7",
+          "1"
+        ],
+        "Corner kicks": [
+          "5",
+          "5"
+        ],
+        "Yellow cards": [
+          "1",
+          "2"
+        ],
+        "Red cards": [
+          "1",
+          "2"
+        ],
+        "Shots off target": [
+          "7",
+          "2"
+        ]
+      }
+    },
+    {
+      "id": "0WUllK0k",
+      "date": "2025-11-01T21:00:00.000Z",
+      "round": "Round 17",
+      "homeTeam": "Deportivo Mixco",
+      "awayTeam": "Antigua GFC",
+      "homeScore": 0,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "47%",
+          "53%"
+        ],
+        "Total shots": [
+          "4",
+          "10"
+        ],
+        "Shots on target": [
+          "1",
+          "6"
+        ],
+        "Corner kicks": [
+          "3",
+          "7"
+        ],
+        "Yellow cards": [
+          "1",
+          "3"
+        ],
+        "Red cards": [
+          "2",
+          "0"
+        ],
+        "Shots off target": [
+          "3",
+          "4"
+        ]
+      }
+    },
+    {
+      "id": "QDG6ysHq",
+      "date": "2025-10-26T23:00:00.000Z",
+      "round": "Round 16",
+      "homeTeam": "Guastatoya",
+      "awayTeam": "Xelaju",
+      "homeScore": 1,
+      "awayScore": 2,
+      "htHome": 1,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "46%",
+          "54%"
+        ],
+        "Total shots": [
+          "9",
+          "9"
+        ],
+        "Shots on target": [
+          "5",
+          "5"
+        ],
+        "Corner kicks": [
+          "9",
+          "1"
+        ],
+        "Yellow cards": [
+          "2",
+          "0"
+        ],
+        "Red cards": [
+          "1",
+          "0"
+        ],
+        "Shots off target": [
+          "4",
+          "4"
+        ]
+      }
+    },
+    {
+      "id": "GvVzs3gM",
+      "date": "2025-10-26T21:00:00.000Z",
+      "round": "Round 16",
+      "homeTeam": "CD Achuapa",
+      "awayTeam": "Coban Imperial",
+      "homeScore": 2,
+      "awayScore": 1,
+      "htHome": 1,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "47%",
+          "53%"
+        ],
+        "Total shots": [
+          "7",
+          "8"
+        ],
+        "Shots on target": [
+          "5",
+          "6"
+        ],
+        "Corner kicks": [
+          "5",
+          "5"
+        ],
+        "Yellow cards": [
+          "2",
+          "3"
+        ],
+        "Red cards": [
+          "0",
+          "1"
+        ],
+        "Shots off target": [
+          "2",
+          "2"
+        ]
+      }
+    },
+    {
+      "id": "GbgIgtwS",
+      "date": "2025-10-26T03:00:00.000Z",
+      "round": "Round 16",
+      "homeTeam": "Marquense",
+      "awayTeam": "CSD Comunicaciones",
+      "homeScore": 1,
+      "awayScore": 0,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "57%",
+          "43%"
+        ],
+        "Total shots": [
+          "11",
+          "3"
+        ],
+        "Shots on target": [
+          "3",
+          "1"
+        ],
+        "Corner kicks": [
+          "7",
+          "1"
+        ],
+        "Yellow cards": [
+          "3",
+          "4"
+        ],
+        "Red cards": [
+          "0",
+          "2"
+        ],
+        "Shots off target": [
+          "8",
+          "2"
+        ]
+      }
+    },
+    {
+      "id": "MuAFZKod",
+      "date": "2025-10-26T00:00:00.000Z",
+      "round": "Round 16",
+      "homeTeam": "Antigua GFC",
+      "awayTeam": "Aurora",
+      "homeScore": 1,
+      "awayScore": 2,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "41%",
+          "59%"
+        ],
+        "Total shots": [
+          "13",
+          "14"
+        ],
+        "Shots on target": [
+          "8",
+          "8"
+        ],
+        "Corner kicks": [
+          "8",
+          "1"
+        ],
+        "Yellow cards": [
+          "2",
+          "4"
+        ],
+        "Red cards": [
+          "1",
+          "0"
+        ],
+        "Shots off target": [
+          "5",
+          "6"
+        ]
+      }
+    },
+    {
+      "id": "EZd1cOw3",
+      "date": "2025-10-25T23:00:00.000Z",
+      "round": "Round 16",
+      "homeTeam": "CSD Municipal",
+      "awayTeam": "Malacateco",
+      "homeScore": 4,
+      "awayScore": 1,
+      "htHome": 2,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "60%",
+          "40%"
+        ],
+        "Total shots": [
+          "12",
+          "4"
+        ],
+        "Shots on target": [
+          "8",
+          "2"
+        ],
+        "Corner kicks": [
+          "6",
+          "2"
+        ],
+        "Yellow cards": [
+          "0",
+          "1"
+        ],
+        "Shots off target": [
+          "4",
+          "2"
+        ]
+      }
+    },
+    {
+      "id": "A1jAe28F",
+      "date": "2025-10-25T21:00:00.000Z",
+      "round": "Round 16",
+      "homeTeam": "Deportivo Mixco",
+      "awayTeam": "Mictlán",
+      "homeScore": 2,
+      "awayScore": 1,
+      "htHome": 1,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "58%",
+          "42%"
+        ],
+        "Total shots": [
+          "9",
+          "5"
+        ],
+        "Shots on target": [
+          "6",
+          "2"
+        ],
+        "Corner kicks": [
+          "3",
+          "1"
+        ],
+        "Yellow cards": [
+          "4",
+          "5"
+        ],
+        "Shots off target": [
+          "3",
+          "3"
+        ]
+      }
+    },
+    {
+      "id": "fcrBhKZp",
+      "date": "2025-10-22T20:30:00.000Z",
+      "round": "Round 10",
+      "homeTeam": "CD Achuapa",
+      "awayTeam": "Deportivo Mixco",
+      "homeScore": 3,
+      "awayScore": 2,
+      "htHome": 3,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "47%",
+          "53%"
+        ],
+        "Total shots": [
+          "5",
+          "11"
+        ],
+        "Shots on target": [
+          "4",
+          "7"
+        ],
+        "Corner kicks": [
+          "5",
+          "10"
+        ],
+        "Yellow cards": [
+          "1",
+          "2"
+        ],
+        "Red cards": [
+          "1",
+          "0"
+        ],
+        "Shots off target": [
+          "1",
+          "4"
+        ]
+      }
+    },
+    {
+      "id": "bRdubtCN",
+      "date": "2025-10-22T16:00:00.000Z",
+      "round": "Round 10",
+      "homeTeam": "Aurora",
+      "awayTeam": "Mictlán",
+      "homeScore": 3,
+      "awayScore": 2,
+      "htHome": 1,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "59%",
+          "41%"
+        ],
+        "Total shots": [
+          "11",
+          "7"
+        ],
+        "Shots on target": [
+          "3",
+          "5"
+        ],
+        "Corner kicks": [
+          "3",
+          "3"
+        ],
+        "Yellow cards": [
+          "0",
+          "5"
+        ],
+        "Red cards": [
+          "0",
+          "1"
+        ],
+        "Shots off target": [
+          "8",
+          "2"
+        ]
+      }
+    },
+    {
+      "id": "byn2esiI",
+      "date": "2025-10-20T01:30:00.000Z",
+      "round": "Round 15",
+      "homeTeam": "Malacateco",
+      "awayTeam": "Guastatoya",
+      "homeScore": 0,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "61%",
+          "39%"
+        ],
+        "Total shots": [
+          "9",
+          "7"
+        ],
+        "Shots on target": [
+          "4",
+          "3"
+        ],
+        "Corner kicks": [
+          "14",
+          "5"
+        ],
+        "Yellow cards": [
+          "3",
+          "6"
+        ],
+        "Red cards": [
+          "1",
+          "1"
+        ],
+        "Shots off target": [
+          "5",
+          "4"
+        ]
+      }
+    },
+    {
+      "id": "IRwfc3M5",
+      "date": "2025-10-19T23:00:00.000Z",
+      "round": "Round 15",
+      "homeTeam": "CSD Comunicaciones",
+      "awayTeam": "CSD Municipal",
+      "homeScore": 0,
+      "awayScore": 0,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "52%",
+          "48%"
+        ],
+        "Total shots": [
+          "10",
+          "3"
+        ],
+        "Shots on target": [
+          "7",
+          "0"
+        ],
+        "Corner kicks": [
+          "6",
+          "3"
+        ],
+        "Yellow cards": [
+          "7",
+          "4"
+        ],
+        "Shots off target": [
+          "3",
+          "3"
+        ]
+      }
+    },
+    {
+      "id": "fPtSrPO9",
+      "date": "2025-10-19T21:00:00.000Z",
+      "round": "Round 15",
+      "homeTeam": "Coban Imperial",
+      "awayTeam": "Marquense",
+      "homeScore": 3,
+      "awayScore": 0,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "53%",
+          "47%"
+        ],
+        "Total shots": [
+          "16",
+          "6"
+        ],
+        "Shots on target": [
+          "10",
+          "3"
+        ],
+        "Corner kicks": [
+          "7",
+          "3"
+        ],
+        "Yellow cards": [
+          "3",
+          "3"
+        ],
+        "Shots off target": [
+          "6",
+          "3"
+        ]
+      }
+    },
+    {
+      "id": "A1znaPig",
+      "date": "2025-10-18T21:00:00.000Z",
+      "round": "Round 15",
+      "homeTeam": "Mictlán",
+      "awayTeam": "Antigua GFC",
+      "homeScore": 1,
+      "awayScore": 2,
+      "htHome": 0,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "45%",
+          "55%"
+        ],
+        "Total shots": [
+          "5",
+          "7"
+        ],
+        "Shots on target": [
+          "3",
+          "3"
+        ],
+        "Corner kicks": [
+          "2",
+          "3"
+        ],
+        "Yellow cards": [
+          "2",
+          "4"
+        ],
+        "Shots off target": [
+          "2",
+          "4"
+        ]
+      }
+    },
+    {
+      "id": "UN8ZxZzi",
+      "date": "2025-10-18T17:00:00.000Z",
+      "round": "Round 15",
+      "homeTeam": "Aurora",
+      "awayTeam": "CD Achuapa",
+      "homeScore": 2,
+      "awayScore": 1,
+      "htHome": 2,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "51%",
+          "49%"
+        ],
+        "Total shots": [
+          "18",
+          "4"
+        ],
+        "Shots on target": [
+          "12",
+          "3"
+        ],
+        "Corner kicks": [
+          "4",
+          "3"
+        ],
+        "Yellow cards": [
+          "1",
+          "2"
+        ],
+        "Shots off target": [
+          "6",
+          "1"
+        ]
+      }
+    },
+    {
+      "id": "nawKpofc",
+      "date": "2025-10-18T02:00:00.000Z",
+      "round": "Round 15",
+      "homeTeam": "Xelaju",
+      "awayTeam": "Deportivo Mixco",
+      "homeScore": 1,
+      "awayScore": 2,
+      "htHome": 1,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "61%",
+          "39%"
+        ],
+        "Total shots": [
+          "12",
+          "6"
+        ],
+        "Shots on target": [
+          "7",
+          "4"
+        ],
+        "Corner kicks": [
+          "9",
+          "3"
+        ],
+        "Yellow cards": [
+          "2",
+          "3"
+        ],
+        "Red cards": [
+          "1",
+          "0"
+        ],
+        "Shots off target": [
+          "5",
+          "2"
+        ]
+      }
+    },
+    {
+      "id": "UmzM6Afe",
+      "date": "2025-10-16T02:00:00.000Z",
+      "round": "Round 12",
+      "homeTeam": "Marquense",
+      "awayTeam": "Antigua GFC",
+      "homeScore": 3,
+      "awayScore": 2,
+      "htHome": 1,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "50%",
+          "50%"
+        ],
+        "Total shots": [
+          "0",
+          "0"
+        ],
+        "Shots on target": [
+          "0",
+          "0"
+        ],
+        "Corner kicks": [
+          "0",
+          "0"
+        ],
+        "Shots off target": [
+          "0",
+          "0"
+        ]
+      }
+    },
+    {
+      "id": "67hKpQx0",
+      "date": "2025-10-13T00:00:00.000Z",
+      "round": "Round 14",
+      "homeTeam": "Marquense",
+      "awayTeam": "Aurora",
+      "homeScore": 1,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "46%",
+          "54%"
+        ],
+        "Total shots": [
+          "10",
+          "7"
+        ],
+        "Shots on target": [
+          "5",
+          "5"
+        ],
+        "Corner kicks": [
+          "9",
+          "8"
+        ],
+        "Yellow cards": [
+          "5",
+          "2"
+        ],
+        "Shots off target": [
+          "5",
+          "2"
+        ]
+      }
+    },
+    {
+      "id": "lnnw1oNt",
+      "date": "2025-10-12T22:00:00.000Z",
+      "round": "Round 14",
+      "homeTeam": "Guastatoya",
+      "awayTeam": "CSD Comunicaciones",
+      "homeScore": 0,
+      "awayScore": 0,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "50%",
+          "50%"
+        ],
+        "Total shots": [
+          "1",
+          "10"
+        ],
+        "Shots on target": [
+          "0",
+          "3"
+        ],
+        "Corner kicks": [
+          "7",
+          "4"
+        ],
+        "Yellow cards": [
+          "3",
+          "5"
+        ],
+        "Shots off target": [
+          "1",
+          "7"
+        ]
+      }
+    },
+    {
+      "id": "bN6TtrxP",
+      "date": "2025-10-12T20:00:00.000Z",
+      "round": "Round 14",
+      "homeTeam": "Deportivo Mixco",
+      "awayTeam": "Malacateco",
+      "homeScore": 4,
+      "awayScore": 1,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "65%",
+          "35%"
+        ],
+        "Total shots": [
+          "13",
+          "8"
+        ],
+        "Shots on target": [
+          "6",
+          "3"
+        ],
+        "Corner kicks": [
+          "6",
+          "5"
+        ],
+        "Yellow cards": [
+          "1",
+          "4"
+        ],
+        "Shots off target": [
+          "7",
+          "5"
+        ]
+      }
+    },
+    {
+      "id": "vc8uh8pQ",
+      "date": "2025-10-12T16:00:00.000Z",
+      "round": "Round 14",
+      "homeTeam": "CSD Municipal",
+      "awayTeam": "Coban Imperial",
+      "homeScore": 3,
+      "awayScore": 1,
+      "htHome": 2,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "53%",
+          "47%"
+        ],
+        "Total shots": [
+          "15",
+          "13"
+        ],
+        "Shots on target": [
+          "8",
+          "3"
+        ],
+        "Corner kicks": [
+          "8",
+          "6"
+        ],
+        "Yellow cards": [
+          "3",
+          "4"
+        ],
+        "Shots off target": [
+          "7",
+          "10"
+        ]
+      }
+    },
+    {
+      "id": "vLjSr47C",
+      "date": "2025-10-12T01:00:00.000Z",
+      "round": "Round 14",
+      "homeTeam": "Antigua GFC",
+      "awayTeam": "CD Achuapa",
+      "homeScore": 1,
+      "awayScore": 0,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "56%",
+          "44%"
+        ],
+        "Total shots": [
+          "6",
+          "5"
+        ],
+        "Shots on target": [
+          "2",
+          "0"
+        ],
+        "Corner kicks": [
+          "9",
+          "2"
+        ],
+        "Yellow cards": [
+          "3",
+          "2"
+        ],
+        "Shots off target": [
+          "4",
+          "5"
+        ]
+      }
+    },
+    {
+      "id": "AuaBnn8m",
+      "date": "2025-10-11T21:00:00.000Z",
+      "round": "Round 14",
+      "homeTeam": "Mictlán",
+      "awayTeam": "Xelaju",
+      "homeScore": 2,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "58%",
+          "42%"
+        ],
+        "Total shots": [
+          "20",
+          "12"
+        ],
+        "Shots on target": [
+          "11",
+          "8"
+        ],
+        "Corner kicks": [
+          "7",
+          "4"
+        ],
+        "Yellow cards": [
+          "3",
+          "4"
+        ],
+        "Shots off target": [
+          "9",
+          "4"
+        ]
+      }
+    },
+    {
+      "id": "OOzUZ8Os",
+      "date": "2025-10-06T00:00:00.000Z",
+      "round": "Round 13",
+      "homeTeam": "Antigua GFC",
+      "awayTeam": "Xelaju",
+      "homeScore": 2,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "47%",
+          "53%"
+        ],
+        "Total shots": [
+          "9",
+          "7"
+        ],
+        "Shots on target": [
+          "2",
+          "2"
+        ],
+        "Corner kicks": [
+          "3",
+          "4"
+        ],
+        "Yellow cards": [
+          "5",
+          "3"
+        ],
+        "Red cards": [
+          "1",
+          "0"
+        ],
+        "Shots off target": [
+          "7",
+          "5"
+        ]
+      }
+    },
+    {
+      "id": "vLjSr47C",
+      "date": "2025-10-12T01:00:00.000Z",
+      "round": "Round 14",
+      "homeTeam": "Antigua GFC",
+      "awayTeam": "CD Achuapa",
+      "homeScore": 1,
+      "awayScore": 0,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "56%",
+          "44%"
+        ],
+        "Total shots": [
+          "6",
+          "5"
+        ],
+        "Shots on target": [
+          "2",
+          "0"
+        ],
+        "Corner kicks": [
+          "9",
+          "2"
+        ],
+        "Yellow cards": [
+          "3",
+          "2"
+        ],
+        "Shots off target": [
+          "4",
+          "5"
+        ]
+      }
+    },
+    {
+      "id": "AuaBnn8m",
+      "date": "2025-10-11T21:00:00.000Z",
+      "round": "Round 14",
+      "homeTeam": "Mictlán",
+      "awayTeam": "Xelaju",
+      "homeScore": 2,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "58%",
+          "42%"
+        ],
+        "Total shots": [
+          "20",
+          "12"
+        ],
+        "Shots on target": [
+          "11",
+          "8"
+        ],
+        "Corner kicks": [
+          "7",
+          "4"
+        ],
+        "Yellow cards": [
+          "3",
+          "4"
+        ],
+        "Shots off target": [
+          "9",
+          "4"
+        ]
+      }
+    },
+    {
+      "id": "OOzUZ8Os",
+      "date": "2025-10-06T00:00:00.000Z",
+      "round": "Round 13",
+      "homeTeam": "Antigua GFC",
+      "awayTeam": "Xelaju",
+      "homeScore": 2,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "47%",
+          "53%"
+        ],
+        "Total shots": [
+          "9",
+          "7"
+        ],
+        "Shots on target": [
+          "2",
+          "2"
+        ],
+        "Corner kicks": [
+          "3",
+          "4"
+        ],
+        "Yellow cards": [
+          "5",
+          "3"
+        ],
+        "Red cards": [
+          "1",
+          "0"
+        ],
+        "Shots off target": [
+          "7",
+          "5"
+        ]
+      }
+    },
+    {
+      "id": "CWiCHR8D",
+      "date": "2025-10-05T17:00:00.000Z",
+      "round": "Round 13",
+      "homeTeam": "Aurora",
+      "awayTeam": "CSD Municipal",
+      "homeScore": 1,
+      "awayScore": 0,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "60%",
+          "40%"
+        ],
+        "Total shots": [
+          "7",
+          "7"
+        ],
+        "Shots on target": [
+          "5",
+          "2"
+        ],
+        "Corner kicks": [
+          "5",
+          "3"
+        ],
+        "Yellow cards": [
+          "4",
+          "5"
+        ],
+        "Red cards": [
+          "0",
+          "1"
+        ],
+        "Shots off target": [
+          "2",
+          "5"
+        ]
+      }
+    },
+    {
+      "id": "b1VhU4hJ",
+      "date": "2025-10-05T01:00:00.000Z",
+      "round": "Round 13",
+      "homeTeam": "Malacateco",
+      "awayTeam": "Mictlán",
+      "homeScore": 1,
+      "awayScore": 0,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "52%",
+          "48%"
+        ],
+        "Total shots": [
+          "10",
+          "10"
+        ],
+        "Shots on target": [
+          "3",
+          "1"
+        ],
+        "Corner kicks": [
+          "9",
+          "1"
+        ],
+        "Yellow cards": [
+          "2",
+          "1"
+        ],
+        "Shots off target": [
+          "7",
+          "9"
+        ]
+      }
+    },
+    {
+      "id": "dxZyYngf",
+      "date": "2025-10-04T23:00:00.000Z",
+      "round": "Round 13",
+      "homeTeam": "CSD Comunicaciones",
+      "awayTeam": "Deportivo Mixco",
+      "homeScore": 0,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "53%",
+          "47%"
+        ],
+        "Total shots": [
+          "6",
+          "3"
+        ],
+        "Shots on target": [
+          "2",
+          "1"
+        ],
+        "Corner kicks": [
+          "10",
+          "3"
+        ],
+        "Yellow cards": [
+          "2",
+          "6"
+        ],
+        "Shots off target": [
+          "4",
+          "2"
+        ]
+      }
+    },
+    {
+      "id": "4vfcuV0K",
+      "date": "2025-10-04T21:00:00.000Z",
+      "round": "Round 13",
+      "homeTeam": "Coban Imperial",
+      "awayTeam": "Guastatoya",
+      "homeScore": 2,
+      "awayScore": 1,
+      "htHome": 1,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "47%",
+          "53%"
+        ],
+        "Total shots": [
+          "8",
+          "12"
+        ],
+        "Shots on target": [
+          "4",
+          "5"
+        ],
+        "Corner kicks": [
+          "5",
+          "9"
+        ],
+        "Yellow cards": [
+          "0",
+          "1"
+        ],
+        "Shots off target": [
+          "4",
+          "7"
+        ]
+      }
+    },
+    {
+      "id": "ri0eL99l",
+      "date": "2025-09-29T02:00:00.000Z",
+      "round": "Round 12",
+      "homeTeam": "Xelaju",
+      "awayTeam": "Malacateco",
+      "homeScore": 3,
+      "awayScore": 0,
+      "htHome": 2,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "50%",
+          "50%"
+        ],
+        "Total shots": [
+          "0",
+          "0"
+        ],
+        "Shots on target": [
+          "0",
+          "0"
+        ],
+        "Corner kicks": [
+          "0",
+          "0"
+        ],
+        "Shots off target": [
+          "0",
+          "0"
+        ]
+      }
+    },
+    {
+      "id": "jgLGSiHE",
+      "date": "2025-09-28T23:00:00.000Z",
+      "round": "Round 12",
+      "homeTeam": "Guastatoya",
+      "awayTeam": "Aurora",
+      "homeScore": 3,
+      "awayScore": 2,
+      "htHome": 3,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "50%",
+          "50%"
+        ],
+        "Total shots": [
+          "0",
+          "0"
+        ],
+        "Shots on target": [
+          "0",
+          "0"
+        ],
+        "Corner kicks": [
+          "0",
+          "0"
+        ],
+        "Yellow cards": [
+          "1",
+          "1"
+        ],
+        "Shots off target": [
+          "0",
+          "0"
+        ]
+      }
+    },
+    {
+      "id": "jH33Jmv1",
+      "date": "2025-09-28T21:00:00.000Z",
+      "round": "Round 12",
+      "homeTeam": "Mictlán",
+      "awayTeam": "CSD Comunicaciones",
+      "homeScore": 1,
+      "awayScore": 0,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "50%",
+          "50%"
+        ],
+        "Total shots": [
+          "6",
+          "5"
+        ],
+        "Shots on target": [
+          "2",
+          "1"
+        ],
+        "Corner kicks": [
+          "5",
+          "2"
+        ],
+        "Yellow cards": [
+          "3",
+          "5"
+        ],
+        "Shots off target": [
+          "4",
+          "4"
+        ]
+      }
+    },
+    {
+      "id": "O6JOQVoR",
+      "date": "2025-09-27T23:00:00.000Z",
+      "round": "Round 12",
+      "homeTeam": "CSD Municipal",
+      "awayTeam": "CD Achuapa",
+      "homeScore": 3,
+      "awayScore": 0,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "43%",
+          "57%"
+        ],
+        "Total shots": [
+          "14",
+          "4"
+        ],
+        "Shots on target": [
+          "7",
+          "2"
+        ],
+        "Corner kicks": [
+          "6",
+          "1"
+        ],
+        "Yellow cards": [
+          "0",
+          "1"
+        ],
+        "Shots off target": [
+          "7",
+          "2"
+        ]
+      }
+    },
+    {
+      "id": "xEwU4lP7",
+      "date": "2025-09-27T21:00:00.000Z",
+      "round": "Round 12",
+      "homeTeam": "Deportivo Mixco",
+      "awayTeam": "Coban Imperial",
+      "homeScore": 1,
+      "awayScore": 0,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "50%",
+          "50%"
+        ],
+        "Total shots": [
+          "8",
+          "6"
+        ],
+        "Shots on target": [
+          "4",
+          "3"
+        ],
+        "Corner kicks": [
+          "3",
+          "5"
+        ],
+        "Yellow cards": [
+          "4",
+          "6"
+        ],
+        "Shots off target": [
+          "4",
+          "3"
+        ]
+      }
+    },
+    {
+      "id": "8YoD8WPr",
+      "date": "2025-09-21T23:00:00.000Z",
+      "round": "Round 11",
+      "homeTeam": "Mictlán",
+      "awayTeam": "Coban Imperial",
+      "homeScore": 1,
+      "awayScore": 0,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "48%",
+          "52%"
+        ],
+        "Total shots": [
+          "6",
+          "8"
+        ],
+        "Shots on target": [
+          "1",
+          "4"
+        ],
+        "Corner kicks": [
+          "6",
+          "10"
+        ],
+        "Yellow cards": [
+          "1",
+          "2"
+        ],
+        "Shots off target": [
+          "5",
+          "4"
+        ]
+      }
+    },
+    {
+      "id": "WhzMAJeT",
+      "date": "2025-09-21T21:00:00.000Z",
+      "round": "Round 11",
+      "homeTeam": "Guastatoya",
+      "awayTeam": "CD Achuapa",
+      "homeScore": 0,
+      "awayScore": 0,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "52%",
+          "48%"
+        ],
+        "Total shots": [
+          "21",
+          "7"
+        ],
+        "Shots on target": [
+          "4",
+          "2"
+        ],
+        "Corner kicks": [
+          "7",
+          "2"
+        ],
+        "Yellow cards": [
+          "0",
+          "4"
+        ],
+        "Shots off target": [
+          "17",
+          "5"
+        ]
+      }
+    },
+    {
+      "id": "rX3vT0Bc",
+      "date": "2025-09-21T02:00:00.000Z",
+      "round": "Round 11",
+      "homeTeam": "Malacateco",
+      "awayTeam": "Antigua GFC",
+      "homeScore": 3,
+      "awayScore": 1,
+      "htHome": 2,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "48%",
+          "52%"
+        ],
+        "Total shots": [
+          "4",
+          "7"
+        ],
+        "Shots on target": [
+          "1",
+          "1"
+        ],
+        "Corner kicks": [
+          "4",
+          "3"
+        ],
+        "Yellow cards": [
+          "2",
+          "4"
+        ],
+        "Shots off target": [
+          "3",
+          "6"
+        ]
+      }
+    },
+    {
+      "id": "OSWDCuRG",
+      "date": "2025-09-20T23:00:00.000Z",
+      "round": "Round 11",
+      "homeTeam": "CSD Municipal",
+      "awayTeam": "Marquense",
+      "homeScore": 3,
+      "awayScore": 0,
+      "htHome": 3,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "48%",
+          "52%"
+        ],
+        "Total shots": [
+          "13",
+          "7"
+        ],
+        "Shots on target": [
+          "7",
+          "2"
+        ],
+        "Corner kicks": [
+          "6",
+          "5"
+        ],
+        "Yellow cards": [
+          "1",
+          "3"
+        ],
+        "Shots off target": [
+          "6",
+          "5"
+        ]
+      }
+    },
+    {
+      "id": "2ZJuRvtA",
+      "date": "2025-09-20T21:00:00.000Z",
+      "round": "Round 11",
+      "homeTeam": "Deportivo Mixco",
+      "awayTeam": "Aurora",
+      "homeScore": 2,
+      "awayScore": 2,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Total shots": [
+          "0",
+          "0"
+        ]
+      }
+    },
+    {
+      "id": "jwHh5cJj",
+      "date": "2025-09-20T02:00:00.000Z",
+      "round": "Round 11",
+      "homeTeam": "Xelaju",
+      "awayTeam": "CSD Comunicaciones",
+      "homeScore": 3,
+      "awayScore": 0,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "46%",
+          "54%"
+        ],
+        "Total shots": [
+          "8",
+          "10"
+        ],
+        "Shots on target": [
+          "1",
+          "3"
+        ],
+        "Corner kicks": [
+          "3",
+          "2"
+        ],
+        "Yellow cards": [
+          "5",
+          "4"
+        ],
+        "Red cards": [
+          "1",
+          "0"
+        ],
+        "Shots off target": [
+          "7",
+          "7"
+        ]
+      }
+    },
+    {
+      "id": "Gr5O1OCb",
+      "date": "2025-09-18T02:00:00.000Z",
+      "round": "Round 10",
+      "homeTeam": "Antigua GFC",
+      "awayTeam": "CSD Municipal",
+      "homeScore": 1,
+      "awayScore": 1,
+      "htHome": 1,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "48%",
+          "52%"
+        ],
+        "Total shots": [
+          "14",
+          "8"
+        ],
+        "Shots on target": [
+          "3",
+          "3"
+        ],
+        "Corner kicks": [
+          "3",
+          "4"
+        ],
+        "Yellow cards": [
+          "7",
+          "3"
+        ],
+        "Shots off target": [
+          "11",
+          "5"
+        ]
+      }
+    },
+    {
+      "id": "A5QcGNRi",
+      "date": "2025-09-18T00:00:00.000Z",
+      "round": "Round 10",
+      "homeTeam": "Marquense",
+      "awayTeam": "Guastatoya",
+      "homeScore": 0,
+      "awayScore": 2,
+      "htHome": 0,
+      "htAway": 2,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "44%",
+          "56%"
+        ],
+        "Total shots": [
+          "11",
+          "15"
+        ],
+        "Shots on target": [
+          "1",
+          "7"
+        ],
+        "Corner kicks": [
+          "11",
+          "2"
+        ],
+        "Yellow cards": [
+          "2",
+          "4"
+        ],
+        "Shots off target": [
+          "10",
+          "8"
+        ]
+      }
+    },
+    {
+      "id": "2Dr5E1d4",
+      "date": "2025-09-17T01:00:00.000Z",
+      "round": "Round 10",
+      "homeTeam": "CSD Comunicaciones",
+      "awayTeam": "Malacateco",
+      "homeScore": 1,
+      "awayScore": 0,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "67%",
+          "33%"
+        ],
+        "Total shots": [
+          "8",
+          "9"
+        ],
+        "Shots on target": [
+          "1",
+          "3"
+        ],
+        "Corner kicks": [
+          "2",
+          "3"
+        ],
+        "Yellow cards": [
+          "2",
+          "2"
+        ],
+        "Red cards": [
+          "0",
+          "1"
+        ],
+        "Shots off target": [
+          "7",
+          "6"
+        ]
+      }
+    },
+    {
+      "id": "2a3Wa2sB",
+      "date": "2025-09-16T21:00:00.000Z",
+      "round": "Round 10",
+      "homeTeam": "Coban Imperial",
+      "awayTeam": "Xelaju",
+      "homeScore": 2,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "59%",
+          "41%"
+        ],
+        "Total shots": [
+          "9",
+          "6"
+        ],
+        "Shots on target": [
+          "4",
+          "2"
+        ],
+        "Corner kicks": [
+          "1",
+          "4"
+        ],
+        "Yellow cards": [
+          "3",
+          "5"
+        ],
+        "Shots off target": [
+          "5",
+          "4"
+        ]
+      }
+    },
+    {
+      "id": "YamYj7bt",
+      "date": "2025-09-14T21:00:00.000Z",
+      "round": "Round 9",
+      "homeTeam": "Guastatoya",
+      "awayTeam": "CSD Municipal",
+      "homeScore": 0,
+      "awayScore": 3,
+      "htHome": 0,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "46%",
+          "54%"
+        ],
+        "Total shots": [
+          "6",
+          "12"
+        ],
+        "Shots on target": [
+          "2",
+          "7"
+        ],
+        "Corner kicks": [
+          "4",
+          "3"
+        ],
+        "Yellow cards": [
+          "1",
+          "1"
+        ],
+        "Shots off target": [
+          "4",
+          "5"
+        ],
+        "Goalkeeper saves": [
+          "4",
+          "2"
+        ]
+      }
+    },
+    {
+      "id": "tQjtkoTh",
+      "date": "2025-09-14T03:00:00.000Z",
+      "round": "Round 9",
+      "homeTeam": "Xelaju",
+      "awayTeam": "Aurora",
+      "homeScore": 2,
+      "awayScore": 2,
+      "htHome": 1,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "51%",
+          "49%"
+        ],
+        "Total shots": [
+          "9",
+          "10"
+        ],
+        "Shots on target": [
+          "3",
+          "6"
+        ],
+        "Corner kicks": [
+          "4",
+          "2"
+        ],
+        "Yellow cards": [
+          "1",
+          "1"
+        ],
+        "Shots off target": [
+          "6",
+          "4"
+        ],
+        "Goalkeeper saves": [
+          "4",
+          "1"
+        ]
+      }
+    },
+    {
+      "id": "44y6qscU",
+      "date": "2025-09-14T01:00:00.000Z",
+      "round": "Round 9",
+      "homeTeam": "Mictlán",
+      "awayTeam": "CD Achuapa",
+      "homeScore": 1,
+      "awayScore": 0,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "50%",
+          "50%"
+        ],
+        "Total shots": [
+          "12",
+          "2"
+        ],
+        "Shots on target": [
+          "6",
+          "0"
+        ],
+        "Corner kicks": [
+          "7",
+          "2"
+        ],
+        "Yellow cards": [
+          "4",
+          "3"
+        ],
+        "Shots off target": [
+          "6",
+          "2"
+        ],
+        "Goalkeeper saves": [
+          "0",
+          "5"
+        ]
+      }
+    },
+    {
+      "id": "fTGF3prn",
+      "date": "2025-09-13T23:00:00.000Z",
+      "round": "Round 9",
+      "homeTeam": "CSD Comunicaciones",
+      "awayTeam": "Antigua GFC",
+      "homeScore": 0,
+      "awayScore": 3,
+      "htHome": 0,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "42%",
+          "58%"
+        ],
+        "Total shots": [
+          "8",
+          "16"
+        ],
+        "Shots on target": [
+          "3",
+          "11"
+        ],
+        "Corner kicks": [
+          "2",
+          "7"
+        ],
+        "Yellow cards": [
+          "5",
+          "5"
+        ],
+        "Red cards": [
+          "0",
+          "1"
+        ],
+        "Shots off target": [
+          "5",
+          "5"
+        ],
+        "Goalkeeper saves": [
+          "8",
+          "3"
+        ]
+      }
+    },
+    {
+      "id": "zPqkmPc5",
+      "date": "2025-09-13T01:00:00.000Z",
+      "round": "Round 9",
+      "homeTeam": "Malacateco",
+      "awayTeam": "Coban Imperial",
+      "homeScore": 3,
+      "awayScore": 0,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "54%",
+          "46%"
+        ],
+        "Total shots": [
+          "15",
+          "6"
+        ],
+        "Shots on target": [
+          "12",
+          "4"
+        ],
+        "Corner kicks": [
+          "6",
+          "5"
+        ],
+        "Yellow cards": [
+          "0",
+          "4"
+        ],
+        "Shots off target": [
+          "3",
+          "2"
+        ],
+        "Goalkeeper saves": [
+          "4",
+          "9"
+        ]
+      }
+    },
+    {
+      "id": "8xrco3SH",
+      "date": "2025-09-12T21:00:00.000Z",
+      "round": "Round 9",
+      "homeTeam": "Deportivo Mixco",
+      "awayTeam": "Marquense",
+      "homeScore": 1,
+      "awayScore": 0,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "61%",
+          "39%"
+        ],
+        "Total shots": [
+          "12",
+          "3"
+        ],
+        "Shots on target": [
+          "6",
+          "1"
+        ],
+        "Corner kicks": [
+          "9",
+          "2"
+        ],
+        "Yellow cards": [
+          "1",
+          "2"
+        ],
+        "Red cards": [
+          "0",
+          "1"
+        ],
+        "Shots off target": [
+          "6",
+          "2"
+        ],
+        "Goalkeeper saves": [
+          "1",
+          "5"
+        ]
+      }
+    },
+    {
+      "id": "MLJFYPrC",
+      "date": "2025-09-07T21:00:00.000Z",
+      "round": "Round 8",
+      "homeTeam": "CD Achuapa",
+      "awayTeam": "Xelaju",
+      "homeScore": 4,
+      "awayScore": 1,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "56%",
+          "44%"
+        ],
+        "Total shots": [
+          "9",
+          "6"
+        ],
+        "Shots on target": [
+          "6",
+          "3"
+        ],
+        "Corner kicks": [
+          "5",
+          "1"
+        ],
+        "Yellow cards": [
+          "2",
+          "3"
+        ],
+        "Shots off target": [
+          "3",
+          "3"
+        ],
+        "Goalkeeper saves": [
+          "2",
+          "2"
+        ]
+      }
+    },
+    {
+      "id": "G8lFznEa",
+      "date": "2025-09-07T17:00:00.000Z",
+      "round": "Round 8",
+      "homeTeam": "Aurora",
+      "awayTeam": "Malacateco",
+      "homeScore": 1,
+      "awayScore": 0,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "55%",
+          "45%"
+        ],
+        "Total shots": [
+          "7",
+          "12"
+        ],
+        "Shots on target": [
+          "4",
+          "5"
+        ],
+        "Corner kicks": [
+          "3",
+          "2"
+        ],
+        "Yellow cards": [
+          "1",
+          "2"
+        ],
+        "Shots off target": [
+          "3",
+          "7"
+        ],
+        "Goalkeeper saves": [
+          "5",
+          "3"
+        ]
+      }
+    },
+    {
+      "id": "MmtmXC77",
+      "date": "2025-09-07T01:00:00.000Z",
+      "round": "Round 8",
+      "homeTeam": "Antigua GFC",
+      "awayTeam": "Guastatoya",
+      "homeScore": 3,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "58%",
+          "42%"
+        ],
+        "Total shots": [
+          "7",
+          "4"
+        ],
+        "Shots on target": [
+          "3",
+          "1"
+        ],
+        "Corner kicks": [
+          "4",
+          "4"
+        ],
+        "Yellow cards": [
+          "2",
+          "7"
+        ],
+        "Red cards": [
+          "1",
+          "1"
+        ],
+        "Shots off target": [
+          "4",
+          "3"
+        ],
+        "Goalkeeper saves": [
+          "0",
+          "0"
+        ]
+      }
+    },
+    {
+      "id": "UoNNW3DO",
+      "date": "2025-09-06T23:15:00.000Z",
+      "round": "Round 8",
+      "homeTeam": "Marquense",
+      "awayTeam": "Mictlán",
+      "homeScore": 1,
+      "awayScore": 0,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "54%",
+          "46%"
+        ],
+        "Total shots": [
+          "22",
+          "14"
+        ],
+        "Shots on target": [
+          "5",
+          "2"
+        ],
+        "Corner kicks": [
+          "8",
+          "3"
+        ],
+        "Yellow cards": [
+          "4",
+          "2"
+        ],
+        "Red cards": [
+          "0",
+          "1"
+        ],
+        "Shots off target": [
+          "17",
+          "12"
+        ],
+        "Goalkeeper saves": [
+          "2",
+          "4"
+        ]
+      }
+    },
+    {
+      "id": "lfYYfGaE",
+      "date": "2025-09-04T01:00:00.000Z",
+      "round": "Round 8",
+      "homeTeam": "CSD Municipal",
+      "awayTeam": "Deportivo Mixco",
+      "homeScore": 3,
+      "awayScore": 1,
+      "htHome": 2,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "53%",
+          "47%"
+        ],
+        "Total shots": [
+          "17",
+          "12"
+        ],
+        "Shots on target": [
+          "11",
+          "6"
+        ],
+        "Corner kicks": [
+          "10",
+          "2"
+        ],
+        "Yellow cards": [
+          "2",
+          "1"
+        ],
+        "Shots off target": [
+          "6",
+          "6"
+        ],
+        "Goalkeeper saves": [
+          "5",
+          "8"
+        ]
+      }
+    },
+    {
+      "id": "rej7x8qm",
+      "date": "2025-09-03T21:00:00.000Z",
+      "round": "Round 8",
+      "homeTeam": "Coban Imperial",
+      "awayTeam": "CSD Comunicaciones",
+      "homeScore": 3,
+      "awayScore": 1,
+      "htHome": 1,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "48%",
+          "52%"
+        ],
+        "Total shots": [
+          "13",
+          "11"
+        ],
+        "Shots on target": [
+          "8",
+          "4"
+        ],
+        "Corner kicks": [
+          "11",
+          "10"
+        ],
+        "Yellow cards": [
+          "1",
+          "4"
+        ],
+        "Red cards": [
+          "0",
+          "1"
+        ],
+        "Shots off target": [
+          "5",
+          "7"
+        ],
+        "Goalkeeper saves": [
+          "3",
+          "5"
+        ]
+      }
+    },
+    {
+      "id": "p2u7zRd2",
+      "date": "2025-09-01T02:00:00.000Z",
+      "round": "Round 7",
+      "homeTeam": "Xelaju",
+      "awayTeam": "Marquense",
+      "homeScore": 3,
+      "awayScore": 1,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "49%",
+          "51%"
+        ],
+        "Total shots": [
+          "11",
+          "10"
+        ],
+        "Shots on target": [
+          "7",
+          "3"
+        ],
+        "Corner kicks": [
+          "5",
+          "8"
+        ],
+        "Yellow cards": [
+          "4",
+          "2"
+        ],
+        "Red cards": [
+          "1",
+          "1"
+        ],
+        "Shots off target": [
+          "4",
+          "7"
+        ],
+        "Goalkeeper saves": [
+          "2",
+          "4"
+        ]
+      }
+    },
+    {
+      "id": "fykWze8r",
+      "date": "2025-09-01T00:00:00.000Z",
+      "round": "Round 7",
+      "homeTeam": "Mictlán",
+      "awayTeam": "CSD Municipal",
+      "homeScore": 0,
+      "awayScore": 0,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "38%",
+          "62%"
+        ],
+        "Total shots": [
+          "4",
+          "9"
+        ],
+        "Shots on target": [
+          "0",
+          "3"
+        ],
+        "Corner kicks": [
+          "4",
+          "9"
+        ],
+        "Yellow cards": [
+          "3",
+          "1"
+        ],
+        "Shots off target": [
+          "4",
+          "6"
+        ],
+        "Goalkeeper saves": [
+          "3",
+          "0"
+        ]
+      }
+    },
+    {
+      "id": "bosaxmSk",
+      "date": "2025-08-31T21:00:00.000Z",
+      "round": "Round 7",
+      "homeTeam": "Coban Imperial",
+      "awayTeam": "Antigua GFC",
+      "homeScore": 2,
+      "awayScore": 2,
+      "htHome": 0,
+      "htAway": 2,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "49%",
+          "51%"
+        ],
+        "Total shots": [
+          "15",
+          "8"
+        ],
+        "Shots on target": [
+          "8",
+          "5"
+        ],
+        "Corner kicks": [
+          "8",
+          "3"
+        ],
+        "Yellow cards": [
+          "1",
+          "3"
+        ],
+        "Red cards": [
+          "1",
+          "1"
+        ],
+        "Shots off target": [
+          "7",
+          "3"
+        ],
+        "Goalkeeper saves": [
+          "3",
+          "6"
+        ]
+      }
+    },
+    {
+      "id": "2wAirwG8",
+      "date": "2025-08-31T01:30:00.000Z",
+      "round": "Round 7",
+      "homeTeam": "Malacateco",
+      "awayTeam": "CD Achuapa",
+      "homeScore": 2,
+      "awayScore": 0,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "52%",
+          "48%"
+        ],
+        "Total shots": [
+          "18",
+          "9"
+        ],
+        "Shots on target": [
+          "8",
+          "5"
+        ],
+        "Corner kicks": [
+          "8",
+          "2"
+        ],
+        "Yellow cards": [
+          "1",
+          "2"
+        ],
+        "Shots off target": [
+          "10",
+          "4"
+        ],
+        "Goalkeeper saves": [
+          "5",
+          "6"
+        ]
+      }
+    },
+    {
+      "id": "0YivZYxe",
+      "date": "2025-08-30T23:00:00.000Z",
+      "round": "Round 7",
+      "homeTeam": "CSD Comunicaciones",
+      "awayTeam": "Aurora",
+      "homeScore": 0,
+      "awayScore": 2,
+      "htHome": 0,
+      "htAway": 2,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "50%",
+          "50%"
+        ],
+        "Total shots": [
+          "7",
+          "9"
+        ],
+        "Shots on target": [
+          "2",
+          "4"
+        ],
+        "Corner kicks": [
+          "5",
+          "5"
+        ],
+        "Yellow cards": [
+          "5",
+          "4"
+        ],
+        "Shots off target": [
+          "5",
+          "5"
+        ],
+        "Goalkeeper saves": [
+          "2",
+          "2"
+        ]
+      }
+    },
+    {
+      "id": "zi8atHpL",
+      "date": "2025-08-30T21:00:00.000Z",
+      "round": "Round 7",
+      "homeTeam": "Deportivo Mixco",
+      "awayTeam": "Guastatoya",
+      "homeScore": 2,
+      "awayScore": 0,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "54%",
+          "46%"
+        ],
+        "Total shots": [
+          "9",
+          "5"
+        ],
+        "Shots on target": [
+          "4",
+          "0"
+        ],
+        "Corner kicks": [
+          "3",
+          "3"
+        ],
+        "Yellow cards": [
+          "1",
+          "4"
+        ],
+        "Shots off target": [
+          "5",
+          "5"
+        ]
+      }
+    },
+    {
+      "id": "ED5Ss94S",
+      "date": "2025-08-25T01:00:00.000Z",
+      "round": "Round 6",
+      "homeTeam": "Marquense",
+      "awayTeam": "Malacateco",
+      "homeScore": 4,
+      "awayScore": 1,
+      "htHome": 2,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "49%",
+          "51%"
+        ],
+        "Total shots": [
+          "18",
+          "9"
+        ],
+        "Shots on target": [
+          "11",
+          "2"
+        ],
+        "Corner kicks": [
+          "4",
+          "8"
+        ],
+        "Yellow cards": [
+          "2",
+          "2"
+        ],
+        "Shots off target": [
+          "7",
+          "7"
+        ]
+      }
+    },
+    {
+      "id": "6m2KqVZF",
+      "date": "2025-08-24T20:00:00.000Z",
+      "round": "Round 6",
+      "homeTeam": "CD Achuapa",
+      "awayTeam": "CSD Comunicaciones",
+      "homeScore": 2,
+      "awayScore": 1,
+      "htHome": 1,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "55%",
+          "45%"
+        ],
+        "Total shots": [
+          "9",
+          "7"
+        ],
+        "Shots on target": [
+          "5",
+          "3"
+        ],
+        "Corner kicks": [
+          "6",
+          "3"
+        ],
+        "Yellow cards": [
+          "0",
+          "1"
+        ],
+        "Shots off target": [
+          "4",
+          "4"
+        ]
+      }
+    },
+    {
+      "id": "AL8Boi53",
+      "date": "2025-08-24T17:00:00.000Z",
+      "round": "Round 6",
+      "homeTeam": "Aurora",
+      "awayTeam": "Coban Imperial",
+      "homeScore": 1,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "59%",
+          "41%"
+        ],
+        "Total shots": [
+          "8",
+          "9"
+        ],
+        "Shots on target": [
+          "2",
+          "4"
+        ],
+        "Corner kicks": [
+          "4",
+          "6"
+        ],
+        "Yellow cards": [
+          "4",
+          "4"
+        ],
+        "Shots off target": [
+          "6",
+          "5"
+        ]
+      }
+    },
+    {
+      "id": "xIDHP9rp",
+      "date": "2025-08-24T00:00:00.000Z",
+      "round": "Round 6",
+      "homeTeam": "CSD Municipal",
+      "awayTeam": "Xelaju",
+      "homeScore": 1,
+      "awayScore": 1,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "51%",
+          "49%"
+        ],
+        "Total shots": [
+          "13",
+          "3"
+        ],
+        "Shots on target": [
+          "5",
+          "2"
+        ],
+        "Corner kicks": [
+          "4",
+          "4"
+        ],
+        "Yellow cards": [
+          "4",
+          "3"
+        ],
+        "Red cards": [
+          "1",
+          "1"
+        ],
+        "Shots off target": [
+          "8",
+          "1"
+        ]
+      }
+    },
+    {
+      "id": "IRLPNmDd",
+      "date": "2025-08-23T22:00:00.000Z",
+      "round": "Round 6",
+      "homeTeam": "Guastatoya",
+      "awayTeam": "Mictlán",
+      "homeScore": 1,
+      "awayScore": 3,
+      "htHome": 0,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "54%",
+          "46%"
+        ],
+        "Total shots": [
+          "18",
+          "7"
+        ],
+        "Shots on target": [
+          "5",
+          "4"
+        ],
+        "Corner kicks": [
+          "9",
+          "2"
+        ],
+        "Yellow cards": [
+          "2",
+          "4"
+        ],
+        "Red cards": [
+          "1",
+          "0"
+        ],
+        "Shots off target": [
+          "13",
+          "3"
+        ]
+      }
+    },
+    {
+      "id": "6ZMoVVKM",
+      "date": "2025-08-23T01:00:00.000Z",
+      "round": "Round 6",
+      "homeTeam": "Antigua GFC",
+      "awayTeam": "Deportivo Mixco",
+      "homeScore": 2,
+      "awayScore": 1,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "46%",
+          "54%"
+        ],
+        "Total shots": [
+          "12",
+          "7"
+        ],
+        "Shots on target": [
+          "3",
+          "1"
+        ],
+        "Corner kicks": [
+          "3",
+          "7"
+        ],
+        "Yellow cards": [
+          "3",
+          "3"
+        ],
+        "Red cards": [
+          "0",
+          "1"
+        ],
+        "Shots off target": [
+          "9",
+          "6"
+        ]
+      }
+    },
+    {
+      "id": "6DoBIhyH",
+      "date": "2025-08-18T02:00:00.000Z",
+      "round": "Round 5",
+      "homeTeam": "Xelaju",
+      "awayTeam": "Guastatoya",
+      "homeScore": 5,
+      "awayScore": 0,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "64%",
+          "36%"
+        ],
+        "Total shots": [
+          "16",
+          "12"
+        ],
+        "Shots on target": [
+          "5",
+          "3"
+        ],
+        "Corner kicks": [
+          "6",
+          "2"
+        ],
+        "Yellow cards": [
+          "0",
+          "2"
+        ],
+        "Shots off target": [
+          "11",
+          "9"
+        ]
+      }
+    },
+    {
+      "id": "pKYxXijA",
+      "date": "2025-08-17T23:00:00.000Z",
+      "round": "Round 5",
+      "homeTeam": "CSD Comunicaciones",
+      "awayTeam": "Marquense",
+      "homeScore": 3,
+      "awayScore": 0,
+      "htHome": 2,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "53%",
+          "47%"
+        ],
+        "Total shots": [
+          "14",
+          "8"
+        ],
+        "Shots on target": [
+          "6",
+          "4"
+        ],
+        "Corner kicks": [
+          "7",
+          "5"
+        ],
+        "Yellow cards": [
+          "3",
+          "2"
+        ],
+        "Shots off target": [
+          "8",
+          "4"
+        ]
+      }
+    },
+    {
+      "id": "xfVUYDLc",
+      "date": "2025-08-17T21:00:00.000Z",
+      "round": "Round 5",
+      "homeTeam": "Mictlán",
+      "awayTeam": "Deportivo Mixco",
+      "homeScore": 0,
+      "awayScore": 0,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "54%",
+          "46%"
+        ],
+        "Total shots": [
+          "10",
+          "7"
+        ],
+        "Shots on target": [
+          "2",
+          "3"
+        ],
+        "Corner kicks": [
+          "7",
+          "5"
+        ],
+        "Yellow cards": [
+          "5",
+          "4"
+        ],
+        "Shots off target": [
+          "8",
+          "4"
+        ]
+      }
+    },
+    {
+      "id": "bmr3KE64",
+      "date": "2025-08-16T21:00:00.000Z",
+      "round": "Round 5",
+      "homeTeam": "Coban Imperial",
+      "awayTeam": "CD Achuapa",
+      "homeScore": 2,
+      "awayScore": 2,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "51%",
+          "49%"
+        ],
+        "Total shots": [
+          "12",
+          "16"
+        ],
+        "Shots on target": [
+          "7",
+          "8"
+        ],
+        "Corner kicks": [
+          "13",
+          "3"
+        ],
+        "Shots off target": [
+          "5",
+          "8"
+        ]
+      }
+    },
+    {
+      "id": "2uuKGW5T",
+      "date": "2025-08-16T17:00:00.000Z",
+      "round": "Round 5",
+      "homeTeam": "Aurora",
+      "awayTeam": "Antigua GFC",
+      "homeScore": 3,
+      "awayScore": 2,
+      "htHome": 3,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "52%",
+          "48%"
+        ],
+        "Total shots": [
+          "17",
+          "8"
+        ],
+        "Shots on target": [
+          "14",
+          "5"
+        ],
+        "Corner kicks": [
+          "6",
+          "6"
+        ],
+        "Yellow cards": [
+          "4",
+          "3"
+        ],
+        "Shots off target": [
+          "3",
+          "3"
+        ]
+      }
+    },
+    {
+      "id": "bBQkBATj",
+      "date": "2025-08-16T17:00:00.000Z",
+      "round": "Round 5",
+      "homeTeam": "Malacateco",
+      "awayTeam": "CSD Municipal",
+      "homeScore": 2,
+      "awayScore": 3,
+      "htHome": 2,
+      "htAway": 2,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "54%",
+          "46%"
+        ],
+        "Total shots": [
+          "12",
+          "11"
+        ],
+        "Shots on target": [
+          "7",
+          "6"
+        ],
+        "Corner kicks": [
+          "6",
+          "5"
+        ],
+        "Yellow cards": [
+          "1",
+          "1"
+        ],
+        "Shots off target": [
+          "5",
+          "5"
+        ]
+      }
+    },
+    {
+      "id": "xYgfMzxh",
+      "date": "2025-08-11T01:00:00.000Z",
+      "round": "Round 4",
+      "homeTeam": "Marquense",
+      "awayTeam": "Coban Imperial",
+      "homeScore": 1,
+      "awayScore": 0,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "54%",
+          "46%"
+        ],
+        "Total shots": [
+          "17",
+          "11"
+        ],
+        "Shots on target": [
+          "9",
+          "1"
+        ],
+        "Corner kicks": [
+          "8",
+          "7"
+        ],
+        "Yellow cards": [
+          "5",
+          "1"
+        ],
+        "Red cards": [
+          "0",
+          "1"
+        ],
+        "Shots off target": [
+          "8",
+          "10"
+        ]
+      }
+    },
+    {
+      "id": "lEhJKN0m",
+      "date": "2025-08-10T23:00:00.000Z",
+      "round": "Round 4",
+      "homeTeam": "CSD Municipal",
+      "awayTeam": "CSD Comunicaciones",
+      "homeScore": 1,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "63%",
+          "37%"
+        ],
+        "Total shots": [
+          "10",
+          "6"
+        ],
+        "Shots on target": [
+          "5",
+          "2"
+        ],
+        "Corner kicks": [
+          "2",
+          "3"
+        ],
+        "Yellow cards": [
+          "1",
+          "1"
+        ],
+        "Shots off target": [
+          "5",
+          "4"
+        ]
+      }
+    },
+    {
+      "id": "IgpzHu0C",
+      "date": "2025-08-10T20:00:00.000Z",
+      "round": "Round 4",
+      "homeTeam": "CD Achuapa",
+      "awayTeam": "Aurora",
+      "homeScore": 1,
+      "awayScore": 2,
+      "htHome": 0,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "46%",
+          "54%"
+        ],
+        "Total shots": [
+          "12",
+          "8"
+        ],
+        "Shots on target": [
+          "4",
+          "6"
+        ],
+        "Corner kicks": [
+          "7",
+          "6"
+        ],
+        "Yellow cards": [
+          "3",
+          "3"
+        ],
+        "Red cards": [
+          "1",
+          "0"
+        ],
+        "Shots off target": [
+          "8",
+          "2"
+        ]
+      }
+    },
+    {
+      "id": "I3uUaB0f",
+      "date": "2025-08-10T01:00:00.000Z",
+      "round": "Round 4",
+      "homeTeam": "Antigua GFC",
+      "awayTeam": "Mictlán",
+      "homeScore": 2,
+      "awayScore": 0,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "55%",
+          "45%"
+        ],
+        "Total shots": [
+          "12",
+          "9"
+        ],
+        "Shots on target": [
+          "5",
+          "3"
+        ],
+        "Corner kicks": [
+          "6",
+          "9"
+        ],
+        "Yellow cards": [
+          "1",
+          "3"
+        ],
+        "Shots off target": [
+          "7",
+          "6"
+        ]
+      }
+    },
+    {
+      "id": "ptnSI1Va",
+      "date": "2025-08-09T23:00:00.000Z",
+      "round": "Round 4",
+      "homeTeam": "Guastatoya",
+      "awayTeam": "Malacateco",
+      "homeScore": 1,
+      "awayScore": 2,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "37%",
+          "63%"
+        ],
+        "Total shots": [
+          "10",
+          "10"
+        ],
+        "Shots on target": [
+          "3",
+          "5"
+        ],
+        "Corner kicks": [
+          "4",
+          "2"
+        ],
+        "Yellow cards": [
+          "8",
+          "2"
+        ],
+        "Red cards": [
+          "2",
+          "0"
+        ],
+        "Shots off target": [
+          "7",
+          "5"
+        ]
+      }
+    },
+    {
+      "id": "Cf28bXqo",
+      "date": "2025-08-09T21:00:00.000Z",
+      "round": "Round 4",
+      "homeTeam": "Deportivo Mixco",
+      "awayTeam": "Xelaju",
+      "homeScore": 2,
+      "awayScore": 1,
+      "htHome": 1,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "56%",
+          "44%"
+        ],
+        "Total shots": [
+          "9",
+          "3"
+        ],
+        "Shots on target": [
+          "5",
+          "1"
+        ],
+        "Corner kicks": [
+          "3",
+          "2"
+        ],
+        "Yellow cards": [
+          "1",
+          "3"
+        ],
+        "Shots off target": [
+          "4",
+          "2"
+        ]
+      }
+    },
+    {
+      "id": "hUilQqwQ",
+      "date": "2025-08-03T23:00:00.000Z",
+      "round": "Round 3",
+      "homeTeam": "CSD Comunicaciones",
+      "awayTeam": "Guastatoya",
+      "homeScore": 2,
+      "awayScore": 2,
+      "htHome": 2,
+      "htAway": 2,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "52%",
+          "48%"
+        ],
+        "Total shots": [
+          "7",
+          "6"
+        ],
+        "Shots on target": [
+          "3",
+          "2"
+        ],
+        "Corner kicks": [
+          "7",
+          "4"
+        ],
+        "Yellow cards": [
+          "1",
+          "3"
+        ],
+        "Shots off target": [
+          "4",
+          "4"
+        ]
+      }
+    },
+    {
+      "id": "IBw6D6gK",
+      "date": "2025-08-03T21:00:00.000Z",
+      "round": "Round 3",
+      "homeTeam": "Coban Imperial",
+      "awayTeam": "CSD Municipal",
+      "homeScore": 0,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "48%",
+          "52%"
+        ],
+        "Total shots": [
+          "6",
+          "9"
+        ],
+        "Shots on target": [
+          "4",
+          "4"
+        ],
+        "Corner kicks": [
+          "6",
+          "7"
+        ],
+        "Yellow cards": [
+          "2",
+          "4"
+        ],
+        "Shots off target": [
+          "2",
+          "5"
+        ]
+      }
+    },
+    {
+      "id": "48Bg42G6",
+      "date": "2025-08-03T17:00:00.000Z",
+      "round": "Round 3",
+      "homeTeam": "Aurora",
+      "awayTeam": "Marquense",
+      "homeScore": 1,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "45%",
+          "55%"
+        ],
+        "Total shots": [
+          "16",
+          "4"
+        ],
+        "Shots on target": [
+          "7",
+          "1"
+        ],
+        "Corner kicks": [
+          "3",
+          "2"
+        ],
+        "Yellow cards": [
+          "2",
+          "4"
+        ],
+        "Shots off target": [
+          "9",
+          "3"
+        ]
+      }
+    },
+    {
+      "id": "8tIp6Oof",
+      "date": "2025-08-02T21:45:00.000Z",
+      "round": "Round 3",
+      "homeTeam": "Xelaju",
+      "awayTeam": "Mictlán",
+      "homeScore": 0,
+      "awayScore": 0,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "53%",
+          "47%"
+        ],
+        "Total shots": [
+          "7",
+          "3"
+        ],
+        "Shots on target": [
+          "3",
+          "2"
+        ],
+        "Corner kicks": [
+          "10",
+          "3"
+        ],
+        "Yellow cards": [
+          "5",
+          "2"
+        ],
+        "Red cards": [
+          "1",
+          "1"
+        ],
+        "Shots off target": [
+          "4",
+          "1"
+        ]
+      }
+    },
+    {
+      "id": "pjsM1XVs",
+      "date": "2025-08-02T20:00:00.000Z",
+      "round": "Round 3",
+      "homeTeam": "CD Achuapa",
+      "awayTeam": "Antigua GFC",
+      "homeScore": 2,
+      "awayScore": 0,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "44%",
+          "56%"
+        ],
+        "Total shots": [
+          "12",
+          "12"
+        ],
+        "Shots on target": [
+          "3",
+          "6"
+        ],
+        "Corner kicks": [
+          "3",
+          "8"
+        ],
+        "Yellow cards": [
+          "5",
+          "3"
+        ],
+        "Shots off target": [
+          "9",
+          "6"
+        ]
+      }
+    },
+    {
+      "id": "CYE12toJ",
+      "date": "2025-08-02T01:00:00.000Z",
+      "round": "Round 3",
+      "homeTeam": "Malacateco",
+      "awayTeam": "Deportivo Mixco",
+      "homeScore": 1,
+      "awayScore": 2,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "47%",
+          "53%"
+        ],
+        "Total shots": [
+          "11",
+          "12"
+        ],
+        "Shots on target": [
+          "2",
+          "6"
+        ],
+        "Corner kicks": [
+          "1",
+          "3"
+        ],
+        "Yellow cards": [
+          "2",
+          "4"
+        ],
+        "Red cards": [
+          "2",
+          "0"
+        ],
+        "Shots off target": [
+          "9",
+          "6"
+        ]
+      }
+    },
+    {
+      "id": "v5jva7vR",
+      "date": "2025-07-27T21:00:00.000Z",
+      "round": "Round 2",
+      "homeTeam": "Guastatoya",
+      "awayTeam": "Coban Imperial",
+      "homeScore": 0,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "46%",
+          "54%"
+        ],
+        "Total shots": [
+          "8",
+          "4"
+        ],
+        "Shots on target": [
+          "4",
+          "3"
+        ],
+        "Corner kicks": [
+          "9",
+          "7"
+        ],
+        "Yellow cards": [
+          "5",
+          "3"
+        ],
+        "Shots off target": [
+          "4",
+          "1"
+        ],
+        "Goalkeeper saves": [
+          "2",
+          "4"
+        ]
+      }
+    },
+    {
+      "id": "UkcBiPW0",
+      "date": "2025-07-27T02:00:00.000Z",
+      "round": "Round 2",
+      "homeTeam": "Marquense",
+      "awayTeam": "CD Achuapa",
+      "homeScore": 0,
+      "awayScore": 0,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "59%",
+          "41%"
+        ],
+        "Total shots": [
+          "14",
+          "11"
+        ],
+        "Shots on target": [
+          "1",
+          "2"
+        ],
+        "Corner kicks": [
+          "8",
+          "4"
+        ],
+        "Yellow cards": [
+          "4",
+          "4"
+        ],
+        "Shots off target": [
+          "13",
+          "9"
+        ],
+        "Goalkeeper saves": [
+          "2",
+          "1"
+        ]
+      }
+    },
+    {
+      "id": "j5oKk31D",
+      "date": "2025-07-27T00:00:00.000Z",
+      "round": "Round 2",
+      "homeTeam": "Mictlán",
+      "awayTeam": "Malacateco",
+      "homeScore": 2,
+      "awayScore": 2,
+      "htHome": 0,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "55%",
+          "45%"
+        ],
+        "Total shots": [
+          "10",
+          "10"
+        ],
+        "Shots on target": [
+          "5",
+          "6"
+        ],
+        "Corner kicks": [
+          "4",
+          "3"
+        ],
+        "Yellow cards": [
+          "2",
+          "2"
+        ],
+        "Shots off target": [
+          "5",
+          "4"
+        ],
+        "Goalkeeper saves": [
+          "4",
+          "3"
+        ]
+      }
+    },
+    {
+      "id": "6ihW0T9E",
+      "date": "2025-07-26T22:00:00.000Z",
+      "round": "Round 2",
+      "homeTeam": "CSD Municipal",
+      "awayTeam": "Aurora",
+      "homeScore": 2,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "58%",
+          "42%"
+        ],
+        "Total shots": [
+          "10",
+          "1"
+        ],
+        "Shots on target": [
+          "3",
+          "1"
+        ],
+        "Corner kicks": [
+          "8",
+          "6"
+        ],
+        "Yellow cards": [
+          "2",
+          "1"
+        ],
+        "Shots off target": [
+          "7",
+          "0"
+        ],
+        "Goalkeeper saves": [
+          "0",
+          "1"
+        ]
+      }
+    },
+    {
+      "id": "MPg3go2l",
+      "date": "2025-07-26T20:00:00.000Z",
+      "round": "Round 2",
+      "homeTeam": "Deportivo Mixco",
+      "awayTeam": "CSD Comunicaciones",
+      "homeScore": 1,
+      "awayScore": 0,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "56%",
+          "44%"
+        ],
+        "Total shots": [
+          "15",
+          "5"
+        ],
+        "Shots on target": [
+          "3",
+          "0"
+        ],
+        "Corner kicks": [
+          "4",
+          "1"
+        ],
+        "Yellow cards": [
+          "3",
+          "4"
+        ],
+        "Shots off target": [
+          "12",
+          "5"
+        ],
+        "Goalkeeper saves": [
+          "0",
+          "2"
+        ]
+      }
+    },
+    {
+      "id": "Q50k7g8K",
+      "date": "2025-07-25T21:45:00.000Z",
+      "round": "Round 2",
+      "homeTeam": "Xelaju",
+      "awayTeam": "Antigua GFC",
+      "homeScore": 0,
+      "awayScore": 2,
+      "htHome": 0,
+      "htAway": 2,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "59%",
+          "41%"
+        ],
+        "Total shots": [
+          "9",
+          "14"
+        ],
+        "Shots on target": [
+          "3",
+          "6"
+        ],
+        "Corner kicks": [
+          "10",
+          "2"
+        ],
+        "Yellow cards": [
+          "1",
+          "0"
+        ],
+        "Shots off target": [
+          "6",
+          "8"
+        ],
+        "Goalkeeper saves": [
+          "4",
+          "3"
+        ]
+      }
+    },
+    {
+      "id": "jqAqwQH7",
+      "date": "2025-07-20T23:00:00.000Z",
+      "round": "Round 1",
+      "homeTeam": "CSD Comunicaciones",
+      "awayTeam": "Mictlán",
+      "homeScore": 2,
+      "awayScore": 0,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "54%",
+          "46%"
+        ],
+        "Total shots": [
+          "7",
+          "6"
+        ],
+        "Shots on target": [
+          "4",
+          "3"
+        ],
+        "Corner kicks": [
+          "0",
+          "2"
+        ],
+        "Yellow cards": [
+          "1",
+          "2"
+        ],
+        "Red cards": [
+          "0",
+          "1"
+        ],
+        "Shots off target": [
+          "3",
+          "3"
+        ],
+        "Goalkeeper saves": [
+          "3",
+          "2"
+        ]
+      }
+    },
+    {
+      "id": "M3ISt8Ir",
+      "date": "2025-07-20T21:00:00.000Z",
+      "round": "Round 1",
+      "homeTeam": "CD Achuapa",
+      "awayTeam": "CSD Municipal",
+      "homeScore": 2,
+      "awayScore": 2,
+      "htHome": 1,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "39%",
+          "61%"
+        ],
+        "Total shots": [
+          "11",
+          "9"
+        ],
+        "Shots on target": [
+          "8",
+          "5"
+        ],
+        "Corner kicks": [
+          "2",
+          "4"
+        ],
+        "Yellow cards": [
+          "3",
+          "1"
+        ],
+        "Shots off target": [
+          "3",
+          "4"
+        ],
+        "Goalkeeper saves": [
+          "3",
+          "6"
+        ]
+      }
+    },
+    {
+      "id": "6wDcnUfL",
+      "date": "2025-07-20T17:00:00.000Z",
+      "round": "Round 1",
+      "homeTeam": "Aurora",
+      "awayTeam": "Guastatoya",
+      "homeScore": 1,
+      "awayScore": 0,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "51%",
+          "49%"
+        ],
+        "Total shots": [
+          "9",
+          "10"
+        ],
+        "Shots on target": [
+          "3",
+          "6"
+        ],
+        "Corner kicks": [
+          "8",
+          "9"
+        ],
+        "Yellow cards": [
+          "3",
+          "1"
+        ],
+        "Shots off target": [
+          "6",
+          "4"
+        ],
+        "Goalkeeper saves": [
+          "6",
+          "2"
+        ]
+      }
+    },
+    {
+      "id": "rJ6yunme",
+      "date": "2025-07-20T02:00:00.000Z",
+      "round": "Round 1",
+      "homeTeam": "Malacateco",
+      "awayTeam": "Xelaju",
+      "homeScore": 0,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "60%",
+          "40%"
+        ],
+        "Total shots": [
+          "15",
+          "8"
+        ],
+        "Shots on target": [
+          "10",
+          "6"
+        ],
+        "Corner kicks": [
+          "5",
+          "3"
+        ],
+        "Yellow cards": [
+          "1",
+          "1"
+        ],
+        "Shots off target": [
+          "5",
+          "2"
+        ],
+        "Goalkeeper saves": [
+          "5",
+          "10"
+        ]
+      }
+    },
+    {
+      "id": "IHW2QnY1",
+      "date": "2025-07-20T00:00:00.000Z",
+      "round": "Round 1",
+      "homeTeam": "Antigua GFC",
+      "awayTeam": "Marquense",
+      "homeScore": 3,
+      "awayScore": 0,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "58%",
+          "42%"
+        ],
+        "Total shots": [
+          "15",
+          "7"
+        ],
+        "Shots on target": [
+          "10",
+          "3"
+        ],
+        "Corner kicks": [
+          "11",
+          "5"
+        ],
+        "Yellow cards": [
+          "2",
+          "5"
+        ],
+        "Red cards": [
+          "0",
+          "1"
+        ],
+        "Shots off target": [
+          "5",
+          "4"
+        ],
+        "Goalkeeper saves": [
+          "3",
+          "7"
+        ]
+      }
+    },
+    {
+      "id": "ABJlljQ8",
+      "date": "2025-07-19T21:00:00.000Z",
+      "round": "Round 1",
+      "homeTeam": "Coban Imperial",
+      "awayTeam": "Deportivo Mixco",
+      "homeScore": 0,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "49%",
+          "51%"
+        ],
+        "Total shots": [
+          "7",
+          "10"
+        ],
+        "Shots on target": [
+          "3",
+          "6"
+        ],
+        "Corner kicks": [
+          "6",
+          "2"
+        ],
+        "Yellow cards": [
+          "4",
+          "3"
+        ],
+        "Red cards": [
+          "0",
+          "1"
+        ],
+        "Shots off target": [
+          "4",
+          "4"
+        ],
+        "Goalkeeper saves": [
+          "5",
+          "3"
+        ]
+      }
+    }
+  ]
+}

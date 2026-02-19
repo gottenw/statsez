@@ -1,0 +1,5881 @@
+{
+  "league": "Prva liga",
+  "country": "slovenia",
+  "season": "2025-2026",
+  "collectedAt": "2026-02-10T18:41:02.553Z",
+  "totalMatches": 104,
+  "matches": [
+    {
+      "id": "M5ipXNYF",
+      "date": "2026-02-08T17:00:00.000Z",
+      "round": "Round 21",
+      "homeTeam": "NK Maribor",
+      "awayTeam": "FC Koper",
+      "homeScore": 2,
+      "awayScore": 0,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "54%",
+          "46%"
+        ],
+        "Total shots": [
+          "19",
+          "9"
+        ],
+        "Shots on target": [
+          "4",
+          "2"
+        ],
+        "Corner kicks": [
+          "6",
+          "6"
+        ],
+        "Yellow cards": [
+          "4",
+          "2"
+        ],
+        "Shots off target": [
+          "15",
+          "7"
+        ],
+        "Offsides": [
+          "6",
+          "1"
+        ],
+        "Free kicks": [
+          "17",
+          "33"
+        ],
+        "Throw ins": [
+          "13",
+          "19"
+        ],
+        "Fouls": [
+          "28",
+          "15"
+        ]
+      }
+    },
+    {
+      "id": "OWCQCgm1",
+      "date": "2026-02-08T14:00:00.000Z",
+      "round": "Round 21",
+      "homeTeam": "Olimpija Ljubljana",
+      "awayTeam": "NK Celje",
+      "homeScore": 3,
+      "awayScore": 1,
+      "htHome": 2,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "41%",
+          "59%"
+        ],
+        "Total shots": [
+          "11",
+          "6"
+        ],
+        "Shots on target": [
+          "5",
+          "2"
+        ],
+        "Corner kicks": [
+          "6",
+          "3"
+        ],
+        "Yellow cards": [
+          "4",
+          "2"
+        ],
+        "Shots off target": [
+          "6",
+          "4"
+        ],
+        "Offsides": [
+          "0",
+          "3"
+        ],
+        "Free kicks": [
+          "13",
+          "18"
+        ],
+        "Throw ins": [
+          "6",
+          "16"
+        ],
+        "Fouls": [
+          "18",
+          "10"
+        ]
+      }
+    },
+    {
+      "id": "dpBYAXHD",
+      "date": "2026-02-08T12:00:00.000Z",
+      "round": "Round 21",
+      "homeTeam": "NS Mura",
+      "awayTeam": "NK Aluminij",
+      "homeScore": 0,
+      "awayScore": 3,
+      "htHome": 0,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "44%",
+          "56%"
+        ],
+        "Total shots": [
+          "10",
+          "12"
+        ],
+        "Shots on target": [
+          "4",
+          "6"
+        ],
+        "Corner kicks": [
+          "7",
+          "4"
+        ],
+        "Yellow cards": [
+          "5",
+          "2"
+        ],
+        "Shots off target": [
+          "6",
+          "6"
+        ],
+        "Offsides": [
+          "5",
+          "0"
+        ],
+        "Free kicks": [
+          "14",
+          "21"
+        ],
+        "Throw ins": [
+          "32",
+          "25"
+        ],
+        "Fouls": [
+          "16",
+          "14"
+        ]
+      }
+    },
+    {
+      "id": "0j3yZq43",
+      "date": "2026-02-07T14:00:00.000Z",
+      "round": "Round 21",
+      "homeTeam": "NK Primorje Ajdovscina",
+      "awayTeam": "NK Bravo",
+      "homeScore": 3,
+      "awayScore": 2,
+      "htHome": 3,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "56%",
+          "44%"
+        ],
+        "Total shots": [
+          "6",
+          "11"
+        ],
+        "Shots on target": [
+          "4",
+          "4"
+        ],
+        "Corner kicks": [
+          "2",
+          "3"
+        ],
+        "Yellow cards": [
+          "2",
+          "1"
+        ],
+        "Shots off target": [
+          "2",
+          "7"
+        ],
+        "Offsides": [
+          "0",
+          "4"
+        ],
+        "Free kicks": [
+          "21",
+          "10"
+        ],
+        "Throw ins": [
+          "25",
+          "18"
+        ],
+        "Fouls": [
+          "10",
+          "17"
+        ]
+      }
+    },
+    {
+      "id": "nmw2KpkA",
+      "date": "2026-02-05T14:00:00.000Z",
+      "round": "Round 20",
+      "homeTeam": "NK Aluminij",
+      "awayTeam": "Olimpija Ljubljana",
+      "homeScore": 1,
+      "awayScore": 2,
+      "htHome": 1,
+      "htAway": 2,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "53%",
+          "47%"
+        ],
+        "Total shots": [
+          "7",
+          "13"
+        ],
+        "Shots on target": [
+          "4",
+          "7"
+        ],
+        "Corner kicks": [
+          "7",
+          "8"
+        ],
+        "Yellow cards": [
+          "2",
+          "4"
+        ],
+        "Shots off target": [
+          "3",
+          "6"
+        ],
+        "Offsides": [
+          "1",
+          "3"
+        ],
+        "Free kicks": [
+          "18",
+          "17"
+        ],
+        "Throw ins": [
+          "26",
+          "23"
+        ],
+        "Fouls": [
+          "16",
+          "14"
+        ]
+      }
+    },
+    {
+      "id": "rFWAIOJM",
+      "date": "2026-02-04T16:30:00.000Z",
+      "round": "Round 20",
+      "homeTeam": "NK Celje",
+      "awayTeam": "NK Radomlje",
+      "homeScore": 3,
+      "awayScore": 1,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "59%",
+          "41%"
+        ],
+        "Total shots": [
+          "15",
+          "11"
+        ],
+        "Shots on target": [
+          "4",
+          "5"
+        ],
+        "Corner kicks": [
+          "11",
+          "4"
+        ],
+        "Yellow cards": [
+          "1",
+          "1"
+        ],
+        "Shots off target": [
+          "11",
+          "6"
+        ],
+        "Offsides": [
+          "0",
+          "0"
+        ],
+        "Free kicks": [
+          "10",
+          "13"
+        ],
+        "Throw ins": [
+          "13",
+          "16"
+        ],
+        "Fouls": [
+          "12",
+          "10"
+        ]
+      }
+    },
+    {
+      "id": "0WvfM6Kc",
+      "date": "2026-02-03T19:00:00.000Z",
+      "round": "Round 20",
+      "homeTeam": "NK Bravo",
+      "awayTeam": "NS Mura",
+      "homeScore": 0,
+      "awayScore": 2,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "44%",
+          "56%"
+        ],
+        "Total shots": [
+          "8",
+          "20"
+        ],
+        "Shots on target": [
+          "1",
+          "7"
+        ],
+        "Corner kicks": [
+          "3",
+          "5"
+        ],
+        "Yellow cards": [
+          "3",
+          "1"
+        ],
+        "Shots off target": [
+          "7",
+          "13"
+        ],
+        "Offsides": [
+          "3",
+          "3"
+        ],
+        "Free kicks": [
+          "16",
+          "16"
+        ],
+        "Throw ins": [
+          "21",
+          "20"
+        ],
+        "Fouls": [
+          "13",
+          "13"
+        ]
+      }
+    },
+    {
+      "id": "zDBkBtCd",
+      "date": "2026-02-03T16:30:00.000Z",
+      "round": "Round 20",
+      "homeTeam": "FC Koper",
+      "awayTeam": "NK Primorje Ajdovscina",
+      "homeScore": 2,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "52%",
+          "48%"
+        ],
+        "Total shots": [
+          "9",
+          "8"
+        ],
+        "Shots on target": [
+          "4",
+          "1"
+        ],
+        "Corner kicks": [
+          "5",
+          "9"
+        ],
+        "Yellow cards": [
+          "4",
+          "3"
+        ],
+        "Shots off target": [
+          "5",
+          "7"
+        ],
+        "Offsides": [
+          "1",
+          "2"
+        ],
+        "Free kicks": [
+          "17",
+          "15"
+        ],
+        "Throw ins": [
+          "18",
+          "22"
+        ],
+        "Fouls": [
+          "12",
+          "15"
+        ]
+      }
+    },
+    {
+      "id": "hQHS5ozH",
+      "date": "2026-02-01T14:00:00.000Z",
+      "round": "Round 19",
+      "homeTeam": "NK Maribor",
+      "awayTeam": "NK Celje",
+      "homeScore": 3,
+      "awayScore": 3,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "55%",
+          "45%"
+        ],
+        "Total shots": [
+          "13",
+          "9"
+        ],
+        "Shots on target": [
+          "8",
+          "5"
+        ],
+        "Corner kicks": [
+          "5",
+          "2"
+        ],
+        "Yellow cards": [
+          "3",
+          "2"
+        ],
+        "Shots off target": [
+          "5",
+          "4"
+        ],
+        "Offsides": [
+          "3",
+          "2"
+        ],
+        "Free kicks": [
+          "11",
+          "18"
+        ],
+        "Throw ins": [
+          "22",
+          "14"
+        ],
+        "Fouls": [
+          "14",
+          "9"
+        ]
+      }
+    },
+    {
+      "id": "v3BC9Tzh",
+      "date": "2026-01-31T16:30:00.000Z",
+      "round": "Round 19",
+      "homeTeam": "FC Koper",
+      "awayTeam": "NK Bravo",
+      "homeScore": 6,
+      "awayScore": 2,
+      "htHome": 5,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "57%",
+          "43%"
+        ],
+        "Total shots": [
+          "18",
+          "8"
+        ],
+        "Shots on target": [
+          "7",
+          "4"
+        ],
+        "Corner kicks": [
+          "6",
+          "4"
+        ],
+        "Yellow cards": [
+          "1",
+          "2"
+        ],
+        "Shots off target": [
+          "11",
+          "4"
+        ],
+        "Offsides": [
+          "1",
+          "0"
+        ],
+        "Free kicks": [
+          "17",
+          "11"
+        ],
+        "Throw ins": [
+          "15",
+          "16"
+        ],
+        "Fouls": [
+          "10",
+          "17"
+        ]
+      }
+    },
+    {
+      "id": "Kz27b3Sj",
+      "date": "2026-01-31T14:00:00.000Z",
+      "round": "Round 19",
+      "homeTeam": "Olimpija Ljubljana",
+      "awayTeam": "NS Mura",
+      "homeScore": 1,
+      "awayScore": 0,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "54%",
+          "46%"
+        ],
+        "Total shots": [
+          "11",
+          "12"
+        ],
+        "Shots on target": [
+          "4",
+          "5"
+        ],
+        "Corner kicks": [
+          "0",
+          "6"
+        ],
+        "Yellow cards": [
+          "1",
+          "1"
+        ],
+        "Red cards": [
+          "1",
+          "0"
+        ],
+        "Shots off target": [
+          "7",
+          "7"
+        ],
+        "Offsides": [
+          "2",
+          "3"
+        ],
+        "Free kicks": [
+          "28",
+          "19"
+        ],
+        "Throw ins": [
+          "25",
+          "28"
+        ],
+        "Fouls": [
+          "16",
+          "23"
+        ]
+      }
+    },
+    {
+      "id": "lhBy4P4T",
+      "date": "2026-01-30T15:00:00.000Z",
+      "round": "Round 19",
+      "homeTeam": "NK Radomlje",
+      "awayTeam": "NK Aluminij",
+      "homeScore": 2,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "57%",
+          "43%"
+        ],
+        "Total shots": [
+          "9",
+          "14"
+        ],
+        "Shots on target": [
+          "4",
+          "6"
+        ],
+        "Corner kicks": [
+          "5",
+          "4"
+        ],
+        "Yellow cards": [
+          "2",
+          "6"
+        ],
+        "Shots off target": [
+          "5",
+          "8"
+        ],
+        "Offsides": [
+          "2",
+          "3"
+        ],
+        "Free kicks": [
+          "17",
+          "11"
+        ],
+        "Throw ins": [
+          "20",
+          "10"
+        ],
+        "Fouls": [
+          "9",
+          "14"
+        ]
+      }
+    },
+    {
+      "id": "SOsfinLN",
+      "date": "2025-12-07T16:30:00.000Z",
+      "round": "Round 18",
+      "homeTeam": "NK Celje",
+      "awayTeam": "NK Primorje Ajdovscina",
+      "homeScore": 4,
+      "awayScore": 1,
+      "htHome": 2,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "58%",
+          "42%"
+        ],
+        "Total shots": [
+          "15",
+          "7"
+        ],
+        "Shots on target": [
+          "7",
+          "3"
+        ],
+        "Corner kicks": [
+          "7",
+          "4"
+        ],
+        "Yellow cards": [
+          "1",
+          "1"
+        ],
+        "Red cards": [
+          "0",
+          "1"
+        ],
+        "Shots off target": [
+          "8",
+          "4"
+        ],
+        "Offsides": [
+          "3",
+          "1"
+        ],
+        "Free kicks": [
+          "14",
+          "21"
+        ],
+        "Throw ins": [
+          "9",
+          "18"
+        ],
+        "Fouls": [
+          "18",
+          "12"
+        ]
+      }
+    },
+    {
+      "id": "SrQxcjin",
+      "date": "2025-12-07T14:00:00.000Z",
+      "round": "Round 18",
+      "homeTeam": "NK Bravo",
+      "awayTeam": "Olimpija Ljubljana",
+      "homeScore": 2,
+      "awayScore": 1,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "41%",
+          "59%"
+        ],
+        "Total shots": [
+          "8",
+          "6"
+        ],
+        "Shots on target": [
+          "5",
+          "3"
+        ],
+        "Corner kicks": [
+          "2",
+          "5"
+        ],
+        "Yellow cards": [
+          "2",
+          "2"
+        ],
+        "Shots off target": [
+          "3",
+          "3"
+        ],
+        "Offsides": [
+          "3",
+          "2"
+        ],
+        "Free kicks": [
+          "15",
+          "21"
+        ],
+        "Throw ins": [
+          "15",
+          "20"
+        ],
+        "Fouls": [
+          "18",
+          "13"
+        ]
+      }
+    },
+    {
+      "id": "0dOpeULb",
+      "date": "2025-12-06T16:30:00.000Z",
+      "round": "Round 18",
+      "homeTeam": "NK Radomlje",
+      "awayTeam": "NS Mura",
+      "homeScore": 3,
+      "awayScore": 1,
+      "htHome": 2,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "59%",
+          "41%"
+        ],
+        "Total shots": [
+          "9",
+          "5"
+        ],
+        "Shots on target": [
+          "3",
+          "3"
+        ],
+        "Corner kicks": [
+          "4",
+          "4"
+        ],
+        "Yellow cards": [
+          "0",
+          "3"
+        ],
+        "Shots off target": [
+          "6",
+          "2"
+        ],
+        "Offsides": [
+          "0",
+          "2"
+        ],
+        "Free kicks": [
+          "29",
+          "8"
+        ],
+        "Throw ins": [
+          "15",
+          "20"
+        ],
+        "Fouls": [
+          "8",
+          "26"
+        ]
+      }
+    },
+    {
+      "id": "Kbvng8jB",
+      "date": "2025-12-06T14:00:00.000Z",
+      "round": "Round 18",
+      "homeTeam": "NK Maribor",
+      "awayTeam": "NK Aluminij",
+      "homeScore": 2,
+      "awayScore": 3,
+      "htHome": 2,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "54%",
+          "46%"
+        ],
+        "Total shots": [
+          "13",
+          "13"
+        ],
+        "Shots on target": [
+          "8",
+          "4"
+        ],
+        "Corner kicks": [
+          "3",
+          "3"
+        ],
+        "Yellow cards": [
+          "5",
+          "4"
+        ],
+        "Shots off target": [
+          "5",
+          "9"
+        ],
+        "Offsides": [
+          "3",
+          "1"
+        ],
+        "Free kicks": [
+          "21",
+          "25"
+        ],
+        "Throw ins": [
+          "28",
+          "16"
+        ],
+        "Fouls": [
+          "21",
+          "20"
+        ]
+      }
+    },
+    {
+      "id": "CdJQoQro",
+      "date": "2025-12-05T16:30:00.000Z",
+      "round": "Round 18",
+      "homeTeam": "FC Koper",
+      "awayTeam": "NK Domzale",
+      "homeScore": 2,
+      "awayScore": 1,
+      "htHome": 1,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "57%",
+          "43%"
+        ],
+        "Total shots": [
+          "12",
+          "9"
+        ],
+        "Shots on target": [
+          "4",
+          "4"
+        ],
+        "Corner kicks": [
+          "8",
+          "5"
+        ],
+        "Yellow cards": [
+          "1",
+          "1"
+        ],
+        "Shots off target": [
+          "8",
+          "5"
+        ],
+        "Offsides": [
+          "1",
+          "0"
+        ],
+        "Free kicks": [
+          "15",
+          "12"
+        ],
+        "Throw ins": [
+          "22",
+          "13"
+        ],
+        "Fouls": [
+          "11",
+          "15"
+        ]
+      }
+    },
+    {
+      "id": "Eu03rixg",
+      "date": "2025-11-30T16:30:00.000Z",
+      "round": "Round 17",
+      "homeTeam": "NK Celje",
+      "awayTeam": "FC Koper",
+      "homeScore": 1,
+      "awayScore": 1,
+      "htHome": 1,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "52%",
+          "48%"
+        ],
+        "Total shots": [
+          "25",
+          "10"
+        ],
+        "Shots on target": [
+          "8",
+          "3"
+        ],
+        "Corner kicks": [
+          "10",
+          "6"
+        ],
+        "Yellow cards": [
+          "1",
+          "0"
+        ],
+        "Shots off target": [
+          "17",
+          "7"
+        ],
+        "Offsides": [
+          "1",
+          "0"
+        ],
+        "Free kicks": [
+          "8",
+          "18"
+        ],
+        "Throw ins": [
+          "11",
+          "11"
+        ],
+        "Fouls": [
+          "16",
+          "8"
+        ]
+      }
+    },
+    {
+      "id": "ID6fpD7t",
+      "date": "2025-11-30T14:00:00.000Z",
+      "round": "Round 17",
+      "homeTeam": "NK Domzale",
+      "awayTeam": "NK Bravo",
+      "homeScore": 1,
+      "awayScore": 0,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "54%",
+          "46%"
+        ],
+        "Total shots": [
+          "7",
+          "8"
+        ],
+        "Shots on target": [
+          "3",
+          "1"
+        ],
+        "Corner kicks": [
+          "3",
+          "4"
+        ],
+        "Yellow cards": [
+          "1",
+          "1"
+        ],
+        "Shots off target": [
+          "4",
+          "7"
+        ],
+        "Offsides": [
+          "2",
+          "3"
+        ],
+        "Free kicks": [
+          "14",
+          "10"
+        ],
+        "Throw ins": [
+          "20",
+          "25"
+        ],
+        "Fouls": [
+          "8",
+          "12"
+        ]
+      }
+    },
+    {
+      "id": "lIfSxm6U",
+      "date": "2025-11-29T16:30:00.000Z",
+      "round": "Round 17",
+      "homeTeam": "Olimpija Ljubljana",
+      "awayTeam": "NK Radomlje",
+      "homeScore": 2,
+      "awayScore": 1,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "46%",
+          "54%"
+        ],
+        "Total shots": [
+          "12",
+          "9"
+        ],
+        "Shots on target": [
+          "4",
+          "4"
+        ],
+        "Corner kicks": [
+          "5",
+          "6"
+        ],
+        "Yellow cards": [
+          "2",
+          "3"
+        ],
+        "Shots off target": [
+          "8",
+          "5"
+        ],
+        "Offsides": [
+          "2",
+          "1"
+        ],
+        "Free kicks": [
+          "18",
+          "18"
+        ],
+        "Throw ins": [
+          "14",
+          "17"
+        ],
+        "Fouls": [
+          "16",
+          "17"
+        ]
+      }
+    },
+    {
+      "id": "thiKv9yI",
+      "date": "2025-11-29T14:00:00.000Z",
+      "round": "Round 17",
+      "homeTeam": "NS Mura",
+      "awayTeam": "NK Maribor",
+      "homeScore": 0,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "44%",
+          "56%"
+        ],
+        "Total shots": [
+          "6",
+          "9"
+        ],
+        "Shots on target": [
+          "2",
+          "2"
+        ],
+        "Corner kicks": [
+          "2",
+          "4"
+        ],
+        "Yellow cards": [
+          "1",
+          "3"
+        ],
+        "Shots off target": [
+          "4",
+          "7"
+        ],
+        "Offsides": [
+          "1",
+          "3"
+        ],
+        "Free kicks": [
+          "25",
+          "12"
+        ],
+        "Throw ins": [
+          "21",
+          "18"
+        ],
+        "Fouls": [
+          "11",
+          "22"
+        ]
+      }
+    },
+    {
+      "id": "Kx3BtV65",
+      "date": "2025-11-28T16:30:00.000Z",
+      "round": "Round 17",
+      "homeTeam": "NK Aluminij",
+      "awayTeam": "NK Primorje Ajdovscina",
+      "homeScore": 0,
+      "awayScore": 0,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "46%",
+          "54%"
+        ],
+        "Total shots": [
+          "9",
+          "6"
+        ],
+        "Shots on target": [
+          "4",
+          "2"
+        ],
+        "Corner kicks": [
+          "4",
+          "3"
+        ],
+        "Yellow cards": [
+          "3",
+          "2"
+        ],
+        "Shots off target": [
+          "5",
+          "4"
+        ],
+        "Offsides": [
+          "0",
+          "0"
+        ],
+        "Free kicks": [
+          "19",
+          "14"
+        ],
+        "Throw ins": [
+          "19",
+          "23"
+        ],
+        "Fouls": [
+          "14",
+          "19"
+        ]
+      }
+    },
+    {
+      "id": "6g9llM8E",
+      "date": "2025-11-24T16:30:00.000Z",
+      "round": "Round 16",
+      "homeTeam": "NK Bravo",
+      "awayTeam": "NK Radomlje",
+      "homeScore": 0,
+      "awayScore": 4,
+      "htHome": 0,
+      "htAway": 2,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "40%",
+          "60%"
+        ],
+        "Total shots": [
+          "8",
+          "7"
+        ],
+        "Shots on target": [
+          "4",
+          "4"
+        ],
+        "Corner kicks": [
+          "1",
+          "0"
+        ],
+        "Yellow cards": [
+          "2",
+          "1"
+        ],
+        "Shots off target": [
+          "4",
+          "3"
+        ],
+        "Offsides": [
+          "2",
+          "1"
+        ],
+        "Free kicks": [
+          "5",
+          "11"
+        ],
+        "Throw ins": [
+          "23",
+          "24"
+        ],
+        "Fouls": [
+          "9",
+          "4"
+        ]
+      }
+    },
+    {
+      "id": "bilTtv1l",
+      "date": "2025-11-23T16:30:00.000Z",
+      "round": "Round 16",
+      "homeTeam": "NK Primorje Ajdovscina",
+      "awayTeam": "NS Mura",
+      "homeScore": 1,
+      "awayScore": 0,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "42%",
+          "58%"
+        ],
+        "Total shots": [
+          "7",
+          "7"
+        ],
+        "Shots on target": [
+          "1",
+          "4"
+        ],
+        "Corner kicks": [
+          "4",
+          "10"
+        ],
+        "Yellow cards": [
+          "3",
+          "3"
+        ],
+        "Shots off target": [
+          "6",
+          "3"
+        ],
+        "Offsides": [
+          "0",
+          "5"
+        ],
+        "Free kicks": [
+          "21",
+          "16"
+        ],
+        "Throw ins": [
+          "14",
+          "29"
+        ],
+        "Fouls": [
+          "16",
+          "16"
+        ]
+      }
+    },
+    {
+      "id": "EJCdn0wR",
+      "date": "2025-11-23T14:00:00.000Z",
+      "round": "Round 16",
+      "homeTeam": "NK Maribor",
+      "awayTeam": "Olimpija Ljubljana",
+      "homeScore": 1,
+      "awayScore": 1,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "49%",
+          "51%"
+        ],
+        "Total shots": [
+          "12",
+          "9"
+        ],
+        "Shots on target": [
+          "6",
+          "7"
+        ],
+        "Corner kicks": [
+          "3",
+          "2"
+        ],
+        "Yellow cards": [
+          "4",
+          "6"
+        ],
+        "Red cards": [
+          "0",
+          "1"
+        ],
+        "Shots off target": [
+          "6",
+          "2"
+        ],
+        "Offsides": [
+          "5",
+          "0"
+        ],
+        "Free kicks": [
+          "22",
+          "22"
+        ],
+        "Throw ins": [
+          "14",
+          "18"
+        ],
+        "Fouls": [
+          "16",
+          "21"
+        ]
+      }
+    },
+    {
+      "id": "Speqwd0D",
+      "date": "2025-11-22T16:30:00.000Z",
+      "round": "Round 16",
+      "homeTeam": "NK Domzale",
+      "awayTeam": "NK Celje",
+      "homeScore": 0,
+      "awayScore": 2,
+      "htHome": 0,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "42%",
+          "58%"
+        ],
+        "Total shots": [
+          "4",
+          "13"
+        ],
+        "Shots on target": [
+          "1",
+          "5"
+        ],
+        "Corner kicks": [
+          "3",
+          "7"
+        ],
+        "Yellow cards": [
+          "1",
+          "1"
+        ],
+        "Shots off target": [
+          "3",
+          "8"
+        ],
+        "Offsides": [
+          "0",
+          "1"
+        ],
+        "Free kicks": [
+          "14",
+          "8"
+        ],
+        "Throw ins": [
+          "15",
+          "10"
+        ],
+        "Fouls": [
+          "8",
+          "11"
+        ]
+      }
+    },
+    {
+      "id": "WI1zuIV0",
+      "date": "2025-11-22T14:00:00.000Z",
+      "round": "Round 16",
+      "homeTeam": "FC Koper",
+      "awayTeam": "NK Aluminij",
+      "homeScore": 4,
+      "awayScore": 1,
+      "htHome": 2,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "63%",
+          "37%"
+        ],
+        "Total shots": [
+          "19",
+          "10"
+        ],
+        "Shots on target": [
+          "7",
+          "4"
+        ],
+        "Corner kicks": [
+          "4",
+          "4"
+        ],
+        "Yellow cards": [
+          "2",
+          "0"
+        ],
+        "Shots off target": [
+          "12",
+          "6"
+        ],
+        "Offsides": [
+          "1",
+          "1"
+        ],
+        "Free kicks": [
+          "22",
+          "12"
+        ],
+        "Throw ins": [
+          "15",
+          "15"
+        ],
+        "Fouls": [
+          "11",
+          "21"
+        ]
+      }
+    },
+    {
+      "id": "Wze6yqP8",
+      "date": "2025-11-09T16:30:00.000Z",
+      "round": "Round 15",
+      "homeTeam": "NK Celje",
+      "awayTeam": "NK Bravo",
+      "homeScore": 0,
+      "awayScore": 0,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "65%",
+          "35%"
+        ],
+        "Total shots": [
+          "16",
+          "5"
+        ],
+        "Shots on target": [
+          "8",
+          "2"
+        ],
+        "Corner kicks": [
+          "4",
+          "3"
+        ],
+        "Yellow cards": [
+          "3",
+          "2"
+        ],
+        "Shots off target": [
+          "8",
+          "3"
+        ],
+        "Offsides": [
+          "4",
+          "1"
+        ],
+        "Free kicks": [
+          "17",
+          "14"
+        ],
+        "Throw ins": [
+          "7",
+          "15"
+        ],
+        "Fouls": [
+          "10",
+          "16"
+        ]
+      }
+    },
+    {
+      "id": "joR1QIG7",
+      "date": "2025-11-08T16:30:00.000Z",
+      "round": "Round 15",
+      "homeTeam": "NK Radomlje",
+      "awayTeam": "NK Maribor",
+      "homeScore": 1,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "56%",
+          "44%"
+        ],
+        "Total shots": [
+          "15",
+          "14"
+        ],
+        "Shots on target": [
+          "8",
+          "8"
+        ],
+        "Corner kicks": [
+          "8",
+          "8"
+        ],
+        "Yellow cards": [
+          "2",
+          "3"
+        ],
+        "Shots off target": [
+          "7",
+          "6"
+        ],
+        "Offsides": [
+          "1",
+          "4"
+        ],
+        "Free kicks": [
+          "28",
+          "14"
+        ],
+        "Throw ins": [
+          "19",
+          "12"
+        ],
+        "Fouls": [
+          "13",
+          "23"
+        ]
+      }
+    },
+    {
+      "id": "hjqFZMgL",
+      "date": "2025-11-08T14:00:00.000Z",
+      "round": "Round 15",
+      "homeTeam": "NK Aluminij",
+      "awayTeam": "NK Domzale",
+      "homeScore": 3,
+      "awayScore": 1,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "51%",
+          "49%"
+        ],
+        "Total shots": [
+          "9",
+          "8"
+        ],
+        "Shots on target": [
+          "5",
+          "3"
+        ],
+        "Corner kicks": [
+          "6",
+          "6"
+        ],
+        "Yellow cards": [
+          "4",
+          "1"
+        ],
+        "Shots off target": [
+          "4",
+          "5"
+        ],
+        "Offsides": [
+          "3",
+          "0"
+        ],
+        "Free kicks": [
+          "14",
+          "17"
+        ],
+        "Throw ins": [
+          "26",
+          "18"
+        ],
+        "Fouls": [
+          "14",
+          "14"
+        ]
+      }
+    },
+    {
+      "id": "IXSgSvne",
+      "date": "2025-11-07T19:15:00.000Z",
+      "round": "Round 15",
+      "homeTeam": "Olimpija Ljubljana",
+      "awayTeam": "NK Primorje Ajdovscina",
+      "homeScore": 2,
+      "awayScore": 0,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "47%",
+          "53%"
+        ],
+        "Total shots": [
+          "9",
+          "11"
+        ],
+        "Shots on target": [
+          "5",
+          "5"
+        ],
+        "Corner kicks": [
+          "3",
+          "2"
+        ],
+        "Yellow cards": [
+          "2",
+          "2"
+        ],
+        "Shots off target": [
+          "4",
+          "6"
+        ],
+        "Offsides": [
+          "2",
+          "3"
+        ],
+        "Free kicks": [
+          "28",
+          "19"
+        ],
+        "Throw ins": [
+          "15",
+          "16"
+        ],
+        "Fouls": [
+          "17",
+          "25"
+        ]
+      }
+    },
+    {
+      "id": "OYZpU0Hr",
+      "date": "2025-11-07T16:30:00.000Z",
+      "round": "Round 15",
+      "homeTeam": "NS Mura",
+      "awayTeam": "FC Koper",
+      "homeScore": 3,
+      "awayScore": 2,
+      "htHome": 2,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "46%",
+          "54%"
+        ],
+        "Total shots": [
+          "11",
+          "14"
+        ],
+        "Shots on target": [
+          "5",
+          "6"
+        ],
+        "Corner kicks": [
+          "3",
+          "3"
+        ],
+        "Yellow cards": [
+          "3",
+          "5"
+        ],
+        "Shots off target": [
+          "6",
+          "8"
+        ],
+        "Offsides": [
+          "1",
+          "0"
+        ],
+        "Free kicks": [
+          "10",
+          "19"
+        ],
+        "Throw ins": [
+          "20",
+          "31"
+        ],
+        "Fouls": [
+          "18",
+          "10"
+        ]
+      }
+    },
+    {
+      "id": "pSnJF12k",
+      "date": "2025-11-03T16:30:00.000Z",
+      "round": "Round 14",
+      "homeTeam": "NK Domzale",
+      "awayTeam": "NS Mura",
+      "homeScore": 3,
+      "awayScore": 3,
+      "htHome": 1,
+      "htAway": 2,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "46%",
+          "54%"
+        ],
+        "Total shots": [
+          "8",
+          "7"
+        ],
+        "Shots on target": [
+          "4",
+          "4"
+        ],
+        "Corner kicks": [
+          "5",
+          "5"
+        ],
+        "Yellow cards": [
+          "4",
+          "2"
+        ],
+        "Shots off target": [
+          "4",
+          "3"
+        ],
+        "Offsides": [
+          "0",
+          "0"
+        ],
+        "Free kicks": [
+          "14",
+          "12"
+        ],
+        "Throw ins": [
+          "21",
+          "21"
+        ],
+        "Fouls": [
+          "12",
+          "14"
+        ],
+        "Goalkeeper saves": [
+          "0",
+          "0"
+        ]
+      }
+    },
+    {
+      "id": "hU7vNqAF",
+      "date": "2025-11-02T16:30:00.000Z",
+      "round": "Round 14",
+      "homeTeam": "NK Primorje Ajdovscina",
+      "awayTeam": "NK Radomlje",
+      "homeScore": 1,
+      "awayScore": 2,
+      "htHome": 0,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "63%",
+          "37%"
+        ],
+        "Total shots": [
+          "11",
+          "7"
+        ],
+        "Shots on target": [
+          "4",
+          "3"
+        ],
+        "Corner kicks": [
+          "7",
+          "2"
+        ],
+        "Yellow cards": [
+          "1",
+          "2"
+        ],
+        "Shots off target": [
+          "7",
+          "4"
+        ],
+        "Offsides": [
+          "1",
+          "2"
+        ],
+        "Free kicks": [
+          "15",
+          "13"
+        ],
+        "Throw ins": [
+          "26",
+          "12"
+        ],
+        "Fouls": [
+          "0",
+          "0"
+        ],
+        "Goalkeeper saves": [
+          "0",
+          "0"
+        ]
+      }
+    },
+    {
+      "id": "ld1mLNvS",
+      "date": "2025-11-02T14:00:00.000Z",
+      "round": "Round 14",
+      "homeTeam": "FC Koper",
+      "awayTeam": "Olimpija Ljubljana",
+      "homeScore": 1,
+      "awayScore": 0,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "49%",
+          "51%"
+        ],
+        "Total shots": [
+          "12",
+          "16"
+        ],
+        "Shots on target": [
+          "5",
+          "4"
+        ],
+        "Corner kicks": [
+          "3",
+          "3"
+        ],
+        "Yellow cards": [
+          "4",
+          "2"
+        ],
+        "Shots off target": [
+          "7",
+          "12"
+        ],
+        "Offsides": [
+          "2",
+          "0"
+        ],
+        "Free kicks": [
+          "22",
+          "24"
+        ],
+        "Throw ins": [
+          "18",
+          "11"
+        ],
+        "Fouls": [
+          "22",
+          "22"
+        ],
+        "Goalkeeper saves": [
+          "0",
+          "0"
+        ]
+      }
+    },
+    {
+      "id": "4U2KDuX1",
+      "date": "2025-11-01T16:30:00.000Z",
+      "round": "Round 14",
+      "homeTeam": "NK Celje",
+      "awayTeam": "NK Aluminij",
+      "homeScore": 2,
+      "awayScore": 1,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "57%",
+          "43%"
+        ],
+        "Total shots": [
+          "14",
+          "8"
+        ],
+        "Shots on target": [
+          "5",
+          "3"
+        ],
+        "Corner kicks": [
+          "4",
+          "4"
+        ],
+        "Yellow cards": [
+          "1",
+          "3"
+        ],
+        "Shots off target": [
+          "9",
+          "5"
+        ],
+        "Offsides": [
+          "0",
+          "2"
+        ],
+        "Free kicks": [
+          "13",
+          "20"
+        ],
+        "Throw ins": [
+          "17",
+          "22"
+        ],
+        "Fouls": [
+          "20",
+          "10"
+        ],
+        "Goalkeeper saves": [
+          "0",
+          "0"
+        ]
+      }
+    },
+    {
+      "id": "p44WO5u3",
+      "date": "2025-11-01T14:00:00.000Z",
+      "round": "Round 14",
+      "homeTeam": "NK Bravo",
+      "awayTeam": "NK Maribor",
+      "homeScore": 2,
+      "awayScore": 3,
+      "htHome": 1,
+      "htAway": 2,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "48%",
+          "52%"
+        ],
+        "Total shots": [
+          "15",
+          "6"
+        ],
+        "Shots on target": [
+          "5",
+          "3"
+        ],
+        "Corner kicks": [
+          "10",
+          "4"
+        ],
+        "Yellow cards": [
+          "1",
+          "5"
+        ],
+        "Shots off target": [
+          "10",
+          "3"
+        ],
+        "Offsides": [
+          "2",
+          "1"
+        ],
+        "Free kicks": [
+          "19",
+          "14"
+        ],
+        "Throw ins": [
+          "13",
+          "11"
+        ],
+        "Fouls": [
+          "12",
+          "17"
+        ],
+        "Goalkeeper saves": [
+          "0",
+          "0"
+        ]
+      }
+    },
+    {
+      "id": "K2UcA6Q9",
+      "date": "2025-10-26T19:15:00.000Z",
+      "round": "Round 13",
+      "homeTeam": "NS Mura",
+      "awayTeam": "NK Celje",
+      "homeScore": 2,
+      "awayScore": 1,
+      "htHome": 1,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "43%",
+          "57%"
+        ],
+        "Total shots": [
+          "8",
+          "11"
+        ],
+        "Shots on target": [
+          "5",
+          "3"
+        ],
+        "Corner kicks": [
+          "1",
+          "3"
+        ],
+        "Yellow cards": [
+          "2",
+          "2"
+        ],
+        "Shots off target": [
+          "3",
+          "8"
+        ],
+        "Offsides": [
+          "0",
+          "0"
+        ],
+        "Free kicks": [
+          "15",
+          "19"
+        ],
+        "Throw ins": [
+          "15",
+          "23"
+        ],
+        "Fouls": [
+          "16",
+          "15"
+        ],
+        "Goalkeeper saves": [
+          "0",
+          "0"
+        ]
+      }
+    },
+    {
+      "id": "hGS58peM",
+      "date": "2025-10-26T16:30:00.000Z",
+      "round": "Round 13",
+      "homeTeam": "Olimpija Ljubljana",
+      "awayTeam": "NK Domzale",
+      "homeScore": 1,
+      "awayScore": 2,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "66%",
+          "34%"
+        ],
+        "Total shots": [
+          "12",
+          "6"
+        ],
+        "Shots on target": [
+          "5",
+          "5"
+        ],
+        "Corner kicks": [
+          "6",
+          "3"
+        ],
+        "Yellow cards": [
+          "5",
+          "2"
+        ],
+        "Shots off target": [
+          "7",
+          "1"
+        ],
+        "Offsides": [
+          "0",
+          "1"
+        ],
+        "Free kicks": [
+          "15",
+          "12"
+        ],
+        "Throw ins": [
+          "31",
+          "13"
+        ],
+        "Fouls": [
+          "12",
+          "14"
+        ],
+        "Goalkeeper saves": [
+          "0",
+          "0"
+        ]
+      }
+    },
+    {
+      "id": "48Rq12md",
+      "date": "2025-10-25T15:30:00.000Z",
+      "round": "Round 13",
+      "homeTeam": "NK Maribor",
+      "awayTeam": "NK Primorje Ajdovscina",
+      "homeScore": 4,
+      "awayScore": 0,
+      "htHome": 2,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "57%",
+          "43%"
+        ],
+        "Total shots": [
+          "18",
+          "14"
+        ],
+        "Shots on target": [
+          "9",
+          "3"
+        ],
+        "Corner kicks": [
+          "4",
+          "6"
+        ],
+        "Yellow cards": [
+          "0",
+          "2"
+        ],
+        "Shots off target": [
+          "9",
+          "11"
+        ],
+        "Offsides": [
+          "5",
+          "0"
+        ],
+        "Free kicks": [
+          "15",
+          "20"
+        ],
+        "Throw ins": [
+          "17",
+          "20"
+        ],
+        "Fouls": [
+          "15",
+          "13"
+        ],
+        "Goalkeeper saves": [
+          "0",
+          "0"
+        ]
+      }
+    },
+    {
+      "id": "C09x3OIq",
+      "date": "2025-10-25T13:00:00.000Z",
+      "round": "Round 13",
+      "homeTeam": "NK Radomlje",
+      "awayTeam": "FC Koper",
+      "homeScore": 1,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "59%",
+          "41%"
+        ],
+        "Total shots": [
+          "13",
+          "11"
+        ],
+        "Shots on target": [
+          "8",
+          "4"
+        ],
+        "Corner kicks": [
+          "8",
+          "3"
+        ],
+        "Yellow cards": [
+          "1",
+          "2"
+        ],
+        "Red cards": [
+          "0",
+          "1"
+        ],
+        "Shots off target": [
+          "5",
+          "7"
+        ],
+        "Offsides": [
+          "1",
+          "2"
+        ],
+        "Free kicks": [
+          "12",
+          "20"
+        ],
+        "Throw ins": [
+          "12",
+          "16"
+        ],
+        "Fouls": [
+          "18",
+          "9"
+        ],
+        "Goalkeeper saves": [
+          "0",
+          "0"
+        ]
+      }
+    },
+    {
+      "id": "OzykCSec",
+      "date": "2025-10-24T15:30:00.000Z",
+      "round": "Round 13",
+      "homeTeam": "NK Aluminij",
+      "awayTeam": "NK Bravo",
+      "homeScore": 1,
+      "awayScore": 3,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "50%",
+          "50%"
+        ],
+        "Total shots": [
+          "12",
+          "21"
+        ],
+        "Shots on target": [
+          "4",
+          "12"
+        ],
+        "Corner kicks": [
+          "6",
+          "3"
+        ],
+        "Yellow cards": [
+          "2",
+          "2"
+        ],
+        "Shots off target": [
+          "8",
+          "9"
+        ],
+        "Offsides": [
+          "2",
+          "0"
+        ],
+        "Free kicks": [
+          "14",
+          "15"
+        ],
+        "Throw ins": [
+          "28",
+          "15"
+        ],
+        "Fouls": [
+          "13",
+          "14"
+        ],
+        "Goalkeeper saves": [
+          "2",
+          "2"
+        ]
+      }
+    },
+    {
+      "id": "fcvEAFKh",
+      "date": "2025-10-19T18:15:00.000Z",
+      "round": "Round 12",
+      "homeTeam": "FC Koper",
+      "awayTeam": "NK Maribor",
+      "homeScore": 1,
+      "awayScore": 0,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "51%",
+          "49%"
+        ],
+        "Total shots": [
+          "6",
+          "10"
+        ],
+        "Shots on target": [
+          "2",
+          "5"
+        ],
+        "Corner kicks": [
+          "2",
+          "5"
+        ],
+        "Yellow cards": [
+          "1",
+          "1"
+        ],
+        "Shots off target": [
+          "4",
+          "5"
+        ],
+        "Offsides": [
+          "1",
+          "2"
+        ],
+        "Free kicks": [
+          "33",
+          "12"
+        ],
+        "Throw ins": [
+          "9",
+          "16"
+        ],
+        "Fouls": [
+          "11",
+          "31"
+        ],
+        "Goalkeeper saves": [
+          "0",
+          "0"
+        ]
+      }
+    },
+    {
+      "id": "Mqt6Cyjt",
+      "date": "2025-10-19T15:30:00.000Z",
+      "round": "Round 12",
+      "homeTeam": "NK Bravo",
+      "awayTeam": "NK Primorje Ajdovscina",
+      "homeScore": 3,
+      "awayScore": 0,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "46%",
+          "54%"
+        ],
+        "Total shots": [
+          "20",
+          "10"
+        ],
+        "Shots on target": [
+          "8",
+          "5"
+        ],
+        "Corner kicks": [
+          "6",
+          "5"
+        ],
+        "Yellow cards": [
+          "2",
+          "0"
+        ],
+        "Shots off target": [
+          "12",
+          "5"
+        ],
+        "Offsides": [
+          "4",
+          "0"
+        ],
+        "Free kicks": [
+          "8",
+          "15"
+        ],
+        "Throw ins": [
+          "20",
+          "21"
+        ],
+        "Fouls": [
+          "11",
+          "7"
+        ],
+        "Goalkeeper saves": [
+          "0",
+          "0"
+        ]
+      }
+    },
+    {
+      "id": "bkyV6XJH",
+      "date": "2025-10-18T18:15:00.000Z",
+      "round": "Round 12",
+      "homeTeam": "NK Celje",
+      "awayTeam": "Olimpija Ljubljana",
+      "homeScore": 0,
+      "awayScore": 0,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "63%",
+          "37%"
+        ],
+        "Total shots": [
+          "14",
+          "9"
+        ],
+        "Shots on target": [
+          "3",
+          "2"
+        ],
+        "Corner kicks": [
+          "6",
+          "2"
+        ],
+        "Yellow cards": [
+          "4",
+          "5"
+        ],
+        "Shots off target": [
+          "11",
+          "7"
+        ],
+        "Offsides": [
+          "1",
+          "1"
+        ],
+        "Free kicks": [
+          "25",
+          "15"
+        ],
+        "Throw ins": [
+          "17",
+          "11"
+        ],
+        "Fouls": [
+          "14",
+          "24"
+        ],
+        "Goalkeeper saves": [
+          "0",
+          "0"
+        ]
+      }
+    },
+    {
+      "id": "jPXM8gk5",
+      "date": "2025-10-18T13:00:00.000Z",
+      "round": "Round 12",
+      "homeTeam": "NK Domzale",
+      "awayTeam": "NK Radomlje",
+      "homeScore": 1,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "47%",
+          "53%"
+        ],
+        "Total shots": [
+          "12",
+          "10"
+        ],
+        "Shots on target": [
+          "4",
+          "4"
+        ],
+        "Corner kicks": [
+          "4",
+          "4"
+        ],
+        "Yellow cards": [
+          "3",
+          "3"
+        ],
+        "Shots off target": [
+          "8",
+          "6"
+        ],
+        "Offsides": [
+          "1",
+          "3"
+        ],
+        "Free kicks": [
+          "17",
+          "18"
+        ],
+        "Throw ins": [
+          "20",
+          "23"
+        ],
+        "Fouls": [
+          "17",
+          "14"
+        ],
+        "Goalkeeper saves": [
+          "0",
+          "0"
+        ]
+      }
+    },
+    {
+      "id": "Iwl3lP3j",
+      "date": "2025-10-17T15:30:00.000Z",
+      "round": "Round 12",
+      "homeTeam": "NK Aluminij",
+      "awayTeam": "NS Mura",
+      "homeScore": 2,
+      "awayScore": 2,
+      "htHome": 0,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "59%",
+          "41%"
+        ],
+        "Total shots": [
+          "11",
+          "11"
+        ],
+        "Shots on target": [
+          "4",
+          "4"
+        ],
+        "Corner kicks": [
+          "6",
+          "7"
+        ],
+        "Yellow cards": [
+          "0",
+          "2"
+        ],
+        "Shots off target": [
+          "7",
+          "7"
+        ],
+        "Offsides": [
+          "1",
+          "0"
+        ],
+        "Free kicks": [
+          "13",
+          "16"
+        ],
+        "Throw ins": [
+          "20",
+          "19"
+        ],
+        "Fouls": [
+          "15",
+          "13"
+        ],
+        "Goalkeeper saves": [
+          "0",
+          "0"
+        ]
+      }
+    },
+    {
+      "id": "EwXtC7v0",
+      "date": "2025-10-05T18:15:00.000Z",
+      "round": "Round 11",
+      "homeTeam": "NK Radomlje",
+      "awayTeam": "NK Celje",
+      "homeScore": 0,
+      "awayScore": 3,
+      "htHome": 0,
+      "htAway": 2,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "52%",
+          "48%"
+        ],
+        "Total shots": [
+          "5",
+          "11"
+        ],
+        "Shots on target": [
+          "4",
+          "5"
+        ],
+        "Corner kicks": [
+          "3",
+          "8"
+        ],
+        "Yellow cards": [
+          "0",
+          "2"
+        ],
+        "Shots off target": [
+          "1",
+          "6"
+        ],
+        "Offsides": [
+          "2",
+          "3"
+        ],
+        "Free kicks": [
+          "21",
+          "18"
+        ],
+        "Throw ins": [
+          "12",
+          "7"
+        ],
+        "Fouls": [
+          "15",
+          "17"
+        ],
+        "Goalkeeper saves": [
+          "0",
+          "0"
+        ]
+      }
+    },
+    {
+      "id": "rJOc8PwP",
+      "date": "2025-10-05T15:30:00.000Z",
+      "round": "Round 11",
+      "homeTeam": "NK Primorje Ajdovscina",
+      "awayTeam": "FC Koper",
+      "homeScore": 2,
+      "awayScore": 1,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "56%",
+          "44%"
+        ],
+        "Total shots": [
+          "8",
+          "13"
+        ],
+        "Shots on target": [
+          "5",
+          "4"
+        ],
+        "Corner kicks": [
+          "4",
+          "4"
+        ],
+        "Yellow cards": [
+          "1",
+          "5"
+        ],
+        "Red cards": [
+          "0",
+          "1"
+        ],
+        "Shots off target": [
+          "3",
+          "9"
+        ],
+        "Offsides": [
+          "0",
+          "2"
+        ],
+        "Free kicks": [
+          "23",
+          "25"
+        ],
+        "Throw ins": [
+          "23",
+          "30"
+        ],
+        "Fouls": [
+          "25",
+          "21"
+        ],
+        "Goalkeeper saves": [
+          "0",
+          "0"
+        ]
+      }
+    },
+    {
+      "id": "zgLkAo9C",
+      "date": "2025-10-04T18:15:00.000Z",
+      "round": "Round 11",
+      "homeTeam": "NK Maribor",
+      "awayTeam": "NK Domzale",
+      "homeScore": 3,
+      "awayScore": 0,
+      "htHome": 2,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "50%",
+          "50%"
+        ],
+        "Total shots": [
+          "13",
+          "10"
+        ],
+        "Shots on target": [
+          "8",
+          "2"
+        ],
+        "Corner kicks": [
+          "6",
+          "3"
+        ],
+        "Yellow cards": [
+          "4",
+          "4"
+        ],
+        "Red cards": [
+          "0",
+          "1"
+        ],
+        "Shots off target": [
+          "5",
+          "8"
+        ],
+        "Offsides": [
+          "6",
+          "0"
+        ],
+        "Free kicks": [
+          "16",
+          "22"
+        ],
+        "Throw ins": [
+          "28",
+          "20"
+        ],
+        "Fouls": [
+          "16",
+          "16"
+        ],
+        "Goalkeeper saves": [
+          "2",
+          "2"
+        ]
+      }
+    },
+    {
+      "id": "xrBAJknQ",
+      "date": "2025-10-04T15:30:00.000Z",
+      "round": "Round 11",
+      "homeTeam": "NS Mura",
+      "awayTeam": "NK Bravo",
+      "homeScore": 1,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "45%",
+          "55%"
+        ],
+        "Total shots": [
+          "13",
+          "13"
+        ],
+        "Shots on target": [
+          "2",
+          "6"
+        ],
+        "Corner kicks": [
+          "11",
+          "7"
+        ],
+        "Yellow cards": [
+          "2",
+          "1"
+        ],
+        "Shots off target": [
+          "11",
+          "7"
+        ],
+        "Offsides": [
+          "2",
+          "1"
+        ],
+        "Free kicks": [
+          "14",
+          "15"
+        ],
+        "Throw ins": [
+          "28",
+          "21"
+        ],
+        "Fouls": [
+          "13",
+          "13"
+        ],
+        "Goalkeeper saves": [
+          "0",
+          "0"
+        ]
+      }
+    },
+    {
+      "id": "6DTYDT9m",
+      "date": "2025-10-03T18:15:00.000Z",
+      "round": "Round 11",
+      "homeTeam": "Olimpija Ljubljana",
+      "awayTeam": "NK Aluminij",
+      "homeScore": 1,
+      "awayScore": 1,
+      "htHome": 1,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "52%",
+          "48%"
+        ],
+        "Total shots": [
+          "15",
+          "4"
+        ],
+        "Shots on target": [
+          "3",
+          "3"
+        ],
+        "Corner kicks": [
+          "7",
+          "2"
+        ],
+        "Yellow cards": [
+          "3",
+          "4"
+        ],
+        "Shots off target": [
+          "12",
+          "1"
+        ],
+        "Offsides": [
+          "1",
+          "2"
+        ],
+        "Free kicks": [
+          "29",
+          "22"
+        ],
+        "Throw ins": [
+          "20",
+          "8"
+        ],
+        "Fouls": [
+          "21",
+          "26"
+        ],
+        "Goalkeeper saves": [
+          "0",
+          "0"
+        ]
+      }
+    },
+    {
+      "id": "plOOenfJ",
+      "date": "2025-09-28T15:30:00.000Z",
+      "round": "Round 10",
+      "homeTeam": "NS Mura",
+      "awayTeam": "Olimpija Ljubljana",
+      "homeScore": 0,
+      "awayScore": 2,
+      "htHome": 0,
+      "htAway": 2,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "41%",
+          "59%"
+        ],
+        "Total shots": [
+          "17",
+          "10"
+        ],
+        "Shots on target": [
+          "6",
+          "3"
+        ],
+        "Corner kicks": [
+          "9",
+          "3"
+        ],
+        "Yellow cards": [
+          "4",
+          "6"
+        ],
+        "Shots off target": [
+          "11",
+          "7"
+        ],
+        "Offsides": [
+          "1",
+          "1"
+        ],
+        "Free kicks": [
+          "19",
+          "28"
+        ],
+        "Throw ins": [
+          "27",
+          "14"
+        ],
+        "Fouls": [
+          "27",
+          "18"
+        ],
+        "Goalkeeper saves": [
+          "0",
+          "0"
+        ]
+      }
+    },
+    {
+      "id": "jRnT6C2K",
+      "date": "2025-09-28T13:00:00.000Z",
+      "round": "Round 10",
+      "homeTeam": "NK Bravo",
+      "awayTeam": "FC Koper",
+      "homeScore": 4,
+      "awayScore": 2,
+      "htHome": 2,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "54%",
+          "46%"
+        ],
+        "Total shots": [
+          "11",
+          "20"
+        ],
+        "Shots on target": [
+          "6",
+          "10"
+        ],
+        "Corner kicks": [
+          "2",
+          "9"
+        ],
+        "Yellow cards": [
+          "3",
+          "3"
+        ],
+        "Shots off target": [
+          "5",
+          "10"
+        ],
+        "Offsides": [
+          "2",
+          "1"
+        ],
+        "Free kicks": [
+          "12",
+          "18"
+        ],
+        "Throw ins": [
+          "17",
+          "21"
+        ],
+        "Fouls": [
+          "15",
+          "11"
+        ],
+        "Goalkeeper saves": [
+          "0",
+          "0"
+        ]
+      }
+    },
+    {
+      "id": "tdR7aUff",
+      "date": "2025-09-27T18:15:00.000Z",
+      "round": "Round 10",
+      "homeTeam": "NK Celje",
+      "awayTeam": "NK Maribor",
+      "homeScore": 3,
+      "awayScore": 0,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "45%",
+          "55%"
+        ],
+        "Total shots": [
+          "12",
+          "6"
+        ],
+        "Shots on target": [
+          "7",
+          "1"
+        ],
+        "Corner kicks": [
+          "7",
+          "4"
+        ],
+        "Yellow cards": [
+          "2",
+          "1"
+        ],
+        "Shots off target": [
+          "5",
+          "5"
+        ],
+        "Offsides": [
+          "1",
+          "2"
+        ],
+        "Free kicks": [
+          "27",
+          "15"
+        ],
+        "Throw ins": [
+          "12",
+          "16"
+        ],
+        "Fouls": [
+          "13",
+          "24"
+        ],
+        "Goalkeeper saves": [
+          "0",
+          "0"
+        ]
+      }
+    },
+    {
+      "id": "Ktwa1jQs",
+      "date": "2025-09-27T15:30:00.000Z",
+      "round": "Round 10",
+      "homeTeam": "NK Domzale",
+      "awayTeam": "NK Primorje Ajdovscina",
+      "homeScore": 1,
+      "awayScore": 0,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "51%",
+          "49%"
+        ],
+        "Total shots": [
+          "8",
+          "10"
+        ],
+        "Shots on target": [
+          "2",
+          "3"
+        ],
+        "Corner kicks": [
+          "6",
+          "3"
+        ],
+        "Yellow cards": [
+          "3",
+          "2"
+        ],
+        "Shots off target": [
+          "6",
+          "7"
+        ],
+        "Offsides": [
+          "1",
+          "0"
+        ],
+        "Free kicks": [
+          "14",
+          "18"
+        ],
+        "Throw ins": [
+          "20",
+          "20"
+        ],
+        "Fouls": [
+          "17",
+          "14"
+        ],
+        "Goalkeeper saves": [
+          "0",
+          "0"
+        ]
+      }
+    },
+    {
+      "id": "lMUFc8P6",
+      "date": "2025-09-26T15:30:00.000Z",
+      "round": "Round 10",
+      "homeTeam": "NK Aluminij",
+      "awayTeam": "NK Radomlje",
+      "homeScore": 2,
+      "awayScore": 1,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "41%",
+          "59%"
+        ],
+        "Total shots": [
+          "12",
+          "15"
+        ],
+        "Shots on target": [
+          "7",
+          "5"
+        ],
+        "Corner kicks": [
+          "1",
+          "5"
+        ],
+        "Yellow cards": [
+          "4",
+          "2"
+        ],
+        "Shots off target": [
+          "5",
+          "10"
+        ],
+        "Offsides": [
+          "3",
+          "0"
+        ],
+        "Free kicks": [
+          "7",
+          "11"
+        ],
+        "Throw ins": [
+          "21",
+          "17"
+        ],
+        "Fouls": [
+          "15",
+          "14"
+        ],
+        "Goalkeeper saves": [
+          "0",
+          "0"
+        ]
+      }
+    },
+    {
+      "id": "256YpVu1",
+      "date": "2025-09-21T18:15:00.000Z",
+      "round": "Round 9",
+      "homeTeam": "NK Primorje Ajdovscina",
+      "awayTeam": "NK Celje",
+      "homeScore": 2,
+      "awayScore": 3,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "51%",
+          "49%"
+        ],
+        "Total shots": [
+          "2",
+          "3"
+        ],
+        "Shots on target": [
+          "1",
+          "1"
+        ],
+        "Corner kicks": [
+          "0",
+          "10"
+        ],
+        "Yellow cards": [
+          "1",
+          "3"
+        ],
+        "Shots off target": [
+          "1",
+          "2"
+        ],
+        "Offsides": [
+          "0",
+          "10"
+        ],
+        "Free kicks": [
+          "26",
+          "17"
+        ],
+        "Throw ins": [
+          "14",
+          "14"
+        ],
+        "Fouls": [
+          "17",
+          "16"
+        ],
+        "Goalkeeper saves": [
+          "0",
+          "0"
+        ]
+      }
+    },
+    {
+      "id": "d4RghDmR",
+      "date": "2025-09-21T13:00:00.000Z",
+      "round": "Round 9",
+      "homeTeam": "NS Mura",
+      "awayTeam": "NK Radomlje",
+      "homeScore": 0,
+      "awayScore": 0,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "47%",
+          "53%"
+        ],
+        "Total shots": [
+          "11",
+          "14"
+        ],
+        "Shots on target": [
+          "4",
+          "4"
+        ],
+        "Corner kicks": [
+          "6",
+          "6"
+        ],
+        "Yellow cards": [
+          "6",
+          "0"
+        ],
+        "Shots off target": [
+          "7",
+          "10"
+        ],
+        "Offsides": [
+          "3",
+          "1"
+        ],
+        "Free kicks": [
+          "15",
+          "32"
+        ],
+        "Throw ins": [
+          "20",
+          "14"
+        ],
+        "Fouls": [
+          "28",
+          "13"
+        ],
+        "Goalkeeper saves": [
+          "0",
+          "0"
+        ]
+      }
+    },
+    {
+      "id": "zJ4tq9AD",
+      "date": "2025-09-20T18:15:00.000Z",
+      "round": "Round 9",
+      "homeTeam": "NK Domzale",
+      "awayTeam": "FC Koper",
+      "homeScore": 1,
+      "awayScore": 3,
+      "htHome": 1,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "52%",
+          "48%"
+        ],
+        "Total shots": [
+          "8",
+          "12"
+        ],
+        "Shots on target": [
+          "3",
+          "4"
+        ],
+        "Corner kicks": [
+          "6",
+          "6"
+        ],
+        "Yellow cards": [
+          "7",
+          "3"
+        ],
+        "Red cards": [
+          "1",
+          "0"
+        ],
+        "Shots off target": [
+          "5",
+          "8"
+        ],
+        "Offsides": [
+          "1",
+          "3"
+        ],
+        "Free kicks": [
+          "17",
+          "21"
+        ],
+        "Throw ins": [
+          "13",
+          "20"
+        ],
+        "Fouls": [
+          "20",
+          "13"
+        ],
+        "Goalkeeper saves": [
+          "0",
+          "0"
+        ]
+      }
+    },
+    {
+      "id": "zkwofZIE",
+      "date": "2025-09-20T15:30:00.000Z",
+      "round": "Round 9",
+      "homeTeam": "Olimpija Ljubljana",
+      "awayTeam": "NK Bravo",
+      "homeScore": 1,
+      "awayScore": 2,
+      "htHome": 1,
+      "htAway": 2,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "63%",
+          "37%"
+        ],
+        "Total shots": [
+          "7",
+          "7"
+        ],
+        "Shots on target": [
+          "2",
+          "3"
+        ],
+        "Corner kicks": [
+          "5",
+          "6"
+        ],
+        "Yellow cards": [
+          "2",
+          "6"
+        ],
+        "Shots off target": [
+          "5",
+          "4"
+        ],
+        "Offsides": [
+          "1",
+          "2"
+        ],
+        "Free kicks": [
+          "24",
+          "11"
+        ],
+        "Throw ins": [
+          "18",
+          "16"
+        ],
+        "Fouls": [
+          "10",
+          "22"
+        ],
+        "Goalkeeper saves": [
+          "1",
+          "1"
+        ]
+      }
+    },
+    {
+      "id": "6wDPniBl",
+      "date": "2025-09-19T15:30:00.000Z",
+      "round": "Round 9",
+      "homeTeam": "NK Aluminij",
+      "awayTeam": "NK Maribor",
+      "homeScore": 2,
+      "awayScore": 3,
+      "htHome": 1,
+      "htAway": 2,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "49%",
+          "51%"
+        ],
+        "Total shots": [
+          "16",
+          "15"
+        ],
+        "Shots on target": [
+          "7",
+          "10"
+        ],
+        "Corner kicks": [
+          "10",
+          "4"
+        ],
+        "Yellow cards": [
+          "3",
+          "2"
+        ],
+        "Shots off target": [
+          "9",
+          "5"
+        ],
+        "Offsides": [
+          "1",
+          "0"
+        ],
+        "Free kicks": [
+          "0",
+          "0"
+        ],
+        "Throw ins": [
+          "0",
+          "0"
+        ],
+        "Fouls": [
+          "7",
+          "17"
+        ],
+        "Goalkeeper saves": [
+          "0",
+          "0"
+        ]
+      }
+    },
+    {
+      "id": "hfJ2frDc",
+      "date": "2025-09-14T18:15:00.000Z",
+      "round": "Round 8",
+      "homeTeam": "NK Bravo",
+      "awayTeam": "NK Domzale",
+      "homeScore": 1,
+      "awayScore": 1,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "55%",
+          "45%"
+        ],
+        "Total shots": [
+          "11",
+          "9"
+        ],
+        "Shots on target": [
+          "5",
+          "4"
+        ],
+        "Corner kicks": [
+          "9",
+          "2"
+        ],
+        "Yellow cards": [
+          "2",
+          "2"
+        ],
+        "Shots off target": [
+          "6",
+          "5"
+        ],
+        "Offsides": [
+          "2",
+          "2"
+        ],
+        "Free kicks": [
+          "16",
+          "12"
+        ],
+        "Throw ins": [
+          "19",
+          "24"
+        ],
+        "Fouls": [
+          "7",
+          "13"
+        ],
+        "Goalkeeper saves": [
+          "3",
+          "4"
+        ]
+      }
+    },
+    {
+      "id": "0KMAhMsA",
+      "date": "2025-09-14T15:30:00.000Z",
+      "round": "Round 8",
+      "homeTeam": "FC Koper",
+      "awayTeam": "NK Celje",
+      "homeScore": 3,
+      "awayScore": 3,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "48%",
+          "52%"
+        ],
+        "Total shots": [
+          "16",
+          "10"
+        ],
+        "Shots on target": [
+          "7",
+          "5"
+        ],
+        "Corner kicks": [
+          "7",
+          "4"
+        ],
+        "Yellow cards": [
+          "5",
+          "6"
+        ],
+        "Shots off target": [
+          "9",
+          "5"
+        ],
+        "Offsides": [
+          "0",
+          "0"
+        ],
+        "Free kicks": [
+          "20",
+          "26"
+        ],
+        "Throw ins": [
+          "12",
+          "12"
+        ],
+        "Fouls": [
+          "26",
+          "19"
+        ],
+        "Goalkeeper saves": [
+          "2",
+          "4"
+        ]
+      }
+    },
+    {
+      "id": "v3grzERr",
+      "date": "2025-09-14T13:00:00.000Z",
+      "round": "Round 8",
+      "homeTeam": "NK Primorje Ajdovscina",
+      "awayTeam": "NK Aluminij",
+      "homeScore": 4,
+      "awayScore": 1,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "53%",
+          "47%"
+        ],
+        "Total shots": [
+          "8",
+          "8"
+        ],
+        "Shots on target": [
+          "6",
+          "5"
+        ],
+        "Corner kicks": [
+          "6",
+          "7"
+        ],
+        "Yellow cards": [
+          "1",
+          "4"
+        ],
+        "Shots off target": [
+          "2",
+          "3"
+        ],
+        "Offsides": [
+          "0",
+          "4"
+        ],
+        "Free kicks": [
+          "25",
+          "16"
+        ],
+        "Throw ins": [
+          "21",
+          "19"
+        ],
+        "Fouls": [
+          "16",
+          "21"
+        ],
+        "Goalkeeper saves": [
+          "4",
+          "2"
+        ]
+      }
+    },
+    {
+      "id": "CGijYide",
+      "date": "2025-09-13T18:15:00.000Z",
+      "round": "Round 8",
+      "homeTeam": "NK Maribor",
+      "awayTeam": "NS Mura",
+      "homeScore": 1,
+      "awayScore": 0,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "51%",
+          "49%"
+        ],
+        "Total shots": [
+          "6",
+          "19"
+        ],
+        "Shots on target": [
+          "2",
+          "2"
+        ],
+        "Corner kicks": [
+          "5",
+          "8"
+        ],
+        "Yellow cards": [
+          "0",
+          "4"
+        ],
+        "Shots off target": [
+          "4",
+          "17"
+        ],
+        "Offsides": [
+          "1",
+          "1"
+        ],
+        "Free kicks": [
+          "15",
+          "11"
+        ],
+        "Throw ins": [
+          "30",
+          "24"
+        ],
+        "Fouls": [
+          "9",
+          "13"
+        ],
+        "Goalkeeper saves": [
+          "2",
+          "1"
+        ]
+      }
+    },
+    {
+      "id": "8roaWVQ7",
+      "date": "2025-09-13T15:30:00.000Z",
+      "round": "Round 8",
+      "homeTeam": "NK Radomlje",
+      "awayTeam": "Olimpija Ljubljana",
+      "homeScore": 3,
+      "awayScore": 2,
+      "htHome": 0,
+      "htAway": 2,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "41%",
+          "59%"
+        ],
+        "Total shots": [
+          "7",
+          "7"
+        ],
+        "Shots on target": [
+          "3",
+          "4"
+        ],
+        "Corner kicks": [
+          "5",
+          "2"
+        ],
+        "Yellow cards": [
+          "4",
+          "1"
+        ],
+        "Red cards": [
+          "1",
+          "0"
+        ],
+        "Shots off target": [
+          "4",
+          "3"
+        ],
+        "Offsides": [
+          "1",
+          "2"
+        ],
+        "Free kicks": [
+          "12",
+          "28"
+        ],
+        "Throw ins": [
+          "15",
+          "19"
+        ],
+        "Fouls": [
+          "27",
+          "11"
+        ],
+        "Goalkeeper saves": [
+          "2",
+          "0"
+        ]
+      }
+    },
+    {
+      "id": "l0yytqb4",
+      "date": "2025-08-31T18:15:00.000Z",
+      "round": "Round 7",
+      "homeTeam": "Olimpija Ljubljana",
+      "awayTeam": "NK Maribor",
+      "homeScore": 1,
+      "awayScore": 0,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "48%",
+          "52%"
+        ],
+        "Total shots": [
+          "7",
+          "9"
+        ],
+        "Shots on target": [
+          "2",
+          "4"
+        ],
+        "Corner kicks": [
+          "4",
+          "6"
+        ],
+        "Yellow cards": [
+          "3",
+          "8"
+        ],
+        "Red cards": [
+          "0",
+          "1"
+        ],
+        "Shots off target": [
+          "5",
+          "5"
+        ],
+        "Offsides": [
+          "2",
+          "5"
+        ],
+        "Free kicks": [
+          "21",
+          "23"
+        ],
+        "Throw ins": [
+          "15",
+          "16"
+        ],
+        "Fouls": [
+          "21",
+          "16"
+        ],
+        "Goalkeeper saves": [
+          "4",
+          "1"
+        ]
+      }
+    },
+    {
+      "id": "CbtGWvLj",
+      "date": "2025-08-31T15:30:00.000Z",
+      "round": "Round 7",
+      "homeTeam": "NK Celje",
+      "awayTeam": "NK Domzale",
+      "homeScore": 4,
+      "awayScore": 1,
+      "htHome": 3,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "62%",
+          "38%"
+        ],
+        "Total shots": [
+          "18",
+          "8"
+        ],
+        "Shots on target": [
+          "8",
+          "2"
+        ],
+        "Corner kicks": [
+          "9",
+          "4"
+        ],
+        "Yellow cards": [
+          "2",
+          "1"
+        ],
+        "Shots off target": [
+          "10",
+          "6"
+        ],
+        "Offsides": [
+          "0",
+          "0"
+        ],
+        "Free kicks": [
+          "10",
+          "14"
+        ],
+        "Throw ins": [
+          "11",
+          "9"
+        ],
+        "Fouls": [
+          "14",
+          "9"
+        ],
+        "Goalkeeper saves": [
+          "1",
+          "4"
+        ]
+      }
+    },
+    {
+      "id": "MDZrvNSG",
+      "date": "2025-08-31T13:00:00.000Z",
+      "round": "Round 7",
+      "homeTeam": "NS Mura",
+      "awayTeam": "NK Primorje Ajdovscina",
+      "homeScore": 2,
+      "awayScore": 2,
+      "htHome": 2,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "51%",
+          "49%"
+        ],
+        "Total shots": [
+          "14",
+          "10"
+        ],
+        "Shots on target": [
+          "4",
+          "7"
+        ],
+        "Corner kicks": [
+          "6",
+          "3"
+        ],
+        "Yellow cards": [
+          "1",
+          "2"
+        ],
+        "Red cards": [
+          "1",
+          "0"
+        ],
+        "Shots off target": [
+          "10",
+          "3"
+        ],
+        "Offsides": [
+          "4",
+          "1"
+        ],
+        "Free kicks": [
+          "13",
+          "16"
+        ],
+        "Throw ins": [
+          "18",
+          "20"
+        ],
+        "Fouls": [
+          "12",
+          "12"
+        ],
+        "Goalkeeper saves": [
+          "5",
+          "2"
+        ]
+      }
+    },
+    {
+      "id": "hYsSs5Ti",
+      "date": "2025-08-30T18:15:00.000Z",
+      "round": "Round 7",
+      "homeTeam": "NK Radomlje",
+      "awayTeam": "NK Bravo",
+      "homeScore": 0,
+      "awayScore": 6,
+      "htHome": 0,
+      "htAway": 3,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "48%",
+          "52%"
+        ],
+        "Total shots": [
+          "7",
+          "21"
+        ],
+        "Shots on target": [
+          "1",
+          "9"
+        ],
+        "Corner kicks": [
+          "5",
+          "10"
+        ],
+        "Yellow cards": [
+          "2",
+          "1"
+        ],
+        "Shots off target": [
+          "6",
+          "12"
+        ],
+        "Offsides": [
+          "0",
+          "3"
+        ],
+        "Free kicks": [
+          "16",
+          "10"
+        ],
+        "Throw ins": [
+          "19",
+          "14"
+        ],
+        "Fouls": [
+          "10",
+          "13"
+        ]
+      }
+    },
+    {
+      "id": "tGkpx1cT",
+      "date": "2025-08-29T15:30:00.000Z",
+      "round": "Round 7",
+      "homeTeam": "NK Aluminij",
+      "awayTeam": "FC Koper",
+      "homeScore": 1,
+      "awayScore": 0,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "41%",
+          "59%"
+        ],
+        "Total shots": [
+          "6",
+          "25"
+        ],
+        "Shots on target": [
+          "2",
+          "15"
+        ],
+        "Corner kicks": [
+          "2",
+          "10"
+        ],
+        "Yellow cards": [
+          "5",
+          "2"
+        ],
+        "Shots off target": [
+          "4",
+          "10"
+        ],
+        "Offsides": [
+          "3",
+          "2"
+        ],
+        "Free kicks": [
+          "18",
+          "26"
+        ],
+        "Throw ins": [
+          "22",
+          "22"
+        ],
+        "Fouls": [
+          "23",
+          "15"
+        ]
+      }
+    },
+    {
+      "id": "SjlzBObU",
+      "date": "2025-08-24T18:15:00.000Z",
+      "round": "Round 6",
+      "homeTeam": "NK Bravo",
+      "awayTeam": "NK Celje",
+      "homeScore": 0,
+      "awayScore": 5,
+      "htHome": 0,
+      "htAway": 4,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "41%",
+          "59%"
+        ],
+        "Total shots": [
+          "13",
+          "12"
+        ],
+        "Shots on target": [
+          "4",
+          "8"
+        ],
+        "Corner kicks": [
+          "5",
+          "4"
+        ],
+        "Yellow cards": [
+          "1",
+          "3"
+        ],
+        "Shots off target": [
+          "9",
+          "4"
+        ],
+        "Offsides": [
+          "0",
+          "0"
+        ],
+        "Free kicks": [
+          "15",
+          "10"
+        ],
+        "Throw ins": [
+          "15",
+          "12"
+        ],
+        "Fouls": [
+          "10",
+          "15"
+        ]
+      }
+    },
+    {
+      "id": "zcB1RqqB",
+      "date": "2025-08-24T15:30:00.000Z",
+      "round": "Round 6",
+      "homeTeam": "NK Primorje Ajdovscina",
+      "awayTeam": "Olimpija Ljubljana",
+      "homeScore": 1,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "44%",
+          "56%"
+        ],
+        "Total shots": [
+          "4",
+          "14"
+        ],
+        "Shots on target": [
+          "3",
+          "9"
+        ],
+        "Corner kicks": [
+          "5",
+          "8"
+        ],
+        "Yellow cards": [
+          "2",
+          "2"
+        ],
+        "Shots off target": [
+          "1",
+          "5"
+        ],
+        "Offsides": [
+          "2",
+          "4"
+        ],
+        "Free kicks": [
+          "18",
+          "25"
+        ],
+        "Throw ins": [
+          "17",
+          "15"
+        ],
+        "Fouls": [
+          "23",
+          "13"
+        ]
+      }
+    },
+    {
+      "id": "tfE9PNDN",
+      "date": "2025-08-23T18:15:00.000Z",
+      "round": "Round 6",
+      "homeTeam": "NK Maribor",
+      "awayTeam": "NK Radomlje",
+      "homeScore": 5,
+      "awayScore": 1,
+      "htHome": 2,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "52%",
+          "48%"
+        ],
+        "Total shots": [
+          "17",
+          "8"
+        ],
+        "Shots on target": [
+          "10",
+          "3"
+        ],
+        "Corner kicks": [
+          "7",
+          "2"
+        ],
+        "Yellow cards": [
+          "2",
+          "1"
+        ],
+        "Red cards": [
+          "0",
+          "1"
+        ],
+        "Shots off target": [
+          "7",
+          "5"
+        ],
+        "Offsides": [
+          "4",
+          "1"
+        ],
+        "Free kicks": [
+          "9",
+          "19"
+        ],
+        "Throw ins": [
+          "19",
+          "17"
+        ],
+        "Fouls": [
+          "15",
+          "8"
+        ]
+      }
+    },
+    {
+      "id": "vVHhT5Eb",
+      "date": "2025-08-23T15:30:00.000Z",
+      "round": "Round 6",
+      "homeTeam": "FC Koper",
+      "awayTeam": "NS Mura",
+      "homeScore": 2,
+      "awayScore": 1,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "55%",
+          "45%"
+        ],
+        "Total shots": [
+          "12",
+          "6"
+        ],
+        "Shots on target": [
+          "5",
+          "4"
+        ],
+        "Corner kicks": [
+          "4",
+          "3"
+        ],
+        "Yellow cards": [
+          "2",
+          "4"
+        ],
+        "Shots off target": [
+          "7",
+          "2"
+        ],
+        "Offsides": [
+          "3",
+          "4"
+        ],
+        "Free kicks": [
+          "21",
+          "17"
+        ],
+        "Throw ins": [
+          "14",
+          "16"
+        ],
+        "Fouls": [
+          "17",
+          "22"
+        ]
+      }
+    },
+    {
+      "id": "6HJpVRqn",
+      "date": "2025-08-22T18:15:00.000Z",
+      "round": "Round 6",
+      "homeTeam": "NK Domzale",
+      "awayTeam": "NK Aluminij",
+      "homeScore": 0,
+      "awayScore": 2,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "53%",
+          "47%"
+        ],
+        "Total shots": [
+          "9",
+          "6"
+        ],
+        "Shots on target": [
+          "4",
+          "4"
+        ],
+        "Corner kicks": [
+          "13",
+          "3"
+        ],
+        "Yellow cards": [
+          "2",
+          "5"
+        ],
+        "Shots off target": [
+          "5",
+          "2"
+        ],
+        "Offsides": [
+          "0",
+          "1"
+        ],
+        "Free kicks": [
+          "18",
+          "14"
+        ],
+        "Throw ins": [
+          "25",
+          "17"
+        ],
+        "Fouls": [
+          "14",
+          "17"
+        ]
+      }
+    },
+    {
+      "id": "fPzTCpUH",
+      "date": "2025-08-17T18:15:00.000Z",
+      "round": "Round 5",
+      "homeTeam": "NK Aluminij",
+      "awayTeam": "NK Celje",
+      "homeScore": 2,
+      "awayScore": 3,
+      "htHome": 2,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "44%",
+          "56%"
+        ],
+        "Total shots": [
+          "8",
+          "17"
+        ],
+        "Shots on target": [
+          "4",
+          "7"
+        ],
+        "Corner kicks": [
+          "4",
+          "10"
+        ],
+        "Yellow cards": [
+          "2",
+          "2"
+        ],
+        "Shots off target": [
+          "4",
+          "10"
+        ],
+        "Offsides": [
+          "0",
+          "1"
+        ],
+        "Free kicks": [
+          "16",
+          "19"
+        ],
+        "Throw ins": [
+          "16",
+          "25"
+        ],
+        "Fouls": [
+          "18",
+          "15"
+        ]
+      }
+    },
+    {
+      "id": "QqqCGSUh",
+      "date": "2025-08-17T18:15:00.000Z",
+      "round": "Round 5",
+      "homeTeam": "Olimpija Ljubljana",
+      "awayTeam": "FC Koper",
+      "homeScore": 1,
+      "awayScore": 3,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "42%",
+          "58%"
+        ],
+        "Total shots": [
+          "8",
+          "15"
+        ],
+        "Shots on target": [
+          "4",
+          "8"
+        ],
+        "Corner kicks": [
+          "1",
+          "5"
+        ],
+        "Yellow cards": [
+          "1",
+          "2"
+        ],
+        "Shots off target": [
+          "4",
+          "7"
+        ],
+        "Offsides": [
+          "1",
+          "6"
+        ],
+        "Free kicks": [
+          "24",
+          "28"
+        ],
+        "Throw ins": [
+          "10",
+          "12"
+        ],
+        "Fouls": [
+          "27",
+          "18"
+        ]
+      }
+    },
+    {
+      "id": "E5FgboFO",
+      "date": "2025-08-16T18:15:00.000Z",
+      "round": "Round 5",
+      "homeTeam": "NK Maribor",
+      "awayTeam": "NK Bravo",
+      "homeScore": 3,
+      "awayScore": 3,
+      "htHome": 0,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "54%",
+          "46%"
+        ],
+        "Total shots": [
+          "19",
+          "14"
+        ],
+        "Shots on target": [
+          "5",
+          "6"
+        ],
+        "Corner kicks": [
+          "13",
+          "4"
+        ],
+        "Yellow cards": [
+          "2",
+          "1"
+        ],
+        "Shots off target": [
+          "14",
+          "8"
+        ],
+        "Offsides": [
+          "0",
+          "0"
+        ],
+        "Free kicks": [
+          "18",
+          "17"
+        ],
+        "Throw ins": [
+          "15",
+          "17"
+        ],
+        "Fouls": [
+          "16",
+          "16"
+        ]
+      }
+    },
+    {
+      "id": "Y9nKE6a5",
+      "date": "2025-08-16T15:30:00.000Z",
+      "round": "Round 5",
+      "homeTeam": "NS Mura",
+      "awayTeam": "NK Domzale",
+      "homeScore": 3,
+      "awayScore": 0,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "54%",
+          "46%"
+        ],
+        "Total shots": [
+          "11",
+          "5"
+        ],
+        "Shots on target": [
+          "5",
+          "1"
+        ],
+        "Corner kicks": [
+          "10",
+          "1"
+        ],
+        "Yellow cards": [
+          "1",
+          "4"
+        ],
+        "Shots off target": [
+          "6",
+          "4"
+        ],
+        "Offsides": [
+          "1",
+          "1"
+        ],
+        "Free kicks": [
+          "24",
+          "17"
+        ],
+        "Throw ins": [
+          "19",
+          "23"
+        ],
+        "Fouls": [
+          "16",
+          "23"
+        ]
+      }
+    },
+    {
+      "id": "UHk3Il0t",
+      "date": "2025-08-15T18:15:00.000Z",
+      "round": "Round 5",
+      "homeTeam": "NK Radomlje",
+      "awayTeam": "NK Primorje Ajdovscina",
+      "homeScore": 3,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "56%",
+          "44%"
+        ],
+        "Total shots": [
+          "14",
+          "11"
+        ],
+        "Shots on target": [
+          "9",
+          "3"
+        ],
+        "Corner kicks": [
+          "3",
+          "1"
+        ],
+        "Yellow cards": [
+          "1",
+          "0"
+        ],
+        "Shots off target": [
+          "5",
+          "8"
+        ],
+        "Offsides": [
+          "5",
+          "0"
+        ],
+        "Free kicks": [
+          "12",
+          "18"
+        ],
+        "Throw ins": [
+          "29",
+          "27"
+        ],
+        "Fouls": [
+          "13",
+          "12"
+        ]
+      }
+    },
+    {
+      "id": "pS2dMc1E",
+      "date": "2025-08-10T18:15:00.000Z",
+      "round": "Round 4",
+      "homeTeam": "NK Celje",
+      "awayTeam": "NS Mura",
+      "homeScore": 3,
+      "awayScore": 0,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "55%",
+          "45%"
+        ],
+        "Total shots": [
+          "12",
+          "11"
+        ],
+        "Shots on target": [
+          "4",
+          "7"
+        ],
+        "Corner kicks": [
+          "6",
+          "8"
+        ],
+        "Yellow cards": [
+          "0",
+          "2"
+        ],
+        "Shots off target": [
+          "8",
+          "4"
+        ],
+        "Offsides": [
+          "2",
+          "0"
+        ],
+        "Free kicks": [
+          "15",
+          "15"
+        ],
+        "Throw ins": [
+          "20",
+          "23"
+        ],
+        "Fouls": [
+          "12",
+          "15"
+        ]
+      }
+    },
+    {
+      "id": "K6Mp07pC",
+      "date": "2025-08-10T18:15:00.000Z",
+      "round": "Round 4",
+      "homeTeam": "NK Primorje Ajdovscina",
+      "awayTeam": "NK Maribor",
+      "homeScore": 0,
+      "awayScore": 2,
+      "htHome": 0,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "56%",
+          "44%"
+        ],
+        "Total shots": [
+          "5",
+          "9"
+        ],
+        "Shots on target": [
+          "1",
+          "5"
+        ],
+        "Corner kicks": [
+          "7",
+          "4"
+        ],
+        "Yellow cards": [
+          "1",
+          "2"
+        ],
+        "Shots off target": [
+          "4",
+          "4"
+        ],
+        "Offsides": [
+          "0",
+          "6"
+        ],
+        "Free kicks": [
+          "13",
+          "13"
+        ],
+        "Throw ins": [
+          "16",
+          "32"
+        ],
+        "Fouls": [
+          "15",
+          "8"
+        ]
+      }
+    },
+    {
+      "id": "jRUT3kom",
+      "date": "2025-08-10T15:30:00.000Z",
+      "round": "Round 4",
+      "homeTeam": "NK Domzale",
+      "awayTeam": "Olimpija Ljubljana",
+      "homeScore": 1,
+      "awayScore": 3,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "51%",
+          "49%"
+        ],
+        "Total shots": [
+          "5",
+          "20"
+        ],
+        "Shots on target": [
+          "3",
+          "10"
+        ],
+        "Corner kicks": [
+          "2",
+          "7"
+        ],
+        "Yellow cards": [
+          "3",
+          "3"
+        ],
+        "Shots off target": [
+          "2",
+          "10"
+        ],
+        "Offsides": [
+          "0",
+          "2"
+        ],
+        "Free kicks": [
+          "18",
+          "18"
+        ],
+        "Throw ins": [
+          "24",
+          "25"
+        ],
+        "Fouls": [
+          "18",
+          "19"
+        ]
+      }
+    },
+    {
+      "id": "CtJx2TFa",
+      "date": "2025-08-09T18:15:00.000Z",
+      "round": "Round 4",
+      "homeTeam": "FC Koper",
+      "awayTeam": "NK Radomlje",
+      "homeScore": 1,
+      "awayScore": 2,
+      "htHome": 0,
+      "htAway": 2,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "52%",
+          "48%"
+        ],
+        "Total shots": [
+          "8",
+          "9"
+        ],
+        "Shots on target": [
+          "4",
+          "5"
+        ],
+        "Corner kicks": [
+          "3",
+          "3"
+        ],
+        "Yellow cards": [
+          "1",
+          "7"
+        ],
+        "Shots off target": [
+          "4",
+          "4"
+        ],
+        "Offsides": [
+          "1",
+          "4"
+        ],
+        "Free kicks": [
+          "32",
+          "16"
+        ],
+        "Throw ins": [
+          "18",
+          "18"
+        ],
+        "Fouls": [
+          "16",
+          "25"
+        ]
+      }
+    },
+    {
+      "id": "6qbHbf97",
+      "date": "2025-08-09T15:30:00.000Z",
+      "round": "Round 4",
+      "homeTeam": "NK Bravo",
+      "awayTeam": "NK Aluminij",
+      "homeScore": 1,
+      "awayScore": 2,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "47%",
+          "53%"
+        ],
+        "Total shots": [
+          "8",
+          "11"
+        ],
+        "Shots on target": [
+          "5",
+          "3"
+        ],
+        "Corner kicks": [
+          "5",
+          "2"
+        ],
+        "Yellow cards": [
+          "4",
+          "0"
+        ],
+        "Red cards": [
+          "1",
+          "0"
+        ],
+        "Shots off target": [
+          "3",
+          "8"
+        ],
+        "Offsides": [
+          "1",
+          "0"
+        ],
+        "Free kicks": [
+          "15",
+          "15"
+        ],
+        "Throw ins": [
+          "26",
+          "16"
+        ],
+        "Fouls": [
+          "15",
+          "14"
+        ]
+      }
+    },
+    {
+      "id": "x4602xAr",
+      "date": "2025-08-03T18:15:00.000Z",
+      "round": "Round 3",
+      "homeTeam": "Olimpija Ljubljana",
+      "awayTeam": "NK Celje",
+      "homeScore": 0,
+      "awayScore": 5,
+      "htHome": 0,
+      "htAway": 2,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "40%",
+          "60%"
+        ],
+        "Total shots": [
+          "13",
+          "14"
+        ],
+        "Shots on target": [
+          "2",
+          "9"
+        ],
+        "Corner kicks": [
+          "1",
+          "2"
+        ],
+        "Yellow cards": [
+          "1",
+          "1"
+        ],
+        "Shots off target": [
+          "11",
+          "5"
+        ],
+        "Offsides": [
+          "0",
+          "1"
+        ],
+        "Free kicks": [
+          "19",
+          "16"
+        ],
+        "Throw ins": [
+          "19",
+          "19"
+        ],
+        "Fouls": [
+          "16",
+          "19"
+        ]
+      }
+    },
+    {
+      "id": "p6RL9KH8",
+      "date": "2025-08-03T15:30:00.000Z",
+      "round": "Round 3",
+      "homeTeam": "NK Maribor",
+      "awayTeam": "FC Koper",
+      "homeScore": 2,
+      "awayScore": 2,
+      "htHome": 1,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "49%",
+          "51%"
+        ],
+        "Total shots": [
+          "13",
+          "14"
+        ],
+        "Shots on target": [
+          "6",
+          "7"
+        ],
+        "Corner kicks": [
+          "2",
+          "6"
+        ],
+        "Yellow cards": [
+          "2",
+          "0"
+        ],
+        "Shots off target": [
+          "7",
+          "7"
+        ],
+        "Offsides": [
+          "0",
+          "1"
+        ],
+        "Free kicks": [
+          "12",
+          "24"
+        ],
+        "Throw ins": [
+          "19",
+          "10"
+        ],
+        "Fouls": [
+          "24",
+          "12"
+        ]
+      }
+    },
+    {
+      "id": "YHKznHP1",
+      "date": "2025-08-02T18:15:00.000Z",
+      "round": "Round 3",
+      "homeTeam": "NK Primorje Ajdovscina",
+      "awayTeam": "NK Bravo",
+      "homeScore": 1,
+      "awayScore": 3,
+      "htHome": 0,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "47%",
+          "53%"
+        ],
+        "Total shots": [
+          "7",
+          "21"
+        ],
+        "Shots on target": [
+          "2",
+          "13"
+        ],
+        "Corner kicks": [
+          "2",
+          "10"
+        ],
+        "Yellow cards": [
+          "3",
+          "1"
+        ],
+        "Shots off target": [
+          "5",
+          "8"
+        ],
+        "Offsides": [
+          "1",
+          "7"
+        ],
+        "Free kicks": [
+          "17",
+          "10"
+        ],
+        "Throw ins": [
+          "29",
+          "34"
+        ],
+        "Fouls": [
+          "10",
+          "10"
+        ]
+      }
+    },
+    {
+      "id": "YVa90Gve",
+      "date": "2025-08-02T15:30:00.000Z",
+      "round": "Round 3",
+      "homeTeam": "NS Mura",
+      "awayTeam": "NK Aluminij",
+      "homeScore": 1,
+      "awayScore": 1,
+      "htHome": 1,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "55%",
+          "45%"
+        ],
+        "Total shots": [
+          "11",
+          "4"
+        ],
+        "Shots on target": [
+          "2",
+          "2"
+        ],
+        "Corner kicks": [
+          "4",
+          "2"
+        ],
+        "Yellow cards": [
+          "2",
+          "3"
+        ],
+        "Shots off target": [
+          "9",
+          "2"
+        ],
+        "Offsides": [
+          "2",
+          "3"
+        ],
+        "Free kicks": [
+          "20",
+          "18"
+        ],
+        "Throw ins": [
+          "31",
+          "29"
+        ],
+        "Fouls": [
+          "15",
+          "17"
+        ]
+      }
+    },
+    {
+      "id": "6LFU7bnL",
+      "date": "2025-08-01T15:30:00.000Z",
+      "round": "Round 3",
+      "homeTeam": "NK Radomlje",
+      "awayTeam": "NK Domzale",
+      "homeScore": 2,
+      "awayScore": 0,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "50%",
+          "50%"
+        ],
+        "Total shots": [
+          "14",
+          "5"
+        ],
+        "Shots on target": [
+          "4",
+          "2"
+        ],
+        "Corner kicks": [
+          "3",
+          "2"
+        ],
+        "Yellow cards": [
+          "1",
+          "2"
+        ],
+        "Red cards": [
+          "0",
+          "1"
+        ],
+        "Shots off target": [
+          "10",
+          "3"
+        ],
+        "Offsides": [
+          "3",
+          "2"
+        ],
+        "Free kicks": [
+          "9",
+          "19"
+        ],
+        "Throw ins": [
+          "19",
+          "7"
+        ],
+        "Fouls": [
+          "17",
+          "7"
+        ]
+      }
+    },
+    {
+      "id": "xjRRmwek",
+      "date": "2025-07-28T18:00:00.000Z",
+      "round": "Round 2",
+      "homeTeam": "FC Koper",
+      "awayTeam": "NK Primorje Ajdovscina",
+      "homeScore": 2,
+      "awayScore": 0,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "53%",
+          "47%"
+        ],
+        "Total shots": [
+          "17",
+          "8"
+        ],
+        "Shots on target": [
+          "7",
+          "2"
+        ],
+        "Corner kicks": [
+          "4",
+          "2"
+        ],
+        "Yellow cards": [
+          "2",
+          "3"
+        ],
+        "Shots off target": [
+          "10",
+          "6"
+        ],
+        "Offsides": [
+          "7",
+          "0"
+        ],
+        "Free kicks": [
+          "25",
+          "21"
+        ],
+        "Throw ins": [
+          "27",
+          "18"
+        ],
+        "Fouls": [
+          "14",
+          "22"
+        ],
+        "Goalkeeper saves": [
+          "2",
+          "5"
+        ]
+      }
+    },
+    {
+      "id": "phnmeL2F",
+      "date": "2025-07-27T18:15:00.000Z",
+      "round": "Round 2",
+      "homeTeam": "NK Celje",
+      "awayTeam": "NK Radomlje",
+      "homeScore": 2,
+      "awayScore": 0,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "55%",
+          "45%"
+        ],
+        "Total shots": [
+          "10",
+          "7"
+        ],
+        "Shots on target": [
+          "4",
+          "2"
+        ],
+        "Corner kicks": [
+          "6",
+          "4"
+        ],
+        "Yellow cards": [
+          "2",
+          "2"
+        ],
+        "Shots off target": [
+          "6",
+          "5"
+        ],
+        "Offsides": [
+          "3",
+          "1"
+        ],
+        "Free kicks": [
+          "21",
+          "22"
+        ],
+        "Throw ins": [
+          "15",
+          "12"
+        ],
+        "Fouls": [
+          "18",
+          "21"
+        ],
+        "Goalkeeper saves": [
+          "2",
+          "2"
+        ]
+      }
+    },
+    {
+      "id": "tKudgaXR",
+      "date": "2025-07-27T18:15:00.000Z",
+      "round": "Round 2",
+      "homeTeam": "NK Domzale",
+      "awayTeam": "NK Maribor",
+      "homeScore": 1,
+      "awayScore": 2,
+      "htHome": 1,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "53%",
+          "47%"
+        ],
+        "Total shots": [
+          "13",
+          "19"
+        ],
+        "Shots on target": [
+          "3",
+          "4"
+        ],
+        "Corner kicks": [
+          "4",
+          "6"
+        ],
+        "Yellow cards": [
+          "1",
+          "4"
+        ],
+        "Shots off target": [
+          "10",
+          "15"
+        ],
+        "Offsides": [
+          "2",
+          "2"
+        ],
+        "Free kicks": [
+          "20",
+          "10"
+        ],
+        "Throw ins": [
+          "18",
+          "16"
+        ],
+        "Fouls": [
+          "6",
+          "15"
+        ],
+        "Goalkeeper saves": [
+          "2",
+          "2"
+        ]
+      }
+    },
+    {
+      "id": "bylucsY2",
+      "date": "2025-07-26T18:15:00.000Z",
+      "round": "Round 2",
+      "homeTeam": "NK Aluminij",
+      "awayTeam": "Olimpija Ljubljana",
+      "homeScore": 0,
+      "awayScore": 3,
+      "htHome": 0,
+      "htAway": 3,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "35%",
+          "65%"
+        ],
+        "Total shots": [
+          "6",
+          "15"
+        ],
+        "Shots on target": [
+          "3",
+          "8"
+        ],
+        "Corner kicks": [
+          "2",
+          "2"
+        ],
+        "Yellow cards": [
+          "3",
+          "1"
+        ],
+        "Shots off target": [
+          "3",
+          "7"
+        ],
+        "Offsides": [
+          "3",
+          "3"
+        ],
+        "Free kicks": [
+          "21",
+          "27"
+        ],
+        "Throw ins": [
+          "24",
+          "24"
+        ],
+        "Fouls": [
+          "21",
+          "16"
+        ],
+        "Goalkeeper saves": [
+          "5",
+          "3"
+        ]
+      }
+    },
+    {
+      "id": "M9DrcaId",
+      "date": "2025-07-26T15:30:00.000Z",
+      "round": "Round 2",
+      "homeTeam": "NK Bravo",
+      "awayTeam": "NS Mura",
+      "homeScore": 2,
+      "awayScore": 0,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "52%",
+          "48%"
+        ],
+        "Total shots": [
+          "23",
+          "8"
+        ],
+        "Shots on target": [
+          "11",
+          "2"
+        ],
+        "Corner kicks": [
+          "4",
+          "5"
+        ],
+        "Yellow cards": [
+          "1",
+          "3"
+        ],
+        "Shots off target": [
+          "12",
+          "6"
+        ],
+        "Offsides": [
+          "2",
+          "0"
+        ],
+        "Free kicks": [
+          "21",
+          "7"
+        ],
+        "Throw ins": [
+          "22",
+          "18"
+        ],
+        "Fouls": [
+          "4",
+          "21"
+        ],
+        "Goalkeeper saves": [
+          "2",
+          "9"
+        ]
+      }
+    },
+    {
+      "id": "IaJopXYo",
+      "date": "2025-07-20T18:15:00.000Z",
+      "round": "Round 1",
+      "homeTeam": "FC Koper",
+      "awayTeam": "NK Bravo",
+      "homeScore": 2,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "66%",
+          "34%"
+        ],
+        "Total shots": [
+          "11",
+          "11"
+        ],
+        "Shots on target": [
+          "5",
+          "8"
+        ],
+        "Corner kicks": [
+          "2",
+          "1"
+        ],
+        "Yellow cards": [
+          "1",
+          "3"
+        ],
+        "Shots off target": [
+          "6",
+          "3"
+        ],
+        "Offsides": [
+          "5",
+          "1"
+        ],
+        "Free kicks": [
+          "22",
+          "11"
+        ],
+        "Throw ins": [
+          "21",
+          "20"
+        ],
+        "Fouls": [
+          "6",
+          "22"
+        ],
+        "Goalkeeper saves": [
+          "7",
+          "3"
+        ]
+      }
+    },
+    {
+      "id": "jRWhrB3b",
+      "date": "2025-07-20T18:15:00.000Z",
+      "round": "Round 1",
+      "homeTeam": "NK Maribor",
+      "awayTeam": "NK Celje",
+      "homeScore": 1,
+      "awayScore": 2,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "43%",
+          "57%"
+        ],
+        "Total shots": [
+          "7",
+          "21"
+        ],
+        "Shots on target": [
+          "4",
+          "9"
+        ],
+        "Corner kicks": [
+          "2",
+          "6"
+        ],
+        "Yellow cards": [
+          "4",
+          "5"
+        ],
+        "Shots off target": [
+          "3",
+          "12"
+        ],
+        "Offsides": [
+          "1",
+          "1"
+        ],
+        "Free kicks": [
+          "15",
+          "19"
+        ],
+        "Throw ins": [
+          "15",
+          "24"
+        ],
+        "Fouls": [
+          "15",
+          "12"
+        ],
+        "Goalkeeper saves": [
+          "7",
+          "3"
+        ]
+      }
+    },
+    {
+      "id": "EqAzaLmp",
+      "date": "2025-07-19T18:15:00.000Z",
+      "round": "Round 1",
+      "homeTeam": "Olimpija Ljubljana",
+      "awayTeam": "NS Mura",
+      "homeScore": 1,
+      "awayScore": 0,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "57%",
+          "43%"
+        ],
+        "Total shots": [
+          "16",
+          "7"
+        ],
+        "Shots on target": [
+          "11",
+          "1"
+        ],
+        "Corner kicks": [
+          "3",
+          "2"
+        ],
+        "Yellow cards": [
+          "1",
+          "1"
+        ],
+        "Shots off target": [
+          "5",
+          "6"
+        ],
+        "Offsides": [
+          "0",
+          "1"
+        ],
+        "Throw ins": [
+          "29",
+          "18"
+        ],
+        "Fouls": [
+          "13",
+          "22"
+        ],
+        "Goalkeeper saves": [
+          "1",
+          "10"
+        ]
+      }
+    },
+    {
+      "id": "MoVe63eA",
+      "date": "2025-07-19T15:30:00.000Z",
+      "round": "Round 1",
+      "homeTeam": "NK Primorje Ajdovscina",
+      "awayTeam": "NK Domzale",
+      "homeScore": 3,
+      "awayScore": 2,
+      "htHome": 0,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "50%",
+          "50%"
+        ],
+        "Total shots": [
+          "9",
+          "5"
+        ],
+        "Shots on target": [
+          "4",
+          "3"
+        ],
+        "Corner kicks": [
+          "4",
+          "1"
+        ],
+        "Yellow cards": [
+          "4",
+          "0"
+        ],
+        "Shots off target": [
+          "5",
+          "2"
+        ],
+        "Offsides": [
+          "1",
+          "3"
+        ],
+        "Free kicks": [
+          "11",
+          "17"
+        ],
+        "Throw ins": [
+          "29",
+          "6"
+        ],
+        "Fouls": [
+          "16",
+          "8"
+        ],
+        "Goalkeeper saves": [
+          "1",
+          "1"
+        ]
+      }
+    },
+    {
+      "id": "faT34sQM",
+      "date": "2025-07-18T18:15:00.000Z",
+      "round": "Round 1",
+      "homeTeam": "NK Radomlje",
+      "awayTeam": "NK Aluminij",
+      "homeScore": 1,
+      "awayScore": 2,
+      "htHome": 1,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "49%",
+          "51%"
+        ],
+        "Total shots": [
+          "7",
+          "9"
+        ],
+        "Shots on target": [
+          "2",
+          "5"
+        ],
+        "Corner kicks": [
+          "5",
+          "6"
+        ],
+        "Yellow cards": [
+          "6",
+          "2"
+        ],
+        "Red cards": [
+          "1",
+          "1"
+        ],
+        "Shots off target": [
+          "5",
+          "4"
+        ],
+        "Offsides": [
+          "2",
+          "2"
+        ],
+        "Free kicks": [
+          "15",
+          "16"
+        ],
+        "Throw ins": [
+          "18",
+          "13"
+        ],
+        "Fouls": [
+          "12",
+          "10"
+        ],
+        "Goalkeeper saves": [
+          "3",
+          "1"
+        ]
+      }
+    },
+    {
+      "id": "MoVe63eA",
+      "date": "2025-07-19T15:30:00.000Z",
+      "round": "Round 1",
+      "homeTeam": "NK Primorje Ajdovscina",
+      "awayTeam": "NK Domzale",
+      "homeScore": 3,
+      "awayScore": 2,
+      "htHome": 0,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "50%",
+          "50%"
+        ],
+        "Total shots": [
+          "9",
+          "5"
+        ],
+        "Shots on target": [
+          "4",
+          "3"
+        ],
+        "Corner kicks": [
+          "4",
+          "1"
+        ],
+        "Yellow cards": [
+          "4",
+          "0"
+        ],
+        "Shots off target": [
+          "5",
+          "2"
+        ],
+        "Offsides": [
+          "1",
+          "3"
+        ],
+        "Free kicks": [
+          "11",
+          "17"
+        ],
+        "Throw ins": [
+          "29",
+          "6"
+        ],
+        "Fouls": [
+          "16",
+          "8"
+        ],
+        "Goalkeeper saves": [
+          "1",
+          "1"
+        ]
+      }
+    },
+    {
+      "id": "faT34sQM",
+      "date": "2025-07-18T18:15:00.000Z",
+      "round": "Round 1",
+      "homeTeam": "NK Radomlje",
+      "awayTeam": "NK Aluminij",
+      "homeScore": 1,
+      "awayScore": 2,
+      "htHome": 1,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "49%",
+          "51%"
+        ],
+        "Total shots": [
+          "7",
+          "9"
+        ],
+        "Shots on target": [
+          "2",
+          "5"
+        ],
+        "Corner kicks": [
+          "5",
+          "6"
+        ],
+        "Yellow cards": [
+          "6",
+          "2"
+        ],
+        "Red cards": [
+          "1",
+          "1"
+        ],
+        "Shots off target": [
+          "5",
+          "4"
+        ],
+        "Offsides": [
+          "2",
+          "2"
+        ],
+        "Free kicks": [
+          "15",
+          "16"
+        ],
+        "Throw ins": [
+          "18",
+          "13"
+        ],
+        "Fouls": [
+          "12",
+          "10"
+        ],
+        "Goalkeeper saves": [
+          "3",
+          "1"
+        ]
+      }
+    }
+  ]
+}

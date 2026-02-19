@@ -1,0 +1,9902 @@
+{
+  "league": "Super League",
+  "country": "indonesia",
+  "season": "2025-2026",
+  "collectedAt": "2026-02-10T17:26:36.996Z",
+  "totalMatches": 183,
+  "matches": [
+    {
+      "id": "6RhPqxVH",
+      "date": "2026-02-08T12:00:00.000Z",
+      "round": "Round 20",
+      "homeTeam": "Persija Jakarta",
+      "awayTeam": "Arema FC",
+      "homeScore": 0,
+      "awayScore": 2,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "58%",
+          "42%"
+        ],
+        "Total shots": [
+          "9",
+          "4"
+        ],
+        "Shots on target": [
+          "2",
+          "3"
+        ],
+        "Corner kicks": [
+          "5",
+          "8"
+        ],
+        "Yellow cards": [
+          "1",
+          "4"
+        ],
+        "Shots off target": [
+          "7",
+          "1"
+        ],
+        "Offsides": [
+          "1",
+          "2"
+        ],
+        "Free kicks": [
+          "2",
+          "1"
+        ],
+        "Throw ins": [
+          "21",
+          "15"
+        ],
+        "Fouls": [
+          "7",
+          "19"
+        ]
+      }
+    },
+    {
+      "id": "AaaGob05",
+      "date": "2026-02-08T08:30:00.000Z",
+      "round": "Round 20",
+      "homeTeam": "PSBS Biak",
+      "awayTeam": "PSM Makassar",
+      "homeScore": 1,
+      "awayScore": 2,
+      "htHome": 0,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "54%",
+          "46%"
+        ],
+        "Total shots": [
+          "17",
+          "10"
+        ],
+        "Shots on target": [
+          "4",
+          "6"
+        ],
+        "Corner kicks": [
+          "7",
+          "4"
+        ],
+        "Yellow cards": [
+          "3",
+          "5"
+        ],
+        "Red cards": [
+          "1",
+          "0"
+        ],
+        "Shots off target": [
+          "13",
+          "4"
+        ],
+        "Offsides": [
+          "0",
+          "1"
+        ],
+        "Free kicks": [
+          "19",
+          "13"
+        ],
+        "Throw ins": [
+          "19",
+          "10"
+        ],
+        "Fouls": [
+          "13",
+          "18"
+        ]
+      }
+    },
+    {
+      "id": "xn18mKVh",
+      "date": "2026-02-08T08:30:00.000Z",
+      "round": "Round 20",
+      "homeTeam": "Semen Padang",
+      "awayTeam": "Persita Tangerang",
+      "homeScore": 1,
+      "awayScore": 0,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "63%",
+          "37%"
+        ],
+        "Total shots": [
+          "11",
+          "7"
+        ],
+        "Shots on target": [
+          "3",
+          "3"
+        ],
+        "Corner kicks": [
+          "6",
+          "2"
+        ],
+        "Yellow cards": [
+          "3",
+          "3"
+        ],
+        "Shots off target": [
+          "8",
+          "4"
+        ],
+        "Offsides": [
+          "0",
+          "1"
+        ],
+        "Free kicks": [
+          "9",
+          "14"
+        ],
+        "Throw ins": [
+          "16",
+          "15"
+        ],
+        "Fouls": [
+          "18",
+          "16"
+        ]
+      }
+    },
+    {
+      "id": "rm8akt1t",
+      "date": "2026-02-07T12:00:00.000Z",
+      "round": "Round 20",
+      "homeTeam": "Bali United",
+      "awayTeam": "Persebaya Surabaya",
+      "homeScore": 1,
+      "awayScore": 3,
+      "htHome": 0,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "58%",
+          "42%"
+        ],
+        "Total shots": [
+          "8",
+          "8"
+        ],
+        "Shots on target": [
+          "2",
+          "7"
+        ],
+        "Corner kicks": [
+          "6",
+          "8"
+        ],
+        "Yellow cards": [
+          "2",
+          "2"
+        ],
+        "Shots off target": [
+          "6",
+          "1"
+        ],
+        "Offsides": [
+          "5",
+          "1"
+        ],
+        "Free kicks": [
+          "1",
+          "5"
+        ],
+        "Throw ins": [
+          "18",
+          "12"
+        ],
+        "Fouls": [
+          "9",
+          "4"
+        ]
+      }
+    },
+    {
+      "id": "hOSkVxGO",
+      "date": "2026-02-07T12:00:00.000Z",
+      "round": "Round 20",
+      "homeTeam": "Persijap Jepara",
+      "awayTeam": "Madura United",
+      "homeScore": 1,
+      "awayScore": 0,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "50%",
+          "50%"
+        ],
+        "Total shots": [
+          "17",
+          "6"
+        ],
+        "Shots on target": [
+          "9",
+          "3"
+        ],
+        "Corner kicks": [
+          "8",
+          "7"
+        ],
+        "Yellow cards": [
+          "2",
+          "4"
+        ],
+        "Red cards": [
+          "0",
+          "1"
+        ],
+        "Shots off target": [
+          "8",
+          "3"
+        ],
+        "Offsides": [
+          "1",
+          "1"
+        ],
+        "Free kicks": [
+          "5",
+          "4"
+        ],
+        "Throw ins": [
+          "15",
+          "16"
+        ],
+        "Fouls": [
+          "8",
+          "11"
+        ]
+      }
+    },
+    {
+      "id": "OryZYKGa",
+      "date": "2026-02-07T08:30:00.000Z",
+      "round": "Round 20",
+      "homeTeam": "Bhayangkara FC",
+      "awayTeam": "Borneo FC",
+      "homeScore": 1,
+      "awayScore": 2,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "50%",
+          "50%"
+        ],
+        "Total shots": [
+          "12",
+          "14"
+        ],
+        "Shots on target": [
+          "4",
+          "9"
+        ],
+        "Corner kicks": [
+          "6",
+          "1"
+        ],
+        "Yellow cards": [
+          "1",
+          "3"
+        ],
+        "Shots off target": [
+          "8",
+          "5"
+        ],
+        "Offsides": [
+          "1",
+          "0"
+        ],
+        "Free kicks": [
+          "4",
+          "4"
+        ],
+        "Throw ins": [
+          "24",
+          "27"
+        ],
+        "Fouls": [
+          "9",
+          "15"
+        ]
+      }
+    },
+    {
+      "id": "W8vsXboC",
+      "date": "2026-02-07T08:30:00.000Z",
+      "round": "Round 20",
+      "homeTeam": "Persik Kediri",
+      "awayTeam": "Dewa United FC",
+      "homeScore": 2,
+      "awayScore": 1,
+      "htHome": 2,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "43%",
+          "57%"
+        ],
+        "Total shots": [
+          "9",
+          "7"
+        ],
+        "Shots on target": [
+          "6",
+          "2"
+        ],
+        "Corner kicks": [
+          "5",
+          "1"
+        ],
+        "Yellow cards": [
+          "3",
+          "3"
+        ],
+        "Shots off target": [
+          "3",
+          "5"
+        ],
+        "Offsides": [
+          "1",
+          "1"
+        ],
+        "Free kicks": [
+          "2",
+          "2"
+        ],
+        "Throw ins": [
+          "21",
+          "24"
+        ],
+        "Fouls": [
+          "14",
+          "13"
+        ]
+      }
+    },
+    {
+      "id": "4tLXzsnm",
+      "date": "2026-02-06T12:00:00.000Z",
+      "round": "Round 20",
+      "homeTeam": "Persib Bandung",
+      "awayTeam": "Malut United FC",
+      "homeScore": 2,
+      "awayScore": 0,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "52%",
+          "48%"
+        ],
+        "Total shots": [
+          "12",
+          "3"
+        ],
+        "Shots on target": [
+          "4",
+          "0"
+        ],
+        "Corner kicks": [
+          "6",
+          "2"
+        ],
+        "Yellow cards": [
+          "2",
+          "3"
+        ],
+        "Shots off target": [
+          "8",
+          "3"
+        ],
+        "Offsides": [
+          "5",
+          "1"
+        ],
+        "Free kicks": [
+          "3",
+          "5"
+        ],
+        "Throw ins": [
+          "7",
+          "15"
+        ],
+        "Fouls": [
+          "8",
+          "11"
+        ]
+      }
+    },
+    {
+      "id": "8AZ1t3OP",
+      "date": "2026-02-06T08:30:00.000Z",
+      "round": "Round 20",
+      "homeTeam": "PSIM Yogyakarta",
+      "awayTeam": "Persis Solo",
+      "homeScore": 0,
+      "awayScore": 0,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "56%",
+          "44%"
+        ],
+        "Total shots": [
+          "13",
+          "6"
+        ],
+        "Shots on target": [
+          "5",
+          "2"
+        ],
+        "Corner kicks": [
+          "7",
+          "2"
+        ],
+        "Yellow cards": [
+          "2",
+          "2"
+        ],
+        "Shots off target": [
+          "8",
+          "4"
+        ],
+        "Offsides": [
+          "0",
+          "2"
+        ],
+        "Free kicks": [
+          "2",
+          "6"
+        ],
+        "Throw ins": [
+          "13",
+          "5"
+        ],
+        "Fouls": [
+          "10",
+          "8"
+        ]
+      }
+    },
+    {
+      "id": "h2iFIaWI",
+      "date": "2026-02-02T12:00:00.000Z",
+      "round": "Round 19",
+      "homeTeam": "PSM Makassar",
+      "awayTeam": "Semen Padang",
+      "homeScore": 0,
+      "awayScore": 0,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "49%",
+          "51%"
+        ],
+        "Total shots": [
+          "4",
+          "4"
+        ],
+        "Shots on target": [
+          "0",
+          "0"
+        ],
+        "Corner kicks": [
+          "7",
+          "5"
+        ],
+        "Yellow cards": [
+          "1",
+          "1"
+        ],
+        "Shots off target": [
+          "4",
+          "4"
+        ],
+        "Offsides": [
+          "0",
+          "0"
+        ],
+        "Free kicks": [
+          "9",
+          "7"
+        ],
+        "Throw ins": [
+          "25",
+          "14"
+        ],
+        "Fouls": [
+          "11",
+          "12"
+        ]
+      }
+    },
+    {
+      "id": "pxl7KL16",
+      "date": "2026-02-02T08:30:00.000Z",
+      "round": "Round 19",
+      "homeTeam": "Arema FC",
+      "awayTeam": "Persijap Jepara",
+      "homeScore": 1,
+      "awayScore": 0,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "38%",
+          "62%"
+        ],
+        "Total shots": [
+          "9",
+          "8"
+        ],
+        "Shots on target": [
+          "2",
+          "3"
+        ],
+        "Corner kicks": [
+          "4",
+          "5"
+        ],
+        "Yellow cards": [
+          "4",
+          "2"
+        ],
+        "Shots off target": [
+          "7",
+          "5"
+        ],
+        "Offsides": [
+          "0",
+          "3"
+        ],
+        "Free kicks": [
+          "6",
+          "8"
+        ],
+        "Throw ins": [
+          "13",
+          "34"
+        ],
+        "Fouls": [
+          "18",
+          "12"
+        ]
+      }
+    },
+    {
+      "id": "OMabMsXg",
+      "date": "2026-02-01T12:00:00.000Z",
+      "round": "Round 19",
+      "homeTeam": "Persebaya Surabaya",
+      "awayTeam": "Dewa United FC",
+      "homeScore": 1,
+      "awayScore": 1,
+      "htHome": 1,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "49%",
+          "51%"
+        ],
+        "Total shots": [
+          "15",
+          "4"
+        ],
+        "Shots on target": [
+          "3",
+          "3"
+        ],
+        "Corner kicks": [
+          "2",
+          "2"
+        ],
+        "Yellow cards": [
+          "3",
+          "2"
+        ],
+        "Red cards": [
+          "0",
+          "1"
+        ],
+        "Shots off target": [
+          "12",
+          "1"
+        ],
+        "Offsides": [
+          "2",
+          "0"
+        ],
+        "Free kicks": [
+          "5",
+          "11"
+        ],
+        "Throw ins": [
+          "24",
+          "17"
+        ],
+        "Fouls": [
+          "14",
+          "10"
+        ]
+      }
+    },
+    {
+      "id": "WEsiO32s",
+      "date": "2026-02-01T08:30:00.000Z",
+      "round": "Round 19",
+      "homeTeam": "Borneo FC",
+      "awayTeam": "PSIM Yogyakarta",
+      "homeScore": 2,
+      "awayScore": 1,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "50%",
+          "50%"
+        ],
+        "Total shots": [
+          "8",
+          "2"
+        ],
+        "Shots on target": [
+          "2",
+          "2"
+        ],
+        "Corner kicks": [
+          "7",
+          "4"
+        ],
+        "Yellow cards": [
+          "1",
+          "1"
+        ],
+        "Shots off target": [
+          "6",
+          "0"
+        ],
+        "Offsides": [
+          "4",
+          "0"
+        ],
+        "Free kicks": [
+          "6",
+          "5"
+        ],
+        "Throw ins": [
+          "17",
+          "14"
+        ],
+        "Fouls": [
+          "8",
+          "8"
+        ]
+      }
+    },
+    {
+      "id": "CU0KTPvK",
+      "date": "2026-01-31T12:00:00.000Z",
+      "round": "Round 19",
+      "homeTeam": "Madura United",
+      "awayTeam": "PSBS Biak",
+      "homeScore": 0,
+      "awayScore": 0,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "50%",
+          "50%"
+        ],
+        "Total shots": [
+          "12",
+          "14"
+        ],
+        "Shots on target": [
+          "2",
+          "1"
+        ],
+        "Corner kicks": [
+          "3",
+          "10"
+        ],
+        "Yellow cards": [
+          "4",
+          "3"
+        ],
+        "Shots off target": [
+          "10",
+          "13"
+        ],
+        "Offsides": [
+          "1",
+          "1"
+        ],
+        "Free kicks": [
+          "12",
+          "14"
+        ],
+        "Throw ins": [
+          "8",
+          "21"
+        ],
+        "Fouls": [
+          "13",
+          "10"
+        ]
+      }
+    },
+    {
+      "id": "O8KP7rI0",
+      "date": "2026-01-31T08:30:00.000Z",
+      "round": "Round 19",
+      "homeTeam": "Persis Solo",
+      "awayTeam": "Persib Bandung",
+      "homeScore": 0,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "44%",
+          "56%"
+        ],
+        "Total shots": [
+          "7",
+          "10"
+        ],
+        "Shots on target": [
+          "2",
+          "4"
+        ],
+        "Corner kicks": [
+          "5",
+          "5"
+        ],
+        "Yellow cards": [
+          "0",
+          "3"
+        ],
+        "Shots off target": [
+          "5",
+          "6"
+        ],
+        "Offsides": [
+          "1",
+          "1"
+        ],
+        "Free kicks": [
+          "8",
+          "3"
+        ],
+        "Throw ins": [
+          "22",
+          "22"
+        ],
+        "Fouls": [
+          "6",
+          "19"
+        ]
+      }
+    },
+    {
+      "id": "KzEY5MnD",
+      "date": "2026-01-31T06:30:00.000Z",
+      "round": "Round 19",
+      "homeTeam": "Malut United FC",
+      "awayTeam": "Bhayangkara FC",
+      "homeScore": 1,
+      "awayScore": 2,
+      "htHome": 0,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "54%",
+          "46%"
+        ],
+        "Total shots": [
+          "3",
+          "6"
+        ],
+        "Shots on target": [
+          "1",
+          "4"
+        ],
+        "Corner kicks": [
+          "4",
+          "4"
+        ],
+        "Yellow cards": [
+          "3",
+          "0"
+        ],
+        "Shots off target": [
+          "2",
+          "2"
+        ],
+        "Offsides": [
+          "0",
+          "0"
+        ],
+        "Free kicks": [
+          "8",
+          "12"
+        ],
+        "Throw ins": [
+          "17",
+          "19"
+        ],
+        "Fouls": [
+          "14",
+          "14"
+        ]
+      }
+    },
+    {
+      "id": "hKpoFQPQ",
+      "date": "2026-01-30T08:30:00.000Z",
+      "round": "Round 19",
+      "homeTeam": "Persik Kediri",
+      "awayTeam": "Bali United",
+      "homeScore": 3,
+      "awayScore": 2,
+      "htHome": 3,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "48%",
+          "52%"
+        ],
+        "Total shots": [
+          "14",
+          "17"
+        ],
+        "Shots on target": [
+          "7",
+          "6"
+        ],
+        "Corner kicks": [
+          "2",
+          "5"
+        ],
+        "Yellow cards": [
+          "3",
+          "2"
+        ],
+        "Shots off target": [
+          "7",
+          "11"
+        ],
+        "Offsides": [
+          "0",
+          "1"
+        ],
+        "Free kicks": [
+          "3",
+          "0"
+        ],
+        "Throw ins": [
+          "10",
+          "26"
+        ],
+        "Fouls": [
+          "12",
+          "10"
+        ]
+      }
+    },
+    {
+      "id": "xhMH94ml",
+      "date": "2026-01-30T08:30:00.000Z",
+      "round": "Round 19",
+      "homeTeam": "Persita Tangerang",
+      "awayTeam": "Persija Jakarta",
+      "homeScore": 0,
+      "awayScore": 2,
+      "htHome": 0,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "45%",
+          "55%"
+        ],
+        "Total shots": [
+          "4",
+          "7"
+        ],
+        "Shots on target": [
+          "1",
+          "5"
+        ],
+        "Corner kicks": [
+          "3",
+          "3"
+        ],
+        "Yellow cards": [
+          "4",
+          "4"
+        ],
+        "Shots off target": [
+          "3",
+          "2"
+        ],
+        "Offsides": [
+          "3",
+          "0"
+        ],
+        "Free kicks": [
+          "4",
+          "5"
+        ],
+        "Throw ins": [
+          "20",
+          "15"
+        ],
+        "Fouls": [
+          "13",
+          "10"
+        ]
+      }
+    },
+    {
+      "id": "pfswHneE",
+      "date": "2026-01-26T12:00:00.000Z",
+      "round": "Round 18",
+      "homeTeam": "Dewa United FC",
+      "awayTeam": "Arema FC",
+      "homeScore": 2,
+      "awayScore": 0,
+      "htHome": 2,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "52%",
+          "48%"
+        ],
+        "Total shots": [
+          "6",
+          "8"
+        ],
+        "Shots on target": [
+          "3",
+          "1"
+        ],
+        "Corner kicks": [
+          "5",
+          "7"
+        ],
+        "Yellow cards": [
+          "0",
+          "3"
+        ],
+        "Shots off target": [
+          "3",
+          "7"
+        ],
+        "Offsides": [
+          "3",
+          "2"
+        ],
+        "Free kicks": [
+          "5",
+          "2"
+        ],
+        "Throw ins": [
+          "12",
+          "17"
+        ],
+        "Fouls": [
+          "7",
+          "7"
+        ]
+      }
+    },
+    {
+      "id": "SICh9zx8",
+      "date": "2026-01-25T12:00:00.000Z",
+      "round": "Round 18",
+      "homeTeam": "Persib Bandung",
+      "awayTeam": "PSBS Biak",
+      "homeScore": 1,
+      "awayScore": 0,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "f5EpBd7e",
+      "date": "2026-01-25T08:30:00.000Z",
+      "round": "Round 18",
+      "homeTeam": "PSIM Yogyakarta",
+      "awayTeam": "Persebaya Surabaya",
+      "homeScore": 0,
+      "awayScore": 3,
+      "htHome": 0,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "54%",
+          "46%"
+        ],
+        "Total shots": [
+          "9",
+          "11"
+        ],
+        "Shots on target": [
+          "4",
+          "7"
+        ],
+        "Corner kicks": [
+          "5",
+          "3"
+        ],
+        "Yellow cards": [
+          "1",
+          "1"
+        ],
+        "Shots off target": [
+          "5",
+          "4"
+        ],
+        "Offsides": [
+          "2",
+          "1"
+        ],
+        "Free kicks": [
+          "2",
+          "2"
+        ],
+        "Throw ins": [
+          "17",
+          "14"
+        ],
+        "Fouls": [
+          "8",
+          "8"
+        ]
+      }
+    },
+    {
+      "id": "f7g4VQhA",
+      "date": "2026-01-24T12:00:00.000Z",
+      "round": "Round 18",
+      "homeTeam": "Persijap Jepara",
+      "awayTeam": "PSM Makassar",
+      "homeScore": 2,
+      "awayScore": 0,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "50%",
+          "50%"
+        ],
+        "Total shots": [
+          "5",
+          "17"
+        ],
+        "Shots on target": [
+          "4",
+          "6"
+        ],
+        "Corner kicks": [
+          "1",
+          "8"
+        ],
+        "Yellow cards": [
+          "4",
+          "3"
+        ],
+        "Shots off target": [
+          "1",
+          "11"
+        ],
+        "Offsides": [
+          "3",
+          "0"
+        ],
+        "Free kicks": [
+          "7",
+          "7"
+        ],
+        "Throw ins": [
+          "18",
+          "20"
+        ],
+        "Fouls": [
+          "13",
+          "8"
+        ]
+      }
+    },
+    {
+      "id": "Yi5eXnOc",
+      "date": "2026-01-24T08:30:00.000Z",
+      "round": "Round 18",
+      "homeTeam": "Bali United",
+      "awayTeam": "Semen Padang",
+      "homeScore": 3,
+      "awayScore": 3,
+      "htHome": 0,
+      "htAway": 2,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "52%",
+          "48%"
+        ],
+        "Total shots": [
+          "12",
+          "8"
+        ],
+        "Shots on target": [
+          "5",
+          "7"
+        ],
+        "Corner kicks": [
+          "4",
+          "5"
+        ],
+        "Yellow cards": [
+          "1",
+          "2"
+        ],
+        "Shots off target": [
+          "7",
+          "1"
+        ],
+        "Offsides": [
+          "3",
+          "1"
+        ],
+        "Free kicks": [
+          "2",
+          "3"
+        ],
+        "Throw ins": [
+          "18",
+          "18"
+        ],
+        "Fouls": [
+          "7",
+          "10"
+        ]
+      }
+    },
+    {
+      "id": "6oD99qWj",
+      "date": "2026-01-24T08:30:00.000Z",
+      "round": "Round 18",
+      "homeTeam": "Persita Tangerang",
+      "awayTeam": "Bhayangkara FC",
+      "homeScore": 1,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "56%",
+          "44%"
+        ],
+        "Total shots": [
+          "4",
+          "4"
+        ],
+        "Shots on target": [
+          "1",
+          "1"
+        ],
+        "Corner kicks": [
+          "4",
+          "2"
+        ],
+        "Yellow cards": [
+          "2",
+          "5"
+        ],
+        "Shots off target": [
+          "3",
+          "3"
+        ],
+        "Offsides": [
+          "0",
+          "0"
+        ],
+        "Free kicks": [
+          "5",
+          "9"
+        ],
+        "Throw ins": [
+          "25",
+          "18"
+        ],
+        "Fouls": [
+          "12",
+          "18"
+        ]
+      }
+    },
+    {
+      "id": "06LyDIxq",
+      "date": "2026-01-24T06:30:00.000Z",
+      "round": "Round 18",
+      "homeTeam": "Malut United FC",
+      "awayTeam": "Persik Kediri",
+      "homeScore": 4,
+      "awayScore": 0,
+      "htHome": 3,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "50%",
+          "50%"
+        ],
+        "Total shots": [
+          "1",
+          "1"
+        ],
+        "Shots on target": [
+          "0",
+          "1"
+        ],
+        "Corner kicks": [
+          "0",
+          "1"
+        ],
+        "Yellow cards": [
+          "3",
+          "0"
+        ],
+        "Red cards": [
+          "0",
+          "1"
+        ],
+        "Shots off target": [
+          "1",
+          "0"
+        ],
+        "Offsides": [
+          "0",
+          "0"
+        ],
+        "Free kicks": [
+          "0",
+          "0"
+        ],
+        "Throw ins": [
+          "0",
+          "0"
+        ],
+        "Fouls": [
+          "0",
+          "0"
+        ]
+      }
+    },
+    {
+      "id": "xGfoF58T",
+      "date": "2026-01-23T12:00:00.000Z",
+      "round": "Round 18",
+      "homeTeam": "Persija Jakarta",
+      "awayTeam": "Madura United",
+      "homeScore": 2,
+      "awayScore": 0,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "63%",
+          "37%"
+        ],
+        "Total shots": [
+          "12",
+          "3"
+        ],
+        "Shots on target": [
+          "6",
+          "0"
+        ],
+        "Corner kicks": [
+          "6",
+          "1"
+        ],
+        "Yellow cards": [
+          "2",
+          "4"
+        ],
+        "Shots off target": [
+          "6",
+          "3"
+        ],
+        "Offsides": [
+          "0",
+          "1"
+        ],
+        "Free kicks": [
+          "0",
+          "2"
+        ],
+        "Throw ins": [
+          "19",
+          "16"
+        ],
+        "Fouls": [
+          "11",
+          "11"
+        ]
+      }
+    },
+    {
+      "id": "42dwHRwH",
+      "date": "2026-01-23T08:30:00.000Z",
+      "round": "Round 18",
+      "homeTeam": "Persis Solo",
+      "awayTeam": "Borneo FC",
+      "homeScore": 0,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "51%",
+          "49%"
+        ],
+        "Total shots": [
+          "12",
+          "7"
+        ],
+        "Shots on target": [
+          "7",
+          "2"
+        ],
+        "Corner kicks": [
+          "8",
+          "2"
+        ],
+        "Yellow cards": [
+          "1",
+          "0"
+        ],
+        "Shots off target": [
+          "5",
+          "5"
+        ],
+        "Offsides": [
+          "2",
+          "0"
+        ],
+        "Free kicks": [
+          "9",
+          "16"
+        ],
+        "Throw ins": [
+          "18",
+          "17"
+        ],
+        "Fouls": [
+          "14",
+          "9"
+        ]
+      }
+    },
+    {
+      "id": "8z3UIm94",
+      "date": "2026-01-12T12:00:00.000Z",
+      "round": "Round 17",
+      "homeTeam": "Persijap Jepara",
+      "awayTeam": "Dewa United FC",
+      "homeScore": 0,
+      "awayScore": 3,
+      "htHome": 0,
+      "htAway": 2,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "40%",
+          "60%"
+        ],
+        "Total shots": [
+          "10",
+          "12"
+        ],
+        "Shots on target": [
+          "4",
+          "5"
+        ],
+        "Corner kicks": [
+          "4",
+          "9"
+        ],
+        "Yellow cards": [
+          "2",
+          "3"
+        ],
+        "Shots off target": [
+          "6",
+          "7"
+        ],
+        "Offsides": [
+          "0",
+          "2"
+        ],
+        "Free kicks": [
+          "2",
+          "5"
+        ],
+        "Throw ins": [
+          "20",
+          "14"
+        ],
+        "Fouls": [
+          "8",
+          "5"
+        ]
+      }
+    },
+    {
+      "id": "jaW32SON",
+      "date": "2026-01-12T08:30:00.000Z",
+      "round": "Round 17",
+      "homeTeam": "PSBS Biak",
+      "awayTeam": "Bhayangkara FC",
+      "homeScore": 4,
+      "awayScore": 1,
+      "htHome": 4,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "50%",
+          "50%"
+        ],
+        "Total shots": [
+          "14",
+          "17"
+        ],
+        "Shots on target": [
+          "10",
+          "4"
+        ],
+        "Corner kicks": [
+          "6",
+          "10"
+        ],
+        "Yellow cards": [
+          "3",
+          "3"
+        ],
+        "Shots off target": [
+          "4",
+          "13"
+        ],
+        "Offsides": [
+          "1",
+          "0"
+        ],
+        "Free kicks": [
+          "17",
+          "10"
+        ],
+        "Throw ins": [
+          "23",
+          "15"
+        ],
+        "Fouls": [
+          "9",
+          "17"
+        ]
+      }
+    },
+    {
+      "id": "KEMZd6no",
+      "date": "2026-01-11T08:30:00.000Z",
+      "round": "Round 17",
+      "homeTeam": "Arema FC",
+      "awayTeam": "Persik Kediri",
+      "homeScore": 2,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "49%",
+          "51%"
+        ],
+        "Total shots": [
+          "13",
+          "6"
+        ],
+        "Shots on target": [
+          "4",
+          "3"
+        ],
+        "Corner kicks": [
+          "6",
+          "4"
+        ],
+        "Yellow cards": [
+          "0",
+          "3"
+        ],
+        "Shots off target": [
+          "9",
+          "3"
+        ],
+        "Offsides": [
+          "0",
+          "1"
+        ],
+        "Free kicks": [
+          "4",
+          "6"
+        ],
+        "Throw ins": [
+          "26",
+          "19"
+        ],
+        "Fouls": [
+          "8",
+          "8"
+        ]
+      }
+    },
+    {
+      "id": "fXxe4lfB",
+      "date": "2026-01-11T08:30:00.000Z",
+      "round": "Round 17",
+      "homeTeam": "Persib Bandung",
+      "awayTeam": "Persija Jakarta",
+      "homeScore": 1,
+      "awayScore": 0,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "38%",
+          "62%"
+        ],
+        "Total shots": [
+          "9",
+          "4"
+        ],
+        "Shots on target": [
+          "5",
+          "2"
+        ],
+        "Corner kicks": [
+          "4",
+          "6"
+        ],
+        "Yellow cards": [
+          "4",
+          "2"
+        ],
+        "Red cards": [
+          "0",
+          "1"
+        ],
+        "Shots off target": [
+          "4",
+          "2"
+        ]
+      }
+    },
+    {
+      "id": "0AaMK9vh",
+      "date": "2026-01-11T08:30:00.000Z",
+      "round": "Round 17",
+      "homeTeam": "Semen Padang",
+      "awayTeam": "Persis Solo",
+      "homeScore": 2,
+      "awayScore": 3,
+      "htHome": 1,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "55%",
+          "45%"
+        ],
+        "Total shots": [
+          "7",
+          "3"
+        ],
+        "Shots on target": [
+          "5",
+          "3"
+        ],
+        "Corner kicks": [
+          "5",
+          "4"
+        ],
+        "Yellow cards": [
+          "0",
+          "1"
+        ],
+        "Shots off target": [
+          "2",
+          "0"
+        ],
+        "Free kicks": [
+          "6",
+          "5"
+        ],
+        "Throw ins": [
+          "25",
+          "19"
+        ],
+        "Fouls": [
+          "9",
+          "14"
+        ]
+      }
+    },
+    {
+      "id": "MJvm6APb",
+      "date": "2026-01-10T12:00:00.000Z",
+      "round": "Round 17",
+      "homeTeam": "Madura United",
+      "awayTeam": "PSIM Yogyakarta",
+      "homeScore": 0,
+      "awayScore": 3,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "40%",
+          "60%"
+        ],
+        "Total shots": [
+          "2",
+          "6"
+        ],
+        "Shots on target": [
+          "2",
+          "6"
+        ],
+        "Corner kicks": [
+          "1",
+          "4"
+        ],
+        "Yellow cards": [
+          "0",
+          "4"
+        ],
+        "Red cards": [
+          "2",
+          "1"
+        ],
+        "Shots off target": [
+          "0",
+          "0"
+        ],
+        "Offsides": [
+          "2",
+          "0"
+        ],
+        "Free kicks": [
+          "2",
+          "8"
+        ],
+        "Throw ins": [
+          "12",
+          "11"
+        ],
+        "Fouls": [
+          "11",
+          "7"
+        ]
+      }
+    },
+    {
+      "id": "Qiov8Wfn",
+      "date": "2026-01-10T08:30:00.000Z",
+      "round": "Round 17",
+      "homeTeam": "Persebaya Surabaya",
+      "awayTeam": "Malut United FC",
+      "homeScore": 2,
+      "awayScore": 1,
+      "htHome": 2,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "45%",
+          "55%"
+        ],
+        "Total shots": [
+          "5",
+          "15"
+        ],
+        "Shots on target": [
+          "2",
+          "4"
+        ],
+        "Corner kicks": [
+          "2",
+          "7"
+        ],
+        "Yellow cards": [
+          "1",
+          "3"
+        ],
+        "Shots off target": [
+          "3",
+          "11"
+        ],
+        "Offsides": [
+          "0",
+          "0"
+        ],
+        "Free kicks": [
+          "10",
+          "8"
+        ],
+        "Throw ins": [
+          "15",
+          "26"
+        ],
+        "Fouls": [
+          "15",
+          "13"
+        ]
+      }
+    },
+    {
+      "id": "dxBUmT9U",
+      "date": "2026-01-09T12:00:00.000Z",
+      "round": "Round 17",
+      "homeTeam": "PSM Makassar",
+      "awayTeam": "Bali United",
+      "homeScore": 0,
+      "awayScore": 2,
+      "htHome": 0,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "41%",
+          "59%"
+        ],
+        "Total shots": [
+          "8",
+          "5"
+        ],
+        "Shots on target": [
+          "2",
+          "4"
+        ],
+        "Corner kicks": [
+          "9",
+          "5"
+        ],
+        "Yellow cards": [
+          "5",
+          "4"
+        ],
+        "Red cards": [
+          "2",
+          "0"
+        ],
+        "Shots off target": [
+          "6",
+          "1"
+        ],
+        "Offsides": [
+          "2",
+          "2"
+        ],
+        "Free kicks": [
+          "7",
+          "5"
+        ],
+        "Throw ins": [
+          "27",
+          "12"
+        ],
+        "Fouls": [
+          "11",
+          "16"
+        ]
+      }
+    },
+    {
+      "id": "zNMLkkuI",
+      "date": "2026-01-09T08:30:00.000Z",
+      "round": "Round 17",
+      "homeTeam": "Persita Tangerang",
+      "awayTeam": "Borneo FC",
+      "homeScore": 2,
+      "awayScore": 0,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "54%",
+          "46%"
+        ],
+        "Total shots": [
+          "11",
+          "8"
+        ],
+        "Shots on target": [
+          "5",
+          "2"
+        ],
+        "Corner kicks": [
+          "12",
+          "7"
+        ],
+        "Yellow cards": [
+          "0",
+          "3"
+        ],
+        "Shots off target": [
+          "6",
+          "6"
+        ],
+        "Offsides": [
+          "0",
+          "0"
+        ],
+        "Free kicks": [
+          "8",
+          "7"
+        ],
+        "Throw ins": [
+          "14",
+          "22"
+        ],
+        "Fouls": [
+          "8",
+          "12"
+        ]
+      }
+    },
+    {
+      "id": "SdJDiBA5",
+      "date": "2026-01-05T12:00:00.000Z",
+      "round": "Round 16",
+      "homeTeam": "Persik Kediri",
+      "awayTeam": "Persib Bandung",
+      "homeScore": 1,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "55%",
+          "45%"
+        ],
+        "Total shots": [
+          "9",
+          "11"
+        ],
+        "Shots on target": [
+          "3",
+          "2"
+        ],
+        "Corner kicks": [
+          "7",
+          "2"
+        ],
+        "Yellow cards": [
+          "3",
+          "5"
+        ],
+        "Red cards": [
+          "0",
+          "1"
+        ],
+        "Shots off target": [
+          "6",
+          "9"
+        ],
+        "Offsides": [
+          "0",
+          "1"
+        ],
+        "Free kicks": [
+          "1",
+          "1"
+        ],
+        "Throw ins": [
+          "23",
+          "30"
+        ],
+        "Fouls": [
+          "8",
+          "13"
+        ]
+      }
+    },
+    {
+      "id": "WUP4gXug",
+      "date": "2026-01-05T08:30:00.000Z",
+      "round": "Round 16",
+      "homeTeam": "Bhayangkara FC",
+      "awayTeam": "Dewa United FC",
+      "homeScore": 1,
+      "awayScore": 0,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "41%",
+          "59%"
+        ],
+        "Total shots": [
+          "8",
+          "8"
+        ],
+        "Shots on target": [
+          "3",
+          "3"
+        ],
+        "Corner kicks": [
+          "2",
+          "5"
+        ],
+        "Yellow cards": [
+          "5",
+          "5"
+        ],
+        "Red cards": [
+          "1",
+          "1"
+        ],
+        "Shots off target": [
+          "5",
+          "5"
+        ],
+        "Offsides": [
+          "2",
+          "3"
+        ],
+        "Free kicks": [
+          "6",
+          "6"
+        ],
+        "Throw ins": [
+          "23",
+          "16"
+        ],
+        "Fouls": [
+          "14",
+          "9"
+        ]
+      }
+    },
+    {
+      "id": "bHRdegBt",
+      "date": "2026-01-04T12:00:00.000Z",
+      "round": "Round 16",
+      "homeTeam": "Bali United",
+      "awayTeam": "Arema FC",
+      "homeScore": 1,
+      "awayScore": 0,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "56%",
+          "44%"
+        ],
+        "Total shots": [
+          "6",
+          "7"
+        ],
+        "Shots on target": [
+          "2",
+          "2"
+        ],
+        "Corner kicks": [
+          "10",
+          "3"
+        ],
+        "Yellow cards": [
+          "1",
+          "2"
+        ],
+        "Shots off target": [
+          "4",
+          "5"
+        ],
+        "Offsides": [
+          "0",
+          "0"
+        ],
+        "Free kicks": [
+          "8",
+          "11"
+        ],
+        "Throw ins": [
+          "19",
+          "9"
+        ],
+        "Fouls": [
+          "14",
+          "19"
+        ]
+      }
+    },
+    {
+      "id": "6TkWvYQa",
+      "date": "2026-01-04T08:30:00.000Z",
+      "round": "Round 16",
+      "homeTeam": "Persis Solo",
+      "awayTeam": "Persita Tangerang",
+      "homeScore": 1,
+      "awayScore": 3,
+      "htHome": 0,
+      "htAway": 3,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "52%",
+          "48%"
+        ],
+        "Total shots": [
+          "6",
+          "7"
+        ],
+        "Shots on target": [
+          "5",
+          "3"
+        ],
+        "Corner kicks": [
+          "5",
+          "5"
+        ],
+        "Yellow cards": [
+          "2",
+          "1"
+        ],
+        "Shots off target": [
+          "1",
+          "4"
+        ],
+        "Offsides": [
+          "2",
+          "2"
+        ],
+        "Free kicks": [
+          "5",
+          "10"
+        ],
+        "Throw ins": [
+          "22",
+          "17"
+        ],
+        "Fouls": [
+          "11",
+          "14"
+        ]
+      }
+    },
+    {
+      "id": "SrvuwCeC",
+      "date": "2026-01-04T08:30:00.000Z",
+      "round": "Round 16",
+      "homeTeam": "PSIM Yogyakarta",
+      "awayTeam": "Semen Padang",
+      "homeScore": 1,
+      "awayScore": 0,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "65%",
+          "35%"
+        ],
+        "Total shots": [
+          "16",
+          "8"
+        ],
+        "Shots on target": [
+          "4",
+          "3"
+        ],
+        "Corner kicks": [
+          "4",
+          "3"
+        ],
+        "Yellow cards": [
+          "2",
+          "2"
+        ],
+        "Shots off target": [
+          "12",
+          "5"
+        ],
+        "Offsides": [
+          "1",
+          "0"
+        ],
+        "Free kicks": [
+          "1",
+          "2"
+        ],
+        "Throw ins": [
+          "13",
+          "16"
+        ],
+        "Fouls": [
+          "7",
+          "7"
+        ]
+      }
+    },
+    {
+      "id": "z9smyjQO",
+      "date": "2026-01-04T06:30:00.000Z",
+      "round": "Round 16",
+      "homeTeam": "Malut United FC",
+      "awayTeam": "PSBS Biak",
+      "homeScore": 6,
+      "awayScore": 2,
+      "htHome": 2,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Total shots": [
+          "13",
+          "10"
+        ],
+        "Shots on target": [
+          "10",
+          "7"
+        ],
+        "Corner kicks": [
+          "2",
+          "1"
+        ],
+        "Yellow cards": [
+          "4",
+          "3"
+        ],
+        "Shots off target": [
+          "3",
+          "3"
+        ]
+      }
+    },
+    {
+      "id": "b3nOtfdm",
+      "date": "2026-01-03T12:00:00.000Z",
+      "round": "Round 16",
+      "homeTeam": "Madura United",
+      "awayTeam": "Persebaya Surabaya",
+      "homeScore": 0,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "41%",
+          "59%"
+        ],
+        "Total shots": [
+          "5",
+          "9"
+        ],
+        "Shots on target": [
+          "2",
+          "2"
+        ],
+        "Corner kicks": [
+          "3",
+          "10"
+        ],
+        "Yellow cards": [
+          "2",
+          "3"
+        ],
+        "Red cards": [
+          "1",
+          "1"
+        ],
+        "Shots off target": [
+          "3",
+          "7"
+        ],
+        "Offsides": [
+          "0",
+          "1"
+        ],
+        "Free kicks": [
+          "6",
+          "4"
+        ],
+        "Throw ins": [
+          "15",
+          "22"
+        ],
+        "Fouls": [
+          "8",
+          "10"
+        ]
+      }
+    },
+    {
+      "id": "lYKByaK7",
+      "date": "2026-01-03T08:30:00.000Z",
+      "round": "Round 16",
+      "homeTeam": "Borneo FC",
+      "awayTeam": "PSM Makassar",
+      "homeScore": 2,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "53%",
+          "47%"
+        ],
+        "Total shots": [
+          "10",
+          "8"
+        ],
+        "Shots on target": [
+          "7",
+          "4"
+        ],
+        "Corner kicks": [
+          "4",
+          "14"
+        ],
+        "Yellow cards": [
+          "3",
+          "5"
+        ],
+        "Shots off target": [
+          "3",
+          "4"
+        ],
+        "Offsides": [
+          "0",
+          "1"
+        ],
+        "Free kicks": [
+          "6",
+          "5"
+        ],
+        "Throw ins": [
+          "18",
+          "7"
+        ],
+        "Fouls": [
+          "9",
+          "16"
+        ]
+      }
+    },
+    {
+      "id": "tS7ca2CE",
+      "date": "2026-01-03T08:30:00.000Z",
+      "round": "Round 16",
+      "homeTeam": "Persija Jakarta",
+      "awayTeam": "Persijap Jepara",
+      "homeScore": 2,
+      "awayScore": 0,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "62%",
+          "38%"
+        ],
+        "Total shots": [
+          "13",
+          "0"
+        ],
+        "Shots on target": [
+          "3",
+          "0"
+        ],
+        "Corner kicks": [
+          "11",
+          "2"
+        ],
+        "Yellow cards": [
+          "2",
+          "4"
+        ],
+        "Shots off target": [
+          "10",
+          "0"
+        ],
+        "Offsides": [
+          "2",
+          "0"
+        ],
+        "Free kicks": [
+          "1",
+          "2"
+        ],
+        "Throw ins": [
+          "16",
+          "20"
+        ],
+        "Fouls": [
+          "6",
+          "10"
+        ]
+      }
+    },
+    {
+      "id": "j7pxccT1",
+      "date": "2025-12-30T08:30:00.000Z",
+      "round": "Round 8",
+      "homeTeam": "Arema FC",
+      "awayTeam": "Persita Tangerang",
+      "homeScore": 0,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "68%",
+          "32%"
+        ],
+        "Total shots": [
+          "19",
+          "5"
+        ],
+        "Shots on target": [
+          "5",
+          "2"
+        ],
+        "Corner kicks": [
+          "9",
+          "2"
+        ],
+        "Yellow cards": [
+          "2",
+          "4"
+        ],
+        "Red cards": [
+          "0",
+          "1"
+        ],
+        "Shots off target": [
+          "14",
+          "3"
+        ],
+        "Offsides": [
+          "1",
+          "1"
+        ],
+        "Free kicks": [
+          "7",
+          "8"
+        ],
+        "Throw ins": [
+          "26",
+          "17"
+        ],
+        "Fouls": [
+          "14",
+          "15"
+        ]
+      }
+    },
+    {
+      "id": "hC2k616F",
+      "date": "2025-12-29T12:00:00.000Z",
+      "round": "Round 8",
+      "homeTeam": "Persija Jakarta",
+      "awayTeam": "Bhayangkara FC",
+      "homeScore": 3,
+      "awayScore": 0,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "65%",
+          "35%"
+        ],
+        "Total shots": [
+          "7",
+          "4"
+        ],
+        "Shots on target": [
+          "3",
+          "0"
+        ],
+        "Corner kicks": [
+          "7",
+          "2"
+        ],
+        "Yellow cards": [
+          "2",
+          "2"
+        ],
+        "Shots off target": [
+          "4",
+          "4"
+        ],
+        "Offsides": [
+          "1",
+          "1"
+        ],
+        "Free kicks": [
+          "1",
+          "5"
+        ],
+        "Throw ins": [
+          "20",
+          "25"
+        ],
+        "Fouls": [
+          "9",
+          "11"
+        ]
+      }
+    },
+    {
+      "id": "pl6gntFq",
+      "date": "2025-12-29T08:30:00.000Z",
+      "round": "Round 8",
+      "homeTeam": "Bali United",
+      "awayTeam": "Dewa United FC",
+      "homeScore": 0,
+      "awayScore": 0,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "47%",
+          "53%"
+        ],
+        "Total shots": [
+          "11",
+          "10"
+        ],
+        "Shots on target": [
+          "3",
+          "7"
+        ],
+        "Corner kicks": [
+          "6",
+          "10"
+        ],
+        "Yellow cards": [
+          "3",
+          "2"
+        ],
+        "Shots off target": [
+          "8",
+          "3"
+        ],
+        "Offsides": [
+          "0",
+          "0"
+        ],
+        "Free kicks": [
+          "8",
+          "10"
+        ],
+        "Throw ins": [
+          "25",
+          "20"
+        ],
+        "Fouls": [
+          "10",
+          "8"
+        ]
+      }
+    },
+    {
+      "id": "lIKNi2iM",
+      "date": "2025-12-29T08:30:00.000Z",
+      "round": "Round 8",
+      "homeTeam": "PSIM Yogyakarta",
+      "awayTeam": "PSBS Biak",
+      "homeScore": 2,
+      "awayScore": 2,
+      "htHome": 1,
+      "htAway": 2,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "68%",
+          "32%"
+        ],
+        "Total shots": [
+          "13",
+          "9"
+        ],
+        "Shots on target": [
+          "6",
+          "4"
+        ],
+        "Corner kicks": [
+          "6",
+          "3"
+        ],
+        "Yellow cards": [
+          "2",
+          "2"
+        ],
+        "Red cards": [
+          "1",
+          "0"
+        ],
+        "Shots off target": [
+          "7",
+          "5"
+        ],
+        "Offsides": [
+          "1",
+          "1"
+        ],
+        "Free kicks": [
+          "6",
+          "8"
+        ],
+        "Throw ins": [
+          "13",
+          "9"
+        ],
+        "Fouls": [
+          "15",
+          "13"
+        ]
+      }
+    },
+    {
+      "id": "WdEt8Ny3",
+      "date": "2025-12-28T12:00:00.000Z",
+      "round": "Round 8",
+      "homeTeam": "Madura United",
+      "awayTeam": "Semen Padang",
+      "homeScore": 5,
+      "awayScore": 1,
+      "htHome": 2,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "58%",
+          "42%"
+        ],
+        "Total shots": [
+          "10",
+          "1"
+        ],
+        "Shots on target": [
+          "10",
+          "1"
+        ],
+        "Corner kicks": [
+          "4",
+          "3"
+        ],
+        "Yellow cards": [
+          "2",
+          "0"
+        ],
+        "Shots off target": [
+          "0",
+          "0"
+        ],
+        "Offsides": [
+          "2",
+          "1"
+        ],
+        "Free kicks": [
+          "3",
+          "3"
+        ],
+        "Throw ins": [
+          "15",
+          "9"
+        ],
+        "Fouls": [
+          "12",
+          "6"
+        ]
+      }
+    },
+    {
+      "id": "0x6c4uyS",
+      "date": "2025-12-28T08:30:00.000Z",
+      "round": "Round 8",
+      "homeTeam": "Persebaya Surabaya",
+      "awayTeam": "Persijap Jepara",
+      "homeScore": 4,
+      "awayScore": 0,
+      "htHome": 2,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "55%",
+          "45%"
+        ],
+        "Total shots": [
+          "11",
+          "11"
+        ],
+        "Shots on target": [
+          "4",
+          "1"
+        ],
+        "Corner kicks": [
+          "8",
+          "8"
+        ],
+        "Yellow cards": [
+          "3",
+          "2"
+        ],
+        "Shots off target": [
+          "7",
+          "10"
+        ],
+        "Offsides": [
+          "0",
+          "0"
+        ],
+        "Free kicks": [
+          "7",
+          "6"
+        ],
+        "Throw ins": [
+          "17",
+          "18"
+        ],
+        "Fouls": [
+          "10",
+          "11"
+        ]
+      }
+    },
+    {
+      "id": "IgnUbJbk",
+      "date": "2025-12-28T06:30:00.000Z",
+      "round": "Round 8",
+      "homeTeam": "Malut United FC",
+      "awayTeam": "Borneo FC",
+      "homeScore": 3,
+      "awayScore": 2,
+      "htHome": 1,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "56%",
+          "44%"
+        ],
+        "Total shots": [
+          "6",
+          "5"
+        ],
+        "Shots on target": [
+          "3",
+          "4"
+        ],
+        "Corner kicks": [
+          "12",
+          "5"
+        ],
+        "Shots off target": [
+          "3",
+          "1"
+        ],
+        "Offsides": [
+          "0",
+          "0"
+        ],
+        "Free kicks": [
+          "5",
+          "7"
+        ],
+        "Throw ins": [
+          "18",
+          "13"
+        ],
+        "Fouls": [
+          "10",
+          "8"
+        ]
+      }
+    },
+    {
+      "id": "6FSOK0L8",
+      "date": "2025-12-27T12:00:00.000Z",
+      "round": "Round 8",
+      "homeTeam": "Persib Bandung",
+      "awayTeam": "PSM Makassar",
+      "homeScore": 1,
+      "awayScore": 0,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "49%",
+          "51%"
+        ],
+        "Total shots": [
+          "8",
+          "4"
+        ],
+        "Shots on target": [
+          "2",
+          "0"
+        ],
+        "Corner kicks": [
+          "7",
+          "4"
+        ],
+        "Yellow cards": [
+          "1",
+          "5"
+        ],
+        "Shots off target": [
+          "6",
+          "4"
+        ],
+        "Offsides": [
+          "3",
+          "0"
+        ],
+        "Free kicks": [
+          "7",
+          "8"
+        ],
+        "Throw ins": [
+          "13",
+          "13"
+        ],
+        "Fouls": [
+          "17",
+          "12"
+        ]
+      }
+    },
+    {
+      "id": "4jMfpKqd",
+      "date": "2025-12-27T08:30:00.000Z",
+      "round": "Round 8",
+      "homeTeam": "Persik Kediri",
+      "awayTeam": "Persis Solo",
+      "homeScore": 2,
+      "awayScore": 1,
+      "htHome": 2,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "54%",
+          "46%"
+        ],
+        "Total shots": [
+          "11",
+          "12"
+        ],
+        "Shots on target": [
+          "5",
+          "6"
+        ],
+        "Corner kicks": [
+          "3",
+          "5"
+        ],
+        "Yellow cards": [
+          "2",
+          "1"
+        ],
+        "Shots off target": [
+          "6",
+          "6"
+        ],
+        "Offsides": [
+          "0",
+          "2"
+        ],
+        "Free kicks": [
+          "0",
+          "2"
+        ],
+        "Throw ins": [
+          "24",
+          "17"
+        ],
+        "Fouls": [
+          "14",
+          "6"
+        ]
+      }
+    },
+    {
+      "id": "h6R2wLke",
+      "date": "2025-12-23T12:00:00.000Z",
+      "round": "Round 15",
+      "homeTeam": "Persijap Jepara",
+      "awayTeam": "PSIM Yogyakarta",
+      "homeScore": 1,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "41%",
+          "59%"
+        ],
+        "Total shots": [
+          "8",
+          "13"
+        ],
+        "Shots on target": [
+          "3",
+          "6"
+        ],
+        "Corner kicks": [
+          "0",
+          "6"
+        ],
+        "Yellow cards": [
+          "1",
+          "4"
+        ],
+        "Shots off target": [
+          "5",
+          "7"
+        ],
+        "Offsides": [
+          "3",
+          "1"
+        ],
+        "Free kicks": [
+          "8",
+          "3"
+        ],
+        "Throw ins": [
+          "15",
+          "18"
+        ],
+        "Fouls": [
+          "6",
+          "14"
+        ]
+      }
+    },
+    {
+      "id": "ptOfusLr",
+      "date": "2025-12-23T08:30:00.000Z",
+      "round": "Round 15",
+      "homeTeam": "Arema FC",
+      "awayTeam": "Madura United",
+      "homeScore": 2,
+      "awayScore": 2,
+      "htHome": 1,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "57%",
+          "43%"
+        ],
+        "Total shots": [
+          "9",
+          "10"
+        ],
+        "Shots on target": [
+          "5",
+          "4"
+        ],
+        "Corner kicks": [
+          "2",
+          "5"
+        ],
+        "Yellow cards": [
+          "1",
+          "0"
+        ],
+        "Shots off target": [
+          "4",
+          "6"
+        ],
+        "Offsides": [
+          "0",
+          "0"
+        ],
+        "Free kicks": [
+          "3",
+          "7"
+        ],
+        "Throw ins": [
+          "21",
+          "14"
+        ],
+        "Fouls": [
+          "11",
+          "8"
+        ]
+      }
+    },
+    {
+      "id": "08nOp3cL",
+      "date": "2025-12-22T12:00:00.000Z",
+      "round": "Round 15",
+      "homeTeam": "Semen Padang",
+      "awayTeam": "Persija Jakarta",
+      "homeScore": 1,
+      "awayScore": 0,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "46%",
+          "54%"
+        ],
+        "Total shots": [
+          "7",
+          "7"
+        ],
+        "Shots on target": [
+          "4",
+          "2"
+        ],
+        "Corner kicks": [
+          "2",
+          "5"
+        ],
+        "Yellow cards": [
+          "4",
+          "4"
+        ],
+        "Red cards": [
+          "0",
+          "2"
+        ],
+        "Shots off target": [
+          "3",
+          "5"
+        ],
+        "Offsides": [
+          "2",
+          "0"
+        ],
+        "Free kicks": [
+          "9",
+          "7"
+        ],
+        "Throw ins": [
+          "16",
+          "16"
+        ],
+        "Fouls": [
+          "14",
+          "12"
+        ]
+      }
+    },
+    {
+      "id": "fBqGnPS8",
+      "date": "2025-12-22T08:30:00.000Z",
+      "round": "Round 15",
+      "homeTeam": "PSBS Biak",
+      "awayTeam": "Bali United",
+      "homeScore": 0,
+      "awayScore": 3,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "46%",
+          "54%"
+        ],
+        "Total shots": [
+          "6",
+          "19"
+        ],
+        "Shots on target": [
+          "2",
+          "16"
+        ],
+        "Corner kicks": [
+          "1",
+          "8"
+        ],
+        "Yellow cards": [
+          "4",
+          "1"
+        ],
+        "Shots off target": [
+          "4",
+          "3"
+        ],
+        "Offsides": [
+          "1",
+          "2"
+        ],
+        "Free kicks": [
+          "4",
+          "1"
+        ],
+        "Throw ins": [
+          "14",
+          "10"
+        ],
+        "Fouls": [
+          "9",
+          "11"
+        ]
+      }
+    },
+    {
+      "id": "v31TOLz2",
+      "date": "2025-12-21T12:00:00.000Z",
+      "round": "Round 15",
+      "homeTeam": "Persib Bandung",
+      "awayTeam": "Bhayangkara FC",
+      "homeScore": 2,
+      "awayScore": 0,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "49%",
+          "51%"
+        ],
+        "Total shots": [
+          "13",
+          "4"
+        ],
+        "Shots on target": [
+          "9",
+          "1"
+        ],
+        "Corner kicks": [
+          "4",
+          "3"
+        ],
+        "Yellow cards": [
+          "0",
+          "1"
+        ],
+        "Shots off target": [
+          "4",
+          "3"
+        ],
+        "Offsides": [
+          "1",
+          "0"
+        ],
+        "Free kicks": [
+          "6",
+          "2"
+        ],
+        "Throw ins": [
+          "19",
+          "20"
+        ],
+        "Fouls": [
+          "10",
+          "11"
+        ]
+      }
+    },
+    {
+      "id": "6k3LQs6k",
+      "date": "2025-12-21T08:30:00.000Z",
+      "round": "Round 15",
+      "homeTeam": "Persita Tangerang",
+      "awayTeam": "Persik Kediri",
+      "homeScore": 3,
+      "awayScore": 0,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "51%",
+          "49%"
+        ],
+        "Total shots": [
+          "13",
+          "11"
+        ],
+        "Shots on target": [
+          "4",
+          "3"
+        ],
+        "Corner kicks": [
+          "2",
+          "4"
+        ],
+        "Yellow cards": [
+          "2",
+          "2"
+        ],
+        "Shots off target": [
+          "9",
+          "8"
+        ],
+        "Offsides": [
+          "2",
+          "0"
+        ],
+        "Free kicks": [
+          "14",
+          "7"
+        ],
+        "Throw ins": [
+          "19",
+          "19"
+        ],
+        "Fouls": [
+          "8",
+          "26"
+        ]
+      }
+    },
+    {
+      "id": "n5MlW3rS",
+      "date": "2025-12-21T08:30:00.000Z",
+      "round": "Round 15",
+      "homeTeam": "PSM Makassar",
+      "awayTeam": "Malut United FC",
+      "homeScore": 0,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "53%",
+          "47%"
+        ],
+        "Total shots": [
+          "7",
+          "7"
+        ],
+        "Shots on target": [
+          "4",
+          "1"
+        ],
+        "Corner kicks": [
+          "5",
+          "6"
+        ],
+        "Yellow cards": [
+          "1",
+          "6"
+        ],
+        "Shots off target": [
+          "3",
+          "6"
+        ],
+        "Offsides": [
+          "0",
+          "0"
+        ],
+        "Free kicks": [
+          "10",
+          "7"
+        ],
+        "Throw ins": [
+          "26",
+          "20"
+        ],
+        "Fouls": [
+          "9",
+          "18"
+        ]
+      }
+    },
+    {
+      "id": "Ew9sYPDF",
+      "date": "2025-12-20T12:00:00.000Z",
+      "round": "Round 15",
+      "homeTeam": "Persebaya Surabaya",
+      "awayTeam": "Borneo FC",
+      "homeScore": 2,
+      "awayScore": 2,
+      "htHome": 1,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "50%",
+          "50%"
+        ],
+        "Total shots": [
+          "14",
+          "11"
+        ],
+        "Shots on target": [
+          "6",
+          "3"
+        ],
+        "Corner kicks": [
+          "5",
+          "5"
+        ],
+        "Yellow cards": [
+          "2",
+          "1"
+        ],
+        "Shots off target": [
+          "8",
+          "8"
+        ],
+        "Offsides": [
+          "0",
+          "0"
+        ],
+        "Free kicks": [
+          "4",
+          "1"
+        ],
+        "Throw ins": [
+          "16",
+          "15"
+        ],
+        "Fouls": [
+          "6",
+          "8"
+        ]
+      }
+    },
+    {
+      "id": "hOKYZoq3",
+      "date": "2025-12-20T08:30:00.000Z",
+      "round": "Round 15",
+      "homeTeam": "Dewa United FC",
+      "awayTeam": "Persis Solo",
+      "homeScore": 5,
+      "awayScore": 1,
+      "htHome": 3,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "56%",
+          "44%"
+        ],
+        "Total shots": [
+          "13",
+          "8"
+        ],
+        "Shots on target": [
+          "6",
+          "3"
+        ],
+        "Corner kicks": [
+          "3",
+          "5"
+        ],
+        "Yellow cards": [
+          "1",
+          "0"
+        ],
+        "Shots off target": [
+          "7",
+          "5"
+        ],
+        "Offsides": [
+          "0",
+          "5"
+        ],
+        "Free kicks": [
+          "4",
+          "6"
+        ],
+        "Throw ins": [
+          "12",
+          "11"
+        ],
+        "Fouls": [
+          "13",
+          "7"
+        ]
+      }
+    },
+    {
+      "id": "S0g1CWTs",
+      "date": "2025-12-14T06:30:00.000Z",
+      "round": "Round 12",
+      "homeTeam": "Malut United FC",
+      "awayTeam": "Persib Bandung",
+      "homeScore": 2,
+      "awayScore": 0,
+      "htHome": 2,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "54%",
+          "46%"
+        ],
+        "Total shots": [
+          "20",
+          "7"
+        ],
+        "Shots on target": [
+          "8",
+          "3"
+        ],
+        "Corner kicks": [
+          "10",
+          "2"
+        ],
+        "Yellow cards": [
+          "2",
+          "3"
+        ],
+        "Shots off target": [
+          "12",
+          "4"
+        ],
+        "Offsides": [
+          "1",
+          "0"
+        ],
+        "Free kicks": [
+          "5",
+          "4"
+        ],
+        "Throw ins": [
+          "15",
+          "13"
+        ],
+        "Fouls": [
+          "7",
+          "14"
+        ]
+      }
+    },
+    {
+      "id": "G6PfAhoS",
+      "date": "2025-12-06T12:00:00.000Z",
+      "round": "Round 4",
+      "homeTeam": "PSM Makassar",
+      "awayTeam": "Persebaya Surabaya",
+      "homeScore": 1,
+      "awayScore": 1,
+      "htHome": 1,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "47%",
+          "53%"
+        ],
+        "Total shots": [
+          "11",
+          "8"
+        ],
+        "Shots on target": [
+          "4",
+          "5"
+        ],
+        "Corner kicks": [
+          "8",
+          "8"
+        ],
+        "Yellow cards": [
+          "4",
+          "2"
+        ],
+        "Red cards": [
+          "1",
+          "0"
+        ],
+        "Shots off target": [
+          "7",
+          "3"
+        ],
+        "Offsides": [
+          "0",
+          "0"
+        ],
+        "Free kicks": [
+          "12",
+          "8"
+        ],
+        "Throw ins": [
+          "16",
+          "11"
+        ],
+        "Fouls": [
+          "8",
+          "12"
+        ]
+      }
+    },
+    {
+      "id": "CxBQ4W8k",
+      "date": "2025-12-05T12:00:00.000Z",
+      "round": "Round 4",
+      "homeTeam": "Persib Bandung",
+      "awayTeam": "Borneo FC",
+      "homeScore": 3,
+      "awayScore": 1,
+      "htHome": 1,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "59%",
+          "41%"
+        ],
+        "Total shots": [
+          "22",
+          "9"
+        ],
+        "Shots on target": [
+          "9",
+          "2"
+        ],
+        "Corner kicks": [
+          "4",
+          "3"
+        ],
+        "Yellow cards": [
+          "1",
+          "0"
+        ],
+        "Shots off target": [
+          "13",
+          "7"
+        ],
+        "Offsides": [
+          "0",
+          "0"
+        ],
+        "Free kicks": [
+          "0",
+          "0"
+        ],
+        "Throw ins": [
+          "11",
+          "4"
+        ],
+        "Fouls": [
+          "3",
+          "1"
+        ]
+      }
+    },
+    {
+      "id": "QHSnCrid",
+      "date": "2025-11-30T12:00:00.000Z",
+      "round": "Round 14",
+      "homeTeam": "Madura United",
+      "awayTeam": "Persib Bandung",
+      "homeScore": 1,
+      "awayScore": 4,
+      "htHome": 0,
+      "htAway": 2,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "52%",
+          "48%"
+        ],
+        "Total shots": [
+          "9",
+          "19"
+        ],
+        "Shots on target": [
+          "6",
+          "7"
+        ],
+        "Corner kicks": [
+          "5",
+          "5"
+        ],
+        "Yellow cards": [
+          "2",
+          "3"
+        ],
+        "Shots off target": [
+          "3",
+          "12"
+        ],
+        "Offsides": [
+          "1",
+          "0"
+        ],
+        "Free kicks": [
+          "3",
+          "3"
+        ],
+        "Throw ins": [
+          "9",
+          "5"
+        ],
+        "Fouls": [
+          "8",
+          "13"
+        ]
+      }
+    },
+    {
+      "id": "UkZwE4Mq",
+      "date": "2025-11-30T08:30:00.000Z",
+      "round": "Round 14",
+      "homeTeam": "Borneo FC",
+      "awayTeam": "Bali United",
+      "homeScore": 0,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "59%",
+          "41%"
+        ],
+        "Total shots": [
+          "16",
+          "6"
+        ],
+        "Shots on target": [
+          "4",
+          "1"
+        ],
+        "Corner kicks": [
+          "6",
+          "0"
+        ],
+        "Yellow cards": [
+          "0",
+          "4"
+        ],
+        "Shots off target": [
+          "12",
+          "5"
+        ],
+        "Offsides": [
+          "2",
+          "1"
+        ],
+        "Free kicks": [
+          "6",
+          "1"
+        ],
+        "Throw ins": [
+          "30",
+          "11"
+        ],
+        "Fouls": [
+          "1",
+          "15"
+        ]
+      }
+    },
+    {
+      "id": "WfiiN8ac",
+      "date": "2025-11-29T12:00:00.000Z",
+      "round": "Round 14",
+      "homeTeam": "Persis Solo",
+      "awayTeam": "PSM Makassar",
+      "homeScore": 3,
+      "awayScore": 4,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "46%",
+          "54%"
+        ],
+        "Total shots": [
+          "7",
+          "18"
+        ],
+        "Shots on target": [
+          "4",
+          "9"
+        ],
+        "Corner kicks": [
+          "7",
+          "6"
+        ],
+        "Yellow cards": [
+          "2",
+          "2"
+        ],
+        "Shots off target": [
+          "3",
+          "9"
+        ],
+        "Offsides": [
+          "0",
+          "0"
+        ],
+        "Free kicks": [
+          "7",
+          "1"
+        ],
+        "Throw ins": [
+          "11",
+          "16"
+        ],
+        "Fouls": [
+          "7",
+          "14"
+        ]
+      }
+    },
+    {
+      "id": "vLfaLnU9",
+      "date": "2025-11-29T08:30:00.000Z",
+      "round": "Round 14",
+      "homeTeam": "Dewa United FC",
+      "awayTeam": "Persita Tangerang",
+      "homeScore": 1,
+      "awayScore": 0,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "47%",
+          "53%"
+        ],
+        "Total shots": [
+          "9",
+          "9"
+        ],
+        "Shots on target": [
+          "2",
+          "1"
+        ],
+        "Corner kicks": [
+          "2",
+          "13"
+        ],
+        "Yellow cards": [
+          "1",
+          "1"
+        ],
+        "Shots off target": [
+          "7",
+          "8"
+        ],
+        "Offsides": [
+          "0",
+          "0"
+        ],
+        "Free kicks": [
+          "3",
+          "9"
+        ],
+        "Throw ins": [
+          "8",
+          "19"
+        ],
+        "Fouls": [
+          "11",
+          "7"
+        ]
+      }
+    },
+    {
+      "id": "YJm8JQbM",
+      "date": "2025-11-29T06:30:00.000Z",
+      "round": "Round 14",
+      "homeTeam": "Malut United FC",
+      "awayTeam": "Arema FC",
+      "homeScore": 1,
+      "awayScore": 1,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "60%",
+          "40%"
+        ],
+        "Total shots": [
+          "9",
+          "4"
+        ],
+        "Shots on target": [
+          "5",
+          "2"
+        ],
+        "Corner kicks": [
+          "6",
+          "3"
+        ],
+        "Yellow cards": [
+          "1",
+          "2"
+        ],
+        "Shots off target": [
+          "4",
+          "2"
+        ],
+        "Offsides": [
+          "0",
+          "0"
+        ],
+        "Free kicks": [
+          "4",
+          "4"
+        ],
+        "Throw ins": [
+          "15",
+          "9"
+        ],
+        "Fouls": [
+          "6",
+          "8"
+        ]
+      }
+    },
+    {
+      "id": "jaE4a57j",
+      "date": "2025-11-28T12:00:00.000Z",
+      "round": "Round 14",
+      "homeTeam": "Persija Jakarta",
+      "awayTeam": "PSIM Yogyakarta",
+      "homeScore": 2,
+      "awayScore": 0,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "45%",
+          "55%"
+        ],
+        "Total shots": [
+          "20",
+          "8"
+        ],
+        "Shots on target": [
+          "2",
+          "3"
+        ],
+        "Corner kicks": [
+          "9",
+          "4"
+        ],
+        "Yellow cards": [
+          "3",
+          "2"
+        ],
+        "Shots off target": [
+          "18",
+          "5"
+        ],
+        "Offsides": [
+          "0",
+          "0"
+        ],
+        "Fouls": [
+          "1",
+          "1"
+        ]
+      }
+    },
+    {
+      "id": "KGNY4RqT",
+      "date": "2025-11-28T08:30:00.000Z",
+      "round": "Round 14",
+      "homeTeam": "Bhayangkara FC",
+      "awayTeam": "Persebaya Surabaya",
+      "homeScore": 1,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "55%",
+          "45%"
+        ],
+        "Total shots": [
+          "18",
+          "10"
+        ],
+        "Shots on target": [
+          "7",
+          "3"
+        ],
+        "Corner kicks": [
+          "6",
+          "5"
+        ],
+        "Yellow cards": [
+          "4",
+          "4"
+        ],
+        "Shots off target": [
+          "11",
+          "7"
+        ],
+        "Offsides": [
+          "3",
+          "0"
+        ],
+        "Free kicks": [
+          "5",
+          "13"
+        ],
+        "Throw ins": [
+          "31",
+          "19"
+        ],
+        "Fouls": [
+          "17",
+          "13"
+        ]
+      }
+    },
+    {
+      "id": "S09P89p4",
+      "date": "2025-11-27T12:00:00.000Z",
+      "round": "Round 14",
+      "homeTeam": "PSBS Biak",
+      "awayTeam": "Persijap Jepara",
+      "homeScore": 3,
+      "awayScore": 2,
+      "htHome": 1,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "47%",
+          "53%"
+        ],
+        "Total shots": [
+          "13",
+          "10"
+        ],
+        "Shots on target": [
+          "4",
+          "6"
+        ],
+        "Corner kicks": [
+          "3",
+          "5"
+        ],
+        "Yellow cards": [
+          "1",
+          "3"
+        ],
+        "Red cards": [
+          "0",
+          "1"
+        ],
+        "Shots off target": [
+          "9",
+          "4"
+        ],
+        "Offsides": [
+          "0",
+          "1"
+        ],
+        "Free kicks": [
+          "1",
+          "2"
+        ],
+        "Throw ins": [
+          "18",
+          "20"
+        ],
+        "Fouls": [
+          "7",
+          "9"
+        ]
+      }
+    },
+    {
+      "id": "0E7X6mFG",
+      "date": "2025-11-27T08:30:00.000Z",
+      "round": "Round 14",
+      "homeTeam": "Persik Kediri",
+      "awayTeam": "Semen Padang",
+      "homeScore": 2,
+      "awayScore": 1,
+      "htHome": 2,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "56%",
+          "44%"
+        ],
+        "Total shots": [
+          "8",
+          "10"
+        ],
+        "Shots on target": [
+          "4",
+          "5"
+        ],
+        "Corner kicks": [
+          "3",
+          "7"
+        ],
+        "Yellow cards": [
+          "2",
+          "3"
+        ],
+        "Shots off target": [
+          "4",
+          "5"
+        ],
+        "Offsides": [
+          "0",
+          "3"
+        ],
+        "Free kicks": [
+          "1",
+          "3"
+        ],
+        "Throw ins": [
+          "18",
+          "20"
+        ],
+        "Fouls": [
+          "14",
+          "14"
+        ]
+      }
+    },
+    {
+      "id": "WYFGAVFi",
+      "date": "2025-11-23T12:00:00.000Z",
+      "round": "Round 13",
+      "homeTeam": "Bali United",
+      "awayTeam": "Persis Solo",
+      "homeScore": 0,
+      "awayScore": 0,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "44%",
+          "56%"
+        ],
+        "Total shots": [
+          "13",
+          "3"
+        ],
+        "Shots on target": [
+          "6",
+          "3"
+        ],
+        "Corner kicks": [
+          "11",
+          "1"
+        ],
+        "Yellow cards": [
+          "3",
+          "2"
+        ],
+        "Shots off target": [
+          "7",
+          "0"
+        ],
+        "Offsides": [
+          "6",
+          "1"
+        ],
+        "Free kicks": [
+          "1",
+          "4"
+        ],
+        "Throw ins": [
+          "17",
+          "15"
+        ],
+        "Fouls": [
+          "16",
+          "6"
+        ]
+      }
+    },
+    {
+      "id": "4SNUnSNp",
+      "date": "2025-11-23T08:30:00.000Z",
+      "round": "Round 13",
+      "homeTeam": "Persita Tangerang",
+      "awayTeam": "Malut United FC",
+      "homeScore": 0,
+      "awayScore": 0,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "48%",
+          "52%"
+        ],
+        "Total shots": [
+          "10",
+          "12"
+        ],
+        "Shots on target": [
+          "1",
+          "5"
+        ],
+        "Corner kicks": [
+          "1",
+          "3"
+        ],
+        "Yellow cards": [
+          "0",
+          "3"
+        ],
+        "Shots off target": [
+          "9",
+          "7"
+        ],
+        "Offsides": [
+          "0",
+          "2"
+        ],
+        "Free kicks": [
+          "5",
+          "1"
+        ],
+        "Throw ins": [
+          "17",
+          "19"
+        ],
+        "Fouls": [
+          "2",
+          "11"
+        ]
+      }
+    },
+    {
+      "id": "hWhk7d9a",
+      "date": "2025-11-22T12:00:00.000Z",
+      "round": "Round 13",
+      "homeTeam": "Borneo FC",
+      "awayTeam": "Madura United",
+      "homeScore": 1,
+      "awayScore": 0,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "58%",
+          "42%"
+        ],
+        "Total shots": [
+          "9",
+          "5"
+        ],
+        "Shots on target": [
+          "4",
+          "3"
+        ],
+        "Corner kicks": [
+          "8",
+          "5"
+        ],
+        "Yellow cards": [
+          "2",
+          "2"
+        ],
+        "Shots off target": [
+          "5",
+          "2"
+        ],
+        "Offsides": [
+          "2",
+          "0"
+        ],
+        "Free kicks": [
+          "5",
+          "7"
+        ],
+        "Throw ins": [
+          "21",
+          "16"
+        ],
+        "Fouls": [
+          "10",
+          "10"
+        ]
+      }
+    },
+    {
+      "id": "0YDAEvHP",
+      "date": "2025-11-22T08:30:00.000Z",
+      "round": "Round 13",
+      "homeTeam": "Persebaya Surabaya",
+      "awayTeam": "Arema FC",
+      "homeScore": 1,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "56%",
+          "44%"
+        ],
+        "Total shots": [
+          "23",
+          "15"
+        ],
+        "Shots on target": [
+          "10",
+          "4"
+        ],
+        "Corner kicks": [
+          "18",
+          "5"
+        ],
+        "Yellow cards": [
+          "3",
+          "9"
+        ],
+        "Red cards": [
+          "0",
+          "1"
+        ],
+        "Shots off target": [
+          "13",
+          "11"
+        ],
+        "Offsides": [
+          "1",
+          "1"
+        ],
+        "Free kicks": [
+          "2",
+          "1"
+        ],
+        "Throw ins": [
+          "21",
+          "21"
+        ],
+        "Fouls": [
+          "13",
+          "18"
+        ]
+      }
+    },
+    {
+      "id": "pvBd5zvC",
+      "date": "2025-11-22T08:30:00.000Z",
+      "round": "Round 13",
+      "homeTeam": "PSIM Yogyakarta",
+      "awayTeam": "Bhayangkara FC",
+      "homeScore": 1,
+      "awayScore": 0,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "58%",
+          "42%"
+        ],
+        "Total shots": [
+          "11",
+          "5"
+        ],
+        "Shots on target": [
+          "2",
+          "2"
+        ],
+        "Corner kicks": [
+          "2",
+          "3"
+        ],
+        "Yellow cards": [
+          "5",
+          "3"
+        ],
+        "Shots off target": [
+          "9",
+          "3"
+        ],
+        "Offsides": [
+          "1",
+          "1"
+        ],
+        "Free kicks": [
+          "7",
+          "8"
+        ],
+        "Throw ins": [
+          "22",
+          "16"
+        ],
+        "Fouls": [
+          "14",
+          "14"
+        ]
+      }
+    },
+    {
+      "id": "d4at9Ivm",
+      "date": "2025-11-21T12:00:00.000Z",
+      "round": "Round 13",
+      "homeTeam": "Persib Bandung",
+      "awayTeam": "Dewa United FC",
+      "homeScore": 1,
+      "awayScore": 0,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "46%",
+          "54%"
+        ],
+        "Total shots": [
+          "2",
+          "1"
+        ],
+        "Shots on target": [
+          "2",
+          "0"
+        ],
+        "Corner kicks": [
+          "5",
+          "5"
+        ],
+        "Yellow cards": [
+          "3",
+          "2"
+        ],
+        "Red cards": [
+          "1",
+          "0"
+        ],
+        "Shots off target": [
+          "0",
+          "1"
+        ],
+        "Offsides": [
+          "0",
+          "2"
+        ],
+        "Free kicks": [
+          "2",
+          "6"
+        ],
+        "Throw ins": [
+          "11",
+          "4"
+        ],
+        "Fouls": [
+          "14",
+          "4"
+        ]
+      }
+    },
+    {
+      "id": "rcqQ6ScJ",
+      "date": "2025-11-21T08:30:00.000Z",
+      "round": "Round 13",
+      "homeTeam": "PSM Makassar",
+      "awayTeam": "PSBS Biak",
+      "homeScore": 5,
+      "awayScore": 0,
+      "htHome": 2,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "59%",
+          "41%"
+        ],
+        "Total shots": [
+          "9",
+          "1"
+        ],
+        "Shots on target": [
+          "6",
+          "0"
+        ],
+        "Corner kicks": [
+          "5",
+          "2"
+        ],
+        "Yellow cards": [
+          "3",
+          "2"
+        ],
+        "Shots off target": [
+          "3",
+          "1"
+        ],
+        "Offsides": [
+          "1",
+          "0"
+        ],
+        "Free kicks": [
+          "5",
+          "10"
+        ],
+        "Throw ins": [
+          "13",
+          "17"
+        ],
+        "Fouls": [
+          "14",
+          "9"
+        ]
+      }
+    },
+    {
+      "id": "dtoI8lT6",
+      "date": "2025-11-20T12:00:00.000Z",
+      "round": "Round 13",
+      "homeTeam": "Persija Jakarta",
+      "awayTeam": "Persik Kediri",
+      "homeScore": 3,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "62%",
+          "38%"
+        ],
+        "Total shots": [
+          "21",
+          "3"
+        ],
+        "Shots on target": [
+          "10",
+          "1"
+        ],
+        "Corner kicks": [
+          "9",
+          "3"
+        ],
+        "Yellow cards": [
+          "3",
+          "5"
+        ],
+        "Red cards": [
+          "0",
+          "1"
+        ],
+        "Shots off target": [
+          "11",
+          "2"
+        ],
+        "Offsides": [
+          "2",
+          "0"
+        ],
+        "Free kicks": [
+          "5",
+          "2"
+        ],
+        "Throw ins": [
+          "22",
+          "20"
+        ],
+        "Fouls": [
+          "8",
+          "17"
+        ]
+      }
+    },
+    {
+      "id": "zRd9AAbf",
+      "date": "2025-11-20T08:30:00.000Z",
+      "round": "Round 13",
+      "homeTeam": "Persijap Jepara",
+      "awayTeam": "Semen Padang",
+      "homeScore": 1,
+      "awayScore": 2,
+      "htHome": 1,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "48%",
+          "52%"
+        ],
+        "Total shots": [
+          "9",
+          "11"
+        ],
+        "Shots on target": [
+          "3",
+          "3"
+        ],
+        "Corner kicks": [
+          "2",
+          "6"
+        ],
+        "Yellow cards": [
+          "2",
+          "6"
+        ],
+        "Red cards": [
+          "1",
+          "0"
+        ],
+        "Shots off target": [
+          "6",
+          "8"
+        ],
+        "Offsides": [
+          "0",
+          "4"
+        ],
+        "Free kicks": [
+          "23",
+          "12"
+        ],
+        "Throw ins": [
+          "16",
+          "15"
+        ],
+        "Fouls": [
+          "12",
+          "19"
+        ]
+      }
+    },
+    {
+      "id": "8GCUHh6K",
+      "date": "2025-11-09T12:00:00.000Z",
+      "round": "Round 12",
+      "homeTeam": "Madura United",
+      "awayTeam": "Persijap Jepara",
+      "homeScore": 2,
+      "awayScore": 1,
+      "htHome": 1,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "60%",
+          "40%"
+        ],
+        "Total shots": [
+          "12",
+          "5"
+        ],
+        "Shots on target": [
+          "3",
+          "1"
+        ],
+        "Corner kicks": [
+          "7",
+          "4"
+        ],
+        "Yellow cards": [
+          "3",
+          "2"
+        ],
+        "Red cards": [
+          "1",
+          "2"
+        ],
+        "Shots off target": [
+          "9",
+          "4"
+        ],
+        "Offsides": [
+          "0",
+          "0"
+        ],
+        "Free kicks": [
+          "11",
+          "9"
+        ],
+        "Throw ins": [
+          "23",
+          "7"
+        ],
+        "Fouls": [
+          "9",
+          "10"
+        ]
+      }
+    },
+    {
+      "id": "MNWZeBq1",
+      "date": "2025-11-09T12:00:00.000Z",
+      "round": "Round 12",
+      "homeTeam": "Semen Padang",
+      "awayTeam": "Borneo FC",
+      "homeScore": 0,
+      "awayScore": 2,
+      "htHome": 0,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "36%",
+          "64%"
+        ],
+        "Total shots": [
+          "3",
+          "6"
+        ],
+        "Shots on target": [
+          "0",
+          "2"
+        ],
+        "Corner kicks": [
+          "3",
+          "3"
+        ],
+        "Yellow cards": [
+          "0",
+          "3"
+        ],
+        "Shots off target": [
+          "3",
+          "4"
+        ],
+        "Offsides": [
+          "1",
+          "2"
+        ],
+        "Free kicks": [
+          "5",
+          "3"
+        ],
+        "Throw ins": [
+          "10",
+          "25"
+        ],
+        "Fouls": [
+          "10",
+          "6"
+        ]
+      }
+    },
+    {
+      "id": "GMPrfkED",
+      "date": "2025-11-09T08:30:00.000Z",
+      "round": "Round 12",
+      "homeTeam": "Dewa United FC",
+      "awayTeam": "PSM Makassar",
+      "homeScore": 0,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "45%",
+          "55%"
+        ],
+        "Total shots": [
+          "11",
+          "9"
+        ],
+        "Shots on target": [
+          "6",
+          "3"
+        ],
+        "Corner kicks": [
+          "7",
+          "5"
+        ],
+        "Yellow cards": [
+          "2",
+          "5"
+        ],
+        "Shots off target": [
+          "5",
+          "6"
+        ],
+        "Offsides": [
+          "3",
+          "1"
+        ],
+        "Free kicks": [
+          "8",
+          "10"
+        ],
+        "Throw ins": [
+          "18",
+          "17"
+        ],
+        "Fouls": [
+          "14",
+          "14"
+        ]
+      }
+    },
+    {
+      "id": "EcTRcXEl",
+      "date": "2025-11-08T12:00:00.000Z",
+      "round": "Round 12",
+      "homeTeam": "Persis Solo",
+      "awayTeam": "PSIM Yogyakarta",
+      "homeScore": 2,
+      "awayScore": 2,
+      "htHome": 0,
+      "htAway": 2,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "58%",
+          "42%"
+        ],
+        "Total shots": [
+          "14",
+          "5"
+        ],
+        "Shots on target": [
+          "6",
+          "2"
+        ],
+        "Corner kicks": [
+          "3",
+          "2"
+        ],
+        "Yellow cards": [
+          "3",
+          "2"
+        ],
+        "Shots off target": [
+          "8",
+          "3"
+        ],
+        "Offsides": [
+          "1",
+          "2"
+        ],
+        "Free kicks": [
+          "8",
+          "8"
+        ],
+        "Throw ins": [
+          "26",
+          "18"
+        ],
+        "Fouls": [
+          "14",
+          "17"
+        ]
+      }
+    },
+    {
+      "id": "UPie3giR",
+      "date": "2025-11-08T08:30:00.000Z",
+      "round": "Round 12",
+      "homeTeam": "Arema FC",
+      "awayTeam": "Persija Jakarta",
+      "homeScore": 1,
+      "awayScore": 2,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "44%",
+          "56%"
+        ],
+        "Total shots": [
+          "5",
+          "13"
+        ],
+        "Shots on target": [
+          "2",
+          "4"
+        ],
+        "Corner kicks": [
+          "6",
+          "3"
+        ],
+        "Yellow cards": [
+          "5",
+          "5"
+        ],
+        "Red cards": [
+          "1",
+          "1"
+        ],
+        "Shots off target": [
+          "3",
+          "9"
+        ],
+        "Offsides": [
+          "4",
+          "2"
+        ],
+        "Free kicks": [
+          "18",
+          "20"
+        ],
+        "Throw ins": [
+          "12",
+          "24"
+        ],
+        "Fouls": [
+          "16",
+          "16"
+        ]
+      }
+    },
+    {
+      "id": "Malm5FME",
+      "date": "2025-11-07T12:00:00.000Z",
+      "round": "Round 12",
+      "homeTeam": "Persik Kediri",
+      "awayTeam": "Persebaya Surabaya",
+      "homeScore": 1,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "59%",
+          "41%"
+        ],
+        "Total shots": [
+          "15",
+          "7"
+        ],
+        "Shots on target": [
+          "3",
+          "2"
+        ],
+        "Corner kicks": [
+          "10",
+          "5"
+        ],
+        "Yellow cards": [
+          "4",
+          "1"
+        ],
+        "Red cards": [
+          "0",
+          "1"
+        ],
+        "Shots off target": [
+          "12",
+          "5"
+        ],
+        "Offsides": [
+          "1",
+          "1"
+        ],
+        "Free kicks": [
+          "0",
+          "3"
+        ],
+        "Throw ins": [
+          "26",
+          "12"
+        ],
+        "Fouls": [
+          "9",
+          "12"
+        ]
+      }
+    },
+    {
+      "id": "d6U8sCU7",
+      "date": "2025-11-07T08:30:00.000Z",
+      "round": "Round 12",
+      "homeTeam": "Bhayangkara FC",
+      "awayTeam": "Bali United",
+      "homeScore": 2,
+      "awayScore": 1,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "37%",
+          "63%"
+        ],
+        "Total shots": [
+          "15",
+          "11"
+        ],
+        "Shots on target": [
+          "10",
+          "4"
+        ],
+        "Corner kicks": [
+          "5",
+          "5"
+        ],
+        "Yellow cards": [
+          "7",
+          "3"
+        ],
+        "Red cards": [
+          "0",
+          "1"
+        ],
+        "Shots off target": [
+          "5",
+          "7"
+        ],
+        "Offsides": [
+          "2",
+          "2"
+        ],
+        "Free kicks": [
+          "8",
+          "11"
+        ],
+        "Throw ins": [
+          "15",
+          "21"
+        ],
+        "Fouls": [
+          "16",
+          "12"
+        ]
+      }
+    },
+    {
+      "id": "OhW0qYae",
+      "date": "2025-11-06T08:30:00.000Z",
+      "round": "Round 12",
+      "homeTeam": "PSBS Biak",
+      "awayTeam": "Persita Tangerang",
+      "homeScore": 2,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "59%",
+          "41%"
+        ],
+        "Total shots": [
+          "13",
+          "7"
+        ],
+        "Shots on target": [
+          "4",
+          "1"
+        ],
+        "Corner kicks": [
+          "4",
+          "8"
+        ],
+        "Yellow cards": [
+          "3",
+          "2"
+        ],
+        "Shots off target": [
+          "9",
+          "6"
+        ],
+        "Offsides": [
+          "2",
+          "1"
+        ],
+        "Free kicks": [
+          "4",
+          "6"
+        ],
+        "Throw ins": [
+          "23",
+          "16"
+        ],
+        "Fouls": [
+          "12",
+          "12"
+        ]
+      }
+    },
+    {
+      "id": "SQxhofVr",
+      "date": "2025-11-05T12:00:00.000Z",
+      "round": "Round 11",
+      "homeTeam": "Borneo FC",
+      "awayTeam": "Dewa United FC",
+      "homeScore": 4,
+      "awayScore": 0,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "58%",
+          "42%"
+        ],
+        "Total shots": [
+          "10",
+          "6"
+        ],
+        "Shots on target": [
+          "5",
+          "0"
+        ],
+        "Corner kicks": [
+          "8",
+          "6"
+        ],
+        "Yellow cards": [
+          "1",
+          "4"
+        ],
+        "Shots off target": [
+          "5",
+          "6"
+        ],
+        "Offsides": [
+          "0",
+          "0"
+        ],
+        "Free kicks": [
+          "4",
+          "4"
+        ],
+        "Throw ins": [
+          "15",
+          "11"
+        ],
+        "Fouls": [
+          "5",
+          "13"
+        ]
+      }
+    },
+    {
+      "id": "drnMjG7L",
+      "date": "2025-11-03T12:00:00.000Z",
+      "round": "Round 11",
+      "homeTeam": "Semen Padang",
+      "awayTeam": "Arema FC",
+      "homeScore": 1,
+      "awayScore": 2,
+      "htHome": 0,
+      "htAway": 2,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "52%",
+          "48%"
+        ],
+        "Total shots": [
+          "6",
+          "5"
+        ],
+        "Shots on target": [
+          "3",
+          "3"
+        ],
+        "Corner kicks": [
+          "2",
+          "2"
+        ],
+        "Yellow cards": [
+          "3",
+          "4"
+        ],
+        "Shots off target": [
+          "3",
+          "2"
+        ],
+        "Offsides": [
+          "4",
+          "2"
+        ],
+        "Free kicks": [
+          "7",
+          "7"
+        ],
+        "Throw ins": [
+          "18",
+          "11"
+        ],
+        "Fouls": [
+          "12",
+          "14"
+        ]
+      }
+    },
+    {
+      "id": "zTcDhxw9",
+      "date": "2025-11-03T08:30:00.000Z",
+      "round": "Round 11",
+      "homeTeam": "Persijap Jepara",
+      "awayTeam": "Malut United FC",
+      "homeScore": 1,
+      "awayScore": 2,
+      "htHome": 0,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "35%",
+          "65%"
+        ],
+        "Total shots": [
+          "15",
+          "19"
+        ],
+        "Shots on target": [
+          "5",
+          "7"
+        ],
+        "Corner kicks": [
+          "4",
+          "6"
+        ],
+        "Yellow cards": [
+          "2",
+          "0"
+        ],
+        "Red cards": [
+          "1",
+          "0"
+        ],
+        "Shots off target": [
+          "10",
+          "12"
+        ],
+        "Offsides": [
+          "2",
+          "0"
+        ],
+        "Free kicks": [
+          "5",
+          "2"
+        ],
+        "Throw ins": [
+          "15",
+          "19"
+        ],
+        "Fouls": [
+          "11",
+          "8"
+        ]
+      }
+    },
+    {
+      "id": "Ak6RUYp2",
+      "date": "2025-11-02T12:00:00.000Z",
+      "round": "Round 11",
+      "homeTeam": "Persebaya Surabaya",
+      "awayTeam": "Persis Solo",
+      "homeScore": 2,
+      "awayScore": 1,
+      "htHome": 1,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "52%",
+          "48%"
+        ],
+        "Total shots": [
+          "11",
+          "7"
+        ],
+        "Shots on target": [
+          "5",
+          "3"
+        ],
+        "Corner kicks": [
+          "7",
+          "4"
+        ],
+        "Yellow cards": [
+          "0",
+          "1"
+        ],
+        "Shots off target": [
+          "6",
+          "4"
+        ],
+        "Offsides": [
+          "1",
+          "3"
+        ],
+        "Free kicks": [
+          "13",
+          "10"
+        ],
+        "Throw ins": [
+          "15",
+          "31"
+        ],
+        "Fouls": [
+          "9",
+          "10"
+        ]
+      }
+    },
+    {
+      "id": "ENCIWfGk",
+      "date": "2025-11-02T08:30:00.000Z",
+      "round": "Round 11",
+      "homeTeam": "PSM Makassar",
+      "awayTeam": "Madura United",
+      "homeScore": 1,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "57%",
+          "43%"
+        ],
+        "Total shots": [
+          "7",
+          "3"
+        ],
+        "Shots on target": [
+          "3",
+          "1"
+        ],
+        "Corner kicks": [
+          "11",
+          "3"
+        ],
+        "Yellow cards": [
+          "1",
+          "3"
+        ],
+        "Shots off target": [
+          "4",
+          "2"
+        ],
+        "Offsides": [
+          "0",
+          "1"
+        ],
+        "Free kicks": [
+          "3",
+          "5"
+        ],
+        "Throw ins": [
+          "16",
+          "18"
+        ],
+        "Fouls": [
+          "12",
+          "10"
+        ]
+      }
+    },
+    {
+      "id": "ryjok3WG",
+      "date": "2025-11-01T12:00:00.000Z",
+      "round": "Round 11",
+      "homeTeam": "Bali United",
+      "awayTeam": "Persib Bandung",
+      "homeScore": 0,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "49%",
+          "51%"
+        ],
+        "Total shots": [
+          "4",
+          "12"
+        ],
+        "Shots on target": [
+          "2",
+          "6"
+        ],
+        "Corner kicks": [
+          "5",
+          "9"
+        ],
+        "Yellow cards": [
+          "2",
+          "3"
+        ],
+        "Red cards": [
+          "1",
+          "0"
+        ],
+        "Shots off target": [
+          "2",
+          "6"
+        ],
+        "Offsides": [
+          "6",
+          "0"
+        ],
+        "Free kicks": [
+          "6",
+          "5"
+        ],
+        "Throw ins": [
+          "16",
+          "9"
+        ],
+        "Fouls": [
+          "15",
+          "12"
+        ]
+      }
+    },
+    {
+      "id": "n9dxiP14",
+      "date": "2025-11-01T08:30:00.000Z",
+      "round": "Round 11",
+      "homeTeam": "Bhayangkara FC",
+      "awayTeam": "Persita Tangerang",
+      "homeScore": 1,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "54%",
+          "46%"
+        ],
+        "Total shots": [
+          "11",
+          "9"
+        ],
+        "Shots on target": [
+          "6",
+          "4"
+        ],
+        "Corner kicks": [
+          "8",
+          "4"
+        ],
+        "Yellow cards": [
+          "4",
+          "2"
+        ],
+        "Shots off target": [
+          "5",
+          "5"
+        ],
+        "Offsides": [
+          "0",
+          "0"
+        ],
+        "Free kicks": [
+          "13",
+          "31"
+        ],
+        "Throw ins": [
+          "0",
+          "0"
+        ],
+        "Fouls": [
+          "27",
+          "13"
+        ]
+      }
+    },
+    {
+      "id": "0hbUhoXi",
+      "date": "2025-10-31T12:00:00.000Z",
+      "round": "Round 11",
+      "homeTeam": "Persija Jakarta",
+      "awayTeam": "PSBS Biak",
+      "homeScore": 3,
+      "awayScore": 1,
+      "htHome": 1,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "64%",
+          "36%"
+        ],
+        "Total shots": [
+          "18",
+          "2"
+        ],
+        "Shots on target": [
+          "8",
+          "1"
+        ],
+        "Corner kicks": [
+          "9",
+          "1"
+        ],
+        "Yellow cards": [
+          "0",
+          "1"
+        ],
+        "Shots off target": [
+          "10",
+          "1"
+        ],
+        "Offsides": [
+          "2",
+          "1"
+        ],
+        "Free kicks": [
+          "2",
+          "1"
+        ],
+        "Throw ins": [
+          "18",
+          "19"
+        ],
+        "Fouls": [
+          "13",
+          "14"
+        ]
+      }
+    },
+    {
+      "id": "KdLsVsuo",
+      "date": "2025-10-31T08:30:00.000Z",
+      "round": "Round 11",
+      "homeTeam": "PSIM Yogyakarta",
+      "awayTeam": "Persik Kediri",
+      "homeScore": 2,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "59%",
+          "41%"
+        ],
+        "Total shots": [
+          "10",
+          "13"
+        ],
+        "Shots on target": [
+          "4",
+          "5"
+        ],
+        "Corner kicks": [
+          "3",
+          "2"
+        ],
+        "Yellow cards": [
+          "3",
+          "4"
+        ],
+        "Red cards": [
+          "1",
+          "1"
+        ],
+        "Shots off target": [
+          "6",
+          "8"
+        ],
+        "Offsides": [
+          "1",
+          "0"
+        ],
+        "Free kicks": [
+          "5",
+          "4"
+        ],
+        "Throw ins": [
+          "18",
+          "16"
+        ],
+        "Fouls": [
+          "11",
+          "12"
+        ]
+      }
+    },
+    {
+      "id": "lEUBz4HN",
+      "date": "2025-10-27T12:00:00.000Z",
+      "round": "Round 10",
+      "homeTeam": "Persib Bandung",
+      "awayTeam": "Persis Solo",
+      "homeScore": 2,
+      "awayScore": 0,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "47%",
+          "53%"
+        ],
+        "Total shots": [
+          "11",
+          "0"
+        ],
+        "Shots on target": [
+          "6",
+          "0"
+        ],
+        "Corner kicks": [
+          "3",
+          "5"
+        ],
+        "Yellow cards": [
+          "0",
+          "2"
+        ],
+        "Red cards": [
+          "1",
+          "0"
+        ],
+        "Shots off target": [
+          "5",
+          "0"
+        ],
+        "Offsides": [
+          "1",
+          "1"
+        ],
+        "Free kicks": [
+          "3",
+          "5"
+        ],
+        "Throw ins": [
+          "12",
+          "16"
+        ],
+        "Fouls": [
+          "10",
+          "5"
+        ]
+      }
+    },
+    {
+      "id": "hny3xQnB",
+      "date": "2025-10-27T08:30:00.000Z",
+      "round": "Round 10",
+      "homeTeam": "Bhayangkara FC",
+      "awayTeam": "Persijap Jepara",
+      "homeScore": 2,
+      "awayScore": 0,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "54%",
+          "46%"
+        ],
+        "Total shots": [
+          "8",
+          "10"
+        ],
+        "Shots on target": [
+          "3",
+          "6"
+        ],
+        "Corner kicks": [
+          "4",
+          "1"
+        ],
+        "Yellow cards": [
+          "4",
+          "3"
+        ],
+        "Shots off target": [
+          "5",
+          "4"
+        ],
+        "Offsides": [
+          "1",
+          "2"
+        ],
+        "Free kicks": [
+          "4",
+          "7"
+        ],
+        "Throw ins": [
+          "20",
+          "22"
+        ],
+        "Fouls": [
+          "16",
+          "14"
+        ]
+      }
+    },
+    {
+      "id": "KdLsVsuo",
+      "date": "2025-10-31T08:30:00.000Z",
+      "round": "Round 11",
+      "homeTeam": "PSIM Yogyakarta",
+      "awayTeam": "Persik Kediri",
+      "homeScore": 2,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "59%",
+          "41%"
+        ],
+        "Total shots": [
+          "10",
+          "13"
+        ],
+        "Shots on target": [
+          "4",
+          "5"
+        ],
+        "Corner kicks": [
+          "3",
+          "2"
+        ],
+        "Yellow cards": [
+          "3",
+          "4"
+        ],
+        "Red cards": [
+          "1",
+          "1"
+        ],
+        "Shots off target": [
+          "6",
+          "8"
+        ],
+        "Offsides": [
+          "1",
+          "0"
+        ],
+        "Free kicks": [
+          "5",
+          "4"
+        ],
+        "Throw ins": [
+          "18",
+          "16"
+        ],
+        "Fouls": [
+          "11",
+          "12"
+        ]
+      }
+    },
+    {
+      "id": "lEUBz4HN",
+      "date": "2025-10-27T12:00:00.000Z",
+      "round": "Round 10",
+      "homeTeam": "Persib Bandung",
+      "awayTeam": "Persis Solo",
+      "homeScore": 2,
+      "awayScore": 0,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "47%",
+          "53%"
+        ],
+        "Total shots": [
+          "11",
+          "0"
+        ],
+        "Shots on target": [
+          "6",
+          "0"
+        ],
+        "Corner kicks": [
+          "3",
+          "5"
+        ],
+        "Yellow cards": [
+          "0",
+          "2"
+        ],
+        "Red cards": [
+          "1",
+          "0"
+        ],
+        "Shots off target": [
+          "5",
+          "0"
+        ],
+        "Offsides": [
+          "1",
+          "1"
+        ],
+        "Free kicks": [
+          "3",
+          "5"
+        ],
+        "Throw ins": [
+          "12",
+          "16"
+        ],
+        "Fouls": [
+          "10",
+          "5"
+        ]
+      }
+    },
+    {
+      "id": "hny3xQnB",
+      "date": "2025-10-27T08:30:00.000Z",
+      "round": "Round 10",
+      "homeTeam": "Bhayangkara FC",
+      "awayTeam": "Persijap Jepara",
+      "homeScore": 2,
+      "awayScore": 0,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "54%",
+          "46%"
+        ],
+        "Total shots": [
+          "8",
+          "10"
+        ],
+        "Shots on target": [
+          "3",
+          "6"
+        ],
+        "Corner kicks": [
+          "4",
+          "1"
+        ],
+        "Yellow cards": [
+          "4",
+          "3"
+        ],
+        "Shots off target": [
+          "5",
+          "4"
+        ],
+        "Offsides": [
+          "1",
+          "2"
+        ],
+        "Free kicks": [
+          "4",
+          "7"
+        ],
+        "Throw ins": [
+          "20",
+          "22"
+        ],
+        "Fouls": [
+          "16",
+          "14"
+        ]
+      }
+    },
+    {
+      "id": "KYxevnIb",
+      "date": "2025-10-26T12:00:00.000Z",
+      "round": "Round 10",
+      "homeTeam": "Malut United FC",
+      "awayTeam": "Semen Padang",
+      "homeScore": 1,
+      "awayScore": 0,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "61%",
+          "39%"
+        ],
+        "Total shots": [
+          "6",
+          "0"
+        ],
+        "Shots on target": [
+          "4",
+          "0"
+        ],
+        "Corner kicks": [
+          "5",
+          "1"
+        ],
+        "Yellow cards": [
+          "2",
+          "3"
+        ],
+        "Red cards": [
+          "0",
+          "1"
+        ],
+        "Shots off target": [
+          "2",
+          "0"
+        ],
+        "Offsides": [
+          "1",
+          "0"
+        ],
+        "Free kicks": [
+          "0",
+          "4"
+        ],
+        "Throw ins": [
+          "6",
+          "4"
+        ],
+        "Fouls": [
+          "7",
+          "4"
+        ]
+      }
+    },
+    {
+      "id": "vPUnt8mn",
+      "date": "2025-10-26T08:30:00.000Z",
+      "round": "Round 10",
+      "homeTeam": "Arema FC",
+      "awayTeam": "Borneo FC",
+      "homeScore": 1,
+      "awayScore": 3,
+      "htHome": 0,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "45%",
+          "55%"
+        ],
+        "Total shots": [
+          "12",
+          "13"
+        ],
+        "Shots on target": [
+          "4",
+          "5"
+        ],
+        "Corner kicks": [
+          "8",
+          "4"
+        ],
+        "Yellow cards": [
+          "5",
+          "3"
+        ],
+        "Red cards": [
+          "2",
+          "0"
+        ],
+        "Shots off target": [
+          "8",
+          "8"
+        ],
+        "Offsides": [
+          "1",
+          "1"
+        ],
+        "Free kicks": [
+          "7",
+          "2"
+        ],
+        "Throw ins": [
+          "19",
+          "19"
+        ],
+        "Fouls": [
+          "12",
+          "11"
+        ]
+      }
+    },
+    {
+      "id": "l0kwM42U",
+      "date": "2025-10-25T12:00:00.000Z",
+      "round": "Round 10",
+      "homeTeam": "Bali United",
+      "awayTeam": "Persita Tangerang",
+      "homeScore": 0,
+      "awayScore": 0,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "54%",
+          "46%"
+        ],
+        "Total shots": [
+          "7",
+          "8"
+        ],
+        "Shots on target": [
+          "4",
+          "6"
+        ],
+        "Corner kicks": [
+          "3",
+          "4"
+        ],
+        "Shots off target": [
+          "3",
+          "2"
+        ],
+        "Offsides": [
+          "1",
+          "1"
+        ],
+        "Free kicks": [
+          "4",
+          "3"
+        ],
+        "Throw ins": [
+          "27",
+          "22"
+        ],
+        "Fouls": [
+          "9",
+          "14"
+        ]
+      }
+    },
+    {
+      "id": "Sp1UNQXH",
+      "date": "2025-10-25T08:30:00.000Z",
+      "round": "Round 10",
+      "homeTeam": "Persik Kediri",
+      "awayTeam": "PSM Makassar",
+      "homeScore": 1,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "42%",
+          "58%"
+        ],
+        "Total shots": [
+          "9",
+          "15"
+        ],
+        "Shots on target": [
+          "2",
+          "3"
+        ],
+        "Corner kicks": [
+          "4",
+          "8"
+        ],
+        "Yellow cards": [
+          "3",
+          "5"
+        ],
+        "Red cards": [
+          "1",
+          "0"
+        ],
+        "Shots off target": [
+          "7",
+          "12"
+        ],
+        "Offsides": [
+          "0",
+          "1"
+        ],
+        "Free kicks": [
+          "17",
+          "14"
+        ],
+        "Throw ins": [
+          "13",
+          "22"
+        ],
+        "Fouls": [
+          "13",
+          "17"
+        ]
+      }
+    },
+    {
+      "id": "KKcMPn35",
+      "date": "2025-10-24T12:00:00.000Z",
+      "round": "Round 10",
+      "homeTeam": "Madura United",
+      "awayTeam": "Persija Jakarta",
+      "homeScore": 0,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "46%",
+          "54%"
+        ],
+        "Total shots": [
+          "11",
+          "14"
+        ],
+        "Shots on target": [
+          "3",
+          "8"
+        ],
+        "Corner kicks": [
+          "2",
+          "6"
+        ],
+        "Yellow cards": [
+          "1",
+          "1"
+        ],
+        "Shots off target": [
+          "8",
+          "6"
+        ],
+        "Offsides": [
+          "3",
+          "1"
+        ],
+        "Free kicks": [
+          "4",
+          "4"
+        ],
+        "Throw ins": [
+          "17",
+          "8"
+        ],
+        "Fouls": [
+          "10",
+          "10"
+        ]
+      }
+    },
+    {
+      "id": "0IsLR8Yh",
+      "date": "2025-10-24T08:30:00.000Z",
+      "round": "Round 10",
+      "homeTeam": "PSBS Biak",
+      "awayTeam": "Persebaya Surabaya",
+      "homeScore": 0,
+      "awayScore": 0,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "52%",
+          "48%"
+        ],
+        "Total shots": [
+          "28",
+          "6"
+        ],
+        "Shots on target": [
+          "4",
+          "4"
+        ],
+        "Corner kicks": [
+          "13",
+          "2"
+        ],
+        "Yellow cards": [
+          "5",
+          "4"
+        ],
+        "Red cards": [
+          "1",
+          "2"
+        ],
+        "Shots off target": [
+          "24",
+          "2"
+        ],
+        "Offsides": [
+          "4",
+          "0"
+        ],
+        "Free kicks": [
+          "8",
+          "7"
+        ],
+        "Throw ins": [
+          "22",
+          "21"
+        ],
+        "Fouls": [
+          "13",
+          "12"
+        ]
+      }
+    },
+    {
+      "id": "S4qDTU3t",
+      "date": "2025-10-22T08:30:00.000Z",
+      "round": "Round 10",
+      "homeTeam": "PSIM Yogyakarta",
+      "awayTeam": "Dewa United FC",
+      "homeScore": 2,
+      "awayScore": 0,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "53%",
+          "47%"
+        ],
+        "Total shots": [
+          "12",
+          "12"
+        ],
+        "Shots on target": [
+          "3",
+          "4"
+        ],
+        "Corner kicks": [
+          "4",
+          "4"
+        ],
+        "Yellow cards": [
+          "3",
+          "3"
+        ],
+        "Red cards": [
+          "0",
+          "1"
+        ],
+        "Shots off target": [
+          "9",
+          "8"
+        ],
+        "Offsides": [
+          "2",
+          "4"
+        ],
+        "Free kicks": [
+          "15",
+          "11"
+        ],
+        "Throw ins": [
+          "7",
+          "13"
+        ],
+        "Fouls": [
+          "9",
+          "11"
+        ]
+      }
+    },
+    {
+      "id": "lvE29RIO",
+      "date": "2025-10-20T12:00:00.000Z",
+      "round": "Round 9",
+      "homeTeam": "Persis Solo",
+      "awayTeam": "Malut United FC",
+      "homeScore": 1,
+      "awayScore": 3,
+      "htHome": 0,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "49%",
+          "51%"
+        ],
+        "Total shots": [
+          "8",
+          "9"
+        ],
+        "Shots on target": [
+          "4",
+          "5"
+        ],
+        "Corner kicks": [
+          "9",
+          "6"
+        ],
+        "Yellow cards": [
+          "1",
+          "3"
+        ],
+        "Shots off target": [
+          "4",
+          "4"
+        ],
+        "Offsides": [
+          "2",
+          "3"
+        ],
+        "Free kicks": [
+          "2",
+          "1"
+        ],
+        "Throw ins": [
+          "16",
+          "17"
+        ],
+        "Fouls": [
+          "5",
+          "11"
+        ]
+      }
+    },
+    {
+      "id": "tEAfBmlC",
+      "date": "2025-10-20T08:30:00.000Z",
+      "round": "Round 9",
+      "homeTeam": "Semen Padang",
+      "awayTeam": "Bhayangkara FC",
+      "homeScore": 0,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "57%",
+          "43%"
+        ],
+        "Total shots": [
+          "3",
+          "3"
+        ],
+        "Shots on target": [
+          "1",
+          "1"
+        ],
+        "Corner kicks": [
+          "8",
+          "1"
+        ],
+        "Yellow cards": [
+          "4",
+          "3"
+        ],
+        "Shots off target": [
+          "2",
+          "2"
+        ],
+        "Offsides": [
+          "4",
+          "0"
+        ],
+        "Free kicks": [
+          "5",
+          "9"
+        ],
+        "Throw ins": [
+          "28",
+          "21"
+        ],
+        "Fouls": [
+          "18",
+          "13"
+        ]
+      }
+    },
+    {
+      "id": "KbMoD9Ja",
+      "date": "2025-10-19T12:00:00.000Z",
+      "round": "Round 9",
+      "homeTeam": "Persijap Jepara",
+      "awayTeam": "Bali United",
+      "homeScore": 1,
+      "awayScore": 2,
+      "htHome": 0,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "56%",
+          "44%"
+        ],
+        "Total shots": [
+          "15",
+          "8"
+        ],
+        "Shots on target": [
+          "7",
+          "3"
+        ],
+        "Corner kicks": [
+          "8",
+          "2"
+        ],
+        "Yellow cards": [
+          "2",
+          "0"
+        ],
+        "Red cards": [
+          "1",
+          "0"
+        ],
+        "Shots off target": [
+          "8",
+          "5"
+        ],
+        "Offsides": [
+          "0",
+          "0"
+        ],
+        "Free kicks": [
+          "9",
+          "4"
+        ],
+        "Throw ins": [
+          "19",
+          "8"
+        ],
+        "Fouls": [
+          "10",
+          "17"
+        ]
+      }
+    },
+    {
+      "id": "E1JwFVlm",
+      "date": "2025-10-19T08:30:00.000Z",
+      "round": "Round 9",
+      "homeTeam": "PSM Makassar",
+      "awayTeam": "Arema FC",
+      "homeScore": 1,
+      "awayScore": 2,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "50%",
+          "50%"
+        ],
+        "Total shots": [
+          "8",
+          "7"
+        ],
+        "Shots on target": [
+          "2",
+          "2"
+        ],
+        "Corner kicks": [
+          "8",
+          "6"
+        ],
+        "Yellow cards": [
+          "1",
+          "2"
+        ],
+        "Shots off target": [
+          "6",
+          "5"
+        ],
+        "Offsides": [
+          "0",
+          "1"
+        ],
+        "Free kicks": [
+          "6",
+          "6"
+        ],
+        "Throw ins": [
+          "11",
+          "12"
+        ],
+        "Fouls": [
+          "8",
+          "11"
+        ]
+      }
+    },
+    {
+      "id": "fHx7KiRP",
+      "date": "2025-10-18T12:00:00.000Z",
+      "round": "Round 9",
+      "homeTeam": "Persebaya Surabaya",
+      "awayTeam": "Persija Jakarta",
+      "homeScore": 1,
+      "awayScore": 3,
+      "htHome": 0,
+      "htAway": 2,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "47%",
+          "53%"
+        ],
+        "Total shots": [
+          "7",
+          "14"
+        ],
+        "Shots on target": [
+          "1",
+          "4"
+        ],
+        "Corner kicks": [
+          "6",
+          "2"
+        ],
+        "Yellow cards": [
+          "3",
+          "4"
+        ],
+        "Shots off target": [
+          "6",
+          "10"
+        ],
+        "Offsides": [
+          "2",
+          "2"
+        ],
+        "Free kicks": [
+          "21",
+          "15"
+        ],
+        "Throw ins": [
+          "15",
+          "21"
+        ],
+        "Fouls": [
+          "13",
+          "17"
+        ]
+      }
+    },
+    {
+      "id": "2NkLdlZI",
+      "date": "2025-10-18T08:30:00.000Z",
+      "round": "Round 9",
+      "homeTeam": "Borneo FC",
+      "awayTeam": "Persik Kediri",
+      "homeScore": 2,
+      "awayScore": 0,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "54%",
+          "46%"
+        ],
+        "Total shots": [
+          "10",
+          "5"
+        ],
+        "Shots on target": [
+          "7",
+          "1"
+        ],
+        "Corner kicks": [
+          "6",
+          "3"
+        ],
+        "Yellow cards": [
+          "0",
+          "2"
+        ],
+        "Shots off target": [
+          "3",
+          "4"
+        ],
+        "Offsides": [
+          "3",
+          "0"
+        ],
+        "Free kicks": [
+          "6",
+          "3"
+        ],
+        "Throw ins": [
+          "25",
+          "18"
+        ],
+        "Fouls": [
+          "4",
+          "11"
+        ]
+      }
+    },
+    {
+      "id": "6edCbA46",
+      "date": "2025-10-17T12:00:00.000Z",
+      "round": "Round 9",
+      "homeTeam": "PSBS Biak",
+      "awayTeam": "Persib Bandung",
+      "homeScore": 0,
+      "awayScore": 3,
+      "htHome": 0,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "46%",
+          "54%"
+        ],
+        "Total shots": [
+          "4",
+          "26"
+        ],
+        "Shots on target": [
+          "2",
+          "5"
+        ],
+        "Corner kicks": [
+          "2",
+          "6"
+        ],
+        "Yellow cards": [
+          "1",
+          "3"
+        ],
+        "Shots off target": [
+          "2",
+          "21"
+        ],
+        "Offsides": [
+          "2",
+          "3"
+        ],
+        "Free kicks": [
+          "4",
+          "0"
+        ],
+        "Throw ins": [
+          "21",
+          "17"
+        ],
+        "Fouls": [
+          "7",
+          "19"
+        ]
+      }
+    },
+    {
+      "id": "YTr50WZg",
+      "date": "2025-10-17T08:30:00.000Z",
+      "round": "Round 9",
+      "homeTeam": "Persita Tangerang",
+      "awayTeam": "PSIM Yogyakarta",
+      "homeScore": 4,
+      "awayScore": 0,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "42%",
+          "58%"
+        ],
+        "Total shots": [
+          "11",
+          "17"
+        ],
+        "Shots on target": [
+          "6",
+          "3"
+        ],
+        "Corner kicks": [
+          "2",
+          "8"
+        ],
+        "Yellow cards": [
+          "3",
+          "1"
+        ],
+        "Shots off target": [
+          "5",
+          "14"
+        ],
+        "Offsides": [
+          "1",
+          "4"
+        ],
+        "Free kicks": [
+          "8",
+          "15"
+        ],
+        "Throw ins": [
+          "15",
+          "20"
+        ],
+        "Fouls": [
+          "14",
+          "4"
+        ]
+      }
+    },
+    {
+      "id": "CEfd2h5s",
+      "date": "2025-10-16T12:00:00.000Z",
+      "round": "Round 9",
+      "homeTeam": "Dewa United FC",
+      "awayTeam": "Madura United",
+      "homeScore": 0,
+      "awayScore": 2,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "55%",
+          "45%"
+        ],
+        "Total shots": [
+          "23",
+          "6"
+        ],
+        "Shots on target": [
+          "6",
+          "2"
+        ],
+        "Corner kicks": [
+          "11",
+          "2"
+        ],
+        "Yellow cards": [
+          "2",
+          "1"
+        ],
+        "Shots off target": [
+          "17",
+          "4"
+        ],
+        "Offsides": [
+          "3",
+          "1"
+        ],
+        "Free kicks": [
+          "1",
+          "5"
+        ],
+        "Throw ins": [
+          "16",
+          "18"
+        ],
+        "Fouls": [
+          "8",
+          "5"
+        ]
+      }
+    },
+    {
+      "id": "844Z2Aw2",
+      "date": "2025-10-04T12:00:00.000Z",
+      "round": "Round 4",
+      "homeTeam": "Persita Tangerang",
+      "awayTeam": "Semen Padang",
+      "homeScore": 2,
+      "awayScore": 0,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "52%",
+          "48%"
+        ],
+        "Total shots": [
+          "13",
+          "10"
+        ],
+        "Shots on target": [
+          "5",
+          "2"
+        ],
+        "Corner kicks": [
+          "4",
+          "4"
+        ],
+        "Yellow cards": [
+          "0",
+          "3"
+        ],
+        "Shots off target": [
+          "8",
+          "8"
+        ],
+        "Offsides": [
+          "0",
+          "1"
+        ],
+        "Free kicks": [
+          "8",
+          "5"
+        ],
+        "Throw ins": [
+          "14",
+          "20"
+        ],
+        "Fouls": [
+          "11",
+          "12"
+        ]
+      }
+    },
+    {
+      "id": "pQN6ephc",
+      "date": "2025-09-28T12:00:00.000Z",
+      "round": "Round 7",
+      "homeTeam": "Borneo FC",
+      "awayTeam": "Persija Jakarta",
+      "homeScore": 3,
+      "awayScore": 1,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "38%",
+          "62%"
+        ],
+        "Total shots": [
+          "8",
+          "13"
+        ],
+        "Shots on target": [
+          "6",
+          "6"
+        ],
+        "Corner kicks": [
+          "6",
+          "9"
+        ],
+        "Yellow cards": [
+          "3",
+          "4"
+        ],
+        "Shots off target": [
+          "2",
+          "7"
+        ],
+        "Offsides": [
+          "2",
+          "1"
+        ],
+        "Free kicks": [
+          "7",
+          "3"
+        ],
+        "Throw ins": [
+          "10",
+          "23"
+        ],
+        "Fouls": [
+          "7",
+          "13"
+        ]
+      }
+    },
+    {
+      "id": "hjREgOM9",
+      "date": "2025-09-28T08:30:00.000Z",
+      "round": "Round 7",
+      "homeTeam": "Persis Solo",
+      "awayTeam": "Arema FC",
+      "homeScore": 2,
+      "awayScore": 2,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "50%",
+          "50%"
+        ],
+        "Total shots": [
+          "14",
+          "25"
+        ],
+        "Shots on target": [
+          "6",
+          "8"
+        ],
+        "Corner kicks": [
+          "4",
+          "9"
+        ],
+        "Yellow cards": [
+          "3",
+          "3"
+        ],
+        "Shots off target": [
+          "8",
+          "17"
+        ],
+        "Offsides": [
+          "1",
+          "2"
+        ],
+        "Free kicks": [
+          "8",
+          "4"
+        ],
+        "Throw ins": [
+          "13",
+          "23"
+        ],
+        "Fouls": [
+          "7",
+          "18"
+        ]
+      }
+    },
+    {
+      "id": "j9areGtH",
+      "date": "2025-09-27T12:00:00.000Z",
+      "round": "Round 7",
+      "homeTeam": "Persijap Jepara",
+      "awayTeam": "Persik Kediri",
+      "homeScore": 0,
+      "awayScore": 2,
+      "htHome": 0,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "53%",
+          "47%"
+        ],
+        "Total shots": [
+          "12",
+          "15"
+        ],
+        "Shots on target": [
+          "7",
+          "8"
+        ],
+        "Corner kicks": [
+          "2",
+          "4"
+        ],
+        "Yellow cards": [
+          "4",
+          "1"
+        ],
+        "Shots off target": [
+          "5",
+          "7"
+        ],
+        "Offsides": [
+          "0",
+          "0"
+        ],
+        "Free kicks": [
+          "10",
+          "9"
+        ],
+        "Throw ins": [
+          "26",
+          "23"
+        ],
+        "Fouls": [
+          "10",
+          "13"
+        ]
+      }
+    },
+    {
+      "id": "nygigfBT",
+      "date": "2025-09-27T12:00:00.000Z",
+      "round": "Round 7",
+      "homeTeam": "Persita Tangerang",
+      "awayTeam": "Persib Bandung",
+      "homeScore": 2,
+      "awayScore": 1,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "42%",
+          "58%"
+        ],
+        "Total shots": [
+          "10",
+          "13"
+        ],
+        "Shots on target": [
+          "4",
+          "9"
+        ],
+        "Corner kicks": [
+          "4",
+          "8"
+        ],
+        "Yellow cards": [
+          "3",
+          "3"
+        ],
+        "Shots off target": [
+          "6",
+          "4"
+        ],
+        "Offsides": [
+          "0",
+          "1"
+        ],
+        "Free kicks": [
+          "6",
+          "3"
+        ],
+        "Throw ins": [
+          "12",
+          "18"
+        ],
+        "Fouls": [
+          "7",
+          "12"
+        ]
+      }
+    },
+    {
+      "id": "21bMmYYj",
+      "date": "2025-09-27T08:30:00.000Z",
+      "round": "Round 7",
+      "homeTeam": "PSM Makassar",
+      "awayTeam": "PSIM Yogyakarta",
+      "homeScore": 0,
+      "awayScore": 0,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "49%",
+          "51%"
+        ],
+        "Total shots": [
+          "9",
+          "6"
+        ],
+        "Shots on target": [
+          "1",
+          "0"
+        ],
+        "Corner kicks": [
+          "10",
+          "4"
+        ],
+        "Yellow cards": [
+          "0",
+          "3"
+        ],
+        "Shots off target": [
+          "8",
+          "6"
+        ],
+        "Offsides": [
+          "0",
+          "1"
+        ],
+        "Free kicks": [
+          "5",
+          "6"
+        ],
+        "Throw ins": [
+          "18",
+          "14"
+        ],
+        "Fouls": [
+          "8",
+          "12"
+        ]
+      }
+    },
+    {
+      "id": "Ie1zcxC4",
+      "date": "2025-09-26T12:00:00.000Z",
+      "round": "Round 7",
+      "homeTeam": "Dewa United FC",
+      "awayTeam": "Persebaya Surabaya",
+      "homeScore": 1,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "56%",
+          "44%"
+        ],
+        "Total shots": [
+          "10",
+          "5"
+        ],
+        "Shots on target": [
+          "5",
+          "2"
+        ],
+        "Corner kicks": [
+          "6",
+          "1"
+        ],
+        "Yellow cards": [
+          "1",
+          "0"
+        ],
+        "Red cards": [
+          "0",
+          "1"
+        ],
+        "Shots off target": [
+          "5",
+          "3"
+        ],
+        "Offsides": [
+          "5",
+          "0"
+        ],
+        "Free kicks": [
+          "5",
+          "7"
+        ],
+        "Throw ins": [
+          "20",
+          "16"
+        ],
+        "Fouls": [
+          "11",
+          "9"
+        ]
+      }
+    },
+    {
+      "id": "GWKuyeko",
+      "date": "2025-09-26T08:30:00.000Z",
+      "round": "Round 7",
+      "homeTeam": "Semen Padang",
+      "awayTeam": "Bali United",
+      "homeScore": 1,
+      "awayScore": 3,
+      "htHome": 0,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "47%",
+          "53%"
+        ],
+        "Total shots": [
+          "6",
+          "9"
+        ],
+        "Shots on target": [
+          "4",
+          "4"
+        ],
+        "Corner kicks": [
+          "10",
+          "3"
+        ],
+        "Yellow cards": [
+          "2",
+          "2"
+        ],
+        "Shots off target": [
+          "2",
+          "5"
+        ],
+        "Offsides": [
+          "0",
+          "0"
+        ],
+        "Free kicks": [
+          "6",
+          "7"
+        ],
+        "Throw ins": [
+          "24",
+          "12"
+        ],
+        "Fouls": [
+          "12",
+          "10"
+        ]
+      }
+    },
+    {
+      "id": "Wbq9tHRN",
+      "date": "2025-09-25T12:00:00.000Z",
+      "round": "Round 7",
+      "homeTeam": "PSBS Biak",
+      "awayTeam": "Madura United",
+      "homeScore": 0,
+      "awayScore": 0,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "44%",
+          "56%"
+        ],
+        "Total shots": [
+          "9",
+          "9"
+        ],
+        "Shots on target": [
+          "1",
+          "3"
+        ],
+        "Corner kicks": [
+          "1",
+          "4"
+        ],
+        "Yellow cards": [
+          "3",
+          "1"
+        ],
+        "Shots off target": [
+          "8",
+          "6"
+        ],
+        "Offsides": [
+          "2",
+          "2"
+        ],
+        "Free kicks": [
+          "9",
+          "23"
+        ],
+        "Throw ins": [
+          "12",
+          "15"
+        ],
+        "Fouls": [
+          "21",
+          "7"
+        ]
+      }
+    },
+    {
+      "id": "MT7Rbbsh",
+      "date": "2025-09-25T08:30:00.000Z",
+      "round": "Round 7",
+      "homeTeam": "Bhayangkara FC",
+      "awayTeam": "Malut United FC",
+      "homeScore": 0,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "62%",
+          "38%"
+        ],
+        "Total shots": [
+          "11",
+          "8"
+        ],
+        "Shots on target": [
+          "4",
+          "3"
+        ],
+        "Corner kicks": [
+          "5",
+          "2"
+        ],
+        "Yellow cards": [
+          "3",
+          "0"
+        ],
+        "Shots off target": [
+          "7",
+          "5"
+        ],
+        "Offsides": [
+          "1",
+          "1"
+        ],
+        "Free kicks": [
+          "7",
+          "6"
+        ],
+        "Throw ins": [
+          "29",
+          "16"
+        ],
+        "Fouls": [
+          "8",
+          "11"
+        ]
+      }
+    },
+    {
+      "id": "OYu1rwcB",
+      "date": "2025-09-22T12:00:00.000Z",
+      "round": "Round 6",
+      "homeTeam": "Borneo FC",
+      "awayTeam": "Persis Solo",
+      "homeScore": 1,
+      "awayScore": 0,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "53%",
+          "47%"
+        ],
+        "Total shots": [
+          "19",
+          "6"
+        ],
+        "Shots on target": [
+          "3",
+          "3"
+        ],
+        "Corner kicks": [
+          "12",
+          "4"
+        ],
+        "Yellow cards": [
+          "1",
+          "2"
+        ],
+        "Shots off target": [
+          "16",
+          "3"
+        ],
+        "Offsides": [
+          "1",
+          "3"
+        ],
+        "Free kicks": [
+          "6",
+          "8"
+        ],
+        "Throw ins": [
+          "14",
+          "13"
+        ],
+        "Fouls": [
+          "13",
+          "11"
+        ]
+      }
+    },
+    {
+      "id": "S6nhpaSb",
+      "date": "2025-09-22T08:30:00.000Z",
+      "round": "Round 6",
+      "homeTeam": "Arema FC",
+      "awayTeam": "Persib Bandung",
+      "homeScore": 1,
+      "awayScore": 2,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "50%",
+          "50%"
+        ],
+        "Total shots": [
+          "5",
+          "13"
+        ],
+        "Shots on target": [
+          "1",
+          "3"
+        ],
+        "Corner kicks": [
+          "5",
+          "3"
+        ],
+        "Yellow cards": [
+          "1",
+          "0"
+        ],
+        "Red cards": [
+          "0",
+          "1"
+        ],
+        "Shots off target": [
+          "4",
+          "10"
+        ],
+        "Offsides": [
+          "1",
+          "1"
+        ],
+        "Free kicks": [
+          "10",
+          "6"
+        ],
+        "Throw ins": [
+          "18",
+          "19"
+        ],
+        "Fouls": [
+          "12",
+          "13"
+        ]
+      }
+    },
+    {
+      "id": "rurYv4jJ",
+      "date": "2025-09-21T12:00:00.000Z",
+      "round": "Round 6",
+      "homeTeam": "PSM Makassar",
+      "awayTeam": "Persija Jakarta",
+      "homeScore": 2,
+      "awayScore": 0,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "38%",
+          "62%"
+        ],
+        "Total shots": [
+          "3",
+          "5"
+        ],
+        "Shots on target": [
+          "2",
+          "1"
+        ],
+        "Corner kicks": [
+          "2",
+          "3"
+        ],
+        "Yellow cards": [
+          "5",
+          "2"
+        ],
+        "Shots off target": [
+          "1",
+          "4"
+        ],
+        "Offsides": [
+          "0",
+          "1"
+        ],
+        "Free kicks": [
+          "6",
+          "7"
+        ],
+        "Throw ins": [
+          "25",
+          "24"
+        ],
+        "Fouls": [
+          "15",
+          "10"
+        ]
+      }
+    },
+    {
+      "id": "fglpnLcn",
+      "date": "2025-09-21T08:30:00.000Z",
+      "round": "Round 6",
+      "homeTeam": "Persijap Jepara",
+      "awayTeam": "Persita Tangerang",
+      "homeScore": 1,
+      "awayScore": 2,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "52%",
+          "48%"
+        ],
+        "Total shots": [
+          "14",
+          "4"
+        ],
+        "Shots on target": [
+          "5",
+          "4"
+        ],
+        "Corner kicks": [
+          "2",
+          "4"
+        ],
+        "Yellow cards": [
+          "2",
+          "1"
+        ],
+        "Red cards": [
+          "0",
+          "1"
+        ],
+        "Shots off target": [
+          "9",
+          "0"
+        ],
+        "Offsides": [
+          "0",
+          "0"
+        ],
+        "Free kicks": [
+          "5",
+          "6"
+        ],
+        "Throw ins": [
+          "14",
+          "18"
+        ],
+        "Fouls": [
+          "13",
+          "14"
+        ]
+      }
+    },
+    {
+      "id": "zFvQtQL6",
+      "date": "2025-09-20T12:00:00.000Z",
+      "round": "Round 6",
+      "homeTeam": "Bali United",
+      "awayTeam": "PSIM Yogyakarta",
+      "homeScore": 1,
+      "awayScore": 3,
+      "htHome": 1,
+      "htAway": 2,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "42%",
+          "58%"
+        ],
+        "Total shots": [
+          "9",
+          "6"
+        ],
+        "Shots on target": [
+          "5",
+          "4"
+        ],
+        "Corner kicks": [
+          "6",
+          "2"
+        ],
+        "Yellow cards": [
+          "4",
+          "4"
+        ],
+        "Shots off target": [
+          "4",
+          "2"
+        ],
+        "Offsides": [
+          "0",
+          "0"
+        ],
+        "Free kicks": [
+          "4",
+          "3"
+        ],
+        "Throw ins": [
+          "11",
+          "7"
+        ],
+        "Fouls": [
+          "13",
+          "9"
+        ]
+      }
+    },
+    {
+      "id": "EajHrnif",
+      "date": "2025-09-20T08:30:00.000Z",
+      "round": "Round 6",
+      "homeTeam": "Dewa United FC",
+      "awayTeam": "PSBS Biak",
+      "homeScore": 3,
+      "awayScore": 1,
+      "htHome": 3,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "51%",
+          "49%"
+        ],
+        "Total shots": [
+          "13",
+          "4"
+        ],
+        "Shots on target": [
+          "4",
+          "2"
+        ],
+        "Corner kicks": [
+          "7",
+          "6"
+        ],
+        "Yellow cards": [
+          "2",
+          "0"
+        ],
+        "Shots off target": [
+          "9",
+          "2"
+        ],
+        "Offsides": [
+          "0",
+          "1"
+        ],
+        "Free kicks": [
+          "2",
+          "6"
+        ],
+        "Throw ins": [
+          "16",
+          "22"
+        ],
+        "Fouls": [
+          "14",
+          "8"
+        ]
+      }
+    },
+    {
+      "id": "x4UpjUbK",
+      "date": "2025-09-19T12:00:00.000Z",
+      "round": "Round 6",
+      "homeTeam": "Malut United FC",
+      "awayTeam": "Madura United",
+      "homeScore": 4,
+      "awayScore": 1,
+      "htHome": 1,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "54%",
+          "46%"
+        ],
+        "Total shots": [
+          "12",
+          "4"
+        ],
+        "Shots on target": [
+          "11",
+          "2"
+        ],
+        "Corner kicks": [
+          "6",
+          "1"
+        ],
+        "Yellow cards": [
+          "1",
+          "2"
+        ],
+        "Red cards": [
+          "0",
+          "1"
+        ],
+        "Shots off target": [
+          "1",
+          "2"
+        ],
+        "Offsides": [
+          "0",
+          "0"
+        ],
+        "Free kicks": [
+          "7",
+          "10"
+        ],
+        "Fouls": [
+          "9",
+          "6"
+        ]
+      }
+    },
+    {
+      "id": "6Zn9p8Ms",
+      "date": "2025-09-19T12:00:00.000Z",
+      "round": "Round 6",
+      "homeTeam": "Persebaya Surabaya",
+      "awayTeam": "Semen Padang",
+      "homeScore": 1,
+      "awayScore": 0,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "59%",
+          "41%"
+        ],
+        "Total shots": [
+          "10",
+          "5"
+        ],
+        "Shots on target": [
+          "2",
+          "1"
+        ],
+        "Corner kicks": [
+          "3",
+          "2"
+        ],
+        "Yellow cards": [
+          "0",
+          "2"
+        ],
+        "Shots off target": [
+          "8",
+          "4"
+        ],
+        "Offsides": [
+          "0",
+          "3"
+        ],
+        "Free kicks": [
+          "16",
+          "13"
+        ],
+        "Fouls": [
+          "11",
+          "14"
+        ]
+      }
+    },
+    {
+      "id": "pAsaSQ6D",
+      "date": "2025-09-19T08:30:00.000Z",
+      "round": "Round 6",
+      "homeTeam": "Bhayangkara FC",
+      "awayTeam": "Persik Kediri",
+      "homeScore": 1,
+      "awayScore": 0,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "40%",
+          "60%"
+        ],
+        "Total shots": [
+          "7",
+          "10"
+        ],
+        "Shots on target": [
+          "4",
+          "2"
+        ],
+        "Corner kicks": [
+          "7",
+          "3"
+        ],
+        "Yellow cards": [
+          "3",
+          "1"
+        ],
+        "Shots off target": [
+          "3",
+          "8"
+        ],
+        "Offsides": [
+          "0",
+          "1"
+        ],
+        "Free kicks": [
+          "10",
+          "14"
+        ],
+        "Fouls": [
+          "14",
+          "10"
+        ]
+      }
+    },
+    {
+      "id": "lrljUnx1",
+      "date": "2025-09-14T12:00:00.000Z",
+      "round": "Round 5",
+      "homeTeam": "Persija Jakarta",
+      "awayTeam": "Bali United",
+      "homeScore": 1,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "54%",
+          "46%"
+        ],
+        "Total shots": [
+          "2",
+          "2"
+        ],
+        "Shots on target": [
+          "1",
+          "2"
+        ],
+        "Corner kicks": [
+          "7",
+          "2"
+        ],
+        "Yellow cards": [
+          "3",
+          "3"
+        ],
+        "Shots off target": [
+          "1",
+          "0"
+        ],
+        "Offsides": [
+          "1",
+          "1"
+        ],
+        "Free kicks": [
+          "14",
+          "11"
+        ],
+        "Throw ins": [
+          "8",
+          "8"
+        ],
+        "Fouls": [
+          "11",
+          "14"
+        ],
+        "Goalkeeper saves": [
+          "1",
+          "0"
+        ]
+      }
+    },
+    {
+      "id": "tIprW87l",
+      "date": "2025-09-14T08:30:00.000Z",
+      "round": "Round 5",
+      "homeTeam": "PSIM Yogyakarta",
+      "awayTeam": "Borneo FC",
+      "homeScore": 1,
+      "awayScore": 3,
+      "htHome": 0,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "58%",
+          "42%"
+        ],
+        "Total shots": [
+          "8",
+          "9"
+        ],
+        "Shots on target": [
+          "2",
+          "3"
+        ],
+        "Corner kicks": [
+          "10",
+          "2"
+        ],
+        "Yellow cards": [
+          "2",
+          "1"
+        ],
+        "Shots off target": [
+          "6",
+          "6"
+        ],
+        "Offsides": [
+          "3",
+          "0"
+        ],
+        "Free kicks": [
+          "10",
+          "8"
+        ],
+        "Throw ins": [
+          "27",
+          "17"
+        ],
+        "Fouls": [
+          "9",
+          "10"
+        ],
+        "Goalkeeper saves": [
+          "0",
+          "1"
+        ]
+      }
+    },
+    {
+      "id": "dp9ByVqR",
+      "date": "2025-09-13T12:00:00.000Z",
+      "round": "Round 5",
+      "homeTeam": "Persis Solo",
+      "awayTeam": "Persijap Jepara",
+      "homeScore": 1,
+      "awayScore": 2,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "53%",
+          "47%"
+        ],
+        "Total shots": [
+          "6",
+          "7"
+        ],
+        "Shots on target": [
+          "3",
+          "5"
+        ],
+        "Corner kicks": [
+          "5",
+          "5"
+        ],
+        "Yellow cards": [
+          "0",
+          "4"
+        ],
+        "Red cards": [
+          "1",
+          "0"
+        ],
+        "Shots off target": [
+          "3",
+          "2"
+        ],
+        "Offsides": [
+          "5",
+          "5"
+        ],
+        "Free kicks": [
+          "19",
+          "15"
+        ],
+        "Throw ins": [
+          "15",
+          "17"
+        ],
+        "Fouls": [
+          "12",
+          "14"
+        ],
+        "Goalkeeper saves": [
+          "3",
+          "2"
+        ]
+      }
+    },
+    {
+      "id": "jm63wiFE",
+      "date": "2025-09-13T08:30:00.000Z",
+      "round": "Round 5",
+      "homeTeam": "Arema FC",
+      "awayTeam": "Dewa United FC",
+      "homeScore": 1,
+      "awayScore": 2,
+      "htHome": 0,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "45%",
+          "55%"
+        ],
+        "Total shots": [
+          "11",
+          "12"
+        ],
+        "Shots on target": [
+          "1",
+          "2"
+        ],
+        "Corner kicks": [
+          "7",
+          "3"
+        ],
+        "Yellow cards": [
+          "2",
+          "3"
+        ],
+        "Shots off target": [
+          "10",
+          "10"
+        ],
+        "Offsides": [
+          "1",
+          "1"
+        ],
+        "Free kicks": [
+          "14",
+          "11"
+        ],
+        "Throw ins": [
+          "22",
+          "18"
+        ],
+        "Fouls": [
+          "11",
+          "14"
+        ],
+        "Goalkeeper saves": [
+          "0",
+          "0"
+        ]
+      }
+    },
+    {
+      "id": "zuOGFmN7",
+      "date": "2025-09-12T12:00:00.000Z",
+      "round": "Round 5",
+      "homeTeam": "Madura United",
+      "awayTeam": "Bhayangkara FC",
+      "homeScore": 0,
+      "awayScore": 0,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "56%",
+          "44%"
+        ],
+        "Total shots": [
+          "13",
+          "7"
+        ],
+        "Shots on target": [
+          "3",
+          "3"
+        ],
+        "Corner kicks": [
+          "7",
+          "7"
+        ],
+        "Yellow cards": [
+          "1",
+          "2"
+        ],
+        "Shots off target": [
+          "10",
+          "4"
+        ],
+        "Offsides": [
+          "3",
+          "1"
+        ],
+        "Free kicks": [
+          "21",
+          "18"
+        ],
+        "Throw ins": [
+          "23",
+          "17"
+        ],
+        "Fouls": [
+          "15",
+          "19"
+        ],
+        "Goalkeeper saves": [
+          "3",
+          "3"
+        ]
+      }
+    },
+    {
+      "id": "6aWaJVNr",
+      "date": "2025-09-12T08:30:00.000Z",
+      "round": "Round 5",
+      "homeTeam": "Persib Bandung",
+      "awayTeam": "Persebaya Surabaya",
+      "homeScore": 1,
+      "awayScore": 0,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "51%",
+          "49%"
+        ],
+        "Total shots": [
+          "5",
+          "3"
+        ],
+        "Shots on target": [
+          "1",
+          "0"
+        ],
+        "Corner kicks": [
+          "5",
+          "3"
+        ],
+        "Yellow cards": [
+          "4",
+          "3"
+        ],
+        "Red cards": [
+          "1",
+          "1"
+        ],
+        "Shots off target": [
+          "4",
+          "3"
+        ],
+        "Offsides": [
+          "0",
+          "1"
+        ],
+        "Free kicks": [
+          "11",
+          "19"
+        ],
+        "Throw ins": [
+          "20",
+          "16"
+        ],
+        "Fouls": [
+          "19",
+          "10"
+        ],
+        "Goalkeeper saves": [
+          "0",
+          "0"
+        ]
+      }
+    },
+    {
+      "id": "2RP8H9he",
+      "date": "2025-09-12T08:30:00.000Z",
+      "round": "Round 5",
+      "homeTeam": "Persik Kediri",
+      "awayTeam": "Malut United FC",
+      "homeScore": 2,
+      "awayScore": 1,
+      "htHome": 2,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "53%",
+          "47%"
+        ],
+        "Total shots": [
+          "9",
+          "9"
+        ],
+        "Shots on target": [
+          "2",
+          "1"
+        ],
+        "Corner kicks": [
+          "3",
+          "8"
+        ],
+        "Yellow cards": [
+          "3",
+          "1"
+        ],
+        "Shots off target": [
+          "7",
+          "8"
+        ],
+        "Offsides": [
+          "1",
+          "0"
+        ],
+        "Free kicks": [
+          "14",
+          "12"
+        ],
+        "Throw ins": [
+          "16",
+          "24"
+        ],
+        "Fouls": [
+          "12",
+          "14"
+        ],
+        "Goalkeeper saves": [
+          "0",
+          "0"
+        ]
+      }
+    },
+    {
+      "id": "dQpUOi0L",
+      "date": "2025-09-11T12:00:00.000Z",
+      "round": "Round 5",
+      "homeTeam": "Persita Tangerang",
+      "awayTeam": "PSM Makassar",
+      "homeScore": 2,
+      "awayScore": 1,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "51%",
+          "49%"
+        ],
+        "Total shots": [
+          "7",
+          "1"
+        ],
+        "Shots on target": [
+          "5",
+          "1"
+        ],
+        "Corner kicks": [
+          "0",
+          "6"
+        ],
+        "Yellow cards": [
+          "4",
+          "2"
+        ],
+        "Red cards": [
+          "0",
+          "1"
+        ],
+        "Shots off target": [
+          "2",
+          "0"
+        ],
+        "Offsides": [
+          "1",
+          "0"
+        ],
+        "Free kicks": [
+          "15",
+          "12"
+        ],
+        "Throw ins": [
+          "26",
+          "19"
+        ],
+        "Fouls": [
+          "11",
+          "17"
+        ],
+        "Goalkeeper saves": [
+          "0",
+          "3"
+        ]
+      }
+    },
+    {
+      "id": "zBdLQDV8",
+      "date": "2025-09-11T08:30:00.000Z",
+      "round": "Round 5",
+      "homeTeam": "Semen Padang",
+      "awayTeam": "PSBS Biak",
+      "homeScore": 1,
+      "awayScore": 2,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "51%",
+          "49%"
+        ],
+        "Total shots": [
+          "8",
+          "5"
+        ],
+        "Shots on target": [
+          "2",
+          "2"
+        ],
+        "Corner kicks": [
+          "13",
+          "7"
+        ],
+        "Yellow cards": [
+          "1",
+          "2"
+        ],
+        "Shots off target": [
+          "6",
+          "3"
+        ],
+        "Offsides": [
+          "1",
+          "0"
+        ],
+        "Free kicks": [
+          "8",
+          "12"
+        ],
+        "Throw ins": [
+          "19",
+          "8"
+        ],
+        "Fouls": [
+          "12",
+          "8"
+        ],
+        "Goalkeeper saves": [
+          "0",
+          "1"
+        ]
+      }
+    },
+    {
+      "id": "vBXqhgPq",
+      "date": "2025-08-30T12:00:00.000Z",
+      "round": "Round 4",
+      "homeTeam": "Bali United",
+      "awayTeam": "Madura United",
+      "homeScore": 1,
+      "awayScore": 0,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "59%",
+          "41%"
+        ],
+        "Total shots": [
+          "12",
+          "8"
+        ],
+        "Shots on target": [
+          "5",
+          "3"
+        ],
+        "Corner kicks": [
+          "11",
+          "5"
+        ],
+        "Yellow cards": [
+          "3",
+          "1"
+        ],
+        "Red cards": [
+          "1",
+          "0"
+        ],
+        "Shots off target": [
+          "7",
+          "5"
+        ],
+        "Offsides": [
+          "2",
+          "1"
+        ],
+        "Free kicks": [
+          "12",
+          "19"
+        ],
+        "Throw ins": [
+          "17",
+          "24"
+        ],
+        "Fouls": [
+          "14",
+          "13"
+        ]
+      }
+    },
+    {
+      "id": "zcHnCEGF",
+      "date": "2025-08-30T12:00:00.000Z",
+      "round": "Round 4",
+      "homeTeam": "Malut United FC",
+      "awayTeam": "PSIM Yogyakarta",
+      "homeScore": 0,
+      "awayScore": 2,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "50%",
+          "50%"
+        ],
+        "Total shots": [
+          "3",
+          "5"
+        ],
+        "Shots on target": [
+          "2",
+          "3"
+        ],
+        "Corner kicks": [
+          "5",
+          "7"
+        ],
+        "Yellow cards": [
+          "1",
+          "0"
+        ],
+        "Shots off target": [
+          "1",
+          "2"
+        ],
+        "Offsides": [
+          "0",
+          "0"
+        ],
+        "Free kicks": [
+          "5",
+          "17"
+        ],
+        "Throw ins": [
+          "26",
+          "15"
+        ],
+        "Fouls": [
+          "17",
+          "5"
+        ]
+      }
+    },
+    {
+      "id": "SWDvEzn3",
+      "date": "2025-08-30T08:30:00.000Z",
+      "round": "Round 4",
+      "homeTeam": "Persijap Jepara",
+      "awayTeam": "Arema FC",
+      "homeScore": 0,
+      "awayScore": 0,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "50%",
+          "50%"
+        ],
+        "Total shots": [
+          "13",
+          "8"
+        ],
+        "Shots on target": [
+          "6",
+          "1"
+        ],
+        "Corner kicks": [
+          "7",
+          "4"
+        ],
+        "Yellow cards": [
+          "1",
+          "2"
+        ],
+        "Red cards": [
+          "1",
+          "1"
+        ],
+        "Shots off target": [
+          "7",
+          "7"
+        ],
+        "Offsides": [
+          "2",
+          "1"
+        ],
+        "Free kicks": [
+          "12",
+          "13"
+        ],
+        "Throw ins": [
+          "21",
+          "23"
+        ],
+        "Fouls": [
+          "11",
+          "11"
+        ]
+      }
+    },
+    {
+      "id": "MZhJA1uB",
+      "date": "2025-08-29T12:00:00.000Z",
+      "round": "Round 4",
+      "homeTeam": "Dewa United FC",
+      "awayTeam": "Persija Jakarta",
+      "homeScore": 1,
+      "awayScore": 3,
+      "htHome": 0,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "51%",
+          "49%"
+        ],
+        "Total shots": [
+          "7",
+          "14"
+        ],
+        "Shots on target": [
+          "1",
+          "6"
+        ],
+        "Corner kicks": [
+          "4",
+          "7"
+        ],
+        "Yellow cards": [
+          "3",
+          "3"
+        ],
+        "Shots off target": [
+          "6",
+          "8"
+        ],
+        "Offsides": [
+          "5",
+          "1"
+        ],
+        "Free kicks": [
+          "16",
+          "11"
+        ],
+        "Throw ins": [
+          "23",
+          "9"
+        ],
+        "Fouls": [
+          "11",
+          "16"
+        ]
+      }
+    },
+    {
+      "id": "lMfBCNAb",
+      "date": "2025-08-29T08:30:00.000Z",
+      "round": "Round 4",
+      "homeTeam": "Bhayangkara FC",
+      "awayTeam": "Persis Solo",
+      "homeScore": 2,
+      "awayScore": 0,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "50%",
+          "50%"
+        ],
+        "Total shots": [
+          "7",
+          "5"
+        ],
+        "Shots on target": [
+          "2",
+          "0"
+        ],
+        "Corner kicks": [
+          "7",
+          "5"
+        ],
+        "Yellow cards": [
+          "3",
+          "0"
+        ],
+        "Shots off target": [
+          "5",
+          "5"
+        ],
+        "Offsides": [
+          "4",
+          "0"
+        ],
+        "Free kicks": [
+          "4",
+          "16"
+        ],
+        "Throw ins": [
+          "24",
+          "19"
+        ],
+        "Fouls": [
+          "16",
+          "4"
+        ]
+      }
+    },
+    {
+      "id": "nyyhjXgd",
+      "date": "2025-08-29T08:30:00.000Z",
+      "round": "Round 4",
+      "homeTeam": "PSBS Biak",
+      "awayTeam": "Persik Kediri",
+      "homeScore": 1,
+      "awayScore": 2,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "46%",
+          "54%"
+        ],
+        "Total shots": [
+          "10",
+          "12"
+        ],
+        "Shots on target": [
+          "3",
+          "3"
+        ],
+        "Corner kicks": [
+          "6",
+          "10"
+        ],
+        "Yellow cards": [
+          "2",
+          "2"
+        ],
+        "Shots off target": [
+          "7",
+          "9"
+        ],
+        "Offsides": [
+          "1",
+          "2"
+        ],
+        "Free kicks": [
+          "20",
+          "21"
+        ],
+        "Throw ins": [
+          "22",
+          "13"
+        ],
+        "Fouls": [
+          "21",
+          "20"
+        ]
+      }
+    },
+    {
+      "id": "hf12Eqtn",
+      "date": "2025-08-24T12:00:00.000Z",
+      "round": "Round 3",
+      "homeTeam": "Madura United",
+      "awayTeam": "Persita Tangerang",
+      "homeScore": 1,
+      "awayScore": 1,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "52%",
+          "48%"
+        ],
+        "Total shots": [
+          "4",
+          "9"
+        ],
+        "Shots on target": [
+          "2",
+          "4"
+        ],
+        "Corner kicks": [
+          "2",
+          "2"
+        ],
+        "Yellow cards": [
+          "3",
+          "1"
+        ],
+        "Shots off target": [
+          "2",
+          "5"
+        ],
+        "Offsides": [
+          "1",
+          "0"
+        ],
+        "Free kicks": [
+          "12",
+          "15"
+        ],
+        "Throw ins": [
+          "28",
+          "28"
+        ],
+        "Fouls": [
+          "12",
+          "13"
+        ]
+      }
+    },
+    {
+      "id": "2VLhfteU",
+      "date": "2025-08-24T08:30:00.000Z",
+      "round": "Round 3",
+      "homeTeam": "Borneo FC",
+      "awayTeam": "Persijap Jepara",
+      "homeScore": 3,
+      "awayScore": 1,
+      "htHome": 2,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "54%",
+          "46%"
+        ],
+        "Total shots": [
+          "10",
+          "13"
+        ],
+        "Shots on target": [
+          "7",
+          "5"
+        ],
+        "Corner kicks": [
+          "4",
+          "10"
+        ],
+        "Yellow cards": [
+          "4",
+          "3"
+        ],
+        "Shots off target": [
+          "3",
+          "8"
+        ],
+        "Offsides": [
+          "0",
+          "1"
+        ],
+        "Free kicks": [
+          "11",
+          "9"
+        ],
+        "Throw ins": [
+          "16",
+          "29"
+        ],
+        "Fouls": [
+          "9",
+          "12"
+        ]
+      }
+    },
+    {
+      "id": "tGXqd2QH",
+      "date": "2025-08-24T08:30:00.000Z",
+      "round": "Round 3",
+      "homeTeam": "PSIM Yogyakarta",
+      "awayTeam": "Persib Bandung",
+      "homeScore": 1,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "45%",
+          "55%"
+        ],
+        "Total shots": [
+          "8",
+          "15"
+        ],
+        "Shots on target": [
+          "3",
+          "2"
+        ],
+        "Corner kicks": [
+          "5",
+          "5"
+        ],
+        "Yellow cards": [
+          "1",
+          "2"
+        ],
+        "Shots off target": [
+          "5",
+          "13"
+        ],
+        "Offsides": [
+          "2",
+          "1"
+        ],
+        "Free kicks": [
+          "12",
+          "15"
+        ],
+        "Throw ins": [
+          "21",
+          "24"
+        ],
+        "Fouls": [
+          "17",
+          "13"
+        ]
+      }
+    },
+    {
+      "id": "zJUybOe5",
+      "date": "2025-08-23T12:00:00.000Z",
+      "round": "Round 3",
+      "homeTeam": "Persebaya Surabaya",
+      "awayTeam": "Bali United",
+      "homeScore": 5,
+      "awayScore": 2,
+      "htHome": 2,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "52%",
+          "48%"
+        ],
+        "Total shots": [
+          "11",
+          "15"
+        ],
+        "Shots on target": [
+          "8",
+          "6"
+        ],
+        "Corner kicks": [
+          "3",
+          "6"
+        ],
+        "Yellow cards": [
+          "2",
+          "3"
+        ],
+        "Shots off target": [
+          "3",
+          "9"
+        ],
+        "Offsides": [
+          "3",
+          "3"
+        ],
+        "Free kicks": [
+          "18",
+          "12"
+        ],
+        "Throw ins": [
+          "13",
+          "18"
+        ],
+        "Fouls": [
+          "12",
+          "18"
+        ]
+      }
+    },
+    {
+      "id": "6wwL16dt",
+      "date": "2025-08-23T08:30:00.000Z",
+      "round": "Round 3",
+      "homeTeam": "Persija Jakarta",
+      "awayTeam": "Malut United FC",
+      "homeScore": 1,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "50%",
+          "50%"
+        ],
+        "Total shots": [
+          "9",
+          "5"
+        ],
+        "Shots on target": [
+          "2",
+          "3"
+        ],
+        "Corner kicks": [
+          "4",
+          "4"
+        ],
+        "Yellow cards": [
+          "3",
+          "3"
+        ],
+        "Red cards": [
+          "1",
+          "0"
+        ],
+        "Shots off target": [
+          "7",
+          "2"
+        ],
+        "Offsides": [
+          "1",
+          "3"
+        ],
+        "Free kicks": [
+          "12",
+          "15"
+        ],
+        "Throw ins": [
+          "12",
+          "14"
+        ],
+        "Fouls": [
+          "15",
+          "10"
+        ]
+      }
+    },
+    {
+      "id": "viyTapRh",
+      "date": "2025-08-23T08:30:00.000Z",
+      "round": "Round 3",
+      "homeTeam": "PSBS Biak",
+      "awayTeam": "Persis Solo",
+      "homeScore": 2,
+      "awayScore": 2,
+      "htHome": 1,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "50%",
+          "50%"
+        ],
+        "Total shots": [
+          "9",
+          "10"
+        ],
+        "Shots on target": [
+          "5",
+          "5"
+        ],
+        "Corner kicks": [
+          "3",
+          "4"
+        ],
+        "Yellow cards": [
+          "2",
+          "3"
+        ],
+        "Shots off target": [
+          "4",
+          "5"
+        ],
+        "Offsides": [
+          "2",
+          "1"
+        ],
+        "Free kicks": [
+          "15",
+          "19"
+        ],
+        "Throw ins": [
+          "12",
+          "13"
+        ],
+        "Fouls": [
+          "18",
+          "16"
+        ]
+      }
+    },
+    {
+      "id": "SC7As3BO",
+      "date": "2025-08-22T12:00:00.000Z",
+      "round": "Round 3",
+      "homeTeam": "Dewa United FC",
+      "awayTeam": "Persik Kediri",
+      "homeScore": 3,
+      "awayScore": 1,
+      "htHome": 2,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "51%",
+          "49%"
+        ],
+        "Total shots": [
+          "9",
+          "9"
+        ],
+        "Shots on target": [
+          "5",
+          "3"
+        ],
+        "Corner kicks": [
+          "2",
+          "4"
+        ],
+        "Yellow cards": [
+          "2",
+          "3"
+        ],
+        "Shots off target": [
+          "4",
+          "6"
+        ],
+        "Offsides": [
+          "1",
+          "2"
+        ],
+        "Free kicks": [
+          "15",
+          "18"
+        ],
+        "Throw ins": [
+          "12",
+          "16"
+        ],
+        "Fouls": [
+          "17",
+          "14"
+        ]
+      }
+    },
+    {
+      "id": "fof3qPtC",
+      "date": "2025-08-22T08:30:00.000Z",
+      "round": "Round 3",
+      "homeTeam": "Arema FC",
+      "awayTeam": "Bhayangkara FC",
+      "homeScore": 2,
+      "awayScore": 1,
+      "htHome": 1,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "56%",
+          "44%"
+        ],
+        "Total shots": [
+          "13",
+          "8"
+        ],
+        "Shots on target": [
+          "7",
+          "2"
+        ],
+        "Corner kicks": [
+          "6",
+          "2"
+        ],
+        "Yellow cards": [
+          "1",
+          "4"
+        ],
+        "Shots off target": [
+          "6",
+          "6"
+        ],
+        "Offsides": [
+          "1",
+          "0"
+        ],
+        "Free kicks": [
+          "20",
+          "11"
+        ],
+        "Throw ins": [
+          "23",
+          "26"
+        ],
+        "Fouls": [
+          "10",
+          "19"
+        ]
+      }
+    },
+    {
+      "id": "YV5fooCa",
+      "date": "2025-08-22T08:30:00.000Z",
+      "round": "Round 3",
+      "homeTeam": "Semen Padang",
+      "awayTeam": "PSM Makassar",
+      "homeScore": 1,
+      "awayScore": 1,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "54%",
+          "46%"
+        ],
+        "Total shots": [
+          "6",
+          "3"
+        ],
+        "Shots on target": [
+          "2",
+          "1"
+        ],
+        "Corner kicks": [
+          "6",
+          "8"
+        ],
+        "Yellow cards": [
+          "2",
+          "0"
+        ],
+        "Shots off target": [
+          "4",
+          "2"
+        ],
+        "Offsides": [
+          "4",
+          "0"
+        ],
+        "Free kicks": [
+          "4",
+          "14"
+        ],
+        "Throw ins": [
+          "19",
+          "17"
+        ],
+        "Fouls": [
+          "14",
+          "4"
+        ]
+      }
+    },
+    {
+      "id": "Q52nm7sm",
+      "date": "2025-08-18T11:30:00.000Z",
+      "round": "Round 2",
+      "homeTeam": "Persijap Jepara",
+      "awayTeam": "Persib Bandung",
+      "homeScore": 2,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "50%",
+          "50%"
+        ],
+        "Total shots": [
+          "5",
+          "4"
+        ],
+        "Shots on target": [
+          "3",
+          "2"
+        ],
+        "Corner kicks": [
+          "3",
+          "4"
+        ],
+        "Yellow cards": [
+          "4",
+          "2"
+        ],
+        "Shots off target": [
+          "2",
+          "2"
+        ],
+        "Offsides": [
+          "0",
+          "5"
+        ],
+        "Free kicks": [
+          "20",
+          "15"
+        ],
+        "Throw ins": [
+          "17",
+          "15"
+        ],
+        "Fouls": [
+          "16",
+          "16"
+        ]
+      }
+    },
+    {
+      "id": "6LLFhTJP",
+      "date": "2025-08-18T08:30:00.000Z",
+      "round": "Round 2",
+      "homeTeam": "PSBS Biak",
+      "awayTeam": "Borneo FC",
+      "homeScore": 0,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "42%",
+          "58%"
+        ],
+        "Total shots": [
+          "5",
+          "10"
+        ],
+        "Shots on target": [
+          "2",
+          "5"
+        ],
+        "Corner kicks": [
+          "2",
+          "5"
+        ],
+        "Yellow cards": [
+          "3",
+          "2"
+        ],
+        "Shots off target": [
+          "3",
+          "5"
+        ],
+        "Offsides": [
+          "2",
+          "1"
+        ],
+        "Free kicks": [
+          "15",
+          "19"
+        ],
+        "Throw ins": [
+          "15",
+          "18"
+        ],
+        "Fouls": [
+          "18",
+          "15"
+        ]
+      }
+    },
+    {
+      "id": "ERYTUPRI",
+      "date": "2025-08-16T12:00:00.000Z",
+      "round": "Round 2",
+      "homeTeam": "Persis Solo",
+      "awayTeam": "Persija Jakarta",
+      "homeScore": 0,
+      "awayScore": 3,
+      "htHome": 0,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "40%",
+          "60%"
+        ],
+        "Total shots": [
+          "7",
+          "19"
+        ],
+        "Shots on target": [
+          "4",
+          "7"
+        ],
+        "Corner kicks": [
+          "3",
+          "9"
+        ],
+        "Yellow cards": [
+          "4",
+          "3"
+        ],
+        "Red cards": [
+          "0",
+          "1"
+        ],
+        "Shots off target": [
+          "3",
+          "12"
+        ],
+        "Offsides": [
+          "5",
+          "1"
+        ],
+        "Free kicks": [
+          "11",
+          "14"
+        ],
+        "Throw ins": [
+          "18",
+          "15"
+        ],
+        "Fouls": [
+          "14",
+          "11"
+        ]
+      }
+    },
+    {
+      "id": "KSuLWoc6",
+      "date": "2025-08-16T08:30:00.000Z",
+      "round": "Round 2",
+      "homeTeam": "Bhayangkara FC",
+      "awayTeam": "PSM Makassar",
+      "homeScore": 1,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "54%",
+          "46%"
+        ],
+        "Total shots": [
+          "3",
+          "4"
+        ],
+        "Shots on target": [
+          "2",
+          "2"
+        ],
+        "Corner kicks": [
+          "4",
+          "4"
+        ],
+        "Yellow cards": [
+          "3",
+          "4"
+        ],
+        "Red cards": [
+          "1",
+          "0"
+        ],
+        "Shots off target": [
+          "1",
+          "2"
+        ],
+        "Offsides": [
+          "1",
+          "1"
+        ],
+        "Free kicks": [
+          "10",
+          "13"
+        ],
+        "Throw ins": [
+          "33",
+          "25"
+        ],
+        "Fouls": [
+          "16",
+          "10"
+        ]
+      }
+    },
+    {
+      "id": "K4cYujzK",
+      "date": "2025-08-16T08:30:00.000Z",
+      "round": "Round 2",
+      "homeTeam": "Persik Kediri",
+      "awayTeam": "Madura United",
+      "homeScore": 1,
+      "awayScore": 2,
+      "htHome": 0,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "59%",
+          "41%"
+        ],
+        "Total shots": [
+          "11",
+          "6"
+        ],
+        "Shots on target": [
+          "4",
+          "2"
+        ],
+        "Corner kicks": [
+          "10",
+          "0"
+        ],
+        "Yellow cards": [
+          "1",
+          "2"
+        ],
+        "Shots off target": [
+          "7",
+          "4"
+        ],
+        "Offsides": [
+          "1",
+          "1"
+        ],
+        "Free kicks": [
+          "12",
+          "12"
+        ],
+        "Throw ins": [
+          "35",
+          "21"
+        ],
+        "Fouls": [
+          "13",
+          "12"
+        ]
+      }
+    },
+    {
+      "id": "C2xDY7Sg",
+      "date": "2025-08-16T08:30:00.000Z",
+      "round": "Round 2",
+      "homeTeam": "Persita Tangerang",
+      "awayTeam": "Persebaya Surabaya",
+      "homeScore": 0,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "51%",
+          "49%"
+        ],
+        "Total shots": [
+          "14",
+          "8"
+        ],
+        "Shots on target": [
+          "4",
+          "4"
+        ],
+        "Corner kicks": [
+          "7",
+          "2"
+        ],
+        "Yellow cards": [
+          "3",
+          "1"
+        ],
+        "Shots off target": [
+          "10",
+          "4"
+        ],
+        "Offsides": [
+          "1",
+          "2"
+        ],
+        "Free kicks": [
+          "17",
+          "16"
+        ],
+        "Throw ins": [
+          "37",
+          "20"
+        ],
+        "Fouls": [
+          "15",
+          "17"
+        ]
+      }
+    },
+    {
+      "id": "jml4zUcs",
+      "date": "2025-08-16T08:30:00.000Z",
+      "round": "Round 2",
+      "homeTeam": "PSIM Yogyakarta",
+      "awayTeam": "Arema FC",
+      "homeScore": 1,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "51%",
+          "49%"
+        ],
+        "Total shots": [
+          "19",
+          "7"
+        ],
+        "Shots on target": [
+          "7",
+          "2"
+        ],
+        "Corner kicks": [
+          "8",
+          "3"
+        ],
+        "Yellow cards": [
+          "4",
+          "3"
+        ],
+        "Red cards": [
+          "0",
+          "1"
+        ],
+        "Shots off target": [
+          "12",
+          "5"
+        ],
+        "Offsides": [
+          "4",
+          "2"
+        ],
+        "Free kicks": [
+          "13",
+          "13"
+        ],
+        "Throw ins": [
+          "21",
+          "11"
+        ],
+        "Fouls": [
+          "10",
+          "12"
+        ]
+      }
+    },
+    {
+      "id": "pjeqt8KD",
+      "date": "2025-08-15T12:00:00.000Z",
+      "round": "Round 2",
+      "homeTeam": "Malut United FC",
+      "awayTeam": "Bali United",
+      "homeScore": 3,
+      "awayScore": 3,
+      "htHome": 2,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "54%",
+          "46%"
+        ],
+        "Total shots": [
+          "6",
+          "9"
+        ],
+        "Shots on target": [
+          "6",
+          "6"
+        ],
+        "Corner kicks": [
+          "3",
+          "6"
+        ],
+        "Yellow cards": [
+          "2",
+          "3"
+        ],
+        "Shots off target": [
+          "0",
+          "3"
+        ],
+        "Offsides": [
+          "0",
+          "1"
+        ],
+        "Free kicks": [
+          "20",
+          "8"
+        ],
+        "Throw ins": [
+          "22",
+          "18"
+        ],
+        "Fouls": [
+          "8",
+          "22"
+        ]
+      }
+    },
+    {
+      "id": "CxcyrUk1",
+      "date": "2025-08-15T08:30:00.000Z",
+      "round": "Round 2",
+      "homeTeam": "Semen Padang",
+      "awayTeam": "Dewa United FC",
+      "homeScore": 2,
+      "awayScore": 0,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "44%",
+          "56%"
+        ],
+        "Total shots": [
+          "9",
+          "2"
+        ],
+        "Shots on target": [
+          "7",
+          "0"
+        ],
+        "Corner kicks": [
+          "8",
+          "5"
+        ],
+        "Yellow cards": [
+          "2",
+          "1"
+        ],
+        "Shots off target": [
+          "2",
+          "2"
+        ],
+        "Offsides": [
+          "1",
+          "2"
+        ],
+        "Free kicks": [
+          "9",
+          "16"
+        ],
+        "Throw ins": [
+          "17",
+          "14"
+        ],
+        "Fouls": [
+          "16",
+          "10"
+        ]
+      }
+    },
+    {
+      "id": "GA3SqjLl",
+      "date": "2025-08-11T08:30:00.000Z",
+      "round": "Round 1",
+      "homeTeam": "Arema FC",
+      "awayTeam": "PSBS Biak",
+      "homeScore": 4,
+      "awayScore": 1,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "58%",
+          "42%"
+        ],
+        "Total shots": [
+          "11",
+          "5"
+        ],
+        "Shots on target": [
+          "11",
+          "5"
+        ],
+        "Corner kicks": [
+          "4",
+          "1"
+        ],
+        "Yellow cards": [
+          "2",
+          "0"
+        ],
+        "Fouls": [
+          "13",
+          "16"
+        ]
+      }
+    },
+    {
+      "id": "ABye2byG",
+      "date": "2025-08-10T12:00:00.000Z",
+      "round": "Round 1",
+      "homeTeam": "Persija Jakarta",
+      "awayTeam": "Persita Tangerang",
+      "homeScore": 4,
+      "awayScore": 0,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "64%",
+          "36%"
+        ],
+        "Total shots": [
+          "16",
+          "1"
+        ],
+        "Shots on target": [
+          "10",
+          "0"
+        ],
+        "Corner kicks": [
+          "3",
+          "1"
+        ],
+        "Yellow cards": [
+          "1",
+          "0"
+        ],
+        "Shots off target": [
+          "6",
+          "1"
+        ],
+        "Fouls": [
+          "10",
+          "10"
+        ]
+      }
+    },
+    {
+      "id": "ldmn4K63",
+      "date": "2025-08-10T08:30:00.000Z",
+      "round": "Round 1",
+      "homeTeam": "Bali United",
+      "awayTeam": "Persik Kediri",
+      "homeScore": 1,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "51%",
+          "49%"
+        ],
+        "Total shots": [
+          "20",
+          "6"
+        ],
+        "Shots on target": [
+          "10",
+          "3"
+        ],
+        "Corner kicks": [
+          "12",
+          "7"
+        ],
+        "Yellow cards": [
+          "3",
+          "1"
+        ],
+        "Shots off target": [
+          "10",
+          "3"
+        ],
+        "Fouls": [
+          "15",
+          "13"
+        ]
+      }
+    },
+    {
+      "id": "ttmhrwpp",
+      "date": "2025-08-09T12:00:00.000Z",
+      "round": "Round 1",
+      "homeTeam": "Dewa United FC",
+      "awayTeam": "Malut United FC",
+      "homeScore": 1,
+      "awayScore": 3,
+      "htHome": 0,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "53%",
+          "47%"
+        ],
+        "Total shots": [
+          "12",
+          "9"
+        ],
+        "Shots on target": [
+          "8",
+          "8"
+        ],
+        "Corner kicks": [
+          "9",
+          "3"
+        ],
+        "Yellow cards": [
+          "3",
+          "2"
+        ],
+        "Shots off target": [
+          "4",
+          "1"
+        ],
+        "Fouls": [
+          "12",
+          "9"
+        ]
+      }
+    },
+    {
+      "id": "x8t1tHEd",
+      "date": "2025-08-09T12:00:00.000Z",
+      "round": "Round 1",
+      "homeTeam": "Madura United",
+      "awayTeam": "Persis Solo",
+      "homeScore": 1,
+      "awayScore": 2,
+      "htHome": 0,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "52%",
+          "48%"
+        ],
+        "Total shots": [
+          "10",
+          "6"
+        ],
+        "Shots on target": [
+          "5",
+          "4"
+        ],
+        "Corner kicks": [
+          "6",
+          "3"
+        ],
+        "Yellow cards": [
+          "2",
+          "2"
+        ],
+        "Red cards": [
+          "0",
+          "1"
+        ],
+        "Shots off target": [
+          "5",
+          "2"
+        ],
+        "Fouls": [
+          "9",
+          "16"
+        ]
+      }
+    },
+    {
+      "id": "pA1MmaMM",
+      "date": "2025-08-09T08:30:00.000Z",
+      "round": "Round 1",
+      "homeTeam": "Persib Bandung",
+      "awayTeam": "Semen Padang",
+      "homeScore": 2,
+      "awayScore": 0,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "49%",
+          "51%"
+        ],
+        "Total shots": [
+          "11",
+          "5"
+        ],
+        "Shots on target": [
+          "6",
+          "1"
+        ],
+        "Corner kicks": [
+          "3",
+          "1"
+        ],
+        "Yellow cards": [
+          "1",
+          "3"
+        ],
+        "Shots off target": [
+          "5",
+          "4"
+        ],
+        "Fouls": [
+          "24",
+          "13"
+        ]
+      }
+    },
+    {
+      "id": "2R95isNc",
+      "date": "2025-08-08T12:00:00.000Z",
+      "round": "Round 1",
+      "homeTeam": "Persebaya Surabaya",
+      "awayTeam": "PSIM Yogyakarta",
+      "homeScore": 0,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "43%",
+          "57%"
+        ],
+        "Total shots": [
+          "8",
+          "6"
+        ],
+        "Shots on target": [
+          "3",
+          "5"
+        ],
+        "Corner kicks": [
+          "4",
+          "2"
+        ],
+        "Yellow cards": [
+          "1",
+          "2"
+        ],
+        "Shots off target": [
+          "5",
+          "1"
+        ],
+        "Fouls": [
+          "17",
+          "7"
+        ]
+      }
+    },
+    {
+      "id": "lr8DkLiA",
+      "date": "2025-08-08T12:00:00.000Z",
+      "round": "Round 1",
+      "homeTeam": "PSM Makassar",
+      "awayTeam": "Persijap Jepara",
+      "homeScore": 1,
+      "awayScore": 1,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "52%",
+          "48%"
+        ],
+        "Total shots": [
+          "2",
+          "6"
+        ],
+        "Shots on target": [
+          "1",
+          "3"
+        ],
+        "Corner kicks": [
+          "2",
+          "6"
+        ],
+        "Yellow cards": [
+          "5",
+          "6"
+        ],
+        "Shots off target": [
+          "1",
+          "3"
+        ],
+        "Fouls": [
+          "16",
+          "10"
+        ]
+      }
+    },
+    {
+      "id": "MVWITwVj",
+      "date": "2025-08-08T08:30:00.000Z",
+      "round": "Round 1",
+      "homeTeam": "Borneo FC",
+      "awayTeam": "Bhayangkara FC",
+      "homeScore": 1,
+      "awayScore": 0,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Ball possession": [
+          "52%",
+          "48%"
+        ],
+        "Total shots": [
+          "5",
+          "4"
+        ],
+        "Shots on target": [
+          "2",
+          "3"
+        ],
+        "Corner kicks": [
+          "1",
+          "9"
+        ],
+        "Yellow cards": [
+          "0",
+          "2"
+        ],
+        "Shots off target": [
+          "3",
+          "1"
+        ],
+        "Fouls": [
+          "14",
+          "15"
+        ]
+      }
+    }
+  ]
+}

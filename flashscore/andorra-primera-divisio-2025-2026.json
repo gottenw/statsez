@@ -1,0 +1,1328 @@
+{
+  "league": "Primera Divisió",
+  "country": "andorra",
+  "season": "2025-2026",
+  "collectedAt": "2026-02-10T16:03:49.148Z",
+  "totalMatches": 70,
+  "matches": [
+    {
+      "id": "0tK8AYmL",
+      "date": "2026-02-08T18:00:00.000Z",
+      "round": "Round 17",
+      "homeTeam": "CE Carroi",
+      "awayTeam": "FC Rangers",
+      "homeScore": 0,
+      "awayScore": 3,
+      "htHome": 0,
+      "htAway": 2,
+      "status": "FINISHED",
+      "stats": {
+        "Yellow cards": [
+          "1",
+          "0"
+        ]
+      }
+    },
+    {
+      "id": "ILp5jDdk",
+      "date": "2026-02-08T15:00:00.000Z",
+      "round": "Round 17",
+      "homeTeam": "FC Ordino",
+      "awayTeam": "Inter Club d'Escaldes",
+      "homeScore": 0,
+      "awayScore": 2,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Yellow cards": [
+          "3",
+          "4"
+        ]
+      }
+    },
+    {
+      "id": "nZNX8LCG",
+      "date": "2026-02-08T12:15:00.000Z",
+      "round": "Round 17",
+      "homeTeam": "AC d'Escaldes",
+      "awayTeam": "FC Santa Coloma",
+      "homeScore": 2,
+      "awayScore": 3,
+      "htHome": 1,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Yellow cards": [
+          "4",
+          "5"
+        ]
+      }
+    },
+    {
+      "id": "EmvEliR1",
+      "date": "2026-02-07T18:30:00.000Z",
+      "round": "Round 17",
+      "homeTeam": "Penya Encarnada",
+      "awayTeam": "UE Santa Coloma",
+      "homeScore": 2,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Yellow cards": [
+          "3",
+          "5"
+        ]
+      }
+    },
+    {
+      "id": "fHMiCZ1B",
+      "date": "2026-02-01T15:00:00.000Z",
+      "round": "Round 16",
+      "homeTeam": "Inter Club d'Escaldes",
+      "awayTeam": "FC Santa Coloma",
+      "homeScore": 1,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Yellow cards": [
+          "2",
+          "3"
+        ]
+      }
+    },
+    {
+      "id": "MR6W4ifo",
+      "date": "2026-02-01T12:15:00.000Z",
+      "round": "Round 16",
+      "homeTeam": "Penya Encarnada",
+      "awayTeam": "CF Esperança d'Andorra",
+      "homeScore": 1,
+      "awayScore": 0,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Yellow cards": [
+          "6",
+          "5"
+        ],
+        "Red cards": [
+          "0",
+          "1"
+        ]
+      }
+    },
+    {
+      "id": "jqG0ADWN",
+      "date": "2026-02-01T10:00:00.000Z",
+      "round": "Round 16",
+      "homeTeam": "UE Santa Coloma",
+      "awayTeam": "FC Ordino",
+      "homeScore": 1,
+      "awayScore": 0,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Yellow cards": [
+          "2",
+          "4"
+        ]
+      }
+    },
+    {
+      "id": "j7UOAsr4",
+      "date": "2026-01-31T18:30:00.000Z",
+      "round": "Round 16",
+      "homeTeam": "CE Carroi",
+      "awayTeam": "AC d'Escaldes",
+      "homeScore": 1,
+      "awayScore": 4,
+      "htHome": 0,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Yellow cards": [
+          "4",
+          "3"
+        ],
+        "Red cards": [
+          "0",
+          "1"
+        ]
+      }
+    },
+    {
+      "id": "UFnJczmI",
+      "date": "2026-01-25T15:00:00.000Z",
+      "round": "Round 15",
+      "homeTeam": "FC Santa Coloma",
+      "awayTeam": "UE Santa Coloma",
+      "homeScore": 1,
+      "awayScore": 2,
+      "htHome": 0,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Yellow cards": [
+          "4",
+          "4"
+        ]
+      }
+    },
+    {
+      "id": "MkqBadI5",
+      "date": "2026-01-25T12:15:00.000Z",
+      "round": "Round 15",
+      "homeTeam": "AC d'Escaldes",
+      "awayTeam": "Inter Club d'Escaldes",
+      "homeScore": 0,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Yellow cards": [
+          "5",
+          "0"
+        ]
+      }
+    },
+    {
+      "id": "jVzSeEHU",
+      "date": "2026-01-25T10:00:00.000Z",
+      "round": "Round 15",
+      "homeTeam": "CF Esperança d'Andorra",
+      "awayTeam": "FC Ordino",
+      "homeScore": 1,
+      "awayScore": 2,
+      "htHome": 1,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Yellow cards": [
+          "3",
+          "5"
+        ]
+      }
+    },
+    {
+      "id": "tfGyGH2n",
+      "date": "2026-01-24T18:30:00.000Z",
+      "round": "Round 15",
+      "homeTeam": "FC Rangers",
+      "awayTeam": "Penya Encarnada",
+      "homeScore": 4,
+      "awayScore": 0,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Yellow cards": [
+          "4",
+          "5"
+        ]
+      }
+    },
+    {
+      "id": "j9aiqyYO",
+      "date": "2026-01-18T15:00:00.000Z",
+      "round": "Round 14",
+      "homeTeam": "FC Rangers",
+      "awayTeam": "FC Ordino",
+      "homeScore": 4,
+      "awayScore": 0,
+      "htHome": 2,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Yellow cards": [
+          "4",
+          "3"
+        ]
+      }
+    },
+    {
+      "id": "UZU13vJt",
+      "date": "2026-01-18T12:15:00.000Z",
+      "round": "Round 14",
+      "homeTeam": "CE Carroi",
+      "awayTeam": "Penya Encarnada",
+      "homeScore": 0,
+      "awayScore": 0,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Yellow cards": [
+          "3",
+          "3"
+        ]
+      }
+    },
+    {
+      "id": "rqdqoc3C",
+      "date": "2026-01-18T10:00:00.000Z",
+      "round": "Round 14",
+      "homeTeam": "CF Esperança d'Andorra",
+      "awayTeam": "FC Santa Coloma",
+      "homeScore": 0,
+      "awayScore": 2,
+      "htHome": 0,
+      "htAway": 2,
+      "status": "FINISHED",
+      "stats": {
+        "Yellow cards": [
+          "5",
+          "4"
+        ]
+      }
+    },
+    {
+      "id": "MT7zmJYa",
+      "date": "2026-01-17T18:30:00.000Z",
+      "round": "Round 14",
+      "homeTeam": "Inter Club d'Escaldes",
+      "awayTeam": "UE Santa Coloma",
+      "homeScore": 2,
+      "awayScore": 1,
+      "htHome": 2,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Yellow cards": [
+          "2",
+          "6"
+        ]
+      }
+    },
+    {
+      "id": "4hyAWclJ",
+      "date": "2025-12-21T15:00:00.000Z",
+      "round": "Round 13",
+      "homeTeam": "FC Santa Coloma",
+      "awayTeam": "FC Rangers",
+      "homeScore": 2,
+      "awayScore": 0,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Yellow cards": [
+          "2",
+          "5"
+        ],
+        "Red cards": [
+          "0",
+          "1"
+        ]
+      }
+    },
+    {
+      "id": "8Qs1YJJ6",
+      "date": "2025-12-21T12:15:00.000Z",
+      "round": "Round 13",
+      "homeTeam": "Inter Club d'Escaldes",
+      "awayTeam": "CF Esperança d'Andorra",
+      "homeScore": 2,
+      "awayScore": 0,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Yellow cards": [
+          "3",
+          "1"
+        ]
+      }
+    },
+    {
+      "id": "zaUgztkf",
+      "date": "2025-12-21T10:00:00.000Z",
+      "round": "Round 13",
+      "homeTeam": "AC d'Escaldes",
+      "awayTeam": "UE Santa Coloma",
+      "homeScore": 1,
+      "awayScore": 2,
+      "htHome": 0,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Yellow cards": [
+          "1",
+          "5"
+        ]
+      }
+    },
+    {
+      "id": "dnOef1tQ",
+      "date": "2025-12-20T18:30:00.000Z",
+      "round": "Round 13",
+      "homeTeam": "CE Carroi",
+      "awayTeam": "FC Ordino",
+      "homeScore": 3,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "ttJYR2vp",
+      "date": "2025-12-17T13:30:00.000Z",
+      "round": "Round 4",
+      "homeTeam": "Inter Club d'Escaldes",
+      "awayTeam": "Penya Encarnada",
+      "homeScore": 4,
+      "awayScore": 0,
+      "htHome": 2,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Yellow cards": [
+          "2",
+          "2"
+        ]
+      }
+    },
+    {
+      "id": "l6MtQt9d",
+      "date": "2025-12-17T10:00:00.000Z",
+      "round": "Round 4",
+      "homeTeam": "CE Carroi",
+      "awayTeam": "FC Santa Coloma",
+      "homeScore": 2,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Yellow cards": [
+          "5",
+          "0"
+        ],
+        "Red cards": [
+          "0",
+          "1"
+        ]
+      }
+    },
+    {
+      "id": "Eqtox2Ks",
+      "date": "2025-12-14T18:00:00.000Z",
+      "round": "Round 12",
+      "homeTeam": "AC d'Escaldes",
+      "awayTeam": "Penya Encarnada",
+      "homeScore": 2,
+      "awayScore": 0,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Yellow cards": [
+          "2",
+          "3"
+        ]
+      }
+    },
+    {
+      "id": "hxWQW6r2",
+      "date": "2025-12-14T15:00:00.000Z",
+      "round": "Round 12",
+      "homeTeam": "FC Santa Coloma",
+      "awayTeam": "CE Carroi",
+      "homeScore": 7,
+      "awayScore": 0,
+      "htHome": 3,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Yellow cards": [
+          "0",
+          "3"
+        ]
+      }
+    },
+    {
+      "id": "27invkjS",
+      "date": "2025-12-14T12:15:00.000Z",
+      "round": "Round 12",
+      "homeTeam": "UE Santa Coloma",
+      "awayTeam": "CF Esperança d'Andorra",
+      "homeScore": 7,
+      "awayScore": 0,
+      "htHome": 3,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Yellow cards": [
+          "0",
+          "3"
+        ]
+      }
+    },
+    {
+      "id": "KOXIYSDk",
+      "date": "2025-12-14T10:00:00.000Z",
+      "round": "Round 12",
+      "homeTeam": "FC Rangers",
+      "awayTeam": "Inter Club d'Escaldes",
+      "homeScore": 0,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Yellow cards": [
+          "5",
+          "4"
+        ]
+      }
+    },
+    {
+      "id": "xS2ynOVF",
+      "date": "2025-12-10T14:00:00.000Z",
+      "round": "Round 4",
+      "homeTeam": "AC d'Escaldes",
+      "awayTeam": "CF Esperança d'Andorra",
+      "homeScore": 3,
+      "awayScore": 0,
+      "htHome": 2,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Yellow cards": [
+          "1",
+          "0"
+        ]
+      }
+    },
+    {
+      "id": "U1aTmp13",
+      "date": "2025-12-10T10:00:00.000Z",
+      "round": "Round 4",
+      "homeTeam": "UE Santa Coloma",
+      "awayTeam": "FC Rangers",
+      "homeScore": 1,
+      "awayScore": 0,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Yellow cards": [
+          "5",
+          "7"
+        ],
+        "Red cards": [
+          "0",
+          "1"
+        ]
+      }
+    },
+    {
+      "id": "nJirMkUq",
+      "date": "2025-12-07T15:00:00.000Z",
+      "round": "Round 11",
+      "homeTeam": "UE Santa Coloma",
+      "awayTeam": "FC Rangers",
+      "homeScore": 2,
+      "awayScore": 1,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Yellow cards": [
+          "4",
+          "8"
+        ]
+      }
+    },
+    {
+      "id": "jm6CRB6M",
+      "date": "2025-12-07T12:15:00.000Z",
+      "round": "Round 11",
+      "homeTeam": "CF Esperança d'Andorra",
+      "awayTeam": "AC d'Escaldes",
+      "homeScore": 0,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Yellow cards": [
+          "4",
+          "6"
+        ]
+      }
+    },
+    {
+      "id": "fslvtBLF",
+      "date": "2025-12-07T10:00:00.000Z",
+      "round": "Round 11",
+      "homeTeam": "FC Ordino",
+      "awayTeam": "Penya Encarnada",
+      "homeScore": 2,
+      "awayScore": 4,
+      "htHome": 0,
+      "htAway": 2,
+      "status": "FINISHED",
+      "stats": {
+        "Yellow cards": [
+          "4",
+          "5"
+        ],
+        "Red cards": [
+          "1",
+          "0"
+        ]
+      }
+    },
+    {
+      "id": "6L7qKTbd",
+      "date": "2025-12-06T18:00:00.000Z",
+      "round": "Round 11",
+      "homeTeam": "Inter Club d'Escaldes",
+      "awayTeam": "CE Carroi",
+      "homeScore": 2,
+      "awayScore": 0,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Yellow cards": [
+          "3",
+          "3"
+        ],
+        "Red cards": [
+          "1",
+          "0"
+        ]
+      }
+    },
+    {
+      "id": "fLC3TXyA",
+      "date": "2025-11-30T18:00:00.000Z",
+      "round": "Round 10",
+      "homeTeam": "AC d'Escaldes",
+      "awayTeam": "FC Ordino",
+      "homeScore": 1,
+      "awayScore": 0,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Yellow cards": [
+          "4",
+          "7"
+        ],
+        "Red cards": [
+          "1",
+          "0"
+        ]
+      }
+    },
+    {
+      "id": "ne9eVg7c",
+      "date": "2025-11-30T15:00:00.000Z",
+      "round": "Round 10",
+      "homeTeam": "Penya Encarnada",
+      "awayTeam": "FC Santa Coloma",
+      "homeScore": 0,
+      "awayScore": 6,
+      "htHome": 0,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Yellow cards": [
+          "4",
+          "2"
+        ]
+      }
+    },
+    {
+      "id": "jZQwDCiT",
+      "date": "2025-11-30T12:15:00.000Z",
+      "round": "Round 10",
+      "homeTeam": "UE Santa Coloma",
+      "awayTeam": "CE Carroi",
+      "homeScore": 0,
+      "awayScore": 0,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Yellow cards": [
+          "4",
+          "3"
+        ]
+      }
+    },
+    {
+      "id": "f7XUEYMG",
+      "date": "2025-11-30T10:00:00.000Z",
+      "round": "Round 10",
+      "homeTeam": "FC Rangers",
+      "awayTeam": "CF Esperança d'Andorra",
+      "homeScore": 3,
+      "awayScore": 1,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Yellow cards": [
+          "5",
+          "3"
+        ]
+      }
+    },
+    {
+      "id": "jit0nXPb",
+      "date": "2025-11-27T10:00:00.000Z",
+      "round": "Round 3",
+      "homeTeam": "FC Ordino",
+      "awayTeam": "AC d'Escaldes",
+      "homeScore": 0,
+      "awayScore": 0,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Yellow cards": [
+          "5",
+          "5"
+        ]
+      }
+    },
+    {
+      "id": "fPnilgen",
+      "date": "2025-11-26T16:00:00.000Z",
+      "round": "Round 3",
+      "homeTeam": "CF Esperança d'Andorra",
+      "awayTeam": "UE Santa Coloma",
+      "homeScore": 0,
+      "awayScore": 4,
+      "htHome": 0,
+      "htAway": 2,
+      "status": "FINISHED",
+      "stats": {
+        "Yellow cards": [
+          "2",
+          "3"
+        ]
+      }
+    },
+    {
+      "id": "roJYVBuI",
+      "date": "2025-11-26T13:30:00.000Z",
+      "round": "Round 3",
+      "homeTeam": "FC Santa Coloma",
+      "awayTeam": "Inter Club d'Escaldes",
+      "homeScore": 1,
+      "awayScore": 3,
+      "htHome": 1,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Yellow cards": [
+          "5",
+          "4"
+        ]
+      }
+    },
+    {
+      "id": "MgZMGfh4",
+      "date": "2025-11-23T18:00:00.000Z",
+      "round": "Round 9",
+      "homeTeam": "FC Santa Coloma",
+      "awayTeam": "FC Ordino",
+      "homeScore": 3,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Yellow cards": [
+          "3",
+          "5"
+        ],
+        "Red cards": [
+          "0",
+          "1"
+        ]
+      }
+    },
+    {
+      "id": "zcHe0Z7N",
+      "date": "2025-11-23T15:00:00.000Z",
+      "round": "Round 9",
+      "homeTeam": "Inter Club d'Escaldes",
+      "awayTeam": "AC d'Escaldes",
+      "homeScore": 1,
+      "awayScore": 0,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Yellow cards": [
+          "6",
+          "4"
+        ]
+      }
+    },
+    {
+      "id": "QRuEIGNi",
+      "date": "2025-11-23T12:15:00.000Z",
+      "round": "Round 9",
+      "homeTeam": "Penya Encarnada",
+      "awayTeam": "FC Rangers",
+      "homeScore": 1,
+      "awayScore": 3,
+      "htHome": 1,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Yellow cards": [
+          "3",
+          "2"
+        ]
+      }
+    },
+    {
+      "id": "SWDm2ewB",
+      "date": "2025-11-23T10:00:00.000Z",
+      "round": "Round 9",
+      "homeTeam": "CE Carroi",
+      "awayTeam": "UE Santa Coloma",
+      "homeScore": 0,
+      "awayScore": 5,
+      "htHome": 0,
+      "htAway": 3,
+      "status": "FINISHED",
+      "stats": {
+        "Yellow cards": [
+          "1",
+          "0"
+        ]
+      }
+    },
+    {
+      "id": "88O9yGBt",
+      "date": "2025-11-16T10:00:00.000Z",
+      "round": "Round 2",
+      "homeTeam": "CE Carroi",
+      "awayTeam": "CF Esperança d'Andorra",
+      "homeScore": 2,
+      "awayScore": 1,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Yellow cards": [
+          "4",
+          "5"
+        ]
+      }
+    },
+    {
+      "id": "W4Kv4H8b",
+      "date": "2025-11-09T18:00:00.000Z",
+      "round": "Round 8",
+      "homeTeam": "FC Rangers",
+      "awayTeam": "FC Santa Coloma",
+      "homeScore": 0,
+      "awayScore": 0,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Yellow cards": [
+          "7",
+          "5"
+        ]
+      }
+    },
+    {
+      "id": "biMW5wvn",
+      "date": "2025-11-09T15:00:00.000Z",
+      "round": "Round 8",
+      "homeTeam": "CF Esperança d'Andorra",
+      "awayTeam": "Penya Encarnada",
+      "homeScore": 0,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Yellow cards": [
+          "5",
+          "4"
+        ]
+      }
+    },
+    {
+      "id": "vDCC0r26",
+      "date": "2025-11-09T12:15:00.000Z",
+      "round": "Round 8",
+      "homeTeam": "UE Santa Coloma",
+      "awayTeam": "Inter Club d'Escaldes",
+      "homeScore": 4,
+      "awayScore": 1,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Yellow cards": [
+          "6",
+          "1"
+        ],
+        "Red cards": [
+          "0",
+          "1"
+        ]
+      }
+    },
+    {
+      "id": "IcO324Xg",
+      "date": "2025-11-09T10:00:00.000Z",
+      "round": "Round 8",
+      "homeTeam": "FC Ordino",
+      "awayTeam": "CE Carroi",
+      "homeScore": 3,
+      "awayScore": 1,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Yellow cards": [
+          "5",
+          "2"
+        ]
+      }
+    },
+    {
+      "id": "z1iqLfRa",
+      "date": "2025-11-06T13:30:00.000Z",
+      "round": "Round 2",
+      "homeTeam": "Penya Encarnada",
+      "awayTeam": "FC Ordino",
+      "homeScore": 3,
+      "awayScore": 4,
+      "htHome": 0,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Yellow cards": [
+          "3",
+          "3"
+        ]
+      }
+    },
+    {
+      "id": "tMMHZgtg",
+      "date": "2025-11-05T13:30:00.000Z",
+      "round": "Round 2",
+      "homeTeam": "UE Santa Coloma",
+      "awayTeam": "AC d'Escaldes",
+      "homeScore": 2,
+      "awayScore": 0,
+      "htHome": 2,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Yellow cards": [
+          "6",
+          "4"
+        ],
+        "Red cards": [
+          "1",
+          "0"
+        ]
+      }
+    },
+    {
+      "id": "t22X9nuK",
+      "date": "2025-11-02T18:00:00.000Z",
+      "round": "Round 7",
+      "homeTeam": "FC Santa Coloma",
+      "awayTeam": "CF Esperança d'Andorra",
+      "homeScore": 0,
+      "awayScore": 0,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Yellow cards": [
+          "3",
+          "7"
+        ],
+        "Red cards": [
+          "0",
+          "1"
+        ]
+      }
+    },
+    {
+      "id": "htMxl5I0",
+      "date": "2025-11-02T15:00:00.000Z",
+      "round": "Round 7",
+      "homeTeam": "FC Pas de la Casa",
+      "awayTeam": "UE Santa Coloma",
+      "homeScore": 0,
+      "awayScore": 3,
+      "htHome": 0,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Yellow cards": [
+          "1",
+          "0"
+        ]
+      }
+    },
+    {
+      "id": "AXKe4Q2s",
+      "date": "2025-11-02T12:15:00.000Z",
+      "round": "Round 7",
+      "homeTeam": "FC Ordino",
+      "awayTeam": "FC Rangers",
+      "homeScore": 0,
+      "awayScore": 2,
+      "htHome": 0,
+      "htAway": 2,
+      "status": "FINISHED",
+      "stats": {
+        "Yellow cards": [
+          "4",
+          "4"
+        ]
+      }
+    },
+    {
+      "id": "pGIUkRml",
+      "date": "2025-11-02T10:00:00.000Z",
+      "round": "Round 7",
+      "homeTeam": "Inter Club d'Escaldes",
+      "awayTeam": "CE Carroi",
+      "homeScore": 3,
+      "awayScore": 1,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Yellow cards": [
+          "4",
+          "6"
+        ]
+      }
+    },
+    {
+      "id": "l8FonqmD",
+      "date": "2025-11-01T18:30:00.000Z",
+      "round": "Round 7",
+      "homeTeam": "Penya Encarnada",
+      "awayTeam": "AC d'Escaldes",
+      "homeScore": 0,
+      "awayScore": 2,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Yellow cards": [
+          "5",
+          "3"
+        ],
+        "Red cards": [
+          "1",
+          "0"
+        ]
+      }
+    },
+    {
+      "id": "UsgaHCQO",
+      "date": "2025-10-29T13:30:00.000Z",
+      "round": "Round 2",
+      "homeTeam": "Inter Club d'Escaldes",
+      "awayTeam": "FC Rangers",
+      "homeScore": 1,
+      "awayScore": 1,
+      "htHome": 1,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Yellow cards": [
+          "3",
+          "1"
+        ]
+      }
+    },
+    {
+      "id": "8j74SxZP",
+      "date": "2025-10-29T10:00:00.000Z",
+      "round": "Round 1",
+      "homeTeam": "AC d'Escaldes",
+      "awayTeam": "CE Carroi",
+      "homeScore": 3,
+      "awayScore": 0,
+      "htHome": 2,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Yellow cards": [
+          "1",
+          "1"
+        ]
+      }
+    },
+    {
+      "id": "xA95kcx8",
+      "date": "2025-10-26T18:00:00.000Z",
+      "round": "Round 6",
+      "homeTeam": "UE Santa Coloma",
+      "awayTeam": "Penya Encarnada",
+      "homeScore": 1,
+      "awayScore": 1,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Yellow cards": [
+          "4",
+          "6"
+        ]
+      }
+    },
+    {
+      "id": "0rsbemQQ",
+      "date": "2025-10-26T15:00:00.000Z",
+      "round": "Round 6",
+      "homeTeam": "CF Esperança d'Andorra",
+      "awayTeam": "FC Rangers",
+      "homeScore": 0,
+      "awayScore": 2,
+      "htHome": 0,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Yellow cards": [
+          "3",
+          "2"
+        ]
+      }
+    },
+    {
+      "id": "4dBciJ7e",
+      "date": "2025-10-26T12:15:00.000Z",
+      "round": "Round 6",
+      "homeTeam": "CE Carroi",
+      "awayTeam": "FC Pas de la Casa",
+      "homeScore": 0,
+      "awayScore": 0,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Yellow cards": [
+          "2",
+          "2"
+        ]
+      }
+    },
+    {
+      "id": "fovjc9eE",
+      "date": "2025-10-26T10:00:00.000Z",
+      "round": "Round 6",
+      "homeTeam": "AC d'Escaldes",
+      "awayTeam": "FC Santa Coloma",
+      "homeScore": 2,
+      "awayScore": 2,
+      "htHome": 1,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Yellow cards": [
+          "4",
+          "2"
+        ],
+        "Red cards": [
+          "1",
+          "0"
+        ]
+      }
+    },
+    {
+      "id": "8UHlguwq",
+      "date": "2025-10-25T15:00:00.000Z",
+      "round": "Round 6",
+      "homeTeam": "Inter Club d'Escaldes",
+      "awayTeam": "FC Ordino",
+      "homeScore": 2,
+      "awayScore": 1,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Yellow cards": [
+          "4",
+          "7"
+        ]
+      }
+    },
+    {
+      "id": "EXN18Hsf",
+      "date": "2025-10-22T12:30:00.000Z",
+      "round": "Round 1",
+      "homeTeam": "FC Santa Coloma",
+      "awayTeam": "Penya Encarnada",
+      "homeScore": 1,
+      "awayScore": 0,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Yellow cards": [
+          "1",
+          "5"
+        ]
+      }
+    },
+    {
+      "id": "SzlyNGdm",
+      "date": "2025-10-22T09:00:00.000Z",
+      "round": "Round 1",
+      "homeTeam": "FC Ordino",
+      "awayTeam": "UE Santa Coloma",
+      "homeScore": 0,
+      "awayScore": 2,
+      "htHome": 0,
+      "htAway": 2,
+      "status": "FINISHED",
+      "stats": {
+        "Yellow cards": [
+          "4",
+          "3"
+        ],
+        "Red cards": [
+          "1",
+          "0"
+        ]
+      }
+    },
+    {
+      "id": "beWIb1FL",
+      "date": "2025-10-19T14:00:00.000Z",
+      "round": "Round 5",
+      "homeTeam": "FC Ordino",
+      "awayTeam": "CF Esperança d'Andorra",
+      "homeScore": 1,
+      "awayScore": 1,
+      "htHome": 1,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Yellow cards": [
+          "1",
+          "2"
+        ]
+      }
+    },
+    {
+      "id": "AZkOxKh2",
+      "date": "2025-10-19T11:15:00.000Z",
+      "round": "Round 5",
+      "homeTeam": "FC Santa Coloma",
+      "awayTeam": "UE Santa Coloma",
+      "homeScore": 1,
+      "awayScore": 0,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Yellow cards": [
+          "4",
+          "1"
+        ]
+      }
+    },
+    {
+      "id": "E7dFvtOk",
+      "date": "2025-10-19T09:00:00.000Z",
+      "round": "Round 5",
+      "homeTeam": "Penya Encarnada",
+      "awayTeam": "CE Carroi",
+      "homeScore": 2,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Yellow cards": [
+          "1",
+          "5"
+        ]
+      }
+    },
+    {
+      "id": "xtrA0Np9",
+      "date": "2025-10-18T17:30:00.000Z",
+      "round": "Round 5",
+      "homeTeam": "FC Rangers",
+      "awayTeam": "AC d'Escaldes",
+      "homeScore": 2,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Yellow cards": [
+          "2",
+          "3"
+        ]
+      }
+    },
+    {
+      "id": "407sUkAU",
+      "date": "2025-10-12T08:00:00.000Z",
+      "round": "Round 3",
+      "homeTeam": "FC Rangers",
+      "awayTeam": "CE Carroi",
+      "homeScore": 3,
+      "awayScore": 0,
+      "htHome": 2,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Yellow cards": [
+          "1",
+          "2"
+        ]
+      }
+    },
+    {
+      "id": "GdKI4ZtJ",
+      "date": "2025-10-11T17:30:00.000Z",
+      "round": "Round 1",
+      "homeTeam": "CF Esperança d'Andorra",
+      "awayTeam": "Inter Club d'Escaldes",
+      "homeScore": 1,
+      "awayScore": 2,
+      "htHome": 1,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Yellow cards": [
+          "5",
+          "2"
+        ],
+        "Red cards": [
+          "0",
+          "1"
+        ]
+      }
+    }
+  ]
+}

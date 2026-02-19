@@ -1,0 +1,218 @@
+{
+  "info": {
+    "name": "API Gateway de Esportes",
+    "description": "Coleção de testes da API Gateway de Esportes",
+    "schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+  },
+  "item": [
+    {
+      "name": "🌐 Públicos",
+      "item": [
+        {
+          "name": "Health Check",
+          "request": {
+            "method": "GET",
+            "header": [],
+            "url": "{{baseUrl}}/health"
+          }
+        },
+        {
+          "name": "Health Full",
+          "request": {
+            "method": "GET",
+            "header": [],
+            "url": "{{baseUrl}}/health/full"
+          }
+        },
+        {
+          "name": "Info da API",
+          "request": {
+            "method": "GET",
+            "header": [],
+            "url": "{{baseUrl}}/"
+          }
+        }
+      ]
+    },
+    {
+      "name": "⚽ Futebol",
+      "item": [
+        {
+          "name": "Listar Ligas",
+          "request": {
+            "method": "GET",
+            "header": [
+              { "key": "x-api-key", "value": "{{apiKey}}" }
+            ],
+            "url": "{{baseUrl}}/v1/football/leagues"
+          }
+        },
+        {
+          "name": "Filtrar Ligas por País",
+          "request": {
+            "method": "GET",
+            "header": [
+              { "key": "x-api-key", "value": "{{apiKey}}" }
+            ],
+            "url": {
+              "raw": "{{baseUrl}}/v1/football/leagues?country=england",
+              "query": [{ "key": "country", "value": "england" }]
+            }
+          }
+        },
+        {
+          "name": "Jogos da Liga",
+          "request": {
+            "method": "GET",
+            "header": [
+              { "key": "x-api-key", "value": "{{apiKey}}" }
+            ],
+            "url": {
+              "raw": "{{baseUrl}}/v1/football/fixtures?league=england-premier-league-2025-2026",
+              "query": [{ "key": "league", "value": "england-premier-league-2025-2026" }]
+            }
+          }
+        },
+        {
+          "name": "Jogos por Time",
+          "request": {
+            "method": "GET",
+            "header": [
+              { "key": "x-api-key", "value": "{{apiKey}}" }
+            ],
+            "url": {
+              "raw": "{{baseUrl}}/v1/football/fixtures?team=Liverpool",
+              "query": [{ "key": "team", "value": "Liverpool" }]
+            }
+          }
+        },
+        {
+          "name": "Detalhes do Jogo",
+          "request": {
+            "method": "GET",
+            "header": [
+              { "key": "x-api-key", "value": "{{apiKey}}" }
+            ],
+            "url": "{{baseUrl}}/v1/football/fixtures/lbnqyVFq"
+          }
+        },
+        {
+          "name": "Classificação",
+          "request": {
+            "method": "GET",
+            "header": [
+              { "key": "x-api-key", "value": "{{apiKey}}" }
+            ],
+            "url": {
+              "raw": "{{baseUrl}}/v1/football/standings?league=england-premier-league-2025-2026",
+              "query": [{ "key": "league", "value": "england-premier-league-2025-2026" }]
+            }
+          }
+        },
+        {
+          "name": "Listar Times",
+          "request": {
+            "method": "GET",
+            "header": [
+              { "key": "x-api-key", "value": "{{apiKey}}" }
+            ],
+            "url": "{{baseUrl}}/v1/football/teams"
+          }
+        },
+        {
+          "name": "Buscar Times",
+          "request": {
+            "method": "GET",
+            "header": [
+              { "key": "x-api-key", "value": "{{apiKey}}" }
+            ],
+            "url": {
+              "raw": "{{baseUrl}}/v1/football/teams?search=Arsenal",
+              "query": [{ "key": "search", "value": "Arsenal" }]
+            }
+          }
+        },
+        {
+          "name": "Jogos do Time",
+          "request": {
+            "method": "GET",
+            "header": [
+              { "key": "x-api-key", "value": "{{apiKey}}" }
+            ],
+            "url": "{{baseUrl}}/v1/football/teams/Arsenal/fixtures"
+          }
+        },
+        {
+          "name": "Estatísticas do Jogo",
+          "request": {
+            "method": "GET",
+            "header": [
+              { "key": "x-api-key", "value": "{{apiKey}}" }
+            ],
+            "url": "{{baseUrl}}/v1/football/fixtures/lbnqyVFq/stats"
+          }
+        },
+        {
+          "name": "Estatísticas da Liga",
+          "request": {
+            "method": "GET",
+            "header": [
+              { "key": "x-api-key", "value": "{{apiKey}}" }
+            ],
+            "url": "{{baseUrl}}/v1/football/leagues/england-premier-league-2025-2026/stats"
+          }
+        }
+      ]
+    },
+    {
+      "name": "❌ Testes de Erro",
+      "item": [
+        {
+          "name": "Sem API Key",
+          "request": {
+            "method": "GET",
+            "header": [],
+            "url": "{{baseUrl}}/v1/football/leagues"
+          }
+        },
+        {
+          "name": "API Key Inválida",
+          "request": {
+            "method": "GET",
+            "header": [
+              { "key": "x-api-key", "value": "invalida" }
+            ],
+            "url": "{{baseUrl}}/v1/football/leagues"
+          }
+        },
+        {
+          "name": "Esporte Não Permitido",
+          "request": {
+            "method": "GET",
+            "header": [
+              { "key": "x-api-key", "value": "{{apiKey}}" }
+            ],
+            "url": "{{baseUrl}}/v1/basketball/leagues"
+          }
+        },
+        {
+          "name": "Liga Não Encontrada",
+          "request": {
+            "method": "GET",
+            "header": [
+              { "key": "x-api-key", "value": "{{apiKey}}" }
+            ],
+            "url": {
+              "raw": "{{baseUrl}}/v1/football/standings?league=inexistente",
+              "query": [{ "key": "league", "value": "inexistente" }]
+            }
+          }
+        }
+      ]
+    }
+  ],
+  "variable": [
+    { "key": "baseUrl", "value": "http://localhost:3001" },
+    { "key": "apiKey", "value": "br_football_teste123456789" }
+  ]
+}

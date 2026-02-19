@@ -1,0 +1,2984 @@
+{
+  "league": "Segunda RFEF - Group 2",
+  "country": "spain",
+  "season": "2025-2026",
+  "collectedAt": "2026-02-09T23:52:53.952Z",
+  "totalMatches": 206,
+  "matches": [
+    {
+      "id": "tvETqL8E",
+      "date": "2026-02-08T16:00:00.000Z",
+      "round": "Round 22",
+      "homeTeam": "Alfaro",
+      "awayTeam": "SD Beasain",
+      "homeScore": 1,
+      "awayScore": 3,
+      "htHome": 1,
+      "htAway": 2,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "KYSYNwne",
+      "date": "2026-02-08T16:00:00.000Z",
+      "round": "Round 22",
+      "homeTeam": "Tudelano",
+      "awayTeam": "UD Logrones",
+      "homeScore": 1,
+      "awayScore": 1,
+      "htHome": 1,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Yellow cards": [
+          "1",
+          "0"
+        ],
+        "Red cards": [
+          "1",
+          "0"
+        ]
+      }
+    },
+    {
+      "id": "t2dGzHV0",
+      "date": "2026-02-08T11:00:00.000Z",
+      "round": "Round 22",
+      "homeTeam": "Ejea",
+      "awayTeam": "CD Ebro",
+      "homeScore": 0,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "Yyg8xw1l",
+      "date": "2026-02-08T11:00:00.000Z",
+      "round": "Round 22",
+      "homeTeam": "Naxara",
+      "awayTeam": "Amorebieta",
+      "homeScore": 2,
+      "awayScore": 2,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Yellow cards": [
+          "1",
+          "0"
+        ],
+        "Red cards": [
+          "1",
+          "0"
+        ]
+      }
+    },
+    {
+      "id": "EiCyrawR",
+      "date": "2026-02-08T11:00:00.000Z",
+      "round": "Round 22",
+      "homeTeam": "Real Zaragoza B",
+      "awayTeam": "Eibar B",
+      "homeScore": 0,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "bJvQPaHr",
+      "date": "2026-02-08T10:30:00.000Z",
+      "round": "Round 22",
+      "homeTeam": "Basconia",
+      "awayTeam": "Utebo",
+      "homeScore": 4,
+      "awayScore": 0,
+      "htHome": 3,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "8YXhXsP8",
+      "date": "2026-02-08T10:00:00.000Z",
+      "round": "Round 22",
+      "homeTeam": "Alaves B",
+      "awayTeam": "Mutilvera",
+      "homeScore": 2,
+      "awayScore": 0,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "SzlfVLgL",
+      "date": "2026-02-07T17:45:00.000Z",
+      "round": "Round 22",
+      "homeTeam": "Gernika",
+      "awayTeam": "Real Unión",
+      "homeScore": 2,
+      "awayScore": 3,
+      "htHome": 0,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Red cards": [
+          "0",
+          "1"
+        ]
+      }
+    },
+    {
+      "id": "SbWtMHG7",
+      "date": "2026-02-07T17:00:00.000Z",
+      "round": "Round 22",
+      "homeTeam": "SD Logrones",
+      "awayTeam": "Sestao River",
+      "homeScore": 0,
+      "awayScore": 0,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Yellow cards": [
+          "0",
+          "1"
+        ],
+        "Red cards": [
+          "0",
+          "1"
+        ]
+      }
+    },
+    {
+      "id": "z7fCK4u3",
+      "date": "2026-02-01T16:00:00.000Z",
+      "round": "Round 21",
+      "homeTeam": "UD Logrones",
+      "awayTeam": "Basconia",
+      "homeScore": 2,
+      "awayScore": 2,
+      "htHome": 2,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Red cards": [
+          "1",
+          "0"
+        ]
+      }
+    },
+    {
+      "id": "KCibB02k",
+      "date": "2026-02-01T16:00:00.000Z",
+      "round": "Round 21",
+      "homeTeam": "Utebo",
+      "awayTeam": "Naxara",
+      "homeScore": 1,
+      "awayScore": 0,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Yellow cards": [
+          "0",
+          "1"
+        ],
+        "Red cards": [
+          "0",
+          "1"
+        ]
+      }
+    },
+    {
+      "id": "hpdqHVYA",
+      "date": "2026-01-31T17:30:00.000Z",
+      "round": "Round 21",
+      "homeTeam": "Gernika",
+      "awayTeam": "SD Logrones",
+      "homeScore": 2,
+      "awayScore": 0,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "Gvo79vX1",
+      "date": "2026-01-31T17:30:00.000Z",
+      "round": "Round 21",
+      "homeTeam": "Mutilvera",
+      "awayTeam": "Ejea",
+      "homeScore": 1,
+      "awayScore": 3,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "lU0SGMvS",
+      "date": "2026-01-31T17:30:00.000Z",
+      "round": "Round 21",
+      "homeTeam": "Sestao River",
+      "awayTeam": "Alfaro",
+      "homeScore": 1,
+      "awayScore": 0,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "KbCPd1md",
+      "date": "2026-01-31T17:00:00.000Z",
+      "round": "Round 21",
+      "homeTeam": "Real Unión",
+      "awayTeam": "Alaves B",
+      "homeScore": 0,
+      "awayScore": 0,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "SECJIrAF",
+      "date": "2026-01-31T15:30:00.000Z",
+      "round": "Round 21",
+      "homeTeam": "SD Beasain",
+      "awayTeam": "Amorebieta",
+      "homeScore": 0,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "noEHbNIq",
+      "date": "2026-01-31T15:00:00.000Z",
+      "round": "Round 21",
+      "homeTeam": "CD Ebro",
+      "awayTeam": "Real Zaragoza B",
+      "homeScore": 1,
+      "awayScore": 1,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "6TcyJi4b",
+      "date": "2026-01-31T15:00:00.000Z",
+      "round": "Round 21",
+      "homeTeam": "Eibar B",
+      "awayTeam": "Tudelano",
+      "homeScore": 1,
+      "awayScore": 0,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "WAqg6EKh",
+      "date": "2026-01-25T16:00:00.000Z",
+      "round": "Round 20",
+      "homeTeam": "Alfaro",
+      "awayTeam": "Gernika",
+      "homeScore": 0,
+      "awayScore": 2,
+      "htHome": 0,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "4QfU76v0",
+      "date": "2026-01-25T11:00:00.000Z",
+      "round": "Round 20",
+      "homeTeam": "Alaves B",
+      "awayTeam": "Eibar B",
+      "homeScore": 2,
+      "awayScore": 0,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Yellow cards": [
+          "0",
+          "1"
+        ],
+        "Red cards": [
+          "0",
+          "1"
+        ]
+      }
+    },
+    {
+      "id": "fkUI0AlU",
+      "date": "2026-01-25T11:00:00.000Z",
+      "round": "Round 20",
+      "homeTeam": "Ejea",
+      "awayTeam": "SD Beasain",
+      "homeScore": 1,
+      "awayScore": 1,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Yellow cards": [
+          "0",
+          "1"
+        ],
+        "Red cards": [
+          "0",
+          "1"
+        ]
+      }
+    },
+    {
+      "id": "Q9x24hk5",
+      "date": "2026-01-25T11:00:00.000Z",
+      "round": "Round 20",
+      "homeTeam": "Naxara",
+      "awayTeam": "UD Logrones",
+      "homeScore": 2,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Red cards": [
+          "0",
+          "1"
+        ]
+      }
+    },
+    {
+      "id": "pE9SKDZo",
+      "date": "2026-01-25T11:00:00.000Z",
+      "round": "Round 20",
+      "homeTeam": "Real Zaragoza B",
+      "awayTeam": "Mutilvera",
+      "homeScore": 3,
+      "awayScore": 2,
+      "htHome": 0,
+      "htAway": 2,
+      "status": "FINISHED",
+      "stats": {
+        "Red cards": [
+          "0",
+          "1"
+        ]
+      }
+    },
+    {
+      "id": "AwQU5p9C",
+      "date": "2026-01-25T10:30:00.000Z",
+      "round": "Round 20",
+      "homeTeam": "Basconia",
+      "awayTeam": "CD Ebro",
+      "homeScore": 1,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "Opto8zjt",
+      "date": "2026-01-24T18:00:00.000Z",
+      "round": "Round 20",
+      "homeTeam": "SD Logrones",
+      "awayTeam": "Real Unión",
+      "homeScore": 0,
+      "awayScore": 0,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "bNzA2WJH",
+      "date": "2026-01-24T16:30:00.000Z",
+      "round": "Round 20",
+      "homeTeam": "Tudelano",
+      "awayTeam": "Sestao River",
+      "homeScore": 5,
+      "awayScore": 1,
+      "htHome": 4,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "I3Tx4OwP",
+      "date": "2026-01-24T16:00:00.000Z",
+      "round": "Round 20",
+      "homeTeam": "Amorebieta",
+      "awayTeam": "Utebo",
+      "homeScore": 0,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "QBi82B2K",
+      "date": "2026-01-18T16:00:00.000Z",
+      "round": "Round 19",
+      "homeTeam": "Gernika",
+      "awayTeam": "Real Zaragoza B",
+      "homeScore": 1,
+      "awayScore": 0,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Yellow cards": [
+          "0",
+          "1"
+        ],
+        "Red cards": [
+          "0",
+          "2"
+        ]
+      }
+    },
+    {
+      "id": "CSFkFlnQ",
+      "date": "2026-01-18T16:00:00.000Z",
+      "round": "Round 19",
+      "homeTeam": "UD Logrones",
+      "awayTeam": "Amorebieta",
+      "homeScore": 4,
+      "awayScore": 1,
+      "htHome": 2,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Red cards": [
+          "0",
+          "1"
+        ]
+      }
+    },
+    {
+      "id": "I9WneTff",
+      "date": "2026-01-18T15:30:00.000Z",
+      "round": "Round 19",
+      "homeTeam": "Mutilvera",
+      "awayTeam": "Tudelano",
+      "homeScore": 1,
+      "awayScore": 3,
+      "htHome": 0,
+      "htAway": 2,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "O6Zfg7P6",
+      "date": "2026-01-18T14:45:00.000Z",
+      "round": "Round 19",
+      "homeTeam": "CD Ebro",
+      "awayTeam": "Naxara",
+      "homeScore": 4,
+      "awayScore": 1,
+      "htHome": 3,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Yellow cards": [
+          "0",
+          "1"
+        ],
+        "Red cards": [
+          "0",
+          "1"
+        ]
+      }
+    },
+    {
+      "id": "A39Lv8AD",
+      "date": "2026-01-18T11:00:00.000Z",
+      "round": "Round 19",
+      "homeTeam": "Alaves B",
+      "awayTeam": "Alfaro",
+      "homeScore": 2,
+      "awayScore": 0,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Red cards": [
+          "0",
+          "1"
+        ]
+      }
+    },
+    {
+      "id": "WCdM9S9m",
+      "date": "2026-01-18T10:30:00.000Z",
+      "round": "Round 19",
+      "homeTeam": "Sestao River",
+      "awayTeam": "Ejea",
+      "homeScore": 2,
+      "awayScore": 0,
+      "htHome": 2,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "pMN3iofJ",
+      "date": "2026-01-17T17:00:00.000Z",
+      "round": "Round 19",
+      "homeTeam": "Real Unión",
+      "awayTeam": "Basconia",
+      "homeScore": 1,
+      "awayScore": 2,
+      "htHome": 0,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "MswvckQs",
+      "date": "2026-01-17T15:30:00.000Z",
+      "round": "Round 19",
+      "homeTeam": "SD Beasain",
+      "awayTeam": "Utebo",
+      "homeScore": 0,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "OnBDtUu1",
+      "date": "2026-01-17T14:30:00.000Z",
+      "round": "Round 19",
+      "homeTeam": "Eibar B",
+      "awayTeam": "SD Logrones",
+      "homeScore": 0,
+      "awayScore": 0,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "z5RklLsA",
+      "date": "2026-01-11T16:30:00.000Z",
+      "round": "Round 18",
+      "homeTeam": "Tudelano",
+      "awayTeam": "Real Unión",
+      "homeScore": 1,
+      "awayScore": 2,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Yellow cards": [
+          "0",
+          "1"
+        ],
+        "Red cards": [
+          "0",
+          "1"
+        ]
+      }
+    },
+    {
+      "id": "dKFbnaCM",
+      "date": "2026-01-11T16:00:00.000Z",
+      "round": "Round 18",
+      "homeTeam": "Alfaro",
+      "awayTeam": "Eibar B",
+      "homeScore": 0,
+      "awayScore": 0,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Red cards": [
+          "1",
+          "0"
+        ]
+      }
+    },
+    {
+      "id": "2XM4rjBl",
+      "date": "2026-01-11T15:30:00.000Z",
+      "round": "Round 18",
+      "homeTeam": "Utebo",
+      "awayTeam": "UD Logrones",
+      "homeScore": 3,
+      "awayScore": 0,
+      "htHome": 2,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "061O2Kd3",
+      "date": "2026-01-11T15:00:00.000Z",
+      "round": "Round 18",
+      "homeTeam": "Real Zaragoza B",
+      "awayTeam": "Sestao River",
+      "homeScore": 0,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "SvOsjsDc",
+      "date": "2026-01-11T11:00:00.000Z",
+      "round": "Round 18",
+      "homeTeam": "Amorebieta",
+      "awayTeam": "CD Ebro",
+      "homeScore": 1,
+      "awayScore": 2,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Red cards": [
+          "1",
+          "0"
+        ]
+      }
+    },
+    {
+      "id": "dYfX0bRF",
+      "date": "2026-01-11T11:00:00.000Z",
+      "round": "Round 18",
+      "homeTeam": "Naxara",
+      "awayTeam": "Mutilvera",
+      "homeScore": 0,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "ldJ2SwLj",
+      "date": "2026-01-11T10:30:00.000Z",
+      "round": "Round 18",
+      "homeTeam": "Basconia",
+      "awayTeam": "SD Beasain",
+      "homeScore": 1,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "8CExuH4d",
+      "date": "2026-01-10T18:00:00.000Z",
+      "round": "Round 18",
+      "homeTeam": "SD Logrones",
+      "awayTeam": "Alaves B",
+      "homeScore": 0,
+      "awayScore": 0,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "S26Utwzp",
+      "date": "2026-01-10T16:00:00.000Z",
+      "round": "Round 18",
+      "homeTeam": "Ejea",
+      "awayTeam": "Gernika",
+      "homeScore": 1,
+      "awayScore": 0,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "reElLMDN",
+      "date": "2026-01-04T16:30:00.000Z",
+      "round": "Round 17",
+      "homeTeam": "Mutilvera",
+      "awayTeam": "SD Logrones",
+      "homeScore": 1,
+      "awayScore": 1,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Yellow cards": [
+          "0",
+          "1"
+        ],
+        "Red cards": [
+          "0",
+          "1"
+        ]
+      }
+    },
+    {
+      "id": "lYzGyrb4",
+      "date": "2026-01-04T16:30:00.000Z",
+      "round": "Round 17",
+      "homeTeam": "Sestao River",
+      "awayTeam": "Amorebieta",
+      "homeScore": 1,
+      "awayScore": 2,
+      "htHome": 1,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "SIn7w4Ti",
+      "date": "2026-01-04T16:00:00.000Z",
+      "round": "Round 17",
+      "homeTeam": "Gernika",
+      "awayTeam": "Basconia",
+      "homeScore": 1,
+      "awayScore": 0,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "dbvOZLSG",
+      "date": "2026-01-04T16:00:00.000Z",
+      "round": "Round 17",
+      "homeTeam": "UD Logrones",
+      "awayTeam": "Alfaro",
+      "homeScore": 0,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "tl9QQQqn",
+      "date": "2026-01-04T15:00:00.000Z",
+      "round": "Round 17",
+      "homeTeam": "Eibar B",
+      "awayTeam": "Utebo",
+      "homeScore": 3,
+      "awayScore": 2,
+      "htHome": 2,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "2ueLF0yo",
+      "date": "2026-01-04T14:45:00.000Z",
+      "round": "Round 17",
+      "homeTeam": "CD Ebro",
+      "awayTeam": "Tudelano",
+      "homeScore": 2,
+      "awayScore": 2,
+      "htHome": 1,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "EFMXO4Eb",
+      "date": "2026-01-04T11:00:00.000Z",
+      "round": "Round 17",
+      "homeTeam": "Alaves B",
+      "awayTeam": "Real Zaragoza B",
+      "homeScore": 2,
+      "awayScore": 1,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "AsGtNrqB",
+      "date": "2026-01-04T11:00:00.000Z",
+      "round": "Round 17",
+      "homeTeam": "SD Beasain",
+      "awayTeam": "Naxara",
+      "homeScore": 0,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Red cards": [
+          "1",
+          "0"
+        ]
+      }
+    },
+    {
+      "id": "hQXWXacT",
+      "date": "2026-01-04T11:00:00.000Z",
+      "round": "Round 17",
+      "homeTeam": "Real Unión",
+      "awayTeam": "Ejea",
+      "homeScore": 3,
+      "awayScore": 0,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "tjvX6WhD",
+      "date": "2025-12-21T16:00:00.000Z",
+      "round": "Round 16",
+      "homeTeam": "Alfaro",
+      "awayTeam": "CD Ebro",
+      "homeScore": 0,
+      "awayScore": 4,
+      "htHome": 0,
+      "htAway": 2,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "KzjO8hO0",
+      "date": "2025-12-21T16:00:00.000Z",
+      "round": "Round 16",
+      "homeTeam": "SD Logrones",
+      "awayTeam": "UD Logrones",
+      "homeScore": 0,
+      "awayScore": 4,
+      "htHome": 0,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Red cards": [
+          "1",
+          "0"
+        ]
+      }
+    },
+    {
+      "id": "6VfrEm0t",
+      "date": "2025-12-21T11:00:00.000Z",
+      "round": "Round 16",
+      "homeTeam": "Naxara",
+      "awayTeam": "Real Unión",
+      "homeScore": 1,
+      "awayScore": 3,
+      "htHome": 1,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "xzqG6NbU",
+      "date": "2025-12-21T11:00:00.000Z",
+      "round": "Round 16",
+      "homeTeam": "Real Zaragoza B",
+      "awayTeam": "SD Beasain",
+      "homeScore": 1,
+      "awayScore": 2,
+      "htHome": 1,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "0UmiCRUh",
+      "date": "2025-12-20T18:00:00.000Z",
+      "round": "Round 16",
+      "homeTeam": "Ejea",
+      "awayTeam": "Tudelano",
+      "homeScore": 1,
+      "awayScore": 3,
+      "htHome": 1,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "YsnaA5a5",
+      "date": "2025-12-20T17:30:00.000Z",
+      "round": "Round 16",
+      "homeTeam": "Gernika",
+      "awayTeam": "Eibar B",
+      "homeScore": 1,
+      "awayScore": 2,
+      "htHome": 1,
+      "htAway": 2,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "CAnGAEgl",
+      "date": "2025-12-20T16:00:00.000Z",
+      "round": "Round 16",
+      "homeTeam": "Amorebieta",
+      "awayTeam": "Mutilvera",
+      "homeScore": 0,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Red cards": [
+          "0",
+          "1"
+        ]
+      }
+    },
+    {
+      "id": "UkqiGzWQ",
+      "date": "2025-12-20T15:30:00.000Z",
+      "round": "Round 16",
+      "homeTeam": "Basconia",
+      "awayTeam": "Sestao River",
+      "homeScore": 3,
+      "awayScore": 1,
+      "htHome": 2,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "U9u88qUH",
+      "date": "2025-12-20T15:30:00.000Z",
+      "round": "Round 16",
+      "homeTeam": "Utebo",
+      "awayTeam": "Alaves B",
+      "homeScore": 0,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "dO5A3cnL",
+      "date": "2025-12-14T16:30:00.000Z",
+      "round": "Round 15",
+      "homeTeam": "Sestao River",
+      "awayTeam": "Gernika",
+      "homeScore": 2,
+      "awayScore": 2,
+      "htHome": 1,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "CzW6qxek",
+      "date": "2025-12-14T16:00:00.000Z",
+      "round": "Round 15",
+      "homeTeam": "Real Unión",
+      "awayTeam": "Real Zaragoza B",
+      "homeScore": 5,
+      "awayScore": 1,
+      "htHome": 1,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "ClBubyAr",
+      "date": "2025-12-14T16:00:00.000Z",
+      "round": "Round 15",
+      "homeTeam": "Tudelano",
+      "awayTeam": "Basconia",
+      "homeScore": 1,
+      "awayScore": 2,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "dxoqId1E",
+      "date": "2025-12-14T16:00:00.000Z",
+      "round": "Round 15",
+      "homeTeam": "UD Logrones",
+      "awayTeam": "Ejea",
+      "homeScore": 4,
+      "awayScore": 1,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "0dC15JH8",
+      "date": "2025-12-14T14:45:00.000Z",
+      "round": "Round 15",
+      "homeTeam": "CD Ebro",
+      "awayTeam": "Utebo",
+      "homeScore": 3,
+      "awayScore": 1,
+      "htHome": 2,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Red cards": [
+          "1",
+          "0"
+        ]
+      }
+    },
+    {
+      "id": "21pykbXR",
+      "date": "2025-12-14T11:00:00.000Z",
+      "round": "Round 15",
+      "homeTeam": "Alaves B",
+      "awayTeam": "Naxara",
+      "homeScore": 1,
+      "awayScore": 2,
+      "htHome": 1,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "Y3aldFve",
+      "date": "2025-12-13T18:00:00.000Z",
+      "round": "Round 15",
+      "homeTeam": "Eibar B",
+      "awayTeam": "Amorebieta",
+      "homeScore": 0,
+      "awayScore": 2,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "82PFsGP1",
+      "date": "2025-12-13T15:30:00.000Z",
+      "round": "Round 15",
+      "homeTeam": "SD Beasain",
+      "awayTeam": "SD Logrones",
+      "homeScore": 2,
+      "awayScore": 0,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "tU2dfg97",
+      "date": "2025-12-13T15:30:00.000Z",
+      "round": "Round 15",
+      "homeTeam": "Mutilvera",
+      "awayTeam": "Alfaro",
+      "homeScore": 0,
+      "awayScore": 0,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "zRlttLYj",
+      "date": "2025-12-07T16:30:00.000Z",
+      "round": "Round 14",
+      "homeTeam": "Gernika",
+      "awayTeam": "Mutilvera",
+      "homeScore": 1,
+      "awayScore": 0,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "WCYr0tQM",
+      "date": "2025-12-07T16:00:00.000Z",
+      "round": "Round 14",
+      "homeTeam": "Alfaro",
+      "awayTeam": "Real Unión",
+      "homeScore": 1,
+      "awayScore": 2,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "lUEFfKmp",
+      "date": "2025-12-07T16:00:00.000Z",
+      "round": "Round 14",
+      "homeTeam": "Utebo",
+      "awayTeam": "Sestao River",
+      "homeScore": 0,
+      "awayScore": 0,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "WveGbTlI",
+      "date": "2025-12-07T11:00:00.000Z",
+      "round": "Round 14",
+      "homeTeam": "Alaves B",
+      "awayTeam": "SD Beasain",
+      "homeScore": 2,
+      "awayScore": 0,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "MsDNhbId",
+      "date": "2025-12-07T11:00:00.000Z",
+      "round": "Round 14",
+      "homeTeam": "Real Zaragoza B",
+      "awayTeam": "UD Logrones",
+      "homeScore": 1,
+      "awayScore": 3,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "tndSjK2F",
+      "date": "2025-12-06T16:00:00.000Z",
+      "round": "Round 14",
+      "homeTeam": "SD Logrones",
+      "awayTeam": "CD Ebro",
+      "homeScore": 2,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "2XtS3OQc",
+      "date": "2025-12-06T15:30:00.000Z",
+      "round": "Round 14",
+      "homeTeam": "Basconia",
+      "awayTeam": "Eibar B",
+      "homeScore": 1,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Yellow cards": [
+          "0",
+          "1"
+        ],
+        "Red cards": [
+          "0",
+          "1"
+        ]
+      }
+    },
+    {
+      "id": "YLhKhtY2",
+      "date": "2025-12-06T11:00:00.000Z",
+      "round": "Round 14",
+      "homeTeam": "Naxara",
+      "awayTeam": "Ejea",
+      "homeScore": 1,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "OnVz22eA",
+      "date": "2025-12-05T18:30:00.000Z",
+      "round": "Round 14",
+      "homeTeam": "Amorebieta",
+      "awayTeam": "Tudelano",
+      "homeScore": 0,
+      "awayScore": 0,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "fZai4XKt",
+      "date": "2025-11-30T16:30:00.000Z",
+      "round": "Round 13",
+      "homeTeam": "Sestao River",
+      "awayTeam": "SD Logrones",
+      "homeScore": 1,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "ldwQmCz0",
+      "date": "2025-11-30T16:00:00.000Z",
+      "round": "Round 13",
+      "homeTeam": "UD Logrones",
+      "awayTeam": "Gernika",
+      "homeScore": 4,
+      "awayScore": 0,
+      "htHome": 2,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "jLZtpUZO",
+      "date": "2025-11-30T15:00:00.000Z",
+      "round": "Round 13",
+      "homeTeam": "Ejea",
+      "awayTeam": "Amorebieta",
+      "homeScore": 2,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "j1BaXjjJ",
+      "date": "2025-11-30T11:00:00.000Z",
+      "round": "Round 13",
+      "homeTeam": "Eibar B",
+      "awayTeam": "Real Zaragoza B",
+      "homeScore": 1,
+      "awayScore": 0,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "dbboefrQ",
+      "date": "2025-11-29T17:00:00.000Z",
+      "round": "Round 13",
+      "homeTeam": "Real Unión",
+      "awayTeam": "Utebo",
+      "homeScore": 4,
+      "awayScore": 1,
+      "htHome": 3,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "bRd80kK5",
+      "date": "2025-11-29T17:00:00.000Z",
+      "round": "Round 13",
+      "homeTeam": "Tudelano",
+      "awayTeam": "Naxara",
+      "homeScore": 2,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "2a3a2Bkg",
+      "date": "2025-11-29T15:30:00.000Z",
+      "round": "Round 13",
+      "homeTeam": "SD Beasain",
+      "awayTeam": "Alfaro",
+      "homeScore": 1,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "pOWYoj5C",
+      "date": "2025-11-29T15:30:00.000Z",
+      "round": "Round 13",
+      "homeTeam": "Mutilvera",
+      "awayTeam": "Basconia",
+      "homeScore": 1,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "GruIkY5m",
+      "date": "2025-11-29T15:00:00.000Z",
+      "round": "Round 13",
+      "homeTeam": "CD Ebro",
+      "awayTeam": "Alaves B",
+      "homeScore": 1,
+      "awayScore": 1,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "M7vAMZy1",
+      "date": "2025-11-23T16:00:00.000Z",
+      "round": "Round 12",
+      "homeTeam": "Alfaro",
+      "awayTeam": "Tudelano",
+      "homeScore": 2,
+      "awayScore": 0,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "UNv4rHbK",
+      "date": "2025-11-23T16:00:00.000Z",
+      "round": "Round 12",
+      "homeTeam": "Gernika",
+      "awayTeam": "SD Beasain",
+      "homeScore": 0,
+      "awayScore": 0,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "MLJryZjf",
+      "date": "2025-11-23T16:00:00.000Z",
+      "round": "Round 12",
+      "homeTeam": "SD Logrones",
+      "awayTeam": "Ejea",
+      "homeScore": 0,
+      "awayScore": 0,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "A7qUVwFE",
+      "date": "2025-11-23T11:00:00.000Z",
+      "round": "Round 12",
+      "homeTeam": "Alaves B",
+      "awayTeam": "Real Unión",
+      "homeScore": 1,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "UoNjZCL6",
+      "date": "2025-11-23T11:00:00.000Z",
+      "round": "Round 12",
+      "homeTeam": "Real Zaragoza B",
+      "awayTeam": "CD Ebro",
+      "homeScore": 0,
+      "awayScore": 0,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "0hj1Oe7l",
+      "date": "2025-11-22T18:00:00.000Z",
+      "round": "Round 12",
+      "homeTeam": "Amorebieta",
+      "awayTeam": "Naxara",
+      "homeScore": 1,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "UXsIKD6D",
+      "date": "2025-11-22T17:30:00.000Z",
+      "round": "Round 12",
+      "homeTeam": "Sestao River",
+      "awayTeam": "Eibar B",
+      "homeScore": 1,
+      "awayScore": 0,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "QgQZxeMs",
+      "date": "2025-11-22T16:00:00.000Z",
+      "round": "Round 12",
+      "homeTeam": "Utebo",
+      "awayTeam": "Mutilvera",
+      "homeScore": 4,
+      "awayScore": 0,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "U9aVTHqR",
+      "date": "2025-11-22T15:30:00.000Z",
+      "round": "Round 12",
+      "homeTeam": "Basconia",
+      "awayTeam": "UD Logrones",
+      "homeScore": 3,
+      "awayScore": 3,
+      "htHome": 3,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "IDdr8zN7",
+      "date": "2025-11-16T16:00:00.000Z",
+      "round": "Round 11",
+      "homeTeam": "Naxara",
+      "awayTeam": "Alfaro",
+      "homeScore": 2,
+      "awayScore": 1,
+      "htHome": 2,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "Mo3Z9dhe",
+      "date": "2025-11-16T16:00:00.000Z",
+      "round": "Round 11",
+      "homeTeam": "Real Unión",
+      "awayTeam": "SD Logrones",
+      "homeScore": 2,
+      "awayScore": 1,
+      "htHome": 1,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "fXngUQwA",
+      "date": "2025-11-16T16:00:00.000Z",
+      "round": "Round 11",
+      "homeTeam": "Tudelano",
+      "awayTeam": "Gernika",
+      "homeScore": 1,
+      "awayScore": 0,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Red cards": [
+          "0",
+          "1"
+        ]
+      }
+    },
+    {
+      "id": "YR1b8qHj",
+      "date": "2025-11-16T16:00:00.000Z",
+      "round": "Round 11",
+      "homeTeam": "UD Logrones",
+      "awayTeam": "Eibar B",
+      "homeScore": 0,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Red cards": [
+          "0",
+          "1"
+        ]
+      }
+    },
+    {
+      "id": "tUMJFROG",
+      "date": "2025-11-16T15:30:00.000Z",
+      "round": "Round 11",
+      "homeTeam": "Mutilvera",
+      "awayTeam": "Real Zaragoza B",
+      "homeScore": 4,
+      "awayScore": 1,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "xdGSD5gT",
+      "date": "2025-11-16T11:00:00.000Z",
+      "round": "Round 11",
+      "homeTeam": "Ejea",
+      "awayTeam": "Utebo",
+      "homeScore": 0,
+      "awayScore": 2,
+      "htHome": 0,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "lzpoWn9c",
+      "date": "2025-11-15T17:00:00.000Z",
+      "round": "Round 11",
+      "homeTeam": "Amorebieta",
+      "awayTeam": "Alaves B",
+      "homeScore": 0,
+      "awayScore": 0,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "829CHmf4",
+      "date": "2025-11-15T15:30:00.000Z",
+      "round": "Round 11",
+      "homeTeam": "SD Beasain",
+      "awayTeam": "Sestao River",
+      "homeScore": 1,
+      "awayScore": 1,
+      "htHome": 1,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "ELaRBINr",
+      "date": "2025-11-15T15:00:00.000Z",
+      "round": "Round 11",
+      "homeTeam": "CD Ebro",
+      "awayTeam": "Basconia",
+      "homeScore": 1,
+      "awayScore": 0,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Red cards": [
+          "1",
+          "0"
+        ]
+      }
+    },
+    {
+      "id": "IDdr8zN7",
+      "date": "2025-11-16T16:00:00.000Z",
+      "round": "Round 11",
+      "homeTeam": "Naxara",
+      "awayTeam": "Alfaro",
+      "homeScore": 2,
+      "awayScore": 1,
+      "htHome": 2,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "Mo3Z9dhe",
+      "date": "2025-11-16T16:00:00.000Z",
+      "round": "Round 11",
+      "homeTeam": "Real Unión",
+      "awayTeam": "SD Logrones",
+      "homeScore": 2,
+      "awayScore": 1,
+      "htHome": 1,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "fXngUQwA",
+      "date": "2025-11-16T16:00:00.000Z",
+      "round": "Round 11",
+      "homeTeam": "Tudelano",
+      "awayTeam": "Gernika",
+      "homeScore": 1,
+      "awayScore": 0,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Red cards": [
+          "0",
+          "1"
+        ]
+      }
+    },
+    {
+      "id": "tUMJFROG",
+      "date": "2025-11-16T15:30:00.000Z",
+      "round": "Round 11",
+      "homeTeam": "Mutilvera",
+      "awayTeam": "Real Zaragoza B",
+      "homeScore": 4,
+      "awayScore": 1,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "xdGSD5gT",
+      "date": "2025-11-16T11:00:00.000Z",
+      "round": "Round 11",
+      "homeTeam": "Ejea",
+      "awayTeam": "Utebo",
+      "homeScore": 0,
+      "awayScore": 2,
+      "htHome": 0,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "lzpoWn9c",
+      "date": "2025-11-15T17:00:00.000Z",
+      "round": "Round 11",
+      "homeTeam": "Amorebieta",
+      "awayTeam": "Alaves B",
+      "homeScore": 0,
+      "awayScore": 0,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "829CHmf4",
+      "date": "2025-11-15T15:30:00.000Z",
+      "round": "Round 11",
+      "homeTeam": "SD Beasain",
+      "awayTeam": "Sestao River",
+      "homeScore": 1,
+      "awayScore": 1,
+      "htHome": 1,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "ELaRBINr",
+      "date": "2025-11-15T15:00:00.000Z",
+      "round": "Round 11",
+      "homeTeam": "CD Ebro",
+      "awayTeam": "Basconia",
+      "homeScore": 1,
+      "awayScore": 0,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Red cards": [
+          "1",
+          "0"
+        ]
+      }
+    },
+    {
+      "id": "QJiM6Wun",
+      "date": "2025-11-09T16:30:00.000Z",
+      "round": "Round 10",
+      "homeTeam": "Sestao River",
+      "awayTeam": "UD Logrones",
+      "homeScore": 1,
+      "awayScore": 0,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "YqeU4AAb",
+      "date": "2025-11-09T16:00:00.000Z",
+      "round": "Round 10",
+      "homeTeam": "Alfaro",
+      "awayTeam": "Ejea",
+      "homeScore": 0,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "M5RBnTfU",
+      "date": "2025-11-09T16:00:00.000Z",
+      "round": "Round 10",
+      "homeTeam": "Basconia",
+      "awayTeam": "Real Unión",
+      "homeScore": 0,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "nmL3J9Pi",
+      "date": "2025-11-09T16:00:00.000Z",
+      "round": "Round 10",
+      "homeTeam": "Gernika",
+      "awayTeam": "CD Ebro",
+      "homeScore": 2,
+      "awayScore": 0,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "0dno1S9N",
+      "date": "2025-11-09T16:00:00.000Z",
+      "round": "Round 10",
+      "homeTeam": "Utebo",
+      "awayTeam": "SD Beasain",
+      "homeScore": 2,
+      "awayScore": 2,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "EuO3lkQH",
+      "date": "2025-11-09T11:00:00.000Z",
+      "round": "Round 10",
+      "homeTeam": "Alaves B",
+      "awayTeam": "Tudelano",
+      "homeScore": 3,
+      "awayScore": 1,
+      "htHome": 2,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "Srlw3luB",
+      "date": "2025-11-09T11:00:00.000Z",
+      "round": "Round 10",
+      "homeTeam": "Real Zaragoza B",
+      "awayTeam": "Amorebieta",
+      "homeScore": 0,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "fw82jBe5",
+      "date": "2025-11-08T18:00:00.000Z",
+      "round": "Round 10",
+      "homeTeam": "Eibar B",
+      "awayTeam": "Mutilvera",
+      "homeScore": 1,
+      "awayScore": 2,
+      "htHome": 0,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "KtTHe6Xp",
+      "date": "2025-11-08T18:00:00.000Z",
+      "round": "Round 10",
+      "homeTeam": "SD Logrones",
+      "awayTeam": "Naxara",
+      "homeScore": 2,
+      "awayScore": 0,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "fcEub2cE",
+      "date": "2025-11-02T16:00:00.000Z",
+      "round": "Round 9",
+      "homeTeam": "Naxara",
+      "awayTeam": "Real Zaragoza B",
+      "homeScore": 3,
+      "awayScore": 0,
+      "htHome": 3,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "EJnTyCtC",
+      "date": "2025-11-02T16:00:00.000Z",
+      "round": "Round 9",
+      "homeTeam": "Real Unión",
+      "awayTeam": "Gernika",
+      "homeScore": 1,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "xMqejjv8",
+      "date": "2025-11-02T16:00:00.000Z",
+      "round": "Round 9",
+      "homeTeam": "UD Logrones",
+      "awayTeam": "Utebo",
+      "homeScore": 3,
+      "awayScore": 1,
+      "htHome": 3,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Red cards": [
+          "0",
+          "1"
+        ]
+      }
+    },
+    {
+      "id": "j5omhC9e",
+      "date": "2025-11-02T15:30:00.000Z",
+      "round": "Round 9",
+      "homeTeam": "Mutilvera",
+      "awayTeam": "Sestao River",
+      "homeScore": 0,
+      "awayScore": 2,
+      "htHome": 0,
+      "htAway": 2,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "QqyDufsm",
+      "date": "2025-11-02T15:00:00.000Z",
+      "round": "Round 9",
+      "homeTeam": "CD Ebro",
+      "awayTeam": "Eibar B",
+      "homeScore": 1,
+      "awayScore": 1,
+      "htHome": 1,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "MBULwYBa",
+      "date": "2025-11-02T11:00:00.000Z",
+      "round": "Round 9",
+      "homeTeam": "Ejea",
+      "awayTeam": "Alaves B",
+      "homeScore": 2,
+      "awayScore": 0,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "MP9fhXQh",
+      "date": "2025-11-01T17:00:00.000Z",
+      "round": "Round 9",
+      "homeTeam": "Amorebieta",
+      "awayTeam": "Alfaro",
+      "homeScore": 3,
+      "awayScore": 0,
+      "htHome": 2,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "QcGofgdt",
+      "date": "2025-11-01T17:00:00.000Z",
+      "round": "Round 9",
+      "homeTeam": "Tudelano",
+      "awayTeam": "SD Logrones",
+      "homeScore": 3,
+      "awayScore": 0,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "zZzxzjBO",
+      "date": "2025-11-01T10:30:00.000Z",
+      "round": "Round 9",
+      "homeTeam": "SD Beasain",
+      "awayTeam": "Basconia",
+      "homeScore": 2,
+      "awayScore": 0,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "UkcvfYvq",
+      "date": "2025-10-26T16:30:00.000Z",
+      "round": "Round 8",
+      "homeTeam": "Sestao River",
+      "awayTeam": "CD Ebro",
+      "homeScore": 1,
+      "awayScore": 0,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Yellow cards": [
+          "0",
+          "1"
+        ],
+        "Red cards": [
+          "0",
+          "2"
+        ]
+      }
+    },
+    {
+      "id": "OlhQnHXF",
+      "date": "2025-10-26T16:00:00.000Z",
+      "round": "Round 8",
+      "homeTeam": "Alfaro",
+      "awayTeam": "Alaves B",
+      "homeScore": 0,
+      "awayScore": 3,
+      "htHome": 0,
+      "htAway": 3,
+      "status": "FINISHED",
+      "stats": {
+        "Yellow cards": [
+          "0",
+          "1"
+        ],
+        "Red cards": [
+          "0",
+          "1"
+        ]
+      }
+    },
+    {
+      "id": "GOlIlw33",
+      "date": "2025-10-26T10:30:00.000Z",
+      "round": "Round 8",
+      "homeTeam": "Basconia",
+      "awayTeam": "Naxara",
+      "homeScore": 2,
+      "awayScore": 0,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "AoQDwDf2",
+      "date": "2025-10-25T18:30:00.000Z",
+      "round": "Round 8",
+      "homeTeam": "UD Logrones",
+      "awayTeam": "Tudelano",
+      "homeScore": 1,
+      "awayScore": 2,
+      "htHome": 0,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Red cards": [
+          "0",
+          "1"
+        ]
+      }
+    },
+    {
+      "id": "jVUwRZAd",
+      "date": "2025-10-25T17:00:00.000Z",
+      "round": "Round 8",
+      "homeTeam": "Eibar B",
+      "awayTeam": "Real Unión",
+      "homeScore": 0,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "p4tZpe2S",
+      "date": "2025-10-25T16:30:00.000Z",
+      "round": "Round 8",
+      "homeTeam": "Utebo",
+      "awayTeam": "Amorebieta",
+      "homeScore": 3,
+      "awayScore": 1,
+      "htHome": 3,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "b768afHL",
+      "date": "2025-10-25T16:00:00.000Z",
+      "round": "Round 8",
+      "homeTeam": "Gernika",
+      "awayTeam": "Ejea",
+      "homeScore": 1,
+      "awayScore": 0,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Red cards": [
+          "0",
+          "1"
+        ]
+      }
+    },
+    {
+      "id": "2uDa1Gn9",
+      "date": "2025-10-25T15:30:00.000Z",
+      "round": "Round 8",
+      "homeTeam": "Real Zaragoza B",
+      "awayTeam": "SD Logrones",
+      "homeScore": 0,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Yellow cards": [
+          "1",
+          "0"
+        ],
+        "Red cards": [
+          "1",
+          "0"
+        ]
+      }
+    },
+    {
+      "id": "GnX4uZPk",
+      "date": "2025-10-25T14:30:00.000Z",
+      "round": "Round 8",
+      "homeTeam": "Mutilvera",
+      "awayTeam": "SD Beasain",
+      "homeScore": 1,
+      "awayScore": 0,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "4E6dEdRj",
+      "date": "2025-10-19T15:00:00.000Z",
+      "round": "Round 7",
+      "homeTeam": "Naxara",
+      "awayTeam": "Utebo",
+      "homeScore": 0,
+      "awayScore": 2,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Red cards": [
+          "2",
+          "0"
+        ]
+      }
+    },
+    {
+      "id": "IHWVSetp",
+      "date": "2025-10-19T15:00:00.000Z",
+      "round": "Round 7",
+      "homeTeam": "SD Logrones",
+      "awayTeam": "Alfaro",
+      "homeScore": 1,
+      "awayScore": 0,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "UXZ0PMZi",
+      "date": "2025-10-19T10:00:00.000Z",
+      "round": "Round 7",
+      "homeTeam": "Alaves B",
+      "awayTeam": "Gernika",
+      "homeScore": 0,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "j7nizvlA",
+      "date": "2025-10-18T17:00:00.000Z",
+      "round": "Round 7",
+      "homeTeam": "Ejea",
+      "awayTeam": "Basconia",
+      "homeScore": 3,
+      "awayScore": 1,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "bXkaYHIM",
+      "date": "2025-10-18T17:00:00.000Z",
+      "round": "Round 7",
+      "homeTeam": "Real Unión",
+      "awayTeam": "Sestao River",
+      "homeScore": 0,
+      "awayScore": 2,
+      "htHome": 0,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "GlY8N044",
+      "date": "2025-10-18T16:00:00.000Z",
+      "round": "Round 7",
+      "homeTeam": "Amorebieta",
+      "awayTeam": "UD Logrones",
+      "homeScore": 2,
+      "awayScore": 1,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Red cards": [
+          "0",
+          "1"
+        ]
+      }
+    },
+    {
+      "id": "pUPPJI3T",
+      "date": "2025-10-18T16:00:00.000Z",
+      "round": "Round 7",
+      "homeTeam": "Tudelano",
+      "awayTeam": "Real Zaragoza B",
+      "homeScore": 2,
+      "awayScore": 2,
+      "htHome": 0,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Red cards": [
+          "0",
+          "1"
+        ]
+      }
+    },
+    {
+      "id": "Uibrx0Jc",
+      "date": "2025-10-18T14:45:00.000Z",
+      "round": "Round 7",
+      "homeTeam": "CD Ebro",
+      "awayTeam": "Mutilvera",
+      "homeScore": 1,
+      "awayScore": 1,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Yellow cards": [
+          "1",
+          "0"
+        ],
+        "Red cards": [
+          "1",
+          "2"
+        ]
+      }
+    },
+    {
+      "id": "CGRHLvZG",
+      "date": "2025-10-18T14:30:00.000Z",
+      "round": "Round 7",
+      "homeTeam": "SD Beasain",
+      "awayTeam": "Eibar B",
+      "homeScore": 1,
+      "awayScore": 2,
+      "htHome": 0,
+      "htAway": 2,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "nByYLmTa",
+      "date": "2025-10-12T16:00:00.000Z",
+      "round": "Round 6",
+      "homeTeam": "UD Logrones",
+      "awayTeam": "SD Beasain",
+      "homeScore": 2,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "Eqbi9Aqf",
+      "date": "2025-10-12T15:30:00.000Z",
+      "round": "Round 6",
+      "homeTeam": "Sestao River",
+      "awayTeam": "Tudelano",
+      "homeScore": 1,
+      "awayScore": 2,
+      "htHome": 0,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "AVsfTVzQ",
+      "date": "2025-10-12T14:30:00.000Z",
+      "round": "Round 6",
+      "homeTeam": "Basconia",
+      "awayTeam": "Alaves B",
+      "homeScore": 0,
+      "awayScore": 2,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "EcwQN9bm",
+      "date": "2025-10-11T16:00:00.000Z",
+      "round": "Round 6",
+      "homeTeam": "Gernika",
+      "awayTeam": "Amorebieta",
+      "homeScore": 1,
+      "awayScore": 0,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "rPk85SrJ",
+      "date": "2025-10-11T15:00:00.000Z",
+      "round": "Round 6",
+      "homeTeam": "CD Ebro",
+      "awayTeam": "Real Unión",
+      "homeScore": 0,
+      "awayScore": 0,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Red cards": [
+          "1",
+          "0"
+        ]
+      }
+    },
+    {
+      "id": "rwVtKRcC",
+      "date": "2025-10-11T15:00:00.000Z",
+      "round": "Round 6",
+      "homeTeam": "Utebo",
+      "awayTeam": "SD Logrones",
+      "homeScore": 3,
+      "awayScore": 2,
+      "htHome": 1,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "fsrjBWEs",
+      "date": "2025-10-11T14:30:00.000Z",
+      "round": "Round 6",
+      "homeTeam": "Eibar B",
+      "awayTeam": "Ejea",
+      "homeScore": 2,
+      "awayScore": 1,
+      "htHome": 1,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "M91a7lE6",
+      "date": "2025-10-11T14:30:00.000Z",
+      "round": "Round 6",
+      "homeTeam": "Mutilvera",
+      "awayTeam": "Naxara",
+      "homeScore": 1,
+      "awayScore": 3,
+      "htHome": 0,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "lxcE1Jso",
+      "date": "2025-10-11T10:00:00.000Z",
+      "round": "Round 6",
+      "homeTeam": "Real Zaragoza B",
+      "awayTeam": "Alfaro",
+      "homeScore": 3,
+      "awayScore": 2,
+      "htHome": 2,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Yellow cards": [
+          "1",
+          "0"
+        ],
+        "Red cards": [
+          "1",
+          "0"
+        ]
+      }
+    },
+    {
+      "id": "r3EXhkaD",
+      "date": "2025-10-05T16:00:00.000Z",
+      "round": "Round 5",
+      "homeTeam": "Tudelano",
+      "awayTeam": "Mutilvera",
+      "homeScore": 1,
+      "awayScore": 0,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "ltwx4F7E",
+      "date": "2025-10-05T15:00:00.000Z",
+      "round": "Round 5",
+      "homeTeam": "Alfaro",
+      "awayTeam": "Utebo",
+      "homeScore": 1,
+      "awayScore": 0,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "ENMGdXal",
+      "date": "2025-10-05T15:00:00.000Z",
+      "round": "Round 5",
+      "homeTeam": "Naxara",
+      "awayTeam": "Eibar B",
+      "homeScore": 1,
+      "awayScore": 1,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "0KdsrYpe",
+      "date": "2025-10-05T10:00:00.000Z",
+      "round": "Round 5",
+      "homeTeam": "Amorebieta",
+      "awayTeam": "Basconia",
+      "homeScore": 2,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "p8Wp2gxR",
+      "date": "2025-10-05T10:00:00.000Z",
+      "round": "Round 5",
+      "homeTeam": "Ejea",
+      "awayTeam": "Real Zaragoza B",
+      "homeScore": 1,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "zwBPfBU0",
+      "date": "2025-10-04T18:30:00.000Z",
+      "round": "Round 5",
+      "homeTeam": "SD Logrones",
+      "awayTeam": "Gernika",
+      "homeScore": 1,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "bBdKGhiK",
+      "date": "2025-10-04T17:00:00.000Z",
+      "round": "Round 5",
+      "homeTeam": "Real Unión",
+      "awayTeam": "UD Logrones",
+      "homeScore": 1,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "dnjjtCF7",
+      "date": "2025-10-04T14:30:00.000Z",
+      "round": "Round 5",
+      "homeTeam": "SD Beasain",
+      "awayTeam": "CD Ebro",
+      "homeScore": 1,
+      "awayScore": 1,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "ShqzpfGr",
+      "date": "2025-10-04T14:00:00.000Z",
+      "round": "Round 5",
+      "homeTeam": "Alaves B",
+      "awayTeam": "Sestao River",
+      "homeScore": 1,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "KnM8TYV1",
+      "date": "2025-09-28T16:30:00.000Z",
+      "round": "Round 4",
+      "homeTeam": "Utebo",
+      "awayTeam": "Tudelano",
+      "homeScore": 3,
+      "awayScore": 1,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "rL73kGhL",
+      "date": "2025-09-28T15:30:00.000Z",
+      "round": "Round 4",
+      "homeTeam": "Sestao River",
+      "awayTeam": "Naxara",
+      "homeScore": 0,
+      "awayScore": 0,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "ze4eixO8",
+      "date": "2025-09-28T15:00:00.000Z",
+      "round": "Round 4",
+      "homeTeam": "Gernika",
+      "awayTeam": "Alfaro",
+      "homeScore": 1,
+      "awayScore": 0,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "nZN0Vf1k",
+      "date": "2025-09-28T15:00:00.000Z",
+      "round": "Round 4",
+      "homeTeam": "SD Logrones",
+      "awayTeam": "Amorebieta",
+      "homeScore": 1,
+      "awayScore": 1,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "f16Sm3HG",
+      "date": "2025-09-28T10:00:00.000Z",
+      "round": "Round 4",
+      "homeTeam": "Eibar B",
+      "awayTeam": "Alaves B",
+      "homeScore": 0,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "ny3KkPn4",
+      "date": "2025-09-27T15:00:00.000Z",
+      "round": "Round 4",
+      "homeTeam": "CD Ebro",
+      "awayTeam": "Ejea",
+      "homeScore": 3,
+      "awayScore": 1,
+      "htHome": 2,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "GfJ0Z32N",
+      "date": "2025-09-27T14:30:00.000Z",
+      "round": "Round 4",
+      "homeTeam": "Basconia",
+      "awayTeam": "Real Zaragoza B",
+      "homeScore": 1,
+      "awayScore": 2,
+      "htHome": 0,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "bFMPTsQp",
+      "date": "2025-09-27T14:30:00.000Z",
+      "round": "Round 4",
+      "homeTeam": "SD Beasain",
+      "awayTeam": "Real Unión",
+      "homeScore": 1,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "QLEBioIi",
+      "date": "2025-09-27T14:30:00.000Z",
+      "round": "Round 4",
+      "homeTeam": "Mutilvera",
+      "awayTeam": "UD Logrones",
+      "homeScore": 0,
+      "awayScore": 4,
+      "htHome": 0,
+      "htAway": 3,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "t0gMxIiI",
+      "date": "2025-09-21T17:00:00.000Z",
+      "round": "Round 3",
+      "homeTeam": "Tudelano",
+      "awayTeam": "Eibar B",
+      "homeScore": 1,
+      "awayScore": 0,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "nwYnOIxP",
+      "date": "2025-09-21T10:00:00.000Z",
+      "round": "Round 3",
+      "homeTeam": "Alaves B",
+      "awayTeam": "SD Logrones",
+      "homeScore": 0,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "Gh8drMNt",
+      "date": "2025-09-21T10:00:00.000Z",
+      "round": "Round 3",
+      "homeTeam": "Amorebieta",
+      "awayTeam": "SD Beasain",
+      "homeScore": 2,
+      "awayScore": 1,
+      "htHome": 2,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "pYaDvvN5",
+      "date": "2025-09-21T10:00:00.000Z",
+      "round": "Round 3",
+      "homeTeam": "Ejea",
+      "awayTeam": "Sestao River",
+      "homeScore": 0,
+      "awayScore": 2,
+      "htHome": 0,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Red cards": [
+          "1",
+          "0"
+        ]
+      }
+    },
+    {
+      "id": "nFRqwn3b",
+      "date": "2025-09-21T10:00:00.000Z",
+      "round": "Round 3",
+      "homeTeam": "Real Zaragoza B",
+      "awayTeam": "Utebo",
+      "homeScore": 0,
+      "awayScore": 3,
+      "htHome": 0,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Yellow cards": [
+          "1",
+          "0"
+        ],
+        "Red cards": [
+          "2",
+          "0"
+        ]
+      }
+    },
+    {
+      "id": "rsLhyQXA",
+      "date": "2025-09-21T09:00:00.000Z",
+      "round": "Round 3",
+      "homeTeam": "UD Logrones",
+      "awayTeam": "CD Ebro",
+      "homeScore": 1,
+      "awayScore": 0,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Yellow cards": [
+          "1",
+          "0"
+        ],
+        "Red cards": [
+          "1",
+          "0"
+        ]
+      }
+    },
+    {
+      "id": "vkOyu8Yo",
+      "date": "2025-09-20T17:00:00.000Z",
+      "round": "Round 3",
+      "homeTeam": "Real Unión",
+      "awayTeam": "Mutilvera",
+      "homeScore": 3,
+      "awayScore": 1,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "Y7BTzdMU",
+      "date": "2025-09-20T16:00:00.000Z",
+      "round": "Round 3",
+      "homeTeam": "Naxara",
+      "awayTeam": "Gernika",
+      "homeScore": 1,
+      "awayScore": 4,
+      "htHome": 1,
+      "htAway": 2,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "CK15t0hg",
+      "date": "2025-09-20T15:00:00.000Z",
+      "round": "Round 3",
+      "homeTeam": "Alfaro",
+      "awayTeam": "Basconia",
+      "homeScore": 1,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "zFOuHqPs",
+      "date": "2025-09-14T16:30:00.000Z",
+      "round": "Round 2",
+      "homeTeam": "Sestao River",
+      "awayTeam": "Real Zaragoza B",
+      "homeScore": 2,
+      "awayScore": 0,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "MVnNTM8m",
+      "date": "2025-09-14T16:00:00.000Z",
+      "round": "Round 2",
+      "homeTeam": "Real Unión",
+      "awayTeam": "Tudelano",
+      "homeScore": 0,
+      "awayScore": 0,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "QNqvQv8C",
+      "date": "2025-09-14T16:00:00.000Z",
+      "round": "Round 2",
+      "homeTeam": "UD Logrones",
+      "awayTeam": "Naxara",
+      "homeScore": 2,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Red cards": [
+          "0",
+          "1"
+        ]
+      }
+    },
+    {
+      "id": "IctWR0w0",
+      "date": "2025-09-14T10:30:00.000Z",
+      "round": "Round 2",
+      "homeTeam": "Eibar B",
+      "awayTeam": "Alfaro",
+      "homeScore": 4,
+      "awayScore": 3,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "Qa1iZroQ",
+      "date": "2025-09-14T10:00:00.000Z",
+      "round": "Round 2",
+      "homeTeam": "CD Ebro",
+      "awayTeam": "Amorebieta",
+      "homeScore": 0,
+      "awayScore": 0,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "ruSmFNgf",
+      "date": "2025-09-14T09:30:00.000Z",
+      "round": "Round 2",
+      "homeTeam": "SD Beasain",
+      "awayTeam": "Ejea",
+      "homeScore": 2,
+      "awayScore": 3,
+      "htHome": 0,
+      "htAway": 2,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "CKJ4BugJ",
+      "date": "2025-09-13T16:30:00.000Z",
+      "round": "Round 2",
+      "homeTeam": "Utebo",
+      "awayTeam": "Gernika",
+      "homeScore": 3,
+      "awayScore": 1,
+      "htHome": 2,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "4fGdD1O6",
+      "date": "2025-09-13T16:00:00.000Z",
+      "round": "Round 2",
+      "homeTeam": "Mutilvera",
+      "awayTeam": "Alaves B",
+      "homeScore": 1,
+      "awayScore": 0,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "WSUFZiu9",
+      "date": "2025-09-13T15:00:00.000Z",
+      "round": "Round 2",
+      "homeTeam": "Basconia",
+      "awayTeam": "SD Logrones",
+      "homeScore": 0,
+      "awayScore": 0,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "r7lLDAIk",
+      "date": "2025-09-07T17:00:00.000Z",
+      "round": "Round 1",
+      "homeTeam": "Tudelano",
+      "awayTeam": "SD Beasain",
+      "homeScore": 3,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "COckJWfS",
+      "date": "2025-09-07T17:00:00.000Z",
+      "round": "Round 1",
+      "homeTeam": "Utebo",
+      "awayTeam": "Basconia",
+      "homeScore": 2,
+      "awayScore": 2,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "vZsUBlm2",
+      "date": "2025-09-07T16:00:00.000Z",
+      "round": "Round 1",
+      "homeTeam": "Naxara",
+      "awayTeam": "CD Ebro",
+      "homeScore": 1,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "pC6YMEe3",
+      "date": "2025-09-07T15:00:00.000Z",
+      "round": "Round 1",
+      "homeTeam": "SD Logrones",
+      "awayTeam": "Eibar B",
+      "homeScore": 2,
+      "awayScore": 0,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "djQw1XYq",
+      "date": "2025-09-07T14:45:00.000Z",
+      "round": "Round 1",
+      "homeTeam": "Alfaro",
+      "awayTeam": "Sestao River",
+      "homeScore": 2,
+      "awayScore": 2,
+      "htHome": 1,
+      "htAway": 2,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "x6q76gBM",
+      "date": "2025-09-07T10:00:00.000Z",
+      "round": "Round 1",
+      "homeTeam": "Amorebieta",
+      "awayTeam": "Real Unión",
+      "homeScore": 0,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "j99tLhQF",
+      "date": "2025-09-07T09:30:00.000Z",
+      "round": "Round 1",
+      "homeTeam": "Real Zaragoza B",
+      "awayTeam": "Gernika",
+      "homeScore": 2,
+      "awayScore": 0,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Red cards": [
+          "0",
+          "1"
+        ]
+      }
+    },
+    {
+      "id": "U3OoaB3d",
+      "date": "2025-09-06T18:00:00.000Z",
+      "round": "Round 1",
+      "homeTeam": "Ejea",
+      "awayTeam": "Mutilvera",
+      "homeScore": 2,
+      "awayScore": 2,
+      "htHome": 2,
+      "htAway": 2,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "jkoa8FtA",
+      "date": "2025-09-06T15:00:00.000Z",
+      "round": "Round 1",
+      "homeTeam": "Alaves B",
+      "awayTeam": "UD Logrones",
+      "homeScore": 2,
+      "awayScore": 0,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {}
+    }
+  ]
+}

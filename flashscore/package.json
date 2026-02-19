@@ -1,0 +1,18 @@
+{
+  "name": "flashscore-collector",
+  "version": "1.0.0",
+  "description": "Flashscore match data collector",
+  "type": "module",
+  "scripts": {
+    "collect": "tsx src/collect.ts",
+    "rename-teams": "tsx src/rename-teams.ts"
+  },
+  "devDependencies": {
+    "@types/node": "^20.10.0",
+    "typescript": "^5.3.0",
+    "tsx": "^4.7.0"
+  },
+  "dependencies": {
+    "chalk": "^5.3.0"
+  }
+}

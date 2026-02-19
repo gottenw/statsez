@@ -1,0 +1,2946 @@
+{
+  "league": "Segunda RFEF - Group 5",
+  "country": "spain",
+  "season": "2025-2026",
+  "collectedAt": "2026-02-09T23:39:35.236Z",
+  "totalMatches": 205,
+  "matches": [
+    {
+      "id": "fH0G4DHl",
+      "date": "2026-02-08T16:00:00.000Z",
+      "round": "Round 22",
+      "homeTeam": "Orihuela",
+      "awayTeam": "Socuéllamos",
+      "homeScore": 1,
+      "awayScore": 1,
+      "htHome": 1,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "OA7W0VGD",
+      "date": "2026-02-08T16:00:00.000Z",
+      "round": "Round 22",
+      "homeTeam": "Real Madrid C",
+      "awayTeam": "Rayo Majadahonda",
+      "homeScore": 0,
+      "awayScore": 3,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Yellow cards": [
+          "1",
+          "0"
+        ],
+        "Red cards": [
+          "1",
+          "0"
+        ]
+      }
+    },
+    {
+      "id": "SrEN2in1",
+      "date": "2026-02-08T12:00:00.000Z",
+      "round": "Round 22",
+      "homeTeam": "Las Palmas B",
+      "awayTeam": "CD Coria",
+      "homeScore": 1,
+      "awayScore": 1,
+      "htHome": 1,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "zkykJCWs",
+      "date": "2026-02-08T11:00:00.000Z",
+      "round": "Round 22",
+      "homeTeam": "CF Intercity",
+      "awayTeam": "RSD Alcala",
+      "homeScore": 2,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "G4fIOY8K",
+      "date": "2026-02-08T11:00:00.000Z",
+      "round": "Round 22",
+      "homeTeam": "Tenerife B",
+      "awayTeam": "Navalcarnero",
+      "homeScore": 3,
+      "awayScore": 3,
+      "htHome": 2,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "2JLyCePE",
+      "date": "2026-02-08T10:30:00.000Z",
+      "round": "Round 22",
+      "homeTeam": "Getafe B",
+      "awayTeam": "CD Quintanar del Rey",
+      "homeScore": 3,
+      "awayScore": 0,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "AqPqAZgR",
+      "date": "2026-02-07T16:00:00.000Z",
+      "round": "Round 22",
+      "homeTeam": "Conquense",
+      "awayTeam": "Rayo Vallecano B",
+      "homeScore": 2,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Yellow cards": [
+          "0",
+          "1"
+        ],
+        "Red cards": [
+          "0",
+          "1"
+        ]
+      }
+    },
+    {
+      "id": "21S5FUV6",
+      "date": "2026-02-07T16:00:00.000Z",
+      "round": "Round 22",
+      "homeTeam": "UD San Sebastian Reyes",
+      "awayTeam": "Elche Ilicitano",
+      "homeScore": 2,
+      "awayScore": 0,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "tnvcHj1f",
+      "date": "2026-02-07T15:00:00.000Z",
+      "round": "Round 22",
+      "homeTeam": "CD Colonia Moscardo",
+      "awayTeam": "Fuenlabrada",
+      "homeScore": 3,
+      "awayScore": 0,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Yellow cards": [
+          "0",
+          "1"
+        ],
+        "Red cards": [
+          "0",
+          "1"
+        ]
+      }
+    },
+    {
+      "id": "EwqQc544",
+      "date": "2026-02-01T16:00:00.000Z",
+      "round": "Round 21",
+      "homeTeam": "CD Coria",
+      "awayTeam": "Rayo Vallecano B",
+      "homeScore": 3,
+      "awayScore": 2,
+      "htHome": 3,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "nBwklhX7",
+      "date": "2026-02-01T15:30:00.000Z",
+      "round": "Round 21",
+      "homeTeam": "CD Quintanar del Rey",
+      "awayTeam": "Orihuela",
+      "homeScore": 2,
+      "awayScore": 0,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "KbnYizYr",
+      "date": "2026-02-01T11:00:00.000Z",
+      "round": "Round 21",
+      "homeTeam": "Fuenlabrada",
+      "awayTeam": "Conquense",
+      "homeScore": 0,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "0fF7yFm2",
+      "date": "2026-02-01T11:00:00.000Z",
+      "round": "Round 21",
+      "homeTeam": "Elche Ilicitano",
+      "awayTeam": "Real Madrid C",
+      "homeScore": 2,
+      "awayScore": 0,
+      "htHome": 2,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Red cards": [
+          "1",
+          "0"
+        ]
+      }
+    },
+    {
+      "id": "A5xZeqZG",
+      "date": "2026-02-01T11:00:00.000Z",
+      "round": "Round 21",
+      "homeTeam": "Navalcarnero",
+      "awayTeam": "UD San Sebastian Reyes",
+      "homeScore": 0,
+      "awayScore": 2,
+      "htHome": 0,
+      "htAway": 2,
+      "status": "FINISHED",
+      "stats": {
+        "Yellow cards": [
+          "0",
+          "1"
+        ],
+        "Red cards": [
+          "0",
+          "1"
+        ]
+      }
+    },
+    {
+      "id": "tha6wyJk",
+      "date": "2026-02-01T11:00:00.000Z",
+      "round": "Round 21",
+      "homeTeam": "RSD Alcala",
+      "awayTeam": "CD Colonia Moscardo",
+      "homeScore": 3,
+      "awayScore": 0,
+      "htHome": 2,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "S07gaIu9",
+      "date": "2026-02-01T11:00:00.000Z",
+      "round": "Round 21",
+      "homeTeam": "Socuéllamos",
+      "awayTeam": "Getafe B",
+      "homeScore": 2,
+      "awayScore": 1,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Yellow cards": [
+          "0",
+          "1"
+        ],
+        "Red cards": [
+          "0",
+          "1"
+        ]
+      }
+    },
+    {
+      "id": "EcusjE2e",
+      "date": "2026-02-01T11:00:00.000Z",
+      "round": "Round 21",
+      "homeTeam": "Tenerife B",
+      "awayTeam": "CF Intercity",
+      "homeScore": 2,
+      "awayScore": 0,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "lGe2cdAL",
+      "date": "2026-02-01T10:00:00.000Z",
+      "round": "Round 21",
+      "homeTeam": "Rayo Majadahonda",
+      "awayTeam": "Las Palmas B",
+      "homeScore": 2,
+      "awayScore": 2,
+      "htHome": 0,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "tGcWzTv1",
+      "date": "2026-01-28T16:00:00.000Z",
+      "round": "Round 15",
+      "homeTeam": "Tenerife B",
+      "awayTeam": "Rayo Vallecano B",
+      "homeScore": 2,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "nkpAWS55",
+      "date": "2026-01-25T16:00:00.000Z",
+      "round": "Round 20",
+      "homeTeam": "CD Coria",
+      "awayTeam": "Rayo Majadahonda",
+      "homeScore": 0,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "6DuIaRZi",
+      "date": "2026-01-25T16:00:00.000Z",
+      "round": "Round 20",
+      "homeTeam": "Orihuela",
+      "awayTeam": "Elche Ilicitano",
+      "homeScore": 1,
+      "awayScore": 1,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "ppCzmljn",
+      "date": "2026-01-25T15:00:00.000Z",
+      "round": "Round 20",
+      "homeTeam": "Conquense",
+      "awayTeam": "CD Quintanar del Rey",
+      "homeScore": 2,
+      "awayScore": 1,
+      "htHome": 1,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "GUyRSp5U",
+      "date": "2026-01-25T12:00:00.000Z",
+      "round": "Round 20",
+      "homeTeam": "Las Palmas B",
+      "awayTeam": "Navalcarnero",
+      "homeScore": 3,
+      "awayScore": 2,
+      "htHome": 2,
+      "htAway": 2,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "tC5qoSKb",
+      "date": "2026-01-25T11:00:00.000Z",
+      "round": "Round 20",
+      "homeTeam": "CF Intercity",
+      "awayTeam": "Real Madrid C",
+      "homeScore": 1,
+      "awayScore": 2,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Red cards": [
+          "1",
+          "0"
+        ]
+      }
+    },
+    {
+      "id": "fFmIU6zI",
+      "date": "2026-01-25T11:00:00.000Z",
+      "round": "Round 20",
+      "homeTeam": "CD Colonia Moscardo",
+      "awayTeam": "Tenerife B",
+      "homeScore": 0,
+      "awayScore": 2,
+      "htHome": 0,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "EP3iq6kB",
+      "date": "2026-01-25T10:30:00.000Z",
+      "round": "Round 20",
+      "homeTeam": "Getafe B",
+      "awayTeam": "RSD Alcala",
+      "homeScore": 3,
+      "awayScore": 0,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "Aic0spKN",
+      "date": "2026-01-24T17:00:00.000Z",
+      "round": "Round 20",
+      "homeTeam": "Rayo Vallecano B",
+      "awayTeam": "Fuenlabrada",
+      "homeScore": 1,
+      "awayScore": 2,
+      "htHome": 0,
+      "htAway": 2,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "QH2VyOso",
+      "date": "2026-01-24T16:00:00.000Z",
+      "round": "Round 20",
+      "homeTeam": "UD San Sebastian Reyes",
+      "awayTeam": "Socuéllamos",
+      "homeScore": 3,
+      "awayScore": 0,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "tCNrG7LO",
+      "date": "2026-01-18T16:30:00.000Z",
+      "round": "Round 19",
+      "homeTeam": "Rayo Majadahonda",
+      "awayTeam": "Conquense",
+      "homeScore": 2,
+      "awayScore": 0,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Yellow cards": [
+          "0",
+          "1"
+        ],
+        "Red cards": [
+          "0",
+          "1"
+        ]
+      }
+    },
+    {
+      "id": "rsN93UyJ",
+      "date": "2026-01-18T15:30:00.000Z",
+      "round": "Round 19",
+      "homeTeam": "CD Quintanar del Rey",
+      "awayTeam": "Rayo Vallecano B",
+      "homeScore": 0,
+      "awayScore": 0,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "CWVRJkMa",
+      "date": "2026-01-18T11:00:00.000Z",
+      "round": "Round 19",
+      "homeTeam": "Navalcarnero",
+      "awayTeam": "Getafe B",
+      "homeScore": 0,
+      "awayScore": 0,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Yellow cards": [
+          "0",
+          "1"
+        ],
+        "Red cards": [
+          "0",
+          "1"
+        ]
+      }
+    },
+    {
+      "id": "nFT05j76",
+      "date": "2026-01-18T11:00:00.000Z",
+      "round": "Round 19",
+      "homeTeam": "RSD Alcala",
+      "awayTeam": "UD San Sebastian Reyes",
+      "homeScore": 1,
+      "awayScore": 1,
+      "htHome": 1,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "I9hgzB6t",
+      "date": "2026-01-18T11:00:00.000Z",
+      "round": "Round 19",
+      "homeTeam": "Socuéllamos",
+      "awayTeam": "CF Intercity",
+      "homeScore": 1,
+      "awayScore": 1,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Red cards": [
+          "0",
+          "1"
+        ]
+      }
+    },
+    {
+      "id": "46SJLBim",
+      "date": "2026-01-17T17:30:00.000Z",
+      "round": "Round 19",
+      "homeTeam": "Fuenlabrada",
+      "awayTeam": "CD Coria",
+      "homeScore": 1,
+      "awayScore": 2,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "jNj1Ylyg",
+      "date": "2026-01-17T16:30:00.000Z",
+      "round": "Round 19",
+      "homeTeam": "Real Madrid C",
+      "awayTeam": "Orihuela",
+      "homeScore": 1,
+      "awayScore": 3,
+      "htHome": 1,
+      "htAway": 2,
+      "status": "FINISHED",
+      "stats": {
+        "Yellow cards": [
+          "1",
+          "0"
+        ],
+        "Red cards": [
+          "1",
+          "0"
+        ]
+      }
+    },
+    {
+      "id": "zyAeRXTP",
+      "date": "2026-01-17T16:00:00.000Z",
+      "round": "Round 19",
+      "homeTeam": "Elche Ilicitano",
+      "awayTeam": "CD Colonia Moscardo",
+      "homeScore": 1,
+      "awayScore": 1,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "E3ACRtO8",
+      "date": "2026-01-11T16:30:00.000Z",
+      "round": "Round 18",
+      "homeTeam": "Rayo Vallecano B",
+      "awayTeam": "Navalcarnero",
+      "homeScore": 2,
+      "awayScore": 1,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Red cards": [
+          "0",
+          "1"
+        ]
+      }
+    },
+    {
+      "id": "WK8ri0nd",
+      "date": "2026-01-11T16:00:00.000Z",
+      "round": "Round 18",
+      "homeTeam": "CD Coria",
+      "awayTeam": "CD Quintanar del Rey",
+      "homeScore": 0,
+      "awayScore": 0,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Red cards": [
+          "0",
+          "1"
+        ]
+      }
+    },
+    {
+      "id": "IZyp9Y7s",
+      "date": "2026-01-11T15:30:00.000Z",
+      "round": "Round 18",
+      "homeTeam": "Conquense",
+      "awayTeam": "RSD Alcala",
+      "homeScore": 2,
+      "awayScore": 1,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "vkQh7Cxf",
+      "date": "2026-01-11T12:00:00.000Z",
+      "round": "Round 18",
+      "homeTeam": "Las Palmas B",
+      "awayTeam": "Elche Ilicitano",
+      "homeScore": 1,
+      "awayScore": 2,
+      "htHome": 1,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "QsUH5a1k",
+      "date": "2026-01-11T11:00:00.000Z",
+      "round": "Round 18",
+      "homeTeam": "CF Intercity",
+      "awayTeam": "Orihuela",
+      "homeScore": 2,
+      "awayScore": 1,
+      "htHome": 1,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "KtkwDs9F",
+      "date": "2026-01-11T11:00:00.000Z",
+      "round": "Round 18",
+      "homeTeam": "CD Colonia Moscardo",
+      "awayTeam": "Socuéllamos",
+      "homeScore": 3,
+      "awayScore": 1,
+      "htHome": 1,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "6cmoBLwS",
+      "date": "2026-01-11T11:00:00.000Z",
+      "round": "Round 18",
+      "homeTeam": "Fuenlabrada",
+      "awayTeam": "Tenerife B",
+      "homeScore": 1,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Red cards": [
+          "1",
+          "0"
+        ]
+      }
+    },
+    {
+      "id": "beSP3wW1",
+      "date": "2026-01-11T11:00:00.000Z",
+      "round": "Round 18",
+      "homeTeam": "UD San Sebastian Reyes",
+      "awayTeam": "Rayo Majadahonda",
+      "homeScore": 1,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "bR0UE3v3",
+      "date": "2026-01-11T10:30:00.000Z",
+      "round": "Round 18",
+      "homeTeam": "Getafe B",
+      "awayTeam": "Real Madrid C",
+      "homeScore": 2,
+      "awayScore": 1,
+      "htHome": 1,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "lbfF5vph",
+      "date": "2026-01-04T18:30:00.000Z",
+      "round": "Round 17",
+      "homeTeam": "Real Madrid C",
+      "awayTeam": "UD San Sebastian Reyes",
+      "homeScore": 1,
+      "awayScore": 2,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "8Oh3fEyi",
+      "date": "2026-01-04T17:30:00.000Z",
+      "round": "Round 17",
+      "homeTeam": "Orihuela",
+      "awayTeam": "CD Colonia Moscardo",
+      "homeScore": 1,
+      "awayScore": 1,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "IwnW1dqH",
+      "date": "2026-01-04T11:00:00.000Z",
+      "round": "Round 17",
+      "homeTeam": "Navalcarnero",
+      "awayTeam": "CD Coria",
+      "homeScore": 1,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "bDLe04P9",
+      "date": "2026-01-04T11:00:00.000Z",
+      "round": "Round 17",
+      "homeTeam": "CD Quintanar del Rey",
+      "awayTeam": "Las Palmas B",
+      "homeScore": 0,
+      "awayScore": 2,
+      "htHome": 0,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "pQmO3IE4",
+      "date": "2026-01-04T11:00:00.000Z",
+      "round": "Round 17",
+      "homeTeam": "RSD Alcala",
+      "awayTeam": "Fuenlabrada",
+      "homeScore": 0,
+      "awayScore": 0,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "jmIm2Qfc",
+      "date": "2026-01-04T11:00:00.000Z",
+      "round": "Round 17",
+      "homeTeam": "Socuéllamos",
+      "awayTeam": "Rayo Vallecano B",
+      "homeScore": 0,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "xt2XazET",
+      "date": "2026-01-04T11:00:00.000Z",
+      "round": "Round 17",
+      "homeTeam": "Tenerife B",
+      "awayTeam": "Getafe B",
+      "homeScore": 1,
+      "awayScore": 2,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "zgFZhMHq",
+      "date": "2026-01-03T20:00:00.000Z",
+      "round": "Round 17",
+      "homeTeam": "Rayo Majadahonda",
+      "awayTeam": "CF Intercity",
+      "homeScore": 4,
+      "awayScore": 1,
+      "htHome": 2,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "vNT3brfM",
+      "date": "2026-01-03T15:00:00.000Z",
+      "round": "Round 17",
+      "homeTeam": "Elche Ilicitano",
+      "awayTeam": "Conquense",
+      "homeScore": 5,
+      "awayScore": 2,
+      "htHome": 3,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "WMNlkJaB",
+      "date": "2025-12-21T16:30:00.000Z",
+      "round": "Round 16",
+      "homeTeam": "Real Madrid C",
+      "awayTeam": "Navalcarnero",
+      "homeScore": 1,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "l0PLopgJ",
+      "date": "2025-12-21T12:00:00.000Z",
+      "round": "Round 16",
+      "homeTeam": "Las Palmas B",
+      "awayTeam": "Socuéllamos",
+      "homeScore": 3,
+      "awayScore": 0,
+      "htHome": 2,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "zeUuiuVb",
+      "date": "2025-12-21T11:15:00.000Z",
+      "round": "Round 16",
+      "homeTeam": "Rayo Vallecano B",
+      "awayTeam": "Rayo Majadahonda",
+      "homeScore": 0,
+      "awayScore": 4,
+      "htHome": 0,
+      "htAway": 2,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "xKQdmcUN",
+      "date": "2025-12-20T16:45:00.000Z",
+      "round": "Round 16",
+      "homeTeam": "CD Coria",
+      "awayTeam": "RSD Alcala",
+      "homeScore": 1,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "Mi2Tsyho",
+      "date": "2025-12-20T16:30:00.000Z",
+      "round": "Round 16",
+      "homeTeam": "Fuenlabrada",
+      "awayTeam": "Elche Ilicitano",
+      "homeScore": 1,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "GYBEm6O6",
+      "date": "2025-12-20T15:00:00.000Z",
+      "round": "Round 16",
+      "homeTeam": "CD Colonia Moscardo",
+      "awayTeam": "CD Quintanar del Rey",
+      "homeScore": 1,
+      "awayScore": 5,
+      "htHome": 1,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Yellow cards": [
+          "1",
+          "1"
+        ],
+        "Red cards": [
+          "1",
+          "1"
+        ]
+      }
+    },
+    {
+      "id": "2sWXh10n",
+      "date": "2025-12-20T15:00:00.000Z",
+      "round": "Round 16",
+      "homeTeam": "Conquense",
+      "awayTeam": "CF Intercity",
+      "homeScore": 2,
+      "awayScore": 2,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Red cards": [
+          "1",
+          "0"
+        ]
+      }
+    },
+    {
+      "id": "ngKcilPs",
+      "date": "2025-12-20T15:00:00.000Z",
+      "round": "Round 16",
+      "homeTeam": "Getafe B",
+      "awayTeam": "Orihuela",
+      "homeScore": 2,
+      "awayScore": 3,
+      "htHome": 1,
+      "htAway": 2,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "fJN5kSgf",
+      "date": "2025-12-20T11:00:00.000Z",
+      "round": "Round 16",
+      "homeTeam": "UD San Sebastian Reyes",
+      "awayTeam": "Tenerife B",
+      "homeScore": 1,
+      "awayScore": 2,
+      "htHome": 0,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "29A4MTP7",
+      "date": "2025-12-14T16:00:00.000Z",
+      "round": "Round 15",
+      "homeTeam": "Elche Ilicitano",
+      "awayTeam": "CD Coria",
+      "homeScore": 1,
+      "awayScore": 1,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Yellow cards": [
+          "1",
+          "0"
+        ],
+        "Red cards": [
+          "1",
+          "0"
+        ]
+      }
+    },
+    {
+      "id": "UeCdOkee",
+      "date": "2025-12-14T15:30:00.000Z",
+      "round": "Round 15",
+      "homeTeam": "CD Quintanar del Rey",
+      "awayTeam": "UD San Sebastian Reyes",
+      "homeScore": 0,
+      "awayScore": 2,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "thFqpXHE",
+      "date": "2025-12-14T11:00:00.000Z",
+      "round": "Round 15",
+      "homeTeam": "CF Intercity",
+      "awayTeam": "Getafe B",
+      "homeScore": 1,
+      "awayScore": 0,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "zFjuZ69D",
+      "date": "2025-12-14T11:00:00.000Z",
+      "round": "Round 15",
+      "homeTeam": "Orihuela",
+      "awayTeam": "Las Palmas B",
+      "homeScore": 3,
+      "awayScore": 2,
+      "htHome": 2,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "YTImQBQr",
+      "date": "2025-12-14T11:00:00.000Z",
+      "round": "Round 15",
+      "homeTeam": "RSD Alcala",
+      "awayTeam": "Real Madrid C",
+      "homeScore": 1,
+      "awayScore": 0,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "S8wRdA1K",
+      "date": "2025-12-14T11:00:00.000Z",
+      "round": "Round 15",
+      "homeTeam": "Socuéllamos",
+      "awayTeam": "Conquense",
+      "homeScore": 0,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "lIIirBnR",
+      "date": "2025-12-14T10:30:00.000Z",
+      "round": "Round 15",
+      "homeTeam": "Navalcarnero",
+      "awayTeam": "CD Colonia Moscardo",
+      "homeScore": 2,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "YkfOxkAl",
+      "date": "2025-12-13T15:00:00.000Z",
+      "round": "Round 15",
+      "homeTeam": "Rayo Majadahonda",
+      "awayTeam": "Fuenlabrada",
+      "homeScore": 1,
+      "awayScore": 0,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "6uKXbZRq",
+      "date": "2025-12-07T11:00:00.000Z",
+      "round": "Round 14",
+      "homeTeam": "CD Coria",
+      "awayTeam": "Tenerife B",
+      "homeScore": 2,
+      "awayScore": 1,
+      "htHome": 1,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "f10SKGl3",
+      "date": "2025-12-07T11:00:00.000Z",
+      "round": "Round 14",
+      "homeTeam": "Fuenlabrada",
+      "awayTeam": "CD Quintanar del Rey",
+      "homeScore": 2,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "2oSHVX2L",
+      "date": "2025-12-07T11:00:00.000Z",
+      "round": "Round 14",
+      "homeTeam": "UD San Sebastian Reyes",
+      "awayTeam": "CF Intercity",
+      "homeScore": 0,
+      "awayScore": 0,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "tWw9XgY8",
+      "date": "2025-12-07T10:30:00.000Z",
+      "round": "Round 14",
+      "homeTeam": "Getafe B",
+      "awayTeam": "Elche Ilicitano",
+      "homeScore": 2,
+      "awayScore": 2,
+      "htHome": 1,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "YFwFBCBk",
+      "date": "2025-12-07T10:30:00.000Z",
+      "round": "Round 14",
+      "homeTeam": "Navalcarnero",
+      "awayTeam": "RSD Alcala",
+      "homeScore": 3,
+      "awayScore": 1,
+      "htHome": 1,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "UsXN9jt2",
+      "date": "2025-12-07T10:00:00.000Z",
+      "round": "Round 14",
+      "homeTeam": "Rayo Vallecano B",
+      "awayTeam": "Las Palmas B",
+      "homeScore": 3,
+      "awayScore": 0,
+      "htHome": 2,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "tIbzJfJF",
+      "date": "2025-12-06T17:00:00.000Z",
+      "round": "Round 14",
+      "homeTeam": "Conquense",
+      "awayTeam": "Orihuela",
+      "homeScore": 0,
+      "awayScore": 0,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "E5NucDdd",
+      "date": "2025-12-06T16:30:00.000Z",
+      "round": "Round 14",
+      "homeTeam": "Real Madrid C",
+      "awayTeam": "Socuéllamos",
+      "homeScore": 1,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "xphqHYmS",
+      "date": "2025-12-06T15:15:00.000Z",
+      "round": "Round 14",
+      "homeTeam": "CD Colonia Moscardo",
+      "awayTeam": "Rayo Majadahonda",
+      "homeScore": 0,
+      "awayScore": 0,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "vR3iJ3Db",
+      "date": "2025-11-30T16:00:00.000Z",
+      "round": "Round 13",
+      "homeTeam": "Orihuela",
+      "awayTeam": "RSD Alcala",
+      "homeScore": 0,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Red cards": [
+          "1",
+          "0"
+        ]
+      }
+    },
+    {
+      "id": "Cv2aHsrB",
+      "date": "2025-11-30T12:00:00.000Z",
+      "round": "Round 13",
+      "homeTeam": "Las Palmas B",
+      "awayTeam": "Conquense",
+      "homeScore": 1,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Red cards": [
+          "0",
+          "1"
+        ]
+      }
+    },
+    {
+      "id": "QNwI44b5",
+      "date": "2025-11-30T11:00:00.000Z",
+      "round": "Round 13",
+      "homeTeam": "CF Intercity",
+      "awayTeam": "Rayo Vallecano B",
+      "homeScore": 2,
+      "awayScore": 0,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "ncA98nat",
+      "date": "2025-11-30T11:00:00.000Z",
+      "round": "Round 13",
+      "homeTeam": "Fuenlabrada",
+      "awayTeam": "CD Colonia Moscardo",
+      "homeScore": 3,
+      "awayScore": 0,
+      "htHome": 2,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Red cards": [
+          "0",
+          "1"
+        ]
+      }
+    },
+    {
+      "id": "YmsQ2rTH",
+      "date": "2025-11-30T11:00:00.000Z",
+      "round": "Round 13",
+      "homeTeam": "Socuéllamos",
+      "awayTeam": "CD Coria",
+      "homeScore": 2,
+      "awayScore": 0,
+      "htHome": 2,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "pSArLPrn",
+      "date": "2025-11-30T11:00:00.000Z",
+      "round": "Round 13",
+      "homeTeam": "Tenerife B",
+      "awayTeam": "Real Madrid C",
+      "homeScore": 3,
+      "awayScore": 3,
+      "htHome": 0,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "8WvalqEO",
+      "date": "2025-11-29T16:30:00.000Z",
+      "round": "Round 13",
+      "homeTeam": "Rayo Majadahonda",
+      "awayTeam": "Navalcarnero",
+      "homeScore": 0,
+      "awayScore": 0,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "KA8H6QTh",
+      "date": "2025-11-29T16:00:00.000Z",
+      "round": "Round 13",
+      "homeTeam": "Elche Ilicitano",
+      "awayTeam": "UD San Sebastian Reyes",
+      "homeScore": 1,
+      "awayScore": 2,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "f3VY0McU",
+      "date": "2025-11-29T16:00:00.000Z",
+      "round": "Round 13",
+      "homeTeam": "CD Quintanar del Rey",
+      "awayTeam": "Getafe B",
+      "homeScore": 3,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "E933a9MP",
+      "date": "2025-11-23T16:00:00.000Z",
+      "round": "Round 12",
+      "homeTeam": "Real Madrid C",
+      "awayTeam": "CD Quintanar del Rey",
+      "homeScore": 0,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "MFGHy6UI",
+      "date": "2025-11-23T15:00:00.000Z",
+      "round": "Round 12",
+      "homeTeam": "Conquense",
+      "awayTeam": "Fuenlabrada",
+      "homeScore": 2,
+      "awayScore": 0,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Red cards": [
+          "1",
+          "1"
+        ]
+      }
+    },
+    {
+      "id": "Ygpzfmpm",
+      "date": "2025-11-23T15:00:00.000Z",
+      "round": "Round 12",
+      "homeTeam": "Rayo Vallecano B",
+      "awayTeam": "Elche Ilicitano",
+      "homeScore": 0,
+      "awayScore": 2,
+      "htHome": 0,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "nZqMnWxK",
+      "date": "2025-11-23T11:00:00.000Z",
+      "round": "Round 12",
+      "homeTeam": "CD Coria",
+      "awayTeam": "Las Palmas B",
+      "homeScore": 1,
+      "awayScore": 0,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Red cards": [
+          "1",
+          "0"
+        ]
+      }
+    },
+    {
+      "id": "QmN8wSa6",
+      "date": "2025-11-23T11:00:00.000Z",
+      "round": "Round 12",
+      "homeTeam": "RSD Alcala",
+      "awayTeam": "Rayo Majadahonda",
+      "homeScore": 0,
+      "awayScore": 2,
+      "htHome": 0,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Yellow cards": [
+          "1",
+          "0"
+        ],
+        "Red cards": [
+          "1",
+          "0"
+        ]
+      }
+    },
+    {
+      "id": "IHzhsA0s",
+      "date": "2025-11-23T10:30:00.000Z",
+      "round": "Round 12",
+      "homeTeam": "Getafe B",
+      "awayTeam": "Socuéllamos",
+      "homeScore": 1,
+      "awayScore": 0,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "vXO0ulVg",
+      "date": "2025-11-23T10:30:00.000Z",
+      "round": "Round 12",
+      "homeTeam": "Navalcarnero",
+      "awayTeam": "Tenerife B",
+      "homeScore": 4,
+      "awayScore": 1,
+      "htHome": 3,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "06yij5qC",
+      "date": "2025-11-22T16:30:00.000Z",
+      "round": "Round 12",
+      "homeTeam": "UD San Sebastian Reyes",
+      "awayTeam": "Orihuela",
+      "homeScore": 2,
+      "awayScore": 1,
+      "htHome": 1,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "vimrhREa",
+      "date": "2025-11-22T15:15:00.000Z",
+      "round": "Round 12",
+      "homeTeam": "CD Colonia Moscardo",
+      "awayTeam": "CF Intercity",
+      "homeScore": 1,
+      "awayScore": 3,
+      "htHome": 0,
+      "htAway": 2,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "rR6cNfhB",
+      "date": "2025-11-19T16:00:00.000Z",
+      "round": "Round 10",
+      "homeTeam": "CD Coria",
+      "awayTeam": "Orihuela",
+      "homeScore": 0,
+      "awayScore": 0,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "dpHTttk1",
+      "date": "2025-11-16T16:00:00.000Z",
+      "round": "Round 11",
+      "homeTeam": "Elche Ilicitano",
+      "awayTeam": "RSD Alcala",
+      "homeScore": 3,
+      "awayScore": 3,
+      "htHome": 1,
+      "htAway": 2,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "UcFyuKJD",
+      "date": "2025-11-16T15:30:00.000Z",
+      "round": "Round 11",
+      "homeTeam": "CD Quintanar del Rey",
+      "awayTeam": "Conquense",
+      "homeScore": 0,
+      "awayScore": 0,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "6saMnBLM",
+      "date": "2025-11-16T11:00:00.000Z",
+      "round": "Round 11",
+      "homeTeam": "Fuenlabrada",
+      "awayTeam": "Navalcarnero",
+      "homeScore": 1,
+      "awayScore": 0,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "Aysl1AzG",
+      "date": "2025-11-16T11:00:00.000Z",
+      "round": "Round 11",
+      "homeTeam": "Las Palmas B",
+      "awayTeam": "Getafe B",
+      "homeScore": 3,
+      "awayScore": 2,
+      "htHome": 1,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Red cards": [
+          "0",
+          "1"
+        ]
+      }
+    },
+    {
+      "id": "AF5DlXjA",
+      "date": "2025-11-16T11:00:00.000Z",
+      "round": "Round 11",
+      "homeTeam": "Rayo Majadahonda",
+      "awayTeam": "Real Madrid C",
+      "homeScore": 1,
+      "awayScore": 0,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "2Dphskqp",
+      "date": "2025-11-16T11:00:00.000Z",
+      "round": "Round 11",
+      "homeTeam": "Socuéllamos",
+      "awayTeam": "UD San Sebastian Reyes",
+      "homeScore": 0,
+      "awayScore": 2,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "Gz9Lr2Kl",
+      "date": "2025-11-16T11:00:00.000Z",
+      "round": "Round 11",
+      "homeTeam": "Tenerife B",
+      "awayTeam": "CD Colonia Moscardo",
+      "homeScore": 3,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "MF0guTDd",
+      "date": "2025-11-15T18:00:00.000Z",
+      "round": "Round 11",
+      "homeTeam": "Orihuela",
+      "awayTeam": "Rayo Vallecano B",
+      "homeScore": 2,
+      "awayScore": 0,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "lMhu3W53",
+      "date": "2025-11-15T15:00:00.000Z",
+      "round": "Round 11",
+      "homeTeam": "CF Intercity",
+      "awayTeam": "CD Coria",
+      "homeScore": 0,
+      "awayScore": 2,
+      "htHome": 0,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "UcFyuKJD",
+      "date": "2025-11-16T15:30:00.000Z",
+      "round": "Round 11",
+      "homeTeam": "CD Quintanar del Rey",
+      "awayTeam": "Conquense",
+      "homeScore": 0,
+      "awayScore": 0,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "6saMnBLM",
+      "date": "2025-11-16T11:00:00.000Z",
+      "round": "Round 11",
+      "homeTeam": "Fuenlabrada",
+      "awayTeam": "Navalcarnero",
+      "homeScore": 1,
+      "awayScore": 0,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "Aysl1AzG",
+      "date": "2025-11-16T11:00:00.000Z",
+      "round": "Round 11",
+      "homeTeam": "Las Palmas B",
+      "awayTeam": "Getafe B",
+      "homeScore": 3,
+      "awayScore": 2,
+      "htHome": 1,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Red cards": [
+          "0",
+          "1"
+        ]
+      }
+    },
+    {
+      "id": "AF5DlXjA",
+      "date": "2025-11-16T11:00:00.000Z",
+      "round": "Round 11",
+      "homeTeam": "Rayo Majadahonda",
+      "awayTeam": "Real Madrid C",
+      "homeScore": 1,
+      "awayScore": 0,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "2Dphskqp",
+      "date": "2025-11-16T11:00:00.000Z",
+      "round": "Round 11",
+      "homeTeam": "Socuéllamos",
+      "awayTeam": "UD San Sebastian Reyes",
+      "homeScore": 0,
+      "awayScore": 2,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "Gz9Lr2Kl",
+      "date": "2025-11-16T11:00:00.000Z",
+      "round": "Round 11",
+      "homeTeam": "Tenerife B",
+      "awayTeam": "CD Colonia Moscardo",
+      "homeScore": 3,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "MF0guTDd",
+      "date": "2025-11-15T18:00:00.000Z",
+      "round": "Round 11",
+      "homeTeam": "Orihuela",
+      "awayTeam": "Rayo Vallecano B",
+      "homeScore": 2,
+      "awayScore": 0,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "lMhu3W53",
+      "date": "2025-11-15T15:00:00.000Z",
+      "round": "Round 11",
+      "homeTeam": "CF Intercity",
+      "awayTeam": "CD Coria",
+      "homeScore": 0,
+      "awayScore": 2,
+      "htHome": 0,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "I1SRPYeJ",
+      "date": "2025-11-12T19:00:00.000Z",
+      "round": "Round 5",
+      "homeTeam": "Rayo Vallecano B",
+      "awayTeam": "RSD Alcala",
+      "homeScore": 3,
+      "awayScore": 1,
+      "htHome": 2,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "ObsWyf74",
+      "date": "2025-11-09T15:00:00.000Z",
+      "round": "Round 10",
+      "homeTeam": "Conquense",
+      "awayTeam": "Getafe B",
+      "homeScore": 0,
+      "awayScore": 0,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "MgPISkUj",
+      "date": "2025-11-09T13:45:00.000Z",
+      "round": "Round 10",
+      "homeTeam": "Rayo Vallecano B",
+      "awayTeam": "CD Quintanar del Rey",
+      "homeScore": 4,
+      "awayScore": 1,
+      "htHome": 2,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "jiA5LYMN",
+      "date": "2025-11-09T11:00:00.000Z",
+      "round": "Round 10",
+      "homeTeam": "Rayo Majadahonda",
+      "awayTeam": "Tenerife B",
+      "homeScore": 2,
+      "awayScore": 1,
+      "htHome": 1,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "zPoxGCpo",
+      "date": "2025-11-09T10:30:00.000Z",
+      "round": "Round 10",
+      "homeTeam": "Navalcarnero",
+      "awayTeam": "Socuéllamos",
+      "homeScore": 1,
+      "awayScore": 0,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "hvZnYB6T",
+      "date": "2025-11-09T10:00:00.000Z",
+      "round": "Round 10",
+      "homeTeam": "UD San Sebastian Reyes",
+      "awayTeam": "Las Palmas B",
+      "homeScore": 1,
+      "awayScore": 1,
+      "htHome": 1,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "SWmNwGxh",
+      "date": "2025-11-08T17:00:00.000Z",
+      "round": "Round 10",
+      "homeTeam": "RSD Alcala",
+      "awayTeam": "CF Intercity",
+      "homeScore": 2,
+      "awayScore": 0,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "dCuvzYyH",
+      "date": "2025-11-08T16:30:00.000Z",
+      "round": "Round 10",
+      "homeTeam": "Real Madrid C",
+      "awayTeam": "Fuenlabrada",
+      "homeScore": 3,
+      "awayScore": 1,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "2k25jgMc",
+      "date": "2025-11-08T16:00:00.000Z",
+      "round": "Round 10",
+      "homeTeam": "CD Colonia Moscardo",
+      "awayTeam": "Elche Ilicitano",
+      "homeScore": 3,
+      "awayScore": 2,
+      "htHome": 2,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "xlpW6Z7U",
+      "date": "2025-11-02T16:00:00.000Z",
+      "round": "Round 9",
+      "homeTeam": "CD Quintanar del Rey",
+      "awayTeam": "Rayo Majadahonda",
+      "homeScore": 0,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Yellow cards": [
+          "1",
+          "0"
+        ],
+        "Red cards": [
+          "1",
+          "0"
+        ]
+      }
+    },
+    {
+      "id": "0rk7Cwvg",
+      "date": "2025-11-02T15:00:00.000Z",
+      "round": "Round 9",
+      "homeTeam": "Conquense",
+      "awayTeam": "UD San Sebastian Reyes",
+      "homeScore": 1,
+      "awayScore": 0,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "ttZ5Ea9t",
+      "date": "2025-11-02T12:00:00.000Z",
+      "round": "Round 9",
+      "homeTeam": "Las Palmas B",
+      "awayTeam": "CD Colonia Moscardo",
+      "homeScore": 3,
+      "awayScore": 0,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "EoFtRxgn",
+      "date": "2025-11-02T11:30:00.000Z",
+      "round": "Round 9",
+      "homeTeam": "Socuéllamos",
+      "awayTeam": "RSD Alcala",
+      "homeScore": 2,
+      "awayScore": 2,
+      "htHome": 2,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "UNtO8ewI",
+      "date": "2025-11-02T11:00:00.000Z",
+      "round": "Round 9",
+      "homeTeam": "CF Intercity",
+      "awayTeam": "Navalcarnero",
+      "homeScore": 3,
+      "awayScore": 0,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "naDlPGNb",
+      "date": "2025-11-02T11:00:00.000Z",
+      "round": "Round 9",
+      "homeTeam": "Tenerife B",
+      "awayTeam": "Fuenlabrada",
+      "homeScore": 1,
+      "awayScore": 3,
+      "htHome": 0,
+      "htAway": 2,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "jDNf7r2D",
+      "date": "2025-11-02T10:30:00.000Z",
+      "round": "Round 9",
+      "homeTeam": "Getafe B",
+      "awayTeam": "Rayo Vallecano B",
+      "homeScore": 3,
+      "awayScore": 0,
+      "htHome": 2,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "88hFAH85",
+      "date": "2025-11-02T10:00:00.000Z",
+      "round": "Round 9",
+      "homeTeam": "Elche Ilicitano",
+      "awayTeam": "Orihuela",
+      "homeScore": 2,
+      "awayScore": 5,
+      "htHome": 1,
+      "htAway": 2,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "foUo94X0",
+      "date": "2025-11-01T17:30:00.000Z",
+      "round": "Round 9",
+      "homeTeam": "CD Coria",
+      "awayTeam": "Real Madrid C",
+      "homeScore": 2,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "GIBQ39eL",
+      "date": "2025-10-26T18:00:00.000Z",
+      "round": "Round 8",
+      "homeTeam": "Orihuela",
+      "awayTeam": "CD Quintanar del Rey",
+      "homeScore": 3,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "AuXaI8AE",
+      "date": "2025-10-26T15:00:00.000Z",
+      "round": "Round 8",
+      "homeTeam": "Rayo Vallecano B",
+      "awayTeam": "Conquense",
+      "homeScore": 0,
+      "awayScore": 0,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "MJj5dRme",
+      "date": "2025-10-26T11:00:00.000Z",
+      "round": "Round 8",
+      "homeTeam": "CD Colonia Moscardo",
+      "awayTeam": "Getafe B",
+      "homeScore": 1,
+      "awayScore": 2,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "f3NH5VQ8",
+      "date": "2025-10-26T11:00:00.000Z",
+      "round": "Round 8",
+      "homeTeam": "Fuenlabrada",
+      "awayTeam": "Socuéllamos",
+      "homeScore": 1,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Yellow cards": [
+          "1",
+          "0"
+        ],
+        "Red cards": [
+          "1",
+          "0"
+        ]
+      }
+    },
+    {
+      "id": "fXlDf5I7",
+      "date": "2025-10-26T10:30:00.000Z",
+      "round": "Round 8",
+      "homeTeam": "Navalcarnero",
+      "awayTeam": "Las Palmas B",
+      "homeScore": 0,
+      "awayScore": 0,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "nLQwBQ2l",
+      "date": "2025-10-26T10:00:00.000Z",
+      "round": "Round 8",
+      "homeTeam": "Real Madrid C",
+      "awayTeam": "CF Intercity",
+      "homeScore": 1,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "2mk7GnuR",
+      "date": "2025-10-25T19:00:00.000Z",
+      "round": "Round 8",
+      "homeTeam": "Rayo Majadahonda",
+      "awayTeam": "Elche Ilicitano",
+      "homeScore": 4,
+      "awayScore": 2,
+      "htHome": 3,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "SdVVsSY1",
+      "date": "2025-10-25T16:00:00.000Z",
+      "round": "Round 8",
+      "homeTeam": "RSD Alcala",
+      "awayTeam": "Tenerife B",
+      "homeScore": 1,
+      "awayScore": 0,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Yellow cards": [
+          "1",
+          "0"
+        ],
+        "Red cards": [
+          "3",
+          "0"
+        ]
+      }
+    },
+    {
+      "id": "QicdbmJr",
+      "date": "2025-10-25T15:30:00.000Z",
+      "round": "Round 8",
+      "homeTeam": "UD San Sebastian Reyes",
+      "awayTeam": "CD Coria",
+      "homeScore": 3,
+      "awayScore": 0,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "hvHmVlkd",
+      "date": "2025-10-19T16:30:00.000Z",
+      "round": "Round 7",
+      "homeTeam": "Orihuela",
+      "awayTeam": "Real Madrid C",
+      "homeScore": 1,
+      "awayScore": 2,
+      "htHome": 1,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "n330tFcc",
+      "date": "2025-10-19T15:30:00.000Z",
+      "round": "Round 7",
+      "homeTeam": "CD Coria",
+      "awayTeam": "Fuenlabrada",
+      "homeScore": 2,
+      "awayScore": 0,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "WUyNql4k",
+      "date": "2025-10-19T15:00:00.000Z",
+      "round": "Round 7",
+      "homeTeam": "CD Quintanar del Rey",
+      "awayTeam": "Elche Ilicitano",
+      "homeScore": 0,
+      "awayScore": 0,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "t0criWBF",
+      "date": "2025-10-19T14:00:00.000Z",
+      "round": "Round 7",
+      "homeTeam": "Rayo Vallecano B",
+      "awayTeam": "CD Colonia Moscardo",
+      "homeScore": 0,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "zajikAtS",
+      "date": "2025-10-19T11:00:00.000Z",
+      "round": "Round 7",
+      "homeTeam": "Las Palmas B",
+      "awayTeam": "RSD Alcala",
+      "homeScore": 2,
+      "awayScore": 0,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "pEDuXAKq",
+      "date": "2025-10-19T10:00:00.000Z",
+      "round": "Round 7",
+      "homeTeam": "CF Intercity",
+      "awayTeam": "Tenerife B",
+      "homeScore": 2,
+      "awayScore": 3,
+      "htHome": 1,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "GreHxXdM",
+      "date": "2025-10-19T10:00:00.000Z",
+      "round": "Round 7",
+      "homeTeam": "Conquense",
+      "awayTeam": "Navalcarnero",
+      "homeScore": 1,
+      "awayScore": 1,
+      "htHome": 1,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "YZgzghs3",
+      "date": "2025-10-19T10:00:00.000Z",
+      "round": "Round 7",
+      "homeTeam": "Socuéllamos",
+      "awayTeam": "Rayo Majadahonda",
+      "homeScore": 1,
+      "awayScore": 2,
+      "htHome": 0,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Yellow cards": [
+          "0",
+          "2"
+        ],
+        "Red cards": [
+          "0",
+          "2"
+        ]
+      }
+    },
+    {
+      "id": "rVd9vgS9",
+      "date": "2025-10-19T09:30:00.000Z",
+      "round": "Round 7",
+      "homeTeam": "Getafe B",
+      "awayTeam": "UD San Sebastian Reyes",
+      "homeScore": 4,
+      "awayScore": 0,
+      "htHome": 3,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "QV3HtOit",
+      "date": "2025-10-12T18:00:00.000Z",
+      "round": "Round 6",
+      "homeTeam": "Rayo Majadahonda",
+      "awayTeam": "CD Coria",
+      "homeScore": 0,
+      "awayScore": 0,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "UudprGBm",
+      "date": "2025-10-12T14:30:00.000Z",
+      "round": "Round 6",
+      "homeTeam": "Navalcarnero",
+      "awayTeam": "Orihuela",
+      "homeScore": 0,
+      "awayScore": 0,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "08btyKLH",
+      "date": "2025-10-12T10:00:00.000Z",
+      "round": "Round 6",
+      "homeTeam": "CD Colonia Moscardo",
+      "awayTeam": "Conquense",
+      "homeScore": 2,
+      "awayScore": 2,
+      "htHome": 2,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "bLm1vYAC",
+      "date": "2025-10-12T10:00:00.000Z",
+      "round": "Round 6",
+      "homeTeam": "Fuenlabrada",
+      "awayTeam": "CF Intercity",
+      "homeScore": 1,
+      "awayScore": 1,
+      "htHome": 1,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "pxn9xCuP",
+      "date": "2025-10-12T10:00:00.000Z",
+      "round": "Round 6",
+      "homeTeam": "Elche Ilicitano",
+      "awayTeam": "Las Palmas B",
+      "homeScore": 0,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Red cards": [
+          "1",
+          "1"
+        ]
+      }
+    },
+    {
+      "id": "x6ahtft0",
+      "date": "2025-10-12T10:00:00.000Z",
+      "round": "Round 6",
+      "homeTeam": "RSD Alcala",
+      "awayTeam": "CD Quintanar del Rey",
+      "homeScore": 1,
+      "awayScore": 0,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "fBeYxti5",
+      "date": "2025-10-12T10:00:00.000Z",
+      "round": "Round 6",
+      "homeTeam": "UD San Sebastian Reyes",
+      "awayTeam": "Rayo Vallecano B",
+      "homeScore": 0,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "KdBEIB5j",
+      "date": "2025-10-12T10:00:00.000Z",
+      "round": "Round 6",
+      "homeTeam": "Tenerife B",
+      "awayTeam": "Socuéllamos",
+      "homeScore": 0,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Red cards": [
+          "0",
+          "1"
+        ]
+      }
+    },
+    {
+      "id": "bq2Pv2Mh",
+      "date": "2025-10-11T15:30:00.000Z",
+      "round": "Round 6",
+      "homeTeam": "Real Madrid C",
+      "awayTeam": "Getafe B",
+      "homeScore": 1,
+      "awayScore": 1,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "xhKJRfR6",
+      "date": "2025-10-05T16:00:00.000Z",
+      "round": "Round 5",
+      "homeTeam": "CD Quintanar del Rey",
+      "awayTeam": "CD Coria",
+      "homeScore": 0,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "boXiDeCD",
+      "date": "2025-10-05T15:00:00.000Z",
+      "round": "Round 5",
+      "homeTeam": "Conquense",
+      "awayTeam": "Real Madrid C",
+      "homeScore": 1,
+      "awayScore": 0,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "AeFDmxlQ",
+      "date": "2025-10-05T11:00:00.000Z",
+      "round": "Round 5",
+      "homeTeam": "Las Palmas B",
+      "awayTeam": "Fuenlabrada",
+      "homeScore": 1,
+      "awayScore": 2,
+      "htHome": 1,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "8CS2VxSs",
+      "date": "2025-10-05T10:00:00.000Z",
+      "round": "Round 5",
+      "homeTeam": "CF Intercity",
+      "awayTeam": "Socuéllamos",
+      "homeScore": 1,
+      "awayScore": 1,
+      "htHome": 1,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "U5uyHwDl",
+      "date": "2025-10-05T09:30:00.000Z",
+      "round": "Round 5",
+      "homeTeam": "Getafe B",
+      "awayTeam": "Rayo Majadahonda",
+      "homeScore": 2,
+      "awayScore": 0,
+      "htHome": 2,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Red cards": [
+          "0",
+          "1"
+        ]
+      }
+    },
+    {
+      "id": "URGBTGdf",
+      "date": "2025-10-05T09:30:00.000Z",
+      "round": "Round 5",
+      "homeTeam": "Orihuela",
+      "awayTeam": "Tenerife B",
+      "homeScore": 1,
+      "awayScore": 2,
+      "htHome": 0,
+      "htAway": 2,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "xUyXza4K",
+      "date": "2025-10-04T16:30:00.000Z",
+      "round": "Round 5",
+      "homeTeam": "Elche Ilicitano",
+      "awayTeam": "Navalcarnero",
+      "homeScore": 0,
+      "awayScore": 0,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "QXYqFHs1",
+      "date": "2025-10-04T15:00:00.000Z",
+      "round": "Round 5",
+      "homeTeam": "CD Colonia Moscardo",
+      "awayTeam": "UD San Sebastian Reyes",
+      "homeScore": 0,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "zR8R0RMj",
+      "date": "2025-09-28T18:00:00.000Z",
+      "round": "Round 4",
+      "homeTeam": "Rayo Majadahonda",
+      "awayTeam": "UD San Sebastian Reyes",
+      "homeScore": 2,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Red cards": [
+          "0",
+          "1"
+        ]
+      }
+    },
+    {
+      "id": "4rIe6maT",
+      "date": "2025-09-28T16:00:00.000Z",
+      "round": "Round 4",
+      "homeTeam": "CD Coria",
+      "awayTeam": "CD Colonia Moscardo",
+      "homeScore": 5,
+      "awayScore": 0,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "GMoEOUEc",
+      "date": "2025-09-28T15:00:00.000Z",
+      "round": "Round 4",
+      "homeTeam": "Navalcarnero",
+      "awayTeam": "CD Quintanar del Rey",
+      "homeScore": 1,
+      "awayScore": 0,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "G2F12vbe",
+      "date": "2025-09-28T10:00:00.000Z",
+      "round": "Round 4",
+      "homeTeam": "CF Intercity",
+      "awayTeam": "Las Palmas B",
+      "homeScore": 3,
+      "awayScore": 2,
+      "htHome": 2,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "rkHg40Tr",
+      "date": "2025-09-28T10:00:00.000Z",
+      "round": "Round 4",
+      "homeTeam": "Fuenlabrada",
+      "awayTeam": "Rayo Vallecano B",
+      "homeScore": 5,
+      "awayScore": 0,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "llaLM8qA",
+      "date": "2025-09-28T10:00:00.000Z",
+      "round": "Round 4",
+      "homeTeam": "RSD Alcala",
+      "awayTeam": "Getafe B",
+      "homeScore": 1,
+      "awayScore": 1,
+      "htHome": 1,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "bNl5MakR",
+      "date": "2025-09-28T10:00:00.000Z",
+      "round": "Round 4",
+      "homeTeam": "Socuéllamos",
+      "awayTeam": "Orihuela",
+      "homeScore": 1,
+      "awayScore": 2,
+      "htHome": 0,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "CU8A0IS7",
+      "date": "2025-09-28T10:00:00.000Z",
+      "round": "Round 4",
+      "homeTeam": "Tenerife B",
+      "awayTeam": "Conquense",
+      "homeScore": 1,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "x80dOLKE",
+      "date": "2025-09-27T11:30:00.000Z",
+      "round": "Round 4",
+      "homeTeam": "Real Madrid C",
+      "awayTeam": "Elche Ilicitano",
+      "homeScore": 0,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "8GOn89UG",
+      "date": "2025-09-21T17:00:00.000Z",
+      "round": "Round 3",
+      "homeTeam": "Orihuela",
+      "awayTeam": "CF Intercity",
+      "homeScore": 0,
+      "awayScore": 4,
+      "htHome": 0,
+      "htAway": 3,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "2cp4chGb",
+      "date": "2025-09-21T16:30:00.000Z",
+      "round": "Round 3",
+      "homeTeam": "CD Quintanar del Rey",
+      "awayTeam": "Socuéllamos",
+      "homeScore": 3,
+      "awayScore": 0,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "UqndaEon",
+      "date": "2025-09-21T10:30:00.000Z",
+      "round": "Round 3",
+      "homeTeam": "Las Palmas B",
+      "awayTeam": "Rayo Majadahonda",
+      "homeScore": 1,
+      "awayScore": 0,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "UP3DgAFN",
+      "date": "2025-09-21T10:00:00.000Z",
+      "round": "Round 3",
+      "homeTeam": "Conquense",
+      "awayTeam": "CD Coria",
+      "homeScore": 2,
+      "awayScore": 0,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Yellow cards": [
+          "0",
+          "2"
+        ],
+        "Red cards": [
+          "0",
+          "2"
+        ]
+      }
+    },
+    {
+      "id": "Ma05eWpB",
+      "date": "2025-09-21T10:00:00.000Z",
+      "round": "Round 3",
+      "homeTeam": "Elche Ilicitano",
+      "awayTeam": "Tenerife B",
+      "homeScore": 0,
+      "awayScore": 2,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "Ecupllwo",
+      "date": "2025-09-21T10:00:00.000Z",
+      "round": "Round 3",
+      "homeTeam": "UD San Sebastian Reyes",
+      "awayTeam": "Navalcarnero",
+      "homeScore": 3,
+      "awayScore": 1,
+      "htHome": 2,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "z3QvAVa4",
+      "date": "2025-09-21T09:30:00.000Z",
+      "round": "Round 3",
+      "homeTeam": "Getafe B",
+      "awayTeam": "Fuenlabrada",
+      "homeScore": 2,
+      "awayScore": 1,
+      "htHome": 1,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Yellow cards": [
+          "1",
+          "0"
+        ],
+        "Red cards": [
+          "1",
+          "0"
+        ]
+      }
+    },
+    {
+      "id": "t4XVBiVi",
+      "date": "2025-09-20T15:30:00.000Z",
+      "round": "Round 3",
+      "homeTeam": "CD Colonia Moscardo",
+      "awayTeam": "RSD Alcala",
+      "homeScore": 1,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Yellow cards": [
+          "0",
+          "1"
+        ],
+        "Red cards": [
+          "0",
+          "1"
+        ]
+      }
+    },
+    {
+      "id": "jJGouB0U",
+      "date": "2025-09-20T15:00:00.000Z",
+      "round": "Round 3",
+      "homeTeam": "Rayo Vallecano B",
+      "awayTeam": "Real Madrid C",
+      "homeScore": 3,
+      "awayScore": 2,
+      "htHome": 3,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Red cards": [
+          "1",
+          "0"
+        ]
+      }
+    },
+    {
+      "id": "rgDwsXVH",
+      "date": "2025-09-14T17:00:00.000Z",
+      "round": "Round 2",
+      "homeTeam": "CF Intercity",
+      "awayTeam": "Elche Ilicitano",
+      "homeScore": 1,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "8fV7jp3E",
+      "date": "2025-09-14T16:30:00.000Z",
+      "round": "Round 2",
+      "homeTeam": "CD Coria",
+      "awayTeam": "Getafe B",
+      "homeScore": 3,
+      "awayScore": 0,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Red cards": [
+          "0",
+          "1"
+        ]
+      }
+    },
+    {
+      "id": "Y3DEny2t",
+      "date": "2025-09-14T16:30:00.000Z",
+      "round": "Round 2",
+      "homeTeam": "Socuéllamos",
+      "awayTeam": "CD Colonia Moscardo",
+      "homeScore": 0,
+      "awayScore": 2,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "z9olWFHa",
+      "date": "2025-09-14T16:00:00.000Z",
+      "round": "Round 2",
+      "homeTeam": "Navalcarnero",
+      "awayTeam": "Rayo Vallecano B",
+      "homeScore": 2,
+      "awayScore": 1,
+      "htHome": 2,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "Iiw5SXGO",
+      "date": "2025-09-14T10:00:00.000Z",
+      "round": "Round 2",
+      "homeTeam": "Fuenlabrada",
+      "awayTeam": "UD San Sebastian Reyes",
+      "homeScore": 0,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "EgcuYymm",
+      "date": "2025-09-14T10:00:00.000Z",
+      "round": "Round 2",
+      "homeTeam": "Rayo Majadahonda",
+      "awayTeam": "Orihuela",
+      "homeScore": 0,
+      "awayScore": 0,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "MPqdUgnC",
+      "date": "2025-09-14T10:00:00.000Z",
+      "round": "Round 2",
+      "homeTeam": "RSD Alcala",
+      "awayTeam": "Conquense",
+      "homeScore": 2,
+      "awayScore": 1,
+      "htHome": 2,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "MwPUrg15",
+      "date": "2025-09-14T10:00:00.000Z",
+      "round": "Round 2",
+      "homeTeam": "Tenerife B",
+      "awayTeam": "CD Quintanar del Rey",
+      "homeScore": 1,
+      "awayScore": 0,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "UV6NpFWh",
+      "date": "2025-09-14T09:00:00.000Z",
+      "round": "Round 2",
+      "homeTeam": "Real Madrid C",
+      "awayTeam": "Las Palmas B",
+      "homeScore": 2,
+      "awayScore": 0,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "KYlDU2te",
+      "date": "2025-09-07T17:30:00.000Z",
+      "round": "Round 1",
+      "homeTeam": "Orihuela",
+      "awayTeam": "Fuenlabrada",
+      "homeScore": 2,
+      "awayScore": 0,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Red cards": [
+          "1",
+          "0"
+        ]
+      }
+    },
+    {
+      "id": "hnmLStB7",
+      "date": "2025-09-07T16:30:00.000Z",
+      "round": "Round 1",
+      "homeTeam": "CD Quintanar del Rey",
+      "awayTeam": "CF Intercity",
+      "homeScore": 0,
+      "awayScore": 0,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "0IgwIPdk",
+      "date": "2025-09-07T11:00:00.000Z",
+      "round": "Round 1",
+      "homeTeam": "Las Palmas B",
+      "awayTeam": "Tenerife B",
+      "homeScore": 0,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "fi5YyolL",
+      "date": "2025-09-07T10:30:00.000Z",
+      "round": "Round 1",
+      "homeTeam": "Rayo Vallecano B",
+      "awayTeam": "CD Coria",
+      "homeScore": 2,
+      "awayScore": 1,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "6VOwG3R1",
+      "date": "2025-09-07T10:00:00.000Z",
+      "round": "Round 1",
+      "homeTeam": "Conquense",
+      "awayTeam": "Rayo Majadahonda",
+      "homeScore": 0,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "YyHPw7J8",
+      "date": "2025-09-07T10:00:00.000Z",
+      "round": "Round 1",
+      "homeTeam": "Elche Ilicitano",
+      "awayTeam": "Socuéllamos",
+      "homeScore": 1,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "8KEbP74F",
+      "date": "2025-09-07T09:30:00.000Z",
+      "round": "Round 1",
+      "homeTeam": "Getafe B",
+      "awayTeam": "Navalcarnero",
+      "homeScore": 3,
+      "awayScore": 2,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Red cards": [
+          "0",
+          "1"
+        ]
+      }
+    },
+    {
+      "id": "4n87NoZR",
+      "date": "2025-09-06T17:00:00.000Z",
+      "round": "Round 1",
+      "homeTeam": "CD Colonia Moscardo",
+      "awayTeam": "Real Madrid C",
+      "homeScore": 1,
+      "awayScore": 2,
+      "htHome": 0,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "QZe4WOBr",
+      "date": "2025-09-06T17:00:00.000Z",
+      "round": "Round 1",
+      "homeTeam": "UD San Sebastian Reyes",
+      "awayTeam": "RSD Alcala",
+      "homeScore": 1,
+      "awayScore": 0,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {}
+    }
+  ]
+}

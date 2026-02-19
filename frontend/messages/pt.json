@@ -1,0 +1,170 @@
+{
+  "metadata": {
+    "title": "Quantsports API — Dados de Futebol",
+    "description": "Dados históricos de futebol de 500+ ligas mundiais. Resultados, estatísticas e classificações de partidas finalizadas."
+  },
+  "nav": {
+    "api": "API",
+    "capabilities": "Recursos",
+    "pricing": "Planos",
+    "coverage": "Cobertura",
+    "docs": "Documentação",
+    "getStarted": "Começar"
+  },
+  "hero": {
+    "title1": "DADOS",
+    "title2": "HISTÓRICOS",
+    "title3": "DE FUTEBOL",
+    "subtitle": "Resultados e estatísticas de partidas finalizadas. Dados estruturados de 500+ ligas mundiais via API JSON.",
+    "version": "v2.4.0",
+    "latency": "LATÊNCIA",
+    "uptime": "DISPONIBILIDADE",
+    "stats": {
+      "coverage": "COBERTURA",
+      "leagues": "ligas",
+      "matches": "PARTIDAS",
+      "total": "1.1M+",
+      "update": "ATUALIZAÇÃO",
+      "frequency": "pós-partida",
+      "format": "FORMATO",
+      "json": "JSON"
+    },
+    "scroll": "ROLAR"
+  },
+  "apiDemo": {
+    "title": "ENDPOINTS",
+    "title2": "DA API",
+    "endpoints": "ENDPOINTS",
+    "requestResponse": "REQUISIÇÃO / RESPOSTA",
+    "visualization": "VISUALIZAÇÃO",
+    "scrollHint": "Arraste →",
+    "fixtures": {
+      "description": "Partidas finalizadas"
+    },
+    "standings": {
+      "description": "Tabelas de ligas"
+    },
+    "stats": {
+      "description": "Dados detalhados por partida"
+    },
+    "lineups": {
+      "description": "Times titulares e formações"
+    }
+  },
+  "capabilities": {
+    "title": "RECURSOS",
+    "title2": "TÉCNICOS",
+    "realTime": {
+      "title": "LATÊNCIA",
+      "subtitle": "ULTRA-BAIXA",
+      "description": "Respostas servidas via cache persistente no Supabase para máxima velocidade.",
+      "latency": "LATÊNCIA",
+      "latencyValue": "<50",
+      "coverage": "COBERTURA",
+      "coverageValue": "750+",
+      "coverageSuffix": "ligas"
+    },
+    "historical": {
+      "title": "ARQUIVO",
+      "subtitle": "ESTRUTURADO",
+      "description": "Base de dados consolidada com resultados e estatísticas de múltiplas temporadas.",
+      "matches": "PARTIDAS",
+      "matchesValue": "1.1M+",
+      "seasons": "TEMPORADAS",
+      "seasonsValue": "10+"
+    },
+    "statistics": {
+      "title": "MÉTRICAS",
+      "subtitle": "AVANÇADAS",
+      "description": "34 métricas detalhadas por partida, incluindo xG, xGOT e mapas de calor.",
+      "stats": "MÉTRICAS",
+      "statsValue": "34",
+      "statsSuffix": "por partida",
+      "events": "EVENTOS",
+      "eventsValue": "TODOS",
+      "eventsSuffix": "rastreados"
+    },
+    "api": {
+      "title": "API",
+      "subtitle": "RESTFUL",
+      "description": "Endpoints performáticos com suporte a cache global e autenticação segura.",
+      "endpoints": "ENDPOINTS",
+      "endpointsValue": "9",
+      "fields": "CAMPOS",
+      "fieldsValue": "50+"
+    }
+  },
+  "coverage": {
+    "title": "COBERTURA",
+    "title2": "GLOBAL",
+    "continents": "CONTINENTES",
+    "countries": "PAÍSES",
+    "leagues": "LIGAS",
+    "seasons": "TEMPORADAS"
+  },
+  "footer": {
+    "description": "Dados históricos de futebol. Resultados, estatísticas e classificações de 500+ ligas mundiais.",
+    "product": "PRODUTO",
+    "resources": "RECURSOS",
+    "contact": "CONTATO",
+    "copyright": "© 2026 Quantsports",
+    "version": "v2.4.0",
+    "status": "Todos os sistemas operacionais",
+    "language": "IDIOMA",
+    "llmTxt": "LLM.TXT",
+    "llmDesc": "Contexto para LLMs"
+  },
+  "matchShowcase": {
+    "label": "EXEMPLO DE PARTIDA",
+    "title": "DADOS",
+    "title2": "REAIS",
+    "tabs": {
+      "overview": "Visão Geral",
+      "stats": "Estatísticas",
+      "lineups": "Escalações"
+    },
+    "jsonOutput": "SAÍDA JSON",
+    "matchStats": "ESTATÍSTICAS DA PARTIDA",
+    "scrollHint": "Arraste para ver mais"
+  },
+  "pricing": {
+    "title": "NOSSOS",
+    "title2": "PLANOS",
+    "subtitle": "Escolha o volume de dados ideal para o seu projeto. Cobrança mensal com renovação de quota quinzenal.",
+    "monthly": "mês",
+    "perRequest": "por req.",
+    "biweekly": "por quinzena",
+    "cta": "Assinar Agora",
+    "freeCta": "Começar Grátis",
+    "plans": {
+      "free": {
+        "name": "Gratuito",
+        "desc": "Para testes e validação"
+      },
+      "dev": {
+        "name": "Dev",
+        "desc": "Para pequenos projetos e bots"
+      },
+      "enterprise": {
+        "name": "Enterprise",
+        "desc": "Para plataformas em crescimento"
+      },
+      "gold": {
+        "name": "Gold",
+        "desc": "Para grandes portais e apps"
+      }
+    },
+    "features": {
+      "requests": "requisições/mês",
+      "totalRequests": "requisições totais",
+      "biweeklyQuota": "Limite quinzenal",
+      "support": "Suporte via e-mail",
+      "apiKeys": "1 API Key",
+      "allLeagues": "Acesso a 500+ ligas"
+    }
+  },
+  "languageSelector": {
+    "pt": "Português",
+    "en": "English"
+  }
+}

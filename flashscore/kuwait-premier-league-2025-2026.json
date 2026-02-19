@@ -1,0 +1,911 @@
+{
+  "league": "Premier League",
+  "country": "kuwait",
+  "season": "2025-2026",
+  "collectedAt": "2026-02-10T17:32:13.472Z",
+  "totalMatches": 64,
+  "matches": [
+    {
+      "id": "bTwto3Wj",
+      "date": "2026-02-07T16:05:00.000Z",
+      "round": "Round 13",
+      "homeTeam": "Al Arabi SC",
+      "awayTeam": "Kazma SC",
+      "homeScore": 0,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Red cards": [
+          "1",
+          "0"
+        ]
+      }
+    },
+    {
+      "id": "vuR73BnI",
+      "date": "2026-02-07T13:40:00.000Z",
+      "round": "Round 13",
+      "homeTeam": "Al Jahra",
+      "awayTeam": "Al Salmiyah SC",
+      "homeScore": 0,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "WENa5XH5",
+      "date": "2026-02-06T15:00:00.000Z",
+      "round": "Round 13",
+      "homeTeam": "Al Qadsia SC",
+      "awayTeam": "Al Kuwait SC",
+      "homeScore": 1,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "zmUj7gmg",
+      "date": "2026-02-05T16:05:00.000Z",
+      "round": "Round 13",
+      "homeTeam": "Al Tadamon SC",
+      "awayTeam": "Al Naser SC",
+      "homeScore": 1,
+      "awayScore": 3,
+      "htHome": 1,
+      "htAway": 2,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "2ZVr9FIt",
+      "date": "2026-02-05T13:40:00.000Z",
+      "round": "Round 13",
+      "homeTeam": "Al Shabab Club",
+      "awayTeam": "Al Fahaheel SC",
+      "homeScore": 1,
+      "awayScore": 1,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Red cards": [
+          "0",
+          "1"
+        ]
+      }
+    },
+    {
+      "id": "Qy1YlCXO",
+      "date": "2026-01-25T15:55:00.000Z",
+      "round": "Round 12",
+      "homeTeam": "Kazma SC",
+      "awayTeam": "Al Jahra",
+      "homeScore": 2,
+      "awayScore": 1,
+      "htHome": 1,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "IBcQjY2C",
+      "date": "2026-01-25T13:30:00.000Z",
+      "round": "Round 12",
+      "homeTeam": "Al Naser SC",
+      "awayTeam": "Al Shabab Club",
+      "homeScore": 1,
+      "awayScore": 1,
+      "htHome": 1,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Red cards": [
+          "1",
+          "1"
+        ]
+      }
+    },
+    {
+      "id": "dd9HhfYa",
+      "date": "2026-01-24T14:45:00.000Z",
+      "round": "Round 12",
+      "homeTeam": "Al Kuwait SC",
+      "awayTeam": "Al Arabi SC",
+      "homeScore": 1,
+      "awayScore": 0,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "lW59fG3m",
+      "date": "2026-01-23T15:50:00.000Z",
+      "round": "Round 12",
+      "homeTeam": "Al Fahaheel SC",
+      "awayTeam": "Al Qadsia SC",
+      "homeScore": 0,
+      "awayScore": 2,
+      "htHome": 0,
+      "htAway": 2,
+      "status": "FINISHED",
+      "stats": {
+        "Red cards": [
+          "1",
+          "1"
+        ]
+      }
+    },
+    {
+      "id": "6B2p0xtQ",
+      "date": "2026-01-23T13:25:00.000Z",
+      "round": "Round 12",
+      "homeTeam": "Al Salmiyah SC",
+      "awayTeam": "Al Tadamon SC",
+      "homeScore": 3,
+      "awayScore": 1,
+      "htHome": 3,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "IkMkveJ6",
+      "date": "2026-01-15T15:45:00.000Z",
+      "round": "Round 11",
+      "homeTeam": "Al Arabi SC",
+      "awayTeam": "Al Fahaheel SC",
+      "homeScore": 1,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "APIstHlf",
+      "date": "2026-01-15T13:20:00.000Z",
+      "round": "Round 11",
+      "homeTeam": "Al Qadsia SC",
+      "awayTeam": "Al Shabab Club",
+      "homeScore": 4,
+      "awayScore": 1,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "lAUYswKs",
+      "date": "2026-01-14T15:45:00.000Z",
+      "round": "Round 11",
+      "homeTeam": "Al Salmiyah SC",
+      "awayTeam": "Al Naser SC",
+      "homeScore": 1,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "YqP3madK",
+      "date": "2026-01-14T13:20:00.000Z",
+      "round": "Round 11",
+      "homeTeam": "Al Kuwait SC",
+      "awayTeam": "Al Jahra",
+      "homeScore": 2,
+      "awayScore": 0,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "KxuRKRee",
+      "date": "2026-01-02T15:40:00.000Z",
+      "round": "Round 10",
+      "homeTeam": "Al Shabab Club",
+      "awayTeam": "Al Arabi SC",
+      "homeScore": 0,
+      "awayScore": 5,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "bNjIMmRr",
+      "date": "2026-01-02T13:10:00.000Z",
+      "round": "Round 10",
+      "homeTeam": "Al Kuwait SC",
+      "awayTeam": "Al Tadamon SC",
+      "homeScore": 7,
+      "awayScore": 1,
+      "htHome": 4,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "Sv0nS93L",
+      "date": "2026-01-01T14:30:00.000Z",
+      "round": "Round 10",
+      "homeTeam": "Al Fahaheel SC",
+      "awayTeam": "Al Jahra",
+      "homeScore": 4,
+      "awayScore": 1,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "WC6wUVY8",
+      "date": "2025-12-31T15:40:00.000Z",
+      "round": "Round 10",
+      "homeTeam": "Al Naser SC",
+      "awayTeam": "Al Qadsia SC",
+      "homeScore": 0,
+      "awayScore": 0,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "vJJi6St2",
+      "date": "2025-12-31T13:10:00.000Z",
+      "round": "Round 10",
+      "homeTeam": "Kazma SC",
+      "awayTeam": "Al Salmiyah SC",
+      "homeScore": 1,
+      "awayScore": 1,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "0tKvsEoe",
+      "date": "2025-12-28T15:45:00.000Z",
+      "round": "Round 6",
+      "homeTeam": "Al Kuwait SC",
+      "awayTeam": "Al Fahaheel SC",
+      "homeScore": 5,
+      "awayScore": 0,
+      "htHome": 4,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "vRVVrzHr",
+      "date": "2025-12-28T13:05:00.000Z",
+      "round": "Round 6",
+      "homeTeam": "Al Tadamon SC",
+      "awayTeam": "Al Arabi SC",
+      "homeScore": 1,
+      "awayScore": 2,
+      "htHome": 0,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "OpINDX4K",
+      "date": "2025-12-20T13:00:00.000Z",
+      "round": "Round 9",
+      "homeTeam": "Kazma SC",
+      "awayTeam": "Al Naser SC",
+      "homeScore": 1,
+      "awayScore": 0,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Red cards": [
+          "1",
+          "0"
+        ]
+      }
+    },
+    {
+      "id": "8xzyjUCD",
+      "date": "2025-12-19T15:40:00.000Z",
+      "round": "Round 9",
+      "homeTeam": "Al Fahaheel SC",
+      "awayTeam": "Al Tadamon SC",
+      "homeScore": 1,
+      "awayScore": 0,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "zPyTijr1",
+      "date": "2025-12-19T13:00:00.000Z",
+      "round": "Round 9",
+      "homeTeam": "Al Jahra",
+      "awayTeam": "Al Shabab Club",
+      "homeScore": 1,
+      "awayScore": 2,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "tQrKgCDl",
+      "date": "2025-12-17T15:40:00.000Z",
+      "round": "Round 9",
+      "homeTeam": "Al Qadsia SC",
+      "awayTeam": "Al Arabi SC",
+      "homeScore": 1,
+      "awayScore": 2,
+      "htHome": 0,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Red cards": [
+          "0",
+          "1"
+        ]
+      }
+    },
+    {
+      "id": "zRGnCKTF",
+      "date": "2025-12-17T13:00:00.000Z",
+      "round": "Round 9",
+      "homeTeam": "Al Kuwait SC",
+      "awayTeam": "Al Salmiyah SC",
+      "homeScore": 1,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "S4Z3ZSrg",
+      "date": "2025-11-09T17:40:00.000Z",
+      "round": "Round 8",
+      "homeTeam": "Kazma SC",
+      "awayTeam": "Al Kuwait SC",
+      "homeScore": 1,
+      "awayScore": 2,
+      "htHome": 0,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "6koeykEt",
+      "date": "2025-11-09T14:25:00.000Z",
+      "round": "Round 8",
+      "homeTeam": "Al Arabi SC",
+      "awayTeam": "Al Naser SC",
+      "homeScore": 1,
+      "awayScore": 2,
+      "htHome": 1,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "GQ5oHoTO",
+      "date": "2025-11-08T14:25:00.000Z",
+      "round": "Round 8",
+      "homeTeam": "Al Jahra",
+      "awayTeam": "Al Qadsia SC",
+      "homeScore": 0,
+      "awayScore": 2,
+      "htHome": 0,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "KbCxJ7bC",
+      "date": "2025-11-07T16:40:00.000Z",
+      "round": "Round 8",
+      "homeTeam": "Al Tadamon SC",
+      "awayTeam": "Al Shabab Club",
+      "homeScore": 1,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "noEUKTTa",
+      "date": "2025-11-07T14:25:00.000Z",
+      "round": "Round 8",
+      "homeTeam": "Al Salmiyah SC",
+      "awayTeam": "Al Fahaheel SC",
+      "homeScore": 1,
+      "awayScore": 2,
+      "htHome": 0,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "8QoUiVaD",
+      "date": "2025-11-04T16:40:00.000Z",
+      "round": "Round 7",
+      "homeTeam": "Al Arabi SC",
+      "awayTeam": "Al Jahra",
+      "homeScore": 4,
+      "awayScore": 0,
+      "htHome": 3,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "nBcLgiV0",
+      "date": "2025-11-04T14:25:00.000Z",
+      "round": "Round 7",
+      "homeTeam": "Al Kuwait SC",
+      "awayTeam": "Al Naser SC",
+      "homeScore": 1,
+      "awayScore": 0,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "tEfDeD0l",
+      "date": "2025-11-01T16:45:00.000Z",
+      "round": "Round 7",
+      "homeTeam": "Al Shabab Club",
+      "awayTeam": "Al Salmiyah SC",
+      "homeScore": 0,
+      "awayScore": 0,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "MTDt1ZxR",
+      "date": "2025-11-01T14:30:00.000Z",
+      "round": "Round 7",
+      "homeTeam": "Al Fahaheel SC",
+      "awayTeam": "Kazma SC",
+      "homeScore": 1,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "lGFY2e8E",
+      "date": "2025-10-31T14:30:00.000Z",
+      "round": "Round 7",
+      "homeTeam": "Al Qadsia SC",
+      "awayTeam": "Al Tadamon SC",
+      "homeScore": 3,
+      "awayScore": 0,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Red cards": [
+          "0",
+          "1"
+        ]
+      }
+    },
+    {
+      "id": "YR3b1rX9",
+      "date": "2025-10-27T15:45:00.000Z",
+      "round": "Round 6",
+      "homeTeam": "Al Salmiyah SC",
+      "awayTeam": "Al Qadsia SC",
+      "homeScore": 0,
+      "awayScore": 0,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Red cards": [
+          "0",
+          "1"
+        ]
+      }
+    },
+    {
+      "id": "x0Ak342c",
+      "date": "2025-10-26T16:50:00.000Z",
+      "round": "Round 6",
+      "homeTeam": "Kazma SC",
+      "awayTeam": "Al Shabab Club",
+      "homeScore": 1,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "p6N3u1Aj",
+      "date": "2025-10-26T14:35:00.000Z",
+      "round": "Round 6",
+      "homeTeam": "Al Naser SC",
+      "awayTeam": "Al Jahra",
+      "homeScore": 0,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "C0sTSNQp",
+      "date": "2025-10-19T16:55:00.000Z",
+      "round": "Round 5",
+      "homeTeam": "Al Arabi SC",
+      "awayTeam": "Al Salmiyah SC",
+      "homeScore": 3,
+      "awayScore": 1,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "GUecYq3N",
+      "date": "2025-10-19T14:40:00.000Z",
+      "round": "Round 5",
+      "homeTeam": "Al Shabab Club",
+      "awayTeam": "Al Kuwait SC",
+      "homeScore": 0,
+      "awayScore": 4,
+      "htHome": 0,
+      "htAway": 2,
+      "status": "FINISHED",
+      "stats": {
+        "Red cards": [
+          "1",
+          "0"
+        ]
+      }
+    },
+    {
+      "id": "K22lz6YA",
+      "date": "2025-10-18T16:55:00.000Z",
+      "round": "Round 5",
+      "homeTeam": "Al Qadsia SC",
+      "awayTeam": "Kazma SC",
+      "homeScore": 0,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "CxatxS3b",
+      "date": "2025-10-18T14:40:00.000Z",
+      "round": "Round 5",
+      "homeTeam": "Al Fahaheel SC",
+      "awayTeam": "Al Naser SC",
+      "homeScore": 2,
+      "awayScore": 1,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "jNAXwlZo",
+      "date": "2025-10-17T14:40:00.000Z",
+      "round": "Round 5",
+      "homeTeam": "Al Jahra",
+      "awayTeam": "Al Tadamon SC",
+      "homeScore": 1,
+      "awayScore": 0,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "nyP7NSl5",
+      "date": "2025-09-28T17:20:00.000Z",
+      "round": "Round 4",
+      "homeTeam": "Al Salmiyah SC",
+      "awayTeam": "Al Jahra",
+      "homeScore": 2,
+      "awayScore": 0,
+      "htHome": 2,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "j9VbPlKh",
+      "date": "2025-09-28T15:05:00.000Z",
+      "round": "Round 4",
+      "homeTeam": "Al Naser SC",
+      "awayTeam": "Al Tadamon SC",
+      "homeScore": 0,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "4hXjRAkt",
+      "date": "2025-09-27T17:20:00.000Z",
+      "round": "Round 4",
+      "homeTeam": "Kazma SC",
+      "awayTeam": "Al Arabi SC",
+      "homeScore": 0,
+      "awayScore": 0,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "489WUStP",
+      "date": "2025-09-27T15:05:00.000Z",
+      "round": "Round 4",
+      "homeTeam": "Al Fahaheel SC",
+      "awayTeam": "Al Shabab Club",
+      "homeScore": 0,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "dr6OWlCC",
+      "date": "2025-09-26T15:05:00.000Z",
+      "round": "Round 4",
+      "homeTeam": "Al Kuwait SC",
+      "awayTeam": "Al Qadsia SC",
+      "homeScore": 2,
+      "awayScore": 1,
+      "htHome": 2,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Red cards": [
+          "0",
+          "1"
+        ]
+      }
+    },
+    {
+      "id": "0GCFYAs0",
+      "date": "2025-09-23T17:25:00.000Z",
+      "round": "Round 3",
+      "homeTeam": "Al Shabab Club",
+      "awayTeam": "Al Naser SC",
+      "homeScore": 1,
+      "awayScore": 0,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Red cards": [
+          "1",
+          "0"
+        ]
+      }
+    },
+    {
+      "id": "S2E7zXCm",
+      "date": "2025-09-23T15:10:00.000Z",
+      "round": "Round 3",
+      "homeTeam": "Al Tadamon SC",
+      "awayTeam": "Al Salmiyah SC",
+      "homeScore": 0,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Red cards": [
+          "0",
+          "1"
+        ]
+      }
+    },
+    {
+      "id": "zVdZhuTE",
+      "date": "2025-09-22T17:25:00.000Z",
+      "round": "Round 3",
+      "homeTeam": "Al Qadsia SC",
+      "awayTeam": "Al Fahaheel SC",
+      "homeScore": 5,
+      "awayScore": 1,
+      "htHome": 4,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "8O4mVyy8",
+      "date": "2025-09-22T15:10:00.000Z",
+      "round": "Round 3",
+      "homeTeam": "Al Jahra",
+      "awayTeam": "Kazma SC",
+      "homeScore": 2,
+      "awayScore": 2,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "n9GvXc6e",
+      "date": "2025-09-21T16:30:00.000Z",
+      "round": "Round 3",
+      "homeTeam": "Al Arabi SC",
+      "awayTeam": "Al Kuwait SC",
+      "homeScore": 1,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {
+        "Red cards": [
+          "0",
+          "1"
+        ]
+      }
+    },
+    {
+      "id": "x0d0t2q9",
+      "date": "2025-09-19T15:15:00.000Z",
+      "round": "Round 2",
+      "homeTeam": "Al Naser SC",
+      "awayTeam": "Al Salmiyah SC",
+      "homeScore": 0,
+      "awayScore": 2,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "MiEDIbi2",
+      "date": "2025-09-18T17:30:00.000Z",
+      "round": "Round 2",
+      "homeTeam": "Al Shabab Club",
+      "awayTeam": "Al Qadsia SC",
+      "homeScore": 1,
+      "awayScore": 1,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {
+        "Red cards": [
+          "1",
+          "0"
+        ]
+      }
+    },
+    {
+      "id": "ERA5KKMk",
+      "date": "2025-09-18T15:15:00.000Z",
+      "round": "Round 2",
+      "homeTeam": "Kazma SC",
+      "awayTeam": "Al Tadamon SC",
+      "homeScore": 0,
+      "awayScore": 0,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "UgZYPtaS",
+      "date": "2025-09-17T17:35:00.000Z",
+      "round": "Round 2",
+      "homeTeam": "Al Fahaheel SC",
+      "awayTeam": "Al Arabi SC",
+      "homeScore": 0,
+      "awayScore": 3,
+      "htHome": 0,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "OdWQR2UF",
+      "date": "2025-09-17T15:20:00.000Z",
+      "round": "Round 2",
+      "homeTeam": "Al Kuwait SC",
+      "awayTeam": "Al Jahra",
+      "homeScore": 4,
+      "awayScore": 1,
+      "htHome": 2,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "QVgJXwGF",
+      "date": "2025-09-14T15:20:00.000Z",
+      "round": "Round 1",
+      "homeTeam": "Al Salmiyah SC",
+      "awayTeam": "Kazma SC",
+      "homeScore": 0,
+      "awayScore": 1,
+      "htHome": 0,
+      "htAway": 1,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "vwEOBdgd",
+      "date": "2025-09-13T17:40:00.000Z",
+      "round": "Round 1",
+      "homeTeam": "Al Tadamon SC",
+      "awayTeam": "Al Kuwait SC",
+      "homeScore": 1,
+      "awayScore": 3,
+      "htHome": 1,
+      "htAway": 2,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "nuZqJv1M",
+      "date": "2025-09-13T15:25:00.000Z",
+      "round": "Round 1",
+      "homeTeam": "Al Qadsia SC",
+      "awayTeam": "Al Naser SC",
+      "homeScore": 4,
+      "awayScore": 0,
+      "htHome": 2,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "rBKFDIOq",
+      "date": "2025-09-12T17:40:00.000Z",
+      "round": "Round 1",
+      "homeTeam": "Al Arabi SC",
+      "awayTeam": "Al Shabab Club",
+      "homeScore": 2,
+      "awayScore": 0,
+      "htHome": 1,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {}
+    },
+    {
+      "id": "4G5AZao3",
+      "date": "2025-09-12T15:25:00.000Z",
+      "round": "Round 1",
+      "homeTeam": "Al Jahra",
+      "awayTeam": "Al Fahaheel SC",
+      "homeScore": 1,
+      "awayScore": 3,
+      "htHome": 0,
+      "htAway": 0,
+      "status": "FINISHED",
+      "stats": {}
+    }
+  ]
+}

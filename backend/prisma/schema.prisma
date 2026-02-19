@@ -1,0 +1,105 @@
+generator client {
+  provider = "prisma-client-js"
+}
+
+datasource db {
+  provider = "postgresql"
+  url      = env("DATABASE_URL")
+}
+
+model User {
+  id            String         @id @default(uuid())
+  email         String         @unique
+  passwordHash  String
+  name          String?
+  createdAt     DateTime       @default(now())
+  updatedAt     DateTime       @updatedAt
+  subscriptions Subscription[]
+}
+
+model Subscription {
+  id             String   @id @default(uuid())
+  userId         String
+  sport          String   // "football", "basketball", "tennis", "hockey"
+  planName       String   // "Basic", "Pro", "Custom"
+  monthlyQuota   Int      // Ex: 40000
+  biWeeklyQuota  Int      // Ex: 20000 (Metade do mensal)
+  currentUsage   Int      @default(0) // Uso no ciclo atual de 15 dias
+  cycleStartDate DateTime @default(now()) // Data que iniciou a quinzena atual
+  isActive       Boolean  @default(true)
+  createdAt      DateTime @default(now())
+  updatedAt      DateTime @updatedAt
+  
+  // Relações
+  user           User     @relation(fields: [userId], references: [id], onDelete: Cascade)
+  apiKey         ApiKey?
+  
+  @@index([userId])
+  @@index([sport])
+  @@index([isActive])
+}
+
+model ApiKey {
+  id             String       @id @default(uuid())
+  key            String       @unique // Hash seguro ex: "br_sport_..."
+  subscriptionId String       @unique
+  isActive       Boolean      @default(true)
+  createdAt      DateTime     @default(now())
+  lastUsedAt     DateTime?
+  
+  subscription   Subscription @relation(fields: [subscriptionId], references: [id], onDelete: Cascade)
+  
+  @@index([key])
+}
+
+// Cache no Supabase (PostgreSQL) - Evita chamadas repetidas à API original
+model Cache {
+  key        String   @id
+  value      String   // JSON stringificado
+  sport      String   // "football", "basketball", "tennis", "hockey"
+  endpoint   String   // identifica o endpoint (ex: "fixtures", "standings")
+  params     String?  // hash dos parâmetros da query (para diferenciar caches)
+  expiresAt  DateTime
+  createdAt  DateTime @default(now())
+  
+  @@index([sport, endpoint])
+  @@index([expiresAt])
+  @@index([sport, endpoint, params])
+}
+
+// Log de requisições para auditoria e análise
+model RequestLog {
+  id             String   @id @default(uuid())
+  apiKeyId       String
+  subscriptionId String
+  sport          String
+  endpoint       String
+  statusCode     Int
+  cached         Boolean  @default(false) // Se veio do cache ou da API original
+  responseTimeMs Int      // Tempo de resposta em ms
+  createdAt      DateTime @default(now())
+  
+  @@index([apiKeyId])
+  @@index([subscriptionId])
+  @@index([createdAt])
+  @@index([sport, createdAt])
+}
+
+// Pagamentos (integração futura com Asaas/Mercado Pago/Stripe)
+model Payment {
+  id             String   @id @default(uuid())
+  subscriptionId String
+  userId         String
+  amount         Decimal  @db.Decimal(10, 2)
+  currency       String   @default("BRL")
+  status         String   // "pending", "paid", "failed", "refunded"
+  provider       String   // "asaas", "mercadopago", "stripe"
+  providerId     String?  // ID do pagamento no gateway externo
+  paidAt         DateTime?
+  createdAt      DateTime @default(now())
+  updatedAt      DateTime @updatedAt
+  
+  @@index([subscriptionId])
+  @@index([userId])
+  @@index([status])
+}
