@@ -18,19 +18,12 @@ const WEBHOOK_SECRET = process.env.MERCADOPAGO_WEBHOOK_SECRET || '';
 // Schema de validação para pagamentos
 const paymentSchema = z.object({
   transaction_amount: z.number().positive(),
-  token: z.string().min(1),
-  payment_method_id: z.string().min(1),
-  installments: z.number().int().positive().optional(),
-  issuer_id: z.string().optional(),
+  payment_method_id: z.literal('pix'),
   description: z.string().optional(),
   planName: z.enum(['dev', 'enterprise', 'gold']),
   sport: z.enum(['football', 'basketball', 'tennis', 'hockey']).default('football'),
   payer: z.object({
     email: z.string().email(),
-    identification: z.object({
-      type: z.string().min(1),
-      number: z.string().min(1),
-    }),
   }),
 });
 
@@ -120,12 +113,9 @@ app.post('/process', async (c) => {
 
     const result = await processPayment({
       transaction_amount: validated.transaction_amount,
-      token: validated.token,
-      payment_method_id: validated.payment_method_id,
-      installments: validated.installments,
-      issuer_id: validated.issuer_id,
+      payment_method_id: 'pix',
       description: validated.description,
-      payer: validated.payer,
+      payer: { email: validated.payer.email },
       external_reference: `${userId}|${validated.planName}|${validated.sport}`
     });
 

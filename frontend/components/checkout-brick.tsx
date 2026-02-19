@@ -21,11 +21,11 @@ export function CheckoutBrick({ amount, description, planName = "dev", sport = "
 
   const customization: any = {
     paymentMethods: {
-      ticket: "all",
-      bankTransfer: "all",
-      creditCard: "all",
-      debitCard: "all",
-      mercadoPago: "all",
+      ticket: "none",
+      bankTransfer: "all", // PIX in Brazil
+      creditCard: "none",
+      debitCard: "none",
+      mercadoPago: "none",
     },
     visual: {
       style: {

@@ -6,23 +6,22 @@ const client = new MercadoPagoConfig({
 
 const payment = new Payment(client);
 
-export async function processPayment(body: any) {
+export async function processPayment(body: {
+  transaction_amount: number;
+  payment_method_id: 'pix';
+  description?: string;
+  external_reference: string;
+  payer: { email: string };
+}) {
   try {
     const result = await payment.create({
       body: {
         transaction_amount: body.transaction_amount,
-        token: body.token,
+        payment_method_id: 'pix',
         description: body.description,
-        installments: body.installments,
-        payment_method_id: body.payment_method_id,
-        issuer_id: body.issuer_id,
-        external_reference: body.external_reference, // Importante para identificar o usuário/plano
+        external_reference: body.external_reference,
         payer: {
           email: body.payer.email,
-          identification: {
-            type: body.payer.identification.type,
-            number: body.payer.identification.number,
-          },
         },
       }
     });
