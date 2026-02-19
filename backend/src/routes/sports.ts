@@ -169,8 +169,8 @@ app.get('/:sport/fixtures/:fixtureId', async (c) => {
   const ttl = TTL_PERMANENT;
 
   
-  const cached = await getCache(sport, 'fixture-details', params);
-  if (cached) {
+  const cached = await getCache<{ fixture?: { homeTeam?: { name?: string } } }>(sport, 'fixture-details', params);
+  if (cached && cached.fixture?.homeTeam?.name) {
     c.set('cached', true);
     return c.json({
       success: true,

@@ -102,6 +102,21 @@ export async function getAllResults(
 
 
 
+export async function getMatchInfo(matchId: string): Promise<{
+  homeFtScore?: string;
+  awayFtScore?: string;
+  eventStartTime?: string;
+  [key: string]: unknown;
+} | null> {
+  try {
+    const data = await apiFetch<Record<string, unknown>>(`/api/flashscore/match/${matchId}/info`);
+    if (data && typeof data === 'object') return data as any;
+    return null;
+  } catch {
+    return null;
+  }
+}
+
 export async function getMatchStats(matchId: string): Promise<StatPeriod[]> {
   try {
     const data = await apiFetch<StatPeriod[]>(`/api/flashscore/match/${matchId}/stats`);

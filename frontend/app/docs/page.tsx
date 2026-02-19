@@ -219,6 +219,21 @@ const responseFormats = {
       "stats": { "totalMatches": 253, "totalGoals": 708, "avgGoalsPerMatch": 2.8, "homeWins": 110, "awayWins": 77, "draws": 66 }
     }
   },
+  fixtureDetails: {
+    "success": true,
+    "data": {
+      "fixture": { "id": "lbnqyVFq", "date": "2026-02-08T16:30:00.000Z", "round": "Round 25", "homeTeam": { "name": "Liverpool", "shortName": "LIV" }, "awayTeam": { "name": "Man City", "shortName": "MCI" }, "score": { "fullTime": { "home": 1, "away": 2 }, "halfTime": { "home": 0, "away": 0 } }, "status": "FT" },
+      "league": "Premier League",
+      "country": "England",
+      "stats": {
+        "Expected goals (xG)": ["1.21", "2.75"],
+        "Ball possession": ["47%", "53%"],
+        "Total shots": ["15", "17"],
+        "Shots on target": ["4", "7"],
+        "Corner kicks": ["5", "4"]
+      }
+    }
+  },
   leagueSeasons: {
     "success": true,
     "data": {
@@ -254,6 +269,15 @@ const endpoints = [
       { name: "dateTo", type: "string", required: false, desc: "Range end (YYYY-MM-DD)" }
     ],
     response: responseFormats.fixtures
+  },
+  {
+    id: "fixtureDetails",
+    name: "FIXTURE DETAILS",
+    method: "GET",
+    path: "/v1/football/fixtures/{id}",
+    description: "Complete match data with teams, scores, and aggregated statistics.",
+    params: [{ name: "id", type: "string", required: true, desc: "Match ID (path)" }],
+    response: responseFormats.fixtureDetails
   },
   {
     id: "standings",
@@ -363,6 +387,16 @@ const codeExamples = {
 .then(res => res.json())
 .then(data => console.log(data.data.fixtures));`,
     py: `import requests\n\nresponse = requests.get('https://api.statsez.com/v1/football/fixtures', headers={'x-api-key': 'YOUR_KEY'}, params={'league': 'england-premier-league-2025-2026'})\nfixtures = response.json()['data']['fixtures']`
+  },
+  fixtureDetails: {
+    curl: `curl -H "x-api-key: YOUR_KEY" \\
+  "https://api.statsez.com/v1/football/fixtures/lbnqyVFq"`,
+    js: `fetch('https://api.statsez.com/v1/football/fixtures/lbnqyVFq', {
+  headers: { 'x-api-key': 'YOUR_KEY' }
+})
+.then(res => res.json())
+.then(data => console.log(data.data.fixture, data.data.stats));`,
+    py: `import requests\n\nresponse = requests.get('https://api.statsez.com/v1/football/fixtures/lbnqyVFq', headers={'x-api-key': 'YOUR_KEY'})\ndetails = response.json()['data']`
   },
   standings: {
     curl: `curl -H "x-api-key: YOUR_KEY" \\

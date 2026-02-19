@@ -31,6 +31,30 @@ const leagueRegistry = new Map<string, LeagueEntry>();
 let registryBuilt = false;
 let registryBuilding: Promise<void> | null = null;
 
+// ============================================
+// FIXTURE INDEX
+// In-memory reverse lookup: matchId → fixture data
+// Populated when league results are fetched
+// ============================================
+
+interface IndexedFixture {
+  fixture: FixtureResponse;
+  league: string;
+  country: string;
+}
+
+const fixtureIndex = new Map<string, IndexedFixture>();
+
+function indexFixtures(results: import('../types/sportdb.js').MatchResult[], leagueName: string, countryName: string): void {
+  for (const match of results) {
+    fixtureIndex.set(match.eventId, {
+      fixture: convertMatchResult(match),
+      league: leagueName,
+      country: countryName,
+    });
+  }
+}
+
 async function ensureRegistry(): Promise<void> {
   if (registryBuilt) return;
   if (registryBuilding) {
@@ -264,6 +288,10 @@ export async function getFixturesByLeague(
   if (!season) return null;
 
   const results = await sportdb.getAllResults(entry.countryParam, entry.leagueParam, season);
+
+  // Populate fixture index for later getFixtureById lookups
+  indexFixtures(results, entry.name, entry.countryName);
+
   let fixtures = results.map(convertMatchResult);
 
   if (options?.round) {
@@ -321,7 +349,12 @@ export async function getFixtureById(matchId: string): Promise<{
   stats: Record<string, [string, string]>;
 } | null> {
   try {
-    const stats = await sportdb.getMatchStats(matchId);
+    // Fetch match info and stats in parallel
+    const [matchInfo, stats] = await Promise.all([
+      sportdb.getMatchInfo(matchId),
+      sportdb.getMatchStats(matchId),
+    ]);
+
     const statsMap: Record<string, [string, string]> = {};
     if (stats.length > 0) {
       for (const period of stats) {
@@ -330,15 +363,41 @@ export async function getFixtureById(matchId: string): Promise<{
         }
       }
     }
+
+    // If no info and no stats, match doesn't exist
+    if (!matchInfo && stats.length === 0) return null;
+
+    // Check fixture index first (populated when league results are fetched)
+    const indexed = fixtureIndex.get(matchId);
+    if (indexed) {
+      return {
+        fixture: indexed.fixture,
+        league: indexed.league,
+        country: indexed.country,
+        stats: statsMap,
+      };
+    }
+
+    // Fallback: use /info endpoint (has scores + timestamp, but no team names)
+    const eventStartTime = matchInfo?.eventStartTime
+      ? new Date(parseInt(matchInfo.eventStartTime as string) * 1000).toISOString()
+      : '';
+
     return {
       fixture: {
         id: matchId,
-        date: '',
+        date: eventStartTime,
         round: '',
         homeTeam: { name: '' },
         awayTeam: { name: '' },
-        score: { fullTime: { home: 0, away: 0 }, halfTime: { home: 0, away: 0 } },
-        status: 'FT',
+        score: {
+          fullTime: {
+            home: parseInt(matchInfo?.homeFtScore as string || '0') || 0,
+            away: parseInt(matchInfo?.awayFtScore as string || '0') || 0,
+          },
+          halfTime: { home: 0, away: 0 },
+        },
+        status: matchInfo?.homeFtScore ? 'FT' : 'NS',
       },
       league: '',
       country: '',
@@ -392,6 +451,10 @@ export async function getTeamFixtures(teamName: string, leagueId?: string, seaso
   if (!season) return [];
 
   const results = await sportdb.getAllResults(entry.countryParam, entry.leagueParam, season);
+
+  // Populate fixture index
+  indexFixtures(results, entry.name, entry.countryName);
+
   const teamLower = teamName.toLowerCase();
 
   const filtered = results.filter(m =>

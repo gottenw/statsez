@@ -44,7 +44,16 @@ const endpoints: Endpoint[] = [
     ],
   },
   {
-    id: "03_STANDINGS",
+    id: "03_FIXTURE_DETAILS",
+    path: "/v1/football/fixtures/{id}",
+    method: "GET",
+    description: "Complete match data with stats",
+    params: [
+      { name: "id", type: "path", required: true, placeholder: "e.g. lbnqyVFq" },
+    ],
+  },
+  {
+    id: "04_STANDINGS",
     path: "/v1/football/standings",
     method: "GET",
     description: "Full league table",
@@ -54,7 +63,7 @@ const endpoints: Endpoint[] = [
     ],
   },
   {
-    id: "04_STATS",
+    id: "05_STATS",
     path: "/v1/football/fixtures/{id}/stats",
     method: "GET",
     description: "Detailed match statistics (34+ metrics)",
@@ -63,7 +72,7 @@ const endpoints: Endpoint[] = [
     ],
   },
   {
-    id: "05_LINEUPS",
+    id: "06_LINEUPS",
     path: "/v1/football/fixtures/{id}/lineups",
     method: "GET",
     description: "Formations and starting XI",
@@ -72,7 +81,7 @@ const endpoints: Endpoint[] = [
     ],
   },
   {
-    id: "06_EVENTS",
+    id: "07_EVENTS",
     path: "/v1/football/fixtures/{id}/events",
     method: "GET",
     description: "Goals, cards, substitutions",
@@ -81,7 +90,7 @@ const endpoints: Endpoint[] = [
     ],
   },
   {
-    id: "07_TEAMS",
+    id: "08_TEAMS",
     path: "/v1/football/teams",
     method: "GET",
     description: "List teams in a league",
@@ -92,7 +101,7 @@ const endpoints: Endpoint[] = [
     ],
   },
   {
-    id: "08_TEAM_FIXTURES",
+    id: "09_TEAM_FIXTURES",
     path: "/v1/football/teams/{teamName}/fixtures",
     method: "GET",
     description: "Match history for a team",
@@ -103,7 +112,7 @@ const endpoints: Endpoint[] = [
     ],
   },
   {
-    id: "09_LEAGUE_SEASONS",
+    id: "10_LEAGUE_SEASONS",
     path: "/v1/football/leagues/{leagueId}/seasons",
     method: "GET",
     description: "List available seasons for a league",
@@ -112,7 +121,7 @@ const endpoints: Endpoint[] = [
     ],
   },
   {
-    id: "10_LEAGUE_STATS",
+    id: "11_LEAGUE_STATS",
     path: "/v1/football/leagues/{leagueId}/stats",
     method: "GET",
     description: "Aggregate season statistics",
