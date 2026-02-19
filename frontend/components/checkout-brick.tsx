@@ -45,8 +45,10 @@ export function CheckoutBrick({ amount, description, onSuccess, onError }: Check
   };
 
   const onSubmit = async ({ formData }: any) => {
+    const apiUrl = process.env.NEXT_PUBLIC_API_URL || "https://api.statsez.com";
+    
     return new Promise((resolve, reject) => {
-      fetch(`${process.env.NEXT_PUBLIC_API_URL}/payments/process`, {
+      fetch(`${apiUrl}/payments/process`, {
         method: "POST",
         headers: {
           "Content-Type": "application/json",
