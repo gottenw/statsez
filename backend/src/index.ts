@@ -11,72 +11,52 @@ import { sportRoutes } from './routes/sports.js'
 import { authRoutes } from './routes/auth.js'
 import { healthRoutes } from './routes/health.js'
 import { paymentRoutes } from './routes/payments.js'
+import { userRoutes } from './routes/user.js'
 
 const app = new Hono()
 
-
-
-
-
-
 app.use('*', cors({
-  origin: [process.env.FRONTEND_URL || '', 'https://statsez.com', 'https://www.statsez.com', 'http://localhost:3000'].filter(Boolean),
+  origin: (origin) => {
+    if (!origin) return 'https://statsez.com';
+    if (origin.includes('statsez.com') || origin.includes('localhost') || origin.includes('vercel.app')) {
+      return origin;
+    }
+    return 'https://statsez.com';
+  },
   allowMethods: ['GET', 'POST', 'PUT', 'DELETE', 'OPTIONS'],
-  allowHeaders: ['Content-Type', 'Authorization', 'x-api-key'],
-  credentials: true
+  allowHeaders: ['Content-Type', 'Authorization', 'x-api-key', 'x-user-id', 'Accept'],
+  credentials: true,
+  maxAge: 600,
 }))
 
+app.options('*', (c) => c.text('', 204))
 
 app.use('*', logger())
-
-
 app.use('*', prettyJSON())
-
 
 app.use('*', rateLimit({
   windowMs: parseInt(process.env.RATE_LIMIT_WINDOW_MS || '60000'),
   maxRequests: parseInt(process.env.RATE_LIMIT_MAX_REQUESTS_IP || '100')
 }))
 
-
-
-
-
-
 app.route('/health', healthRoutes)
-
-
 app.route('/auth', authRoutes)
-
 app.route('/payments', paymentRoutes)
-
-
-
-
-
+app.route('/user', userRoutes)
 
 app.use('/v1/:sport/*', apiKeyAuth())
 app.use('/v1/:sport/*', decrementQuota)
 app.use('/v1/:sport/*', requestLogger)
 app.route('/v1', sportRoutes)
 
-
-
-
-
 app.get('/', (c) => {
   return c.json({
     success: true,
-    message: 'API Gateway de Esportes',
+    message: 'Statsez API Gateway',
     version: '1.0.0',
-    documentation: '/docs',
     status: 'online'
   })
 })
-
-
-
-
 
 app.onError((err, c) => {
   console.error('Erro:', err)
@@ -87,10 +67,6 @@ app.onError((err, c) => {
   }, 500)
 })
 
-
-
-
-
 const port = parseInt(process.env.PORT || '3001')
 
 serve({
@@ -99,5 +75,4 @@ serve({
   hostname: '0.0.0.0'
 }, (info) => {
   console.log(`🚀 Servidor rodando em http://0.0.0.0:${info.port}`)
-  console.log(`📚 Ambiente: ${process.env.NODE_ENV || 'development'}`)
 })

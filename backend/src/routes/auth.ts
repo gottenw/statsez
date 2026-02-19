@@ -13,12 +13,38 @@ const registerSchema = z.object({
   name: z.string().optional()
 })
 
+const loginSchema = z.object({
+  email: z.string().email(),
+  password: z.string().min(6)
+})
+
 const createSubscriptionSchema = z.object({
   sport: z.enum(['football', 'basketball', 'tennis', 'hockey']),
   planName: z.enum(['Basic', 'Pro', 'Custom']),
   monthlyQuota: z.number().min(100).max(1000000)
 })
 
+app.post('/login', zValidator('json', loginSchema), async (c) => {
+  const { email, password } = c.req.valid('json')
+
+  const user = await prisma.user.findUnique({
+    where: { email }
+  })
+
+  if (!user || user.passwordHash !== password) {
+    return c.json({ success: false, error: 'Credenciais inválidas' }, 401)
+  }
+
+  return c.json({
+    success: true,
+    data: {
+      id: user.id,
+      email: user.email,
+      name: user.name,
+      token: 'fake-jwt-token-' + user.id // Simplificando por enquanto
+    }
+  })
+})
 
 app.post('/register', zValidator('json', registerSchema), async (c) => {
   const { email, password, name } = c.req.valid('json')
