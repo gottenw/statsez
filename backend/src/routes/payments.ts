@@ -37,9 +37,9 @@ const paymentSchema = z.object({
 // Função auxiliar para criar subscription
 async function createSubscriptionForUser(userId: string, planName: string, sport: string) {
   const planConfigs: Record<string, { quota: number; price: number }> = {
-    dev: { quota: 40000, price: 79 },
-    enterprise: { quota: 250000, price: 349 },
-    gold: { quota: 600000, price: 699 },
+    dev: { quota: 40000, price: 124.90 },
+    enterprise: { quota: 250000, price: 459.90 },
+    gold: { quota: 600000, price: 999.90 },
   };
 
   const config = planConfigs[planName] || planConfigs.dev;
