@@ -3,6 +3,8 @@ import { Inter_Tight, JetBrains_Mono } from "next/font/google";
 import { NextIntlClientProvider } from "next-intl";
 import { getMessages } from "next-intl/server";
 import { GoogleOAuthProvider } from "@react-oauth/google";
+import { AuthProvider } from "../lib/auth-context";
+import { UserAvatar } from "../components/user-avatar";
 import "./globals.css";
 
 const interTight = Inter_Tight({
@@ -38,9 +40,13 @@ export default async function RootLayout({
     <html lang="pt" className={`${interTight.variable} ${jetbrainsMono.variable}`}>
       <body className="bg-background text-foreground font-sans antialiased">
         <GoogleOAuthProvider clientId={googleClientId}>
-          <NextIntlClientProvider messages={messages}>
-            {children}
-          </NextIntlClientProvider>
+          <AuthProvider>
+            <NextIntlClientProvider messages={messages}>
+              {/* Avatar do usuário flutuante - só aparece quando logado */}
+              <UserAvatar />
+              {children}
+            </NextIntlClientProvider>
+          </AuthProvider>
         </GoogleOAuthProvider>
       </body>
     </html>

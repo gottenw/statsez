@@ -4,11 +4,13 @@ import { useState, useEffect } from "react";
 import { motion, AnimatePresence } from "framer-motion";
 import { useTranslations } from "next-intl";
 import { LanguageSwitcher } from "./language-switcher";
+import { useAuth } from "../lib/auth-context";
 
 export function Navigation() {
   const [isScrolled, setIsScrolled] = useState(false);
   const [isVisible, setIsVisible] = useState(false);
   const t = useTranslations("nav");
+  const { isLoggedIn, user } = useAuth();
 
   useEffect(() => {
     const handleScroll = () => {
@@ -64,12 +66,24 @@ export function Navigation() {
 
             <div className="flex items-center gap-6">
               <LanguageSwitcher />
-              <a
-                href="#"
-                className="font-mono text-xs uppercase tracking-widest border border-border px-4 py-2 hover:bg-foreground hover:text-background transition-all duration-300"
-              >
-                {t("getStarted")}
-              </a>
+              
+              {/* Se estiver logado, mostra link para dashboard */}
+              {isLoggedIn ? (
+                <a
+                  href="/dashboard"
+                  className="flex items-center gap-2 font-mono text-xs uppercase tracking-widest border border-border px-4 py-2 hover:bg-foreground hover:text-background transition-all duration-300"
+                >
+                  <span className="w-2 h-2 bg-green-500 rounded-full animate-pulse" />
+                  Dashboard
+                </a>
+              ) : (
+                <a
+                  href="/auth/register"
+                  className="font-mono text-xs uppercase tracking-widest border border-border px-4 py-2 hover:bg-foreground hover:text-background transition-all duration-300"
+                >
+                  {t("getStarted")}
+                </a>
+              )}
             </div>
           </div>
         </motion.nav>

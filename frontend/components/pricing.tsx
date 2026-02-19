@@ -5,7 +5,8 @@ import { useRef, useState } from "react";
 import { useTranslations } from "next-intl";
 import { ScrambleText } from "./scramble-text";
 import { CheckoutBrick } from "./checkout-brick";
-import { X } from "lucide-react";
+import { X, Lock, User } from "lucide-react";
+import { useAuth } from "../lib/auth-context";
 
 const plans = [
   {
@@ -52,18 +53,110 @@ const plans = [
 
 export function Pricing() {
   const t = useTranslations("pricing");
+  const { isLoggedIn } = useAuth();
   const [selectedPlan, setSelectedPlan] = useState<typeof plans[0] | null>(null);
+  const [showLoginModal, setShowLoginModal] = useState(false);
+  const [pendingPlan, setPendingPlan] = useState<typeof plans[0] | null>(null);
 
   const handlePlanSelect = (plan: typeof plans[0]) => {
     if (plan.key === "free") {
       window.location.href = "/auth/register";
       return;
     }
+
+    // Se não estiver logado, mostra modal de login obrigatório
+    if (!isLoggedIn) {
+      setPendingPlan(plan);
+      setShowLoginModal(true);
+      return;
+    }
+
     setSelectedPlan(plan);
+  };
+
+  const handleLoginRedirect = () => {
+    // Salva o plano selecionado no localStorage para redirecionar de volta
+    if (pendingPlan) {
+      localStorage.setItem("statsez_pending_plan", pendingPlan.key);
+    }
+    window.location.href = "/auth/register";
   };
 
   return (
     <section id="pricing" className="min-h-screen w-full bg-background border-t border-border">
+      {/* Modal de Login Obrigatório */}
+      {showLoginModal && (
+        <div className="fixed inset-0 z-[100] flex items-center justify-center p-4 bg-background/90 backdrop-blur-md">
+          <motion.div 
+            initial={{ opacity: 0, scale: 0.95 }}
+            animate={{ opacity: 1, scale: 1 }}
+            className="relative w-full max-w-md bg-background border border-border shadow-2xl overflow-hidden"
+          >
+            {/* Close Button */}
+            <div className="absolute top-0 right-0 border-l border-b border-border">
+              <button 
+                onClick={() => setShowLoginModal(false)}
+                className="p-3 text-foreground hover:bg-foreground hover:text-background transition-all duration-300"
+              >
+                <X size={18} />
+              </button>
+            </div>
+            
+            {/* Header */}
+            <div className="p-8 border-b border-border bg-foreground/[0.02]">
+              <div className="flex items-center gap-3 mb-4">
+                <div className="w-10 h-10 border border-border flex items-center justify-center">
+                  <Lock size={20} className="text-muted-foreground" />
+                </div>
+                <div>
+                  <span className="data-label text-[10px] opacity-50">AUTHENTICATION_REQUIRED</span>
+                  <h3 className="font-sans text-lg font-medium uppercase tracking-tight">
+                    Acesso Restrito
+                  </h3>
+                </div>
+              </div>
+            </div>
+
+            {/* Content */}
+            <div className="p-8 space-y-6">
+              <p className="font-mono text-sm text-muted-foreground leading-relaxed">
+                Você precisa estar logado para assinar um plano. 
+                Faça login com sua conta Google para continuar.
+              </p>
+
+              {pendingPlan && (
+                <div className="p-4 border border-border bg-foreground/[0.02]">
+                  <span className="data-label text-[10px] opacity-50">PLANO SELECIONADO</span>
+                  <div className="flex justify-between items-center mt-2">
+                    <span className="font-sans text-lg font-medium uppercase">
+                      {t(`plans.${pendingPlan.key}.name`)}
+                    </span>
+                    <span className="font-mono text-xl font-medium">
+                      R$ {pendingPlan.price}
+                    </span>
+                  </div>
+                </div>
+              )}
+
+              <button
+                onClick={handleLoginRedirect}
+                className="w-full flex items-center justify-center gap-3 font-mono text-xs font-bold uppercase tracking-[0.2em] border border-border px-6 py-5 hover:bg-foreground hover:text-background transition-all duration-500 bg-background"
+              >
+                <User size={16} />
+                Fazer Login
+              </button>
+            </div>
+
+            {/* Footer */}
+            <div className="px-8 py-4 border-t border-border bg-foreground/[0.02] text-center">
+              <span className="font-mono text-[9px] text-muted-foreground uppercase tracking-[0.2em]">
+                Autenticação segura via Google OAuth 2.0
+              </span>
+            </div>
+          </motion.div>
+        </div>
+      )}
+
       {/* Modal de Checkout */}
       {selectedPlan && (
         <div className="fixed inset-0 z-[100] flex items-center justify-center p-4 bg-background/80 backdrop-blur-md">
@@ -170,8 +263,11 @@ export function Pricing() {
 
 function PlanRow({ plan, index, onSelect }: { plan: typeof plans[0], index: number, onSelect: () => void }) {
   const t = useTranslations("pricing");
+  const { isLoggedIn } = useAuth();
   const ref = useRef(null);
   const isInView = useInView(ref, { once: true, margin: "-50px" });
+
+  const isLocked = plan.key !== "free" && !isLoggedIn;
 
   return (
     <motion.div
@@ -190,12 +286,15 @@ function PlanRow({ plan, index, onSelect }: { plan: typeof plans[0], index: numb
       </div>
 
       <div className="col-span-12 md:col-span-3">
-        <h3 className="font-sans text-2xl font-medium tracking-tight uppercase">
+        <h3 className="font-sans text-2xl font-medium tracking-tight uppercase flex items-center gap-3">
           {t(`plans.${plan.key}.name`)}
           {plan.featured && (
-            <span className="ml-3 text-[10px] bg-foreground text-background px-2 py-0.5 align-middle tracking-widest">
+            <span className="text-[10px] bg-foreground text-background px-2 py-0.5 align-middle tracking-widest">
               POPULAR
             </span>
+          )}
+          {isLocked && (
+            <Lock size={16} className="text-muted-foreground" />
           )}
         </h3>
         <p className="text-sm text-muted-foreground mt-2 max-w-[240px]">
@@ -243,8 +342,13 @@ function PlanRow({ plan, index, onSelect }: { plan: typeof plans[0], index: numb
       <div className="col-span-12 md:col-span-2 flex items-center justify-end">
         <button 
           onClick={onSelect}
-          className="w-full md:w-auto font-mono text-[10px] font-bold uppercase tracking-[0.2em] border border-border px-10 py-5 hover:bg-foreground hover:text-background transition-all duration-500 whitespace-nowrap bg-background"
+          className={`w-full md:w-auto font-mono text-[10px] font-bold uppercase tracking-[0.2em] border border-border px-10 py-5 transition-all duration-500 whitespace-nowrap flex items-center justify-center gap-2 ${
+            isLocked 
+              ? "bg-muted/50 text-muted-foreground hover:bg-muted hover:text-foreground" 
+              : "bg-background hover:bg-foreground hover:text-background"
+          }`}
         >
+          {isLocked && <Lock size={14} />}
           {plan.key === "free" ? t("freeCta") : t("cta")}
         </button>
       </div>

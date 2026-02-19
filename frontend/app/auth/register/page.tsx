@@ -2,11 +2,22 @@
 
 import { GoogleLogin } from "@react-oauth/google";
 import { motion } from "framer-motion";
-import { useState } from "react";
+import { useState, useEffect } from "react";
 import { Navigation } from "../../../components/navigation";
+import { useAuth } from "../../../lib/auth-context";
 
 export default function RegisterPage() {
   const [status, setStatus] = useState<"idle" | "loading" | "error" | "success">("idle");
+  const { login } = useAuth();
+
+  // Verifica se tem plano pendente no localStorage (redirecionamento do pricing)
+  useEffect(() => {
+    const pendingPlan = localStorage.getItem("statsez_pending_plan");
+    if (pendingPlan) {
+      // Limpa o plano pendente após carregar a página
+      localStorage.removeItem("statsez_pending_plan");
+    }
+  }, []);
 
   const handleGoogleSuccess = async (credentialResponse: any) => {
     setStatus("loading");
@@ -20,10 +31,14 @@ export default function RegisterPage() {
       const data = await res.json();
 
       if (data.success) {
-        localStorage.setItem("statsez_token", data.data.token);
-        localStorage.setItem("statsez_user", JSON.stringify(data.data));
+        // Salva no localStorage e atualiza o contexto
+        login(data.data, data.data.token);
         setStatus("success");
-        window.location.href = "/#pricing";
+        
+        // Redireciona para o dashboard após login bem-sucedido
+        setTimeout(() => {
+          window.location.href = "/dashboard";
+        }, 500);
       } else {
         setStatus("error");
       }
@@ -69,6 +84,15 @@ export default function RegisterPage() {
                 <div className="w-2 h-2 bg-blue-500 animate-pulse" />
                 <span className="font-mono text-[10px] uppercase font-bold tracking-widest text-blue-500">
                   Verifying_Credentials...
+                </span>
+              </div>
+            )}
+
+            {status === "success" && (
+              <div className="flex items-center gap-2 text-green-500">
+                <div className="w-2 h-2 bg-green-500 rounded-full" />
+                <span className="font-mono text-[10px] uppercase font-bold tracking-widest">
+                  Authentication_Successful
                 </span>
               </div>
             )}
