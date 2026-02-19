@@ -89,7 +89,7 @@
       "subtitle": "RESTFUL",
       "description": "Endpoints performáticos com suporte a cache global e autenticação segura.",
       "endpoints": "ENDPOINTS",
-      "endpointsValue": "9",
+      "endpointsValue": "10",
       "fields": "CAMPOS",
       "fieldsValue": "50+"
     }
@@ -135,6 +135,7 @@
     "perRequest": "por req.",
     "biweekly": "por quinzena",
     "cta": "Assinar Agora",
+    "ctaLocked": "Login / Cadastro",
     "freeCta": "Começar Grátis",
     "plans": {
       "free": {

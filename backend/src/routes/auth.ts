@@ -137,7 +137,7 @@ app.post('/google', zValidator('json', googleAuthSchema), async (c) => {
     }
 
     const token = jwt.sign(
-      { userId: user.id, email: user.email },
+      { userId: user.id, email: user.email, role: user.role },
       JWT_SECRET,
       { expiresIn: '24h' }
     )
@@ -148,6 +148,7 @@ app.post('/google', zValidator('json', googleAuthSchema), async (c) => {
         id: user.id,
         email: user.email,
         name: user.name,
+        role: user.role,
         token,
         subscription: {
           planName: subscription.planName,
@@ -179,9 +180,9 @@ app.post('/login', zValidator('json', loginSchema), async (c) => {
   }
 
   const token = jwt.sign(
-    { userId: user.id, email: user.email },
-    process.env.JWT_SECRET || 'secret',
-    { expiresIn: '7d' }
+    { userId: user.id, email: user.email, role: user.role },
+    JWT_SECRET,
+    { expiresIn: '24h' }
   )
 
   return c.json({
@@ -190,6 +191,7 @@ app.post('/login', zValidator('json', loginSchema), async (c) => {
       id: user.id,
       email: user.email,
       name: user.name,
+      role: user.role,
       token
     }
   })
@@ -211,7 +213,7 @@ app.post('/register', zValidator('json', registerSchema), async (c) => {
     })
 
     const token = jwt.sign(
-      { userId: user.id, email: user.email },
+      { userId: user.id, email: user.email, role: user.role },
       JWT_SECRET,
       { expiresIn: '24h' }
     )
@@ -222,6 +224,7 @@ app.post('/register', zValidator('json', registerSchema), async (c) => {
         id: user.id,
         email: user.email,
         name: user.name,
+        role: user.role,
         token
       }
     }, 201)

@@ -120,8 +120,8 @@ export function Pricing() {
             {/* Content */}
             <div className="p-8 space-y-6">
               <p className="font-mono text-sm text-muted-foreground leading-relaxed">
-                Você precisa estar logado para assinar um plano. 
-                Faça login com sua conta Google para continuar.
+                Você precisa estar logado para assinar um plano.
+                Faça login ou crie uma conta para continuar.
               </p>
 
               {pendingPlan && (
@@ -150,7 +150,7 @@ export function Pricing() {
             {/* Footer */}
             <div className="px-8 py-4 border-t border-border bg-foreground/[0.02] text-center">
               <span className="font-mono text-[9px] text-muted-foreground uppercase tracking-[0.2em]">
-                Autenticação segura via Google OAuth 2.0
+                Autenticação segura via Google ou Email
               </span>
             </div>
           </motion.div>
@@ -349,7 +349,7 @@ function PlanRow({ plan, index, onSelect }: { plan: typeof plans[0], index: numb
           }`}
         >
           {isLocked && <Lock size={14} />}
-          {plan.key === "free" ? t("freeCta") : t("cta")}
+          {plan.key === "free" ? t("freeCta") : isLocked ? t("ctaLocked") : t("cta")}
         </button>
       </div>
     </motion.div>

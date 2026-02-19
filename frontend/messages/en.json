@@ -89,7 +89,7 @@
       "subtitle": "RESTFUL",
       "description": "High-performance endpoints with global cache support and secure auth.",
       "endpoints": "ENDPOINTS",
-      "endpointsValue": "9",
+      "endpointsValue": "10",
       "fields": "FIELDS",
       "fieldsValue": "50+"
     }
@@ -136,7 +136,7 @@
     "authTitle": "Authentication",
     "authDescription": "All requests require the x-api-key header. The key is provided in the dashboard.",
     "rateLimitTitle": "Rate Limit",
-    "rateLimitDescription": "60 requests per minute per API key. X-RateLimit-Remaining and X-RateLimit-Reset headers included.",
+    "rateLimitDescription": "100 requests per minute per IP address. X-RateLimit-Remaining and X-RateLimit-Reset headers included.",
     "paramsTitle": "Parameters",
     "paramName": "Name",
     "paramType": "Type",
@@ -155,6 +155,7 @@
     "perRequest": "per req.",
     "biweekly": "bi-weekly",
     "cta": "Subscribe Now",
+    "ctaLocked": "Login / Sign Up",
     "freeCta": "Start for Free",
     "plans": {
       "free": {

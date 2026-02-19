@@ -1,8 +1,9 @@
 "use client";
 
 import { usePathname } from "next/navigation";
+import { useAuth } from "../../lib/auth-context";
 
-const menuItems = [
+const baseMenuItems = [
   { id: "overview", label: "01 OVERVIEW", href: "/dashboard" },
   { id: "keys", label: "02 API KEYS", href: "/dashboard/keys" },
   { id: "explorer", label: "03 EXPLORER", href: "/dashboard/explorer" },
@@ -12,6 +13,14 @@ const menuItems = [
 
 export default function DashboardLayout({ children }: { children: React.ReactNode }) {
   const pathname = usePathname();
+  const { user, isAdmin, logout } = useAuth();
+
+  const menuItems = [
+    ...baseMenuItems,
+    ...(isAdmin ? [{ id: "admin", label: "06 ADMIN", href: "/dashboard/admin" }] : []),
+  ];
+
+  const activeSub = user ? "Active" : "Inactive";
 
   return (
     <div className="min-h-screen bg-background flex flex-col md:flex-row font-sans text-foreground selection:bg-foreground selection:text-background">
@@ -25,14 +34,16 @@ export default function DashboardLayout({ children }: { children: React.ReactNod
 
         <nav className="flex-1 p-6 space-y-2">
           {menuItems.map((item) => {
-            const isActive = pathname === item.href;
+            const isActive = item.id === "admin"
+              ? pathname.startsWith("/dashboard/admin")
+              : pathname === item.href;
             return (
               <a
                 key={item.id}
                 href={item.href}
                 className={`block p-4 transition-all duration-300 ${
-                  isActive 
-                    ? "bg-foreground text-background font-bold" 
+                  isActive
+                    ? "bg-foreground text-background font-bold"
                     : "hover:bg-foreground/[0.04] text-muted-foreground hover:text-foreground"
                 }`}
               >
@@ -45,7 +56,10 @@ export default function DashboardLayout({ children }: { children: React.ReactNod
         </nav>
 
         <div className="p-6 border-t border-border">
-          <button className="w-full text-left p-4 text-muted-foreground hover:text-red-500 transition-colors font-mono text-xs uppercase tracking-[0.2em] font-bold">
+          <button
+            onClick={logout}
+            className="w-full text-left p-4 text-muted-foreground hover:text-red-500 transition-colors font-mono text-xs uppercase tracking-[0.2em] font-bold"
+          >
             [ TERMINATE_SESSION ]
           </button>
         </div>
@@ -61,13 +75,21 @@ export default function DashboardLayout({ children }: { children: React.ReactNod
               <span className="font-mono text-[10px] uppercase tracking-widest font-extrabold text-blue-600">Secure_Connection_Live</span>
             </div>
           </div>
-          
+
           <div className="flex items-center gap-8">
             <div className="text-right">
-              <p className="font-mono text-[11px] uppercase font-extrabold text-foreground tracking-wider">UID_88294_PRD</p>
-              <p className="font-mono text-[10px] text-muted-foreground uppercase font-bold tracking-tight">Tier: Professional_License</p>
+              <p className="font-mono text-[11px] uppercase font-extrabold text-foreground tracking-wider">
+                {user?.email ? user.email.split("@")[0].toUpperCase() : "GUEST"}
+              </p>
+              <p className="font-mono text-[10px] text-muted-foreground uppercase font-bold tracking-tight">
+                Status: {activeSub} {isAdmin && "• ADMIN"}
+              </p>
             </div>
-            <div className="w-10 h-10 border border-border bg-foreground/[0.03]" />
+            <div className="w-10 h-10 border border-border bg-foreground/[0.03] flex items-center justify-center">
+              <span className="font-mono text-xs font-bold text-foreground/40">
+                {user?.name?.[0]?.toUpperCase() || user?.email?.[0]?.toUpperCase() || "?"}
+              </span>
+            </div>
           </div>
         </header>
 

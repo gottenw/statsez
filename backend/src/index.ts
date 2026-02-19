@@ -12,6 +12,7 @@ import { authRoutes } from './routes/auth.js'
 import { healthRoutes } from './routes/health.js'
 import { paymentRoutes } from './routes/payments.js'
 import { userRoutes } from './routes/user.js'
+import { adminRoutes } from './routes/admin.js'
 
 
 const app = new Hono()
@@ -64,6 +65,7 @@ app.route('/health', healthRoutes)
 app.route('/auth', authRoutes)
 app.route('/payments', paymentRoutes)
 app.route('/user', userRoutes)
+app.route('/admin', adminRoutes)
 
 
 app.use('/v1/:sport/*', apiKeyAuth())
