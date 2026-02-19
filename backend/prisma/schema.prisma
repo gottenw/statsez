@@ -16,33 +16,42 @@ model User {
   createdAt     DateTime       @default(now())
   updatedAt     DateTime       @updatedAt
   subscriptions Subscription[]
+  payments      Payment[]
 }
 
 model Subscription {
-  id             String   @id @default(uuid())
-  userId         String
-  sport          String   // "football", "basketball", "tennis", "hockey"
-  planName       String   // "Basic", "Pro", "Custom"
-  monthlyQuota   Int      // Ex: 40000
-  biWeeklyQuota  Int      // Ex: 20000 (Metade do mensal)
-  currentUsage   Int      @default(0) // Uso no ciclo atual de 15 dias
-  cycleStartDate DateTime @default(now()) // Data que iniciou a quinzena atual
-  isActive       Boolean  @default(true)
-  createdAt      DateTime @default(now())
-  updatedAt      DateTime @updatedAt
+  id              String   @id @default(uuid())
+  userId          String
+  sport           String   // "football", "basketball", "tennis", "hockey"
+  planName        String   // "free", "dev", "enterprise", "gold"
+  monthlyQuota    Int      // Ex: 40000
+  biWeeklyQuota   Int      // Ex: 20000 (Metade do mensal)
+  currentUsage    Int      @default(0) // Uso no ciclo atual de 15 dias
+  
+  // Datas importantes
+  startsAt        DateTime @default(now()) // Início da assinatura
+  expiresAt       DateTime?                // Fim da assinatura (30 dias após pagamento)
+  cycleStartDate  DateTime @default(now()) // Início do ciclo quinzenal atual
+  cycleEndDate    DateTime?                // Fim do ciclo quinzenal (15 dias após cycleStartDate)
+  
+  isActive        Boolean  @default(true)
+  createdAt       DateTime @default(now())
+  updatedAt       DateTime @updatedAt
   
   // Relações
-  user           User     @relation(fields: [userId], references: [id], onDelete: Cascade)
-  apiKey         ApiKey?
+  user            User     @relation(fields: [userId], references: [id], onDelete: Cascade)
+  apiKey          ApiKey?
+  payments        Payment[]
   
   @@index([userId])
   @@index([sport])
   @@index([isActive])
+  @@index([expiresAt])
 }
 
 model ApiKey {
   id             String       @id @default(uuid())
-  key            String       @unique // Hash seguro ex: "br_sport_..."
+  key            String       @unique // Hash seguro ex: "se_live_..."
   subscriptionId String       @unique
   isActive       Boolean      @default(true)
   createdAt      DateTime     @default(now())
@@ -86,19 +95,22 @@ model RequestLog {
   @@index([sport, createdAt])
 }
 
-// Pagamentos (integração futura com Asaas/Mercado Pago/Stripe)
+// Pagamentos
 model Payment {
-  id             String   @id @default(uuid())
+  id             String       @id @default(uuid())
   subscriptionId String
   userId         String
-  amount         Decimal  @db.Decimal(10, 2)
-  currency       String   @default("BRL")
-  status         String   // "pending", "paid", "failed", "refunded"
-  provider       String   // "asaas", "mercadopago", "stripe"
-  providerId     String?  // ID do pagamento no gateway externo
+  amount         Decimal      @db.Decimal(10, 2)
+  currency       String       @default("BRL")
+  status         String       // "pending", "paid", "failed", "refunded"
+  provider       String       // "mercadopago"
+  providerId     String?      // ID do pagamento no gateway externo
   paidAt         DateTime?
-  createdAt      DateTime @default(now())
-  updatedAt      DateTime @updatedAt
+  createdAt      DateTime     @default(now())
+  updatedAt      DateTime     @updatedAt
+  
+  subscription   Subscription @relation(fields: [subscriptionId], references: [id], onDelete: Cascade)
+  user           User         @relation(fields: [userId], references: [id], onDelete: Cascade)
   
   @@index([subscriptionId])
   @@index([userId])

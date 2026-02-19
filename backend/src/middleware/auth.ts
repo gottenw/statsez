@@ -7,6 +7,7 @@ declare module 'hono' {
   interface ContextVariableMap {
     auth: AuthContext
     cached: boolean
+    userId: string
   }
 }
 
@@ -49,6 +50,23 @@ export const apiKeyAuth = (allowedSport?: Sport): MiddlewareHandler => {
       }, 403)
     }
 
+    // Verifica se a assinatura expirou
+    if (subscription.expiresAt && new Date() > subscription.expiresAt) {
+      // Desativa a assinatura
+      await prisma.subscription.update({
+        where: { id: subscription.id },
+        data: { isActive: false }
+      });
+      
+      return c.json({
+        success: false,
+        error: 'Assinatura expirada. Renove seu plano para continuar.',
+        meta: {
+          expiredAt: subscription.expiresAt.toISOString()
+        }
+      }, 403)
+    }
+
     
     const sportToCheck = allowedSport || sportFromPath
     
@@ -62,30 +80,41 @@ export const apiKeyAuth = (allowedSport?: Sport): MiddlewareHandler => {
 
     
     const now = new Date()
-    const cycleStart = subscription.cycleStartDate
-    const daysInCycle = Math.floor((now.getTime() - cycleStart.getTime()) / (1000 * 60 * 60 * 24))
     
-    if (daysInCycle >= 15) {
+    // Verifica se o ciclo quinzenal acabou
+    if (subscription.cycleEndDate && now > subscription.cycleEndDate) {
+      // Inicia novo ciclo
+      const newCycleStart = subscription.cycleEndDate
+      const newCycleEnd = new Date(newCycleStart)
+      newCycleEnd.setDate(newCycleEnd.getDate() + 15)
       
       await prisma.subscription.update({
         where: { id: subscription.id },
         data: {
           currentUsage: 0,
-          cycleStartDate: now
+          cycleStartDate: newCycleStart,
+          cycleEndDate: newCycleEnd
         }
       })
+      
       subscription.currentUsage = 0
+      subscription.cycleEndDate = newCycleEnd
     }
 
-    
+    // Verifica quota quinzenal
     if (subscription.currentUsage >= subscription.biWeeklyQuota) {
+      const nextReset = subscription.cycleEndDate 
+        ? subscription.cycleEndDate.toISOString()
+        : new Date(now.getTime() + 15 * 24 * 60 * 60 * 1000).toISOString()
+        
       return c.json({
         success: false,
-        error: 'Quota quinzenal esgotada. Aguarde o próximo ciclo (dia 1 ou 15)',
+        error: 'Quota quinzenal esgotada. Aguarde o próximo ciclo.',
         meta: {
           remainingQuota: 0,
           totalQuota: subscription.biWeeklyQuota,
-          resetDate: new Date(subscription.cycleStartDate.getTime() + 15 * 24 * 60 * 60 * 1000).toISOString()
+          usedQuota: subscription.currentUsage,
+          resetDate: nextReset
         }
       }, 429)
     }
@@ -96,14 +125,20 @@ export const apiKeyAuth = (allowedSport?: Sport): MiddlewareHandler => {
       data: { lastUsedAt: now }
     })
 
+    const remainingQuota = subscription.biWeeklyQuota - subscription.currentUsage
     
     c.set('auth', {
       userId: subscription.userId,
       subscriptionId: subscription.id,
       sport: subscription.sport as Sport,
       apiKey: apiKey,
-      remainingQuota: subscription.biWeeklyQuota - subscription.currentUsage
+      remainingQuota: remainingQuota
     })
+
+    // Adiciona headers informativos
+    c.header('X-RateLimit-Limit', subscription.biWeeklyQuota.toString())
+    c.header('X-RateLimit-Remaining', Math.max(0, remainingQuota).toString())
+    c.header('X-RateLimit-Reset', subscription.cycleEndDate?.toISOString() || '')
 
     await next()
   }

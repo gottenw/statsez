@@ -1,17 +1,20 @@
 "use client";
 
 import { initMercadoPago, Payment } from "@mercadopago/sdk-react";
+import { getUser } from "../lib/api";
 
 initMercadoPago(process.env.NEXT_PUBLIC_MERCADOPAGO_PUBLIC_KEY || "");
 
 interface CheckoutBrickProps {
   amount: number;
   description: string;
+  planName?: string;
+  sport?: string;
   onSuccess?: (id: string) => void;
   onError?: (error: any) => void;
 }
 
-export function CheckoutBrick({ amount, description, onSuccess, onError }: CheckoutBrickProps) {
+export function CheckoutBrick({ amount, description, planName = "dev", sport = "football", onSuccess, onError }: CheckoutBrickProps) {
   const initialization = {
     amount: amount,
   };
@@ -26,9 +29,9 @@ export function CheckoutBrick({ amount, description, onSuccess, onError }: Check
     },
     visual: {
       style: {
-        theme: "flat", // Tema minimalista
+        theme: "flat",
         customVariables: {
-          borderRadiusMedium: "0px", // Brutalista (sem curvas)
+          borderRadiusMedium: "0px",
           borderRadiusSmall: "0px",
           borderRadiusLarge: "0px",
           formBackgroundColor: "#ffffff",
@@ -46,6 +49,10 @@ export function CheckoutBrick({ amount, description, onSuccess, onError }: Check
 
   const onSubmit = async ({ formData }: any) => {
     const apiUrl = process.env.NEXT_PUBLIC_API_URL || "https://api.statsez.com";
+    const user = getUser();
+    
+    // Formato: userId|planName|sport
+    const externalReference = user ? `${user.id}|${planName}|${sport}` : `${planName}|${sport}`;
     
     return new Promise((resolve, reject) => {
       fetch(`${apiUrl}/payments/process`, {
@@ -56,6 +63,7 @@ export function CheckoutBrick({ amount, description, onSuccess, onError }: Check
         body: JSON.stringify({
           ...formData,
           description,
+          external_reference: externalReference,
         }),
       })
         .then((response) => response.json())

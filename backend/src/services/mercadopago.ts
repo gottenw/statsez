@@ -16,6 +16,7 @@ export async function processPayment(body: any) {
         installments: body.installments,
         payment_method_id: body.payment_method_id,
         issuer_id: body.issuer_id,
+        external_reference: body.external_reference, // Importante para identificar o usuário/plano
         payer: {
           email: body.payer.email,
           identification: {
@@ -41,4 +42,3 @@ export async function getPayment(paymentId: string) {
     throw error;
   }
 }
-

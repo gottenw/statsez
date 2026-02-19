@@ -13,6 +13,7 @@ import { healthRoutes } from './routes/health.js'
 import { paymentRoutes } from './routes/payments.js'
 import { userRoutes } from './routes/user.js'
 
+
 const app = new Hono()
 
 app.use('*', cors({
@@ -45,6 +46,7 @@ app.route('/health', healthRoutes)
 app.route('/auth', authRoutes)
 app.route('/payments', paymentRoutes)
 app.route('/user', userRoutes)
+
 
 app.use('/v1/:sport/*', apiKeyAuth())
 app.use('/v1/:sport/*', decrementQuota)
