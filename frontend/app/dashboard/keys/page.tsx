@@ -1,7 +1,7 @@
 "use client";
 
 import { useState, useEffect } from "react";
-import { motion, AnimatePresence } from "framer-motion";
+import { motion } from "framer-motion";
 import { getApiKeys, rotateApiKey } from "../../../lib/api";
 
 interface ApiKeyData {
@@ -34,11 +34,12 @@ export default function ApiKeysPage() {
       const data = await getApiKeys();
       if (data.success) {
         setKeys(data.data);
+        console.log("[Keys] Chaves carregadas:", data.data);
       } else {
-        setError(data.error || "Falha ao carregar chaves");
+        setError(data.error || "Erro ao carregar chaves");
       }
     } catch (err: any) {
-      setError(err.message || "Falha ao carregar chaves");
+      setError(err.message || "Erro ao carregar chaves");
     } finally {
       setLoading(false);
     }
@@ -72,7 +73,7 @@ export default function ApiKeysPage() {
       setCopied(id);
       setTimeout(() => setCopied(null), 2000);
     } catch (err) {
-      alert("Falha ao copiar");
+      alert("Erro ao copiar");
     }
   };
 
@@ -112,14 +113,46 @@ export default function ApiKeysPage() {
     );
   }
 
+  // Se não houver chaves, mostra mensagem
+  if (keys.length === 0) {
+    return (
+      <div className="p-8 md:p-12 max-w-6xl mx-auto space-y-12">
+        <header className="border-b border-border pb-8">
+          <span className="text-base uppercase tracking-[0.2em] text-muted-foreground">
+            Autenticação
+          </span>
+          <h1 className="text-3xl font-medium uppercase mt-2 tracking-tight">
+            Chaves de API
+          </h1>
+          <p className="text-base text-muted-foreground mt-4 max-w-2xl">
+            Gerencie suas chaves de acesso à API.
+          </p>
+        </header>
+
+        <div className="border border-border p-12 text-center">
+          <p className="text-xl uppercase tracking-tight">Nenhuma Chave Encontrada</p>
+          <p className="text-base text-muted-foreground mt-4">
+            Não foi possível encontrar chaves de API ativas para sua conta.
+          </p>
+          <button
+            onClick={fetchKeys}
+            className="mt-8 text-base uppercase border border-border px-6 py-3 hover:bg-foreground hover:text-background transition-all"
+          >
+            Recarregar
+          </button>
+        </div>
+      </div>
+    );
+  }
+
   return (
     <div className="p-8 md:p-12 max-w-6xl mx-auto space-y-12">
       <header className="border-b border-border pb-8">
         <span className="text-base uppercase tracking-[0.2em] text-muted-foreground">
-          Authentication
+          Autenticação
         </span>
         <h1 className="text-3xl font-medium uppercase mt-2 tracking-tight">
-          API Keys
+          Chaves de API
         </h1>
         <p className="text-base text-muted-foreground mt-4 max-w-2xl">
           Estas credenciais permitem acesso aos dados da API. Nunca exponha estas chaves em código client-side ou repositórios públicos.
@@ -159,10 +192,10 @@ export default function ApiKeysPage() {
               {/* Key Display */}
               <div className="p-6 border-b border-border">
                 <label className="text-base uppercase text-muted-foreground tracking-widest">
-                  API Key
+                  Chave de API
                 </label>
                 <div className="mt-2 flex gap-2">
-                  <div className="flex-1 bg-foreground/[0.03] border border-border p-4 text-base truncate">
+                  <div className="flex-1 bg-foreground/[0.03] border border-border p-4 text-base font-mono truncate">
                     {showKey === key.id ? key.key : "•".repeat(40)}
                   </div>
                   <button
@@ -219,17 +252,13 @@ export default function ApiKeysPage() {
 
       {/* Security Warning */}
       <div className="p-6 border border-yellow-500/30 bg-yellow-500/5">
-        <div className="flex items-start gap-4">
-          <div>
-            <h4 className="text-base uppercase tracking-widest text-yellow-500">
-              Aviso de Segurança
-            </h4>
-            <p className="text-base text-muted-foreground mt-2 leading-relaxed">
-              A rotação invalida imediatamente a chave atual. Todas as requisições usando a chave antiga 
-              retornarão erro 403. Somente rotacione se suspeitar de vazamento de credenciais.
-            </p>
-          </div>
-        </div>
+        <h4 className="text-base uppercase tracking-widest text-yellow-500">
+          Aviso de Segurança
+        </h4>
+        <p className="text-base text-muted-foreground mt-2 leading-relaxed">
+          A rotação invalida imediatamente a chave atual. Todas as requisições usando a chave antiga 
+          retornarão erro 403. Somente rotacione se suspeitar de vazamento de credenciais.
+        </p>
       </div>
     </div>
   );

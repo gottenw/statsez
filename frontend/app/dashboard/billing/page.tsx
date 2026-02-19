@@ -9,31 +9,22 @@ const PLANS = [
   {
     id: "dev",
     name: "Dev",
-    description: "Para desenvolvedores e projetos em teste",
-    requests: 40000,
-    biweekly: 20000,
-    price: 79.00,
-    pricePerReq: "0,0019",
+    requests: "40.000",
+    price: "79,00",
     featured: true,
   },
   {
     id: "enterprise",
     name: "Enterprise",
-    description: "Para startups e aplicações em produção",
-    requests: 250000,
-    biweekly: 125000,
-    price: 349.00,
-    pricePerReq: "0,0013",
+    requests: "250.000",
+    price: "349,00",
     featured: false,
   },
   {
     id: "gold",
     name: "Gold",
-    description: "Para alto volume e aplicações críticas",
-    requests: 600000,
-    biweekly: 300000,
-    price: 699.00,
-    pricePerReq: "0,0011",
+    requests: "600.000",
+    price: "699,00",
     featured: false,
   },
 ];
@@ -45,26 +36,16 @@ interface Subscription {
   monthlyQuota: number;
   biWeeklyQuota: number;
   currentUsage: number;
-  startsAt: string;
   expiresAt: string;
-  cycleStartDate: string;
   cycleEndDate: string;
   isActive: boolean;
-  apiKey?: {
-    key: string;
-  };
 }
 
 interface Payment {
   id: string;
   amount: number;
   status: string;
-  provider: string;
   paidAt: string;
-  subscription: {
-    planName: string;
-    sport: string;
-  };
 }
 
 export default function BillingPage() {
@@ -72,40 +53,29 @@ export default function BillingPage() {
   const [payments, setPayments] = useState<Payment[]>([]);
   const [loading, setLoading] = useState(true);
   const [selectedPlan, setSelectedPlan] = useState<typeof PLANS[0] | null>(null);
-  const [error, setError] = useState<string | null>(null);
-
-  const fetchData = async () => {
-    try {
-      setLoading(true);
-      const [userData, paymentsData] = await Promise.all([
-        getUserInfo(),
-        getPayments(),
-      ]);
-
-      if (userData.success && userData.data.subscriptions?.length > 0) {
-        setSubscription(userData.data.subscriptions[0]);
-      }
-
-      if (paymentsData.success) {
-        setPayments(paymentsData.data);
-      }
-    } catch (err: any) {
-      setError(err.message);
-    } finally {
-      setLoading(false);
-    }
-  };
 
   useEffect(() => {
+    const fetchData = async () => {
+      try {
+        const [userData, paymentsData] = await Promise.all([
+          getUserInfo(),
+          getPayments(),
+        ]);
+
+        if (userData.success && userData.data.subscriptions?.length > 0) {
+          setSubscription(userData.data.subscriptions[0]);
+        }
+        if (paymentsData.success) {
+          setPayments(paymentsData.data);
+        }
+      } catch (err) {
+        console.error("Erro ao carregar dados:", err);
+      } finally {
+        setLoading(false);
+      }
+    };
     fetchData();
   }, []);
-
-  const formatCurrency = (value: number) => {
-    return new Intl.NumberFormat("pt-BR", {
-      style: "currency",
-      currency: "BRL",
-    }).format(value);
-  };
 
   const formatDate = (dateStr: string) => {
     return new Date(dateStr).toLocaleDateString("pt-BR");
@@ -118,13 +88,11 @@ export default function BillingPage() {
 
   if (loading) {
     return (
-      <div className="p-8 md:p-12 max-w-6xl mx-auto">
-        <div className="animate-pulse space-y-8">
-          <div className="h-32 bg-foreground/5 border border-border" />
-          <div className="grid grid-cols-3 gap-6">
-            {[1, 2, 3].map((i) => (
-              <div key={i} className="h-96 bg-foreground/5 border border-border" />
-            ))}
+      <div className="min-h-screen bg-background">
+        <div className="section-padding py-24 border-b border-border">
+          <div className="animate-pulse space-y-4">
+            <div className="h-8 bg-foreground/5 w-32" />
+            <div className="h-16 bg-foreground/5 w-96" />
           </div>
         </div>
       </div>
@@ -132,197 +100,229 @@ export default function BillingPage() {
   }
 
   return (
-    <div className="p-8 md:p-12 max-w-6xl mx-auto space-y-16">
+    <div className="min-h-screen bg-background">
       {/* Header */}
-      <header className="border-b border-border pb-8">
-        <span className="text-base uppercase tracking-[0.2em] text-muted-foreground">
-          Billing & Plans
-        </span>
-        <h1 className="text-3xl font-medium uppercase mt-2 tracking-tight">
-          Gerenciar Assinatura
-        </h1>
-      </header>
-
-      {/* Current Subscription */}
-      {subscription ? (
-        <section className="border border-border bg-background">
-          <div className="p-8 border-b border-border bg-foreground/[0.02]">
-            <div className="flex items-center justify-between">
-              <div>
-                <span className="text-base uppercase text-muted-foreground tracking-widest">
-                  Plano Atual
-                </span>
-                <h2 className="text-2xl uppercase tracking-tight mt-1">
-                  {subscription.planName}
-                </h2>
-              </div>
-              <div className="text-right">
-                <span className={`text-base ${getDaysRemaining(subscription.expiresAt) < 7 ? "text-red-500" : "text-green-500"}`}>
-                  {getDaysRemaining(subscription.expiresAt)} dias restantes
-                </span>
-                <p className="text-base text-muted-foreground">
-                  Expira em {formatDate(subscription.expiresAt)}
-                </p>
-              </div>
-            </div>
+      <div className="section-padding py-24 border-b border-border">
+        <div className="grid grid-cols-12 gap-8">
+          <div className="col-span-12 md:col-span-4">
+            <span className="data-label tracking-[0.3em]">BILLING</span>
           </div>
+          <div className="col-span-12 md:col-span-8">
+            <h2 className="headline-text">
+              Gerencie sua<br />
+              <span className="text-muted">Assinatura</span>
+            </h2>
+          </div>
+        </div>
+      </div>
 
-          <div className="p-8 grid grid-cols-1 md:grid-cols-3 gap-8">
-            <div>
-              <span className="text-base uppercase text-muted-foreground">Quota Mensal</span>
-              <p className="text-2xl mt-2">{subscription.monthlyQuota.toLocaleString()}</p>
-              <p className="text-base text-muted-foreground">requisições</p>
+      {/* Current Plan Status */}
+      {subscription && (
+        <div className="section-padding py-16 border-b border-border">
+          <div className="grid grid-cols-12 gap-8">
+            <div className="col-span-12 md:col-span-3">
+              <span className="data-label">PLANO ATUAL</span>
+              <h3 className="font-sans text-4xl font-medium uppercase mt-4 tracking-tight">
+                {subscription.planName}
+              </h3>
             </div>
-            <div>
-              <span className="text-base uppercase text-muted-foreground">Uso Quinzenal</span>
-              <p className="text-2xl mt-2">
-                {subscription.currentUsage.toLocaleString()} / {subscription.biWeeklyQuota.toLocaleString()}
+            <div className="col-span-12 md:col-span-3">
+              <span className="data-label">QUOTA MENSAL</span>
+              <p className="font-mono text-3xl font-medium mt-4 tracking-tighter">
+                {subscription.monthlyQuota.toLocaleString()}
               </p>
-              <div className="mt-2 h-3 bg-foreground/10 overflow-hidden">
-                <motion.div
-                  initial={{ width: 0 }}
-                  animate={{ width: `${(subscription.currentUsage / subscription.biWeeklyQuota) * 100}%` }}
-                  className="h-full bg-foreground"
-                />
-              </div>
+              <p className="font-mono text-sm text-muted-foreground mt-1 uppercase tracking-widest">
+                requisições
+              </p>
             </div>
-            <div>
-              <span className="text-base uppercase text-muted-foreground">Próximo Ciclo</span>
-              <p className="text-2xl mt-2">{formatDate(subscription.cycleEndDate)}</p>
-              <p className="text-base text-muted-foreground">reset da quota</p>
+            <div className="col-span-12 md:col-span-3">
+              <span className="data-label">DIAS RESTANTES</span>
+              <p className={`font-mono text-3xl font-medium mt-4 tracking-tighter ${
+                getDaysRemaining(subscription.expiresAt) < 7 ? "text-red-500" : ""
+              }`}>
+                {getDaysRemaining(subscription.expiresAt)}
+              </p>
+              <p className="font-mono text-sm text-muted-foreground mt-1 uppercase tracking-widest">
+                até {formatDate(subscription.expiresAt)}
+              </p>
+            </div>
+            <div className="col-span-12 md:col-span-3">
+              <span className="data-label">USO QUINZENAL</span>
+              <p className="font-mono text-3xl font-medium mt-4 tracking-tighter">
+                {subscription.currentUsage.toLocaleString()}
+              </p>
+              <p className="font-mono text-sm text-muted-foreground mt-1 uppercase tracking-widest">
+                de {subscription.biWeeklyQuota.toLocaleString()}
+              </p>
             </div>
           </div>
-        </section>
-      ) : (
-        <section className="border border-border p-8 text-center">
-          <h3 className="text-xl uppercase">Nenhuma Assinatura Ativa</h3>
-          <p className="text-base text-muted-foreground mt-2">
-            Escolha um plano abaixo para começar
-          </p>
-        </section>
+
+          {/* Usage Bar */}
+          <div className="mt-12">
+            <div className="h-px bg-border mb-4" />
+            <div className="flex justify-between items-center mb-2">
+              <span className="font-mono text-xs uppercase tracking-widest text-muted-foreground">
+                Progresso do Ciclo Quinzenal
+              </span>
+              <span className="font-mono text-xs uppercase tracking-widest">
+                {Math.round((subscription.currentUsage / subscription.biWeeklyQuota) * 100)}%
+              </span>
+            </div>
+            <div className="h-2 bg-foreground/10 overflow-hidden">
+              <motion.div
+                initial={{ width: 0 }}
+                animate={{ width: `${(subscription.currentUsage / subscription.biWeeklyQuota) * 100}%` }}
+                className="h-full bg-foreground"
+                transition={{ duration: 1, delay: 0.5 }}
+              />
+            </div>
+          </div>
+        </div>
       )}
 
       {/* Available Plans */}
-      <section className="space-y-8">
-        <h2 className="text-base uppercase tracking-[0.2em] text-muted-foreground">
-          Planos Disponíveis
-        </h2>
+      <div className="section-padding py-24 border-b border-border">
+        <div className="grid grid-cols-12 gap-8 mb-16">
+          <div className="col-span-12 md:col-span-4">
+            <span className="data-label tracking-[0.3em]">UPGRADE</span>
+          </div>
+          <div className="col-span-12 md:col-span-8">
+            <h3 className="font-sans text-2xl font-medium uppercase tracking-tight">
+              Planos Disponíveis
+            </h3>
+          </div>
+        </div>
 
-        <div className="grid grid-cols-1 md:grid-cols-3 gap-6">
+        <div className="space-y-0">
           {PLANS.map((plan, index) => (
             <motion.div
               key={plan.id}
-              initial={{ opacity: 0, y: 20 }}
-              animate={{ opacity: 1, y: 0 }}
-              transition={{ delay: index * 0.1 }}
-              className={`border border-border bg-background relative flex flex-col ${
-                plan.featured ? "border-foreground/30" : ""
+              initial={{ opacity: 0 }}
+              animate={{ opacity: 1 }}
+              transition={{ duration: 0.8, delay: index * 0.1 }}
+              className={`grid grid-cols-12 gap-8 py-12 border-b border-border group cursor-default transition-all duration-500 ${
+                plan.featured ? "bg-foreground/[0.03]" : "hover:bg-foreground/[0.01]"
               }`}
             >
-              {plan.featured && (
-                <div className="absolute top-0 right-0 bg-foreground text-background px-3 py-1">
-                  <span className="text-base uppercase tracking-widest font-bold">
-                    Popular
-                  </span>
-                </div>
-              )}
+              <div className="col-span-12 md:col-span-1">
+                <span className="font-mono text-xl text-muted group-hover:text-foreground transition-colors duration-500">
+                  0{index + 1}
+                </span>
+              </div>
 
-              <div className="p-8 flex-1">
-                <div className="space-y-6">
-                  <div>
-                    <h3 className="text-2xl uppercase tracking-tight">{plan.name}</h3>
-                    <p className="text-base text-muted-foreground mt-2">{plan.description}</p>
-                  </div>
+              <div className="col-span-12 md:col-span-3">
+                <h4 className="font-sans text-2xl font-medium tracking-tight uppercase">
+                  {plan.name}
+                  {plan.featured && (
+                    <span className="ml-3 text-xs bg-foreground text-background px-2 py-0.5 align-middle tracking-widest">
+                      POPULAR
+                    </span>
+                  )}
+                </h4>
+                <p className="font-mono text-sm text-muted-foreground mt-2 uppercase tracking-widest">
+                  {plan.requests} req/mês
+                </p>
+              </div>
 
-                  <div className="border-t border-border pt-6">
+              <div className="col-span-12 md:col-span-4">
+                <div className="grid grid-cols-2 gap-8">
+                  <div className="space-y-2">
+                    <span className="data-label text-xs opacity-50">REQUISIÇÕES</span>
                     <div className="flex items-baseline gap-1">
-                      <span className="text-4xl font-medium tracking-tighter">
-                        {formatCurrency(plan.price)}
+                      <span className="font-mono text-3xl font-medium tracking-tighter">
+                        {plan.requests}
                       </span>
-                      <span className="text-base text-muted-foreground">/mês</span>
                     </div>
-                    <p className="text-base text-muted-foreground mt-1">
-                      R$ {plan.pricePerReq} por requisição
-                    </p>
                   </div>
-
-                  <div className="space-y-3 pt-4 border-t border-border">
-                    <div className="flex items-center gap-2">
-                      <span className="text-green-500 font-bold">[OK]</span>
-                      <span className="text-base">{plan.requests.toLocaleString()} requisições/mês</span>
-                    </div>
-                    <div className="flex items-center gap-2">
-                      <span className="text-green-500 font-bold">[OK]</span>
-                      <span className="text-base">{plan.biweekly.toLocaleString()} quota quinzenal</span>
-                    </div>
-                    <div className="flex items-center gap-2">
-                      <span className="text-green-500 font-bold">[OK]</span>
-                      <span className="text-base">Acesso a todos os esportes</span>
-                    </div>
-                    <div className="flex items-center gap-2">
-                      <span className="text-green-500 font-bold">[OK]</span>
-                      <span className="text-base">Suporte técnico</span>
+                  <div className="space-y-2">
+                    <span className="data-label text-xs opacity-50">VALIDADE</span>
+                    <div className="flex items-baseline gap-1">
+                      <span className="font-mono text-3xl font-medium tracking-tighter text-muted">
+                        30
+                      </span>
+                      <span className="font-mono text-sm text-muted-foreground">dias</span>
                     </div>
                   </div>
                 </div>
               </div>
 
-              <div className="p-6 border-t border-border">
+              <div className="col-span-12 md:col-span-2">
+                <div className="space-y-2">
+                  <span className="data-label text-xs opacity-50">INVESTIMENTO</span>
+                  <div className="flex items-baseline gap-1">
+                    <span className="font-mono text-3xl font-medium tracking-tighter">
+                      R$ {plan.price}
+                    </span>
+                  </div>
+                  <p className="font-mono text-xs text-muted-foreground uppercase tracking-widest">
+                    /mês
+                  </p>
+                </div>
+              </div>
+
+              <div className="col-span-12 md:col-span-2 flex items-center justify-end">
                 <button
                   onClick={() => setSelectedPlan(plan)}
                   disabled={subscription?.planName.toLowerCase() === plan.id}
-                  className={`w-full text-base font-bold uppercase tracking-[0.2em] border py-4 transition-all duration-300 ${
+                  className={`w-full md:w-auto font-mono text-xs font-bold uppercase tracking-[0.2em] border border-border px-10 py-5 transition-all duration-500 whitespace-nowrap ${
                     subscription?.planName.toLowerCase() === plan.id
-                      ? "border-green-500 text-green-500 cursor-default"
-                      : "border-foreground hover:bg-foreground hover:text-background"
+                      ? "bg-green-500 text-white border-green-500"
+                      : "bg-background hover:bg-foreground hover:text-background"
                   }`}
                 >
-                  {subscription?.planName.toLowerCase() === plan.id ? "Plano Atual" : "Assinar"}
+                  {subscription?.planName.toLowerCase() === plan.id ? "ATUAL" : "ASSINAR"}
                 </button>
               </div>
             </motion.div>
           ))}
         </div>
-      </section>
+      </div>
 
       {/* Payment History */}
-      <section className="space-y-6">
-        <h2 className="text-base uppercase tracking-[0.2em] text-muted-foreground">
-          Histórico de Pagamentos
-        </h2>
+      <div className="section-padding py-24">
+        <div className="grid grid-cols-12 gap-8 mb-16">
+          <div className="col-span-12 md:col-span-4">
+            <span className="data-label tracking-[0.3em]">HISTÓRICO</span>
+          </div>
+          <div className="col-span-12 md:col-span-8">
+            <h3 className="font-sans text-2xl font-medium uppercase tracking-tight">
+              Pagamentos
+            </h3>
+          </div>
+        </div>
 
         {payments.length > 0 ? (
           <div className="border border-border overflow-hidden">
             <table className="w-full text-left">
               <thead>
                 <tr className="bg-foreground/[0.03] border-b border-border">
-                  <th className="p-4 text-base uppercase tracking-widest">Plano</th>
-                  <th className="p-4 text-base uppercase tracking-widest">Data</th>
-                  <th className="p-4 text-base uppercase tracking-widest">Valor</th>
-                  <th className="p-4 text-base uppercase tracking-widest text-right">Status</th>
+                  <th className="p-6 font-mono text-xs uppercase tracking-widest text-foreground font-bold">
+                    Data
+                  </th>
+                  <th className="p-6 font-mono text-xs uppercase tracking-widest text-foreground font-bold">
+                    Valor
+                  </th>
+                  <th className="p-6 font-mono text-xs uppercase tracking-widest text-foreground font-bold text-right">
+                    Status
+                  </th>
                 </tr>
               </thead>
               <tbody className="divide-y divide-border">
                 {payments.map((payment) => (
-                  <tr key={payment.id} className="hover:bg-foreground/[0.01]">
-                    <td className="p-4">
-                      <span className="text-base">
-                        {payment.subscription?.planName} ({payment.subscription?.sport})
-                      </span>
-                    </td>
-                    <td className="p-4 text-base text-muted-foreground">
+                  <tr key={payment.id} className="hover:bg-foreground/[0.01] transition-colors">
+                    <td className="p-6 font-mono text-base">
                       {formatDate(payment.paidAt || payment.id)}
                     </td>
-                    <td className="p-4 text-base">
-                      {formatCurrency(payment.amount)}
+                    <td className="p-6 font-mono text-base font-bold">
+                      R$ {payment.amount.toFixed(2).replace(".", ",")}
                     </td>
-                    <td className="p-4 text-right">
-                      <span className={`text-base uppercase px-3 py-1 border ${
-                        payment.status === "paid" 
-                          ? "border-green-500 text-green-500" 
+                    <td className="p-6 text-right">
+                      <span className={`font-mono text-xs font-bold border px-3 py-1 uppercase tracking-widest ${
+                        payment.status === "paid"
+                          ? "border-green-500 text-green-500"
                           : "border-yellow-500 text-yellow-500"
                       }`}>
-                        {payment.status}
+                        {payment.status === "paid" ? "PAGO" : payment.status}
                       </span>
                     </td>
                   </tr>
@@ -331,11 +331,13 @@ export default function BillingPage() {
             </table>
           </div>
         ) : (
-          <div className="border border-border p-8 text-center">
-            <p className="text-base text-muted-foreground">Nenhum pagamento encontrado</p>
+          <div className="border border-border p-12 text-center">
+            <p className="font-mono text-base text-muted-foreground uppercase tracking-widest">
+              Nenhum pagamento encontrado
+            </p>
           </div>
         )}
-      </section>
+      </div>
 
       {/* Checkout Modal */}
       <AnimatePresence>
@@ -347,24 +349,28 @@ export default function BillingPage() {
               exit={{ opacity: 0, scale: 0.98 }}
               className="relative w-full max-w-2xl bg-background border border-border shadow-2xl overflow-hidden max-h-[90vh] flex flex-col"
             >
-              <div className="p-6 border-b border-border flex justify-between items-center">
-                <div>
-                  <h3 className="text-xl uppercase">Assinar {selectedPlan.name}</h3>
-                  <p className="text-base text-muted-foreground">
-                    {formatCurrency(selectedPlan.price)}/mês
-                  </p>
-                </div>
+              <div className="absolute top-0 right-0 border-l border-b border-border">
                 <button
                   onClick={() => setSelectedPlan(null)}
-                  className="p-2 hover:bg-foreground/5 text-2xl"
+                  className="p-4 text-foreground hover:bg-foreground hover:text-background transition-all"
                 >
-                  X
+                  FECHAR
                 </button>
+              </div>
+
+              <div className="p-8 border-b border-border">
+                <span className="data-label text-xs opacity-50">CHECKOUT</span>
+                <h3 className="font-sans text-xl font-medium uppercase tracking-tight mt-2">
+                  {selectedPlan.name} Plan
+                </h3>
+                <p className="font-mono text-sm text-muted-foreground mt-1 uppercase tracking-widest">
+                  R$ {selectedPlan.price} / mês
+                </p>
               </div>
 
               <div className="flex-1 overflow-y-auto p-6 bg-white">
                 <CheckoutBrick
-                  amount={selectedPlan.price}
+                  amount={parseFloat(selectedPlan.price.replace(",", "."))}
                   description={`STATSEZ API - ${selectedPlan.name.toUpperCase()}`}
                   planName={selectedPlan.id}
                   onSuccess={(id) => {

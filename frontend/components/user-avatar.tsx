@@ -58,7 +58,7 @@ export function UserAvatar() {
               className="absolute top-full right-0 mt-2 w-56 bg-background border border-border shadow-xl"
             >
               <div className="p-3 border-b border-border bg-foreground/[0.02]">
-                <p className="text-base uppercase text-muted-foreground">Logado como</p>
+                <p className="text-base uppercase text-muted-foreground">Conectado como</p>
                 <p className="text-base truncate">{user.email}</p>
               </div>
 
@@ -68,13 +68,13 @@ export function UserAvatar() {
                   onClick={() => setIsOpen(false)}
                   className="flex items-center gap-2 px-3 py-2 text-base hover:bg-foreground/5"
                 >
-                  [Dashboard]
+                  [Painel]
                 </a>
                 <button
                   onClick={() => { setIsOpen(false); logout(); }}
                   className="w-full flex items-center gap-2 px-3 py-2 text-base text-red-500 hover:bg-red-500/10"
                 >
-                  [Sair]
+                  [Desconectar]
                 </button>
               </div>
             </motion.div>
