@@ -47,12 +47,19 @@ async function buildRegistry(): Promise<void> {
   try {
     const cached = await getCache<LeagueEntry[]>('football', 'league-registry', {});
     if (cached && cached.length > 0) {
-      for (const entry of cached) {
-        leagueRegistry.set(entry.id, entry);
+      // Validate that cached entries have currentSeason (invalidate old format)
+      const hasSeasons = cached.some(e => e.currentSeason !== undefined && e.currentSeason !== '');
+      if (!hasSeasons) {
+        console.log('[Registry] Cache outdated (missing seasons), rebuilding from API...');
+      } else {
+        for (const entry of cached) {
+          entry.currentSeason = entry.currentSeason || '';
+          leagueRegistry.set(entry.id, entry);
+        }
+        registryBuilt = true;
+        console.log(`[Registry] Loaded ${cached.length} leagues from cache`);
+        return;
       }
-      registryBuilt = true;
-      console.log(`[Registry] Loaded ${cached.length} leagues from cache`);
-      return;
     }
   } catch {
     // cache miss or error, build from API
