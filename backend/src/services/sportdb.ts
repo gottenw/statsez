@@ -8,6 +8,7 @@ import type {
   StatPeriod,
   LineupPlayer,
   MatchEvent,
+  StandingsEntry,
 } from '../types/sportdb.js';
 
 const BASE_URL = process.env.SPORTDB_BASE_URL || 'https://api.sportdb.dev';
@@ -170,6 +171,21 @@ export async function getMatchDetails(matchId: string): Promise<{
 export async function getMatchEvents(matchId: string): Promise<MatchEvent[]> {
   try {
     const data = await apiFetch<MatchEvent[]>(`/api/flashscore/match/${matchId}/events`);
+    return Array.isArray(data) ? data : [];
+  } catch {
+    return [];
+  }
+}
+
+export async function getStandings(
+  country: string,
+  league: string,
+  season: string
+): Promise<StandingsEntry[]> {
+  try {
+    const data = await apiFetch<StandingsEntry[]>(
+      `/api/flashscore/football/${country}/${league}/${season}/standings`
+    );
     return Array.isArray(data) ? data : [];
   } catch {
     return [];

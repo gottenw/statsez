@@ -1,126 +1,166 @@
-
-
 import * as sportdb from './sportdb.js';
-import * as localData from './localData.js';
-import type { 
-  FixtureResponse, 
-  LeagueResponse, 
-  TeamResponse, 
+import type {
+  FixtureResponse,
+  LeagueResponse,
+  TeamResponse,
   StatsResponse,
   EventsResponse,
   LineupsResponse,
-  CollectedMatch 
+  MatchResult,
+  StandingsEntry,
 } from '../types/sportdb.js';
 
+// ============================================
+// LEAGUE REGISTRY
+// Maps competition ID → upstream API path info
+// ============================================
 
+interface LeagueEntry {
+  id: string;
+  name: string;
+  countryName: string;
+  countryParam: string;   // "slug:id" for API calls
+  leagueSlug: string;
+  leagueParam: string;    // "slug:id" for API calls
+}
 
+const leagueRegistry = new Map<string, LeagueEntry>();
+let registryBuilt = false;
+let registryBuilding: Promise<void> | null = null;
 
-
-
-const USE_ONLINE_API = process.env.USE_ONLINE_API !== 'false';
-
-
-
-
-
-
-export async function getLeagues(): Promise<LeagueResponse[]> {
-  const leagues: LeagueResponse[] = [];
-  
-  
-  const localLeagues = localData.listAvailableLeagues();
-  for (const l of localLeagues) {
-    const data = localData.loadLeagueData(l.filename);
-    if (data) {
-      leagues.push({
-        id: `${l.country}-${l.league}-${l.season}`,
-        name: data.league,
-        country: l.country,
-        season: l.season,
-        slug: `${l.country}-${l.league}`,
-      });
-    }
+async function ensureRegistry(): Promise<void> {
+  if (registryBuilt) return;
+  if (registryBuilding) {
+    await registryBuilding;
+    return;
   }
-  
-  
-  if (USE_ONLINE_API) {
-    try {
-      const countries = await sportdb.getCountries();
-      for (const country of countries.slice(0, 10)) { 
-        const competitions = await sportdb.getCompetitions(`${country.slug}:${country.id}`);
-        for (const comp of competitions) {
-          
-          const exists = leagues.some(l => 
-            l.country === country.slug && 
-            l.name.toLowerCase() === comp.name.toLowerCase()
-          );
-          if (!exists) {
-            leagues.push({
+  registryBuilding = buildRegistry();
+  await registryBuilding;
+  registryBuilding = null;
+}
+
+async function buildRegistry(): Promise<void> {
+  try {
+    const countries = await sportdb.getCountries();
+
+    const BATCH_SIZE = 10;
+    for (let i = 0; i < countries.length; i += BATCH_SIZE) {
+      const batch = countries.slice(i, i + BATCH_SIZE);
+      const results = await Promise.allSettled(
+        batch.map(async (country) => {
+          const countryParam = `${country.slug}:${country.id}`;
+          const competitions = await sportdb.getCompetitions(countryParam);
+          return { country, countryParam, competitions };
+        })
+      );
+
+      for (const result of results) {
+        if (result.status === 'fulfilled') {
+          const { country, countryParam, competitions } = result.value;
+          for (const comp of competitions) {
+            leagueRegistry.set(comp.id, {
               id: comp.id,
               name: comp.name,
-              country: country.slug,
-              season: '', 
-              slug: comp.slug,
+              countryName: country.name,
+              countryParam,
+              leagueSlug: comp.slug,
+              leagueParam: `${comp.slug}:${comp.id}`,
             });
           }
         }
       }
-    } catch (error) {
-      console.warn('API online indisponível, usando apenas dados locais');
     }
+
+    registryBuilt = true;
+  } catch (error) {
+    console.error('Failed to build league registry');
   }
-  
+}
+
+async function resolveLeagueSeason(entry: LeagueEntry): Promise<string | null> {
+  try {
+    const info = await sportdb.getSeasons(entry.countryParam, entry.leagueParam);
+    if (info.seasons && info.seasons.length > 0) {
+      return info.seasons[0].season;
+    }
+    return null;
+  } catch {
+    return null;
+  }
+}
+
+// ============================================
+// LEAGUES
+// ============================================
+
+export async function getLeagues(): Promise<LeagueResponse[]> {
+  await ensureRegistry();
+
+  const leagues: LeagueResponse[] = [];
+  for (const entry of leagueRegistry.values()) {
+    leagues.push({
+      id: entry.id,
+      name: entry.name,
+      country: entry.countryName,
+      season: '',
+      slug: entry.leagueSlug,
+    });
+  }
   return leagues;
 }
 
+export async function getLeaguesByCountry(country: string): Promise<LeagueResponse[]> {
+  await ensureRegistry();
 
-export function getLeaguesByCountry(country: string): LeagueResponse[] {
-  const localLeagues = localData.listLeaguesByCountry(country);
-  
-  return localLeagues.map(l => {
-    const data = localData.loadLeagueData(l.filename);
-    return {
-      id: l.filename.replace('.json', ''),
-      name: l.name,
-      country: l.league,
-      season: l.season,
-      slug: `${country}-${l.league}`,
-    };
-  });
+  const countryLower = country.toLowerCase();
+  const leagues: LeagueResponse[] = [];
+
+  for (const entry of leagueRegistry.values()) {
+    if (entry.countryName.toLowerCase() === countryLower) {
+      leagues.push({
+        id: entry.id,
+        name: entry.name,
+        country: entry.countryName,
+        season: '',
+        slug: entry.leagueSlug,
+      });
+    }
+  }
+  return leagues;
 }
 
+// ============================================
+// FIXTURES
+// ============================================
 
-
-
-
-
-function convertToFixture(match: CollectedMatch): FixtureResponse {
+function convertMatchResult(match: MatchResult): FixtureResponse {
   return {
-    id: match.id,
-    date: match.date,
-    round: match.round,
+    id: match.eventId,
+    date: match.startDateTimeUtc,
+    round: match.round || match.eventStage || '',
     homeTeam: {
-      name: match.homeTeam,
+      name: match.homeName,
+      shortName: match.home3CharName,
     },
     awayTeam: {
-      name: match.awayTeam,
+      name: match.awayName,
+      shortName: match.away3CharName,
     },
     score: {
       fullTime: {
-        home: match.homeScore,
-        away: match.awayScore,
+        home: parseInt(match.homeFullTimeScore) || 0,
+        away: parseInt(match.awayFullTimeScore) || 0,
       },
       halfTime: {
-        home: match.htHome,
-        away: match.htAway,
+        home: parseInt(match.homeResultPeriod2) || 0,
+        away: parseInt(match.awayResultPeriod2) || 0,
       },
     },
-    status: match.status,
+    status: match.homeFullTimeScore ? 'FT' : 'NS',
   };
 }
 
-
-export function getFixturesByLeague(
+export async function getFixturesByLeague(
   leagueId: string,
   options?: {
     round?: string;
@@ -128,167 +168,149 @@ export function getFixturesByLeague(
     dateFrom?: string;
     dateTo?: string;
   }
-): { league: string; fixtures: FixtureResponse[] } | null {
-  const data = localData.loadLeagueData(`${leagueId}.json`) || 
-               localData.findLeagueBySlug(leagueId);
-  
-  if (!data) return null;
-  
-  let matches = data.matches;
-  
-  
+): Promise<{ league: string; fixtures: FixtureResponse[] } | null> {
+  await ensureRegistry();
+  const entry = leagueRegistry.get(leagueId);
+  if (!entry) return null;
+
+  const season = await resolveLeagueSeason(entry);
+  if (!season) return null;
+
+  const results = await sportdb.getAllResults(entry.countryParam, entry.leagueParam, season);
+  let fixtures = results.map(convertMatchResult);
+
   if (options?.round) {
-    matches = matches.filter(m => m.round === options.round);
+    fixtures = fixtures.filter(f => f.round.toLowerCase().includes(options.round!.toLowerCase()));
   }
-  
   if (options?.team) {
     const teamLower = options.team.toLowerCase();
-    matches = matches.filter(m => 
-      m.homeTeam.toLowerCase().includes(teamLower) ||
-      m.awayTeam.toLowerCase().includes(teamLower)
+    fixtures = fixtures.filter(f =>
+      f.homeTeam.name.toLowerCase().includes(teamLower) ||
+      f.awayTeam.name.toLowerCase().includes(teamLower)
     );
   }
-  
   if (options?.dateFrom) {
-    matches = matches.filter(m => new Date(m.date) >= new Date(options.dateFrom!));
+    const from = new Date(options.dateFrom);
+    fixtures = fixtures.filter(f => new Date(f.date) >= from);
   }
-  
   if (options?.dateTo) {
-    matches = matches.filter(m => new Date(m.date) <= new Date(options.dateTo!));
+    const to = new Date(options.dateTo);
+    fixtures = fixtures.filter(f => new Date(f.date) <= to);
   }
-  
-  return {
-    league: data.league,
-    fixtures: matches.map(convertToFixture),
-  };
+
+  return { league: entry.name, fixtures };
 }
 
-
-export function getAllFixtures(options?: {
+export async function getAllFixtures(options?: {
   league?: string;
   team?: string;
   round?: string;
   date?: string;
-}): Array<{ league: string; country: string; fixture: FixtureResponse }> {
-  const results: Array<{ league: string; country: string; fixture: FixtureResponse }> = [];
-  
-  const leagues = localData.listAvailableLeagues();
-  
-  for (const l of leagues) {
-    const data = localData.loadLeagueData(l.filename);
-    if (!data) continue;
-    
-    
-    if (options?.league && !data.league.toLowerCase().includes(options.league.toLowerCase())) {
-      continue;
-    }
-    
-    for (const match of data.matches) {
-      
-      if (options?.team) {
-        const teamLower = options.team.toLowerCase();
-        if (!match.homeTeam.toLowerCase().includes(teamLower) &&
-            !match.awayTeam.toLowerCase().includes(teamLower)) {
-          continue;
+}): Promise<Array<{ league: string; country: string; fixture: FixtureResponse }>> {
+  if (options?.league) {
+    await ensureRegistry();
+    const entry = leagueRegistry.get(options.league);
+    if (!entry) return [];
+    const result = await getFixturesByLeague(options.league, {
+      team: options.team,
+      round: options.round,
+      dateFrom: options.date,
+      dateTo: options.date,
+    });
+    if (!result) return [];
+    return result.fixtures.map(f => ({
+      league: result.league,
+      country: entry.countryName,
+      fixture: f,
+    }));
+  }
+  return [];
+}
+
+export async function getFixtureById(matchId: string): Promise<{
+  fixture: FixtureResponse;
+  league: string;
+  country: string;
+  stats: Record<string, [string, string]>;
+} | null> {
+  try {
+    const stats = await sportdb.getMatchStats(matchId);
+    const statsMap: Record<string, [string, string]> = {};
+    if (stats.length > 0) {
+      for (const period of stats) {
+        for (const stat of period.stats) {
+          statsMap[stat.statName] = [stat.homeValue, stat.awayValue];
         }
       }
-      
-      if (options?.round && match.round !== options.round) {
-        continue;
-      }
-      
-      if (options?.date) {
-        const matchDate = new Date(match.date).toISOString().split('T')[0];
-        if (matchDate !== options.date) continue;
-      }
-      
-      results.push({
-        league: data.league,
-        country: l.country,
-        fixture: convertToFixture(match),
-      });
+    }
+    return {
+      fixture: {
+        id: matchId,
+        date: '',
+        round: '',
+        homeTeam: { name: '' },
+        awayTeam: { name: '' },
+        score: { fullTime: { home: 0, away: 0 }, halfTime: { home: 0, away: 0 } },
+        status: 'FT',
+      },
+      league: '',
+      country: '',
+      stats: statsMap,
+    };
+  } catch {
+    return null;
+  }
+}
+
+// ============================================
+// TEAMS
+// ============================================
+
+export async function getTeams(leagueId?: string): Promise<TeamResponse[]> {
+  if (!leagueId) return [];
+
+  await ensureRegistry();
+  const entry = leagueRegistry.get(leagueId);
+  if (!entry) return [];
+
+  const season = await resolveLeagueSeason(entry);
+  if (!season) return [];
+
+  const results = await sportdb.getAllResults(entry.countryParam, entry.leagueParam, season);
+  const teams = new Map<string, TeamResponse>();
+
+  for (const match of results) {
+    if (!teams.has(match.homeName)) {
+      teams.set(match.homeName, { name: match.homeName, shortName: match.home3CharName, country: entry.countryName });
+    }
+    if (!teams.has(match.awayName)) {
+      teams.set(match.awayName, { name: match.awayName, shortName: match.away3CharName, country: entry.countryName });
     }
   }
-  
-  return results;
+  return Array.from(teams.values());
 }
 
-
-export function getFixtureById(matchId: string): {
-  fixture: FixtureResponse;
-  league: string;
-  country: string;
-  stats: CollectedMatch['stats'];
-} | null {
-  const result = localData.findMatchById(matchId);
-  if (!result) return null;
-  
-  return {
-    fixture: convertToFixture(result.match),
-    league: result.league.league,
-    country: result.league.country,
-    stats: result.match.stats,
-  };
-}
-
-
-
-
-
-
-export function getTeams(leagueId?: string): TeamResponse[] {
-  const teams = new Map<string, { name: string; country: string }>();
-  
-  const leagues = leagueId 
-    ? [localData.loadLeagueData(`${leagueId}.json`) || localData.findLeagueBySlug(leagueId)].filter(Boolean)
-    : localData.listAvailableLeagues().map(l => localData.loadLeagueData(l.filename)).filter(Boolean);
-  
-  for (const data of leagues) {
-    if (!data || !data.matches || !Array.isArray(data.matches)) continue;
-    
-    for (const match of data.matches) {
-      if (!teams.has(match.homeTeam)) {
-        teams.set(match.homeTeam, { name: match.homeTeam, country: data.country });
-      }
-      if (!teams.has(match.awayTeam)) {
-        teams.set(match.awayTeam, { name: match.awayTeam, country: data.country });
-      }
-    }
-  }
-  
-  return Array.from(teams.values()).map(t => ({
-    name: t.name,
-    country: t.country,
-  }));
-}
-
-
-export function getTeamFixtures(teamName: string): Array<{
+export async function getTeamFixtures(teamName: string): Promise<Array<{
   league: string;
   country: string;
   fixture: FixtureResponse;
-}> {
-  const results = localData.findMatchesByTeam(teamName);
-  
-  return results.map(r => ({
-    league: r.league.league,
-    country: r.league.country,
-    fixture: convertToFixture(r.match),
-  }));
+}>> {
+  // Sem league especificada, não há como buscar eficientemente
+  return [];
 }
 
+// ============================================
+// STANDINGS (via sportsdb.dev direct endpoint)
+// ============================================
 
-
-
-
-
-export function getStandings(leagueId: string): {
+export async function getStandings(leagueId: string): Promise<{
   league: string;
   country: string;
   season: string;
   standings: Array<{
     position: number;
     team: string;
+    teamId: string;
     played: number;
     won: number;
     drawn: number;
@@ -298,148 +320,85 @@ export function getStandings(leagueId: string): {
     goalDifference: number;
     points: number;
   }>;
-} | null {
-  const data = localData.loadLeagueData(`${leagueId}.json`) ||
-               localData.findLeagueBySlug(leagueId);
-  
-  if (!data) {
-    
-    const leagues = localData.listAvailableLeagues();
-    const match = leagues.find(l => 
-      l.filename.includes(leagueId) ||
-      `${l.country}-${l.league}-${l.season}`.includes(leagueId)
-    );
-    if (!match) return null;
-  }
-  
-  const filename = data 
-    ? `${data.country}-${data.league.toLowerCase().replace(/\s+/g, '-')}-${data.season}.json`
-    : localData.listAvailableLeagues().find(l => 
-        l.filename.includes(leagueId) ||
-        `${l.country}-${l.league}-${l.season}`.includes(leagueId)
-      )?.filename;
-  
-  if (!filename) return null;
-  
-  const standings = localData.generateStandings(filename);
-  
-  return {
-    league: data?.league || '',
-    country: data?.country || '',
-    season: data?.season || '',
-    standings,
-  };
+} | null> {
+  await ensureRegistry();
+  const entry = leagueRegistry.get(leagueId);
+  if (!entry) return null;
+
+  const season = await resolveLeagueSeason(entry);
+  if (!season) return null;
+
+  const data = await sportdb.getStandings(entry.countryParam, entry.leagueParam, season);
+  if (!data || data.length === 0) return null;
+
+  const standings = data.map((e: StandingsEntry) => {
+    const goalsParts = e.goals ? e.goals.split(':') : ['0', '0'];
+    const goalsFor = parseInt(goalsParts[0]) || 0;
+    const goalsAgainst = parseInt(goalsParts[1]) || 0;
+
+    return {
+      position: parseInt(e.rank) || 0,
+      team: e.teamName,
+      teamId: e.teamId,
+      played: parseInt(e.matches) || 0,
+      won: parseInt(e.wins || e.winsRegular) || 0,
+      drawn: parseInt(e.draws) || 0,
+      lost: parseInt(e.lossesRegular) || 0,
+      goalsFor,
+      goalsAgainst,
+      goalDifference: parseInt(e.goalDiff) || (goalsFor - goalsAgainst),
+      points: parseInt(e.points) || 0,
+    };
+  });
+
+  return { league: entry.name, country: entry.countryName, season, standings };
 }
 
-
-
-
-
+// ============================================
+// MATCH DETAILS (stats, events, lineups)
+// ============================================
 
 export async function getMatchStats(matchId: string): Promise<StatsResponse | null> {
-  
-  if (USE_ONLINE_API) {
-    try {
-      const stats = await sportdb.getMatchStats(matchId);
-      if (stats && stats.length > 0) {
-        return {
-          matchId,
-          periods: stats,
-        };
-      }
-    } catch (error) {
-      
+  try {
+    const stats = await sportdb.getMatchStats(matchId);
+    if (stats && stats.length > 0) {
+      return { matchId, periods: stats };
     }
+    return null;
+  } catch {
+    return null;
   }
-  
-  
-  const result = localData.findMatchById(matchId);
-  if (!result) return null;
-  
-  
-  const stats: Array<{ statId: string; statName: string; homeValue: string; awayValue: string }> = [];
-  for (const [key, values] of Object.entries(result.match.stats)) {
-    stats.push({
-      statId: key.toLowerCase().replace(/\s+/g, '_'),
-      statName: key,
-      homeValue: values[0],
-      awayValue: values[1],
-    });
-  }
-  
-  return {
-    matchId,
-    periods: [{
-      period: 'Match',
-      stats,
-    }],
-  };
 }
-
 
 export async function getMatchEvents(matchId: string): Promise<EventsResponse | null> {
-  
-  if (USE_ONLINE_API) {
-    try {
-      const events = await sportdb.getMatchEvents(matchId);
-      if (events && events.length > 0) {
-        return { matchId, events };
-      }
-    } catch (error) {
-      
+  try {
+    const events = await sportdb.getMatchEvents(matchId);
+    if (events && events.length > 0) {
+      return { matchId, events };
     }
+    return null;
+  } catch {
+    return null;
   }
-
-  
-  const result = localData.findMatchById(matchId);
-  if (result && result.match.events) {
-    return {
-      matchId,
-      events: result.match.events,
-    };
-  }
-
-  return null;
 }
-
 
 export async function getMatchLineups(matchId: string): Promise<LineupsResponse | null> {
-  
-  if (USE_ONLINE_API) {
-    try {
-      const lineups = await sportdb.getMatchLineups(matchId);
-      if (lineups.home || lineups.away) {
-        return {
-          matchId,
-          home: lineups.home,
-          away: lineups.away,
-        };
-      }
-    } catch (error) {
-      
+  try {
+    const lineups = await sportdb.getMatchLineups(matchId);
+    if (lineups.home || lineups.away) {
+      return { matchId, home: lineups.home, away: lineups.away };
     }
+    return null;
+  } catch {
+    return null;
   }
-  
-  
-  const result = localData.findMatchById(matchId);
-  if (result && result.match.lineups) {
-    return {
-      matchId,
-      home: result.match.lineups.home,
-      away: result.match.lineups.away,
-    };
-  }
-  
-  return null;
 }
 
+// ============================================
+// LEAGUE STATS (computed from results)
+// ============================================
 
-
-
-
-
-
-export function getLeagueStats(leagueId: string): {
+export async function getLeagueStats(leagueId: string): Promise<{
   league: string;
   stats: {
     totalMatches: number;
@@ -449,22 +408,40 @@ export function getLeagueStats(leagueId: string): {
     awayWins: number;
     draws: number;
   };
-} | null {
-  const leagues = localData.listAvailableLeagues();
-  const match = leagues.find(l => 
-    l.filename === `${leagueId}.json` ||
-    l.filename.includes(leagueId)
-  );
-  
-  if (!match) return null;
-  
-  const data = localData.loadLeagueData(match.filename);
-  const stats = localData.getLeagueStats(match.filename);
-  
-  if (!data || !stats) return null;
-  
+} | null> {
+  await ensureRegistry();
+  const entry = leagueRegistry.get(leagueId);
+  if (!entry) return null;
+
+  const season = await resolveLeagueSeason(entry);
+  if (!season) return null;
+
+  const results = await sportdb.getAllResults(entry.countryParam, entry.leagueParam, season);
+  if (results.length === 0) return null;
+
+  let totalGoals = 0;
+  let homeWins = 0;
+  let awayWins = 0;
+  let draws = 0;
+
+  for (const match of results) {
+    const homeScore = parseInt(match.homeFullTimeScore) || 0;
+    const awayScore = parseInt(match.awayFullTimeScore) || 0;
+    totalGoals += homeScore + awayScore;
+    if (homeScore > awayScore) homeWins++;
+    else if (awayScore > homeScore) awayWins++;
+    else draws++;
+  }
+
   return {
-    league: data.league,
-    stats,
+    league: entry.name,
+    stats: {
+      totalMatches: results.length,
+      totalGoals,
+      avgGoalsPerMatch: Math.round((totalGoals / results.length) * 100) / 100,
+      homeWins,
+      awayWins,
+      draws,
+    },
   };
 }

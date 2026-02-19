@@ -58,7 +58,7 @@ app.get('/:sport/leagues', async (c) => {
   
   let leagues;
   if (country) {
-    leagues = footballData.getLeaguesByCountry(country);
+    leagues = await footballData.getLeaguesByCountry(country);
   } else {
     leagues = await footballData.getLeagues();
   }
@@ -116,10 +116,10 @@ app.get('/:sport/fixtures', async (c) => {
   
   let result;
   if (league) {
-    const fixtures = footballData.getFixturesByLeague(league, { round, team, dateFrom, dateTo });
+    const fixtures = await footballData.getFixturesByLeague(league, { round, team, dateFrom, dateTo });
     result = fixtures || { fixtures: [], message: 'Liga não encontrada' };
   } else {
-    const fixtures = footballData.getAllFixtures({ team, round, date });
+    const fixtures = await footballData.getAllFixtures({ team, round, date });
     result = {
       fixtures: fixtures.map(f => ({
         ...f.fixture,
@@ -176,7 +176,7 @@ app.get('/:sport/fixtures/:fixtureId', async (c) => {
   }
 
   
-  const fixture = footballData.getFixtureById(fixtureId);
+  const fixture = await footballData.getFixtureById(fixtureId);
 
   if (!fixture) {
     return c.json({
@@ -244,7 +244,7 @@ app.get('/:sport/standings', async (c) => {
   }
 
   
-  const standings = footballData.getStandings(league);
+  const standings = await footballData.getStandings(league);
 
   if (!standings) {
     return c.json({
@@ -306,7 +306,7 @@ app.get('/:sport/teams', async (c) => {
   }
 
   
-  let teams = footballData.getTeams(league);
+  let teams = await footballData.getTeams(league);
 
   
   if (search) {
@@ -365,7 +365,7 @@ app.get('/:sport/teams/:teamName/fixtures', async (c) => {
   }
 
   
-  const fixtures = footballData.getTeamFixtures(teamName);
+  const fixtures = await footballData.getTeamFixtures(teamName);
 
   const result = {
     team: teamName,
@@ -585,7 +585,7 @@ app.get('/:sport/leagues/:leagueId/stats', async (c) => {
   }
 
   
-  const stats = footballData.getLeagueStats(leagueId);
+  const stats = await footballData.getLeagueStats(leagueId);
 
   if (!stats) {
     return c.json({

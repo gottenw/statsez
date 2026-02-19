@@ -98,6 +98,24 @@ export interface MatchEvent {
   } | null;
 }
 
+export interface StandingsEntry {
+  rank: string;
+  teamId: string;
+  teamName: string;
+  teamSlug: string;
+  points: string;
+  matches: string;
+  wins: string;
+  winsRegular: string;
+  draws: string;
+  lossesRegular: string;
+  goals: string;
+  goalDiff: string;
+  rankClass?: string;
+  rankColor?: string;
+  teamUrl?: string;
+}
+
 export interface CollectedMatch {
   id: string;
   date: string;
