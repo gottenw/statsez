@@ -2,6 +2,7 @@ import type { Metadata } from "next";
 import { Inter_Tight, JetBrains_Mono } from "next/font/google";
 import { NextIntlClientProvider } from "next-intl";
 import { getMessages } from "next-intl/server";
+import { GoogleOAuthProvider } from "@react-oauth/google";
 import "./globals.css";
 
 const interTight = Inter_Tight({
@@ -31,13 +32,16 @@ export default async function RootLayout({
   children: React.ReactNode;
 }>) {
   const messages = await getMessages();
+  const googleClientId = process.env.NEXT_PUBLIC_GOOGLE_CLIENT_ID || "";
 
   return (
     <html lang="pt" className={`${interTight.variable} ${jetbrainsMono.variable}`}>
       <body className="bg-background text-foreground font-sans antialiased">
-        <NextIntlClientProvider messages={messages}>
-          {children}
-        </NextIntlClientProvider>
+        <GoogleOAuthProvider clientId={googleClientId}>
+          <NextIntlClientProvider messages={messages}>
+            {children}
+          </NextIntlClientProvider>
+        </GoogleOAuthProvider>
       </body>
     </html>
   );

@@ -2,15 +2,14 @@ import { Hono } from 'hono'
 import { zValidator } from '@hono/zod-validator'
 import { z } from 'zod'
 import { prisma } from '../lib/prisma.js'
-import type { Sport, PlanName } from '../types/index.js'
+import { OAuth2Client } from 'google-auth-library'
+import jwt from 'jsonwebtoken'
 
 const app = new Hono()
+const googleClient = new OAuth2Client(process.env.GOOGLE_CLIENT_ID)
 
-
-const registerSchema = z.object({
-  email: z.string().email(),
-  password: z.string().min(6),
-  name: z.string().optional()
+const googleAuthSchema = z.object({
+  idToken: z.string()
 })
 
 const loginSchema = z.object({
@@ -18,10 +17,58 @@ const loginSchema = z.object({
   password: z.string().min(6)
 })
 
-const createSubscriptionSchema = z.object({
-  sport: z.enum(['football', 'basketball', 'tennis', 'hockey']),
-  planName: z.enum(['Basic', 'Pro', 'Custom']),
-  monthlyQuota: z.number().min(100).max(1000000)
+app.post('/google', zValidator('json', googleAuthSchema), async (c) => {
+  const { idToken } = c.req.valid('json')
+
+  try {
+    const ticket = await googleClient.verifyIdToken({
+      idToken,
+      audience: process.env.GOOGLE_CLIENT_ID
+    })
+
+    const payload = ticket.getPayload()
+    if (!payload || !payload.email) {
+      return c.json({ success: false, error: 'Token inválido' }, 400)
+    }
+
+    let user = await prisma.user.findUnique({
+      where: { email: payload.email }
+    })
+
+    if (!user) {
+      user = await prisma.user.create({
+        data: {
+          email: payload.email,
+          name: payload.name,
+          googleId: payload.sub
+        }
+      })
+    } else if (!user.googleId) {
+      user = await prisma.user.update({
+        where: { id: user.id },
+        data: { googleId: payload.sub }
+      })
+    }
+
+    const token = jwt.sign(
+      { userId: user.id, email: user.email },
+      process.env.JWT_SECRET || 'secret',
+      { expiresIn: '7d' }
+    )
+
+    return c.json({
+      success: true,
+      data: {
+        id: user.id,
+        email: user.email,
+        name: user.name,
+        token
+      }
+    })
+  } catch (error: any) {
+    console.error('Erro no Google Auth:', error.message)
+    return c.json({ success: false, error: 'Falha na autenticação' }, 401)
+  }
 })
 
 app.post('/login', zValidator('json', loginSchema), async (c) => {
@@ -35,18 +82,22 @@ app.post('/login', zValidator('json', loginSchema), async (c) => {
     return c.json({ success: false, error: 'Credenciais inválidas' }, 401)
   }
 
+  const token = jwt.sign(
+    { userId: user.id, email: user.email },
+    process.env.JWT_SECRET || 'secret',
+    { expiresIn: '7d' }
+  )
+
   return c.json({
     success: true,
     data: {
       id: user.id,
       email: user.email,
       name: user.name,
-      token: 'fake-jwt-token-' + user.id // Simplificando por enquanto
+      token
     }
   })
 })
-
-app.post('/register', zValidator('json', registerSchema), async (c) => {
   const { email, password, name } = c.req.valid('json')
 
   try {

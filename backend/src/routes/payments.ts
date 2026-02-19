@@ -1,23 +1,39 @@
 import { Hono } from 'hono';
 import { processPayment, getPayment } from '../services/mercadopago.js';
 import { prisma } from '../lib/prisma.js';
+import jwt from 'jsonwebtoken';
 
 const app = new Hono();
 
 app.post('/process', async (c) => {
   try {
+    const authHeader = c.req.header('Authorization');
+    const token = authHeader?.replace('Bearer ', '');
+    let userId = 'anonymous';
+
+    if (token) {
+      try {
+        const decoded: any = jwt.verify(token, process.env.JWT_SECRET || 'secret');
+        userId = decoded.userId;
+      } catch (err) {
+        console.warn('Token de pagamento inválido, processando como anônimo');
+      }
+    }
+
     const body = await c.req.json();
-    console.log('Iniciando processamento de pagamento:', body.description);
+    console.log('Iniciando processamento de pagamento para usuário:', userId);
+    
     const result = await processPayment(body);
     
+    // Vincular o pagamento ao usuário real
     await prisma.payment.create({
       data: {
         amount: result.transaction_amount || 0,
         status: result.status || 'pending',
         provider: 'mercadopago',
         providerId: String(result.id),
-        subscriptionId: 'temp-sub-id',
-        userId: 'temp-user-id',
+        subscriptionId: body.planId || 'temp-sub-id',
+        userId: userId,
       }
     });
 
@@ -47,7 +63,6 @@ app.post('/webhook', async (c) => {
     if (topic === 'payment' && id) {
       const paymentData = await getPayment(id);
       
-      // Atualiza o pagamento no nosso banco
       const updatedPayment = await prisma.payment.updateMany({
         where: { providerId: String(id) },
         data: {
@@ -56,13 +71,12 @@ app.post('/webhook', async (c) => {
         }
       });
 
-      // Lógica de Ativação: Se o pagamento foi aprovado, ativamos a assinatura
       if (paymentData.status === 'approved') {
         const localPayment = await prisma.payment.findFirst({
           where: { providerId: String(id) }
         });
 
-        if (localPayment) {
+        if (localPayment && localPayment.subscriptionId !== 'temp-sub-id') {
           await prisma.subscription.update({
             where: { id: localPayment.subscriptionId },
             data: { isActive: true }
@@ -75,10 +89,8 @@ app.post('/webhook', async (c) => {
     return c.json({ received: true }, 200);
   } catch (error) {
     console.error('Erro no Webhook:', error);
-    // Respondemos 200 para o MP não ficar tentando reenviar em caso de erro de lógica
     return c.json({ received: true }, 200);
   }
 });
 
 export const paymentRoutes = app;
-
