@@ -1,103 +1,141 @@
 "use client";
 
 import { useState, useEffect } from "react";
-import { motion } from "framer-motion";
-import { Key, Copy, RefreshCw, ShieldCheck, Eye, EyeOff, AlertTriangle } from "lucide-react";
 
 export default function ApiKeysPage() {
   const [keys, setKeys] = useState<any[]>([]);
   const [loading, setLoading] = useState(true);
   const [showKey, setShowKey] = useState<string | null>(null);
+  const [isRotating, setIsTotalRotating] = useState(false);
 
-  useEffect(() => {
-    // Simulação de fetch - em produção usaria o x-user-id do auth
-    setTimeout(() => {
+  const fetchKeys = async () => {
+    try {
+      const res = await fetch("https://api.statsez.com/user/keys", {
+        headers: { "x-user-id": "temp-user-id" } // Em produção viria do auth
+      });
+      const data = await res.json();
+      if (data.success) {
+        setKeys(data.data);
+      }
+    } catch (err) {
+      // Fallback para demonstração se a API estiver fora
       setKeys([
         {
           id: "1",
+          subscriptionId: "temp-sub-id",
           key: "se_live_a1b2c3d4e5f6g7h8i9j0k1l2",
-          subscription: { sport: "football", planName: "Dev" },
-          createdAt: "2026-02-18T20:00:00Z",
-          isActive: true
+          subscription: { sport: "FOOTBALL", planName: "DEV" },
+          createdAt: new Date().toISOString(),
+          status: "AUTHORIZED_ACTIVE"
         }
       ]);
+    } finally {
       setLoading(false);
-    }, 800);
+    }
+  };
+
+  useEffect(() => {
+    fetchKeys();
   }, []);
+
+  const handleRotate = async (subscriptionId: string) => {
+    if (!subscriptionId) {
+      alert("ERROR: MISSING_SUBSCRIPTION_ID");
+      return;
+    }
+    if (!confirm("ARE_YOU_SURE? THIS_WILL_INVALIDATE_CURRENT_TOKEN")) return;
+    
+    setIsTotalRotating(true);
+    try {
+      const res = await fetch("https://api.statsez.com/user/keys/rotate", {
+        method: "POST",
+        headers: { 
+          "Content-Type": "application/json",
+          "x-user-id": "temp-user-id" 
+        },
+        body: JSON.stringify({ subscriptionId })
+      });
+      const data = await res.json();
+      if (data.success) {
+        await fetchKeys();
+        alert("SUCCESS: TOKEN_ROTATED");
+      } else {
+        alert(`ERROR: ${data.error}`);
+      }
+    } catch (err) {
+      alert("ERROR: NETWORK_OR_SERVER_FAILURE");
+    } finally {
+      setIsTotalRotating(false);
+    }
+  };
 
   const copyToClipboard = (text: string) => {
     navigator.clipboard.writeText(text);
-    // Aqui poderia ter um toast brutalista
+    alert("COPIED_TO_CLIPBOARD");
   };
 
   return (
-    <div className="p-8 md:p-12 max-w-6xl mx-auto space-y-12">
-      <header className="flex justify-between items-end border-b border-border pb-8">
+    <div className="p-8 md:p-12 max-w-6xl mx-auto space-y-16">
+      <header className="flex justify-between items-end border-b border-border pb-12">
         <div>
-          <span className="data-label">SECURITY_MANAGEMENT</span>
-          <h1 className="display-text text-4xl uppercase mt-2">API Keys</h1>
-          <p className="text-muted-foreground mt-4 max-w-xl">
-            Your secret API keys are listed below. Do not share these keys or expose them in client-side code.
+          <span className="text-sm font-mono font-bold tracking-[0.2em] text-foreground/50 uppercase">AUTHENTICATION_MANAGEMENT</span>
+          <h1 className="font-sans text-3xl font-medium uppercase mt-2 tracking-tight">Active_Access_Tokens</h1>
+          <p className="font-mono text-xs text-muted-foreground mt-6 max-w-2xl uppercase tracking-[0.15em] leading-relaxed">
+            These credentials grant access to production data. Do not expose these tokens in client-side code or public repositories.
           </p>
         </div>
       </header>
 
-      {/* API Key List */}
       <div className="space-y-6">
         {loading ? (
-          <div className="h-32 bg-foreground/[0.02] animate-pulse border border-border" />
+          <div className="h-48 bg-foreground/[0.02] border border-border animate-pulse" />
         ) : (
           keys.map((key) => (
-            <div key={key.id} className="border border-border bg-foreground/[0.01] overflow-hidden group">
-              <div className="p-8 grid grid-cols-12 gap-8 items-center">
+            <div key={key.id} className="border border-border bg-background shadow-sm">
+              <div className="p-10 grid grid-cols-12 gap-12 items-center">
                 
-                {/* Info */}
                 <div className="col-span-12 md:col-span-3">
-                  <div className="flex items-center gap-2 mb-2">
-                    <ShieldCheck size={14} className="text-blue-500" />
-                    <span className="font-mono text-[10px] font-bold uppercase tracking-widest text-foreground">
-                      {key.subscription.sport} License
-                    </span>
-                  </div>
-                  <h3 className="font-sans text-xl font-medium uppercase tracking-tight">
-                    {key.subscription.planName} Key
+                  <span className="font-mono text-[11px] font-bold uppercase tracking-[0.2em] text-blue-600 block mb-3">
+                    [ {key.status || "AUTHORIZED_ACTIVE"} ]
+                  </span>
+                  <h3 className="font-sans text-2xl font-medium uppercase tracking-tight">
+                    {key.subscription.sport}_{key.subscription.planName}
                   </h3>
-                  <p className="font-mono text-[10px] text-muted-foreground mt-1 uppercase">
-                    Created: {new Date(key.createdAt).toLocaleDateString()}
+                  <p className="font-mono text-xs text-muted-foreground mt-2 uppercase font-bold tracking-widest">
+                    ISSUE_DATE: {new Date(key.createdAt).toLocaleDateString()}
                   </p>
                 </div>
 
-                {/* Key Area */}
                 <div className="col-span-12 md:col-span-6">
-                  <div className="relative group/key">
-                    <div className="bg-background border border-border p-4 pr-24 font-mono text-sm overflow-hidden truncate select-all">
+                  <div className="flex flex-col gap-3">
+                    <label className="text-[10px] font-mono font-bold text-foreground/40 uppercase tracking-widest">ENCRYPTED_TOKEN_STRING</label>
+                    <div className="bg-foreground/[0.03] border border-border p-5 font-mono text-sm overflow-hidden truncate font-bold tracking-tight">
                       {showKey === key.id ? key.key : "••••••••••••••••••••••••••••••••"}
-                    </div>
-                    
-                    <div className="absolute right-2 top-1/2 -translate-y-1/2 flex gap-1">
-                      <button 
-                        onClick={() => setShowKey(showKey === key.id ? null : key.id)}
-                        className="p-2 text-muted-foreground hover:text-foreground transition-colors"
-                        title="Toggle Visibility"
-                      >
-                        {showKey === key.id ? <EyeOff size={16} /> : <Eye size={16} />}
-                      </button>
-                      <button 
-                        onClick={() => copyToClipboard(key.key)}
-                        className="p-2 text-muted-foreground hover:text-foreground transition-colors"
-                        title="Copy Key"
-                      >
-                        <Copy size={16} />
-                      </button>
                     </div>
                   </div>
                 </div>
 
-                {/* Actions */}
-                <div className="col-span-12 md:col-span-3 flex justify-end gap-4">
-                  <button className="flex items-center gap-2 font-mono text-[10px] font-bold uppercase tracking-widest border border-border px-6 py-3 hover:bg-red-500 hover:text-white transition-all duration-300">
-                    <RefreshCw size={14} />
-                    Rotate
+                <div className="col-span-12 md:col-span-3 flex flex-col gap-2">
+                  <div className="grid grid-cols-2 gap-2">
+                    <button 
+                      onClick={() => setShowKey(showKey === key.id ? null : key.id)}
+                      className="font-mono text-[10px] font-bold border border-border py-4 uppercase tracking-widest hover:bg-foreground hover:text-background transition-all"
+                    >
+                      {showKey === key.id ? "HIDE" : "SHOW"}
+                    </button>
+                    <button 
+                      onClick={() => copyToClipboard(key.key)}
+                      className="font-mono text-[10px] font-bold border border-border py-4 uppercase tracking-widest hover:bg-foreground hover:text-background transition-all"
+                    >
+                      COPY
+                    </button>
+                  </div>
+                  <button 
+                    onClick={() => handleRotate(key.subscriptionId)}
+                    disabled={isRotating}
+                    className="font-mono text-[10px] font-bold border border-red-500 text-red-600 py-4 uppercase tracking-[0.2em] hover:bg-red-500 hover:text-white transition-all disabled:opacity-50"
+                  >
+                    {isRotating ? "ROTATING..." : "ROTATE_CREDENTIALS"}
                   </button>
                 </div>
               </div>
@@ -106,17 +144,14 @@ export default function ApiKeysPage() {
         )}
       </div>
 
-      {/* Warning Box */}
-      <div className="p-8 border border-border bg-foreground/[0.03] flex gap-6 items-start">
-        <div className="p-2 bg-foreground text-background">
-          <AlertTriangle size={20} />
+      <div className="p-10 border border-border bg-foreground/[0.02]">
+        <div className="flex items-center gap-4 mb-6">
+          <div className="w-3 h-3 bg-red-500" />
+          <span className="text-xs font-mono font-bold text-foreground uppercase tracking-[0.3em]">SECURITY_PROTOCOL_v4</span>
         </div>
-        <div>
-          <span className="data-label text-foreground mb-2 block">BEST_PRACTICES</span>
-          <p className="text-sm text-muted-foreground leading-relaxed max-w-2xl">
-            When you rotate a key, the previous one will be deactivated immediately. Ensure your production environments are updated with the new token to avoid service interruption. For maximum security, use different keys for different environments.
-          </p>
-        </div>
+        <p className="font-mono text-xs text-muted-foreground leading-loose uppercase tracking-[0.1em] max-w-3xl">
+          Warning: Request rotation only if a token leak is suspected. The invalidation process is irreversible. All current production connections using the old token will experience 403_FORBIDDEN errors immediately upon rotation.
+        </p>
       </div>
     </div>
   );
