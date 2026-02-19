@@ -279,13 +279,14 @@ export function ApiDemo() {
             >
               <div className="min-w-[500px] p-6">
                 <div className="text-muted-foreground mb-4 font-mono text-sm">
-                <pre className="font-mono text-sm text-foreground">
-                  <code>{JSON.stringify(activeEndpoint.response, null, 2)}</code>
-                </pre>
+                  <pre className="font-mono text-sm text-foreground">
+                    <code>{JSON.stringify(activeEndpoint.response, null, 2)}</code>
+                  </pre>
+                </div>
               </div>
             </div>
 
-            {}
+            {/* Hint */}
             <div className="px-6 py-3 border-t border-border flex items-center gap-2 text-muted-foreground bg-background">
               <div className="w-4 h-px bg-border" />
               <span className="font-mono text-xs uppercase tracking-widest">{t("scrollHint")}</span>
