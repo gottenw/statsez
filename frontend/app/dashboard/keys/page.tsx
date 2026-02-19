@@ -62,8 +62,9 @@ export default function ApiKeysPage() {
       } else {
         alert(`ERROR: ${data.error}`);
       }
-    } catch (err) {
-      alert("ERROR: NETWORK_OR_SERVER_FAILURE");
+    } catch (err: any) {
+      console.error("DETALHES DO ERRO DE REDE:", err);
+      alert(`ERROR: NETWORK_OR_SERVER_FAILURE - Check console for details.`);
     } finally {
       setIsTotalRotating(false);
     }
