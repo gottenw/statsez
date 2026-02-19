@@ -106,7 +106,6 @@
     "description": "Dados históricos de futebol. Resultados, estatísticas e classificações de 500+ ligas mundiais.",
     "product": "PRODUTO",
     "resources": "RECURSOS",
-    "contact": "CONTATO",
     "copyright": "© 2026 Statsez",
     "version": "v2.4.0",
     "status": "Todos os sistemas operacionais",
@@ -163,6 +162,23 @@
       "apiKeys": "1 API Key",
       "allLeagues": "Acesso a 500+ ligas"
     }
+  },
+  "dashboard": {
+    "menu": {
+      "overview": "01 VISÃO GERAL",
+      "keys": "02 CHAVES API",
+      "explorer": "03 EXPLORADOR",
+      "billing": "04 FATURAMENTO",
+      "settings": "05 CONFIGURAÇÕES",
+      "admin": "06 ADMIN"
+    },
+    "nodeStatus": "STATUS_NODO",
+    "connection": "Conexão_Segura_Ativa",
+    "status": "Status",
+    "active": "Ativo",
+    "inactive": "Inativo",
+    "logout": "ENCERRAR_SESSÃO",
+    "language": "IDIOMA"
   },
   "languageSelector": {
     "pt": "Português",

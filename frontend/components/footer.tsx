@@ -10,9 +10,7 @@ export function Footer() {
   return (
     <footer className="w-full bg-background border-t border-border">
       <div className="section-padding">
-        {}
         <div className="grid grid-cols-12 gap-8 py-24">
-          {}
           <div className="col-span-12 md:col-span-6">
             <h2 className="headline-text text-foreground mb-6">
               <ScrambleText text="STATSEZ" />
@@ -22,24 +20,37 @@ export function Footer() {
             </p>
           </div>
 
-          {}
-          <div className="col-span-6 md:col-span-2">
+          <div className="col-span-6 md:col-span-3">
             <span className="data-label mb-6 block">{t("product")}</span>
             <ul className="space-y-3">
-              {["Documentation", "API Reference", "Pricing", "Status"].map((item) => (
-                <li key={item}>
-                  <a
-                    href="#"
-                    className="text-foreground hover:text-muted-foreground transition-colors duration-300 text-sm"
-                  >
-                    {item}
-                  </a>
-                </li>
-              ))}
+              <li>
+                <a
+                  href="/docs"
+                  className="text-foreground hover:text-muted-foreground transition-colors duration-300 text-sm"
+                >
+                  Documentation
+                </a>
+              </li>
+              <li>
+                <a
+                  href="#pricing"
+                  className="text-foreground hover:text-muted-foreground transition-colors duration-300 text-sm"
+                >
+                  Pricing
+                </a>
+              </li>
+              <li>
+                <a
+                  href="/dashboard"
+                  className="text-foreground hover:text-muted-foreground transition-colors duration-300 text-sm"
+                >
+                  Dashboard
+                </a>
+              </li>
             </ul>
           </div>
 
-          <div className="col-span-6 md:col-span-2">
+          <div className="col-span-6 md:col-span-3">
             <span className="data-label mb-6 block">{t("resources")}</span>
             <ul className="space-y-3">
               <li>
@@ -55,49 +66,24 @@ export function Footer() {
               </li>
               <li>
                 <a
-                  href="#"
+                  href="/docs"
                   className="text-foreground hover:text-muted-foreground transition-colors duration-300 text-sm"
                 >
-                  GitHub
+                  API Reference
                 </a>
               </li>
               <li>
                 <a
-                  href="#"
+                  href="#capabilities"
                   className="text-foreground hover:text-muted-foreground transition-colors duration-300 text-sm"
                 >
-                  Examples
+                  Capabilities
                 </a>
               </li>
-              <li>
-                <a
-                  href="#"
-                  className="text-foreground hover:text-muted-foreground transition-colors duration-300 text-sm"
-                >
-                  Support
-                </a>
-              </li>
-            </ul>
-          </div>
-
-          <div className="col-span-12 md:col-span-2">
-            <span className="data-label mb-6 block">{t("contact")}</span>
-            <ul className="space-y-3">
-              {["Twitter/X", "LinkedIn", "Email"].map((item) => (
-                <li key={item}>
-                  <a
-                    href="#"
-                    className="text-foreground hover:text-muted-foreground transition-colors duration-300 text-sm"
-                  >
-                    {item}
-                  </a>
-                </li>
-              ))}
             </ul>
           </div>
         </div>
 
-        {}
         <div className="flex flex-col md:flex-row justify-between items-start md:items-center py-8 border-t border-border gap-4">
           <div className="flex items-center gap-8">
             <span className="font-mono text-xs text-muted-foreground">
@@ -107,7 +93,7 @@ export function Footer() {
               {t("version")}
             </span>
           </div>
-          
+
           <div className="flex items-center gap-8">
             <span className="font-mono text-xs text-muted-foreground">
               {t("language")}:

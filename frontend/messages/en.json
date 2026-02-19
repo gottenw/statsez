@@ -106,7 +106,6 @@
     "description": "Historical football data. Results, statistics and standings from 500+ leagues worldwide.",
     "product": "PRODUCT",
     "resources": "RESOURCES",
-    "contact": "CONTACT",
     "copyright": "© 2026 Statsez",
     "version": "v2.4.0",
     "status": "All systems operational",
@@ -183,6 +182,23 @@
       "apiKeys": "1 API Key",
       "allLeagues": "Access to 500+ leagues"
     }
+  },
+  "dashboard": {
+    "menu": {
+      "overview": "01 OVERVIEW",
+      "keys": "02 API KEYS",
+      "explorer": "03 EXPLORER",
+      "billing": "04 BILLING",
+      "settings": "05 SETTINGS",
+      "admin": "06 ADMIN"
+    },
+    "nodeStatus": "NODE_STATUS",
+    "connection": "Secure_Connection_Live",
+    "status": "Status",
+    "active": "Active",
+    "inactive": "Inactive",
+    "logout": "TERMINATE_SESSION",
+    "language": "LANG"
   },
   "languageSelector": {
     "pt": "Português",
