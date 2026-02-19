@@ -104,7 +104,7 @@ export default function AdminPaymentsPage() {
                 <div className="col-span-2 font-mono text-sm px-2">{new Date(p.createdAt).toLocaleDateString("pt-BR")}</div>
                 <div className="col-span-3 font-mono text-sm truncate px-2">{p.userEmail || "—"}</div>
                 <div className="col-span-1 font-mono text-[10px] uppercase text-muted-foreground px-2">{p.plan || "—"}</div>
-                <div className="col-span-2 font-mono text-sm font-medium px-2">R$ {p.amount.toFixed(2)}</div>
+                <div className="col-span-2 font-mono text-sm font-medium px-2">R$ {Number(p.amount).toFixed(2)}</div>
                 <div className="col-span-1 px-2">
                   <span className={`font-mono text-[10px] uppercase px-2 py-0.5 border ${
                     p.status === "paid" ? "border-green-500/30 text-green-400" :

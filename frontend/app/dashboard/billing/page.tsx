@@ -314,7 +314,7 @@ export default function BillingPage() {
                       {formatDate(payment.paidAt || payment.id)}
                     </td>
                     <td className="p-6 font-mono text-base font-bold">
-                      R$ {payment.amount.toFixed(2).replace(".", ",")}
+                      R$ {Number(payment.amount).toFixed(2).replace(".", ",")}
                     </td>
                     <td className="p-6 text-right">
                       <span className={`font-mono text-xs font-bold border px-3 py-1 uppercase tracking-widest ${
