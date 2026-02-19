@@ -8,6 +8,10 @@ import jwt from 'jsonwebtoken'
 const app = new Hono()
 const googleClient = new OAuth2Client(process.env.GOOGLE_CLIENT_ID)
 
+// ============================================
+// SCHEMAS DE VALIDAÇÃO
+// ============================================
+
 const googleAuthSchema = z.object({
   idToken: z.string()
 })
@@ -17,6 +21,23 @@ const loginSchema = z.object({
   password: z.string().min(6)
 })
 
+const registerSchema = z.object({
+  email: z.string().email(),
+  password: z.string().min(6),
+  name: z.string().optional()
+})
+
+const createSubscriptionSchema = z.object({
+  sport: z.enum(['football', 'basketball', 'tennis', 'hockey']),
+  planName: z.string(),
+  monthlyQuota: z.number().min(100)
+})
+
+// ============================================
+// ROTAS DE AUTENTICAÇÃO
+// ============================================
+
+// Login via Google
 app.post('/google', zValidator('json', googleAuthSchema), async (c) => {
   const { idToken } = c.req.valid('json')
 
@@ -71,6 +92,7 @@ app.post('/google', zValidator('json', googleAuthSchema), async (c) => {
   }
 })
 
+// Login via Email/Senha
 app.post('/login', zValidator('json', loginSchema), async (c) => {
   const { email, password } = c.req.valid('json')
 
@@ -98,10 +120,12 @@ app.post('/login', zValidator('json', loginSchema), async (c) => {
     }
   })
 })
+
+// Registro manual
+app.post('/register', zValidator('json', registerSchema), async (c) => {
   const { email, password, name } = c.req.valid('json')
 
   try {
-    
     const user = await prisma.user.create({
       data: {
         email,
@@ -110,126 +134,67 @@ app.post('/login', zValidator('json', loginSchema), async (c) => {
       }
     })
 
+    const token = jwt.sign(
+      { userId: user.id, email: user.email },
+      process.env.JWT_SECRET || 'secret',
+      { expiresIn: '7d' }
+    )
+
     return c.json({
       success: true,
-      message: 'Usuário criado com sucesso',
       data: {
         id: user.id,
         email: user.email,
-        name: user.name
+        name: user.name,
+        token
       }
     }, 201)
   } catch (err: any) {
     if (err.code === 'P2002') {
-      return c.json({
-        success: false,
-        error: 'Email já cadastrado'
-      }, 409)
+      return c.json({ success: false, error: 'Email já cadastrado' }, 409)
     }
-    throw err
+    return c.json({ success: false, error: err.message }, 500)
   }
 })
 
-
+// Criar assinatura manual
 app.post('/subscription', zValidator('json', createSubscriptionSchema), async (c) => {
   const { sport, planName, monthlyQuota } = c.req.valid('json')
   const userId = c.req.header('x-user-id') 
 
   if (!userId) {
-    return c.json({
-      success: false,
-      error: 'Usuário não autenticado'
-    }, 401)
+    return c.json({ success: false, error: 'Usuário não autenticado' }, 401)
   }
 
-  const biWeeklyQuota = Math.floor(monthlyQuota / 2)
+  try {
+    const biWeeklyQuota = Math.floor(monthlyQuota / 2)
+    const subscription = await prisma.subscription.create({
+      data: {
+        userId,
+        sport,
+        planName,
+        monthlyQuota,
+        biWeeklyQuota,
+        cycleStartDate: new Date()
+      }
+    })
 
-  
-  const subscription = await prisma.subscription.create({
-    data: {
-      userId,
-      sport,
-      planName,
-      monthlyQuota,
-      biWeeklyQuota,
-      cycleStartDate: new Date()
-    }
-  })
+    const apiKey = `se_live_${Buffer.from(subscription.id + Date.now()).toString('base64url').slice(0, 24)}`
+    
+    await prisma.apiKey.create({
+      data: {
+        key: apiKey,
+        subscriptionId: subscription.id
+      }
+    })
 
-  
-  const apiKey = `br_${sport}_${Buffer.from(subscription.id).toString('base64url').slice(0, 20)}`
-  
-  await prisma.apiKey.create({
-    data: {
-      key: apiKey,
-      subscriptionId: subscription.id
-    }
-  })
-
-  return c.json({
-    success: true,
-    message: 'Assinatura criada com sucesso',
-    data: {
-      subscription: {
-        id: subscription.id,
-        sport: subscription.sport,
-        planName: subscription.planName,
-        monthlyQuota: subscription.monthlyQuota,
-        biWeeklyQuota: subscription.biWeeklyQuota
-      },
-      apiKey
-    }
-  }, 201)
-})
-
-
-app.post('/rotate-key', async (c) => {
-  const apiKey = c.req.header('x-api-key')
-
-  if (!apiKey) {
     return c.json({
-      success: false,
-      error: 'API Key não fornecida'
-    }, 401)
+      success: true,
+      data: { subscription, apiKey }
+    }, 201)
+  } catch (err: any) {
+    return c.json({ success: false, error: err.message }, 500)
   }
-
-  const existingKey = await prisma.apiKey.findUnique({
-    where: { key: apiKey },
-    include: { subscription: true }
-  })
-
-  if (!existingKey) {
-    return c.json({
-      success: false,
-      error: 'API Key inválida'
-    }, 401)
-  }
-
-  
-  await prisma.apiKey.update({
-    where: { id: existingKey.id },
-    data: { isActive: false }
-  })
-
-  
-  const newKey = `br_${existingKey.subscription.sport}_${Buffer.from(existingKey.subscriptionId + Date.now().toString()).toString('base64url').slice(0, 20)}`
-  
-  const newApiKey = await prisma.apiKey.create({
-    data: {
-      key: newKey,
-      subscriptionId: existingKey.subscriptionId
-    }
-  })
-
-  return c.json({
-    success: true,
-    message: 'API Key rotacionada com sucesso',
-    data: {
-      oldKey: apiKey,
-      newKey: newApiKey.key,
-      invalidatedAt: new Date().toISOString()
-    }
-  })
 })
 
 export const authRoutes = app
