@@ -101,4 +101,73 @@ app.get('/payments', async (c) => {
   return c.json({ success: true, data: payments });
 });
 
+// Gerar nova chave (cria plano free se não existir)
+app.post('/keys/generate', async (c) => {
+  try {
+    const userId = c.get('userId');
+
+    // Verifica se já existe assinatura ativa
+    const existingSub = await prisma.subscription.findFirst({
+      where: { userId, isActive: true },
+      include: { apiKey: true }
+    });
+
+    if (existingSub) {
+      // Se já tem assinatura mas não tem api key, cria uma
+      if (!existingSub.apiKey) {
+        const apiKey = `se_live_${Buffer.from(existingSub.id + Date.now()).toString('base64url').slice(0, 32)}`;
+        const newKey = await prisma.apiKey.create({
+          data: {
+            key: apiKey,
+            subscriptionId: existingSub.id,
+            isActive: true
+          }
+        });
+        return c.json({ success: true, data: { key: newKey.key, subscriptionId: existingSub.id } });
+      }
+      // Já tem tudo
+      return c.json({ success: true, data: { key: existingSub.apiKey.key, subscriptionId: existingSub.id } });
+    }
+
+    // Cria nova subscription free
+    const now = new Date();
+    const expiresAt = new Date(now);
+    expiresAt.setDate(expiresAt.getDate() + 30);
+    const cycleEndDate = new Date(now);
+    cycleEndDate.setDate(cycleEndDate.getDate() + 15);
+
+    const subscription = await prisma.subscription.create({
+      data: {
+        userId,
+        sport: 'football',
+        planName: 'free',
+        monthlyQuota: 500,
+        biWeeklyQuota: 500,
+        startsAt: now,
+        expiresAt,
+        cycleStartDate: now,
+        cycleEndDate,
+        isActive: true,
+      }
+    });
+
+    // Gera API key
+    const apiKey = `se_live_${Buffer.from(subscription.id + Date.now()).toString('base64url').slice(0, 32)}`;
+    
+    const newKey = await prisma.apiKey.create({
+      data: {
+        key: apiKey,
+        subscriptionId: subscription.id,
+        isActive: true
+      }
+    });
+
+    console.log(`[Generate] Chave gerada para usuário ${userId}: ${newKey.key}`);
+    return c.json({ success: true, data: { key: newKey.key, subscriptionId: subscription.id } });
+  } catch (error: any) {
+    console.error('[Generate] Error:', error.message);
+    return c.json({ success: false, error: error.message }, 500);
+  }
+});
+
 export const userRoutes = app;

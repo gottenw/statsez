@@ -26,6 +26,7 @@ export default function ApiKeysPage() {
   const [showKey, setShowKey] = useState<string | null>(null);
   const [rotating, setRotating] = useState<string | null>(null);
   const [copied, setCopied] = useState<string | null>(null);
+  const [generating, setGenerating] = useState(false);
 
   const fetchKeys = async () => {
     try {
@@ -48,6 +49,34 @@ export default function ApiKeysPage() {
   useEffect(() => {
     fetchKeys();
   }, []);
+
+  const handleGenerateKey = async () => {
+    setGenerating(true);
+    try {
+      const apiUrl = process.env.NEXT_PUBLIC_API_URL || "https://api.statsez.com";
+      const token = localStorage.getItem("statsez_token");
+      
+      const res = await fetch(`${apiUrl}/user/keys/generate`, {
+        method: "POST",
+        headers: {
+          "Content-Type": "application/json",
+          "Authorization": `Bearer ${token}`
+        }
+      });
+      
+      const data = await res.json();
+      
+      if (data.success) {
+        await fetchKeys();
+      } else {
+        alert(`Erro: ${data.error}`);
+      }
+    } catch (err: any) {
+      alert(`Erro ao gerar chave: ${err.message}`);
+    } finally {
+      setGenerating(false);
+    }
+  };
 
   const handleRotate = async (subscriptionId: string) => {
     if (!confirm("Tem certeza? A chave atual será invalidada imediatamente.")) return;
@@ -113,7 +142,7 @@ export default function ApiKeysPage() {
     );
   }
 
-  // Se não houver chaves, mostra mensagem
+  // Se não houver chaves, mostra opção para criar
   if (keys.length === 0) {
     return (
       <div className="p-8 md:p-12 max-w-6xl mx-auto space-y-12">
@@ -130,15 +159,16 @@ export default function ApiKeysPage() {
         </header>
 
         <div className="border border-border p-12 text-center">
-          <p className="text-xl uppercase tracking-tight">Nenhuma Chave Encontrada</p>
-          <p className="text-base text-muted-foreground mt-4">
-            Não foi possível encontrar chaves de API ativas para sua conta.
+          <p className="text-xl uppercase tracking-tight mb-4">Nenhuma Chave Encontrada</p>
+          <p className="text-base text-muted-foreground mb-8">
+            Você ainda não possui uma chave de API. Gere uma agora para começar a usar a API.
           </p>
           <button
-            onClick={fetchKeys}
-            className="mt-8 text-base uppercase border border-border px-6 py-3 hover:bg-foreground hover:text-background transition-all"
+            onClick={handleGenerateKey}
+            disabled={generating}
+            className="text-base uppercase border border-foreground bg-foreground text-background px-8 py-4 hover:bg-background hover:text-foreground transition-all disabled:opacity-50"
           >
-            Recarregar
+            {generating ? "Gerando..." : "Gerar Minha Chave API"}
           </button>
         </div>
       </div>
