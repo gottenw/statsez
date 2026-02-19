@@ -1,6 +1,5 @@
 "use client";
 
-import { useEffect } from "react";
 import { initMercadoPago, Payment } from "@mercadopago/sdk-react";
 
 initMercadoPago(process.env.NEXT_PUBLIC_MERCADOPAGO_PUBLIC_KEY || "");
@@ -15,10 +14,9 @@ interface CheckoutBrickProps {
 export function CheckoutBrick({ amount, description, onSuccess, onError }: CheckoutBrickProps) {
   const initialization = {
     amount: amount,
-    preferenceId: "", 
   };
 
-  const customization = {
+  const customization: any = {
     paymentMethods: {
       ticket: "all",
       bankTransfer: "all",
@@ -28,7 +26,7 @@ export function CheckoutBrick({ amount, description, onSuccess, onError }: Check
     },
   };
 
-  const onSubmit = async ({ selectedPaymentMethod, formData }: any) => {
+  const onSubmit = async ({ formData }: any) => {
     return new Promise((resolve, reject) => {
       fetch(`${process.env.NEXT_PUBLIC_API_URL}/payments/process`, {
         method: "POST",
@@ -58,7 +56,7 @@ export function CheckoutBrick({ amount, description, onSuccess, onError }: Check
   };
 
   return (
-    <div className="w-full max-w-[600px] mx-auto bg-background p-6 border border-border">
+    <div className="w-full max-w-[600px] mx-auto bg-white p-2">
       <Payment
         initialization={initialization}
         customization={customization}
