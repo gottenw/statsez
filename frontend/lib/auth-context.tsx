@@ -13,6 +13,7 @@ interface AuthContextType {
   user: User | null;
   isLoggedIn: boolean;
   isAdmin: boolean;
+  isReady: boolean;
   login: (user: User, token: string) => void;
   logout: () => void;
 }
@@ -21,6 +22,7 @@ const AuthContext = createContext<AuthContextType>({
   user: null,
   isLoggedIn: false,
   isAdmin: false,
+  isReady: false,
   login: () => {},
   logout: () => {},
 });
@@ -103,6 +105,7 @@ export function AuthProvider({ children }: { children: ReactNode }) {
       user: authState.user,
       isLoggedIn: authState.isLoggedIn,
       isAdmin: authState.user?.role === 'ADMIN',
+      isReady: authState.isReady,
       login,
       logout
     }}>
