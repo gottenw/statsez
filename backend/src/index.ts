@@ -16,22 +16,40 @@ import { userRoutes } from './routes/user.js'
 
 const app = new Hono()
 
+// Lista explícita de origens permitidas
+const ALLOWED_ORIGINS = [
+  'https://statsez.com',
+  'https://www.statsez.com',
+  ...(process.env.NODE_ENV === 'development' ? ['http://localhost:3000', 'http://localhost:3001'] : []),
+  ...(process.env.FRONTEND_URL ? [process.env.FRONTEND_URL] : []),
+];
+
 app.use('*', cors({
   origin: (origin) => {
     if (!origin) return 'https://statsez.com';
-    if (origin.includes('statsez.com') || origin.includes('localhost') || origin.includes('vercel.app')) {
+    if (ALLOWED_ORIGINS.includes(origin)) {
       return origin;
     }
     return 'https://statsez.com';
   },
   allowMethods: ['GET', 'POST', 'PUT', 'DELETE', 'OPTIONS'],
-  allowHeaders: ['Content-Type', 'Authorization', 'x-api-key', 'x-user-id', 'Accept'],
+  allowHeaders: ['Content-Type', 'Authorization', 'x-api-key', 'Accept'],
   credentials: true,
   maxAge: 600,
 }))
 
 app.options('*', (c) => {
   return c.text('', 204 as any)
+})
+
+// Security headers
+app.use('*', async (c, next) => {
+  await next()
+  c.header('X-Content-Type-Options', 'nosniff')
+  c.header('X-Frame-Options', 'DENY')
+  c.header('X-XSS-Protection', '1; mode=block')
+  c.header('Referrer-Policy', 'strict-origin-when-cross-origin')
+  c.header('Strict-Transport-Security', 'max-age=31536000; includeSubDomains')
 })
 
 app.use('*', logger())
@@ -63,11 +81,10 @@ app.get('/', (c) => {
 })
 
 app.onError((err, c) => {
-  console.error('Erro:', err)
+  console.error('Erro interno do servidor')
   return c.json({
     success: false,
-    error: 'Erro interno do servidor',
-    message: process.env.NODE_ENV === 'development' ? err.message : undefined
+    error: 'Erro interno do servidor'
   }, 500)
 })
 

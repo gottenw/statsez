@@ -4,9 +4,16 @@ import { z } from 'zod'
 import { prisma } from '../lib/prisma.js'
 import { OAuth2Client } from 'google-auth-library'
 import jwt from 'jsonwebtoken'
+import bcrypt from 'bcrypt'
+import crypto from 'crypto'
 
 const app = new Hono()
 const googleClient = new OAuth2Client(process.env.GOOGLE_CLIENT_ID)
+
+const JWT_SECRET = process.env.JWT_SECRET
+if (!JWT_SECRET) {
+  throw new Error('JWT_SECRET environment variable is required')
+}
 
 // ============================================
 // SCHEMAS DE VALIDAÇÃO
@@ -18,12 +25,15 @@ const googleAuthSchema = z.object({
 
 const loginSchema = z.object({
   email: z.string().email(),
-  password: z.string().min(6)
+  password: z.string().min(8)
 })
 
 const registerSchema = z.object({
   email: z.string().email(),
-  password: z.string().min(6),
+  password: z.string()
+    .min(8, 'Senha deve ter no mínimo 8 caracteres')
+    .regex(/[A-Z]/, 'Senha deve conter pelo menos uma letra maiúscula')
+    .regex(/[0-9]/, 'Senha deve conter pelo menos um número'),
   name: z.string().optional()
 })
 
@@ -55,9 +65,8 @@ async function createFreeSubscription(userId: string) {
     }
   })
 
-  // Gera API key
-  const apiKey = `se_live_${Buffer.from(subscription.id + Date.now()).toString('base64url').slice(0, 32)}`
-  
+  const apiKey = `se_live_${crypto.randomBytes(32).toString('base64url')}`
+
   await prisma.apiKey.create({
     data: {
       key: apiKey,
@@ -119,7 +128,6 @@ app.post('/google', zValidator('json', googleAuthSchema), async (c) => {
     })
 
     if (!existingSubscription) {
-      console.log(`[Auth] Criando plano free para novo usuário: ${user.email}`)
       const freeSub = await createFreeSubscription(user.id)
       subscription = freeSub.subscription
       apiKey = freeSub.apiKey
@@ -130,8 +138,8 @@ app.post('/google', zValidator('json', googleAuthSchema), async (c) => {
 
     const token = jwt.sign(
       { userId: user.id, email: user.email },
-      process.env.JWT_SECRET || 'secret',
-      { expiresIn: '7d' }
+      JWT_SECRET,
+      { expiresIn: '24h' }
     )
 
     return c.json({
@@ -161,7 +169,12 @@ app.post('/login', zValidator('json', loginSchema), async (c) => {
     where: { email }
   })
 
-  if (!user || user.passwordHash !== password) {
+  if (!user || !user.passwordHash) {
+    return c.json({ success: false, error: 'Credenciais inválidas' }, 401)
+  }
+
+  const isValidPassword = await bcrypt.compare(password, user.passwordHash)
+  if (!isValidPassword) {
     return c.json({ success: false, error: 'Credenciais inválidas' }, 401)
   }
 
@@ -187,18 +200,20 @@ app.post('/register', zValidator('json', registerSchema), async (c) => {
   const { email, password, name } = c.req.valid('json')
 
   try {
+    const passwordHash = await bcrypt.hash(password, 12)
+
     const user = await prisma.user.create({
       data: {
         email,
-        passwordHash: password, 
+        passwordHash,
         name
       }
     })
 
     const token = jwt.sign(
       { userId: user.id, email: user.email },
-      process.env.JWT_SECRET || 'secret',
-      { expiresIn: '7d' }
+      JWT_SECRET,
+      { expiresIn: '24h' }
     )
 
     return c.json({
@@ -214,7 +229,7 @@ app.post('/register', zValidator('json', registerSchema), async (c) => {
     if (err.code === 'P2002') {
       return c.json({ success: false, error: 'Email já cadastrado' }, 409)
     }
-    return c.json({ success: false, error: err.message }, 500)
+    return c.json({ success: false, error: 'Erro interno' }, 500)
   }
 })
 

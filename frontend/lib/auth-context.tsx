@@ -41,12 +41,6 @@ export function AuthProvider({ children }: { children: ReactNode }) {
       const storedUser = localStorage.getItem("statsez_user");
       const storedToken = localStorage.getItem("statsez_token");
       
-      console.log("[Auth] Verificando localStorage...", { 
-        hasUser: !!storedUser, 
-        hasToken: !!storedToken,
-        userPreview: storedUser ? JSON.parse(storedUser).email : null
-      });
-      
       if (storedUser && storedToken) {
         const parsedUser = JSON.parse(storedUser);
         setAuthState({
@@ -54,13 +48,10 @@ export function AuthProvider({ children }: { children: ReactNode }) {
           isLoggedIn: true,
           isReady: true,
         });
-        console.log("[Auth] Sessão restaurada:", parsedUser.email);
       } else {
         setAuthState({ user: null, isLoggedIn: false, isReady: true });
-        console.log("[Auth] Nenhuma sessão encontrada");
       }
     } catch (e) {
-      console.error("[Auth] Erro ao ler localStorage:", e);
       setAuthState({ user: null, isLoggedIn: false, isReady: true });
     }
   };
@@ -71,7 +62,6 @@ export function AuthProvider({ children }: { children: ReactNode }) {
     // Listener para mudanças no localStorage (outras abas)
     const handleStorageChange = (e: StorageEvent) => {
       if (e.key === "statsez_user" || e.key === "statsez_token") {
-        console.log("[Auth] Storage change detectado, recarregando...");
         loadUserFromStorage();
       }
     };
@@ -81,7 +71,6 @@ export function AuthProvider({ children }: { children: ReactNode }) {
   }, []);
 
   const login = (userData: User, token: string) => {
-    console.log("[Auth] Login:", userData.email);
     if (typeof window !== "undefined") {
       localStorage.setItem("statsez_user", JSON.stringify(userData));
       localStorage.setItem("statsez_token", token);
@@ -94,7 +83,6 @@ export function AuthProvider({ children }: { children: ReactNode }) {
   };
 
   const logout = () => {
-    console.log("[Auth] Logout");
     if (typeof window !== "undefined") {
       localStorage.removeItem("statsez_user");
       localStorage.removeItem("statsez_token");

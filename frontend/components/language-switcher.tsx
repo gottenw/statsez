@@ -9,7 +9,7 @@ export function LanguageSwitcher() {
   const t = useTranslations("languageSelector");
 
   const switchLocale = useCallback((newLocale: Locale) => {
-    document.cookie = `locale=${newLocale};path=/;max-age=31536000`;
+    document.cookie = `locale=${newLocale};path=/;max-age=31536000;Secure;SameSite=Strict`;
     window.location.reload();
   }, []);
 

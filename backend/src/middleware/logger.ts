@@ -22,7 +22,7 @@ export const requestLogger: MiddlewareHandler = async (c, next) => {
   
   prisma.requestLog.create({
     data: {
-      apiKeyId: auth.apiKey,
+      apiKeyId: auth.subscriptionId,
       subscriptionId: auth.subscriptionId,
       sport,
       endpoint,
@@ -30,8 +30,7 @@ export const requestLogger: MiddlewareHandler = async (c, next) => {
       cached,
       responseTimeMs: responseTime
     }
-  }).catch((err: Error) => {
-    
-    console.error('Erro ao salvar log:', err)
+  }).catch(() => {
+    // Erro silencioso no logging
   })
 }

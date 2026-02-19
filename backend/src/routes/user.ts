@@ -1,13 +1,19 @@
 import { Hono } from 'hono';
 import { prisma } from '../lib/prisma.js';
 import jwt from 'jsonwebtoken';
+import crypto from 'crypto';
 
 const app = new Hono();
+
+const JWT_SECRET = process.env.JWT_SECRET
+if (!JWT_SECRET) {
+  throw new Error('JWT_SECRET environment variable is required')
+}
 
 // Middleware para verificar JWT
 const authMiddleware = async (c: any, next: any) => {
   const authHeader = c.req.header('authorization');
-  
+
   if (!authHeader || !authHeader.startsWith('Bearer ')) {
     return c.json({ success: false, error: 'Unauthorized' }, 401);
   }
@@ -15,7 +21,7 @@ const authMiddleware = async (c: any, next: any) => {
   const token = authHeader.split(' ')[1];
 
   try {
-    const decoded = jwt.verify(token, process.env.JWT_SECRET || 'secret') as any;
+    const decoded = jwt.verify(token, JWT_SECRET) as any;
     c.set('userId', decoded.userId);
     await next();
   } catch (err) {
@@ -74,7 +80,7 @@ app.post('/keys/rotate', async (c) => {
     }
 
     // Gera nova key
-    const newKey = `se_live_${Buffer.from(sub.id + Date.now()).toString('base64url').slice(0, 32)}`;
+    const newKey = `se_live_${crypto.randomBytes(32).toString('base64url')}`;
 
     const updatedKey = await prisma.apiKey.upsert({
       where: { subscriptionId: sub.id },
@@ -84,8 +90,8 @@ app.post('/keys/rotate', async (c) => {
 
     return c.json({ success: true, data: { key: updatedKey.key } });
   } catch (error: any) {
-    console.error('[Rotate] Error:', error.message);
-    return c.json({ success: false, error: error.message }, 500);
+    console.error('[Rotate] Erro na rotação de chave');
+    return c.json({ success: false, error: 'Erro ao rotacionar chave' }, 500);
   }
 });
 
@@ -115,7 +121,7 @@ app.post('/keys/generate', async (c) => {
     if (existingSub) {
       // Se já tem assinatura mas não tem api key, cria uma
       if (!existingSub.apiKey) {
-        const apiKey = `se_live_${Buffer.from(existingSub.id + Date.now()).toString('base64url').slice(0, 32)}`;
+        const apiKey = `se_live_${crypto.randomBytes(32).toString('base64url')}`;
         const newKey = await prisma.apiKey.create({
           data: {
             key: apiKey,
@@ -151,8 +157,7 @@ app.post('/keys/generate', async (c) => {
       }
     });
 
-    // Gera API key
-    const apiKey = `se_live_${Buffer.from(subscription.id + Date.now()).toString('base64url').slice(0, 32)}`;
+    const apiKey = `se_live_${crypto.randomBytes(32).toString('base64url')}`;
     
     const newKey = await prisma.apiKey.create({
       data: {
@@ -162,11 +167,10 @@ app.post('/keys/generate', async (c) => {
       }
     });
 
-    console.log(`[Generate] Chave gerada para usuário ${userId}: ${newKey.key}`);
     return c.json({ success: true, data: { key: newKey.key, subscriptionId: subscription.id } });
   } catch (error: any) {
-    console.error('[Generate] Error:', error.message);
-    return c.json({ success: false, error: error.message }, 500);
+    console.error('[Generate] Erro ao gerar chave');
+    return c.json({ success: false, error: 'Erro ao gerar chave' }, 500);
   }
 });
 

@@ -28,7 +28,7 @@ export async function processPayment(body: any) {
     });
     return result;
   } catch (error) {
-    console.error('Erro ao processar pagamento Mercado Pago:', error);
+    console.error('Erro ao processar pagamento Mercado Pago');
     throw error;
   }
 }
@@ -38,7 +38,7 @@ export async function getPayment(paymentId: string) {
     const result = await payment.get({ id: paymentId });
     return result;
   } catch (error) {
-    console.error('Erro ao buscar pagamento Mercado Pago:', error);
+    console.error('Erro ao buscar pagamento Mercado Pago');
     throw error;
   }
 }

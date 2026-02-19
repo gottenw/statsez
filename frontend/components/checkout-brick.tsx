@@ -52,9 +52,6 @@ export function CheckoutBrick({ amount, description, planName = "dev", sport = "
     const user = getUser();
     const token = getToken();
     
-    console.log("[Checkout] Enviando pagamento:", { userId: user?.id, planName, hasToken: !!token });
-    
-    // Formato: userId|planName|sport
     const externalReference = user ? `${user.id}|${planName}|${sport}` : `${planName}|${sport}`;
     
     const headers: Record<string, string> = {
@@ -80,7 +77,6 @@ export function CheckoutBrick({ amount, description, planName = "dev", sport = "
       })
         .then((response) => response.json())
         .then((result) => {
-          console.log("[Checkout] Resposta:", result);
           if (result.success) {
             onSuccess?.(result.id);
             resolve(result);
@@ -90,7 +86,6 @@ export function CheckoutBrick({ amount, description, planName = "dev", sport = "
           }
         })
         .catch((error) => {
-          console.error("[Checkout] Erro:", error);
           onError?.(error);
           reject(error);
         });
@@ -103,7 +98,7 @@ export function CheckoutBrick({ amount, description, planName = "dev", sport = "
         initialization={initialization}
         customization={customization}
         onSubmit={onSubmit}
-        onReady={() => console.log("Payment Brick ready")}
+        onReady={() => {}}
         onError={(error) => onError?.(error)}
       />
     </div>
