@@ -8,16 +8,23 @@ import { useAuth } from "../../../lib/auth-context";
 
 export default function RegisterPage() {
   const [status, setStatus] = useState<"idle" | "loading" | "error" | "success">("idle");
-  const { login } = useAuth();
+  const [isChecking, setIsChecking] = useState(true);
+  const { login, isLoggedIn } = useAuth();
 
-  // Verifica se tem plano pendente no localStorage (redirecionamento do pricing)
+  // Verifica se já está logado ao carregar a página
   useEffect(() => {
-    const pendingPlan = localStorage.getItem("statsez_pending_plan");
-    if (pendingPlan) {
-      // Limpa o plano pendente após carregar a página
-      localStorage.removeItem("statsez_pending_plan");
-    }
-  }, []);
+    // Pequeno delay para garantir que o AuthContext inicializou
+    const timer = setTimeout(() => {
+      if (isLoggedIn) {
+        console.log("[Register] Usuário já logado, redirecionando...");
+        window.location.href = "/dashboard";
+      } else {
+        setIsChecking(false);
+      }
+    }, 100);
+
+    return () => clearTimeout(timer);
+  }, [isLoggedIn]);
 
   const handleGoogleSuccess = async (credentialResponse: any) => {
     setStatus("loading");
@@ -31,11 +38,9 @@ export default function RegisterPage() {
       const data = await res.json();
 
       if (data.success) {
-        // Salva no localStorage e atualiza o contexto
         login(data.data, data.data.token);
         setStatus("success");
         
-        // Redireciona para o dashboard após login bem-sucedido
         setTimeout(() => {
           window.location.href = "/dashboard";
         }, 500);
@@ -47,6 +52,20 @@ export default function RegisterPage() {
       setStatus("error");
     }
   };
+
+  // Mostra loading enquanto verifica auth
+  if (isChecking) {
+    return (
+      <main className="min-h-screen bg-background flex items-center justify-center">
+        <div className="flex items-center gap-2">
+          <div className="w-2 h-2 bg-blue-500 animate-pulse" />
+          <span className="font-mono text-xs uppercase text-muted-foreground">
+            Verificando sessão...
+          </span>
+        </div>
+      </main>
+    );
+  }
 
   return (
     <main className="min-h-screen bg-background">
@@ -71,7 +90,7 @@ export default function RegisterPage() {
               <GoogleLogin
                 onSuccess={handleGoogleSuccess}
                 onError={() => setStatus("error")}
-                useOneTap
+                useOneTap={false}
                 theme="outline"
                 shape="square"
                 size="large"

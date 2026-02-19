@@ -33,30 +33,51 @@ export function AuthProvider({ children }: { children: ReactNode }) {
     isReady: false,
   });
 
-  useEffect(() => {
+  // Função para carregar usuário do localStorage
+  const loadUserFromStorage = () => {
     if (typeof window === "undefined") return;
 
     try {
       const storedUser = localStorage.getItem("statsez_user");
       const storedToken = localStorage.getItem("statsez_token");
       
-      console.log("[Auth] Restaurando sessão...", { hasUser: !!storedUser, hasToken: !!storedToken });
+      console.log("[Auth] Verificando localStorage...", { 
+        hasUser: !!storedUser, 
+        hasToken: !!storedToken,
+        userPreview: storedUser ? JSON.parse(storedUser).email : null
+      });
       
       if (storedUser && storedToken) {
         const parsedUser = JSON.parse(storedUser);
-        console.log("[Auth] Sessão restaurada:", parsedUser.email);
         setAuthState({
           user: parsedUser,
           isLoggedIn: true,
           isReady: true,
         });
+        console.log("[Auth] Sessão restaurada:", parsedUser.email);
       } else {
-        setAuthState(prev => ({ ...prev, isReady: true }));
+        setAuthState({ user: null, isLoggedIn: false, isReady: true });
+        console.log("[Auth] Nenhuma sessão encontrada");
       }
     } catch (e) {
-      console.error("[Auth] Erro:", e);
-      setAuthState(prev => ({ ...prev, isReady: true }));
+      console.error("[Auth] Erro ao ler localStorage:", e);
+      setAuthState({ user: null, isLoggedIn: false, isReady: true });
     }
+  };
+
+  useEffect(() => {
+    loadUserFromStorage();
+
+    // Listener para mudanças no localStorage (outras abas)
+    const handleStorageChange = (e: StorageEvent) => {
+      if (e.key === "statsez_user" || e.key === "statsez_token") {
+        console.log("[Auth] Storage change detectado, recarregando...");
+        loadUserFromStorage();
+      }
+    };
+
+    window.addEventListener("storage", handleStorageChange);
+    return () => window.removeEventListener("storage", handleStorageChange);
   }, []);
 
   const login = (userData: User, token: string) => {
