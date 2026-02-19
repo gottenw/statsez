@@ -10,6 +10,7 @@ import { requestLogger } from './middleware/logger.js'
 import { sportRoutes } from './routes/sports.js'
 import { authRoutes } from './routes/auth.js'
 import { healthRoutes } from './routes/health.js'
+import { paymentRoutes } from './routes/payments.js'
 
 const app = new Hono()
 
@@ -46,6 +47,8 @@ app.route('/health', healthRoutes)
 
 
 app.route('/auth', authRoutes)
+
+app.route('/payments', paymentRoutes)
 
 
 

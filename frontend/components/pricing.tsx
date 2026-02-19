@@ -1,9 +1,11 @@
 "use client";
 
 import { motion, useInView } from "framer-motion";
-import { useRef } from "react";
+import { useRef, useState } from "react";
 import { useTranslations } from "next-intl";
 import { ScrambleText } from "./scramble-text";
+import { CheckoutBrick } from "./checkout-brick";
+import { X } from "lucide-react";
 
 const plans = [
   {
@@ -50,10 +52,51 @@ const plans = [
 
 export function Pricing() {
   const t = useTranslations("pricing");
+  const [selectedPlan, setSelectedPlan] = useState<typeof plans[0] | null>(null);
+
+  const handlePlanSelect = (plan: typeof plans[0]) => {
+    if (plan.key === "free") {
+      window.location.href = "/auth/register";
+      return;
+    }
+    setSelectedPlan(plan);
+  };
 
   return (
     <section id="pricing" className="min-h-screen w-full bg-background border-t border-border">
-      {}
+      {/* Modal de Checkout */}
+      {selectedPlan && (
+        <div className="fixed inset-0 z-[100] flex items-center justify-center p-4 bg-background/80 backdrop-blur-sm">
+          <div className="relative w-full max-w-2xl bg-background border border-border shadow-2xl overflow-y-auto max-h-[90vh]">
+            <button 
+              onClick={() => setSelectedPlan(null)}
+              className="absolute top-4 right-4 p-2 text-muted-foreground hover:text-foreground z-10"
+            >
+              <X size={20} />
+            </button>
+            
+            <div className="p-8 border-b border-border">
+              <span className="data-label">CHECKOUT</span>
+              <h3 className="font-sans text-2xl font-medium mt-2 uppercase">
+                {t(`plans.${selectedPlan.key}.name`)} — R$ {selectedPlan.price}
+              </h3>
+            </div>
+
+            <div className="p-4 bg-white">
+              <CheckoutBrick 
+                amount={parseFloat(selectedPlan.price.replace(".", "").replace(",", "."))}
+                description={`Assinatura Statsez API - Plano ${selectedPlan.key.toUpperCase()}`}
+                onSuccess={(id) => {
+                  console.log("Pagamento aprovado:", id);
+                  window.location.href = "/dashboard/welcome";
+                }}
+              />
+            </div>
+          </div>
+        </div>
+      )}
+
+      {/* Section Header */}
       <div className="section-padding py-24 border-b border-border">
         <div className="grid grid-cols-12 gap-8">
           <div className="col-span-12 md:col-span-4">
@@ -72,17 +115,30 @@ export function Pricing() {
         </div>
       </div>
 
-      {}
+      {/* Plans Grid */}
       <div className="section-padding">
         {plans.map((plan, index) => (
-          <PlanRow key={plan.key} plan={plan} index={index} />
+          <PlanRow 
+            key={plan.key} 
+            plan={plan} 
+            index={index} 
+            onSelect={() => handlePlanSelect(plan)}
+          />
         ))}
       </div>
     </section>
   );
 }
 
-function PlanRow({ plan, index }: { plan: typeof plans[0], index: number }) {
+function PlanRow({ 
+  plan, 
+  index, 
+  onSelect 
+}: { 
+  plan: typeof plans[0], 
+  index: number,
+  onSelect: () => void
+}) {
   const t = useTranslations("pricing");
   const ref = useRef(null);
   const isInView = useInView(ref, { once: true, margin: "-50px" });
@@ -97,14 +153,14 @@ function PlanRow({ plan, index }: { plan: typeof plans[0], index: number }) {
         plan.featured ? "bg-foreground/5" : "hover:bg-foreground/[0.02]"
       }`}
     >
-      {}
+      {/* Column 1: Index */}
       <div className="col-span-12 md:col-span-1">
         <span className="font-mono text-xl text-muted group-hover:text-foreground transition-colors duration-500">
           {plan.id}
         </span>
       </div>
 
-      {}
+      {/* Column 2: Plan Info */}
       <div className="col-span-12 md:col-span-3">
         <h3 className="font-sans text-2xl font-medium tracking-tight uppercase">
           {t(`plans.${plan.key}.name`)}
@@ -119,7 +175,7 @@ function PlanRow({ plan, index }: { plan: typeof plans[0], index: number }) {
         </p>
       </div>
 
-      {}
+      {/* Column 3: Volume Metrics */}
       <div className="col-span-12 md:col-span-4">
         <div className="grid grid-cols-2 gap-8">
           <div className="space-y-2">
@@ -143,7 +199,7 @@ function PlanRow({ plan, index }: { plan: typeof plans[0], index: number }) {
         </div>
       </div>
 
-      {}
+      {/* Column 4: Pricing */}
       <div className="col-span-12 md:col-span-2">
         <div className="space-y-2">
           <span className="data-label text-[10px]">MONTHLY</span>
@@ -158,9 +214,12 @@ function PlanRow({ plan, index }: { plan: typeof plans[0], index: number }) {
         </div>
       </div>
 
-      {}
+      {/* Column 5: CTA */}
       <div className="col-span-12 md:col-span-2 flex items-center justify-end">
-        <button className="w-full md:w-auto font-mono text-[10px] font-bold uppercase tracking-[0.2em] border border-border px-8 py-4 hover:bg-foreground hover:text-background transition-all duration-500 whitespace-nowrap">
+        <button 
+          onClick={onSelect}
+          className="w-full md:w-auto font-mono text-[10px] font-bold uppercase tracking-[0.2em] border border-border px-8 py-4 hover:bg-foreground hover:text-background transition-all duration-500 whitespace-nowrap"
+        >
           {plan.key === "free" ? t("freeCta") : t("cta")}
         </button>
       </div>

@@ -57,7 +57,7 @@
     "realTime": {
       "title": "LATENCY",
       "subtitle": "ULTRA-LOW",
-      "description": "Responses served via persistent cache on Supabase for maximum speed.",
+      "description": "Optimized infrastructure for data delivery with the lowest market latency.",
       "latency": "LATENCY",
       "latencyValue": "<50",
       "coverage": "COVERAGE",
