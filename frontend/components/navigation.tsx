@@ -10,7 +10,7 @@ export function Navigation() {
   const [isScrolled, setIsScrolled] = useState(false);
   const [isVisible, setIsVisible] = useState(false);
   const t = useTranslations("nav");
-  const { isLoggedIn, user } = useAuth();
+  const { isLoggedIn } = useAuth();
 
   useEffect(() => {
     const handleScroll = () => {
@@ -42,7 +42,7 @@ export function Navigation() {
           }`}
         >
           <div className="section-padding py-4 flex justify-between items-center">
-            <a href="/" className="font-sans text-lg font-medium tracking-tight">
+            <a href="/" className="text-lg font-medium tracking-tight">
               SE
             </a>
 
@@ -51,14 +51,14 @@ export function Navigation() {
                 <a
                   key={item.label}
                   href={item.href}
-                  className="font-mono text-xs uppercase tracking-widest text-muted-foreground hover:text-foreground transition-colors duration-300"
+                  className="text-base uppercase tracking-widest text-muted-foreground hover:text-foreground transition-colors duration-300"
                 >
                   {item.label}
                 </a>
               ))}
               <a
                 href="/docs"
-                className="font-mono text-xs uppercase tracking-widest text-muted-foreground hover:text-foreground transition-colors duration-300"
+                className="text-base uppercase tracking-widest text-muted-foreground hover:text-foreground transition-colors duration-300"
               >
                 {t("docs")}
               </a>
@@ -67,19 +67,17 @@ export function Navigation() {
             <div className="flex items-center gap-6">
               <LanguageSwitcher />
               
-              {/* Se estiver logado, mostra link para dashboard */}
               {isLoggedIn ? (
                 <a
                   href="/dashboard"
-                  className="flex items-center gap-2 font-mono text-xs uppercase tracking-widest border border-border px-4 py-2 hover:bg-foreground hover:text-background transition-all duration-300"
+                  className="text-base uppercase tracking-widest border border-border px-4 py-2 hover:bg-foreground hover:text-background transition-all duration-300"
                 >
-                  <span className="w-2 h-2 bg-green-500 rounded-full animate-pulse" />
-                  Dashboard
+                  [Dashboard]
                 </a>
               ) : (
                 <a
                   href="/auth/register"
-                  className="font-mono text-xs uppercase tracking-widest border border-border px-4 py-2 hover:bg-foreground hover:text-background transition-all duration-300"
+                  className="text-base uppercase tracking-widest border border-border px-4 py-2 hover:bg-foreground hover:text-background transition-all duration-300"
                 >
                   {t("getStarted")}
                 </a>

@@ -14,7 +14,7 @@ export function LanguageSwitcher() {
   }, []);
 
   return (
-    <div className="flex items-center gap-1 font-mono text-xs">
+    <div className="flex items-center gap-1 font-mono text-base">
       {locales.map((l, index) => (
         <span key={l} className="flex items-center">
           <button

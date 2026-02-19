@@ -3,7 +3,6 @@
 import { useState, useEffect } from "react";
 import { motion, AnimatePresence } from "framer-motion";
 import { useAuth } from "../lib/auth-context";
-import { LogOut, LayoutDashboard, ChevronDown } from "lucide-react";
 
 export function UserAvatar() {
   const { user, isLoggedIn, logout } = useAuth();
@@ -14,18 +13,8 @@ export function UserAvatar() {
     setMounted(true);
   }, []);
 
-  useEffect(() => {
-    if (mounted) {
-      console.log("[UserAvatar] Estado mudou:", { isLoggedIn, email: user?.email });
-    }
-  }, [mounted, isLoggedIn, user]);
-
-  // Evita hidratação incorreta
   if (!mounted) return null;
-
-  if (!isLoggedIn || !user) {
-    return null;
-  }
+  if (!isLoggedIn || !user) return null;
 
   const initials = user.name 
     ? user.name.split(" ").map(n => n[0]).join("").toUpperCase().slice(0, 2)
@@ -48,13 +37,15 @@ export function UserAvatar() {
                      hover:border-foreground transition-all shadow-lg"
         >
           <div className="w-8 h-8 bg-foreground text-background flex items-center justify-center 
-                          font-mono text-xs font-bold">
+                          text-base font-bold uppercase tracking-wider">
             {initials}
           </div>
-          <span className="hidden sm:block font-mono text-xs uppercase text-foreground">
+          <span className="hidden sm:block text-base uppercase text-foreground">
             {firstName}
           </span>
-          <ChevronDown size={14} className={`transition-transform ${isOpen ? "rotate-180" : ""}`} />
+          <span className={`text-base transition-transform ${isOpen ? "rotate-180" : ""}`}>
+            ▼
+          </span>
           <div className="w-2 h-2 bg-green-500 rounded-full animate-pulse" />
         </button>
 
@@ -67,25 +58,23 @@ export function UserAvatar() {
               className="absolute top-full right-0 mt-2 w-56 bg-background border border-border shadow-xl"
             >
               <div className="p-3 border-b border-border bg-foreground/[0.02]">
-                <p className="font-mono text-[10px] uppercase text-muted-foreground">Logado como</p>
-                <p className="font-sans text-sm truncate">{user.email}</p>
+                <p className="text-base uppercase text-muted-foreground">Logado como</p>
+                <p className="text-base truncate">{user.email}</p>
               </div>
 
               <div className="p-1">
                 <a
                   href="/dashboard"
                   onClick={() => setIsOpen(false)}
-                  className="flex items-center gap-2 px-3 py-2 text-sm hover:bg-foreground/5"
+                  className="flex items-center gap-2 px-3 py-2 text-base hover:bg-foreground/5"
                 >
-                  <LayoutDashboard size={14} />
-                  Dashboard
+                  [Dashboard]
                 </a>
                 <button
                   onClick={() => { setIsOpen(false); logout(); }}
-                  className="w-full flex items-center gap-2 px-3 py-2 text-sm text-red-500 hover:bg-red-500/10"
+                  className="w-full flex items-center gap-2 px-3 py-2 text-base text-red-500 hover:bg-red-500/10"
                 >
-                  <LogOut size={14} />
-                  Sair
+                  [Sair]
                 </button>
               </div>
             </motion.div>

@@ -1,51 +1,148 @@
 "use client";
 
+import { useState, useEffect } from "react";
 import { motion } from "framer-motion";
+import { getUserInfo } from "../../lib/api";
+
+interface Subscription {
+  planName: string;
+  monthlyQuota: number;
+  currentUsage: number;
+  expiresAt: string;
+}
 
 export default function DashboardOverview() {
+  const [subscription, setSubscription] = useState<Subscription | null>(null);
+  const [loading, setLoading] = useState(true);
+
+  useEffect(() => {
+    const fetchData = async () => {
+      try {
+        const data = await getUserInfo();
+        if (data.success && data.data.subscriptions?.length > 0) {
+          setSubscription(data.data.subscriptions[0]);
+        }
+      } catch (err) {
+        console.error("Erro ao carregar dados:", err);
+      } finally {
+        setLoading(false);
+      }
+    };
+    fetchData();
+  }, []);
+
+  const getDaysRemaining = (expiresAt: string) => {
+    const diff = new Date(expiresAt).getTime() - new Date().getTime();
+    return Math.ceil(diff / (1000 * 60 * 60 * 24));
+  };
+
+  if (loading) {
+    return (
+      <div className="p-8 md:p-12 max-w-7xl mx-auto">
+        <div className="animate-pulse space-y-8">
+          <div className="h-20 bg-foreground/5 border border-border" />
+          <div className="grid grid-cols-4 gap-4">
+            {[1, 2, 3, 4].map((i) => (
+              <div key={i} className="h-32 bg-foreground/5 border border-border" />
+            ))}
+          </div>
+        </div>
+      </div>
+    );
+  }
+
   return (
     <div className="p-8 md:p-12 max-w-7xl mx-auto space-y-16">
       <header>
-        <span className="text-sm font-mono font-bold tracking-[0.2em] text-foreground/50 uppercase">REAL_TIME_OPERATIONS</span>
-        <h1 className="font-sans text-3xl font-medium uppercase mt-2 tracking-tight">Operational_Metrics</h1>
+        <span className="text-base font-bold tracking-[0.2em] text-foreground/50 uppercase">
+          Dashboard
+        </span>
+        <h1 className="text-3xl font-medium uppercase mt-2 tracking-tight">
+          Visão Geral
+        </h1>
       </header>
 
       {/* Stats Grid */}
       <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 border border-border bg-border gap-px">
-        <StatItem label="License_Model" value="Dev Plan" subValue="Standard_Access" />
-        <StatItem label="Monthly_Quota" value="40,000" subValue="Units_Available" />
-        <StatItem label="Active_Usage" value="0" subValue="Requests_Served" />
-        <StatItem label="Cache_Speed" value="< 50ms" subValue="Global_Latency" />
+        <StatItem 
+          label="Plano Atual" 
+          value={subscription?.planName || "Free"} 
+          subValue={subscription ? `${getDaysRemaining(subscription.expiresAt)} dias restantes` : "Ilimitado"} 
+        />
+        <StatItem 
+          label="Quota Mensal" 
+          value={subscription?.monthlyQuota.toLocaleString() || "500"} 
+          subValue="Requisições disponíveis" 
+        />
+        <StatItem 
+          label="Uso Atual" 
+          value={subscription?.currentUsage.toLocaleString() || "0"} 
+          subValue="Requisições utilizadas" 
+        />
+        <StatItem 
+          label="Disponível" 
+          value={subscription ? (subscription.monthlyQuota - subscription.currentUsage).toLocaleString() : "500"} 
+          subValue="Requisições restantes" 
+        />
       </div>
 
-      <div className="grid grid-cols-1 lg:grid-cols-3 gap-16">
+      {/* Main Content */}
+      <div className="grid grid-cols-1 lg:grid-cols-3 gap-8">
         <div className="lg:col-span-2 space-y-8">
-          <div className="p-10 border border-border bg-foreground/[0.01]">
-            <div className="flex justify-between items-center mb-16">
-              <span className="text-xs font-mono font-bold uppercase tracking-[0.2em] text-foreground/50">TRAFFIC_DENSITY</span>
-              <div className="flex gap-6 font-mono text-[10px] font-bold uppercase tracking-widest">
-                <span className="bg-foreground text-background px-3 py-1">24H_CYCLE</span>
-                <span className="border border-border px-3 py-1 text-muted-foreground hover:text-foreground transition-colors cursor-pointer">7D_CYCLE</span>
+          <div className="p-8 border border-border bg-foreground/[0.01]">
+            <div className="flex justify-between items-center mb-8">
+              <span className="text-base font-bold uppercase tracking-[0.2em] text-foreground/50">
+                Uso de API
+              </span>
+              <div className="flex gap-4 font-bold uppercase tracking-widest">
+                <span className="bg-foreground text-background px-3 py-1 text-base">
+                  Últimos 7 dias
+                </span>
               </div>
             </div>
-            <div className="h-72 border-b border-border flex items-end gap-2">
-              {[30, 60, 40, 85, 55, 75, 25, 45, 80, 55, 90, 65, 40, 70].map((h, i) => (
-                <div key={i} className="flex-1 bg-foreground/10 hover:bg-foreground transition-all duration-300" style={{ height: `${h}%` }} />
+            <div className="h-64 border-b border-border flex items-end gap-2">
+              {[10, 25, 15, 40, 30, 55, 20].map((h, i) => (
+                <div 
+                  key={i} 
+                  className="flex-1 bg-foreground/20 hover:bg-foreground transition-all duration-300" 
+                  style={{ height: `${h}%` }} 
+                />
               ))}
             </div>
-            <p className="font-mono text-[10px] text-muted-foreground uppercase tracking-[0.3em] mt-6 text-center">
-              Active node traffic monitor / processing_packets_stream
+            <p className="font-mono text-base text-muted-foreground uppercase tracking-[0.2em] mt-6 text-center">
+              Volume de requisições nos últimos dias
             </p>
           </div>
         </div>
 
-        <div className="p-10 border border-border bg-background">
-          <span className="text-xs font-mono font-bold uppercase tracking-[0.2em] text-foreground/50 mb-10 block">SYSTEM_EVENTS</span>
-          <div className="space-y-10">
-            <LogEntry time="10:24:01" code="AUTH_OK" details="Source: Production_Key" />
-            <LogEntry time="10:23:58" code="CACHE_HIT" details="Req: /v1/fixtures" />
-            <LogEntry time="09:12:44" code="SES_INIT" details="Agent: Desktop_Terminal" />
-            <LogEntry time="Yesterday" code="SUB_VALID" details="Status: Verified" />
+        {/* Quick Actions */}
+        <div className="p-8 border border-border bg-background space-y-8">
+          <span className="text-base font-bold uppercase tracking-[0.2em] text-foreground/50 block">
+            Ações Rápidas
+          </span>
+          <div className="space-y-4">
+            <a 
+              href="/dashboard/keys" 
+              className="block p-4 border border-border hover:bg-foreground/[0.02] transition-colors"
+            >
+              <span className="text-base uppercase block mb-1">Ver API Keys</span>
+              <span className="text-base text-muted-foreground">Gerenciar suas chaves de acesso</span>
+            </a>
+            <a 
+              href="/dashboard/billing" 
+              className="block p-4 border border-border hover:bg-foreground/[0.02] transition-colors"
+            >
+              <span className="text-base uppercase block mb-1">Upgrade de Plano</span>
+              <span className="text-base text-muted-foreground">Aumentar quota de requisições</span>
+            </a>
+            <a 
+              href="/docs" 
+              target="_blank"
+              className="block p-4 border border-border hover:bg-foreground/[0.02] transition-colors"
+            >
+              <span className="text-base uppercase block mb-1">Documentação</span>
+              <span className="text-base text-muted-foreground">Ver exemplos de uso da API</span>
+            </a>
           </div>
         </div>
       </div>
@@ -53,30 +150,20 @@ export default function DashboardOverview() {
   );
 }
 
-function StatItem({ label, value, subValue }: any) {
+function StatItem({ label, value, subValue }: { label: string; value: string; subValue: string }) {
   return (
-    <div className="p-10 bg-background group hover:bg-foreground/[0.02] transition-colors">
-      <span className="text-xs font-mono font-bold text-foreground/40 block mb-10 uppercase tracking-widest">{label}</span>
+    <div className="p-8 bg-background group hover:bg-foreground/[0.02] transition-colors">
+      <span className="text-base text-foreground/50 block mb-6 uppercase tracking-widest">
+        {label}
+      </span>
       <div>
-        <span className="font-mono text-3xl font-medium tracking-tighter text-foreground block uppercase mb-1">
+        <span className="text-3xl font-medium tracking-tighter text-foreground block uppercase mb-1">
           {value}
         </span>
-        <span className="font-mono text-[11px] text-muted-foreground uppercase tracking-widest font-bold">
+        <span className="text-base text-muted-foreground uppercase tracking-widest">
           {subValue}
         </span>
       </div>
-    </div>
-  );
-}
-
-function LogEntry({ time, code, details }: any) {
-  return (
-    <div className="flex flex-col gap-2 border-l-2 border-border pl-6">
-      <div className="flex justify-between items-baseline">
-        <span className="font-mono text-[11px] text-muted-foreground font-bold">{time}</span>
-        <span className="font-mono text-[10px] bg-foreground/[0.05] border border-border px-2 py-0.5 text-foreground font-bold">{code}</span>
-      </div>
-      <p className="font-mono text-xs text-foreground uppercase tracking-tight font-medium">{details}</p>
     </div>
   );
 }

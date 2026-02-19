@@ -27,11 +27,47 @@ const registerSchema = z.object({
   name: z.string().optional()
 })
 
-const createSubscriptionSchema = z.object({
-  sport: z.enum(['football', 'basketball', 'tennis', 'hockey']),
-  planName: z.string(),
-  monthlyQuota: z.number().min(100)
-})
+// ============================================
+// FUNÇÕES AUXILIARES
+// ============================================
+
+async function createFreeSubscription(userId: string) {
+  const now = new Date()
+  const expiresAt = new Date(now)
+  expiresAt.setDate(expiresAt.getDate() + 30)
+  
+  const cycleEndDate = new Date(now)
+  cycleEndDate.setDate(cycleEndDate.getDate() + 15)
+
+  // Cria assinatura free
+  const subscription = await prisma.subscription.create({
+    data: {
+      userId,
+      sport: 'football',
+      planName: 'free',
+      monthlyQuota: 500,
+      biWeeklyQuota: 500, // Free tem quota única de 500
+      startsAt: now,
+      expiresAt,
+      cycleStartDate: now,
+      cycleEndDate,
+      isActive: true,
+    }
+  })
+
+  // Gera API key
+  const apiKey = `se_live_${Buffer.from(subscription.id + Date.now()).toString('base64url').slice(0, 32)}`
+  
+  await prisma.apiKey.create({
+    data: {
+      key: apiKey,
+      subscriptionId: subscription.id,
+      isActive: true
+    }
+  })
+
+  return { subscription, apiKey }
+}
 
 // ============================================
 // ROTAS DE AUTENTICAÇÃO
@@ -56,6 +92,7 @@ app.post('/google', zValidator('json', googleAuthSchema), async (c) => {
       where: { email: payload.email }
     })
 
+    let isNewUser = false
     if (!user) {
       user = await prisma.user.create({
         data: {
@@ -64,11 +101,31 @@ app.post('/google', zValidator('json', googleAuthSchema), async (c) => {
           googleId: payload.sub
         }
       })
+      isNewUser = true
     } else if (!user.googleId) {
       user = await prisma.user.update({
         where: { id: user.id },
         data: { googleId: payload.sub }
       })
+    }
+
+    // Se for novo usuário ou não tiver assinatura ativa, cria plano free
+    let subscription = null
+    let apiKey = null
+    
+    const existingSubscription = await prisma.subscription.findFirst({
+      where: { userId: user.id, isActive: true },
+      include: { apiKey: true }
+    })
+
+    if (!existingSubscription) {
+      console.log(`[Auth] Criando plano free para novo usuário: ${user.email}`)
+      const freeSub = await createFreeSubscription(user.id)
+      subscription = freeSub.subscription
+      apiKey = freeSub.apiKey
+    } else {
+      subscription = existingSubscription
+      apiKey = existingSubscription.apiKey
     }
 
     const token = jwt.sign(
@@ -83,7 +140,11 @@ app.post('/google', zValidator('json', googleAuthSchema), async (c) => {
         id: user.id,
         email: user.email,
         name: user.name,
-        token
+        token,
+        subscription: {
+          planName: subscription.planName,
+          apiKey: typeof apiKey === 'object' && apiKey !== null ? (apiKey as any).key : null
+        }
       }
     })
   } catch (error: any) {
@@ -153,46 +214,6 @@ app.post('/register', zValidator('json', registerSchema), async (c) => {
     if (err.code === 'P2002') {
       return c.json({ success: false, error: 'Email já cadastrado' }, 409)
     }
-    return c.json({ success: false, error: err.message }, 500)
-  }
-})
-
-// Criar assinatura manual
-app.post('/subscription', zValidator('json', createSubscriptionSchema), async (c) => {
-  const { sport, planName, monthlyQuota } = c.req.valid('json')
-  const userId = c.req.header('x-user-id') 
-
-  if (!userId) {
-    return c.json({ success: false, error: 'Usuário não autenticado' }, 401)
-  }
-
-  try {
-    const biWeeklyQuota = Math.floor(monthlyQuota / 2)
-    const subscription = await prisma.subscription.create({
-      data: {
-        userId,
-        sport,
-        planName,
-        monthlyQuota,
-        biWeeklyQuota,
-        cycleStartDate: new Date()
-      }
-    })
-
-    const apiKey = `se_live_${Buffer.from(subscription.id + Date.now()).toString('base64url').slice(0, 24)}`
-    
-    await prisma.apiKey.create({
-      data: {
-        key: apiKey,
-        subscriptionId: subscription.id
-      }
-    })
-
-    return c.json({
-      success: true,
-      data: { subscription, apiKey }
-    }, 201)
-  } catch (err: any) {
     return c.json({ success: false, error: err.message }, 500)
   }
 })
