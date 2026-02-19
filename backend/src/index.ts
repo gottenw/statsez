@@ -29,7 +29,9 @@ app.use('*', cors({
   maxAge: 600,
 }))
 
-app.options('*', (c) => c.text('', 204))
+app.options('*', (c) => {
+  return c.text('', 204 as any)
+})
 
 app.use('*', logger())
 app.use('*', prettyJSON())
