@@ -193,23 +193,25 @@ curl -H "x-api-key: se_live_abc123" "https://api.statsez.com/v1/football/fixture
 
 ### 8. LIST TEAMS / LISTAR TIMES
 `GET /football/teams`
-- Params: `league` (optional), `search` (optional — team name search)
+- Params: `league` (**required**), `search` (optional — team name filter)
+- Teams are extracted from league match data / Times são extraídos dos dados de partidas da liga
 
 **Example / Exemplo:**
 ```bash
-curl -H "x-api-key: se_live_abc123" "https://api.statsez.com/v1/football/teams?search=Flamengo"
+curl -H "x-api-key: se_live_abc123" "https://api.statsez.com/v1/football/teams?league=dYlOSQOD&search=Flamengo"
 ```
 
 ---
 
 ### 9. TEAM FIXTURES / JOGOS POR TIME
 `GET /football/teams/{teamName}/fixtures`
-- Full match history for a specific club across all competitions
-- Histórico completo de partidas de um clube em todas as competições
+- Params: `league` (**required**) — league ID to search within
+- Match history for a team within a specific league / Histórico de partidas de um time em uma liga específica
+- Matches by team name or short name (e.g. "Palmeiras", "PAL")
 
 **Example / Exemplo:**
 ```bash
-curl -H "x-api-key: se_live_abc123" "https://api.statsez.com/v1/football/teams/Flamengo/fixtures"
+curl -H "x-api-key: se_live_abc123" "https://api.statsez.com/v1/football/teams/Palmeiras/fixtures?league=dYlOSQOD"
 ```
 
 ---

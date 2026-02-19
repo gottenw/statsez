@@ -319,13 +319,35 @@ export async function getTeams(leagueId?: string): Promise<TeamResponse[]> {
   return Array.from(teams.values());
 }
 
-export async function getTeamFixtures(teamName: string): Promise<Array<{
+export async function getTeamFixtures(teamName: string, leagueId?: string): Promise<Array<{
   league: string;
   country: string;
   fixture: FixtureResponse;
 }>> {
-  // Sem league especificada, não há como buscar eficientemente
-  return [];
+  if (!leagueId) return [];
+
+  await ensureRegistry();
+  const entry = leagueRegistry.get(leagueId);
+  if (!entry) return [];
+
+  const season = await resolveLeagueSeason(entry);
+  if (!season) return [];
+
+  const results = await sportdb.getAllResults(entry.countryParam, entry.leagueParam, season);
+  const teamLower = teamName.toLowerCase();
+
+  const filtered = results.filter(m =>
+    m.homeName.toLowerCase().includes(teamLower) ||
+    m.awayName.toLowerCase().includes(teamLower) ||
+    m.home3CharName?.toLowerCase() === teamLower ||
+    m.away3CharName?.toLowerCase() === teamLower
+  );
+
+  return filtered.map(m => ({
+    league: entry.name,
+    country: entry.countryName,
+    fixture: convertMatchResult(m),
+  }));
 }
 
 // ============================================

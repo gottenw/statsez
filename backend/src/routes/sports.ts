@@ -291,6 +291,13 @@ app.get('/:sport/teams', async (c) => {
     });
   }
 
+  if (!league) {
+    return c.json({
+      success: false,
+      error: 'Parâmetro "league" é obrigatório para listar times'
+    }, 400);
+  }
+
   const params = { league, search };
   const ttl = parseInt(process.env.CACHE_TTL_STATISTICS || '86400');
 
@@ -337,6 +344,7 @@ app.get('/:sport/teams', async (c) => {
 app.get('/:sport/teams/:teamName/fixtures', async (c) => {
   const sport = c.req.param('sport') as Sport;
   const teamName = c.req.param('teamName');
+  const { league } = c.req.query();
 
   if (!validateSport(sport)) {
     return c.json({ success: false, error: 'Esporte não suportado' }, 400);
@@ -350,10 +358,17 @@ app.get('/:sport/teams/:teamName/fixtures', async (c) => {
     });
   }
 
-  const params = { teamName };
+  if (!league) {
+    return c.json({
+      success: false,
+      error: 'Parâmetro "league" é obrigatório para buscar fixtures de um time'
+    }, 400);
+  }
+
+  const params = { teamName, league };
   const ttl = parseInt(process.env.CACHE_TTL_FIXTURES || '3600');
 
-  
+
   const cached = await getCache(sport, 'team-fixtures', params);
   if (cached) {
     c.set('cached', true);
@@ -364,11 +379,12 @@ app.get('/:sport/teams/:teamName/fixtures', async (c) => {
     });
   }
 
-  
-  const fixtures = await footballData.getTeamFixtures(teamName);
+
+  const fixtures = await footballData.getTeamFixtures(teamName, league);
 
   const result = {
     team: teamName,
+    league,
     fixtures: fixtures.map(f => ({
       ...f.fixture,
       league: f.league,
@@ -377,7 +393,7 @@ app.get('/:sport/teams/:teamName/fixtures', async (c) => {
     total: fixtures.length,
   };
 
-  
+
   await setCache({ sport, endpoint: 'team-fixtures', params, ttlSeconds: ttl }, result);
 
   return c.json({
