@@ -20,7 +20,7 @@ const app = new Hono()
 
 
 app.use('*', cors({
-  origin: process.env.FRONTEND_URL || 'http://localhost:3000',
+  origin: [process.env.FRONTEND_URL || '', 'https://statsez.com', 'https://www.statsez.com', 'http://localhost:3000'].filter(Boolean),
   allowMethods: ['GET', 'POST', 'PUT', 'DELETE', 'OPTIONS'],
   allowHeaders: ['Content-Type', 'Authorization', 'x-api-key'],
   credentials: true

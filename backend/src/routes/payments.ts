@@ -7,18 +7,17 @@ const app = new Hono();
 app.post('/process', async (c) => {
   try {
     const body = await c.req.json();
+    console.log('Iniciando processamento de pagamento:', body.description);
     const result = await processPayment(body);
     
-    // Cria o registro inicial do pagamento no banco
-    // Nota: Em um sistema real, você deve associar ao userId e subscriptionId aqui
     await prisma.payment.create({
       data: {
         amount: result.transaction_amount || 0,
         status: result.status || 'pending',
         provider: 'mercadopago',
         providerId: String(result.id),
-        subscriptionId: 'temp-sub-id', // Placeholder, idealmente viria no body
-        userId: 'temp-user-id',       // Placeholder
+        subscriptionId: 'temp-sub-id',
+        userId: 'temp-user-id',
       }
     });
 
@@ -29,6 +28,7 @@ app.post('/process', async (c) => {
       id: result.id
     });
   } catch (error: any) {
+    console.error('ERRO MERCADO PAGO:', error.message, error.stack);
     return c.json({
       success: false,
       error: error.message
