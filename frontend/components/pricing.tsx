@@ -66,35 +66,68 @@ export function Pricing() {
     <section id="pricing" className="min-h-screen w-full bg-background border-t border-border">
       {/* Modal de Checkout */}
       {selectedPlan && (
-        <div className="fixed inset-0 z-[100] flex items-center justify-center p-4 bg-background/90 backdrop-blur-md">
-          <div className="relative w-full max-w-2xl bg-white border border-border shadow-2xl overflow-hidden flex flex-col max-h-[95vh]">
-            <button 
-              onClick={() => setSelectedPlan(null)}
-              className="absolute top-4 right-4 p-2 text-zinc-400 hover:text-black z-[110] transition-colors"
-            >
-              <X size={24} />
-            </button>
+        <div className="fixed inset-0 z-[100] flex items-center justify-center p-4 bg-background/80 backdrop-blur-md">
+          <motion.div 
+            initial={{ opacity: 0, scale: 0.95 }}
+            animate={{ opacity: 1, scale: 1 }}
+            className="relative w-full max-w-2xl bg-background border border-border shadow-[0_0_100px_rgba(0,0,0,0.1)] overflow-hidden flex flex-col max-h-[95vh]"
+          >
+            {/* Linha de fechar minimalista */}
+            <div className="absolute top-0 right-0 border-l border-b border-border">
+              <button 
+                onClick={() => setSelectedPlan(null)}
+                className="p-4 text-foreground hover:bg-foreground hover:text-background transition-all duration-300"
+              >
+                <X size={20} />
+              </button>
+            </div>
             
-            <div className="p-8 border-b border-border bg-zinc-50">
-              <span className="data-label text-zinc-500">SECURE CHECKOUT</span>
-              <h3 className="font-sans text-2xl font-medium mt-2 uppercase text-black">
-                {t(`plans.${selectedPlan.key}.name`)} — R$ {selectedPlan.price}
+            <div className="p-12 border-b border-border">
+              <div className="flex flex-col gap-1 mb-8">
+                <span className="data-label">TRANSACTION GATEWAY</span>
+                <span className="font-mono text-xs text-muted-foreground uppercase tracking-widest">v1.0 secure_protocol</span>
+              </div>
+              
+              <h3 className="display-text text-4xl leading-none text-foreground uppercase">
+                {t(`plans.${selectedPlan.key}.name`)}
+                <br />
+                <span className="text-muted">R$ {selectedPlan.price}</span>
               </h3>
-              <p className="text-sm text-zinc-500 mt-1 uppercase tracking-wider font-mono">
-                Statsez Data Access • Monthly Subscription
-              </p>
+              
+              <div className="mt-8 pt-8 border-t border-border/50 grid grid-cols-2 gap-8">
+                <div className="flex flex-col gap-1">
+                  <span className="data-label text-[10px]">RECURRENCE</span>
+                  <span className="font-mono text-sm uppercase">Monthly Billing</span>
+                </div>
+                <div className="flex flex-col gap-1">
+                  <span className="data-label text-[10px]">ACCESS LEVEL</span>
+                  <span className="font-mono text-sm uppercase">Production API</span>
+                </div>
+              </div>
             </div>
 
-            <div className="flex-1 overflow-y-auto p-2 md:p-6 bg-white">
-              <CheckoutBrick 
-                amount={parseFloat(selectedPlan.price.replace(".", "").replace(",", "."))}
-                description={`Statsez API - ${selectedPlan.key.toUpperCase()}`}
-                onSuccess={(id) => {
-                  window.location.href = `/dashboard/welcome?payment_id=${id}`;
-                }}
-              />
+            <div className="flex-1 overflow-y-auto p-8 bg-background custom-scrollbar">
+              <div className="max-w-[500px] mx-auto">
+                <CheckoutBrick 
+                  amount={parseFloat(selectedPlan.price.replace(".", "").replace(",", "."))}
+                  description={`STATSEZ API - ${selectedPlan.key.toUpperCase()}`}
+                  onSuccess={(id) => {
+                    window.location.href = `/dashboard/welcome?payment_id=${id}`;
+                  }}
+                />
+              </div>
             </div>
-          </div>
+
+            <div className="p-6 border-t border-border bg-foreground/[0.02] flex justify-between items-center">
+              <span className="font-mono text-[10px] text-muted-foreground uppercase tracking-[0.2em]">
+                Encrypted by Statsez Security
+              </span>
+              <div className="flex gap-2">
+                <div className="w-2 h-2 rounded-full bg-blue-500 animate-pulse" />
+                <span className="font-mono text-[10px] text-foreground uppercase tracking-widest">System Online</span>
+              </div>
+            </div>
+          </motion.div>
         </div>
       )}
 

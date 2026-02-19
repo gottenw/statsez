@@ -24,6 +24,24 @@ export function CheckoutBrick({ amount, description, onSuccess, onError }: Check
       debitCard: "all",
       mercadoPago: "all",
     },
+    visual: {
+      style: {
+        theme: "flat", // Tema minimalista
+        customVariables: {
+          borderRadiusMedium: "0px", // Brutalista (sem curvas)
+          borderRadiusSmall: "0px",
+          borderRadiusLarge: "0px",
+          formBackgroundColor: "#ffffff",
+          baseColor: "#000000",
+          accentColor: "#000000",
+          inputBackgroundColor: "#ffffff",
+          inputFilledBackgroundColor: "#f4f4f5",
+          inputFocusedBackgroundColor: "#ffffff",
+          buttonTextColor: "#ffffff",
+          secondaryColor: "#71717a",
+        },
+      },
+    },
   };
 
   const onSubmit = async ({ formData }: any) => {
@@ -56,7 +74,7 @@ export function CheckoutBrick({ amount, description, onSuccess, onError }: Check
   };
 
   return (
-    <div className="w-full max-w-[600px] mx-auto bg-white p-2">
+    <div className="w-full max-w-[600px] mx-auto bg-white font-mono">
       <Payment
         initialization={initialization}
         customization={customization}
