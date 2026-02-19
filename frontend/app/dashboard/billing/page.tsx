@@ -10,21 +10,21 @@ const PLANS = [
     id: "dev",
     name: "Dev",
     requests: "40.000",
-    price: "79,00",
+    price: "124,90",
     featured: true,
   },
   {
     id: "enterprise",
     name: "Enterprise",
     requests: "250.000",
-    price: "349,00",
+    price: "459,90",
     featured: false,
   },
   {
     id: "gold",
     name: "Gold",
     requests: "600.000",
-    price: "699,00",
+    price: "999,90",
     featured: false,
   },
 ];
@@ -48,11 +48,20 @@ interface Payment {
   paidAt: string;
 }
 
+interface PixPayment {
+  id: string;
+  qr_code: string | null;
+  qr_code_base64: string | null;
+  planName: string;
+}
+
 export default function BillingPage() {
   const [subscription, setSubscription] = useState<Subscription | null>(null);
   const [payments, setPayments] = useState<Payment[]>([]);
   const [loading, setLoading] = useState(true);
   const [selectedPlan, setSelectedPlan] = useState<typeof PLANS[0] | null>(null);
+  const [pixPayment, setPixPayment] = useState<PixPayment | null>(null);
+  const [copied, setCopied] = useState(false);
 
   useEffect(() => {
     const fetchData = async () => {
@@ -341,7 +350,7 @@ export default function BillingPage() {
 
       {/* Checkout Modal */}
       <AnimatePresence>
-        {selectedPlan && (
+        {(selectedPlan || pixPayment) && (
           <div className="fixed inset-0 z-[100] flex items-center justify-center p-4 bg-background/90 backdrop-blur-md">
             <motion.div
               initial={{ opacity: 0, scale: 0.98 }}
@@ -351,33 +360,102 @@ export default function BillingPage() {
             >
               <div className="absolute top-0 right-0 border-l border-b border-border">
                 <button
-                  onClick={() => setSelectedPlan(null)}
+                  onClick={() => { setSelectedPlan(null); setPixPayment(null); setCopied(false); }}
                   className="p-4 text-foreground hover:bg-foreground hover:text-background transition-all"
                 >
                   FECHAR
                 </button>
               </div>
 
-              <div className="p-8 border-b border-border">
-                <span className="data-label text-xs opacity-50">CHECKOUT</span>
-                <h3 className="font-sans text-xl font-medium uppercase tracking-tight mt-2">
-                  {selectedPlan.name} Plan
-                </h3>
-                <p className="font-mono text-sm text-muted-foreground mt-1 uppercase tracking-widest">
-                  R$ {selectedPlan.price} / mês
-                </p>
-              </div>
-
-              <div className="flex-1 overflow-y-auto p-6 bg-white">
-                <CheckoutBrick
-                  amount={parseFloat(selectedPlan.price.replace(",", "."))}
-                  description={`STATSEZ API - ${selectedPlan.name.toUpperCase()}`}
-                  planName={selectedPlan.id}
-                  onSuccess={(id) => {
-                    window.location.href = `/dashboard/welcome?payment_id=${id}`;
-                  }}
-                />
-              </div>
+              {pixPayment ? (
+                /* PIX QR Code Screen */
+                <>
+                  <div className="p-8 border-b border-border">
+                    <span className="data-label text-xs opacity-50">AGUARDANDO PAGAMENTO</span>
+                    <h3 className="font-sans text-xl font-medium uppercase tracking-tight mt-2">
+                      Pague via PIX
+                    </h3>
+                    <p className="font-mono text-sm text-muted-foreground mt-1 uppercase tracking-widest">
+                      Plano {pixPayment.planName} — R$ {selectedPlan?.price || ""}
+                    </p>
+                  </div>
+                  <div className="flex-1 overflow-y-auto p-8 flex flex-col items-center gap-6">
+                    {pixPayment.qr_code_base64 && (
+                      <img
+                        src={`data:image/png;base64,${pixPayment.qr_code_base64}`}
+                        alt="QR Code PIX"
+                        className="w-52 h-52 border border-border"
+                      />
+                    )}
+                    {pixPayment.qr_code && (
+                      <div className="w-full">
+                        <p className="font-mono text-xs text-muted-foreground uppercase tracking-widest mb-2 text-center">
+                          ou copie o código PIX
+                        </p>
+                        <div className="flex gap-2">
+                          <input
+                            readOnly
+                            value={pixPayment.qr_code}
+                            className="flex-1 font-mono text-xs border border-border p-3 bg-foreground/[0.02] truncate"
+                          />
+                          <button
+                            onClick={() => {
+                              navigator.clipboard.writeText(pixPayment.qr_code!);
+                              setCopied(true);
+                              setTimeout(() => setCopied(false), 2000);
+                            }}
+                            className="font-mono text-xs font-bold uppercase tracking-widest border border-border px-4 py-3 hover:bg-foreground hover:text-background transition-all whitespace-nowrap"
+                          >
+                            {copied ? "COPIADO" : "COPIAR"}
+                          </button>
+                        </div>
+                      </div>
+                    )}
+                    <p className="font-mono text-xs text-muted-foreground text-center uppercase tracking-widest">
+                      Após o pagamento, sua assinatura será ativada automaticamente.
+                      <br />Pode fechar esta janela.
+                    </p>
+                    <button
+                      onClick={() => window.location.reload()}
+                      className="font-mono text-xs font-bold uppercase tracking-[0.2em] border border-border px-8 py-4 hover:bg-foreground hover:text-background transition-all"
+                    >
+                      Verificar status
+                    </button>
+                  </div>
+                </>
+              ) : selectedPlan && (
+                /* Checkout Brick Screen */
+                <>
+                  <div className="p-8 border-b border-border">
+                    <span className="data-label text-xs opacity-50">CHECKOUT</span>
+                    <h3 className="font-sans text-xl font-medium uppercase tracking-tight mt-2">
+                      {selectedPlan.name} Plan
+                    </h3>
+                    <p className="font-mono text-sm text-muted-foreground mt-1 uppercase tracking-widest">
+                      R$ {selectedPlan.price} / mês
+                    </p>
+                  </div>
+                  <div className="flex-1 overflow-y-auto p-6 bg-white">
+                    <CheckoutBrick
+                      amount={parseFloat(selectedPlan.price.replace(",", "."))}
+                      description={`STATSEZ API - ${selectedPlan.name.toUpperCase()}`}
+                      planName={selectedPlan.id}
+                      onSuccess={(id, data) => {
+                        setPixPayment({
+                          id,
+                          qr_code: data?.qr_code || null,
+                          qr_code_base64: data?.qr_code_base64 || null,
+                          planName: selectedPlan.name,
+                        });
+                        setSelectedPlan(null);
+                      }}
+                      onError={(error) => {
+                        console.error("Erro no checkout:", error);
+                      }}
+                    />
+                  </div>
+                </>
+              )}
             </motion.div>
           </div>
         )}

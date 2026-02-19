@@ -148,11 +148,15 @@ app.post('/process', async (c) => {
       }
     });
 
+    const txData = (result as any).point_of_interaction?.transaction_data;
+
     return c.json({
       success: true,
       status: result.status,
       status_detail: result.status_detail,
       id: result.id,
+      qr_code: txData?.qr_code || null,
+      qr_code_base64: txData?.qr_code_base64 || null,
       subscription: subscription ? {
         planName: subscription.planName,
         apiKey: apiKey

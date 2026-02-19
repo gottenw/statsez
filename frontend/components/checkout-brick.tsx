@@ -10,7 +10,7 @@ interface CheckoutBrickProps {
   description: string;
   planName?: string;
   sport?: string;
-  onSuccess?: (id: string) => void;
+  onSuccess?: (id: string, data?: any) => void;
   onError?: (error: any) => void;
 }
 
@@ -78,7 +78,7 @@ export function CheckoutBrick({ amount, description, planName = "dev", sport = "
         .then((response) => response.json())
         .then((result) => {
           if (result.success) {
-            onSuccess?.(result.id);
+            onSuccess?.(result.id, result);
             resolve(result);
           } else {
             onError?.(result.error);
