@@ -58,7 +58,7 @@ curl -H "x-api-key: se_live_abc123" "https://api.statsez.com/v1/football/leagues
 ### 2. LIST FIXTURES / LISTAR PARTIDAS
 `GET /football/fixtures`
 - Params:
-  - `league` (optional) — league ID
+  - `league` (**required**) — league ID
   - `team` (optional) — team name
   - `round` (optional) — e.g. "Regular Season - 12"
   - `date` (optional) — YYYY-MM-DD (exact date)

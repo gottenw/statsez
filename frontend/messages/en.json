@@ -198,7 +198,15 @@
     "active": "Active",
     "inactive": "Inactive",
     "logout": "TERMINATE_SESSION",
-    "language": "LANG"
+    "language": "LANG",
+    "explorerWarning": "WARNING: Each request consumes 1 quota unit.",
+    "explorerAuth": "AUTHENTICATION",
+    "explorerApiKey": "API KEY",
+    "explorerParams": "PARAMETERS",
+    "explorerExecute": "EXECUTE",
+    "explorerResponse": "RESPONSE",
+    "explorerReady": "READY",
+    "explorerWaiting": "Awaiting execution..."
   },
   "languageSelector": {
     "pt": "Português",

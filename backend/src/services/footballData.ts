@@ -24,6 +24,7 @@ interface LeagueEntry {
   countryParam: string;
   leagueSlug: string;
   leagueParam: string;
+  currentSeason: string;
 }
 
 const leagueRegistry = new Map<string, LeagueEntry>();
@@ -73,21 +74,45 @@ async function buildRegistry(): Promise<void> {
         })
       );
 
+      const newEntries: { country: typeof countries[0]; countryParam: string; comp: { id: string; name: string; slug: string } }[] = [];
       for (const result of results) {
         if (result.status === 'fulfilled') {
           const { country, countryParam, competitions } = result.value;
           for (const comp of competitions) {
+            newEntries.push({ country, countryParam, comp });
+          }
+        }
+      }
+
+      // Batch-fetch seasons for all new entries
+      const SEASON_BATCH = 50;
+      for (let s = 0; s < newEntries.length; s += SEASON_BATCH) {
+        const seasonBatch = newEntries.slice(s, s + SEASON_BATCH);
+        const seasonResults = await Promise.allSettled(
+          seasonBatch.map(async (entry) => {
+            const leagueParam = `${entry.comp.slug}:${entry.comp.id}`;
+            const info = await sportdb.getSeasons(entry.countryParam, leagueParam);
+            const season = info.seasons && info.seasons.length > 0 ? info.seasons[0].season : '';
+            return { ...entry, leagueParam, season };
+          })
+        );
+
+        for (const sr of seasonResults) {
+          if (sr.status === 'fulfilled') {
+            const { country, countryParam, comp, leagueParam, season } = sr.value;
             leagueRegistry.set(comp.id, {
               id: comp.id,
               name: comp.name,
               countryName: country.name,
               countryParam,
               leagueSlug: comp.slug,
-              leagueParam: `${comp.slug}:${comp.id}`,
+              leagueParam,
+              currentSeason: season,
             });
           }
         }
       }
+
       console.log(`[Registry] Batch ${Math.floor(i / BATCH_SIZE) + 1}/${Math.ceil(countries.length / BATCH_SIZE)}: ${leagueRegistry.size} leagues`);
     }
 
@@ -107,10 +132,12 @@ async function buildRegistry(): Promise<void> {
 ensureRegistry().catch(() => {});
 
 async function resolveLeagueSeason(entry: LeagueEntry): Promise<string | null> {
+  if (entry.currentSeason) return entry.currentSeason;
   try {
     const info = await sportdb.getSeasons(entry.countryParam, entry.leagueParam);
     if (info.seasons && info.seasons.length > 0) {
-      return info.seasons[0].season;
+      entry.currentSeason = info.seasons[0].season;
+      return entry.currentSeason;
     }
     return null;
   } catch {
@@ -131,7 +158,7 @@ export async function getLeagues(): Promise<LeagueResponse[]> {
       id: entry.id,
       name: entry.name,
       country: entry.countryName,
-      season: '',
+      season: entry.currentSeason,
       slug: entry.leagueSlug,
     });
   }
@@ -150,7 +177,7 @@ export async function getLeaguesByCountry(country: string): Promise<LeagueRespon
         id: entry.id,
         name: entry.name,
         country: entry.countryName,
-        season: '',
+        season: entry.currentSeason,
         slug: entry.leagueSlug,
       });
     }

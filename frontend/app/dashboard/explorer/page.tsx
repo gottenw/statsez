@@ -1,63 +1,111 @@
 "use client";
 
-import { useState } from "react";
+import { useState, useEffect } from "react";
+import { useTranslations } from "next-intl";
 
-const endpoints = [
+interface EndpointParam {
+  name: string;
+  type: "path" | "query";
+  required: boolean;
+  placeholder: string;
+  defaultValue?: string;
+}
+
+interface Endpoint {
+  id: string;
+  path: string;
+  method: string;
+  description: string;
+  params: EndpointParam[];
+}
+
+const endpoints: Endpoint[] = [
   {
     id: "01_LEAGUES",
     path: "/v1/football/leagues",
     method: "GET",
-    description: "Listar todas as ligas suportadas"
+    description: "List all supported leagues",
+    params: [
+      { name: "country", type: "query", required: false, placeholder: "e.g. Brazil" },
+    ],
   },
   {
     id: "02_FIXTURES",
     path: "/v1/football/fixtures",
     method: "GET",
-    description: "Listar resultados e placares de partidas"
+    description: "Match results and scores",
+    params: [
+      { name: "league", type: "query", required: true, placeholder: "e.g. Yq4hUnzQ" },
+      { name: "team", type: "query", required: false, placeholder: "e.g. Palmeiras" },
+      { name: "round", type: "query", required: false, placeholder: "e.g. Round 1" },
+      { name: "dateFrom", type: "query", required: false, placeholder: "YYYY-MM-DD" },
+      { name: "dateTo", type: "query", required: false, placeholder: "YYYY-MM-DD" },
+    ],
   },
   {
     id: "03_STANDINGS",
     path: "/v1/football/standings",
-    params: "?league=england-premier-league-2025-2026",
     method: "GET",
-    description: "Tabela completa da liga"
+    description: "Full league table",
+    params: [
+      { name: "league", type: "query", required: true, placeholder: "e.g. Yq4hUnzQ" },
+    ],
   },
   {
     id: "04_STATS",
     path: "/v1/football/fixtures/{id}/stats",
     method: "GET",
-    description: "Estatísticas detalhadas da partida"
+    description: "Detailed match statistics (34+ metrics)",
+    params: [
+      { name: "id", type: "path", required: true, placeholder: "e.g. lbnqyVFq" },
+    ],
   },
   {
     id: "05_LINEUPS",
     path: "/v1/football/fixtures/{id}/lineups",
     method: "GET",
-    description: "Escalações e formações táticas"
+    description: "Formations and starting XI",
+    params: [
+      { name: "id", type: "path", required: true, placeholder: "e.g. lbnqyVFq" },
+    ],
   },
   {
     id: "06_EVENTS",
     path: "/v1/football/fixtures/{id}/events",
     method: "GET",
-    description: "Eventos da partida: gols, cartões, substituições"
+    description: "Goals, cards, substitutions",
+    params: [
+      { name: "id", type: "path", required: true, placeholder: "e.g. lbnqyVFq" },
+    ],
   },
   {
     id: "07_TEAMS",
     path: "/v1/football/teams",
-    params: "?league=england-premier-league-2025-2026",
     method: "GET",
-    description: "Listar times de uma competição"
+    description: "List teams in a league",
+    params: [
+      { name: "league", type: "query", required: true, placeholder: "e.g. Yq4hUnzQ" },
+      { name: "search", type: "query", required: false, placeholder: "e.g. Arsenal" },
+    ],
   },
   {
     id: "08_TEAM_FIXTURES",
     path: "/v1/football/teams/{teamName}/fixtures",
     method: "GET",
-    description: "Histórico de partidas de um time"
+    description: "Match history for a team",
+    params: [
+      { name: "teamName", type: "path", required: true, placeholder: "e.g. Liverpool" },
+      { name: "league", type: "query", required: true, placeholder: "e.g. Yq4hUnzQ" },
+    ],
   },
   {
     id: "09_LEAGUE_STATS",
     path: "/v1/football/leagues/{leagueId}/stats",
     method: "GET",
-    description: "Estatísticas agregadas da temporada"
+    description: "Aggregate season statistics",
+    params: [
+      { name: "leagueId", type: "path", required: true, placeholder: "e.g. Yq4hUnzQ" },
+    ],
   },
 ];
 
@@ -66,28 +114,63 @@ export default function ExplorerPage() {
   const [result, setResult] = useState<any>(null);
   const [loading, setLoading] = useState(false);
   const [apiKey, setApiKey] = useState("");
+  const [paramValues, setParamValues] = useState<Record<string, string>>({});
+  const t = useTranslations("dashboard");
+
+  useEffect(() => {
+    setParamValues({});
+  }, [selected.id]);
+
+  const buildUrl = () => {
+    let path = selected.path;
+
+    for (const param of selected.params) {
+      if (param.type === "path") {
+        const value = paramValues[param.name] || "";
+        path = path.replace(`{${param.name}}`, encodeURIComponent(value));
+      }
+    }
+
+    const queryParams = selected.params
+      .filter((p) => p.type === "query" && paramValues[p.name])
+      .map((p) => `${p.name}=${encodeURIComponent(paramValues[p.name])}`)
+      .join("&");
+
+    return `https://api.statsez.com${path}${queryParams ? `?${queryParams}` : ""}`;
+  };
 
   const runRequest = async () => {
     if (!apiKey) {
-      alert("ERRO: CHAVE_API_OBRIGATORIA");
+      alert("ERROR: API_KEY_REQUIRED");
       return;
     }
+
+    const missingRequired = selected.params.filter(
+      (p) => p.required && !paramValues[p.name]
+    );
+    if (missingRequired.length > 0) {
+      alert(`ERROR: MISSING_REQUIRED_PARAMS: ${missingRequired.map((p) => p.name).join(", ")}`);
+      return;
+    }
+
     setLoading(true);
-    setResult({ status: "CONECTANDO..." });
+    setResult({ status: "CONNECTING..." });
 
     try {
-      const url = `https://api.statsez.com${selected.path}${selected.params || ""}`;
+      const url = buildUrl();
       const res = await fetch(url, {
-        headers: { "x-api-key": apiKey }
+        headers: { "x-api-key": apiKey },
       });
       const data = await res.json();
       setResult(data);
     } catch (err) {
-      setResult({ error: "ERRO_DE_CONEXAO", details: "Verifique sua chave API." });
+      setResult({ error: "CONNECTION_ERROR", details: "Check your API key." });
     } finally {
       setLoading(false);
     }
   };
+
+  const displayUrl = buildUrl();
 
   return (
     <div className="min-h-screen bg-background">
@@ -103,7 +186,7 @@ export default function ExplorerPage() {
               <span className="text-muted">Explorer</span>
             </h2>
             <p className="font-mono text-sm text-red-500 mt-6 font-bold uppercase tracking-widest">
-              AVISO: Cada requisição consome 1 unidade da quota.
+              {t("explorerWarning")}
             </p>
           </div>
         </div>
@@ -113,13 +196,13 @@ export default function ExplorerPage() {
       <div className="section-padding py-16 border-b border-border">
         <div className="grid grid-cols-12 gap-8">
           <div className="col-span-12 md:col-span-3">
-            <span className="data-label">AUTENTICAÇÃO</span>
+            <span className="data-label">{t("explorerAuth")}</span>
           </div>
           <div className="col-span-12 md:col-span-9">
-            <span className="data-label text-xs opacity-50 block mb-4">CHAVE DE API</span>
+            <span className="data-label text-xs opacity-50 block mb-4">{t("explorerApiKey")}</span>
             <input
               type="password"
-              placeholder="COLE_SUA_CHAVE_AQUI"
+              placeholder="PASTE_YOUR_KEY_HERE"
               value={apiKey}
               onChange={(e) => setApiKey(e.target.value)}
               className="w-full bg-background border border-border p-5 font-mono text-base focus:border-foreground outline-none transition-all"
@@ -128,7 +211,7 @@ export default function ExplorerPage() {
         </div>
       </div>
 
-      {/* Endpoint Selection + Output */}
+      {/* Endpoint Selection + Params + Output */}
       <div className="section-padding py-24">
         <div className="grid grid-cols-12 gap-8">
           {/* Sidebar - Endpoints */}
@@ -151,13 +234,66 @@ export default function ExplorerPage() {
                   }`}
                 >
                   <p className="font-mono text-sm font-bold">{ep.id}</p>
-                  <p className={`font-mono text-xs mt-1 uppercase tracking-widest ${
-                    selected.id === ep.id ? "opacity-70" : "text-muted-foreground"
-                  }`}>
+                  <p
+                    className={`font-mono text-xs mt-1 uppercase tracking-widest ${
+                      selected.id === ep.id ? "opacity-70" : "text-muted-foreground"
+                    }`}
+                  >
                     {ep.path}
                   </p>
                 </button>
               ))}
+            </div>
+
+            {/* Parameters */}
+            {selected.params.length > 0 && (
+              <div className="border border-border">
+                <div className="p-4 border-b border-border bg-foreground/[0.02]">
+                  <span className="data-label text-xs tracking-[0.3em]">{t("explorerParams")}</span>
+                </div>
+                <div className="p-4 space-y-4">
+                  {selected.params.map((param) => (
+                    <div key={param.name}>
+                      <label className="flex items-center gap-2 mb-2">
+                        <span className="font-mono text-xs font-bold uppercase tracking-wider text-foreground">
+                          {param.name}
+                        </span>
+                        {param.required ? (
+                          <span className="text-[9px] font-mono font-bold text-red-500 uppercase tracking-widest">
+                            REQUIRED
+                          </span>
+                        ) : (
+                          <span className="text-[9px] font-mono text-muted-foreground uppercase tracking-widest">
+                            OPTIONAL
+                          </span>
+                        )}
+                      </label>
+                      <input
+                        type="text"
+                        placeholder={param.placeholder}
+                        value={paramValues[param.name] || ""}
+                        onChange={(e) =>
+                          setParamValues((prev) => ({
+                            ...prev,
+                            [param.name]: e.target.value,
+                          }))
+                        }
+                        className="w-full bg-background border border-border p-3 font-mono text-sm focus:border-foreground outline-none transition-all"
+                      />
+                    </div>
+                  ))}
+                </div>
+              </div>
+            )}
+
+            {/* URL Preview */}
+            <div className="border border-border p-4 bg-foreground/[0.02]">
+              <span className="data-label text-[9px] tracking-[0.3em] block mb-2 opacity-50">
+                REQUEST URL
+              </span>
+              <p className="font-mono text-xs text-foreground break-all leading-relaxed">
+                {displayUrl}
+              </p>
             </div>
 
             <button
@@ -165,16 +301,16 @@ export default function ExplorerPage() {
               disabled={loading}
               className="w-full font-mono text-xs font-bold uppercase tracking-[0.2em] border border-foreground bg-foreground text-background py-6 hover:bg-background hover:text-foreground transition-all disabled:opacity-50"
             >
-              {loading ? "PROCESSANDO..." : "EXECUTAR"}
+              {loading ? "PROCESSING..." : t("explorerExecute")}
             </button>
           </div>
 
           {/* Output */}
           <div className="col-span-12 lg:col-span-8 border border-border flex flex-col">
             <div className="p-6 border-b border-border flex justify-between items-center bg-foreground/[0.02]">
-              <span className="data-label text-xs tracking-[0.3em]">RESPOSTA</span>
+              <span className="data-label text-xs tracking-[0.3em]">{t("explorerResponse")}</span>
               <span className="font-mono text-xs font-bold border border-green-500/30 text-green-500 px-3 py-1 uppercase tracking-widest">
-                PRONTO
+                {t("explorerReady")}
               </span>
             </div>
             <div className="flex-1 p-8 overflow-auto max-h-[700px] bg-background">
@@ -185,7 +321,7 @@ export default function ExplorerPage() {
               ) : (
                 <div className="h-64 flex items-center justify-center border border-dashed border-border">
                   <span className="font-mono text-sm text-muted-foreground uppercase tracking-widest">
-                    Aguardando execução...
+                    {t("explorerWaiting")}
                   </span>
                 </div>
               )}

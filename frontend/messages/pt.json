@@ -178,7 +178,15 @@
     "active": "Ativo",
     "inactive": "Inativo",
     "logout": "ENCERRAR_SESSÃO",
-    "language": "IDIOMA"
+    "language": "IDIOMA",
+    "explorerWarning": "AVISO: Cada requisição consome 1 unidade da quota.",
+    "explorerAuth": "AUTENTICAÇÃO",
+    "explorerApiKey": "CHAVE DE API",
+    "explorerParams": "PARÂMETROS",
+    "explorerExecute": "EXECUTAR",
+    "explorerResponse": "RESPOSTA",
+    "explorerReady": "PRONTO",
+    "explorerWaiting": "Aguardando execução..."
   },
   "languageSelector": {
     "pt": "Português",

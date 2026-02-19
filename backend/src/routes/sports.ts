@@ -99,6 +99,10 @@ app.get('/:sport/fixtures', async (c) => {
     });
   }
 
+  if (!league) {
+    return c.json({ success: false, error: 'Parâmetro "league" é obrigatório para listar partidas' }, 400);
+  }
+
   const params = { date, league, team, round, dateFrom, dateTo };
   const ttl = parseInt(process.env.CACHE_TTL_FIXTURES || '3600');
 

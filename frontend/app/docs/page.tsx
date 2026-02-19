@@ -238,9 +238,11 @@ const endpoints = [
     path: "/v1/football/fixtures",
     description: "Get completed match list with final and partial scores.",
     params: [
-      { name: "league", type: "string", required: false, desc: "League ID" },
+      { name: "league", type: "string", required: true, desc: "League ID" },
       { name: "team", type: "string", required: false, desc: "Filter by team name" },
-      { name: "round", type: "string", required: false, desc: "Filter by round" }
+      { name: "round", type: "string", required: false, desc: "Filter by round" },
+      { name: "dateFrom", type: "string", required: false, desc: "Range start (YYYY-MM-DD)" },
+      { name: "dateTo", type: "string", required: false, desc: "Range end (YYYY-MM-DD)" }
     ],
     response: responseFormats.fixtures
   },
@@ -286,7 +288,10 @@ const endpoints = [
     method: "GET",
     path: "/v1/football/teams",
     description: "List all clubs available in a specific competition.",
-    params: [{ name: "league", type: "string", required: false, desc: "League ID" }],
+    params: [
+      { name: "league", type: "string", required: true, desc: "League ID" },
+      { name: "search", type: "string", required: false, desc: "Filter by team name" }
+    ],
     response: responseFormats.teams
   },
   {
@@ -295,7 +300,10 @@ const endpoints = [
     method: "GET",
     path: "/v1/football/teams/{teamName}/fixtures",
     description: "Full match history for a specific club.",
-    params: [{ name: "teamName", type: "string", required: true, desc: "Full team name" }],
+    params: [
+      { name: "teamName", type: "string", required: true, desc: "Full team name (path)" },
+      { name: "league", type: "string", required: true, desc: "League ID (query)" }
+    ],
     response: responseFormats.teamFixtures
   },
   {
@@ -382,13 +390,13 @@ const codeExamples = {
   },
   teamFixtures: {
     curl: `curl -H "x-api-key: YOUR_KEY" \\
-  "https://api.quantsports.com/v1/football/teams/Liverpool/fixtures"`,
-    js: `fetch('https://api.statsez.com/v1/football/teams/Liverpool/fixtures', {
+  "https://api.statsez.com/v1/football/teams/Liverpool/fixtures?league=Yq4hUnzQ"`,
+    js: `fetch('https://api.statsez.com/v1/football/teams/Liverpool/fixtures?league=Yq4hUnzQ', {
   headers: { 'x-api-key': 'YOUR_KEY' }
 })
 .then(res => res.json())
 .then(data => console.log(data.data.fixtures));`,
-    py: `import requests\n\nresponse = requests.get('https://api.statsez.com/v1/football/teams/Liverpool/fixtures', headers={'x-api-key': 'YOUR_KEY'})\nfixtures = response.json()['data']['fixtures']`
+    py: `import requests\n\nresponse = requests.get('https://api.statsez.com/v1/football/teams/Liverpool/fixtures', headers={'x-api-key': 'YOUR_KEY'}, params={'league': 'Yq4hUnzQ'})\nfixtures = response.json()['data']['fixtures']`
   },
   leagueStats: {
     curl: `curl -H "x-api-key: YOUR_KEY" \\
@@ -487,7 +495,7 @@ export default function DocsPage() {
             </div>
             <div className="flex flex-col gap-2">
               <span className="data-label text-foreground/50">RATE LIMIT</span>
-              <span className="font-mono text-sm">60 req/min</span>
+              <span className="font-mono text-sm">100 req/min</span>
             </div>
             <div className="flex flex-col gap-2">
               <span className="data-label text-foreground/50">RESPONSE</span>
