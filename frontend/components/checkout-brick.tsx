@@ -64,6 +64,8 @@ export function CheckoutBrick({ amount, description, planName = "dev", sport = "
           ...formData,
           description,
           external_reference: externalReference,
+          planName,
+          sport,
         }),
       })
         .then((response) => response.json())

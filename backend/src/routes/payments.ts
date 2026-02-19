@@ -5,6 +5,49 @@ import jwt from 'jsonwebtoken';
 
 const app = new Hono();
 
+// Função auxiliar para criar subscription
+async function createSubscriptionForUser(userId: string, planName: string, sport: string) {
+  const planConfigs: Record<string, { quota: number; price: number }> = {
+    dev: { quota: 40000, price: 79 },
+    enterprise: { quota: 250000, price: 349 },
+    gold: { quota: 600000, price: 699 },
+  };
+
+  const config = planConfigs[planName] || planConfigs.dev;
+  const now = new Date();
+  const expiresAt = new Date(now);
+  expiresAt.setDate(expiresAt.getDate() + 30);
+  const cycleEndDate = new Date(now);
+  cycleEndDate.setDate(cycleEndDate.getDate() + 15);
+
+  const subscription = await prisma.subscription.create({
+    data: {
+      userId,
+      sport: sport || 'football',
+      planName: planName || 'dev',
+      monthlyQuota: config.quota,
+      biWeeklyQuota: Math.floor(config.quota / 2),
+      startsAt: now,
+      expiresAt,
+      cycleStartDate: now,
+      cycleEndDate,
+      isActive: true,
+    }
+  });
+
+  const apiKey = `se_live_${Buffer.from(subscription.id + Date.now()).toString('base64url').slice(0, 32)}`;
+  await prisma.apiKey.create({
+    data: {
+      key: apiKey,
+      subscriptionId: subscription.id,
+      isActive: true
+    }
+  });
+
+  console.log(`✅ Subscription criada: ${subscription.id} para user ${userId}`);
+  return { subscription, apiKey };
+}
+
 app.post('/process', async (c) => {
   try {
     const authHeader = c.req.header('Authorization');
@@ -14,23 +57,20 @@ app.post('/process', async (c) => {
     if (token) {
       try {
         const decoded: any = jwt.verify(token, process.env.JWT_SECRET || 'secret');
-        // Verifica se o usuário realmente existe no banco
         const user = await prisma.user.findUnique({
           where: { id: decoded.userId },
           select: { id: true }
         });
         if (user) {
           userId = user.id;
-        } else {
-          console.warn('Usuário do token não encontrado no banco');
         }
       } catch (err) {
-        console.warn('Token de pagamento inválido');
+        console.warn('Token inválido');
       }
     }
 
     const body = await c.req.json();
-    console.log('Iniciando processamento de pagamento para usuário:', userId || 'NÃO_LOGADO');
+    console.log('[Payment] Processando para user:', userId || 'NÃO_LOGADO');
     
     const result = await processPayment({
       ...body,
@@ -39,30 +79,59 @@ app.post('/process', async (c) => {
         : `guest|${body.planName || 'dev'}|${body.sport || 'football'}`
     });
     
-    // Só salva no banco se tiver usuário válido
+    console.log('[Payment] Resultado MP:', { 
+      id: result.id, 
+      status: result.status, 
+      external_reference: result.external_reference 
+    });
+
+    let subscription = null;
+    let apiKey = null;
+
+    // Se o pagamento foi aprovado imediatamente, cria a subscription agora
+    if (result.status === 'approved' && userId) {
+      console.log('[Payment] Pagamento aprovado imediatamente, criando subscription...');
+      try {
+        const subResult = await createSubscriptionForUser(
+          userId, 
+          body.planName || 'dev', 
+          body.sport || 'football'
+        );
+        subscription = subResult.subscription;
+        apiKey = subResult.apiKey;
+      } catch (subErr: any) {
+        console.error('[Payment] Erro ao criar subscription:', subErr.message);
+      }
+    }
+
+    // Salva o pagamento no banco
     if (userId) {
       await prisma.payment.create({
         data: {
           amount: result.transaction_amount || 0,
-          status: result.status || 'pending',
+          status: result.status === 'approved' ? 'paid' : (result.status || 'pending'),
           provider: 'mercadopago',
           providerId: String(result.id),
-          subscriptionId: null,
+          subscriptionId: subscription?.id || null,
           userId: userId,
+          paidAt: result.status === 'approved' ? new Date() : null,
         }
       });
-    } else {
-      console.log('Pagamento processado sem salvar no banco (usuário não logado)');
+      console.log('[Payment] Pagamento salvo no banco');
     }
 
     return c.json({
       success: true,
       status: result.status,
       status_detail: result.status_detail,
-      id: result.id
+      id: result.id,
+      subscription: subscription ? {
+        planName: subscription.planName,
+        apiKey: apiKey
+      } : null
     });
   } catch (error: any) {
-    console.error('ERRO MERCADO PAGO:', error.message, error.stack);
+    console.error('[Payment] ERRO:', error.message);
     return c.json({
       success: false,
       error: error.message
@@ -75,26 +144,39 @@ app.post('/webhook', async (c) => {
     const query = c.req.query();
     const body = await c.req.json();
 
+    console.log('[Webhook] Recebido:', { query, body });
+
     const topic = query.type || body.type;
     const id = query['data.id'] || (body.data && body.data.id);
 
     if (topic === 'payment' && id) {
+      console.log('[Webhook] Buscando pagamento:', id);
       const paymentData = await getPayment(id);
+      console.log('[Webhook] Dados do MP:', { 
+        id: paymentData.id, 
+        status: paymentData.status,
+        external_reference: paymentData.external_reference 
+      });
       
       // Atualiza o pagamento local (se existir)
-      await prisma.payment.updateMany({
+      const updateResult = await prisma.payment.updateMany({
         where: { providerId: String(id) },
         data: {
           status: paymentData.status === 'approved' ? 'paid' : paymentData.status,
           paidAt: paymentData.status === 'approved' ? new Date() : null,
         }
       });
+      console.log('[Webhook] Pagamentos atualizados:', updateResult.count);
 
-      // Se foi aprovado e tem external_reference, cria a subscription
+      // Se foi aprovado e tem external_reference
       if (paymentData.status === 'approved' && paymentData.external_reference) {
-        const [userId, planName, sport] = paymentData.external_reference.split('|');
+        const parts = paymentData.external_reference.split('|');
+        const userId = parts[0];
+        const planName = parts[1] || 'dev';
+        const sport = parts[2] || 'football';
         
-        // Só cria subscription se for usuário logado (não guest)
+        console.log('[Webhook] Processando para user:', userId);
+        
         if (userId && userId !== 'guest' && userId !== 'anonymous') {
           // Verifica se o usuário existe
           const user = await prisma.user.findUnique({
@@ -102,67 +184,37 @@ app.post('/webhook', async (c) => {
           });
 
           if (user) {
-            // Verifica se já tem subscription ativa
+            // Verifica se já tem subscription (pode ter sido criada no /process)
             const existingSub = await prisma.subscription.findFirst({
-              where: { userId, isActive: true }
+              where: { 
+                userId, 
+                isActive: true,
+                planName: planName
+              }
             });
 
             if (!existingSub) {
-              const planConfigs: Record<string, { quota: number; price: number }> = {
-                dev: { quota: 40000, price: 79 },
-                enterprise: { quota: 250000, price: 349 },
-                gold: { quota: 600000, price: 699 },
-              };
-
-              const config = planConfigs[planName] || planConfigs.dev;
-              const now = new Date();
-              const expiresAt = new Date(now);
-              expiresAt.setDate(expiresAt.getDate() + 30);
-              const cycleEndDate = new Date(now);
-              cycleEndDate.setDate(cycleEndDate.getDate() + 15);
-
-              const subscription = await prisma.subscription.create({
-                data: {
-                  userId,
-                  sport: sport || 'football',
-                  planName: planName || 'dev',
-                  monthlyQuota: config.quota,
-                  biWeeklyQuota: Math.floor(config.quota / 2),
-                  startsAt: now,
-                  expiresAt,
-                  cycleStartDate: now,
-                  cycleEndDate,
-                  isActive: true,
-                }
-              });
-
-              const apiKey = `se_live_${Buffer.from(subscription.id + Date.now()).toString('base64url').slice(0, 32)}`;
-              await prisma.apiKey.create({
-                data: {
-                  key: apiKey,
-                  subscriptionId: subscription.id,
-                  isActive: true
-                }
-              });
+              console.log('[Webhook] Criando subscription via webhook...');
+              const { subscription } = await createSubscriptionForUser(userId, planName, sport);
 
               // Atualiza o pagamento com o subscriptionId
               await prisma.payment.updateMany({
                 where: { providerId: String(id) },
                 data: { subscriptionId: subscription.id }
               });
-
-              console.log(`✅ Assinatura ${subscription.id} criada via webhook`);
+            } else {
+              console.log('[Webhook] Subscription já existe:', existingSub.id);
             }
           } else {
-            console.warn(`Usuário ${userId} não encontrado ao criar subscription`);
+            console.warn('[Webhook] Usuário não encontrado:', userId);
           }
         }
       }
     }
 
     return c.json({ received: true }, 200);
-  } catch (error) {
-    console.error('Erro no Webhook:', error);
+  } catch (error: any) {
+    console.error('[Webhook] ERRO:', error.message);
     return c.json({ received: true }, 200);
   }
 });
