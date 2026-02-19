@@ -95,8 +95,9 @@ const port = parseInt(process.env.PORT || '3001')
 
 serve({
   fetch: app.fetch,
-  port
+  port,
+  hostname: '0.0.0.0'
 }, (info) => {
-  console.log(`🚀 Servidor rodando em http://localhost:${info.port}`)
+  console.log(`🚀 Servidor rodando em http://0.0.0.0:${info.port}`)
   console.log(`📚 Ambiente: ${process.env.NODE_ENV || 'development'}`)
 })
