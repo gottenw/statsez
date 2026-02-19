@@ -35,7 +35,6 @@ export default function ApiKeysPage() {
       const data = await getApiKeys();
       if (data.success) {
         setKeys(data.data);
-        console.log("[Keys] Chaves carregadas:", data.data);
       } else {
         setError(data.error || "Erro ao carregar chaves");
       }
@@ -55,7 +54,7 @@ export default function ApiKeysPage() {
     try {
       const apiUrl = process.env.NEXT_PUBLIC_API_URL || "https://api.statsez.com";
       const token = localStorage.getItem("statsez_token");
-      
+
       const res = await fetch(`${apiUrl}/user/keys/generate`, {
         method: "POST",
         headers: {
@@ -63,9 +62,9 @@ export default function ApiKeysPage() {
           "Authorization": `Bearer ${token}`
         }
       });
-      
+
       const data = await res.json();
-      
+
       if (data.success) {
         await fetchKeys();
       } else {
@@ -117,10 +116,12 @@ export default function ApiKeysPage() {
 
   if (loading) {
     return (
-      <div className="p-8 md:p-12 max-w-6xl mx-auto">
-        <div className="animate-pulse space-y-6">
-          <div className="h-20 bg-foreground/5 border border-border" />
-          <div className="h-40 bg-foreground/5 border border-border" />
+      <div className="min-h-screen bg-background">
+        <div className="section-padding py-24">
+          <div className="animate-pulse space-y-4">
+            <div className="h-8 bg-foreground/5 w-32" />
+            <div className="h-16 bg-foreground/5 w-96" />
+          </div>
         </div>
       </div>
     );
@@ -128,167 +129,208 @@ export default function ApiKeysPage() {
 
   if (error) {
     return (
-      <div className="p-8 md:p-12 max-w-6xl mx-auto">
-        <div className="border border-red-500/30 bg-red-500/5 p-8 text-center">
-          <p className="text-lg text-red-500">{error}</p>
-          <button
-            onClick={fetchKeys}
-            className="mt-4 text-base border border-border px-4 py-2 hover:bg-foreground hover:text-background transition-all"
-          >
-            Tentar Novamente
-          </button>
+      <div className="min-h-screen bg-background">
+        <div className="section-padding py-24 border-b border-border">
+          <div className="grid grid-cols-12 gap-8">
+            <div className="col-span-12 md:col-span-4">
+              <span className="data-label tracking-[0.3em]">API KEYS</span>
+            </div>
+            <div className="col-span-12 md:col-span-8">
+              <h2 className="headline-text">
+                Chaves de<br />
+                <span className="text-muted">Acesso</span>
+              </h2>
+            </div>
+          </div>
+        </div>
+        <div className="section-padding py-24">
+          <div className="border border-red-500/30 bg-red-500/5 p-12 text-center">
+            <p className="font-mono text-lg text-red-500 uppercase tracking-widest">{error}</p>
+            <button
+              onClick={fetchKeys}
+              className="mt-6 font-mono text-xs font-bold uppercase tracking-[0.2em] border border-border px-10 py-5 hover:bg-foreground hover:text-background transition-all"
+            >
+              Tentar Novamente
+            </button>
+          </div>
         </div>
       </div>
     );
   }
 
-  // Se não houver chaves, mostra opção para criar
   if (keys.length === 0) {
     return (
-      <div className="p-8 md:p-12 max-w-6xl mx-auto space-y-12">
-        <header className="border-b border-border pb-8">
-          <span className="text-base uppercase tracking-[0.2em] text-muted-foreground">
-            Autenticação
-          </span>
-          <h1 className="text-3xl font-medium uppercase mt-2 tracking-tight">
-            Chaves de API
-          </h1>
-          <p className="text-base text-muted-foreground mt-4 max-w-2xl">
-            Gerencie suas chaves de acesso à API.
-          </p>
-        </header>
+      <div className="min-h-screen bg-background">
+        {/* Header */}
+        <div className="section-padding py-24 border-b border-border">
+          <div className="grid grid-cols-12 gap-8">
+            <div className="col-span-12 md:col-span-4">
+              <span className="data-label tracking-[0.3em]">API KEYS</span>
+            </div>
+            <div className="col-span-12 md:col-span-8">
+              <h2 className="headline-text">
+                Chaves de<br />
+                <span className="text-muted">Acesso</span>
+              </h2>
+            </div>
+          </div>
+        </div>
 
-        <div className="border border-border p-12 text-center">
-          <p className="text-xl uppercase tracking-tight mb-4">Nenhuma Chave Encontrada</p>
-          <p className="text-base text-muted-foreground mb-8">
-            Você ainda não possui uma chave de API. Gere uma agora para começar a usar a API.
-          </p>
-          <button
-            onClick={handleGenerateKey}
-            disabled={generating}
-            className="text-base uppercase border border-foreground bg-foreground text-background px-8 py-4 hover:bg-background hover:text-foreground transition-all disabled:opacity-50"
-          >
-            {generating ? "Gerando..." : "Gerar Minha Chave API"}
-          </button>
+        <div className="section-padding py-24">
+          <div className="border border-border p-12 text-center">
+            <p className="font-sans text-xl font-medium uppercase tracking-tight mb-4">Nenhuma Chave Encontrada</p>
+            <p className="font-mono text-sm text-muted-foreground uppercase tracking-widest mb-8">
+              Você ainda não possui uma chave de API. Gere uma agora para começar.
+            </p>
+            <button
+              onClick={handleGenerateKey}
+              disabled={generating}
+              className="font-mono text-xs font-bold uppercase tracking-[0.2em] border border-foreground bg-foreground text-background px-10 py-5 hover:bg-background hover:text-foreground transition-all disabled:opacity-50"
+            >
+              {generating ? "GERANDO..." : "GERAR MINHA CHAVE API"}
+            </button>
+          </div>
         </div>
       </div>
     );
   }
 
   return (
-    <div className="p-8 md:p-12 max-w-6xl mx-auto space-y-12">
-      <header className="border-b border-border pb-8">
-        <span className="text-base uppercase tracking-[0.2em] text-muted-foreground">
-          Autenticação
-        </span>
-        <h1 className="text-3xl font-medium uppercase mt-2 tracking-tight">
-          Chaves de API
-        </h1>
-        <p className="text-base text-muted-foreground mt-4 max-w-2xl">
-          Estas credenciais permitem acesso aos dados da API. Nunca exponha estas chaves em código client-side ou repositórios públicos.
-        </p>
-      </header>
+    <div className="min-h-screen bg-background">
+      {/* Header */}
+      <div className="section-padding py-24 border-b border-border">
+        <div className="grid grid-cols-12 gap-8">
+          <div className="col-span-12 md:col-span-4">
+            <span className="data-label tracking-[0.3em]">API KEYS</span>
+          </div>
+          <div className="col-span-12 md:col-span-8">
+            <h2 className="headline-text">
+              Chaves de<br />
+              <span className="text-muted">Acesso</span>
+            </h2>
+            <p className="font-mono text-sm text-muted-foreground mt-6 uppercase tracking-widest max-w-2xl">
+              Estas credenciais permitem acesso aos dados da API. Nunca exponha estas chaves em código client-side ou repositórios públicos.
+            </p>
+          </div>
+        </div>
+      </div>
 
-      <div className="space-y-6">
-        {keys.map((key, index) => {
-          const daysRemaining = getDaysRemaining(key.subscription.expiresAt);
-          const usagePercent = (key.subscription.currentUsage / key.subscription.biWeeklyQuota) * 100;
+      {/* Keys List */}
+      <div className="section-padding py-24 border-b border-border">
+        <div className="space-y-8">
+          {keys.map((key, index) => {
+            const daysRemaining = getDaysRemaining(key.subscription.expiresAt);
+            const usagePercent = (key.subscription.currentUsage / key.subscription.biWeeklyQuota) * 100;
 
-          return (
-            <motion.div
-              key={key.id}
-              initial={{ opacity: 0, y: 20 }}
-              animate={{ opacity: 1, y: 0 }}
-              transition={{ delay: index * 0.1 }}
-              className="border border-border bg-background overflow-hidden"
-            >
-              {/* Header */}
-              <div className="p-6 border-b border-border bg-foreground/[0.02] flex items-center justify-between">
-                <div>
-                  <h3 className="text-xl uppercase tracking-tight">
-                    {key.subscription.sport} — {key.subscription.planName}
-                  </h3>
-                  <p className="text-base text-muted-foreground mt-1">
-                    Criada em {formatDate(key.createdAt)}
-                  </p>
-                </div>
-                <div className="text-right">
-                  <span className={`text-base ${daysRemaining < 7 ? "text-red-500" : "text-green-500"}`}>
-                    {daysRemaining} dias restantes
-                  </span>
-                </div>
-              </div>
-
-              {/* Key Display */}
-              <div className="p-6 border-b border-border">
-                <label className="text-base uppercase text-muted-foreground tracking-widest">
-                  Chave de API
-                </label>
-                <div className="mt-2 flex gap-2">
-                  <div className="flex-1 bg-foreground/[0.03] border border-border p-4 text-base font-mono truncate">
-                    {showKey === key.id ? key.key : "•".repeat(40)}
+            return (
+              <motion.div
+                key={key.id}
+                initial={{ opacity: 0 }}
+                animate={{ opacity: 1 }}
+                transition={{ duration: 0.8, delay: index * 0.1 }}
+                className="border border-border overflow-hidden"
+              >
+                {/* Key Header */}
+                <div className="grid grid-cols-12 gap-8 p-8 border-b border-border bg-foreground/[0.02]">
+                  <div className="col-span-12 md:col-span-1">
+                    <span className="font-mono text-xl text-muted">
+                      0{index + 1}
+                    </span>
                   </div>
-                  <button
-                    onClick={() => setShowKey(showKey === key.id ? null : key.id)}
-                    className="px-4 border border-border hover:bg-foreground hover:text-background transition-all text-base"
-                  >
-                    {showKey === key.id ? "Ocultar" : "Mostrar"}
-                  </button>
-                  <button
-                    onClick={() => copyToClipboard(key.key, key.id)}
-                    className="px-4 border border-border hover:bg-foreground hover:text-background transition-all text-base"
-                  >
-                    {copied === key.id ? "Copiado!" : "Copiar"}
-                  </button>
+                  <div className="col-span-12 md:col-span-5">
+                    <h3 className="font-sans text-2xl font-medium tracking-tight uppercase">
+                      {key.subscription.sport} — {key.subscription.planName}
+                    </h3>
+                    <p className="font-mono text-sm text-muted-foreground mt-1 uppercase tracking-widest">
+                      Criada em {formatDate(key.createdAt)}
+                    </p>
+                  </div>
+                  <div className="col-span-12 md:col-span-3">
+                    <span className="data-label text-xs opacity-50">EXPIRA EM</span>
+                    <p className={`font-mono text-3xl font-medium tracking-tighter mt-2 ${
+                      daysRemaining < 7 ? "text-red-500" : ""
+                    }`}>
+                      {daysRemaining}
+                    </p>
+                    <p className="font-mono text-sm text-muted-foreground uppercase tracking-widest">dias</p>
+                  </div>
+                  <div className="col-span-12 md:col-span-3">
+                    <span className="data-label text-xs opacity-50">STATUS</span>
+                    <p className={`font-mono text-3xl font-medium tracking-tighter mt-2 ${
+                      key.isActive ? "text-green-500" : "text-red-500"
+                    }`}>
+                      {key.isActive ? "Ativa" : "Inativa"}
+                    </p>
+                  </div>
                 </div>
-              </div>
 
-              {/* Usage Stats */}
-              <div className="p-6 border-b border-border">
-                <div className="flex justify-between items-center mb-2">
-                  <span className="text-base uppercase text-muted-foreground">
-                    Uso Quinzenal
-                  </span>
-                  <span className="text-base">
-                    {key.subscription.currentUsage.toLocaleString()} / {key.subscription.biWeeklyQuota.toLocaleString()}
-                  </span>
+                {/* Key Display */}
+                <div className="p-8 border-b border-border">
+                  <span className="data-label text-xs opacity-50 block mb-4">CHAVE DE API</span>
+                  <div className="flex gap-2">
+                    <div className="flex-1 bg-foreground/[0.02] border border-border p-5 font-mono text-base truncate">
+                      {showKey === key.id ? key.key : "•".repeat(40)}
+                    </div>
+                    <button
+                      onClick={() => setShowKey(showKey === key.id ? null : key.id)}
+                      className="font-mono text-xs font-bold uppercase tracking-[0.2em] px-6 border border-border hover:bg-foreground hover:text-background transition-all"
+                    >
+                      {showKey === key.id ? "OCULTAR" : "MOSTRAR"}
+                    </button>
+                    <button
+                      onClick={() => copyToClipboard(key.key, key.id)}
+                      className="font-mono text-xs font-bold uppercase tracking-[0.2em] px-6 border border-border hover:bg-foreground hover:text-background transition-all"
+                    >
+                      {copied === key.id ? "COPIADO!" : "COPIAR"}
+                    </button>
+                  </div>
                 </div>
-                <div className="h-3 bg-foreground/10 overflow-hidden">
-                  <motion.div
-                    initial={{ width: 0 }}
-                    animate={{ width: `${Math.min(usagePercent, 100)}%` }}
-                    className={`h-full ${usagePercent > 90 ? "bg-red-500" : usagePercent > 70 ? "bg-yellow-500" : "bg-green-500"}`}
-                  />
-                </div>
-              </div>
 
-              {/* Actions */}
-              <div className="p-6 bg-foreground/[0.02] flex justify-between items-center">
-                <div className="text-base text-muted-foreground">
-                  Status: {key.isActive ? "Ativa" : "Inativa"}
+                {/* Usage */}
+                <div className="p-8 border-b border-border">
+                  <div className="flex justify-between items-center mb-2">
+                    <span className="font-mono text-xs uppercase tracking-widest text-muted-foreground">
+                      Uso Quinzenal
+                    </span>
+                    <span className="font-mono text-xs uppercase tracking-widest">
+                      {key.subscription.currentUsage.toLocaleString()} / {key.subscription.biWeeklyQuota.toLocaleString()} — {Math.round(usagePercent)}%
+                    </span>
+                  </div>
+                  <div className="h-2 bg-foreground/10 overflow-hidden">
+                    <motion.div
+                      initial={{ width: 0 }}
+                      animate={{ width: `${Math.min(usagePercent, 100)}%` }}
+                      className={`h-full ${usagePercent > 90 ? "bg-red-500" : usagePercent > 70 ? "bg-yellow-500" : "bg-foreground"}`}
+                      transition={{ duration: 1, delay: 0.5 }}
+                    />
+                  </div>
                 </div>
-                <button
-                  onClick={() => handleRotate(key.subscriptionId)}
-                  disabled={rotating === key.subscriptionId}
-                  className="text-base uppercase text-red-500 border border-red-500/30 px-4 py-2 hover:bg-red-500 hover:text-white transition-all disabled:opacity-50"
-                >
-                  {rotating === key.subscriptionId ? "Rotacionando..." : "Rotacionar Chave"}
-                </button>
-              </div>
-            </motion.div>
-          );
-        })}
+
+                {/* Actions */}
+                <div className="p-8 bg-foreground/[0.02] flex justify-end">
+                  <button
+                    onClick={() => handleRotate(key.subscriptionId)}
+                    disabled={rotating === key.subscriptionId}
+                    className="font-mono text-xs font-bold uppercase tracking-[0.2em] border border-red-500/30 text-red-500 px-10 py-5 hover:bg-red-500 hover:text-white transition-all disabled:opacity-50"
+                  >
+                    {rotating === key.subscriptionId ? "ROTACIONANDO..." : "ROTACIONAR CHAVE"}
+                  </button>
+                </div>
+              </motion.div>
+            );
+          })}
+        </div>
       </div>
 
       {/* Security Warning */}
-      <div className="p-6 border border-yellow-500/30 bg-yellow-500/5">
-        <h4 className="text-base uppercase tracking-widest text-yellow-500">
-          Aviso de Segurança
-        </h4>
-        <p className="text-base text-muted-foreground mt-2 leading-relaxed">
-          A rotação invalida imediatamente a chave atual. Todas as requisições usando a chave antiga 
-          retornarão erro 403. Somente rotacione se suspeitar de vazamento de credenciais.
-        </p>
+      <div className="section-padding py-16">
+        <div className="p-8 border border-yellow-500/30 bg-yellow-500/5">
+          <span className="data-label text-xs tracking-[0.3em] text-yellow-500 block mb-4">AVISO DE SEGURANÇA</span>
+          <p className="font-mono text-sm text-muted-foreground uppercase tracking-widest leading-relaxed">
+            A rotação invalida imediatamente a chave atual. Todas as requisições usando a chave antiga
+            retornarão erro 403. Somente rotacione se suspeitar de vazamento de credenciais.
+          </p>
+        </div>
       </div>
     </div>
   );

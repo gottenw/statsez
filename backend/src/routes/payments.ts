@@ -20,6 +20,12 @@ async function createSubscriptionForUser(userId: string, planName: string, sport
   const cycleEndDate = new Date(now);
   cycleEndDate.setDate(cycleEndDate.getDate() + 15);
 
+  // Desativa todas as subscriptions anteriores do usuário
+  await prisma.subscription.updateMany({
+    where: { userId, isActive: true },
+    data: { isActive: false }
+  });
+
   const subscription = await prisma.subscription.create({
     data: {
       userId,
