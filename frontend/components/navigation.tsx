@@ -42,8 +42,8 @@ export function Navigation() {
           }`}
         >
           <div className="section-padding py-4 flex justify-between items-center">
-            <a href="/" className="text-lg font-medium tracking-tight">
-              SE
+            <a href="/" className="flex items-center">
+              <img src="/logo.svg" alt="Statsez" className="h-5 invert" />
             </a>
 
             <div className="hidden md:flex items-center gap-8">

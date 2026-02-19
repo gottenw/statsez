@@ -12,9 +12,9 @@ export function Footer() {
       <div className="section-padding">
         <div className="grid grid-cols-12 gap-8 py-24">
           <div className="col-span-12 md:col-span-6">
-            <h2 className="headline-text text-foreground mb-6">
-              <ScrambleText text="STATSEZ" />
-            </h2>
+            <div className="mb-6">
+              <img src="/logo.svg" alt="Statsez" className="h-8 invert" />
+            </div>
             <p className="text-muted-foreground max-w-md leading-relaxed">
               {t("description")}
             </p>

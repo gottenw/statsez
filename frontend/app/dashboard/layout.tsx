@@ -33,8 +33,9 @@ export default function DashboardLayout({ children }: { children: React.ReactNod
       {/* Sidebar */}
       <aside className="w-full md:w-72 border-r border-border flex flex-col bg-background z-20">
         <div className="p-10 border-b border-border">
-          <a href="/" className="font-sans text-2xl font-medium tracking-tight uppercase">
-            Statsez <span className="text-muted opacity-30">API</span>
+          <a href="/" className="flex items-center gap-3">
+            <img src="/logo.svg" alt="Statsez" className="h-5 invert" />
+            <span className="text-muted opacity-30 font-mono text-xs tracking-widest">API</span>
           </a>
         </div>
 
