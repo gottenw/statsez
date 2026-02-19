@@ -66,29 +66,31 @@ export function Pricing() {
     <section id="pricing" className="min-h-screen w-full bg-background border-t border-border">
       {/* Modal de Checkout */}
       {selectedPlan && (
-        <div className="fixed inset-0 z-[100] flex items-center justify-center p-4 bg-background/80 backdrop-blur-sm">
-          <div className="relative w-full max-w-2xl bg-background border border-border shadow-2xl overflow-y-auto max-h-[90vh]">
+        <div className="fixed inset-0 z-[100] flex items-center justify-center p-4 bg-background/90 backdrop-blur-md">
+          <div className="relative w-full max-w-2xl bg-white border border-border shadow-2xl overflow-hidden flex flex-col max-h-[95vh]">
             <button 
               onClick={() => setSelectedPlan(null)}
-              className="absolute top-4 right-4 p-2 text-muted-foreground hover:text-foreground z-10"
+              className="absolute top-4 right-4 p-2 text-zinc-400 hover:text-black z-[110] transition-colors"
             >
-              <X size={20} />
+              <X size={24} />
             </button>
             
-            <div className="p-8 border-b border-border">
-              <span className="data-label">CHECKOUT</span>
-              <h3 className="font-sans text-2xl font-medium mt-2 uppercase">
+            <div className="p-8 border-b border-border bg-zinc-50">
+              <span className="data-label text-zinc-500">SECURE CHECKOUT</span>
+              <h3 className="font-sans text-2xl font-medium mt-2 uppercase text-black">
                 {t(`plans.${selectedPlan.key}.name`)} — R$ {selectedPlan.price}
               </h3>
+              <p className="text-sm text-zinc-500 mt-1 uppercase tracking-wider font-mono">
+                Statsez Data Access • Monthly Subscription
+              </p>
             </div>
 
-            <div className="p-4 bg-white">
+            <div className="flex-1 overflow-y-auto p-2 md:p-6 bg-white">
               <CheckoutBrick 
                 amount={parseFloat(selectedPlan.price.replace(".", "").replace(",", "."))}
-                description={`Assinatura Statsez API - Plano ${selectedPlan.key.toUpperCase()}`}
+                description={`Statsez API - ${selectedPlan.key.toUpperCase()}`}
                 onSuccess={(id) => {
-                  console.log("Pagamento aprovado:", id);
-                  window.location.href = "/dashboard/welcome";
+                  window.location.href = `/dashboard/welcome?payment_id=${id}`;
                 }}
               />
             </div>
@@ -100,7 +102,7 @@ export function Pricing() {
       <div className="section-padding py-24 border-b border-border">
         <div className="grid grid-cols-12 gap-8">
           <div className="col-span-12 md:col-span-4">
-            <span className="data-label">PRICING STRUCTURE</span>
+            <span className="data-label tracking-[0.3em]">BILLING MODELS</span>
           </div>
           <div className="col-span-12 md:col-span-8">
             <h2 className="headline-text text-foreground">
@@ -115,7 +117,7 @@ export function Pricing() {
         </div>
       </div>
 
-      {/* Plans Grid */}
+      {/* Plans List */}
       <div className="section-padding">
         {plans.map((plan, index) => (
           <PlanRow 
@@ -130,15 +132,7 @@ export function Pricing() {
   );
 }
 
-function PlanRow({ 
-  plan, 
-  index, 
-  onSelect 
-}: { 
-  plan: typeof plans[0], 
-  index: number,
-  onSelect: () => void
-}) {
+function PlanRow({ plan, index, onSelect }: { plan: typeof plans[0], index: number, onSelect: () => void }) {
   const t = useTranslations("pricing");
   const ref = useRef(null);
   const isInView = useInView(ref, { once: true, margin: "-50px" });
@@ -149,18 +143,16 @@ function PlanRow({
       initial={{ opacity: 0 }}
       animate={isInView ? { opacity: 1 } : { opacity: 0 }}
       transition={{ duration: 0.8, delay: index * 0.1 }}
-      className={`grid grid-cols-12 gap-8 py-12 border-b border-border group cursor-default transition-colors duration-500 ${
-        plan.featured ? "bg-foreground/5" : "hover:bg-foreground/[0.02]"
+      className={`grid grid-cols-12 gap-8 py-12 border-b border-border group cursor-default transition-all duration-500 ${
+        plan.featured ? "bg-foreground/[0.03]" : "hover:bg-foreground/[0.01]"
       }`}
     >
-      {/* Column 1: Index */}
       <div className="col-span-12 md:col-span-1">
         <span className="font-mono text-xl text-muted group-hover:text-foreground transition-colors duration-500">
           {plan.id}
         </span>
       </div>
 
-      {/* Column 2: Plan Info */}
       <div className="col-span-12 md:col-span-3">
         <h3 className="font-sans text-2xl font-medium tracking-tight uppercase">
           {t(`plans.${plan.key}.name`)}
@@ -170,16 +162,15 @@ function PlanRow({
             </span>
           )}
         </h3>
-        <p className="text-sm text-muted-foreground mt-2 max-w-[200px]">
+        <p className="text-sm text-muted-foreground mt-2 max-w-[240px]">
           {t(`plans.${plan.key}.desc`)}
         </p>
       </div>
 
-      {/* Column 3: Volume Metrics */}
       <div className="col-span-12 md:col-span-4">
         <div className="grid grid-cols-2 gap-8">
           <div className="space-y-2">
-            <span className="data-label text-[10px]">
+            <span className="data-label text-[10px] opacity-50">
               {plan.isTotal ? t("features.totalRequests") : t("features.requests")}
             </span>
             <div className="flex items-baseline gap-1">
@@ -189,7 +180,7 @@ function PlanRow({
             </div>
           </div>
           <div className="space-y-2">
-            <span className="data-label text-[10px]">{t("features.biweeklyQuota")}</span>
+            <span className="data-label text-[10px] opacity-50">{t("features.biweeklyQuota")}</span>
             <div className="flex items-baseline gap-1">
               <span className="font-mono text-3xl font-medium tracking-tighter text-muted">
                 {plan.biweekly}
@@ -199,10 +190,9 @@ function PlanRow({
         </div>
       </div>
 
-      {/* Column 4: Pricing */}
       <div className="col-span-12 md:col-span-2">
         <div className="space-y-2">
-          <span className="data-label text-[10px]">MONTHLY</span>
+          <span className="data-label text-[10px] opacity-50">INVESTMENT</span>
           <div className="flex items-baseline gap-1">
             <span className="font-mono text-3xl font-medium tracking-tighter">
               R$ {plan.price}
@@ -214,11 +204,10 @@ function PlanRow({
         </div>
       </div>
 
-      {/* Column 5: CTA */}
       <div className="col-span-12 md:col-span-2 flex items-center justify-end">
         <button 
           onClick={onSelect}
-          className="w-full md:w-auto font-mono text-[10px] font-bold uppercase tracking-[0.2em] border border-border px-8 py-4 hover:bg-foreground hover:text-background transition-all duration-500 whitespace-nowrap"
+          className="w-full md:w-auto font-mono text-[10px] font-bold uppercase tracking-[0.2em] border border-border px-10 py-5 hover:bg-foreground hover:text-background transition-all duration-500 whitespace-nowrap bg-background"
         >
           {plan.key === "free" ? t("freeCta") : t("cta")}
         </button>
