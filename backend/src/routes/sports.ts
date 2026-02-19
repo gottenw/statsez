@@ -8,9 +8,19 @@ const app = new Hono();
 
 
 
-const TTL_PERMANENT = 315360000; 
-const TTL_DAILY = 86400;         
-const TTL_HOUR = 3600;           
+const TTL_PERMANENT = 315360000; // ~10 years (match stats, lineups, events — never change)
+const TTL_DAILY = 86400;         // 24h (current season standings, leagues)
+
+// Past season = data never changes = permanent cache
+// Current/no season = data still updating = daily cache
+function seasonAwareTTL(season?: string): number {
+  if (!season) return TTL_DAILY;
+  const currentYear = new Date().getFullYear();
+  const parts = season.split('-');
+  const lastYear = parseInt(parts[parts.length - 1]);
+  if (!isNaN(lastYear) && lastYear < currentYear) return TTL_PERMANENT;
+  return TTL_DAILY;
+}
 
 
 
@@ -104,7 +114,7 @@ app.get('/:sport/fixtures', async (c) => {
   }
 
   const params = { date, league, team, round, dateFrom, dateTo, season };
-  const ttl = parseInt(process.env.CACHE_TTL_FIXTURES || '3600');
+  const ttl = seasonAwareTTL(season);
 
 
   const cached = await getCache(sport, 'fixtures', params);
@@ -234,7 +244,7 @@ app.get('/:sport/standings', async (c) => {
   }
 
   const params = { league, season };
-  const ttl = TTL_DAILY;
+  const ttl = seasonAwareTTL(season);
 
 
   const cached = await getCache(sport, 'standings', params);
@@ -303,7 +313,7 @@ app.get('/:sport/teams', async (c) => {
   }
 
   const params = { league, search, season };
-  const ttl = parseInt(process.env.CACHE_TTL_STATISTICS || '86400');
+  const ttl = seasonAwareTTL(season);
 
 
   const cached = await getCache(sport, 'teams', params);
@@ -370,7 +380,7 @@ app.get('/:sport/teams/:teamName/fixtures', async (c) => {
   }
 
   const params = { teamName, league, season };
-  const ttl = parseInt(process.env.CACHE_TTL_FIXTURES || '3600');
+  const ttl = seasonAwareTTL(season);
 
 
   const cached = await getCache(sport, 'team-fixtures', params);
@@ -641,7 +651,7 @@ app.get('/:sport/leagues/:leagueId/stats', async (c) => {
   }
 
   const params = { leagueId, season };
-  const ttl = parseInt(process.env.CACHE_TTL_STATISTICS || '7200');
+  const ttl = seasonAwareTTL(season);
 
 
   const cached = await getCache(sport, 'league-stats', params);

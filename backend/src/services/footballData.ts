@@ -55,6 +55,50 @@ function indexFixtures(results: import('../types/sportdb.js').MatchResult[], lea
   }
 }
 
+// ============================================
+// SHARED RESULTS CACHE
+// In-memory cache for getAllResults() output
+// Prevents duplicate pagination across endpoints
+// (fixtures, teams, team-fixtures, league-stats
+//  all share the same raw results)
+// ============================================
+
+interface CachedResults {
+  results: import('../types/sportdb.js').MatchResult[];
+  fetchedAt: number;
+}
+
+const RESULTS_TTL_CURRENT = 86400_000;  // 24h for current season
+const resultsCache = new Map<string, CachedResults>();
+
+function isSeasonPast(season: string): boolean {
+  const currentYear = new Date().getFullYear();
+  const parts = season.split('-');
+  const lastYear = parseInt(parts[parts.length - 1]);
+  return !isNaN(lastYear) && lastYear < currentYear;
+}
+
+async function getCachedResults(entry: LeagueEntry, season: string): Promise<import('../types/sportdb.js').MatchResult[]> {
+  const key = `${entry.id}:${season}`;
+  const cached = resultsCache.get(key);
+
+  if (cached) {
+    // Past season = never expires in memory
+    if (isSeasonPast(season)) return cached.results;
+    // Current season = 24h TTL
+    if ((Date.now() - cached.fetchedAt) < RESULTS_TTL_CURRENT) return cached.results;
+  }
+
+  const results = await sportdb.getAllResults(entry.countryParam, entry.leagueParam, season);
+
+  resultsCache.set(key, { results, fetchedAt: Date.now() });
+
+  // Also populate fixture index
+  indexFixtures(results, entry.name, entry.countryName);
+
+  return results;
+}
+
 async function ensureRegistry(): Promise<void> {
   if (registryBuilt) return;
   if (registryBuilding) {
@@ -287,10 +331,7 @@ export async function getFixturesByLeague(
   const season = await resolveLeagueSeason(entry, options?.season);
   if (!season) return null;
 
-  const results = await sportdb.getAllResults(entry.countryParam, entry.leagueParam, season);
-
-  // Populate fixture index for later getFixtureById lookups
-  indexFixtures(results, entry.name, entry.countryName);
+  const results = await getCachedResults(entry, season);
 
   let fixtures = results.map(convertMatchResult);
 
@@ -349,11 +390,11 @@ export async function getFixtureById(matchId: string): Promise<{
   stats: Record<string, [string, string]>;
 } | null> {
   try {
-    // Fetch match info and stats in parallel
-    const [matchInfo, stats] = await Promise.all([
-      sportdb.getMatchInfo(matchId),
-      sportdb.getMatchStats(matchId),
-    ]);
+    // Check fixture index first (0 upstream calls if hit)
+    const indexed = fixtureIndex.get(matchId);
+
+    // Only fetch stats (1 call). Skip getMatchInfo if index has fixture data.
+    const stats = await sportdb.getMatchStats(matchId);
 
     const statsMap: Record<string, [string, string]> = {};
     if (stats.length > 0) {
@@ -364,11 +405,6 @@ export async function getFixtureById(matchId: string): Promise<{
       }
     }
 
-    // If no info and no stats, match doesn't exist
-    if (!matchInfo && stats.length === 0) return null;
-
-    // Check fixture index first (populated when league results are fetched)
-    const indexed = fixtureIndex.get(matchId);
     if (indexed) {
       return {
         fixture: indexed.fixture,
@@ -378,7 +414,11 @@ export async function getFixtureById(matchId: string): Promise<{
       };
     }
 
-    // Fallback: use /info endpoint (has scores + timestamp, but no team names)
+    // No index hit — fetch /info as fallback (1 extra call)
+    const matchInfo = await sportdb.getMatchInfo(matchId);
+
+    if (!matchInfo && stats.length === 0) return null;
+
     const eventStartTime = matchInfo?.eventStartTime
       ? new Date(parseInt(matchInfo.eventStartTime as string) * 1000).toISOString()
       : '';
@@ -422,7 +462,7 @@ export async function getTeams(leagueId?: string, seasonParam?: string): Promise
   const season = await resolveLeagueSeason(entry, seasonParam);
   if (!season) return [];
 
-  const results = await sportdb.getAllResults(entry.countryParam, entry.leagueParam, season);
+  const results = await getCachedResults(entry, season);
   const teams = new Map<string, TeamResponse>();
 
   for (const match of results) {
@@ -450,10 +490,7 @@ export async function getTeamFixtures(teamName: string, leagueId?: string, seaso
   const season = await resolveLeagueSeason(entry, seasonParam);
   if (!season) return [];
 
-  const results = await sportdb.getAllResults(entry.countryParam, entry.leagueParam, season);
-
-  // Populate fixture index
-  indexFixtures(results, entry.name, entry.countryName);
+  const results = await getCachedResults(entry, season);
 
   const teamLower = teamName.toLowerCase();
 
@@ -588,7 +625,7 @@ export async function getLeagueStats(leagueId: string, seasonParam?: string): Pr
   const season = await resolveLeagueSeason(entry, seasonParam);
   if (!season) return null;
 
-  const results = await sportdb.getAllResults(entry.countryParam, entry.leagueParam, season);
+  const results = await getCachedResults(entry, season);
   if (results.length === 0) return null;
 
   let totalGoals = 0;
