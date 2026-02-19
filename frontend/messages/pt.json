@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "title": "Quantsports API — Dados de Futebol",
+    "title": "Statsez API — Dados de Futebol",
     "description": "Dados históricos de futebol de 500+ ligas mundiais. Resultados, estatísticas e classificações de partidas finalizadas."
   },
   "nav": {
@@ -107,7 +107,7 @@
     "product": "PRODUTO",
     "resources": "RECURSOS",
     "contact": "CONTATO",
-    "copyright": "© 2026 Quantsports",
+    "copyright": "© 2026 Statsez",
     "version": "v2.4.0",
     "status": "Todos os sistemas operacionais",
     "language": "IDIOMA",

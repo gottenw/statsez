@@ -9,5 +9,5 @@ sleep 1
 rm -rf .next
 rm -rf node_modules/.cache
 
-echo "🚀 Iniciando Quantsports API..."
+echo "🚀 Iniciando Statsez API..."
 npm run dev

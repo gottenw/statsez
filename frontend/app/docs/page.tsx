@@ -313,93 +313,93 @@ const endpoints = [
 const codeExamples = {
   leagues: {
     curl: `curl -H "x-api-key: YOUR_KEY" \\
-  "https://api.quantsports.com/v1/football/leagues"`,
-    js: `fetch('https://api.quantsports.com/v1/football/leagues', {
+  "https://api.statsez.com/v1/football/leagues"`,
+    js: `fetch('https://api.statsez.com/v1/football/leagues', {
   headers: { 'x-api-key': 'YOUR_KEY' }
 })
 .then(res => res.json())
 .then(data => console.log(data.data.leagues));`,
-    py: `import requests\n\nresponse = requests.get('https://api.quantsports.com/v1/football/leagues', headers={'x-api-key': 'YOUR_KEY'})\nleagues = response.json()['data']['leagues']`
+    py: `import requests\n\nresponse = requests.get('https://api.statsez.com/v1/football/leagues', headers={'x-api-key': 'YOUR_KEY'})\nleagues = response.json()['data']['leagues']`
   },
   fixtures: {
     curl: `curl -H "x-api-key: YOUR_KEY" \\
-  "https://api.quantsports.com/v1/football/fixtures?league=england-premier-league-2025-2026"`,
-    js: `fetch('https://api.quantsports.com/v1/football/fixtures?league=england-premier-league-2025-2026', {
+  "https://api.statsez.com/v1/football/fixtures?league=england-premier-league-2025-2026"`,
+    js: `fetch('https://api.statsez.com/v1/football/fixtures?league=england-premier-league-2025-2026', {
   headers: { 'x-api-key': 'YOUR_KEY' }
 })
 .then(res => res.json())
 .then(data => console.log(data.data.fixtures));`,
-    py: `import requests\n\nresponse = requests.get('https://api.quantsports.com/v1/football/fixtures', headers={'x-api-key': 'YOUR_KEY'}, params={'league': 'england-premier-league-2025-2026'})\nfixtures = response.json()['data']['fixtures']`
+    py: `import requests\n\nresponse = requests.get('https://api.statsez.com/v1/football/fixtures', headers={'x-api-key': 'YOUR_KEY'}, params={'league': 'england-premier-league-2025-2026'})\nfixtures = response.json()['data']['fixtures']`
   },
   standings: {
     curl: `curl -H "x-api-key: YOUR_KEY" \\
-  "https://api.quantsports.com/v1/football/standings?league=england-premier-league-2025-2026"`,
-    js: `fetch('https://api.quantsports.com/v1/football/standings?league=england-premier-league-2025-2026', {
+  "https://api.statsez.com/v1/football/standings?league=england-premier-league-2025-2026"`,
+    js: `fetch('https://api.statsez.com/v1/football/standings?league=england-premier-league-2025-2026', {
   headers: { 'x-api-key': 'YOUR_KEY' }
 })
 .then(res => res.json())
 .then(data => console.log(data.data.standings));`,
-    py: `import requests\n\nresponse = requests.get('https://api.quantsports.com/v1/football/standings', headers={'x-api-key': 'YOUR_KEY'}, params={'league': 'england-premier-league-2025-2026'})\nstandings = response.json()['data']['standings']`
+    py: `import requests\n\nresponse = requests.get('https://api.statsez.com/v1/football/standings', headers={'x-api-key': 'YOUR_KEY'}, params={'league': 'england-premier-league-2025-2026'})\nstandings = response.json()['data']['standings']`
   },
   stats: {
     curl: `curl -H "x-api-key: YOUR_KEY" \\
-  "https://api.quantsports.com/v1/football/fixtures/lbnqyVFq/stats"`,
-    js: `fetch('https://api.quantsports.com/v1/football/fixtures/lbnqyVFq/stats', {
+  "https://api.statsez.com/v1/football/fixtures/lbnqyVFq/stats"`,
+    js: `fetch('https://api.statsez.com/v1/football/fixtures/lbnqyVFq/stats', {
   headers: { 'x-api-key': 'YOUR_KEY' }
 })
 .then(res => res.json())
 .then(data => console.log(data.data.periods));`,
-    py: `import requests\n\nresponse = requests.get('https://api.quantsports.com/v1/football/fixtures/lbnqyVFq/stats', headers={'x-api-key': 'YOUR_KEY'})\nstats = response.json()['data']['periods']`
+    py: `import requests\n\nresponse = requests.get('https://api.statsez.com/v1/football/fixtures/lbnqyVFq/stats', headers={'x-api-key': 'YOUR_KEY'})\nstats = response.json()['data']['periods']`
   },
   lineups: {
     curl: `curl -H "x-api-key: YOUR_KEY" \\
-  "https://api.quantsports.com/v1/football/fixtures/lbnqyVFq/lineups"`,
-    js: `fetch('https://api.quantsports.com/v1/football/fixtures/lbnqyVFq/lineups', {
+  "https://api.statsez.com/v1/football/fixtures/lbnqyVFq/lineups"`,
+    js: `fetch('https://api.statsez.com/v1/football/fixtures/lbnqyVFq/lineups', {
   headers: { 'x-api-key': 'YOUR_KEY' }
 })
 .then(res => res.json())
 .then(data => console.log(data.data.home.players));`,
-    py: `import requests\n\nresponse = requests.get('https://api.quantsports.com/v1/football/fixtures/lbnqyVFq/lineups', headers={'x-api-key': 'YOUR_KEY'})\nlineups = response.json()['data']`
+    py: `import requests\n\nresponse = requests.get('https://api.statsez.com/v1/football/fixtures/lbnqyVFq/lineups', headers={'x-api-key': 'YOUR_KEY'})\nlineups = response.json()['data']`
   },
   events: {
     curl: `curl -H "x-api-key: YOUR_KEY" \\
-  "https://api.quantsports.com/v1/football/fixtures/lbnqyVFq/events"`,
-    js: `fetch('https://api.quantsports.com/v1/football/fixtures/lbnqyVFq/events', {
+  "https://api.statsez.com/v1/football/fixtures/lbnqyVFq/events"`,
+    js: `fetch('https://api.statsez.com/v1/football/fixtures/lbnqyVFq/events', {
   headers: { 'x-api-key': 'YOUR_KEY' }
 })
 .then(res => res.json())
 .then(data => console.log(data.data.events));`,
-    py: `import requests\n\nresponse = requests.get('https://api.quantsports.com/v1/football/fixtures/lbnqyVFq/events', headers={'x-api-key': 'YOUR_KEY'})\nevents = response.json()['data']['events']`
+    py: `import requests\n\nresponse = requests.get('https://api.statsez.com/v1/football/fixtures/lbnqyVFq/events', headers={'x-api-key': 'YOUR_KEY'})\nevents = response.json()['data']['events']`
   },
   teams: {
     curl: `curl -H "x-api-key: YOUR_KEY" \\
-  "https://api.quantsports.com/v1/football/teams?league=england-premier-league-2025-2026"`,
-    js: `fetch('https://api.quantsports.com/v1/football/teams?league=england-premier-league-2025-2026', {
+  "https://api.statsez.com/v1/football/teams?league=england-premier-league-2025-2026"`,
+    js: `fetch('https://api.statsez.com/v1/football/teams?league=england-premier-league-2025-2026', {
   headers: { 'x-api-key': 'YOUR_KEY' }
 })
 .then(res => res.json())
 .then(data => console.log(data.data.teams));`,
-    py: `import requests\n\nresponse = requests.get('https://api.quantsports.com/v1/football/teams', headers={'x-api-key': 'YOUR_KEY'}, params={'league': 'england-premier-league-2025-2026'})\nteams = response.json()['data']['teams']`
+    py: `import requests\n\nresponse = requests.get('https://api.statsez.com/v1/football/teams', headers={'x-api-key': 'YOUR_KEY'}, params={'league': 'england-premier-league-2025-2026'})\nteams = response.json()['data']['teams']`
   },
   teamFixtures: {
     curl: `curl -H "x-api-key: YOUR_KEY" \\
-  "https://api.quantsports.com/v1/football/teams/Liverpool/fixtures"`,
-    js: `fetch('https://api.quantsports.com/v1/football/teams/Liverpool/fixtures', {
+  "https://api.statsez.com/v1/football/teams/Liverpool/fixtures"`,
+    js: `fetch('https://api.statsez.com/v1/football/teams/Liverpool/fixtures', {
   headers: { 'x-api-key': 'YOUR_KEY' }
 })
 .then(res => res.json())
 .then(data => console.log(data.data.fixtures));`,
-    py: `import requests\n\nresponse = requests.get('https://api.quantsports.com/v1/football/teams/Liverpool/fixtures', headers={'x-api-key': 'YOUR_KEY'})\nfixtures = response.json()['data']['fixtures']`
+    py: `import requests\n\nresponse = requests.get('https://api.statsez.com/v1/football/teams/Liverpool/fixtures', headers={'x-api-key': 'YOUR_KEY'})\nfixtures = response.json()['data']['fixtures']`
   },
   leagueStats: {
     curl: `curl -H "x-api-key: YOUR_KEY" \\
-  "https://api.quantsports.com/v1/football/leagues/england-premier-league-2025-2026/stats"`,
-    js: `fetch('https://api.quantsports.com/v1/football/leagues/england-premier-league-2025-2026/stats', {
+  "https://api.statsez.com/v1/football/leagues/england-premier-league-2025-2026/stats"`,
+    js: `fetch('https://api.statsez.com/v1/football/leagues/england-premier-league-2025-2026/stats', {
   headers: { 'x-api-key': 'YOUR_KEY' }
 })
 .then(res => res.json())
 .then(data => console.log(data.data.stats));`,
-    py: `import requests\n\nresponse = requests.get('https://api.quantsports.com/v1/football/leagues/england-premier-league-2025-2026/stats', headers={'x-api-key': 'YOUR_KEY'})\nstats = response.json()['data']['stats']`
+    py: `import requests\n\nresponse = requests.get('https://api.statsez.com/v1/football/leagues/england-premier-league-2025-2026/stats', headers={'x-api-key': 'YOUR_KEY'})\nstats = response.json()['data']['stats']`
   }
 };
 
@@ -480,7 +480,7 @@ export default function DocsPage() {
           >
             <div className="flex flex-col gap-2">
               <span className="data-label">BASE URL</span>
-              <span className="font-mono text-sm">api.quantsports.com/v1</span>
+              <span className="font-mono text-sm">api.statsez.com/v1</span>
             </div>
             <div className="flex flex-col gap-2">
               <span className="data-label">AUTH</span>

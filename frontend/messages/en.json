@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "title": "Quantsports API — Football Data",
+    "title": "Statsez API — Football Data",
     "description": "Historical football data from 500+ leagues worldwide. Results, statistics and standings from completed matches."
   },
   "nav": {
@@ -107,7 +107,7 @@
     "product": "PRODUCT",
     "resources": "RESOURCES",
     "contact": "CONTACT",
-    "copyright": "© 2026 Quantsports",
+    "copyright": "© 2026 Statsez",
     "version": "v2.4.0",
     "status": "All systems operational",
     "language": "LANGUAGE",

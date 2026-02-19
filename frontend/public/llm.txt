@@ -1,10 +1,10 @@
-# Quantsports API - Referência para LLMs
+# Statsez API - Referência para LLMs
 
 ## Visão Geral
-A Quantsports API fornece dados históricos de futebol de mais de 500 ligas mundiais. Focada em análise estatística e histórico, a API NÃO fornece dados em tempo real (livescore). Todos os dados são consolidados pós-partida.
+A Statsez API fornece dados históricos de futebol de mais de 500 ligas mundiais. Focada em análise estatística e histórico, a API NÃO fornece dados em tempo real (livescore). Todos os dados são consolidados pós-partida.
 
 ## Configurações Base
-- **URL Base:** `https://api.quantsports.com/v1`
+- **URL Base:** `https://api.statsez.com/v1`
 - **Autenticação:** Header `x-api-key: sua_chave_aqui`
 - **Formato:** JSON (UTF-8)
 - **Rate Limit:** 60 req/min por chave.
@@ -74,6 +74,6 @@ Todas as respostas de sucesso incluem o objeto `meta`:
 - **Partidas:** 2.4M+ registros.
 
 ## Contato e Suporte
-- **Documentação Web:** https://quantsports.com/docs
-- **Status da API:** https://status.quantsports.com
-- **Suporte Técnico:** dev@quantsports.com
+- **Documentação Web:** https://statsez.com/docs
+- **Status da API:** https://status.statsez.com
+- **Suporte Técnico:** dev@statsez.com

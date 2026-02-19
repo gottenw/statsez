@@ -35,7 +35,7 @@ export function Hero() {
         {}
         <div className="flex justify-between items-start">
           <div className="flex flex-col gap-1">
-            <span className="data-label">QUANTSPORTS API</span>
+            <span className="data-label">STATSEZ API</span>
             <span className="data-value text-muted-foreground">{t("version")}</span>
           </div>
           <div className="flex gap-12 text-right">

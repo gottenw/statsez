@@ -41,7 +41,7 @@ export function Navigation() {
         >
           <div className="section-padding py-4 flex justify-between items-center">
             <a href="/" className="font-sans text-lg font-medium tracking-tight">
-              QS
+              SE
             </a>
 
             <div className="hidden md:flex items-center gap-8">

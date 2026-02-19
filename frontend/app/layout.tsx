@@ -20,7 +20,7 @@ const jetbrainsMono = JetBrains_Mono({
 
 export async function generateMetadata(): Promise<Metadata> {
   return {
-    title: "Quantsports API — Dados de Futebol",
+    title: "Statsez API — Dados de Futebol",
     description: "Dados históricos de futebol de 500+ ligas mundiais. Resultados, estatísticas e classificações de partidas finalizadas.",
   };
 }

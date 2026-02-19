@@ -15,7 +15,7 @@ export function Footer() {
           {}
           <div className="col-span-12 md:col-span-6">
             <h2 className="headline-text text-foreground mb-6">
-              <ScrambleText text="QUANTSPORTS" />
+              <ScrambleText text="STATSEZ" />
             </h2>
             <p className="text-muted-foreground max-w-md leading-relaxed">
               {t("description")}
