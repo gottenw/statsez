@@ -138,7 +138,8 @@ async function buildRegistry(): Promise<void> {
 // Start building in background on module load
 ensureRegistry().catch(() => {});
 
-async function resolveLeagueSeason(entry: LeagueEntry): Promise<string | null> {
+async function resolveLeagueSeason(entry: LeagueEntry, explicitSeason?: string): Promise<string | null> {
+  if (explicitSeason) return explicitSeason;
   if (entry.currentSeason) return entry.currentSeason;
   try {
     const info = await sportdb.getSeasons(entry.countryParam, entry.leagueParam);
@@ -147,6 +148,28 @@ async function resolveLeagueSeason(entry: LeagueEntry): Promise<string | null> {
       return entry.currentSeason;
     }
     return null;
+  } catch {
+    return null;
+  }
+}
+
+// ============================================
+// LEAGUE SEASONS
+// ============================================
+
+export async function getLeagueSeasons(leagueId: string): Promise<{
+  league: string;
+  country: string;
+  seasons: string[];
+} | null> {
+  await ensureRegistry();
+  const entry = leagueRegistry.get(leagueId);
+  if (!entry) return null;
+
+  try {
+    const info = await sportdb.getSeasons(entry.countryParam, entry.leagueParam);
+    const seasons = info.seasons?.map((s: { season: string }) => s.season) || [];
+    return { league: entry.name, country: entry.countryName, seasons };
   } catch {
     return null;
   }
@@ -230,13 +253,14 @@ export async function getFixturesByLeague(
     team?: string;
     dateFrom?: string;
     dateTo?: string;
+    season?: string;
   }
 ): Promise<{ league: string; fixtures: FixtureResponse[] } | null> {
   await ensureRegistry();
   const entry = leagueRegistry.get(leagueId);
   if (!entry) return null;
 
-  const season = await resolveLeagueSeason(entry);
+  const season = await resolveLeagueSeason(entry, options?.season);
   if (!season) return null;
 
   const results = await sportdb.getAllResults(entry.countryParam, entry.leagueParam, season);
@@ -329,14 +353,14 @@ export async function getFixtureById(matchId: string): Promise<{
 // TEAMS
 // ============================================
 
-export async function getTeams(leagueId?: string): Promise<TeamResponse[]> {
+export async function getTeams(leagueId?: string, seasonParam?: string): Promise<TeamResponse[]> {
   if (!leagueId) return [];
 
   await ensureRegistry();
   const entry = leagueRegistry.get(leagueId);
   if (!entry) return [];
 
-  const season = await resolveLeagueSeason(entry);
+  const season = await resolveLeagueSeason(entry, seasonParam);
   if (!season) return [];
 
   const results = await sportdb.getAllResults(entry.countryParam, entry.leagueParam, season);
@@ -353,7 +377,7 @@ export async function getTeams(leagueId?: string): Promise<TeamResponse[]> {
   return Array.from(teams.values());
 }
 
-export async function getTeamFixtures(teamName: string, leagueId?: string): Promise<Array<{
+export async function getTeamFixtures(teamName: string, leagueId?: string, seasonParam?: string): Promise<Array<{
   league: string;
   country: string;
   fixture: FixtureResponse;
@@ -364,7 +388,7 @@ export async function getTeamFixtures(teamName: string, leagueId?: string): Prom
   const entry = leagueRegistry.get(leagueId);
   if (!entry) return [];
 
-  const season = await resolveLeagueSeason(entry);
+  const season = await resolveLeagueSeason(entry, seasonParam);
   if (!season) return [];
 
   const results = await sportdb.getAllResults(entry.countryParam, entry.leagueParam, season);
@@ -388,7 +412,7 @@ export async function getTeamFixtures(teamName: string, leagueId?: string): Prom
 // STANDINGS (via sportsdb.dev direct endpoint)
 // ============================================
 
-export async function getStandings(leagueId: string): Promise<{
+export async function getStandings(leagueId: string, seasonParam?: string): Promise<{
   league: string;
   country: string;
   season: string;
@@ -410,7 +434,7 @@ export async function getStandings(leagueId: string): Promise<{
   const entry = leagueRegistry.get(leagueId);
   if (!entry) return null;
 
-  const season = await resolveLeagueSeason(entry);
+  const season = await resolveLeagueSeason(entry, seasonParam);
   if (!season) return null;
 
   const data = await sportdb.getStandings(entry.countryParam, entry.leagueParam, season);
@@ -483,7 +507,7 @@ export async function getMatchLineups(matchId: string): Promise<LineupsResponse 
 // LEAGUE STATS (computed from results)
 // ============================================
 
-export async function getLeagueStats(leagueId: string): Promise<{
+export async function getLeagueStats(leagueId: string, seasonParam?: string): Promise<{
   league: string;
   stats: {
     totalMatches: number;
@@ -498,7 +522,7 @@ export async function getLeagueStats(leagueId: string): Promise<{
   const entry = leagueRegistry.get(leagueId);
   if (!entry) return null;
 
-  const season = await resolveLeagueSeason(entry);
+  const season = await resolveLeagueSeason(entry, seasonParam);
   if (!season) return null;
 
   const results = await sportdb.getAllResults(entry.countryParam, entry.leagueParam, season);

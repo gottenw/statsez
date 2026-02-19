@@ -36,6 +36,7 @@ const endpoints: Endpoint[] = [
     description: "Match results and scores",
     params: [
       { name: "league", type: "query", required: true, placeholder: "e.g. Yq4hUnzQ" },
+      { name: "season", type: "query", required: false, placeholder: "e.g. 2024-2025" },
       { name: "team", type: "query", required: false, placeholder: "e.g. Palmeiras" },
       { name: "round", type: "query", required: false, placeholder: "e.g. Round 1" },
       { name: "dateFrom", type: "query", required: false, placeholder: "YYYY-MM-DD" },
@@ -49,6 +50,7 @@ const endpoints: Endpoint[] = [
     description: "Full league table",
     params: [
       { name: "league", type: "query", required: true, placeholder: "e.g. Yq4hUnzQ" },
+      { name: "season", type: "query", required: false, placeholder: "e.g. 2024-2025" },
     ],
   },
   {
@@ -85,6 +87,7 @@ const endpoints: Endpoint[] = [
     description: "List teams in a league",
     params: [
       { name: "league", type: "query", required: true, placeholder: "e.g. Yq4hUnzQ" },
+      { name: "season", type: "query", required: false, placeholder: "e.g. 2024-2025" },
       { name: "search", type: "query", required: false, placeholder: "e.g. Arsenal" },
     ],
   },
@@ -96,15 +99,26 @@ const endpoints: Endpoint[] = [
     params: [
       { name: "teamName", type: "path", required: true, placeholder: "e.g. Liverpool" },
       { name: "league", type: "query", required: true, placeholder: "e.g. Yq4hUnzQ" },
+      { name: "season", type: "query", required: false, placeholder: "e.g. 2024-2025" },
     ],
   },
   {
-    id: "09_LEAGUE_STATS",
+    id: "09_LEAGUE_SEASONS",
+    path: "/v1/football/leagues/{leagueId}/seasons",
+    method: "GET",
+    description: "List available seasons for a league",
+    params: [
+      { name: "leagueId", type: "path", required: true, placeholder: "e.g. Yq4hUnzQ" },
+    ],
+  },
+  {
+    id: "10_LEAGUE_STATS",
     path: "/v1/football/leagues/{leagueId}/stats",
     method: "GET",
     description: "Aggregate season statistics",
     params: [
       { name: "leagueId", type: "path", required: true, placeholder: "e.g. Yq4hUnzQ" },
+      { name: "season", type: "query", required: false, placeholder: "e.g. 2024-2025" },
     ],
   },
 ];

@@ -218,6 +218,14 @@ const responseFormats = {
       "league": "Premier League",
       "stats": { "totalMatches": 253, "totalGoals": 708, "avgGoalsPerMatch": 2.8, "homeWins": 110, "awayWins": 77, "draws": 66 }
     }
+  },
+  leagueSeasons: {
+    "success": true,
+    "data": {
+      "league": "Premier League",
+      "country": "England",
+      "seasons": ["2025-2026", "2024-2025", "2023-2024", "2022-2023", "2021-2022", "2020-2021", "2019-2020", "2018-2019", "2017-2018", "2016-2017"]
+    }
   }
 };
 
@@ -239,6 +247,7 @@ const endpoints = [
     description: "Get completed match list with final and partial scores.",
     params: [
       { name: "league", type: "string", required: true, desc: "League ID" },
+      { name: "season", type: "string", required: false, desc: "Season (e.g. 2024-2025). Defaults to current." },
       { name: "team", type: "string", required: false, desc: "Filter by team name" },
       { name: "round", type: "string", required: false, desc: "Filter by round" },
       { name: "dateFrom", type: "string", required: false, desc: "Range start (YYYY-MM-DD)" },
@@ -252,7 +261,10 @@ const endpoints = [
     method: "GET",
     path: "/v1/football/standings",
     description: "Full league table including points, goals, and difference.",
-    params: [{ name: "league", type: "string", required: true, desc: "League ID" }],
+    params: [
+      { name: "league", type: "string", required: true, desc: "League ID" },
+      { name: "season", type: "string", required: false, desc: "Season (e.g. 2024-2025). Defaults to current." }
+    ],
     response: responseFormats.standings
   },
   {
@@ -290,6 +302,7 @@ const endpoints = [
     description: "List all clubs available in a specific competition.",
     params: [
       { name: "league", type: "string", required: true, desc: "League ID" },
+      { name: "season", type: "string", required: false, desc: "Season (e.g. 2024-2025). Defaults to current." },
       { name: "search", type: "string", required: false, desc: "Filter by team name" }
     ],
     response: responseFormats.teams
@@ -302,9 +315,19 @@ const endpoints = [
     description: "Full match history for a specific club.",
     params: [
       { name: "teamName", type: "string", required: true, desc: "Full team name (path)" },
-      { name: "league", type: "string", required: true, desc: "League ID (query)" }
+      { name: "league", type: "string", required: true, desc: "League ID (query)" },
+      { name: "season", type: "string", required: false, desc: "Season (e.g. 2024-2025). Defaults to current." }
     ],
     response: responseFormats.teamFixtures
+  },
+  {
+    id: "leagueSeasons",
+    name: "LEAGUE SEASONS",
+    method: "GET",
+    path: "/v1/football/leagues/{leagueId}/seasons",
+    description: "List all available seasons for a league.",
+    params: [{ name: "leagueId", type: "string", required: true, desc: "League ID" }],
+    response: responseFormats.leagueSeasons
   },
   {
     id: "leagueStats",
@@ -312,7 +335,10 @@ const endpoints = [
     method: "GET",
     path: "/v1/football/leagues/{leagueId}/stats",
     description: "Aggregate season statistics and performance averages.",
-    params: [{ name: "leagueId", type: "string", required: true, desc: "League ID" }],
+    params: [
+      { name: "leagueId", type: "string", required: true, desc: "League ID" },
+      { name: "season", type: "string", required: false, desc: "Season (e.g. 2024-2025). Defaults to current." }
+    ],
     response: responseFormats.leagueStats
   }
 ];
@@ -398,15 +424,25 @@ const codeExamples = {
 .then(data => console.log(data.data.fixtures));`,
     py: `import requests\n\nresponse = requests.get('https://api.statsez.com/v1/football/teams/Liverpool/fixtures', headers={'x-api-key': 'YOUR_KEY'}, params={'league': 'Yq4hUnzQ'})\nfixtures = response.json()['data']['fixtures']`
   },
+  leagueSeasons: {
+    curl: `curl -H "x-api-key: YOUR_KEY" \\
+  "https://api.statsez.com/v1/football/leagues/Yq4hUnzQ/seasons"`,
+    js: `fetch('https://api.statsez.com/v1/football/leagues/Yq4hUnzQ/seasons', {
+  headers: { 'x-api-key': 'YOUR_KEY' }
+})
+.then(res => res.json())
+.then(data => console.log(data.data.seasons));`,
+    py: `import requests\n\nresponse = requests.get('https://api.statsez.com/v1/football/leagues/Yq4hUnzQ/seasons', headers={'x-api-key': 'YOUR_KEY'})\nseasons = response.json()['data']['seasons']`
+  },
   leagueStats: {
     curl: `curl -H "x-api-key: YOUR_KEY" \\
-  "https://api.statsez.com/v1/football/leagues/england-premier-league-2025-2026/stats"`,
-    js: `fetch('https://api.statsez.com/v1/football/leagues/england-premier-league-2025-2026/stats', {
+  "https://api.statsez.com/v1/football/leagues/Yq4hUnzQ/stats"`,
+    js: `fetch('https://api.statsez.com/v1/football/leagues/Yq4hUnzQ/stats', {
   headers: { 'x-api-key': 'YOUR_KEY' }
 })
 .then(res => res.json())
 .then(data => console.log(data.data.stats));`,
-    py: `import requests\n\nresponse = requests.get('https://api.statsez.com/v1/football/leagues/england-premier-league-2025-2026/stats', headers={'x-api-key': 'YOUR_KEY'})\nstats = response.json()['data']['stats']`
+    py: `import requests\n\nresponse = requests.get('https://api.statsez.com/v1/football/leagues/Yq4hUnzQ/stats', headers={'x-api-key': 'YOUR_KEY'})\nstats = response.json()['data']['stats']`
   }
 };
 
@@ -441,7 +477,7 @@ export default function DocsPage() {
             <div className="flex gap-12 text-right">
               <div className="flex flex-col gap-1">
                 <span className="data-label text-foreground/50">ENDPOINTS</span>
-                <span className="data-value">9</span>
+                <span className="data-value">11</span>
               </div>
               <div className="flex flex-col gap-1">
                 <span className="data-label text-foreground/50">FORMAT</span>

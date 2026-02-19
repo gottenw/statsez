@@ -27,7 +27,7 @@ NÃO fornece dados em tempo real (livescore). Todos os dados são consolidados p
 
 ---
 
-## Available Endpoints (10) / Endpoints Disponíveis (10)
+## Available Endpoints (11) / Endpoints Disponíveis (11)
 
 ### 1. LIST LEAGUES / LISTAR LIGAS
 `GET /football/leagues`
@@ -59,6 +59,7 @@ curl -H "x-api-key: se_live_abc123" "https://api.statsez.com/v1/football/leagues
 `GET /football/fixtures`
 - Params:
   - `league` (**required**) — league ID
+  - `season` (optional) — e.g. "2024-2025" (defaults to current season)
   - `team` (optional) — team name
   - `round` (optional) — e.g. "Regular Season - 12"
   - `date` (optional) — YYYY-MM-DD (exact date)
@@ -120,7 +121,7 @@ curl -H "x-api-key: se_live_abc123" "https://api.statsez.com/v1/football/fixture
 
 ### 4. STANDINGS / CLASSIFICAÇÃO
 `GET /football/standings`
-- Params: `league` (required) — league ID
+- Params: `league` (required) — league ID, `season` (optional) — e.g. "2024-2025"
 
 **Example / Exemplo:**
 ```bash
@@ -193,7 +194,7 @@ curl -H "x-api-key: se_live_abc123" "https://api.statsez.com/v1/football/fixture
 
 ### 8. LIST TEAMS / LISTAR TIMES
 `GET /football/teams`
-- Params: `league` (**required**), `search` (optional — team name filter)
+- Params: `league` (**required**), `season` (optional — e.g. "2024-2025"), `search` (optional — team name filter)
 - Teams are extracted from league match data / Times são extraídos dos dados de partidas da liga
 
 **Example / Exemplo:**
@@ -205,7 +206,7 @@ curl -H "x-api-key: se_live_abc123" "https://api.statsez.com/v1/football/teams?l
 
 ### 9. TEAM FIXTURES / JOGOS POR TIME
 `GET /football/teams/{teamName}/fixtures`
-- Params: `league` (**required**) — league ID to search within
+- Params: `league` (**required**) — league ID to search within, `season` (optional — e.g. "2024-2025")
 - Match history for a team within a specific league / Histórico de partidas de um time em uma liga específica
 - Matches by team name or short name (e.g. "Palmeiras", "PAL")
 
@@ -216,14 +217,38 @@ curl -H "x-api-key: se_live_abc123" "https://api.statsez.com/v1/football/teams/P
 
 ---
 
-### 10. LEAGUE STATS / ESTATÍSTICAS DA LIGA
+### 10. LEAGUE SEASONS / TEMPORADAS DA LIGA
+`GET /football/leagues/{leagueId}/seasons`
+- Lists all available seasons for a league / Lista todas as temporadas disponíveis de uma liga
+- Use the season values in other endpoints via `?season=` param
+
+**Example / Exemplo:**
+```bash
+curl -H "x-api-key: se_live_abc123" "https://api.statsez.com/v1/football/leagues/Yq4hUnzQ/seasons"
+```
+**Response:**
+```json
+{
+  "success": true,
+  "data": {
+    "league": "Serie A Betano",
+    "country": "Brazil",
+    "seasons": ["2025", "2024", "2023", "2022", "2021", "2020"]
+  }
+}
+```
+
+---
+
+### 11. LEAGUE STATS / ESTATÍSTICAS DA LIGA
 `GET /football/leagues/{leagueId}/stats`
+- Params: `season` (optional — e.g. "2024-2025")
 - League averages: goals per game, home/away win %, total draws, etc.
 - Médias da liga: gols por jogo, % vitórias casa/fora, empates
 
 **Example / Exemplo:**
 ```bash
-curl -H "x-api-key: se_live_abc123" "https://api.statsez.com/v1/football/leagues/71/stats"
+curl -H "x-api-key: se_live_abc123" "https://api.statsez.com/v1/football/leagues/Yq4hUnzQ/stats"
 ```
 
 ---

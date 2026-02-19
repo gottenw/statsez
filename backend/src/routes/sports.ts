@@ -85,7 +85,7 @@ app.get('/:sport/leagues', async (c) => {
 
 app.get('/:sport/fixtures', async (c) => {
   const sport = c.req.param('sport') as Sport;
-  const { date, league, team, round, dateFrom, dateTo } = c.req.query();
+  const { date, league, team, round, dateFrom, dateTo, season } = c.req.query();
 
   if (!validateSport(sport)) {
     return c.json({ success: false, error: 'Esporte não suportado' }, 400);
@@ -103,10 +103,10 @@ app.get('/:sport/fixtures', async (c) => {
     return c.json({ success: false, error: 'Parâmetro "league" é obrigatório para listar partidas' }, 400);
   }
 
-  const params = { date, league, team, round, dateFrom, dateTo };
+  const params = { date, league, team, round, dateFrom, dateTo, season };
   const ttl = parseInt(process.env.CACHE_TTL_FIXTURES || '3600');
 
-  
+
   const cached = await getCache(sport, 'fixtures', params);
   if (cached) {
     c.set('cached', true);
@@ -117,10 +117,10 @@ app.get('/:sport/fixtures', async (c) => {
     });
   }
 
-  
+
   let result;
   if (league) {
-    const fixtures = await footballData.getFixturesByLeague(league, { round, team, dateFrom, dateTo });
+    const fixtures = await footballData.getFixturesByLeague(league, { round, team, dateFrom, dateTo, season });
     result = fixtures || { fixtures: [], message: 'Liga não encontrada' };
   } else {
     const fixtures = await footballData.getAllFixtures({ team, round, date });
@@ -212,7 +212,7 @@ app.get('/:sport/fixtures/:fixtureId', async (c) => {
 
 app.get('/:sport/standings', async (c) => {
   const sport = c.req.param('sport') as Sport;
-  const { league } = c.req.query();
+  const { league, season } = c.req.query();
 
   if (!validateSport(sport)) {
     return c.json({ success: false, error: 'Esporte não suportado' }, 400);
@@ -233,10 +233,10 @@ app.get('/:sport/standings', async (c) => {
     }, 400);
   }
 
-  const params = { league };
+  const params = { league, season };
   const ttl = TTL_DAILY;
 
-  
+
   const cached = await getCache(sport, 'standings', params);
   if (cached) {
     c.set('cached', true);
@@ -248,7 +248,7 @@ app.get('/:sport/standings', async (c) => {
   }
 
   
-  const standings = await footballData.getStandings(league);
+  const standings = await footballData.getStandings(league, season);
 
   if (!standings) {
     return c.json({
@@ -281,7 +281,7 @@ app.get('/:sport/standings', async (c) => {
 
 app.get('/:sport/teams', async (c) => {
   const sport = c.req.param('sport') as Sport;
-  const { league, search } = c.req.query();
+  const { league, search, season } = c.req.query();
 
   if (!validateSport(sport)) {
     return c.json({ success: false, error: 'Esporte não suportado' }, 400);
@@ -302,10 +302,10 @@ app.get('/:sport/teams', async (c) => {
     }, 400);
   }
 
-  const params = { league, search };
+  const params = { league, search, season };
   const ttl = parseInt(process.env.CACHE_TTL_STATISTICS || '86400');
 
-  
+
   const cached = await getCache(sport, 'teams', params);
   if (cached) {
     c.set('cached', true);
@@ -316,8 +316,8 @@ app.get('/:sport/teams', async (c) => {
     });
   }
 
-  
-  let teams = await footballData.getTeams(league);
+
+  let teams = await footballData.getTeams(league, season);
 
   
   if (search) {
@@ -348,7 +348,7 @@ app.get('/:sport/teams', async (c) => {
 app.get('/:sport/teams/:teamName/fixtures', async (c) => {
   const sport = c.req.param('sport') as Sport;
   const teamName = c.req.param('teamName');
-  const { league } = c.req.query();
+  const { league, season } = c.req.query();
 
   if (!validateSport(sport)) {
     return c.json({ success: false, error: 'Esporte não suportado' }, 400);
@@ -369,7 +369,7 @@ app.get('/:sport/teams/:teamName/fixtures', async (c) => {
     }, 400);
   }
 
-  const params = { teamName, league };
+  const params = { teamName, league, season };
   const ttl = parseInt(process.env.CACHE_TTL_FIXTURES || '3600');
 
 
@@ -384,7 +384,7 @@ app.get('/:sport/teams/:teamName/fixtures', async (c) => {
   }
 
 
-  const fixtures = await footballData.getTeamFixtures(teamName, league);
+  const fixtures = await footballData.getTeamFixtures(teamName, league, season);
 
   const result = {
     team: teamName,
@@ -574,9 +574,59 @@ app.get('/:sport/fixtures/:fixtureId/events', async (c) => {
 
 
 
+app.get('/:sport/leagues/:leagueId/seasons', async (c) => {
+  const sport = c.req.param('sport') as Sport;
+  const leagueId = c.req.param('leagueId');
+
+  if (!validateSport(sport)) {
+    return c.json({ success: false, error: 'Esporte não suportado' }, 400);
+  }
+
+  if (sport !== 'football') {
+    return c.json({
+      success: true,
+      data: { seasons: [], message: 'Esporte em implementação' },
+      meta: { cached: false, remainingQuota: c.get('auth').remainingQuota }
+    });
+  }
+
+  const params = { leagueId };
+  const ttl = TTL_DAILY;
+
+  const cached = await getCache(sport, 'league-seasons', params);
+  if (cached) {
+    c.set('cached', true);
+    return c.json({
+      success: true,
+      data: cached,
+      meta: { cached: true, remainingQuota: c.get('auth').remainingQuota }
+    });
+  }
+
+  const result = await footballData.getLeagueSeasons(leagueId);
+
+  if (!result) {
+    return c.json({
+      success: false,
+      error: 'Liga não encontrada'
+    }, 404);
+  }
+
+  await setCache({ sport, endpoint: 'league-seasons', params, ttlSeconds: ttl }, result);
+
+  return c.json({
+    success: true,
+    data: result,
+    meta: { cached: false, remainingQuota: c.get('auth').remainingQuota }
+  });
+});
+
+
+
 app.get('/:sport/leagues/:leagueId/stats', async (c) => {
   const sport = c.req.param('sport') as Sport;
   const leagueId = c.req.param('leagueId');
+  const { season } = c.req.query();
 
   if (!validateSport(sport)) {
     return c.json({ success: false, error: 'Esporte não suportado' }, 400);
@@ -590,10 +640,10 @@ app.get('/:sport/leagues/:leagueId/stats', async (c) => {
     });
   }
 
-  const params = { leagueId };
+  const params = { leagueId, season };
   const ttl = parseInt(process.env.CACHE_TTL_STATISTICS || '7200');
 
-  
+
   const cached = await getCache(sport, 'league-stats', params);
   if (cached) {
     c.set('cached', true);
@@ -604,8 +654,8 @@ app.get('/:sport/leagues/:leagueId/stats', async (c) => {
     });
   }
 
-  
-  const stats = await footballData.getLeagueStats(leagueId);
+
+  const stats = await footballData.getLeagueStats(leagueId, season);
 
   if (!stats) {
     return c.json({
