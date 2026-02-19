@@ -74,7 +74,7 @@ export function CheckoutBrick({ amount, description, onSuccess, onError }: Check
   };
 
   return (
-    <div className="w-full max-w-[600px] mx-auto bg-white font-mono">
+    <div className="w-full bg-white font-mono">
       <Payment
         initialization={initialization}
         customization={customization}

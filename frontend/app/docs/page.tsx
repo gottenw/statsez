@@ -7,7 +7,6 @@ import { Navigation } from "../../components/navigation";
 import { Footer } from "../../components/footer";
 import { ScrambleText } from "../../components/scramble-text";
 
-
 const responseFormats = {
   leagues: {
     "success": true,
@@ -160,7 +159,7 @@ const responseFormats = {
       }
     }
   },
-  "events": {
+  events: {
     "success": true,
     "data": {
       "matchId": "lbnqyVFq",
@@ -172,7 +171,7 @@ const responseFormats = {
       ]
     }
   },
-  "teams": {
+  teams: {
     "success": true,
     "data": {
       "teams": [
@@ -201,7 +200,7 @@ const responseFormats = {
       "filters": { "league": "england-premier-league-2025-2026" }
     }
   },
-  "teamFixtures": {
+  teamFixtures: {
     "success": true,
     "data": {
       "team": "Liverpool",
@@ -213,7 +212,7 @@ const responseFormats = {
       "total": 25
     }
   },
-  "leagueStats": {
+  leagueStats: {
     "success": true,
     "data": {
       "league": "Premier League",
@@ -228,8 +227,8 @@ const endpoints = [
     name: "LEAGUES",
     method: "GET",
     path: "/v1/football/leagues",
-    description: "List all available leagues",
-    params: [{ name: "country", type: "string", required: false, desc: "Filter by country (e.g. 'brazil', 'england')" }],
+    description: "List all supported competitions across 170+ countries.",
+    params: [{ name: "country", type: "string", required: false, desc: "Filter by country slug" }],
     response: responseFormats.leagues
   },
   {
@@ -237,7 +236,7 @@ const endpoints = [
     name: "FIXTURES",
     method: "GET",
     path: "/v1/football/fixtures",
-    description: "Retrieve completed matches",
+    description: "Get completed match list with final and partial scores.",
     params: [
       { name: "league", type: "string", required: false, desc: "League ID" },
       { name: "team", type: "string", required: false, desc: "Filter by team name" },
@@ -250,7 +249,7 @@ const endpoints = [
     name: "STANDINGS",
     method: "GET",
     path: "/v1/football/standings",
-    description: "Get league table",
+    description: "Full league table including points, goals, and difference.",
     params: [{ name: "league", type: "string", required: true, desc: "League ID" }],
     response: responseFormats.standings
   },
@@ -259,7 +258,7 @@ const endpoints = [
     name: "STATISTICS",
     method: "GET",
     path: "/v1/football/fixtures/{id}/stats",
-    description: "Match statistics by period",
+    description: "Comprehensive match performance data (34+ metrics).",
     params: [{ name: "id", type: "string", required: true, desc: "Match ID" }],
     response: responseFormats.stats
   },
@@ -268,7 +267,7 @@ const endpoints = [
     name: "LINEUPS",
     method: "GET",
     path: "/v1/football/fixtures/{id}/lineups",
-    description: "Team lineups and formations",
+    description: "Starting XI, tactical formations, and player metadata.",
     params: [{ name: "id", type: "string", required: true, desc: "Match ID" }],
     response: responseFormats.lineups
   },
@@ -277,7 +276,7 @@ const endpoints = [
     name: "EVENTS",
     method: "GET",
     path: "/v1/football/fixtures/{id}/events",
-    description: "Match events (goals, cards, subs)",
+    description: "Match timeline: goals, assists, cards, and substitutions.",
     params: [{ name: "id", type: "string", required: true, desc: "Match ID" }],
     response: responseFormats.events
   },
@@ -286,7 +285,7 @@ const endpoints = [
     name: "TEAMS",
     method: "GET",
     path: "/v1/football/teams",
-    description: "List teams in a league",
+    description: "List all clubs available in a specific competition.",
     params: [{ name: "league", type: "string", required: false, desc: "League ID" }],
     response: responseFormats.teams
   },
@@ -295,7 +294,7 @@ const endpoints = [
     name: "TEAM FIXTURES",
     method: "GET",
     path: "/v1/football/teams/{teamName}/fixtures",
-    description: "Get all matches for a specific team",
+    description: "Full match history for a specific club.",
     params: [{ name: "teamName", type: "string", required: true, desc: "Full team name" }],
     response: responseFormats.teamFixtures
   },
@@ -304,7 +303,7 @@ const endpoints = [
     name: "LEAGUE STATS",
     method: "GET",
     path: "/v1/football/leagues/{leagueId}/stats",
-    description: "Aggregate statistics for a league",
+    description: "Aggregate season statistics and performance averages.",
     params: [{ name: "leagueId", type: "string", required: true, desc: "League ID" }],
     response: responseFormats.leagueStats
   }
@@ -383,7 +382,7 @@ const codeExamples = {
   },
   teamFixtures: {
     curl: `curl -H "x-api-key: YOUR_KEY" \\
-  "https://api.statsez.com/v1/football/teams/Liverpool/fixtures"`,
+  "https://api.quantsports.com/v1/football/teams/Liverpool/fixtures"`,
     js: `fetch('https://api.statsez.com/v1/football/teams/Liverpool/fixtures', {
   headers: { 'x-api-key': 'YOUR_KEY' }
 })
@@ -414,9 +413,9 @@ export default function DocsPage() {
     <main className="min-h-screen bg-background">
       <Navigation />
 
-      {}
+      {/* Hero Section */}
       <section className="relative min-h-[60vh] w-full grid-system">
-        {}
+        {/* Grid Lines */}
         <div className="absolute inset-0 pointer-events-none">
           <div className="absolute left-[20%] top-0 bottom-0 w-px bg-border" />
           <div className="absolute left-[40%] top-0 bottom-0 w-px bg-border" />
@@ -425,25 +424,25 @@ export default function DocsPage() {
         </div>
 
         <div className="relative z-10 min-h-[60vh] flex flex-col justify-between section-padding py-12">
-          {}
+          {/* Top Bar */}
           <div className="flex justify-between items-start">
             <div className="flex flex-col gap-1">
-              <span className="data-label">API REFERENCE</span>
+              <span className="data-label text-foreground/50">API REFERENCE</span>
               <span className="data-value text-muted-foreground">v1.0</span>
             </div>
             <div className="flex gap-12 text-right">
               <div className="flex flex-col gap-1">
-                <span className="data-label">ENDPOINTS</span>
+                <span className="data-label text-foreground/50">ENDPOINTS</span>
                 <span className="data-value">9</span>
               </div>
               <div className="flex flex-col gap-1">
-                <span className="data-label">FORMAT</span>
+                <span className="data-label text-foreground/50">FORMAT</span>
                 <span className="data-value">JSON</span>
               </div>
             </div>
           </div>
 
-          {}
+          {/* Main Title */}
           <div className="flex-1 flex items-center py-16">
             <div className="w-full">
               <motion.div
@@ -454,7 +453,7 @@ export default function DocsPage() {
                 <h1 className="display-text text-foreground">
                   <ScrambleText text="API" delay={0.3} />
                   <br />
-                  <span className="text-muted">DOCS</span>
+                  <span className="text-muted text-foreground/30">DOCS</span>
                 </h1>
               </motion.div>
 
@@ -471,7 +470,7 @@ export default function DocsPage() {
             </div>
           </div>
 
-          {}
+          {/* Bottom Info */}
           <motion.div
             initial={{ opacity: 0, y: 20 }}
             animate={{ opacity: 1, y: 0 }}
@@ -479,33 +478,33 @@ export default function DocsPage() {
             className="grid grid-cols-4 gap-8 border-t border-border pt-8"
           >
             <div className="flex flex-col gap-2">
-              <span className="data-label">BASE URL</span>
+              <span className="data-label text-foreground/50">BASE URL</span>
               <span className="font-mono text-sm">api.statsez.com/v1</span>
             </div>
             <div className="flex flex-col gap-2">
-              <span className="data-label">AUTH</span>
+              <span className="data-label text-foreground/50">AUTH</span>
               <span className="font-mono text-sm">x-api-key header</span>
             </div>
             <div className="flex flex-col gap-2">
-              <span className="data-label">RATE LIMIT</span>
+              <span className="data-label text-foreground/50">RATE LIMIT</span>
               <span className="font-mono text-sm">60 req/min</span>
             </div>
             <div className="flex flex-col gap-2">
-              <span className="data-label">RESPONSE</span>
+              <span className="data-label text-foreground/50">RESPONSE</span>
               <span className="font-mono text-sm">JSON</span>
             </div>
           </motion.div>
         </div>
       </section>
 
-      {}
-      <section className="w-full border-t border-border">
+      {/* Main Content */}
+      <section className="w-full border-t border-border bg-background">
         <div className="grid grid-cols-12 gap-px bg-border">
           
-          {}
+          {/* Sidebar */}
           <div className="col-span-12 lg:col-span-3 bg-background">
             <div className="p-6 border-b border-border">
-              <span className="data-label">ENDPOINTS</span>
+              <span className="data-label text-foreground/50 uppercase tracking-widest">ENDPOINTS</span>
             </div>
             <div className="divide-y divide-border">
               {endpoints.map((ep) => (
@@ -515,22 +514,22 @@ export default function DocsPage() {
                   className={`w-full text-left p-6 transition-all duration-300 group ${
                     activeEndpoint.id === ep.id 
                       ? "bg-foreground text-background" 
-                      : "hover:bg-border/30"
+                      : "hover:bg-foreground/[0.02]"
                   }`}
                 >
                   <div className="flex items-center gap-3 mb-2">
-                    <span className={`text-xs font-mono px-2 py-0.5 rounded ${
+                    <span className={`text-[10px] font-mono border px-1.5 py-0.5 uppercase ${
                       activeEndpoint.id === ep.id 
-                        ? "bg-background/20 text-background" 
-                        : "bg-border text-muted-foreground"
+                        ? "border-background/30 text-background" 
+                        : "border-border text-muted-foreground"
                     }`}>
                       {ep.method}
                     </span>
                   </div>
-                  <h3 className="font-sans text-lg font-medium tracking-tight">
+                  <h3 className="font-sans text-lg font-medium tracking-tight uppercase">
                     {ep.name}
                   </h3>
-                  <p className={`text-sm mt-1 ${
+                  <p className={`text-xs mt-1 leading-relaxed ${
                     activeEndpoint.id === ep.id ? "text-background/60" : "text-muted-foreground"
                   }`}>
                     {ep.description}
@@ -538,68 +537,57 @@ export default function DocsPage() {
                 </button>
               ))}
             </div>
-
-            {}
-            <div className="p-6 border-t border-border">
-              <span className="data-label block mb-4">AUTHENTICATION</span>
-              <p className="text-sm text-muted-foreground leading-relaxed mb-4">
-                All requests require the <code className="font-mono text-foreground bg-border/50 px-1 rounded">x-api-key</code> header.
-              </p>
-              <div className="font-mono text-xs bg-border/30 p-3 rounded">
-                x-api-key: your_key_here
-              </div>
-            </div>
           </div>
 
-          {}
-          <div className="col-span-12 lg:col-span-9 bg-background">
+          {/* Main Area */}
+          <div className="col-span-12 lg:col-span-9 bg-background min-h-screen">
             <AnimatePresence mode="wait">
               <motion.div
                 key={activeEndpoint.id}
-                initial={{ opacity: 0, y: 10 }}
-                animate={{ opacity: 1, y: 0 }}
-                exit={{ opacity: 0, y: -10 }}
-                transition={{ duration: 0.3 }}
+                initial={{ opacity: 0 }}
+                animate={{ opacity: 1 }}
+                exit={{ opacity: 0 }}
+                transition={{ duration: 0.2 }}
               >
-                {}
-                <div className="p-6 border-b border-border">
-                  <div className="flex items-center gap-4 mb-4">
-                    <span className="px-3 py-1 bg-foreground text-background text-xs font-mono uppercase">
+                {/* Header */}
+                <div className="p-12 border-b border-border">
+                  <div className="flex items-center gap-6 mb-6">
+                    <span className="px-4 py-1 bg-foreground text-background text-xs font-mono font-bold uppercase tracking-widest">
                       {activeEndpoint.method}
                     </span>
-                    <code className="text-lg font-mono text-foreground">
+                    <code className="text-2xl font-mono text-foreground tracking-tighter">
                       {activeEndpoint.path}
                     </code>
                   </div>
-                  <p className="text-muted-foreground">
+                  <p className="text-xl text-muted-foreground max-w-2xl font-sans leading-relaxed">
                     {activeEndpoint.description}
                   </p>
                 </div>
 
-                {}
+                {/* Parameters */}
                 {activeEndpoint.params.length > 0 && (
                   <div className="border-b border-border">
-                    <div className="p-6 border-b border-border bg-border/20">
-                      <span className="data-label">PARAMETERS</span>
+                    <div className="p-6 border-b border-border bg-foreground/[0.02]">
+                      <span className="data-label text-foreground/50">PARAMETERS</span>
                     </div>
                     <div className="divide-y divide-border">
                       {activeEndpoint.params.map((param) => (
-                        <div key={param.name} className="p-6 grid grid-cols-12 gap-4 items-center">
+                        <div key={param.name} className="p-8 grid grid-cols-12 gap-8 items-center">
                           <div className="col-span-3">
-                            <code className="font-mono text-sm">{param.name}</code>
+                            <code className="font-mono text-base font-bold text-foreground">{param.name}</code>
                           </div>
                           <div className="col-span-2">
-                            <span className="text-xs text-muted-foreground font-mono">{param.type}</span>
+                            <span className="text-[10px] text-muted-foreground font-mono uppercase tracking-widest">{param.type}</span>
                           </div>
                           <div className="col-span-2">
                             {param.required ? (
-                              <span className="text-xs font-mono uppercase text-red-500">required</span>
+                              <span className="text-[10px] font-mono font-bold uppercase text-red-500 tracking-widest">Required</span>
                             ) : (
-                              <span className="text-xs font-mono uppercase text-muted-foreground">optional</span>
+                              <span className="text-[10px] font-mono uppercase text-muted-foreground tracking-widest">Optional</span>
                             )}
                           </div>
                           <div className="col-span-5">
-                            <span className="text-sm text-muted-foreground">{param.desc}</span>
+                            <span className="text-sm text-muted-foreground font-sans">{param.desc}</span>
                           </div>
                         </div>
                       ))}
@@ -607,19 +595,19 @@ export default function DocsPage() {
                   </div>
                 )}
 
-                {}
+                {/* Code Examples */}
                 <div className="border-b border-border">
-                  <div className="p-6 border-b border-border bg-border/20 flex items-center justify-between">
-                    <span className="data-label">EXAMPLE REQUEST</span>
-                    <div className="flex gap-1">
+                  <div className="p-6 border-b border-border bg-foreground/[0.02] flex items-center justify-between">
+                    <span className="data-label text-foreground/50">REQUEST IMPLEMENTATION</span>
+                    <div className="flex gap-2">
                       {["curl", "js", "py"].map((lang) => (
                         <button
                           key={lang}
                           onClick={() => setActiveLang(lang as "curl" | "js" | "py")}
-                          className={`px-3 py-1 text-xs font-mono uppercase transition-all ${
+                          className={`px-4 py-1.5 text-[10px] font-mono font-bold uppercase tracking-widest transition-all ${
                             activeLang === lang
                               ? "bg-foreground text-background"
-                              : "bg-border/50 text-muted-foreground hover:bg-border"
+                              : "border border-border text-muted-foreground hover:bg-foreground/5"
                           }`}
                         >
                           {lang}
@@ -627,21 +615,21 @@ export default function DocsPage() {
                       ))}
                     </div>
                   </div>
-                  <div className="p-6 bg-[#0a0a0a] overflow-x-auto">
-                    <pre className="font-mono text-sm text-foreground">
+                  <div className="p-12 bg-background overflow-x-auto">
+                    <pre className="font-mono text-sm text-foreground leading-relaxed">
                       <code>{currentExample[activeLang as keyof typeof currentExample]}</code>
                     </pre>
                   </div>
                 </div>
 
-                {}
+                {/* Full Response */}
                 <div>
-                  <div className="p-6 border-b border-border bg-border/20 flex items-center justify-between">
-                    <span className="data-label">RESPONSE</span>
-                    <span className="font-mono text-xs text-muted-foreground">200 OK / JSON</span>
+                  <div className="p-6 border-b border-border bg-foreground/[0.02] flex items-center justify-between">
+                    <span className="data-label text-foreground/50">FULL RAW RESPONSE</span>
+                    <span className="font-mono text-[10px] text-muted-foreground uppercase tracking-widest">200 OK / application/json</span>
                   </div>
-                  <div className="p-6 bg-[#0a0a0a] overflow-x-auto max-h-[600px]">
-                    <pre className="font-mono text-sm text-foreground">
+                  <div className="p-12 bg-background overflow-x-auto max-h-[800px] custom-scrollbar">
+                    <pre className="font-mono text-xs text-foreground leading-relaxed">
                       <code>{JSON.stringify(activeEndpoint.response, null, 2)}</code>
                     </pre>
                   </div>

@@ -23,8 +23,8 @@ const plans = [
     key: "dev",
     requests: "40.000",
     biweekly: "20.000",
-    price: "60,00",
-    pricePerReq: "0,0015",
+    price: "79,00",
+    pricePerReq: "0,0019",
     featured: true,
     isTotal: false,
   },
@@ -33,8 +33,8 @@ const plans = [
     key: "enterprise",
     requests: "250.000",
     biweekly: "125.000",
-    price: "249,00",
-    pricePerReq: "0,0010",
+    price: "349,00",
+    pricePerReq: "0,0013",
     featured: false,
     isTotal: false,
   },
@@ -43,8 +43,8 @@ const plans = [
     key: "gold",
     requests: "600.000",
     biweekly: "300.000",
-    price: "499,00",
-    pricePerReq: "0,0008",
+    price: "699,00",
+    pricePerReq: "0,0011",
     featured: false,
     isTotal: false,
   },
@@ -68,46 +68,48 @@ export function Pricing() {
       {selectedPlan && (
         <div className="fixed inset-0 z-[100] flex items-center justify-center p-4 bg-background/80 backdrop-blur-md">
           <motion.div 
-            initial={{ opacity: 0, scale: 0.95 }}
+            initial={{ opacity: 0, scale: 0.98 }}
             animate={{ opacity: 1, scale: 1 }}
-            className="relative w-full max-w-2xl bg-background border border-border shadow-[0_0_100px_rgba(0,0,0,0.1)] overflow-hidden flex flex-col max-h-[95vh]"
+            className="relative w-full max-w-3xl bg-background border border-border shadow-2xl overflow-hidden flex flex-col max-h-[90vh]"
           >
-            {/* Linha de fechar minimalista */}
-            <div className="absolute top-0 right-0 border-l border-b border-border">
+            {/* Close Button */}
+            <div className="absolute top-0 right-0 border-l border-b border-border z-[110]">
               <button 
                 onClick={() => setSelectedPlan(null)}
-                className="p-4 text-foreground hover:bg-foreground hover:text-background transition-all duration-300"
+                className="p-3 text-foreground hover:bg-foreground hover:text-background transition-all duration-300"
               >
-                <X size={20} />
+                <X size={18} />
               </button>
             </div>
             
-            <div className="p-12 border-b border-border">
-              <div className="flex flex-col gap-1 mb-8">
-                <span className="data-label">TRANSACTION GATEWAY</span>
-                <span className="font-mono text-xs text-muted-foreground uppercase tracking-widest">v1.0 secure_protocol</span>
+            {/* Compact Header */}
+            <div className="p-8 border-b border-border bg-foreground/[0.01]">
+              <div className="flex items-center gap-4 mb-4">
+                <span className="data-label text-[10px] opacity-50">SECURE_GATEWAY</span>
+                <div className="h-px flex-1 bg-border/50" />
               </div>
               
-              <h3 className="display-text text-4xl leading-none text-foreground uppercase">
-                {t(`plans.${selectedPlan.key}.name`)}
-                <br />
-                <span className="text-muted">R$ {selectedPlan.price}</span>
-              </h3>
-              
-              <div className="mt-8 pt-8 border-t border-border/50 grid grid-cols-2 gap-8">
-                <div className="flex flex-col gap-1">
-                  <span className="data-label text-[10px]">RECURRENCE</span>
-                  <span className="font-mono text-sm uppercase">Monthly Billing</span>
+              <div className="flex justify-between items-end">
+                <div>
+                  <h3 className="font-sans text-xl font-medium uppercase tracking-tight text-foreground">
+                    {t(`plans.${selectedPlan.key}.name`)} Plan
+                  </h3>
+                  <p className="font-mono text-[10px] text-muted-foreground uppercase tracking-[0.2em] mt-1">
+                    Monthly Data Access License
+                  </p>
                 </div>
-                <div className="flex flex-col gap-1">
-                  <span className="data-label text-[10px]">ACCESS LEVEL</span>
-                  <span className="font-mono text-sm uppercase">Production API</span>
+                <div className="text-right">
+                  <span className="font-mono text-2xl font-medium tracking-tighter">
+                    R$ {selectedPlan.price}
+                  </span>
+                  <p className="font-mono text-[9px] text-muted-foreground uppercase">Billed Monthly</p>
                 </div>
               </div>
             </div>
 
-            <div className="flex-1 overflow-y-auto p-8 bg-background custom-scrollbar">
-              <div className="max-w-[500px] mx-auto">
+            {/* Expanded Checkout Area */}
+            <div className="flex-1 overflow-y-auto p-6 md:p-10 bg-white">
+              <div className="w-full">
                 <CheckoutBrick 
                   amount={parseFloat(selectedPlan.price.replace(".", "").replace(",", "."))}
                   description={`STATSEZ API - ${selectedPlan.key.toUpperCase()}`}
@@ -118,13 +120,14 @@ export function Pricing() {
               </div>
             </div>
 
-            <div className="p-6 border-t border-border bg-foreground/[0.02] flex justify-between items-center">
-              <span className="font-mono text-[10px] text-muted-foreground uppercase tracking-[0.2em]">
-                Encrypted by Statsez Security
+            {/* Footer Status */}
+            <div className="px-8 py-4 border-t border-border bg-foreground/[0.02] flex justify-between items-center">
+              <span className="font-mono text-[9px] text-muted-foreground uppercase tracking-[0.2em]">
+                Verified Production Environment
               </span>
-              <div className="flex gap-2">
-                <div className="w-2 h-2 rounded-full bg-blue-500 animate-pulse" />
-                <span className="font-mono text-[10px] text-foreground uppercase tracking-widest">System Online</span>
+              <div className="flex items-center gap-2">
+                <div className="w-1.5 h-1.5 rounded-full bg-blue-500 animate-pulse" />
+                <span className="font-mono text-[9px] text-foreground uppercase tracking-widest font-bold">Encrypted</span>
               </div>
             </div>
           </motion.div>
