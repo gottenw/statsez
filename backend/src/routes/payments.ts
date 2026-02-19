@@ -9,36 +9,51 @@ app.post('/process', async (c) => {
   try {
     const authHeader = c.req.header('Authorization');
     const token = authHeader?.replace('Bearer ', '');
-    let userId = 'anonymous';
+    let userId: string | null = null;
 
     if (token) {
       try {
         const decoded: any = jwt.verify(token, process.env.JWT_SECRET || 'secret');
-        userId = decoded.userId;
+        // Verifica se o usuário realmente existe no banco
+        const user = await prisma.user.findUnique({
+          where: { id: decoded.userId },
+          select: { id: true }
+        });
+        if (user) {
+          userId = user.id;
+        } else {
+          console.warn('Usuário do token não encontrado no banco');
+        }
       } catch (err) {
-        console.warn('Token de pagamento inválido, processando como anônimo');
+        console.warn('Token de pagamento inválido');
       }
     }
 
     const body = await c.req.json();
-    console.log('Iniciando processamento de pagamento para usuário:', userId);
+    console.log('Iniciando processamento de pagamento para usuário:', userId || 'NÃO_LOGADO');
     
     const result = await processPayment({
       ...body,
-      external_reference: `${userId}|${body.planName || 'dev'}|${body.sport || 'football'}`
+      external_reference: userId 
+        ? `${userId}|${body.planName || 'dev'}|${body.sport || 'football'}`
+        : `guest|${body.planName || 'dev'}|${body.sport || 'football'}`
     });
     
-    // Vincular o pagamento ao usuário real (sem subscription ainda)
-    await prisma.payment.create({
-      data: {
-        amount: result.transaction_amount || 0,
-        status: result.status || 'pending',
-        provider: 'mercadopago',
-        providerId: String(result.id),
-        subscriptionId: null, // Será atualizado quando o webhook confirmar
-        userId: userId,
-      }
-    });
+    // Só salva no banco se tiver usuário válido
+    if (userId) {
+      await prisma.payment.create({
+        data: {
+          amount: result.transaction_amount || 0,
+          status: result.status || 'pending',
+          provider: 'mercadopago',
+          providerId: String(result.id),
+          subscriptionId: null,
+          userId: userId,
+        }
+      });
+    } else {
+      console.log('Pagamento processado sem salvar no banco (usuário não logado)');
+    }
 
     return c.json({
       success: true,
@@ -66,7 +81,7 @@ app.post('/webhook', async (c) => {
     if (topic === 'payment' && id) {
       const paymentData = await getPayment(id);
       
-      // Atualiza o pagamento local
+      // Atualiza o pagamento local (se existir)
       await prisma.payment.updateMany({
         where: { providerId: String(id) },
         data: {
@@ -79,20 +94,20 @@ app.post('/webhook', async (c) => {
       if (paymentData.status === 'approved' && paymentData.external_reference) {
         const [userId, planName, sport] = paymentData.external_reference.split('|');
         
-        if (userId && userId !== 'anonymous') {
-          // Busca o pagamento local
-          const localPayment = await prisma.payment.findFirst({
-            where: { providerId: String(id) }
+        // Só cria subscription se for usuário logado (não guest)
+        if (userId && userId !== 'guest' && userId !== 'anonymous') {
+          // Verifica se o usuário existe
+          const user = await prisma.user.findUnique({
+            where: { id: userId }
           });
 
-          if (localPayment) {
-            // Verifica se já tem subscription ativa para este usuário
+          if (user) {
+            // Verifica se já tem subscription ativa
             const existingSub = await prisma.subscription.findFirst({
               where: { userId, isActive: true }
             });
 
             if (!existingSub) {
-              // Configurações dos planos
               const planConfigs: Record<string, { quota: number; price: number }> = {
                 dev: { quota: 40000, price: 79 },
                 enterprise: { quota: 250000, price: 349 },
@@ -106,7 +121,6 @@ app.post('/webhook', async (c) => {
               const cycleEndDate = new Date(now);
               cycleEndDate.setDate(cycleEndDate.getDate() + 15);
 
-              // Cria a subscription
               const subscription = await prisma.subscription.create({
                 data: {
                   userId,
@@ -122,7 +136,6 @@ app.post('/webhook', async (c) => {
                 }
               });
 
-              // Cria a API key
               const apiKey = `se_live_${Buffer.from(subscription.id + Date.now()).toString('base64url').slice(0, 32)}`;
               await prisma.apiKey.create({
                 data: {
@@ -133,13 +146,15 @@ app.post('/webhook', async (c) => {
               });
 
               // Atualiza o pagamento com o subscriptionId
-              await prisma.payment.update({
-                where: { id: localPayment.id },
+              await prisma.payment.updateMany({
+                where: { providerId: String(id) },
                 data: { subscriptionId: subscription.id }
               });
 
-              console.log(`✅ Assinatura ${subscription.id} criada via webhook para usuário ${userId}`);
+              console.log(`✅ Assinatura ${subscription.id} criada via webhook`);
             }
+          } else {
+            console.warn(`Usuário ${userId} não encontrado ao criar subscription`);
           }
         }
       }
