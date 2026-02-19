@@ -1,7 +1,7 @@
 "use client";
 
 import { initMercadoPago, Payment } from "@mercadopago/sdk-react";
-import { getUser } from "../lib/api";
+import { getUser, getToken } from "../lib/api";
 
 initMercadoPago(process.env.NEXT_PUBLIC_MERCADOPAGO_PUBLIC_KEY || "");
 
@@ -50,16 +50,26 @@ export function CheckoutBrick({ amount, description, planName = "dev", sport = "
   const onSubmit = async ({ formData }: any) => {
     const apiUrl = process.env.NEXT_PUBLIC_API_URL || "https://api.statsez.com";
     const user = getUser();
+    const token = getToken();
+    
+    console.log("[Checkout] Enviando pagamento:", { userId: user?.id, planName, hasToken: !!token });
     
     // Formato: userId|planName|sport
     const externalReference = user ? `${user.id}|${planName}|${sport}` : `${planName}|${sport}`;
     
+    const headers: Record<string, string> = {
+      "Content-Type": "application/json",
+    };
+    
+    // Adiciona o token se existir
+    if (token) {
+      headers["Authorization"] = `Bearer ${token}`;
+    }
+    
     return new Promise((resolve, reject) => {
       fetch(`${apiUrl}/payments/process`, {
         method: "POST",
-        headers: {
-          "Content-Type": "application/json",
-        },
+        headers,
         body: JSON.stringify({
           ...formData,
           description,
@@ -70,6 +80,7 @@ export function CheckoutBrick({ amount, description, planName = "dev", sport = "
       })
         .then((response) => response.json())
         .then((result) => {
+          console.log("[Checkout] Resposta:", result);
           if (result.success) {
             onSuccess?.(result.id);
             resolve(result);
@@ -79,6 +90,7 @@ export function CheckoutBrick({ amount, description, planName = "dev", sport = "
           }
         })
         .catch((error) => {
+          console.error("[Checkout] Erro:", error);
           onError?.(error);
           reject(error);
         });
