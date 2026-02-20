@@ -22,6 +22,13 @@ export function CheckoutBrick({ amount, description, planName = "dev", sport = "
   };
 
   const customization: any = {
+    paymentMethods: {
+      creditCard: "all",
+      debitCard: "all",
+      mercadoPago: "all",
+      ticket: "all",
+      bankTransfer: "none", // PIX requires extra account setup
+    },
     visual: {
       style: {
         theme: "flat",
