@@ -8,21 +8,25 @@ const payment = new Payment(client);
 
 export async function processPayment(body: {
   transaction_amount: number;
-  payment_method_id: 'pix';
+  payment_method_id: string;
+  token?: string;
+  installments?: number;
+  issuer_id?: string;
   description?: string;
   external_reference: string;
-  payer: { email: string };
+  payer: { email: string; identification?: { type: string; number: string } };
 }) {
   try {
     const result = await payment.create({
       body: {
         transaction_amount: body.transaction_amount,
-        payment_method_id: 'pix',
+        payment_method_id: body.payment_method_id,
+        token: body.token,
+        installments: body.installments,
+        issuer_id: body.issuer_id ? Number(body.issuer_id) : undefined,
         description: body.description,
         external_reference: body.external_reference,
-        payer: {
-          email: body.payer.email,
-        },
+        payer: body.payer,
       }
     });
     return result;

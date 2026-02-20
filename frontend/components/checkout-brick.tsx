@@ -22,13 +22,6 @@ export function CheckoutBrick({ amount, description, planName = "dev", sport = "
   };
 
   const customization: any = {
-    paymentMethods: {
-      ticket: "none",
-      bankTransfer: "all", // PIX in Brazil
-      creditCard: "none",
-      debitCard: "none",
-      mercadoPago: "none",
-    },
     visual: {
       style: {
         theme: "flat",
@@ -38,10 +31,7 @@ export function CheckoutBrick({ amount, description, planName = "dev", sport = "
           borderRadiusLarge: "0px",
           formBackgroundColor: "#ffffff",
           baseColor: "#000000",
-          accentColor: "#000000",
           inputBackgroundColor: "#ffffff",
-          inputFilledBackgroundColor: "#f4f4f5",
-          inputFocusedBackgroundColor: "#ffffff",
           buttonTextColor: "#ffffff",
           secondaryColor: "#71717a",
         },
