@@ -27,7 +27,6 @@ export function CheckoutBrick({ amount, description, planName = "dev", sport = "
       debitCard: "all",
       mercadoPago: "all",
       ticket: "all",
-      bankTransfer: "none", // PIX requires extra account setup
     },
     visual: {
       style: {
