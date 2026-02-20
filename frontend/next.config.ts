@@ -20,7 +20,7 @@ const nextConfig: NextConfig = {
             value: [
               "default-src 'self'",
               "script-src 'self' 'unsafe-inline' 'unsafe-eval' https://accounts.google.com https://sdk.mercadopago.com https://http2.mlstatic.com",
-              "style-src 'self' 'unsafe-inline' https://fonts.googleapis.com https://http2.mlstatic.com",
+              "style-src 'self' 'unsafe-inline' https://fonts.googleapis.com https://http2.mlstatic.com https://accounts.google.com",
               "font-src 'self' https://fonts.gstatic.com",
               "img-src 'self' data: https: blob:",
               "connect-src 'self' https://api.statsez.com https://accounts.google.com https://api.mercadopago.com https://events.mercadopago.com https://http2.mlstatic.com https://api.mercadolibre.com https://www.mercadolibre.com",
