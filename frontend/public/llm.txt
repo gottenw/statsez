@@ -86,8 +86,8 @@ curl -H "x-api-key: YOUR_KEY" "https://api.statsez.com/v1/football/fixtures/ngWM
       "id": "ngWM9fgd",
       "date": "2025-08-18T17:37:31.000Z",
       "round": "Premier League - Round 1",
-      "homeTeam": { "name": "Leeds", "shortName": "LEE", "imageUrl": "https://static.flashscore.com/..." },
-      "awayTeam": { "name": "Everton", "shortName": "EVE", "imageUrl": "https://static.flashscore.com/..." },
+      "homeTeam": { "name": "Leeds", "shortName": "LEE" },
+      "awayTeam": { "name": "Everton", "shortName": "EVE" },
       "score": {
         "fullTime": { "home": 1, "away": 0 },
         "halfTime": { "home": 0, "away": 0 }
@@ -130,7 +130,6 @@ curl -H "x-api-key: YOUR_KEY" "https://api.statsez.com/v1/football/standings?lea
       {
         "position": 1,
         "team": "Barcelona",
-        "teamId": "SKbpVP5K",
         "played": 38,
         "won": 28,
         "drawn": 4,
@@ -191,11 +190,11 @@ curl -H "x-api-key: YOUR_KEY" "https://api.statsez.com/v1/football/fixtures/ngWM
     "home": {
       "formation": "4-2-3-1",
       "starting": [
-        { "name": "Lucas Perri", "number": "1", "player_id": "abc123", "country_name": "Brazil" },
-        { "name": "Bogle J.", "number": "2", "player_id": "def456", "country_name": "England" }
+        { "name": "Lucas Perri", "number": "1", "country": "Brazil" },
+        { "name": "Bogle J.", "number": "2", "country": "England" }
       ],
       "substitutes": [
-        { "name": "Aaronson B.", "number": "11", "player_id": "ghi789", "country_name": "USA" }
+        { "name": "Aaronson B.", "number": "11", "country": "USA" }
       ]
     },
     "away": {
@@ -228,7 +227,7 @@ curl -H "x-api-key: YOUR_KEY" "https://api.statsez.com/v1/football/fixtures/GCxZ
         "team": "home",
         "description": "Loic Bade (Sevilla) receives a red card!",
         "players": [
-          { "name": "Bade L.", "player_id": "YgxuEfvL", "type": "Red Card" }
+          { "name": "Bade L.", "type": "Red Card" }
         ]
       },
       {
@@ -236,8 +235,8 @@ curl -H "x-api-key: YOUR_KEY" "https://api.statsez.com/v1/football/fixtures/GCxZ
         "team": "away",
         "description": "Kylian Mbappe (Real Madrid) drills a shot into the bottom left corner.",
         "players": [
-          { "name": "Mbappe K.", "player_id": "Wn6E2SED", "type": "Goal" },
-          { "name": "Modric L.", "player_id": "bZWyoJnA", "type": "Assistance" }
+          { "name": "Mbappe K.", "type": "Goal" },
+          { "name": "Modric L.", "type": "Assistance" }
         ]
       }
     ]

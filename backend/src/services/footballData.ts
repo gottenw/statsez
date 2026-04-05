@@ -196,12 +196,10 @@ export async function getFixtureById(matchId: string): Promise<{
       homeTeam: {
         name: detail.home_team.name,
         shortName: detail.home_team.short_name,
-        imageUrl: detail.home_team.image_path,
       },
       awayTeam: {
         name: detail.away_team.name,
         shortName: detail.away_team.short_name,
-        imageUrl: detail.away_team.image_path,
       },
       score: {
         fullTime: { home: detail.scores.home_total, away: detail.scores.away_total },
@@ -217,7 +215,10 @@ export async function getFixtureById(matchId: string): Promise<{
       const matchStats = statsData?.match || statsData?.['match'] || [];
       if (Array.isArray(matchStats)) {
         for (const s of matchStats) {
-          statsMap[s.name] = [String(s.home_team), String(s.away_team)];
+          // Keep first occurrence only (upstream may return duplicates)
+          if (!statsMap[s.name]) {
+            statsMap[s.name] = [String(s.home_team), String(s.away_team)];
+          }
         }
       }
     } catch {}
@@ -263,7 +264,6 @@ export async function getStandings(leagueId: string, seasonParam?: string): Prom
   standings: Array<{
     position: number;
     team: string;
-    teamId: string;
     played: number;
     won: number;
     drawn: number;
@@ -316,7 +316,6 @@ export async function getStandings(leagueId: string, seasonParam?: string): Prom
       return {
         position: i + 1,
         team: e.name,
-        teamId: e.team_id,
         played: e.matches_played,
         won: e.wins,
         drawn: e.draws,
@@ -344,14 +343,17 @@ export async function getMatchStats(matchId: string): Promise<StatsResponse | nu
     const matchStats = data?.match || data?.['match'] || [];
     if (!Array.isArray(matchStats) || matchStats.length === 0) return null;
 
-    return {
-      matchId,
-      stats: matchStats.map((s: any) => ({
-        name: s.name,
-        home: s.home_team,
-        away: s.away_team,
-      })),
-    };
+    // Deduplicate by stat name (upstream returns some stats 2x)
+    const seen = new Set<string>();
+    const dedupedStats: Array<{ name: string; home: string | number; away: string | number }> = [];
+    for (const s of matchStats) {
+      if (!seen.has(s.name)) {
+        seen.add(s.name);
+        dedupedStats.push({ name: s.name, home: s.home_team, away: s.away_team });
+      }
+    }
+
+    return { matchId, stats: dedupedStats };
   } catch {
     return null;
   }
@@ -361,10 +363,32 @@ export async function getMatchEvents(matchId: string): Promise<EventsResponse | 
   try {
     const events = await api.getMatchSummary(matchId);
     if (!events || events.length === 0) return null;
-    return { matchId, events };
+
+    // Strip internal URLs/IDs from event player data
+    const cleaned = events.map(e => ({
+      minutes: e.minutes,
+      team: e.team,
+      description: e.description,
+      players: e.players?.map(p => ({
+        name: p.name,
+        type: p.type,
+        subType: p.sub_type,
+      })) || [],
+    }));
+
+    return { matchId, events: cleaned as any };
   } catch {
     return null;
   }
+}
+
+// Strip FlashScore URLs from player data
+function cleanPlayer(p: any) {
+  return {
+    name: p.name,
+    number: p.number,
+    country: p.country_name,
+  };
 }
 
 export async function getMatchLineups(matchId: string): Promise<LineupsResponse | null> {
@@ -379,13 +403,13 @@ export async function getMatchLineups(matchId: string): Promise<LineupsResponse 
       matchId,
       home: homeSide ? {
         formation: homeSide.predictedFormation || homeSide.formation || '',
-        starting: homeSide.startingLineups || [],
-        substitutes: homeSide.substitutes || [],
+        starting: (homeSide.startingLineups || []).map(cleanPlayer),
+        substitutes: (homeSide.substitutes || []).map(cleanPlayer),
       } : null,
       away: awaySide ? {
         formation: awaySide.predictedFormation || awaySide.formation || '',
-        starting: awaySide.startingLineups || [],
-        substitutes: awaySide.substitutes || [],
+        starting: (awaySide.startingLineups || []).map(cleanPlayer),
+        substitutes: (awaySide.substitutes || []).map(cleanPlayer),
       } : null,
     };
   } catch {

@@ -24,10 +24,18 @@ function validateSport(sport: string): sport is Sport {
   return ['football', 'basketball', 'tennis', 'hockey'].includes(sport);
 }
 
+/** Strip HTML/script tags and limit length to prevent XSS reflection */
+function sanitize(input?: string): string | undefined {
+  if (!input) return undefined;
+  return input.replace(/[<>"'&]/g, '').slice(0, 200);
+}
+
 
 app.get('/:sport/leagues', async (c) => {
   const sport = c.req.param('sport') as Sport;
-  const { country } = c.req.query();
+  const country = sanitize(c.req.query('country'));
+  const page = Math.max(1, parseInt(c.req.query('page') || '1'));
+  const limit = Math.min(100, Math.max(1, parseInt(c.req.query('limit') || '50')));
 
   if (!validateSport(sport)) {
     return c.json({ success: false, error: 'Esporte não suportado' }, 400);
@@ -55,17 +63,23 @@ app.get('/:sport/leagues', async (c) => {
       });
     }
 
-    let leagues;
+    let allLeagues;
     if (country) {
-      leagues = await footballData.getLeaguesByCountry(country);
+      allLeagues = await footballData.getLeaguesByCountry(country);
     } else {
-      leagues = await footballData.getLeagues();
+      allLeagues = await footballData.getLeagues();
     }
+
+    // Paginate
+    const total = allLeagues.length;
+    const offset = (page - 1) * limit;
+    const leagues = allLeagues.slice(offset, offset + limit);
 
     const result = {
       leagues,
-      total: leagues.length,
-      filters: { country }
+      total,
+      page,
+      totalPages: Math.ceil(total / limit),
     };
 
     await setCache({ sport, endpoint: 'leagues', params, ttlSeconds: ttl }, result);
@@ -84,7 +98,13 @@ app.get('/:sport/leagues', async (c) => {
 
 app.get('/:sport/fixtures', async (c) => {
   const sport = c.req.param('sport') as Sport;
-  const { date, league, team, round, dateFrom, dateTo, season } = c.req.query();
+  const date = sanitize(c.req.query('date'));
+  const league = sanitize(c.req.query('league'));
+  const team = sanitize(c.req.query('team'));
+  const round = sanitize(c.req.query('round'));
+  const dateFrom = sanitize(c.req.query('dateFrom'));
+  const dateTo = sanitize(c.req.query('dateTo'));
+  const season = sanitize(c.req.query('season'));
 
   if (!validateSport(sport)) {
     return c.json({ success: false, error: 'Esporte não suportado' }, 400);
@@ -206,7 +226,8 @@ app.get('/:sport/fixtures/:fixtureId', async (c) => {
 
 app.get('/:sport/standings', async (c) => {
   const sport = c.req.param('sport') as Sport;
-  const { league, season } = c.req.query();
+  const league = sanitize(c.req.query('league'));
+  const season = sanitize(c.req.query('season'));
 
   if (!validateSport(sport)) {
     return c.json({ success: false, error: 'Esporte não suportado' }, 400);
@@ -268,7 +289,9 @@ app.get('/:sport/standings', async (c) => {
 
 app.get('/:sport/teams', async (c) => {
   const sport = c.req.param('sport') as Sport;
-  const { league, search, season } = c.req.query();
+  const league = sanitize(c.req.query('league'));
+  const search = sanitize(c.req.query('search'));
+  const season = sanitize(c.req.query('season'));
 
   if (!validateSport(sport)) {
     return c.json({ success: false, error: 'Esporte não suportado' }, 400);
@@ -330,7 +353,8 @@ app.get('/:sport/teams', async (c) => {
 app.get('/:sport/teams/:teamName/fixtures', async (c) => {
   const sport = c.req.param('sport') as Sport;
   const teamName = c.req.param('teamName');
-  const { league, season } = c.req.query();
+  const league = sanitize(c.req.query('league'));
+  const season = sanitize(c.req.query('season'));
 
   if (!validateSport(sport)) {
     return c.json({ success: false, error: 'Esporte não suportado' }, 400);

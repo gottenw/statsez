@@ -209,12 +209,10 @@ export interface FixtureResponse {
   homeTeam: {
     name: string;
     shortName?: string;
-    imageUrl?: string;
   };
   awayTeam: {
     name: string;
     shortName?: string;
-    imageUrl?: string;
   };
   score: {
     fullTime: { home: number; away: number };
@@ -235,7 +233,6 @@ export interface TeamResponse {
   name: string;
   shortName?: string;
   country: string;
-  imageUrl?: string;
 }
 
 export interface StatsResponse {
@@ -252,16 +249,22 @@ export interface EventsResponse {
   events: MatchSummaryEvent[];
 }
 
+export interface CleanPlayer {
+  name: string;
+  number: string;
+  country: string;
+}
+
 export interface LineupsResponse {
   matchId: string;
   home: {
     formation: string;
-    starting: LineupPlayer[];
-    substitutes: LineupPlayer[];
+    starting: CleanPlayer[];
+    substitutes: CleanPlayer[];
   } | null;
   away: {
     formation: string;
-    starting: LineupPlayer[];
-    substitutes: LineupPlayer[];
+    starting: CleanPlayer[];
+    substitutes: CleanPlayer[];
   } | null;
 }

@@ -119,41 +119,41 @@ const responseFormats = {
       "home": {
         "formation": "4-2-3-1",
         "starting": [
-          { "name": "Lucas Perri", "number": "1", "player_id": "abc123", "country_name": "Brazil" },
-          { "name": "Bogle J.", "number": "2", "player_id": "def456", "country_name": "England" },
-          { "name": "Rodon J.", "number": "6", "player_id": "ghi789", "country_name": "Wales" },
-          { "name": "Struijk P.", "number": "5", "player_id": "jkl012", "country_name": "Netherlands" },
-          { "name": "Gudmundsson G.", "number": "3", "player_id": "mno345", "country_name": "Sweden" },
-          { "name": "Stach A.", "number": "18", "player_id": "pqr678", "country_name": "Germany" },
-          { "name": "Ampadu E.", "number": "4", "player_id": "stu901", "country_name": "Wales" },
-          { "name": "James D.", "number": "7", "player_id": "vwx234", "country_name": "Wales" },
-          { "name": "Tanaka A.", "number": "22", "player_id": "yza567", "country_name": "Japan" },
-          { "name": "Gnonto W.", "number": "29", "player_id": "bcd890", "country_name": "Italy" },
-          { "name": "Piroe J.", "number": "10", "player_id": "efg123", "country_name": "Suriname" }
+          { "name": "Lucas Perri", "number": "1", "country": "Brazil" },
+          { "name": "Bogle J.", "number": "2", "country": "England" },
+          { "name": "Rodon J.", "number": "6", "country": "Wales" },
+          { "name": "Struijk P.", "number": "5", "country": "Netherlands" },
+          { "name": "Gudmundsson G.", "number": "3", "country": "Sweden" },
+          { "name": "Stach A.", "number": "18", "country": "Germany" },
+          { "name": "Ampadu E.", "number": "4", "country": "Wales" },
+          { "name": "James D.", "number": "7", "country": "Wales" },
+          { "name": "Tanaka A.", "number": "22", "country": "Japan" },
+          { "name": "Gnonto W.", "number": "29", "country": "Italy" },
+          { "name": "Piroe J.", "number": "10", "country": "Suriname" }
         ],
         "substitutes": [
-          { "name": "Aaronson B.", "number": "11", "player_id": "hij456", "country_name": "USA" },
-          { "name": "Darlow K.", "number": "26", "player_id": "klm789", "country_name": "England" }
+          { "name": "Aaronson B.", "number": "11", "country": "USA" },
+          { "name": "Darlow K.", "number": "26", "country": "England" }
         ]
       },
       "away": {
         "formation": "4-2-3-1",
         "starting": [
-          { "name": "Pickford J.", "number": "1", "player_id": "nop012", "country_name": "England" },
-          { "name": "O'Brien J.", "number": "15", "player_id": "qrs345", "country_name": "Ireland" },
-          { "name": "Tarkowski J.", "number": "6", "player_id": "tuv678", "country_name": "England" },
-          { "name": "Keane M.", "number": "5", "player_id": "wxy901", "country_name": "England" },
-          { "name": "Garner J.", "number": "37", "player_id": "zab234", "country_name": "England" },
-          { "name": "Iroegbunam T.", "number": "42", "player_id": "cde567", "country_name": "England" },
-          { "name": "Gueye I.", "number": "27", "player_id": "fgh890", "country_name": "Senegal" },
-          { "name": "Alcaraz C.", "number": "24", "player_id": "ijk123", "country_name": "Argentina" },
-          { "name": "Dewsbury-Hall K.", "number": "22", "player_id": "lmn456", "country_name": "England" },
-          { "name": "Ndiaye I.", "number": "10", "player_id": "opq789", "country_name": "Senegal" },
-          { "name": "Beto", "number": "9", "player_id": "rst012", "country_name": "Guinea-Bissau" }
+          { "name": "Pickford J.", "number": "1", "country": "England" },
+          { "name": "O'Brien J.", "number": "15", "country": "Ireland" },
+          { "name": "Tarkowski J.", "number": "6", "country": "England" },
+          { "name": "Keane M.", "number": "5", "country": "England" },
+          { "name": "Garner J.", "number": "37", "country": "England" },
+          { "name": "Iroegbunam T.", "number": "42", "country": "England" },
+          { "name": "Gueye I.", "number": "27", "country": "Senegal" },
+          { "name": "Alcaraz C.", "number": "24", "country": "Argentina" },
+          { "name": "Dewsbury-Hall K.", "number": "22", "country": "England" },
+          { "name": "Ndiaye I.", "number": "10", "country": "Senegal" },
+          { "name": "Beto", "number": "9", "country": "Guinea-Bissau" }
         ],
         "substitutes": [
-          { "name": "Coleman S.", "number": "23", "player_id": "uvw345", "country_name": "Ireland" },
-          { "name": "Grealish J.", "number": "18", "player_id": "xyz678", "country_name": "England" }
+          { "name": "Coleman S.", "number": "23", "country": "Ireland" },
+          { "name": "Grealish J.", "number": "18", "country": "England" }
         ]
       }
     }
@@ -163,9 +163,9 @@ const responseFormats = {
     "data": {
       "matchId": "GCxZ2uHc",
       "events": [
-        { "minutes": "12", "team": "home", "description": "Loic Bade (Sevilla) receives a red card!", "players": [{ "name": "Bade L.", "player_id": "YgxuEfvL", "type": "Red Card" }] },
-        { "minutes": "75", "team": "away", "description": "Kylian Mbappe (Real Madrid) drills a shot into the bottom left corner.", "players": [{ "name": "Mbappe K.", "player_id": "Wn6E2SED", "type": "Goal" }, { "name": "Modric L.", "player_id": "bZWyoJnA", "type": "Assistance" }] },
-        { "minutes": "87", "team": "away", "description": "Jude Bellingham (Real Madrid) pokes it into the back of the net. 0:2.", "players": [{ "name": "Bellingham J.", "player_id": "QNvlPm7s", "type": "Goal" }] }
+        { "minutes": "12", "team": "home", "description": "Loic Bade (Sevilla) receives a red card!", "players": [{ "name": "Bade L.", "type": "Red Card" }] },
+        { "minutes": "75", "team": "away", "description": "Kylian Mbappe (Real Madrid) drills a shot into the bottom left corner.", "players": [{ "name": "Mbappe K.", "type": "Goal" }, { "name": "Modric L.", "type": "Assistance" }] },
+        { "minutes": "87", "team": "away", "description": "Jude Bellingham (Real Madrid) pokes it into the back of the net. 0:2.", "players": [{ "name": "Bellingham J.", "type": "Goal" }] }
       ]
     }
   },
