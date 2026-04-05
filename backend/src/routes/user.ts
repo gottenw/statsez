@@ -2,6 +2,7 @@ import { Hono } from 'hono';
 import { prisma } from '../lib/prisma.js';
 import jwt from 'jsonwebtoken';
 import crypto from 'crypto';
+import { hashApiKey } from '../middleware/auth.js';
 
 const app = new Hono();
 
@@ -10,15 +11,23 @@ if (!JWT_SECRET) {
   throw new Error('JWT_SECRET environment variable is required')
 }
 
-// Middleware para verificar JWT
-const authMiddleware = async (c: any, next: any) => {
-  const authHeader = c.req.header('authorization');
+import { getCookie } from 'hono/cookie';
 
-  if (!authHeader || !authHeader.startsWith('Bearer ')) {
-    return c.json({ success: false, error: 'Unauthorized' }, 401);
+// Middleware para verificar JWT (cookie httpOnly ou header Authorization)
+const authMiddleware = async (c: any, next: any) => {
+  // Tenta cookie httpOnly primeiro, fallback para Authorization header
+  let token = getCookie(c, 'statsez_token') || null;
+
+  if (!token) {
+    const authHeader = c.req.header('authorization');
+    if (authHeader?.startsWith('Bearer ')) {
+      token = authHeader.split(' ')[1];
+    }
   }
 
-  const token = authHeader.split(' ')[1];
+  if (!token) {
+    return c.json({ success: false, error: 'Unauthorized' }, 401);
+  }
 
   try {
     const decoded = jwt.verify(token, JWT_SECRET) as any;
@@ -36,9 +45,15 @@ app.get('/me', async (c) => {
 
   const user = await prisma.user.findUnique({
     where: { id: userId },
-    include: {
+    select: {
+      id: true,
+      email: true,
+      name: true,
+      role: true,
+      createdAt: true,
+      updatedAt: true,
       subscriptions: {
-        include: { apiKey: true },
+        include: { apiKey: { select: { id: true, key: true, isActive: true, lastUsedAt: true, createdAt: true } } },
         orderBy: { createdAt: 'desc' }
       }
     }
@@ -79,32 +94,21 @@ app.post('/keys/rotate', async (c) => {
       return c.json({ success: false, error: 'Subscription not found' }, 404);
     }
 
-    // Gera nova key
-    const newKey = `se_live_${crypto.randomBytes(32).toString('base64url')}`;
+    // Gera nova key — armazena hash, retorna raw uma única vez
+    const rawKey = `se_live_${crypto.randomBytes(32).toString('base64url')}`;
+    const hashed = hashApiKey(rawKey);
 
-    const updatedKey = await prisma.apiKey.upsert({
+    await prisma.apiKey.upsert({
       where: { subscriptionId: sub.id },
-      update: { key: newKey, isActive: true, createdAt: new Date() },
-      create: { key: newKey, subscriptionId: sub.id, isActive: true }
+      update: { key: hashed, isActive: true, createdAt: new Date() },
+      create: { key: hashed, subscriptionId: sub.id, isActive: true }
     });
 
-    return c.json({ success: true, data: { key: updatedKey.key } });
+    return c.json({ success: true, data: { key: rawKey } });
   } catch (error: any) {
     console.error('[Rotate] Erro na rotação de chave');
     return c.json({ success: false, error: 'Erro ao rotacionar chave' }, 500);
   }
-});
-
-app.get('/payments', async (c) => {
-  const userId = c.get('userId');
-
-  const payments = await prisma.payment.findMany({
-    where: { userId },
-    include: { subscription: { select: { planName: true, sport: true } } },
-    orderBy: { createdAt: 'desc' }
-  });
-
-  return c.json({ success: true, data: payments });
 });
 
 // Gerar nova chave (cria plano free se não existir)
@@ -121,18 +125,29 @@ app.post('/keys/generate', async (c) => {
     if (existingSub) {
       // Se já tem assinatura mas não tem api key, cria uma
       if (!existingSub.apiKey) {
-        const apiKey = `se_live_${crypto.randomBytes(32).toString('base64url')}`;
-        const newKey = await prisma.apiKey.create({
+        const rawKey = `se_live_${crypto.randomBytes(32).toString('base64url')}`;
+        const hashed = hashApiKey(rawKey);
+        await prisma.apiKey.create({
           data: {
-            key: apiKey,
+            key: hashed,
             subscriptionId: existingSub.id,
             isActive: true
           }
         });
-        return c.json({ success: true, data: { key: newKey.key, subscriptionId: existingSub.id } });
+        return c.json({ success: true, data: { key: rawKey, subscriptionId: existingSub.id } });
       }
-      // Já tem tudo
-      return c.json({ success: true, data: { key: existingSub.apiKey.key, subscriptionId: existingSub.id } });
+      // Já tem key — não podemos mostrar a raw (só temos o hash).
+      // O usuário deve usar /keys/rotate para obter uma nova.
+      return c.json({ success: true, data: { key: null, subscriptionId: existingSub.id, message: 'Key já existe. Use /keys/rotate para gerar uma nova.' } });
+    }
+
+    // Verifica se já teve free antes (evita renovação infinita)
+    const hadFreePlan = await prisma.subscription.findFirst({
+      where: { userId, planName: 'free' }
+    });
+
+    if (hadFreePlan) {
+      return c.json({ success: false, error: 'Plano free já utilizado. Entre em contato para assinar um plano.' }, 403);
     }
 
     // Cria nova subscription free
@@ -148,7 +163,7 @@ app.post('/keys/generate', async (c) => {
         sport: 'football',
         planName: 'free',
         monthlyQuota: 500,
-        biWeeklyQuota: 500,
+        biWeeklyQuota: 250,
         startsAt: now,
         expiresAt,
         cycleStartDate: now,
@@ -157,17 +172,18 @@ app.post('/keys/generate', async (c) => {
       }
     });
 
-    const apiKey = `se_live_${crypto.randomBytes(32).toString('base64url')}`;
-    
-    const newKey = await prisma.apiKey.create({
+    const rawKey = `se_live_${crypto.randomBytes(32).toString('base64url')}`;
+    const hashed = hashApiKey(rawKey);
+
+    await prisma.apiKey.create({
       data: {
-        key: apiKey,
+        key: hashed,
         subscriptionId: subscription.id,
         isActive: true
       }
     });
 
-    return c.json({ success: true, data: { key: newKey.key, subscriptionId: subscription.id } });
+    return c.json({ success: true, data: { key: rawKey, subscriptionId: subscription.id } });
   } catch (error: any) {
     console.error('[Generate] Erro ao gerar chave');
     return c.json({ success: false, error: 'Erro ao gerar chave' }, 500);

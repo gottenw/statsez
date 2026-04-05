@@ -5,7 +5,7 @@ import {
   getAdminStats,
   getAdminRequestVolume,
   getAdminTopEndpoints,
-  getAdminRevenue,
+
   getAdminGrowth,
   getAdminCostAnalysis,
 } from "../../../lib/api";
@@ -25,7 +25,6 @@ interface Stats {
   totalUsers: number;
   activeSubscriptions: number;
   subscriptionsByPlan: Record<string, number>;
-  totalRevenue: number;
   totalRequests: number;
   cachedRequests: number;
   cacheHitRatio: number;
@@ -40,10 +39,8 @@ interface CostAnalysis {
   nextPlanThreshold: number | null;
   alerts: Array<{ level: string; message: string; recommendation: string }>;
   financials: {
-    monthlyRevenue: number;
     upstreamCost: number;
     fixedCosts: number;
-    estimatedProfit: number;
   };
   upstreamPlans: Array<{ name: string; limit: number; cost: number; costPerReq: number }>;
 }
@@ -60,7 +57,7 @@ const chartTooltipStyle = {
 export default function AdminDashboard() {
   const [stats, setStats] = useState<Stats | null>(null);
   const [requestData, setRequestData] = useState<Array<{ date: string; requests: number }>>([]);
-  const [revenueData, setRevenueData] = useState<Array<{ date: string; revenue: number }>>([]);
+
   const [growthData, setGrowthData] = useState<Array<{ date: string; newUsers: number }>>([]);
   const [topEndpoints, setTopEndpoints] = useState<Array<{ endpoint: string; count: number }>>([]);
   const [costAnalysis, setCostAnalysis] = useState<CostAnalysis | null>(null);
@@ -77,17 +74,15 @@ export default function AdminDashboard() {
 
   async function loadData() {
     try {
-      const [statsRes, reqRes, revRes, growthRes, endpointsRes, costRes] = await Promise.all([
+      const [statsRes, reqRes, growthRes, endpointsRes, costRes] = await Promise.all([
         getAdminStats(),
         getAdminRequestVolume("7d"),
-        getAdminRevenue("30d"),
         getAdminGrowth("30d"),
         getAdminTopEndpoints(10),
         getAdminCostAnalysis(),
       ]);
       setStats(statsRes.data);
       setRequestData(reqRes.data || []);
-      setRevenueData(revRes.data || []);
       setGrowthData(growthRes.data || []);
       setTopEndpoints(endpointsRes.data || []);
       setCostAnalysis(costRes.data);
@@ -141,7 +136,7 @@ export default function AdminDashboard() {
       <div className="grid grid-cols-2 md:grid-cols-4 border-b border-border">
         <KpiCard label="TOTAL USERS" value={stats?.totalUsers ?? 0} />
         <KpiCard label="ACTIVE SUBS" value={stats?.activeSubscriptions ?? 0} />
-        <KpiCard label="TOTAL REVENUE" value={`R$ ${(stats?.totalRevenue ?? 0).toLocaleString("pt-BR", { minimumFractionDigits: 2 })}`} />
+        <KpiCard label="TOTAL REQUESTS" value={(stats?.totalRequests ?? 0).toLocaleString()} />
         <KpiCard label="CACHE HIT RATE" value={`${stats?.cacheHitRatio ?? 0}%`} />
       </div>
 
@@ -160,65 +155,36 @@ export default function AdminDashboard() {
         </div>
       </div>
 
-      {/* Charts Row */}
-      <div className="grid grid-cols-1 md:grid-cols-2 border-b border-border">
-        {/* Request Volume Chart */}
-        <div className="section-padding py-12 border-b md:border-b-0 md:border-r border-border">
-          <div className="flex items-center justify-between mb-6">
-            <span className="data-label tracking-[0.3em]">REQUEST VOLUME</span>
-            <div className="flex gap-2">
-              {["7d", "30d", "90d"].map((p) => (
-                <button
-                  key={p}
-                  onClick={() => setRequestPeriod(p)}
-                  className={`font-mono text-[10px] px-3 py-1.5 border transition-all ${
-                    requestPeriod === p
-                      ? "border-foreground bg-foreground text-background"
-                      : "border-border text-muted-foreground hover:text-foreground"
-                  }`}
-                >
-                  {p.toUpperCase()}
-                </button>
-              ))}
-            </div>
-          </div>
-          <div className="h-[250px]">
-            <ResponsiveContainer width="100%" height="100%">
-              <LineChart data={requestData}>
-                <CartesianGrid strokeDasharray="3 3" stroke="#262626" />
-                <XAxis
-                  dataKey="date"
-                  stroke="#737373"
-                  tick={{ fontSize: 10, fontFamily: "JetBrains Mono" }}
-                  tickFormatter={(v) => v.slice(5)}
-                />
-                <YAxis stroke="#737373" tick={{ fontSize: 10, fontFamily: "JetBrains Mono" }} />
-                <Tooltip {...chartTooltipStyle} />
-                <Line type="monotone" dataKey="requests" stroke="#fafafa" strokeWidth={1.5} dot={false} />
-              </LineChart>
-            </ResponsiveContainer>
+      {/* Request Volume Chart */}
+      <div className="section-padding py-12 border-b border-border">
+        <div className="flex items-center justify-between mb-6">
+          <span className="data-label tracking-[0.3em]">REQUEST VOLUME</span>
+          <div className="flex gap-2">
+            {["7d", "30d", "90d"].map((p) => (
+              <button
+                key={p}
+                onClick={() => setRequestPeriod(p)}
+                className={`font-mono text-[10px] px-3 py-1.5 border transition-all ${
+                  requestPeriod === p
+                    ? "border-foreground bg-foreground text-background"
+                    : "border-border text-muted-foreground hover:text-foreground"
+                }`}
+              >
+                {p.toUpperCase()}
+              </button>
+            ))}
           </div>
         </div>
-
-        {/* Revenue Chart */}
-        <div className="section-padding py-12">
-          <span className="data-label tracking-[0.3em] mb-6 block">REVENUE (30D)</span>
-          <div className="h-[250px]">
-            <ResponsiveContainer width="100%" height="100%">
-              <BarChart data={revenueData}>
-                <CartesianGrid strokeDasharray="3 3" stroke="#262626" />
-                <XAxis
-                  dataKey="date"
-                  stroke="#737373"
-                  tick={{ fontSize: 10, fontFamily: "JetBrains Mono" }}
-                  tickFormatter={(v) => v.slice(5)}
-                />
-                <YAxis stroke="#737373" tick={{ fontSize: 10, fontFamily: "JetBrains Mono" }} />
-                <Tooltip {...chartTooltipStyle} />
-                <Bar dataKey="revenue" fill="#fafafa" radius={[2, 2, 0, 0]} />
-              </BarChart>
-            </ResponsiveContainer>
-          </div>
+        <div className="h-[250px]">
+          <ResponsiveContainer width="100%" height="100%">
+            <LineChart data={requestData}>
+              <CartesianGrid strokeDasharray="3 3" stroke="#262626" />
+              <XAxis dataKey="date" stroke="#737373" tick={{ fontSize: 10, fontFamily: "JetBrains Mono" }} tickFormatter={(v) => v.slice(5)} />
+              <YAxis stroke="#737373" tick={{ fontSize: 10, fontFamily: "JetBrains Mono" }} />
+              <Tooltip {...chartTooltipStyle} />
+              <Line type="monotone" dataKey="requests" stroke="#fafafa" strokeWidth={1.5} dot={false} />
+            </LineChart>
+          </ResponsiveContainer>
         </div>
       </div>
 
@@ -278,15 +244,9 @@ export default function AdminDashboard() {
           )}
 
           {/* Financials */}
-          <div className="grid grid-cols-2 md:grid-cols-4 gap-4">
-            <FinancialCard label="MONTHLY REVENUE" value={`R$ ${costAnalysis.financials.monthlyRevenue.toFixed(2)}`} />
+          <div className="grid grid-cols-2 gap-4">
             <FinancialCard label="UPSTREAM COST" value={`R$ ${costAnalysis.financials.upstreamCost.toFixed(2)}`} negative />
             <FinancialCard label="FIXED COSTS" value={`R$ ${costAnalysis.financials.fixedCosts.toFixed(2)}`} negative />
-            <FinancialCard
-              label="EST. PROFIT"
-              value={`R$ ${costAnalysis.financials.estimatedProfit.toFixed(2)}`}
-              positive={costAnalysis.financials.estimatedProfit > 0}
-            />
           </div>
 
           {/* Upstream Plans Table */}
@@ -343,9 +303,8 @@ export default function AdminDashboard() {
       {/* Quick Navigation */}
       <div className="section-padding py-12">
         <span className="data-label tracking-[0.3em] mb-6 block">MANAGEMENT</span>
-        <div className="grid grid-cols-1 md:grid-cols-3 gap-4 mt-4">
+        <div className="grid grid-cols-1 md:grid-cols-2 gap-4 mt-4">
           <NavCard href="/dashboard/admin/users" label="USERS" desc="Manage users, plans and quotas" />
-          <NavCard href="/dashboard/admin/payments" label="PAYMENTS" desc="View all payment transactions" />
           <NavCard href="/dashboard/admin/system" label="SYSTEM" desc="Cache, logs and system health" />
         </div>
       </div>
@@ -362,21 +321,11 @@ function KpiCard({ label, value }: { label: string; value: string | number }) {
   );
 }
 
-function FinancialCard({
-  label,
-  value,
-  negative,
-  positive,
-}: {
-  label: string;
-  value: string;
-  negative?: boolean;
-  positive?: boolean;
-}) {
+function FinancialCard({ label, value, negative }: { label: string; value: string; negative?: boolean }) {
   return (
     <div className="border border-border p-4">
       <span className="font-mono text-[10px] uppercase tracking-[0.2em] text-muted-foreground">{label}</span>
-      <p className={`font-mono text-xl font-medium tracking-tighter mt-2 ${negative ? "text-red-400/80" : positive ? "text-green-400" : ""}`}>
+      <p className={`font-mono text-xl font-medium tracking-tighter mt-2 ${negative ? "text-red-400/80" : ""}`}>
         {value}
       </p>
     </div>

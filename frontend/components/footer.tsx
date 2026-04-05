@@ -10,8 +10,8 @@ export function Footer() {
   return (
     <footer className="w-full bg-background border-t border-border">
       <div className="section-padding">
-        <div className="grid grid-cols-12 gap-8 py-24">
-          <div className="col-span-12 md:col-span-6">
+        <div className="grid grid-cols-1 md:grid-cols-12 gap-8 py-16 md:py-24">
+          <div className="md:col-span-6">
             <div className="mb-6">
               <img src="/logo.svg" alt="Statsez" className="h-8 invert" />
             </div>
@@ -26,7 +26,7 @@ export function Footer() {
               <li>
                 <a
                   href="/docs"
-                  className="text-foreground hover:text-muted-foreground transition-colors duration-300 text-sm"
+                  className="text-foreground hover:text-muted-foreground transition-colors duration-300 text-base"
                 >
                   Documentation
                 </a>
@@ -34,7 +34,7 @@ export function Footer() {
               <li>
                 <a
                   href="#pricing"
-                  className="text-foreground hover:text-muted-foreground transition-colors duration-300 text-sm"
+                  className="text-foreground hover:text-muted-foreground transition-colors duration-300 text-base"
                 >
                   Pricing
                 </a>
@@ -42,7 +42,7 @@ export function Footer() {
               <li>
                 <a
                   href="/dashboard"
-                  className="text-foreground hover:text-muted-foreground transition-colors duration-300 text-sm"
+                  className="text-foreground hover:text-muted-foreground transition-colors duration-300 text-base"
                 >
                   Dashboard
                 </a>
@@ -67,7 +67,7 @@ export function Footer() {
               <li>
                 <a
                   href="/docs"
-                  className="text-foreground hover:text-muted-foreground transition-colors duration-300 text-sm"
+                  className="text-foreground hover:text-muted-foreground transition-colors duration-300 text-base"
                 >
                   API Reference
                 </a>
@@ -75,7 +75,7 @@ export function Footer() {
               <li>
                 <a
                   href="#capabilities"
-                  className="text-foreground hover:text-muted-foreground transition-colors duration-300 text-sm"
+                  className="text-foreground hover:text-muted-foreground transition-colors duration-300 text-base"
                 >
                   Capabilities
                 </a>
@@ -86,22 +86,22 @@ export function Footer() {
 
         <div className="flex flex-col md:flex-row justify-between items-start md:items-center py-8 border-t border-border gap-4">
           <div className="flex items-center gap-8">
-            <span className="font-mono text-xs text-muted-foreground">
+            <span className="font-mono text-sm text-muted-foreground">
               {t("copyright")}
             </span>
-            <span className="font-mono text-xs text-muted-foreground">
+            <span className="font-mono text-sm text-muted-foreground">
               {t("version")}
             </span>
           </div>
 
           <div className="flex items-center gap-8">
-            <span className="font-mono text-xs text-muted-foreground">
+            <span className="font-mono text-sm text-muted-foreground">
               {t("language")}:
             </span>
             <LanguageSwitcher />
             <div className="flex items-center gap-2">
               <div className="w-2 h-2 rounded-full bg-data-primary animate-pulse" />
-              <span className="font-mono text-xs text-muted-foreground">
+              <span className="font-mono text-sm text-muted-foreground">
                 {t("status")}
               </span>
             </div>

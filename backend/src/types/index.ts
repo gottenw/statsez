@@ -5,8 +5,6 @@ export type Sport = 'football' | 'basketball' | 'tennis' | 'hockey'
 export type PlanName = 'Basic' | 'Pro' | 'Custom'
 
 
-export type PaymentStatus = 'pending' | 'paid' | 'failed' | 'refunded'
-
 
 export interface ApiResponse<T = any> {
   success: boolean

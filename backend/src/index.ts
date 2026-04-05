@@ -5,12 +5,13 @@ import { cors } from 'hono/cors'
 import { logger } from 'hono/logger'
 import { prettyJSON } from 'hono/pretty-json'
 import { rateLimit } from './middleware/rateLimit.js'
-import { apiKeyAuth, decrementQuota } from './middleware/auth.js'
+import { apiKeyAuth } from './middleware/auth.js'
+import { prisma } from './lib/prisma.js'
 import { requestLogger } from './middleware/logger.js'
 import { sportRoutes } from './routes/sports.js'
 import { authRoutes } from './routes/auth.js'
 import { healthRoutes } from './routes/health.js'
-import { paymentRoutes } from './routes/payments.js'
+
 import { userRoutes } from './routes/user.js'
 import { adminRoutes } from './routes/admin.js'
 
@@ -63,13 +64,12 @@ app.use('*', rateLimit({
 
 app.route('/health', healthRoutes)
 app.route('/auth', authRoutes)
-app.route('/payments', paymentRoutes)
+
 app.route('/user', userRoutes)
 app.route('/admin', adminRoutes)
 
 
 app.use('/v1/:sport/*', apiKeyAuth())
-app.use('/v1/:sport/*', decrementQuota)
 app.use('/v1/:sport/*', requestLogger)
 app.route('/v1', sportRoutes)
 
@@ -91,6 +91,28 @@ app.onError((err, c) => {
 })
 
 const port = parseInt(process.env.PORT || '3001')
+
+// Desativa subscriptions expiradas a cada hora
+async function deactivateExpiredSubscriptions() {
+  try {
+    const result = await prisma.subscription.updateMany({
+      where: {
+        isActive: true,
+        expiresAt: { lt: new Date() }
+      },
+      data: { isActive: false }
+    })
+    if (result.count > 0) {
+      console.log(`[Cron] ${result.count} subscription(s) expirada(s) desativada(s)`)
+    }
+  } catch (err) {
+    console.error('[Cron] Erro ao desativar subscriptions expiradas:', err)
+  }
+}
+
+// Executa ao iniciar e a cada hora
+deactivateExpiredSubscriptions()
+setInterval(deactivateExpiredSubscriptions, 60 * 60 * 1000)
 
 serve({
   fetch: app.fetch,

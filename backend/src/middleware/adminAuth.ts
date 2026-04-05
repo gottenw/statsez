@@ -1,4 +1,5 @@
 import type { MiddlewareHandler } from 'hono'
+import { getCookie } from 'hono/cookie'
 import { prisma } from '../lib/prisma.js'
 import jwt from 'jsonwebtoken'
 
@@ -8,12 +9,19 @@ if (!JWT_SECRET) {
 }
 
 export const adminAuth: MiddlewareHandler = async (c, next) => {
-  const authHeader = c.req.header('authorization')
-  if (!authHeader?.startsWith('Bearer ')) {
-    return c.json({ success: false, error: 'Unauthorized' }, 401)
+  // Tenta cookie httpOnly primeiro, fallback para Authorization header
+  let token = getCookie(c, 'statsez_token') || null
+
+  if (!token) {
+    const authHeader = c.req.header('authorization')
+    if (authHeader?.startsWith('Bearer ')) {
+      token = authHeader.split(' ')[1]
+    }
   }
 
-  const token = authHeader.split(' ')[1]
+  if (!token) {
+    return c.json({ success: false, error: 'Unauthorized' }, 401)
+  }
 
   try {
     const decoded = jwt.verify(token, JWT_SECRET) as { userId: string; email: string; role: string }

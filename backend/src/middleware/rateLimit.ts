@@ -1,6 +1,5 @@
 import type { MiddlewareHandler } from 'hono'
-
-
+import { getConnInfo } from '@hono/node-server/conninfo'
 
 interface RateLimitStore {
   [ip: string]: {
@@ -11,7 +10,7 @@ interface RateLimitStore {
 
 const store: RateLimitStore = {}
 
-
+// Limpa entradas expiradas a cada 10 minutos
 setInterval(() => {
   const now = Date.now()
   for (const ip in store) {
@@ -22,22 +21,27 @@ setInterval(() => {
 }, 10 * 60 * 1000)
 
 interface RateLimitOptions {
-  windowMs?: number      
-  maxRequests?: number   
+  windowMs?: number
+  maxRequests?: number
 }
 
-
 export const rateLimit = (options: RateLimitOptions = {}): MiddlewareHandler => {
-  const windowMs = options.windowMs || 60 * 1000 
+  const windowMs = options.windowMs || 60 * 1000
   const maxRequests = options.maxRequests || 100
 
   return async (c, next) => {
-    const ip = c.req.header('x-forwarded-for') || 
-               c.req.header('x-real-ip') || 
-               'unknown'
+    // Usa o IP real da conexão TCP, não headers forjáveis pelo cliente.
+    // getConnInfo extrai o IP do socket — não pode ser spoofado.
+    let ip = 'unknown'
+    try {
+      const info = getConnInfo(c)
+      ip = info.remote?.address || 'unknown'
+    } catch {
+      ip = 'unknown'
+    }
+
     const now = Date.now()
 
-    
     if (!store[ip] || store[ip].resetTime <= now) {
       store[ip] = {
         count: 0,
@@ -45,10 +49,8 @@ export const rateLimit = (options: RateLimitOptions = {}): MiddlewareHandler => 
       }
     }
 
-    
     store[ip].count++
 
-    
     if (store[ip].count > maxRequests) {
       return c.json({
         success: false,
@@ -57,7 +59,6 @@ export const rateLimit = (options: RateLimitOptions = {}): MiddlewareHandler => 
       }, 429)
     }
 
-    
     c.header('X-RateLimit-Limit', String(maxRequests))
     c.header('X-RateLimit-Remaining', String(Math.max(0, maxRequests - store[ip].count)))
     c.header('X-RateLimit-Reset', String(Math.ceil(store[ip].resetTime / 1000)))

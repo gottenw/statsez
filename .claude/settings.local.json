@@ -1,0 +1,19 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(npm audit:*)",
+      "Bash(test:*)",
+      "Bash(npm install:*)",
+      "Bash(npx tsc:*)",
+      "Bash(echo:*)",
+      "Bash(python3:*)",
+      "Bash(npx prisma generate:*)",
+      "Bash(ls:*)",
+      "Bash(xargs:*)",
+      "Bash(node -e:*)",
+      "Bash(curl:*)",
+      "Bash(npx next build:*)",
+      "Bash(npx next lint:*)"
+    ]
+  }
+}

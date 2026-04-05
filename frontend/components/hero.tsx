@@ -20,8 +20,8 @@ export function Hero() {
     <section className="relative min-h-screen w-full overflow-hidden grid-system">
       <DataVisualizer />
 
-      {}
-      <div className="absolute inset-0 pointer-events-none">
+      {/* Grid lines — desktop only */}
+      <div className="absolute inset-0 pointer-events-none hidden md:block">
         <div className="absolute left-[20%] top-0 bottom-0 w-px bg-border" />
         <div className="absolute left-[40%] top-0 bottom-0 w-px bg-border" />
         <div className="absolute left-[60%] top-0 bottom-0 w-px bg-border" />
@@ -30,27 +30,17 @@ export function Hero() {
         <div className="absolute top-[66%] left-0 right-0 h-px bg-border" />
       </div>
 
-      {}
-      <div className="relative z-10 min-h-screen flex flex-col justify-between section-padding py-12">
-        {}
+      {/* Content — pt-24 clears the fixed nav */}
+      <div className="relative z-10 min-h-screen flex flex-col justify-between section-padding pt-24 pb-12">
+        {/* Top bar — only version, no fake metrics */}
         <div className="flex justify-between items-start">
           <div className="flex flex-col gap-1">
             <span className="data-label">STATSEZ API</span>
-            <span className="data-value text-muted-foreground">{t("version")}</span>
-          </div>
-          <div className="flex gap-12 text-right">
-            <div className="flex flex-col gap-1">
-              <span className="data-label">{t("latency")}</span>
-              <span className="data-value">&lt;1min</span>
-            </div>
-            <div className="flex flex-col gap-1">
-              <span className="data-label">{t("uptime")}</span>
-              <span className="data-value">99.9%</span>
-            </div>
+            <span className="font-mono text-sm text-muted-foreground">{t("version")}</span>
           </div>
         </div>
 
-        {}
+        {/* Headline */}
         <div className="flex-1 flex items-center">
           <div className="w-full">
             <motion.div
@@ -71,64 +61,59 @@ export function Hero() {
               initial={{ opacity: 0, x: -20 }}
               animate={{ opacity: 1, x: 0 }}
               transition={{ duration: 0.8, delay: 1.2, ease: [0.16, 1, 0.3, 1] }}
-              className="mt-8 max-w-md"
+              className="mt-8 max-w-lg"
             >
               <p className="subhead-text text-muted-foreground leading-relaxed">
                 {t("subtitle")}
               </p>
             </motion.div>
+
+            <motion.div
+              initial={{ opacity: 0, y: 10 }}
+              animate={{ opacity: 1, y: 0 }}
+              transition={{ duration: 0.8, delay: 1.5, ease: [0.16, 1, 0.3, 1] }}
+              className="flex flex-wrap gap-4 mt-10"
+            >
+              <a
+                href="/auth/register"
+                className="font-mono text-sm font-bold uppercase tracking-[0.15em] bg-foreground text-background px-10 py-5 hover:bg-data-primary hover:text-background transition-all duration-300"
+              >
+                Começar Grátis
+              </a>
+              <a
+                href="/docs"
+                className="font-mono text-sm font-bold uppercase tracking-[0.15em] border border-border px-10 py-5 hover:bg-foreground/10 transition-all duration-300"
+              >
+                Documentação →
+              </a>
+            </motion.div>
           </div>
         </div>
 
-        {}
+        {/* Bottom stats — only real data */}
         <motion.div
           initial={{ opacity: 0, y: 20 }}
           animate={{ opacity: 1, y: 0 }}
           transition={{ duration: 0.8, delay: 1.5, ease: [0.16, 1, 0.3, 1] }}
-          className="grid grid-cols-4 gap-8 border-t border-border pt-8"
+          className="grid grid-cols-2 md:grid-cols-3 gap-6 md:gap-8 border-t border-border pt-8"
         >
           <div className="flex flex-col gap-2">
             <span className="data-label">{t("stats.coverage")}</span>
-            <div className="flex items-baseline gap-1">
-              <span className="font-mono text-2xl font-medium">500+</span>
-              <span className="data-value text-muted-foreground">{t("stats.leagues")}</span>
+            <div className="flex items-baseline gap-2">
+              <span className="font-mono text-2xl font-medium">750+</span>
+              <span className="font-mono text-sm text-muted-foreground">{t("stats.leagues")}</span>
             </div>
           </div>
           <div className="flex flex-col gap-2">
             <span className="data-label">{t("stats.matches")}</span>
-            <div className="flex items-baseline gap-1">
-              <span className="font-mono text-2xl font-medium">2.4M+</span>
-            </div>
-          </div>
-          <div className="flex flex-col gap-2">
-            <span className="data-label">{t("stats.update")}</span>
-            <div className="flex items-baseline gap-1">
-              <span className="font-mono text-2xl font-medium">{t("stats.frequency")}</span>
-            </div>
+            <span className="font-mono text-2xl font-medium">2.4M+</span>
           </div>
           <div className="flex flex-col gap-2">
             <span className="data-label">{t("stats.format")}</span>
-            <span className="font-mono text-2xl font-medium">{t("stats.json")}</span>
+            <span className="font-mono text-2xl font-medium">REST / JSON</span>
           </div>
         </motion.div>
       </div>
-
-      {}
-      <motion.div
-        initial={{ opacity: 0 }}
-        animate={{ opacity: 1 }}
-        transition={{ delay: 2, duration: 1 }}
-        className="absolute bottom-8 left-1/2 -translate-x-1/2 flex flex-col items-center gap-2"
-      >
-        <span className="data-label">{t("scroll")}</span>
-        <div className="w-px h-12 bg-border overflow-hidden">
-          <motion.div
-            className="w-full h-1/2 bg-foreground"
-            animate={{ y: [0, 24, 0] }}
-            transition={{ duration: 2, repeat: Infinity, ease: "easeInOut" }}
-          />
-        </div>
-      </motion.div>
     </section>
   );
 }

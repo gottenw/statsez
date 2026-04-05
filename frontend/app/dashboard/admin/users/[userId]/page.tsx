@@ -19,27 +19,15 @@ interface Subscription {
   apiKey: { id: string; key: string; isActive: boolean; lastUsedAt: string | null; createdAt: string } | null;
 }
 
-interface Payment {
-  id: string;
-  amount: number;
-  currency: string;
-  status: string;
-  provider: string;
-  providerId: string | null;
-  paidAt: string | null;
-  createdAt: string;
-}
-
 interface UserDetail {
   id: string;
   email: string;
   name: string | null;
   role: string;
-  googleId: string | null;
+  hasGoogleAuth: boolean;
   createdAt: string;
   updatedAt: string;
   subscriptions: Subscription[];
-  payments: Payment[];
 }
 
 const PLAN_OPTIONS = ["free", "dev", "enterprise", "gold"];
@@ -172,7 +160,7 @@ export default function UserDetailPage() {
             <InfoRow label="EMAIL" value={user.email} />
             <InfoRow label="NAME" value={user.name || "—"} />
             <InfoRow label="ROLE" value={user.role} />
-            <InfoRow label="AUTH" value={user.googleId ? "Google OAuth" : "Email/Password"} />
+            <InfoRow label="AUTH" value={user.hasGoogleAuth ? "Google OAuth" : "Email/Password"} />
           </div>
           <div className="col-span-12 md:col-span-6 space-y-4">
             <InfoRow label="USER ID" value={user.id} mono />
@@ -293,40 +281,6 @@ export default function UserDetailPage() {
         )}
       </div>
 
-      {/* Payment History */}
-      <div className="section-padding py-12">
-        <span className="data-label tracking-[0.3em] mb-6 block">PAYMENT HISTORY</span>
-        {user.payments?.length > 0 ? (
-          <div className="space-y-0">
-            <div className="grid grid-cols-6 gap-4 py-3 border-b border-border bg-foreground/[0.02]">
-              <div className="font-mono text-[10px] uppercase tracking-[0.2em] text-muted-foreground">Date</div>
-              <div className="font-mono text-[10px] uppercase tracking-[0.2em] text-muted-foreground">Amount</div>
-              <div className="font-mono text-[10px] uppercase tracking-[0.2em] text-muted-foreground">Status</div>
-              <div className="font-mono text-[10px] uppercase tracking-[0.2em] text-muted-foreground">Provider</div>
-              <div className="col-span-2 font-mono text-[10px] uppercase tracking-[0.2em] text-muted-foreground">Provider ID</div>
-            </div>
-            {user.payments.map((p) => (
-              <div key={p.id} className="grid grid-cols-6 gap-4 py-3 border-b border-border">
-                <div className="font-mono text-sm">{new Date(p.createdAt).toLocaleDateString("pt-BR")}</div>
-                <div className="font-mono text-sm">R$ {Number(p.amount).toFixed(2)}</div>
-                <div>
-                  <span className={`font-mono text-[10px] uppercase px-2 py-0.5 border ${
-                    p.status === "paid" ? "border-green-500/30 text-green-400" :
-                    p.status === "pending" ? "border-yellow-500/30 text-yellow-400" :
-                    "border-red-500/30 text-red-400"
-                  }`}>
-                    {p.status}
-                  </span>
-                </div>
-                <div className="font-mono text-sm text-muted-foreground">{p.provider}</div>
-                <div className="col-span-2 font-mono text-sm text-muted-foreground truncate">{p.providerId || "—"}</div>
-              </div>
-            ))}
-          </div>
-        ) : (
-          <p className="font-mono text-sm text-muted-foreground">No payments</p>
-        )}
-      </div>
     </div>
   );
 }

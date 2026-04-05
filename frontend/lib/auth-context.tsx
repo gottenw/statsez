@@ -14,7 +14,7 @@ interface AuthContextType {
   isLoggedIn: boolean;
   isAdmin: boolean;
   isReady: boolean;
-  login: (user: User, token: string) => void;
+  login: (user: User) => void;
   logout: () => void;
 }
 
@@ -38,65 +38,45 @@ export function AuthProvider({ children }: { children: ReactNode }) {
     isReady: false,
   });
 
-  // Função para carregar usuário do localStorage
   const loadUserFromStorage = () => {
     if (typeof window === "undefined") return;
-
     try {
       const storedUser = localStorage.getItem("statsez_user");
-      const storedToken = localStorage.getItem("statsez_token");
-      
-      if (storedUser && storedToken) {
-        const parsedUser = JSON.parse(storedUser);
-        setAuthState({
-          user: parsedUser,
-          isLoggedIn: true,
-          isReady: true,
-        });
+      if (storedUser) {
+        setAuthState({ user: JSON.parse(storedUser), isLoggedIn: true, isReady: true });
       } else {
         setAuthState({ user: null, isLoggedIn: false, isReady: true });
       }
-    } catch (e) {
+    } catch {
       setAuthState({ user: null, isLoggedIn: false, isReady: true });
     }
   };
 
   useEffect(() => {
     loadUserFromStorage();
-
-    // Listener para mudanças no localStorage (outras abas)
     const handleStorageChange = (e: StorageEvent) => {
-      if (e.key === "statsez_user" || e.key === "statsez_token") {
-        loadUserFromStorage();
-      }
+      if (e.key === "statsez_user") loadUserFromStorage();
     };
-
     window.addEventListener("storage", handleStorageChange);
     return () => window.removeEventListener("storage", handleStorageChange);
   }, []);
 
-  const login = (userData: User, token: string) => {
+  const login = (userData: User) => {
     if (typeof window !== "undefined") {
       localStorage.setItem("statsez_user", JSON.stringify(userData));
-      localStorage.setItem("statsez_token", token);
     }
-    setAuthState({
-      user: userData,
-      isLoggedIn: true,
-      isReady: true,
-    });
+    setAuthState({ user: userData, isLoggedIn: true, isReady: true });
   };
 
-  const logout = () => {
+  const logout = async () => {
+    try {
+      const apiUrl = process.env.NEXT_PUBLIC_API_URL || "https://api.statsez.com";
+      await fetch(`${apiUrl}/auth/logout`, { method: "POST", credentials: "include" });
+    } catch {}
     if (typeof window !== "undefined") {
       localStorage.removeItem("statsez_user");
-      localStorage.removeItem("statsez_token");
     }
-    setAuthState({
-      user: null,
-      isLoggedIn: false,
-      isReady: true,
-    });
+    setAuthState({ user: null, isLoggedIn: false, isReady: true });
     window.location.href = "/";
   };
 

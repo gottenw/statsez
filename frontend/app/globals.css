@@ -97,10 +97,10 @@ body {
   color: var(--background);
 }
 
-/* Data Labels */
+/* Data Labels — min 13px for accessibility */
 .data-label {
   font-family: var(--font-jetbrains-mono), monospace;
-  font-size: 0.75rem;
+  font-size: 0.8125rem;
   text-transform: uppercase;
   letter-spacing: 0.1em;
   color: var(--muted-foreground);
@@ -108,29 +108,29 @@ body {
 
 .data-value {
   font-family: var(--font-jetbrains-mono), monospace;
-  font-size: 0.875rem;
+  font-size: 0.9375rem;
   font-variant-numeric: tabular-nums;
 }
 
 /* Typography */
 .display-text {
-  font-size: clamp(3rem, 15vw, 12rem);
-  line-height: 0.85;
-  letter-spacing: -0.04em;
-  font-weight: 500;
-}
-
-.headline-text {
-  font-size: clamp(2rem, 8vw, 6rem);
-  line-height: 0.9;
+  font-size: clamp(2.5rem, 10vw, 8rem);
+  line-height: 0.92;
   letter-spacing: -0.03em;
   font-weight: 500;
 }
 
-.subhead-text {
-  font-size: clamp(1rem, 3vw, 1.5rem);
-  line-height: 1.2;
+.headline-text {
+  font-size: clamp(1.75rem, 6vw, 4rem);
+  line-height: 1;
   letter-spacing: -0.02em;
+  font-weight: 500;
+}
+
+.subhead-text {
+  font-size: clamp(1rem, 2.5vw, 1.25rem);
+  line-height: 1.5;
+  letter-spacing: -0.01em;
 }
 
 /* Section Padding */
@@ -165,6 +165,14 @@ body {
 
 .bg-data-primary {
   background-color: #00ff88;
+}
+
+/* Reduced motion */
+@media (prefers-reduced-motion: reduce) {
+  *, *::before, *::after {
+    animation-duration: 0.01ms !important;
+    transition-duration: 0.01ms !important;
+  }
 }
 
 /* Animation */

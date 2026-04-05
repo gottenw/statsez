@@ -6,6 +6,10 @@ import { OAuth2Client } from 'google-auth-library'
 import jwt from 'jsonwebtoken'
 import bcrypt from 'bcrypt'
 import crypto from 'crypto'
+import { hashApiKey } from '../middleware/auth.js'
+
+import type { Context } from 'hono'
+import { setCookie, deleteCookie } from 'hono/cookie'
 
 const app = new Hono()
 const googleClient = new OAuth2Client(process.env.GOOGLE_CLIENT_ID)
@@ -13,6 +17,19 @@ const googleClient = new OAuth2Client(process.env.GOOGLE_CLIENT_ID)
 const JWT_SECRET = process.env.JWT_SECRET
 if (!JWT_SECRET) {
   throw new Error('JWT_SECRET environment variable is required')
+}
+
+const IS_PROD = process.env.NODE_ENV === 'production'
+
+function setAuthCookie(c: Context, token: string) {
+  setCookie(c, 'statsez_token', token, {
+    httpOnly: true,
+    secure: IS_PROD,
+    sameSite: 'Lax',
+    domain: IS_PROD ? '.statsez.com' : undefined, // Compartilha entre statsez.com e api.statsez.com
+    path: '/',
+    maxAge: 60 * 60 * 24, // 24h
+  })
 }
 
 // ============================================
@@ -56,7 +73,7 @@ async function createFreeSubscription(userId: string) {
       sport: 'football',
       planName: 'free',
       monthlyQuota: 500,
-      biWeeklyQuota: 500, // Free tem quota única de 500
+      biWeeklyQuota: 250, // 500/mês = 250 por ciclo de 15 dias
       startsAt: now,
       expiresAt,
       cycleStartDate: now,
@@ -65,17 +82,18 @@ async function createFreeSubscription(userId: string) {
     }
   })
 
-  const apiKey = `se_live_${crypto.randomBytes(32).toString('base64url')}`
+  const rawKey = `se_live_${crypto.randomBytes(32).toString('base64url')}`
+  const hashedKey = hashApiKey(rawKey)
 
   await prisma.apiKey.create({
     data: {
-      key: apiKey,
+      key: hashedKey,
       subscriptionId: subscription.id,
       isActive: true
     }
   })
 
-  return { subscription, apiKey }
+  return { subscription, apiKey: rawKey }
 }
 
 // ============================================
@@ -120,20 +138,32 @@ app.post('/google', zValidator('json', googleAuthSchema), async (c) => {
 
     // Se for novo usuário ou não tiver assinatura ativa, cria plano free
     let subscription = null
-    let apiKey = null
-    
+
     const existingSubscription = await prisma.subscription.findFirst({
       where: { userId: user.id, isActive: true },
       include: { apiKey: true }
     })
 
+    // rawApiKey só é disponível quando criamos uma key nova (não podemos reverter hash)
+    let rawApiKey: string | null = null
+
     if (!existingSubscription) {
-      const freeSub = await createFreeSubscription(user.id)
-      subscription = freeSub.subscription
-      apiKey = freeSub.apiKey
+      // Verifica se o usuário JÁ teve um plano free antes (evita renovação infinita)
+      const hadFreePlan = await prisma.subscription.findFirst({
+        where: { userId: user.id, planName: 'free' }
+      })
+
+      if (!hadFreePlan) {
+        const freeSub = await createFreeSubscription(user.id)
+        subscription = freeSub.subscription
+        rawApiKey = freeSub.apiKey
+      } else {
+        // Já usou o free — não cria outro. Retorna a subscription inativa mais recente para contexto.
+        subscription = hadFreePlan
+      }
     } else {
       subscription = existingSubscription
-      apiKey = existingSubscription.apiKey
+      rawApiKey = null
     }
 
     const token = jwt.sign(
@@ -141,6 +171,8 @@ app.post('/google', zValidator('json', googleAuthSchema), async (c) => {
       JWT_SECRET,
       { expiresIn: '24h' }
     )
+
+    setAuthCookie(c, token)
 
     return c.json({
       success: true,
@@ -150,9 +182,10 @@ app.post('/google', zValidator('json', googleAuthSchema), async (c) => {
         name: user.name,
         role: user.role,
         token,
+        isNewUser,
         subscription: {
           planName: subscription.planName,
-          apiKey: typeof apiKey === 'object' && apiKey !== null ? (apiKey as any).key : null
+          apiKey: rawApiKey
         }
       }
     })
@@ -184,6 +217,8 @@ app.post('/login', zValidator('json', loginSchema), async (c) => {
     JWT_SECRET,
     { expiresIn: '24h' }
   )
+
+  setAuthCookie(c, token)
 
   return c.json({
     success: true,
@@ -218,6 +253,8 @@ app.post('/register', zValidator('json', registerSchema), async (c) => {
       { expiresIn: '24h' }
     )
 
+    setAuthCookie(c, token)
+
     return c.json({
       success: true,
       data: {
@@ -234,6 +271,15 @@ app.post('/register', zValidator('json', registerSchema), async (c) => {
     }
     return c.json({ success: false, error: 'Erro interno' }, 500)
   }
+})
+
+// Logout — limpa o cookie httpOnly
+app.post('/logout', (c) => {
+  deleteCookie(c, 'statsez_token', {
+    path: '/',
+    domain: IS_PROD ? '.statsez.com' : undefined,
+  })
+  return c.json({ success: true })
 })
 
 export const authRoutes = app

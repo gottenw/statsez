@@ -1,4 +1,5 @@
 import type { MiddlewareHandler } from 'hono'
+import crypto from 'crypto'
 import { prisma } from '../lib/prisma.js'
 import type { AuthContext, Sport } from '../types/index.js'
 
@@ -11,13 +12,20 @@ declare module 'hono' {
   }
 }
 
+/**
+ * Hash uma API key com SHA-256 para lookup no banco.
+ * O banco armazena apenas o hash, nunca o valor raw.
+ */
+export function hashApiKey(raw: string): string {
+  return crypto.createHash('sha256').update(raw).digest('hex')
+}
+
 
 export const apiKeyAuth = (allowedSport?: Sport): MiddlewareHandler => {
   return async (c, next) => {
     const apiKey = c.req.header('x-api-key')
     const sportFromPath = c.req.param('sport') as Sport
 
-    
     if (!apiKey) {
       return c.json({
         success: false,
@@ -25,9 +33,11 @@ export const apiKeyAuth = (allowedSport?: Sport): MiddlewareHandler => {
       }, 401)
     }
 
-    
+    // Busca pelo hash da key (nunca armazenamos plain text)
+    const hashedKey = hashApiKey(apiKey)
+
     const keyRecord = await prisma.apiKey.findUnique({
-      where: { key: apiKey },
+      where: { key: hashedKey },
       include: {
         subscription: true
       }
@@ -48,7 +58,7 @@ export const apiKeyAuth = (allowedSport?: Sport): MiddlewareHandler => {
         error: 'Assinatura não encontrada para esta API Key.'
       }, 403)
     }
-    
+
     if (!subscription.isActive) {
       return c.json({
         success: false,
@@ -58,12 +68,11 @@ export const apiKeyAuth = (allowedSport?: Sport): MiddlewareHandler => {
 
     // Verifica se a assinatura expirou
     if (subscription.expiresAt && new Date() > subscription.expiresAt) {
-      // Desativa a assinatura
       await prisma.subscription.update({
         where: { id: subscription.id },
         data: { isActive: false }
       });
-      
+
       return c.json({
         success: false,
         error: 'Assinatura expirada. Renove seu plano para continuar.',
@@ -73,9 +82,8 @@ export const apiKeyAuth = (allowedSport?: Sport): MiddlewareHandler => {
       }, 403)
     }
 
-    
     const sportToCheck = allowedSport || sportFromPath
-    
+
     if (sportToCheck && subscription.sport !== sportToCheck) {
       return c.json({
         success: false,
@@ -84,16 +92,14 @@ export const apiKeyAuth = (allowedSport?: Sport): MiddlewareHandler => {
       }, 403)
     }
 
-    
     const now = new Date()
-    
+
     // Verifica se o ciclo quinzenal acabou
     if (subscription.cycleEndDate && now > subscription.cycleEndDate) {
-      // Inicia novo ciclo
       const newCycleStart = subscription.cycleEndDate
       const newCycleEnd = new Date(newCycleStart)
       newCycleEnd.setDate(newCycleEnd.getDate() + 15)
-      
+
       await prisma.subscription.update({
         where: { id: subscription.id },
         data: {
@@ -102,17 +108,26 @@ export const apiKeyAuth = (allowedSport?: Sport): MiddlewareHandler => {
           cycleEndDate: newCycleEnd
         }
       })
-      
+
       subscription.currentUsage = 0
       subscription.cycleEndDate = newCycleEnd
     }
 
-    // Verifica quota quinzenal
-    if (subscription.currentUsage >= subscription.biWeeklyQuota) {
-      const nextReset = subscription.cycleEndDate 
+    // Incremento atômico com condição: só incrementa se abaixo da quota.
+    // Retorna 0 rows affected se a quota já foi atingida — race-condition safe.
+    const incrementResult = await prisma.$executeRaw`
+      UPDATE "Subscription"
+      SET "currentUsage" = "currentUsage" + 1,
+          "updatedAt" = NOW()
+      WHERE "id" = ${subscription.id}
+        AND "currentUsage" < "biWeeklyQuota"
+    `
+
+    if (incrementResult === 0) {
+      const nextReset = subscription.cycleEndDate
         ? subscription.cycleEndDate.toISOString()
         : new Date(now.getTime() + 15 * 24 * 60 * 60 * 1000).toISOString()
-        
+
       return c.json({
         success: false,
         error: 'Quota quinzenal esgotada. Aguarde o próximo ciclo.',
@@ -125,14 +140,15 @@ export const apiKeyAuth = (allowedSport?: Sport): MiddlewareHandler => {
       }, 429)
     }
 
-    
     await prisma.apiKey.update({
       where: { id: keyRecord.id },
       data: { lastUsedAt: now }
     })
 
-    const remainingQuota = subscription.biWeeklyQuota - subscription.currentUsage
-    
+    // Após o incremento atômico, usage agora é currentUsage + 1
+    const newUsage = subscription.currentUsage + 1
+    const remainingQuota = subscription.biWeeklyQuota - newUsage
+
     c.set('auth', {
       userId: subscription.userId,
       subscriptionId: subscription.id,
@@ -141,32 +157,11 @@ export const apiKeyAuth = (allowedSport?: Sport): MiddlewareHandler => {
       remainingQuota: remainingQuota
     })
 
-    // Adiciona headers informativos
+    // Headers informativos
     c.header('X-RateLimit-Limit', subscription.biWeeklyQuota.toString())
     c.header('X-RateLimit-Remaining', Math.max(0, remainingQuota).toString())
     c.header('X-RateLimit-Reset', subscription.cycleEndDate?.toISOString() || '')
 
     await next()
-  }
-}
-
-
-export const decrementQuota: MiddlewareHandler = async (c, next) => {
-  await next()
-  
-  
-  if (c.res.status >= 200 && c.res.status < 300) {
-    const auth = c.get('auth')
-    
-    if (auth) {
-      await prisma.subscription.update({
-        where: { id: auth.subscriptionId },
-        data: {
-          currentUsage: {
-            increment: 1
-          }
-        }
-      })
-    }
   }
 }

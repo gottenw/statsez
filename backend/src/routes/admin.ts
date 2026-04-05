@@ -16,7 +16,6 @@ app.get('/stats/overview', async (c) => {
     totalUsers,
     activeSubscriptions,
     subscriptionsByPlan,
-    totalRevenueResult,
     totalRequests,
     cachedRequests
   ] = await Promise.all([
@@ -26,10 +25,6 @@ app.get('/stats/overview', async (c) => {
       by: ['planName'],
       where: { isActive: true },
       _count: { id: true }
-    }),
-    prisma.payment.aggregate({
-      where: { status: 'paid' },
-      _sum: { amount: true }
     }),
     prisma.requestLog.count(),
     prisma.requestLog.count({ where: { cached: true } })
@@ -48,7 +43,6 @@ app.get('/stats/overview', async (c) => {
       totalUsers,
       activeSubscriptions,
       subscriptionsByPlan: planBreakdown,
-      totalRevenue: Number(totalRevenueResult._sum.amount) || 0,
       totalRequests,
       cachedRequests,
       cacheHitRatio: Math.round(cacheHitRatio * 100) / 100
@@ -64,19 +58,16 @@ app.get('/stats/requests', async (c) => {
   const since = new Date()
   since.setDate(since.getDate() - days)
 
-  const logs = await prisma.requestLog.findMany({
-    where: { createdAt: { gte: since } },
-    select: { createdAt: true },
-    orderBy: { createdAt: 'asc' }
-  })
-
-  const dailyMap: Record<string, number> = {}
-  for (const log of logs) {
-    const dateKey = log.createdAt.toISOString().split('T')[0]
-    dailyMap[dateKey] = (dailyMap[dateKey] || 0) + 1
-  }
-
-  const data = Object.entries(dailyMap).map(([date, requests]) => ({ date, requests }))
+  // Agrega no PostgreSQL — evita carregar milhões de registros em memória
+  const data: Array<{ date: string; requests: number }> = await prisma.$queryRaw`
+    SELECT
+      TO_CHAR("createdAt"::date, 'YYYY-MM-DD') AS "date",
+      COUNT(*)::int AS "requests"
+    FROM "RequestLog"
+    WHERE "createdAt" >= ${since}
+    GROUP BY "createdAt"::date
+    ORDER BY "createdAt"::date ASC
+  `
 
   return c.json({ success: true, data })
 })
@@ -100,32 +91,6 @@ app.get('/stats/top-endpoints', async (c) => {
   return c.json({ success: true, data })
 })
 
-// GET /admin/stats/revenue?period=30d|90d|365d
-app.get('/stats/revenue', async (c) => {
-  const period = c.req.query('period') || '30d'
-  const days = period === '365d' ? 365 : period === '90d' ? 90 : 30
-
-  const since = new Date()
-  since.setDate(since.getDate() - days)
-
-  const payments = await prisma.payment.findMany({
-    where: { status: 'paid', paidAt: { gte: since } },
-    select: { amount: true, paidAt: true },
-    orderBy: { paidAt: 'asc' }
-  })
-
-  const dailyMap: Record<string, number> = {}
-  for (const p of payments) {
-    if (!p.paidAt) continue
-    const dateKey = p.paidAt.toISOString().split('T')[0]
-    dailyMap[dateKey] = (dailyMap[dateKey] || 0) + Number(p.amount)
-  }
-
-  const data = Object.entries(dailyMap).map(([date, revenue]) => ({ date, revenue: Math.round(revenue * 100) / 100 }))
-
-  return c.json({ success: true, data })
-})
-
 // GET /admin/stats/growth?period=30d
 app.get('/stats/growth', async (c) => {
   const period = c.req.query('period') || '30d'
@@ -134,19 +99,16 @@ app.get('/stats/growth', async (c) => {
   const since = new Date()
   since.setDate(since.getDate() - days)
 
-  const users = await prisma.user.findMany({
-    where: { createdAt: { gte: since } },
-    select: { createdAt: true },
-    orderBy: { createdAt: 'asc' }
-  })
-
-  const dailyMap: Record<string, number> = {}
-  for (const u of users) {
-    const dateKey = u.createdAt.toISOString().split('T')[0]
-    dailyMap[dateKey] = (dailyMap[dateKey] || 0) + 1
-  }
-
-  const data = Object.entries(dailyMap).map(([date, newUsers]) => ({ date, newUsers }))
+  // Agrega no PostgreSQL — evita carregar todos os registros em memória
+  const data: Array<{ date: string; newUsers: number }> = await prisma.$queryRaw`
+    SELECT
+      TO_CHAR("createdAt"::date, 'YYYY-MM-DD') AS "date",
+      COUNT(*)::int AS "newUsers"
+    FROM "User"
+    WHERE "createdAt" >= ${since}
+    GROUP BY "createdAt"::date
+    ORDER BY "createdAt"::date ASC
+  `
 
   return c.json({ success: true, data })
 })
@@ -166,13 +128,7 @@ app.get('/stats/cost-analysis', async (c) => {
   const now = new Date()
   const monthStart = new Date(now.getFullYear(), now.getMonth(), 1)
 
-  const [totalThisMonth, monthRevenue] = await Promise.all([
-    prisma.requestLog.count({ where: { createdAt: { gte: monthStart } } }),
-    prisma.payment.aggregate({
-      where: { status: 'paid', paidAt: { gte: monthStart } },
-      _sum: { amount: true }
-    })
-  ])
+  const totalThisMonth = await prisma.requestLog.count({ where: { createdAt: { gte: monthStart } } })
 
   const currentPlan = upstreamPlans.find(p => totalThisMonth <= p.limit) || upstreamPlans[upstreamPlans.length - 1]
   const currentPlanIndex = upstreamPlans.indexOf(currentPlan)
@@ -199,8 +155,6 @@ app.get('/stats/cost-analysis', async (c) => {
     }
   }
 
-  const revenue = Number(monthRevenue._sum.amount) || 0
-
   return c.json({
     success: true,
     data: {
@@ -213,10 +167,8 @@ app.get('/stats/cost-analysis', async (c) => {
       nextPlanThreshold: upstreamPlans[currentPlanIndex + 1]?.limit ?? null,
       alerts,
       financials: {
-        monthlyRevenue: revenue,
         upstreamCost: currentPlan.cost,
         fixedCosts: Math.round(fixedCosts * 100) / 100,
-        estimatedProfit: Math.round((revenue - currentPlan.cost - fixedCosts) * 100) / 100
       },
       upstreamPlans: upstreamPlans.map(p => ({
         name: p.name,
@@ -286,16 +238,12 @@ app.get('/users/:userId', async (c) => {
       email: true,
       name: true,
       role: true,
-      googleId: true,
       createdAt: true,
       updatedAt: true,
+      googleId: true,
       subscriptions: {
         orderBy: { createdAt: 'desc' },
         include: { apiKey: { select: { id: true, key: true, isActive: true, lastUsedAt: true, createdAt: true } } }
-      },
-      payments: {
-        orderBy: { createdAt: 'desc' },
-        take: 50
       }
     }
   })
@@ -304,7 +252,9 @@ app.get('/users/:userId', async (c) => {
     return c.json({ success: false, error: 'User not found' }, 404)
   }
 
-  return c.json({ success: true, data: user })
+  // Substitui googleId por booleano — não expõe o ID externo
+  const { googleId, ...userData } = user
+  return c.json({ success: true, data: { ...userData, hasGoogleAuth: !!googleId } })
 })
 
 // PATCH /admin/users/:userId/subscription
@@ -399,7 +349,7 @@ app.get('/keys', async (c) => {
     success: true,
     data: keys.map(k => ({
       id: k.id,
-      key: k.key.substring(0, 16) + '...',
+      keyHash: k.key.substring(0, 16) + '...',
       isActive: k.isActive,
       lastUsedAt: k.lastUsedAt,
       createdAt: k.createdAt,
@@ -428,52 +378,6 @@ app.post('/keys/:keyId/revoke', async (c) => {
   })
 
   return c.json({ success: true, data: { revoked: true } })
-})
-
-// ============================================
-// PAYMENT MANAGEMENT
-// ============================================
-
-// GET /admin/payments?page=1&limit=20&status=
-app.get('/payments', async (c) => {
-  const page = parseInt(c.req.query('page') || '1')
-  const limit = parseInt(c.req.query('limit') || '20')
-  const status = c.req.query('status')
-  const skip = (page - 1) * limit
-
-  const where = status ? { status } : {}
-
-  const [payments, total] = await Promise.all([
-    prisma.payment.findMany({
-      where,
-      skip,
-      take: limit,
-      orderBy: { createdAt: 'desc' },
-      include: {
-        user: { select: { email: true, name: true } },
-        subscription: { select: { planName: true, sport: true } }
-      }
-    }),
-    prisma.payment.count({ where })
-  ])
-
-  return c.json({
-    success: true,
-    data: payments.map(p => ({
-      id: p.id,
-      amount: Number(p.amount),
-      currency: p.currency,
-      status: p.status,
-      provider: p.provider,
-      providerId: p.providerId,
-      paidAt: p.paidAt,
-      createdAt: p.createdAt,
-      plan: p.subscription?.planName || null,
-      userEmail: p.user?.email || null,
-      userName: p.user?.name || null
-    })),
-    pagination: { page, limit, total, totalPages: Math.ceil(total / limit) }
-  })
 })
 
 // ============================================

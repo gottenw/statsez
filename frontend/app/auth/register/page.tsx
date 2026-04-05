@@ -32,13 +32,14 @@ export default function RegisterPage() {
       const res = await fetch(`${process.env.NEXT_PUBLIC_API_URL}/auth/google`, {
         method: "POST",
         headers: { "Content-Type": "application/json" },
+        credentials: "include",
         body: JSON.stringify({ idToken: credentialResponse.credential }),
       });
 
       const data = await res.json();
 
       if (data.success) {
-        login(data.data, data.data.token);
+        login(data.data);
         setStatus("success");
         
         setTimeout(() => {

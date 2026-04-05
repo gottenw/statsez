@@ -55,9 +55,9 @@
     "title": "TECHNICAL",
     "title2": "CAPABILITIES",
     "realTime": {
-      "title": "LATENCY",
-      "subtitle": "ULTRA-LOW",
-      "description": "Optimized infrastructure for data delivery with the lowest market latency.",
+      "title": "POST-MATCH",
+      "subtitle": "DATA",
+      "description": "Results, stats and events updated after each match is finished.",
       "latency": "LATENCY",
       "latencyValue": "<50",
       "coverage": "COVERAGE",

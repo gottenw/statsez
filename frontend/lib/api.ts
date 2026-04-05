@@ -1,50 +1,28 @@
 const API_URL = process.env.NEXT_PUBLIC_API_URL || "https://api.statsez.com";
 
-export function getToken(): string | null {
-  if (typeof window === "undefined") return null;
-  return localStorage.getItem("statsez_token");
-}
-
-export function getUser(): { id: string; email: string; name?: string } | null {
-  if (typeof window === "undefined") return null;
-  const user = localStorage.getItem("statsez_user");
-  return user ? JSON.parse(user) : null;
-}
-
 export async function apiRequest(
   endpoint: string,
   options: RequestInit = {}
 ): Promise<any> {
-  const token = getToken();
-
   const headers: Record<string, string> = {
     "Content-Type": "application/json",
     ...(options.headers as Record<string, string>),
   };
 
-  if (token) {
-    headers["Authorization"] = `Bearer ${token}`;
-  }
-
   const res = await fetch(`${API_URL}${endpoint}`, {
     ...options,
     headers,
+    credentials: "include",
   });
 
   if (res.status === 401) {
-    // Token expirado ou inválido
-    localStorage.removeItem("statsez_token");
     localStorage.removeItem("statsez_user");
     window.location.href = "/auth/register";
     throw new Error("Unauthorized");
   }
 
   const data = await res.json();
-
-  if (!res.ok) {
-    throw new Error(data.error || `HTTP ${res.status}`);
-  }
-
+  if (!res.ok) throw new Error(data.error || `HTTP ${res.status}`);
   return data;
 }
 
@@ -63,10 +41,6 @@ export async function rotateApiKey(subscriptionId: string) {
   });
 }
 
-export async function getPayments() {
-  return apiRequest("/user/payments");
-}
-
 // ============================================
 // ADMIN API FUNCTIONS
 // ============================================
@@ -81,10 +55,6 @@ export async function getAdminRequestVolume(period = "7d") {
 
 export async function getAdminTopEndpoints(limit = 10) {
   return apiRequest(`/admin/stats/top-endpoints?limit=${limit}`);
-}
-
-export async function getAdminRevenue(period = "30d") {
-  return apiRequest(`/admin/stats/revenue?period=${period}`);
 }
 
 export async function getAdminGrowth(period = "30d") {
@@ -120,10 +90,6 @@ export async function getAdminKeys(page = 1) {
 
 export async function revokeAdminKey(keyId: string) {
   return apiRequest(`/admin/keys/${keyId}/revoke`, { method: "POST" });
-}
-
-export async function getAdminPayments(page = 1, status = "") {
-  return apiRequest(`/admin/payments?page=${page}${status ? `&status=${status}` : ""}`);
 }
 
 export async function getAdminCacheStats() {

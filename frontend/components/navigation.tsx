@@ -5,21 +5,17 @@ import { motion, AnimatePresence } from "framer-motion";
 import { useTranslations } from "next-intl";
 import { LanguageSwitcher } from "./language-switcher";
 import { useAuth } from "../lib/auth-context";
+import { Menu, X } from "lucide-react";
 
 export function Navigation() {
   const [isScrolled, setIsScrolled] = useState(false);
-  const [isVisible, setIsVisible] = useState(false);
+  const [mobileOpen, setMobileOpen] = useState(false);
   const t = useTranslations("nav");
   const { isLoggedIn } = useAuth();
 
   useEffect(() => {
-    const handleScroll = () => {
-      const scrollY = window.scrollY;
-      setIsScrolled(scrollY > 100);
-      setIsVisible(scrollY > 500);
-    };
-
-    window.addEventListener("scroll", handleScroll);
+    const handleScroll = () => setIsScrolled(window.scrollY > 50);
+    window.addEventListener("scroll", handleScroll, { passive: true });
     return () => window.removeEventListener("scroll", handleScroll);
   }, []);
 
@@ -27,65 +23,92 @@ export function Navigation() {
     { label: t("capabilities"), href: "#capabilities" },
     { label: t("pricing"), href: "#pricing" },
     { label: t("coverage"), href: "#coverage" },
+    { label: t("docs"), href: "/docs" },
   ];
 
   return (
-    <AnimatePresence>
-      {isVisible && (
-        <motion.nav
-          initial={{ y: -100, opacity: 0 }}
-          animate={{ y: 0, opacity: 1 }}
-          exit={{ y: -100, opacity: 0 }}
-          transition={{ duration: 0.3 }}
-          className={`fixed top-0 left-0 right-0 z-50 transition-all duration-500 ${
-            isScrolled ? "bg-background/80 backdrop-blur-md border-b border-border" : ""
-          }`}
-        >
-          <div className="section-padding py-4 flex justify-between items-center">
-            <a href="/" className="flex items-center">
-              <img src="/logo.svg" alt="Statsez" className="h-5 invert" />
-            </a>
+    <>
+      <nav
+        className="fixed top-0 left-0 right-0 z-50 bg-background border-b border-border"
+      >
+        <div className="section-padding py-4 flex justify-between items-center">
+          <a href="/" className="flex items-center">
+            <img src="/logo.svg" alt="Statsez" className="h-5 invert" />
+          </a>
 
-            <div className="hidden md:flex items-center gap-8">
+          {/* Desktop nav */}
+          <div className="hidden md:flex items-center gap-8">
+            {navItems.map((item) => (
+              <a
+                key={item.label}
+                href={item.href}
+                className="font-mono text-xs uppercase tracking-widest text-muted-foreground hover:text-foreground transition-colors duration-300"
+              >
+                {item.label}
+              </a>
+            ))}
+          </div>
+
+          <div className="flex items-center gap-4">
+            <div className="hidden md:block">
+              <LanguageSwitcher />
+            </div>
+
+            {isLoggedIn ? (
+              <a
+                href="/dashboard"
+                className="font-mono text-xs uppercase tracking-widest bg-foreground text-background px-6 py-3 hover:bg-data-primary transition-all duration-300"
+              >
+                Dashboard
+              </a>
+            ) : (
+              <a
+                href="/auth/register"
+                className="font-mono text-xs uppercase tracking-widest bg-foreground text-background px-6 py-3 hover:bg-data-primary transition-all duration-300"
+              >
+                {t("getStarted")}
+              </a>
+            )}
+
+            {/* Mobile hamburger */}
+            <button
+              onClick={() => setMobileOpen(!mobileOpen)}
+              className="md:hidden p-2"
+              aria-label="Menu"
+            >
+              {mobileOpen ? <X size={20} /> : <Menu size={20} />}
+            </button>
+          </div>
+        </div>
+      </nav>
+
+      {/* Mobile menu overlay */}
+      <AnimatePresence>
+        {mobileOpen && (
+          <motion.div
+            initial={{ opacity: 0, y: -10 }}
+            animate={{ opacity: 1, y: 0 }}
+            exit={{ opacity: 0, y: -10 }}
+            className="fixed inset-0 z-40 bg-background pt-20"
+          >
+            <div className="section-padding flex flex-col gap-2">
               {navItems.map((item) => (
                 <a
                   key={item.label}
                   href={item.href}
-                  className="text-base uppercase tracking-widest text-muted-foreground hover:text-foreground transition-colors duration-300"
+                  onClick={() => setMobileOpen(false)}
+                  className="font-mono text-sm uppercase tracking-widest text-muted-foreground hover:text-foreground py-4 border-b border-border transition-colors"
                 >
                   {item.label}
                 </a>
               ))}
-              <a
-                href="/docs"
-                className="text-base uppercase tracking-widest text-muted-foreground hover:text-foreground transition-colors duration-300"
-              >
-                {t("docs")}
-              </a>
+              <div className="pt-4">
+                <LanguageSwitcher />
+              </div>
             </div>
-
-            <div className="flex items-center gap-6">
-              <LanguageSwitcher />
-              
-              {isLoggedIn ? (
-                <a
-                  href="/dashboard"
-                  className="text-base uppercase tracking-widest border border-border px-4 py-2 hover:bg-foreground hover:text-background transition-all duration-300"
-                >
-                  [Dashboard]
-                </a>
-              ) : (
-                <a
-                  href="/auth/register"
-                  className="text-base uppercase tracking-widest border border-border px-4 py-2 hover:bg-foreground hover:text-background transition-all duration-300"
-                >
-                  {t("getStarted")}
-                </a>
-              )}
-            </div>
-          </div>
-        </motion.nav>
-      )}
-    </AnimatePresence>
+          </motion.div>
+        )}
+      </AnimatePresence>
+    </>
   );
 }

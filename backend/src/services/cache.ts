@@ -9,7 +9,8 @@ interface CacheOptions {
 
 
 function generateCacheKey(sport: string, endpoint: string, params?: Record<string, any>): string {
-  const paramsHash = params ? JSON.stringify(params) : ''
+  // Ordena as chaves para garantir determinismo: {a:1,b:2} e {b:2,a:1} geram a mesma key
+  const paramsHash = params ? JSON.stringify(params, Object.keys(params).sort()) : ''
   return `${sport}:${endpoint}:${Buffer.from(paramsHash).toString('base64')}`
 }
 
