@@ -371,6 +371,7 @@ export async function getMatchEvents(matchId: string): Promise<EventsResponse | 
       description: e.description,
       players: e.players?.map(p => ({
         name: p.name,
+        playerId: p.player_id,
         type: p.type,
         subType: p.sub_type,
       })) || [],
@@ -382,11 +383,12 @@ export async function getMatchEvents(matchId: string): Promise<EventsResponse | 
   }
 }
 
-// Strip FlashScore URLs from player data
+// Keep useful fields, strip FlashScore URLs (image_path, country_image_path)
 function cleanPlayer(p: any) {
   return {
     name: p.name,
     number: p.number,
+    playerId: p.player_id,
     country: p.country_name,
   };
 }

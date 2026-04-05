@@ -252,6 +252,7 @@ export interface EventsResponse {
 export interface CleanPlayer {
   name: string;
   number: string;
+  playerId: string;
   country: string;
 }
 

@@ -190,11 +190,11 @@ curl -H "x-api-key: YOUR_KEY" "https://api.statsez.com/v1/football/fixtures/ngWM
     "home": {
       "formation": "4-2-3-1",
       "starting": [
-        { "name": "Lucas Perri", "number": "1", "country": "Brazil" },
-        { "name": "Bogle J.", "number": "2", "country": "England" }
+        { "name": "Lucas Perri", "number": "1", "playerId": "...", "country": "Brazil" },
+        { "name": "Bogle J.", "number": "2", "playerId": "...", "country": "England" }
       ],
       "substitutes": [
-        { "name": "Aaronson B.", "number": "11", "country": "USA" }
+        { "name": "Aaronson B.", "number": "11", "playerId": "...", "country": "USA" }
       ]
     },
     "away": {
@@ -227,7 +227,7 @@ curl -H "x-api-key: YOUR_KEY" "https://api.statsez.com/v1/football/fixtures/GCxZ
         "team": "home",
         "description": "Loic Bade (Sevilla) receives a red card!",
         "players": [
-          { "name": "Bade L.", "type": "Red Card" }
+          { "name": "Bade L.", "playerId": "YgxuEfvL", "type": "Red Card" }
         ]
       },
       {
@@ -235,8 +235,8 @@ curl -H "x-api-key: YOUR_KEY" "https://api.statsez.com/v1/football/fixtures/GCxZ
         "team": "away",
         "description": "Kylian Mbappe (Real Madrid) drills a shot into the bottom left corner.",
         "players": [
-          { "name": "Mbappe K.", "type": "Goal" },
-          { "name": "Modric L.", "type": "Assistance" }
+          { "name": "Mbappe K.", "playerId": "Wn6E2SED", "type": "Goal" },
+          { "name": "Modric L.", "playerId": "bZWyoJnA", "type": "Assistance" }
         ]
       }
     ]
