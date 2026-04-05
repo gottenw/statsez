@@ -77,84 +77,83 @@ const responseFormats = {
   stats: {
     "success": true,
     "data": {
-      "matchId": "lbnqyVFq",
-      "periods": [
-        {
-          "period": "Match",
-          "stats": [
-            { "statId": "expected_goals__xg_", "statName": "Expected goals (xG)", "homeValue": "1.21", "awayValue": "2.75" },
-            { "statId": "ball_possession", "statName": "Ball possession", "homeValue": "47%", "awayValue": "53%" },
-            { "statId": "total_shots", "statName": "Total shots", "homeValue": "15", "awayValue": "17" },
-            { "statId": "shots_on_target", "statName": "Shots on target", "homeValue": "4", "awayValue": "7" },
-            { "statId": "big_chances", "statName": "Big chances", "homeValue": "1", "awayValue": "3" },
-            { "statId": "corner_kicks", "statName": "Corner kicks", "homeValue": "5", "awayValue": "4" },
-            { "statId": "passes", "statName": "Passes", "homeValue": "78% (306/390)", "awayValue": "85% (393/465)" },
-            { "statId": "yellow_cards", "statName": "Yellow cards", "homeValue": "2", "awayValue": "4" },
-            { "statId": "red_cards", "statName": "Red cards", "homeValue": "1", "awayValue": "0" },
-            { "statId": "xg_on_target__xgot_", "statName": "xG on target (xGOT)", "homeValue": "0.34", "awayValue": "1.99" },
-            { "statId": "shots_off_target", "statName": "Shots off target", "homeValue": "8", "awayValue": "6" },
-            { "statId": "blocked_shots", "statName": "Blocked shots", "homeValue": "3", "awayValue": "4" },
-            { "statId": "shots_inside_the_box", "statName": "Shots inside the box", "homeValue": "9", "awayValue": "9" },
-            { "statId": "shots_outside_the_box", "statName": "Shots outside the box", "homeValue": "6", "awayValue": "8" },
-            { "statId": "hit_the_woodwork", "statName": "Hit the woodwork", "homeValue": "0", "awayValue": "0" },
-            { "statId": "touches_in_opposition_box", "statName": "Touches in opposition box", "homeValue": "32", "awayValue": "25" },
-            { "statId": "accurate_through_passes", "statName": "Accurate through passes", "homeValue": "1", "awayValue": "2" },
-            { "statId": "offsides", "statName": "Offsides", "homeValue": "6", "awayValue": "2" },
-            { "statId": "free_kicks", "statName": "Free kicks", "homeValue": "16", "awayValue": "13" },
-            { "statId": "long_passes", "statName": "Long passes", "homeValue": "46% (30/65)", "awayValue": "38% (20/53)" },
-            { "statId": "passes_in_final_third", "statName": "Passes in final third", "homeValue": "67% (97/144)", "awayValue": "80% (109/137)" },
-            { "statId": "crosses", "statName": "Crosses", "homeValue": "29% (6/21)", "awayValue": "27% (3/11)" },
-            { "statId": "expected_assists__xa_", "statName": "Expected assists (xA)", "homeValue": "0.93", "awayValue": "1.26" },
-            { "statId": "throw_ins", "statName": "Throw ins", "homeValue": "15", "awayValue": "16" },
-            { "statId": "fouls", "statName": "Fouls", "homeValue": "13", "awayValue": "16" },
-            { "statId": "tackles", "statName": "Tackles", "homeValue": "53% (9/17)", "awayValue": "53% (8/15)" },
-            { "statId": "duels_won", "statName": "Duels won", "homeValue": "49", "awayValue": "51" },
-            { "statId": "clearances", "statName": "Clearances", "homeValue": "20", "awayValue": "31" },
-            { "statId": "interceptions", "statName": "Interceptions", "homeValue": "7", "awayValue": "10" },
-            { "statId": "errors_leading_to_shot", "statName": "Errors leading to shot", "homeValue": "2", "awayValue": "2" },
-            { "statId": "errors_leading_to_goal", "statName": "Errors leading to goal", "homeValue": "0", "awayValue": "0" },
-            { "statId": "goalkeeper_saves", "statName": "Goalkeeper saves", "homeValue": "5", "awayValue": "3" },
-            { "statId": "xgot_faced", "statName": "xGOT faced", "homeValue": "1.99", "awayValue": "0.34" },
-            { "statId": "goals_prevented", "statName": "Goals prevented", "homeValue": "-0.01", "awayValue": "-0.66" }
+      "matchId": "ngWM9fgd",
+      "stats": [
+            { "name": "Expected goals (xG)", "home": "0.55", "away": "2.07" },
+            { "name": "Ball possession", "home": "38%", "away": "62%" },
+            { "name": "Total shots", "home": 6, "away": 16 },
+            { "name": "Shots on target", "home": 1, "away": 6 },
+            { "name": "Big chances", "home": 1, "away": 2 },
+            { "name": "Corner kicks", "home": 1, "away": 7 },
+            { "name": "Passes", "home": "81% (281/346)", "away": "91% (518/571)" },
+            { "name": "Yellow cards", "home": 0, "away": 1 },
+            { "name": "Red cards", "home": 2, "away": 0 },
+            { "name": "xG on target (xGOT)", "home": "0.67", "away": "1.67" },
+            { "name": "Shots off target", "home": 4, "away": 5 },
+            { "name": "Blocked shots", "home": 1, "away": 5 },
+            { "name": "Shots inside the box", "home": 3, "away": 6 },
+            { "name": "Shots outside the box", "home": 3, "away": 10 },
+            { "name": "Hit the woodwork", "home": 1, "away": 1 },
+            { "name": "Touches in opposition box", "home": 6, "away": 35 },
+            { "name": "Accurate through passes", "home": 0, "away": 0 },
+            { "name": "Offsides", "home": 1, "away": 1 },
+            { "name": "Free kicks", "home": 9, "away": 7 },
+            { "name": "Long passes", "home": "37% (19/52)", "away": "70% (21/30)" },
+            { "name": "Passes in final third", "home": "66% (61/93)", "away": "87% (252/289)" },
+            { "name": "Crosses", "home": "50% (2/4)", "away": "6% (1/17)" },
+            { "name": "Expected assists (xA)", "home": "0.32", "away": "1.71" },
+            { "name": "Throw ins", "home": 10, "away": 14 },
+            { "name": "Fouls", "home": 7, "away": 9 },
+            { "name": "Tackles", "home": "94% (15/16)", "away": "41% (7/17)" },
+            { "name": "Duels won", "home": 35, "away": 39 },
+            { "name": "Clearances", "home": 21, "away": 11 },
+            { "name": "Interceptions", "home": 13, "away": 9 },
+            { "name": "Goalkeeper saves", "home": 4, "away": 1 }
           ]
-        }
-      ]
     }
   },
   lineups: {
     "success": true,
     "data": {
-      "matchId": "lbnqyVFq",
+      "matchId": "ngWM9fgd",
       "home": {
-        "formation": "4-3-3",
-        "players": [
-          { "participantId": "1", "participantName": "Alisson", "participantSurname": "Becker", "participantNumber": "1", "participantCountry": "BRA", "playerType": "FirstTeam", "positionKey": "GK" },
-          { "participantId": "66", "participantName": "Trent", "participantSurname": "Alexander-Arnold", "participantNumber": "66", "participantCountry": "ENG", "playerType": "FirstTeam", "positionKey": "DR" },
-          { "participantId": "4", "participantName": "Virgil", "participantSurname": "van Dijk", "participantNumber": "4", "participantCountry": "NED", "playerType": "FirstTeam", "positionKey": "DC" },
-          { "participantId": "5", "participantName": "Ibrahima", "participantSurname": "Konaté", "participantNumber": "5", "participantCountry": "FRA", "playerType": "FirstTeam", "positionKey": "DC" },
-          { "participantId": "26", "participantName": "Andrew", "participantSurname": "Robertson", "participantNumber": "26", "participantCountry": "SCO", "playerType": "FirstTeam", "positionKey": "DL" },
-          { "participantId": "3", "participantName": "Wataru", "participantSurname": "Endo", "participantNumber": "3", "participantCountry": "JPN", "playerType": "FirstTeam", "positionKey": "MC" },
-          { "participantId": "10", "participantName": "Alexis", "participantSurname": "Mac Allister", "participantNumber": "10", "participantCountry": "ARG", "playerType": "FirstTeam", "positionKey": "MC" },
-          { "participantId": "8", "participantName": "Dominik", "participantSurname": "Szoboszlai", "participantNumber": "8", "participantCountry": "HUN", "playerType": "FirstTeam", "positionKey": "MC" },
-          { "participantId": "11", "participantName": "Mohamed", "participantSurname": "Salah", "participantNumber": "11", "participantCountry": "EGY", "playerType": "FirstTeam", "positionKey": "RW" },
-          { "participantId": "9", "participantName": "Darwin", "participantSurname": "Núñez", "participantNumber": "9", "participantCountry": "URU", "playerType": "FirstTeam", "positionKey": "ST" },
-          { "participantId": "7", "participantName": "Luis", "participantSurname": "Díaz", "participantNumber": "7", "participantCountry": "COL", "playerType": "FirstTeam", "positionKey": "LW" }
+        "formation": "4-2-3-1",
+        "starting": [
+          { "name": "Lucas Perri", "number": "1", "player_id": "abc123", "country_name": "Brazil" },
+          { "name": "Bogle J.", "number": "2", "player_id": "def456", "country_name": "England" },
+          { "name": "Rodon J.", "number": "6", "player_id": "ghi789", "country_name": "Wales" },
+          { "name": "Struijk P.", "number": "5", "player_id": "jkl012", "country_name": "Netherlands" },
+          { "name": "Gudmundsson G.", "number": "3", "player_id": "mno345", "country_name": "Sweden" },
+          { "name": "Stach A.", "number": "18", "player_id": "pqr678", "country_name": "Germany" },
+          { "name": "Ampadu E.", "number": "4", "player_id": "stu901", "country_name": "Wales" },
+          { "name": "James D.", "number": "7", "player_id": "vwx234", "country_name": "Wales" },
+          { "name": "Tanaka A.", "number": "22", "player_id": "yza567", "country_name": "Japan" },
+          { "name": "Gnonto W.", "number": "29", "player_id": "bcd890", "country_name": "Italy" },
+          { "name": "Piroe J.", "number": "10", "player_id": "efg123", "country_name": "Suriname" }
+        ],
+        "substitutes": [
+          { "name": "Aaronson B.", "number": "11", "player_id": "hij456", "country_name": "USA" },
+          { "name": "Darlow K.", "number": "26", "player_id": "klm789", "country_name": "England" }
         ]
       },
       "away": {
-        "formation": "4-1-4-1",
-        "players": [
-          { "participantId": "31", "participantName": "Ederson", "participantSurname": "Moraes", "participantNumber": "31", "participantCountry": "BRA", "playerType": "FirstTeam", "positionKey": "GK" },
-          { "participantId": "2", "participantName": "Kyle", "participantSurname": "Walker", "participantNumber": "2", "participantCountry": "ENG", "playerType": "FirstTeam", "positionKey": "DR" },
-          { "participantId": "3", "participantName": "Rúben", "participantSurname": "Dias", "participantNumber": "3", "participantCountry": "POR", "playerType": "FirstTeam", "positionKey": "DC" },
-          { "participantId": "25", "participantName": "Manuel", "participantSurname": "Akanji", "participantNumber": "25", "participantCountry": "SUI", "playerType": "FirstTeam", "positionKey": "DC" },
-          { "participantId": "24", "participantName": "Josko", "participantSurname": "Gvardiol", "participantNumber": "24", "participantCountry": "CRO", "playerType": "FirstTeam", "positionKey": "DL" },
-          { "participantId": "16", "participantName": "Rodri", "participantSurname": "Hernández", "participantNumber": "16", "participantCountry": "ESP", "playerType": "FirstTeam", "positionKey": "DMC" },
-          { "participantId": "20", "participantName": "Bernardo", "participantSurname": "Silva", "participantNumber": "20", "participantCountry": "POR", "playerType": "FirstTeam", "positionKey": "MR" },
-          { "participantId": "17", "participantName": "Kevin", "participantSurname": "De Bruyne", "participantNumber": "17", "participantCountry": "BEL", "playerType": "FirstTeam", "positionKey": "MC" },
-          { "participantId": "47", "participantName": "Phil", "participantSurname": "Foden", "participantNumber": "47", "participantCountry": "ENG", "playerType": "FirstTeam", "positionKey": "MC" },
-          { "participantId": "11", "participantName": "Jérémy", "participantSurname": "Doku", "participantNumber": "11", "participantCountry": "BEL", "playerType": "FirstTeam", "positionKey": "ML" },
-          { "participantId": "9", "participantName": "Erling", "participantSurname": "Haaland", "participantNumber": "9", "participantCountry": "NOR", "playerType": "FirstTeam", "positionKey": "ST" }
+        "formation": "4-2-3-1",
+        "starting": [
+          { "name": "Pickford J.", "number": "1", "player_id": "nop012", "country_name": "England" },
+          { "name": "O'Brien J.", "number": "15", "player_id": "qrs345", "country_name": "Ireland" },
+          { "name": "Tarkowski J.", "number": "6", "player_id": "tuv678", "country_name": "England" },
+          { "name": "Keane M.", "number": "5", "player_id": "wxy901", "country_name": "England" },
+          { "name": "Garner J.", "number": "37", "player_id": "zab234", "country_name": "England" },
+          { "name": "Iroegbunam T.", "number": "42", "player_id": "cde567", "country_name": "England" },
+          { "name": "Gueye I.", "number": "27", "player_id": "fgh890", "country_name": "Senegal" },
+          { "name": "Alcaraz C.", "number": "24", "player_id": "ijk123", "country_name": "Argentina" },
+          { "name": "Dewsbury-Hall K.", "number": "22", "player_id": "lmn456", "country_name": "England" },
+          { "name": "Ndiaye I.", "number": "10", "player_id": "opq789", "country_name": "Senegal" },
+          { "name": "Beto", "number": "9", "player_id": "rst012", "country_name": "Guinea-Bissau" }
+        ],
+        "substitutes": [
+          { "name": "Coleman S.", "number": "23", "player_id": "uvw345", "country_name": "Ireland" },
+          { "name": "Grealish J.", "number": "18", "player_id": "xyz678", "country_name": "England" }
         ]
       }
     }
@@ -162,12 +161,11 @@ const responseFormats = {
   events: {
     "success": true,
     "data": {
-      "matchId": "lbnqyVFq",
+      "matchId": "GCxZ2uHc",
       "events": [
-        { "minute": "12'", "order": 1, "event": "GOAL", "label": "Goal", "is_home": false, "is_away": true, "player": { "id": "9", "name": "Erling Haaland" }, "info": { "id": "17", "name": "Kevin De Bruyne" } },
-        { "minute": "34'", "order": 2, "event": "YELLOW_CARD", "label": "Yellow Card", "is_home": true, "is_away": false, "player": { "id": "4", "name": "Virgil van Dijk" }, "info": null },
-        { "minute": "45+2'", "order": 3, "event": "GOAL", "label": "Goal", "is_home": true, "is_away": false, "player": { "id": "11", "name": "Mohamed Salah" }, "info": { "id": "66", "name": "Trent Alexander-Arnold" } },
-        { "minute": "82'", "order": 4, "event": "GOAL", "label": "Goal", "is_home": false, "is_away": true, "player": { "id": "47", "name": "Phil Foden" }, "info": null }
+        { "minutes": "12", "team": "home", "description": "Loic Bade (Sevilla) receives a red card!", "players": [{ "name": "Bade L.", "player_id": "YgxuEfvL", "type": "Red Card" }] },
+        { "minutes": "75", "team": "away", "description": "Kylian Mbappe (Real Madrid) drills a shot into the bottom left corner.", "players": [{ "name": "Mbappe K.", "player_id": "Wn6E2SED", "type": "Goal" }, { "name": "Modric L.", "player_id": "bZWyoJnA", "type": "Assistance" }] },
+        { "minutes": "87", "team": "away", "description": "Jude Bellingham (Real Madrid) pokes it into the back of the net. 0:2.", "players": [{ "name": "Bellingham J.", "player_id": "QNvlPm7s", "type": "Goal" }] }
       ]
     }
   },
@@ -415,8 +413,8 @@ const codeExamples = {
   headers: { 'x-api-key': 'YOUR_KEY' }
 })
 .then(res => res.json())
-.then(data => console.log(data.data.periods));`,
-    py: `import requests\n\nresponse = requests.get('https://api.statsez.com/v1/football/fixtures/lbnqyVFq/stats', headers={'x-api-key': 'YOUR_KEY'})\nstats = response.json()['data']['periods']`
+.then(data => console.log(data.data.stats));`,
+    py: `import requests\n\nresponse = requests.get('https://api.statsez.com/v1/football/fixtures/ngWM9fgd/stats', headers={'x-api-key': 'YOUR_KEY'})\nstats = response.json()['data']['stats']`
   },
   lineups: {
     curl: `curl -H "x-api-key: YOUR_KEY" \\
@@ -425,7 +423,7 @@ const codeExamples = {
   headers: { 'x-api-key': 'YOUR_KEY' }
 })
 .then(res => res.json())
-.then(data => console.log(data.data.home.players));`,
+.then(data => console.log(data.data.home.starting));`,
     py: `import requests\n\nresponse = requests.get('https://api.statsez.com/v1/football/fixtures/lbnqyVFq/lineups', headers={'x-api-key': 'YOUR_KEY'})\nlineups = response.json()['data']`
   },
   events: {

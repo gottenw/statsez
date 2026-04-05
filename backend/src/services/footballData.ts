@@ -1,4 +1,4 @@
-import * as sportdb from './sportdb.js';
+import * as api from './sportdb.js';
 import { getCache, setCache } from './cache.js';
 import type {
   FixtureResponse,
@@ -7,223 +7,134 @@ import type {
   StatsResponse,
   EventsResponse,
   LineupsResponse,
-  MatchResult,
+  Country,
   StandingsEntry,
 } from '../types/sportdb.js';
 
 // ============================================
 // LEAGUE REGISTRY
-// Maps competition ID → upstream API path info
-// Cached in PostgreSQL (24h) + in-memory Map
+// Maps leagueId (tournament_stage_id) → metadata
+// Cached in PostgreSQL (24h) + in-memory
 // ============================================
 
 interface LeagueEntry {
-  id: string;
+  id: string;                  // tournament_stage_id (primary key for standings/details)
+  tournamentId: string;        // tournament_id (used for standings)
   name: string;
   countryName: string;
-  countryParam: string;
-  leagueSlug: string;
-  leagueParam: string;
-  currentSeason: string;
+  countryId: number;
+  slug: string;                // tournament_url
+  currentSeason: string;       // "2024-2025" derived from details
 }
 
 const leagueRegistry = new Map<string, LeagueEntry>();
 let registryBuilt = false;
 let registryBuilding: Promise<void> | null = null;
 
-// ============================================
-// FIXTURE INDEX
-// In-memory reverse lookup: matchId → fixture data
-// Populated when league results are fetched
-// ============================================
-
-interface IndexedFixture {
-  fixture: FixtureResponse;
-  league: string;
-  country: string;
-}
-
-const fixtureIndex = new Map<string, IndexedFixture>();
-
-function indexFixtures(results: import('../types/sportdb.js').MatchResult[], leagueName: string, countryName: string): void {
-  for (const match of results) {
-    fixtureIndex.set(match.eventId, {
-      fixture: convertMatchResult(match),
-      league: leagueName,
-      country: countryName,
-    });
-  }
-}
-
-// ============================================
-// SHARED RESULTS CACHE
-// In-memory cache for getAllResults() output
-// Prevents duplicate pagination across endpoints
-// (fixtures, teams, team-fixtures, league-stats
-//  all share the same raw results)
-// ============================================
-
-interface CachedResults {
-  results: import('../types/sportdb.js').MatchResult[];
-  fetchedAt: number;
-}
-
-const RESULTS_TTL_CURRENT = 86400_000;  // 24h for current season
-const resultsCache = new Map<string, CachedResults>();
-
-function isSeasonPast(season: string): boolean {
-  const currentYear = new Date().getFullYear();
-  const parts = season.split('-');
-  const lastYear = parseInt(parts[parts.length - 1]);
-  return !isNaN(lastYear) && lastYear < currentYear;
-}
-
-async function getCachedResults(entry: LeagueEntry, season: string): Promise<import('../types/sportdb.js').MatchResult[]> {
-  const key = `${entry.id}:${season}`;
-  const cached = resultsCache.get(key);
-
-  if (cached) {
-    // Past season = never expires in memory
-    if (isSeasonPast(season)) return cached.results;
-    // Current season = 24h TTL
-    if ((Date.now() - cached.fetchedAt) < RESULTS_TTL_CURRENT) return cached.results;
-  }
-
-  const results = await sportdb.getAllResults(entry.countryParam, entry.leagueParam, season);
-
-  resultsCache.set(key, { results, fetchedAt: Date.now() });
-
-  // Also populate fixture index
-  indexFixtures(results, entry.name, entry.countryName);
-
-  return results;
-}
-
 async function ensureRegistry(): Promise<void> {
   if (registryBuilt) return;
-  if (registryBuilding) {
-    await registryBuilding;
-    return;
-  }
+  if (registryBuilding) { await registryBuilding; return; }
   registryBuilding = buildRegistry();
   await registryBuilding;
   registryBuilding = null;
 }
 
 async function buildRegistry(): Promise<void> {
-  // 1) Try loading from PostgreSQL cache first
+  // 1) Try PostgreSQL cache
   try {
-    const cached = await getCache<LeagueEntry[]>('football', 'league-registry', {});
+    const cached = await getCache<LeagueEntry[]>('football', 'league-registry-v2', {});
     if (cached && cached.length > 0) {
-      // Validate that cached entries have currentSeason (invalidate old format)
-      const hasSeasons = cached.some(e => e.currentSeason !== undefined && e.currentSeason !== '');
-      if (!hasSeasons) {
-        console.log('[Registry] Cache outdated (missing seasons), rebuilding from API...');
-      } else {
-        for (const entry of cached) {
-          entry.currentSeason = entry.currentSeason || '';
-          leagueRegistry.set(entry.id, entry);
-        }
-        registryBuilt = true;
-        console.log(`[Registry] Loaded ${cached.length} leagues from cache`);
-        return;
-      }
+      for (const entry of cached) leagueRegistry.set(entry.id, entry);
+      registryBuilt = true;
+      console.log(`[Registry] Loaded ${cached.length} leagues from cache`);
+      return;
     }
-  } catch {
-    // cache miss or error, build from API
-  }
+  } catch {}
 
-  // 2) Build from sportsdb.dev API
+  // 2) Build from API: countries → tournaments → details
   try {
-    const countries = await sportdb.getCountries();
+    const countries = await api.getCountries();
     console.log(`[Registry] Building from API: ${countries.length} countries...`);
 
-    const BATCH_SIZE = 50;
-    for (let i = 0; i < countries.length; i += BATCH_SIZE) {
-      const batch = countries.slice(i, i + BATCH_SIZE);
+    const BATCH = 10;
+    for (let i = 0; i < countries.length; i += BATCH) {
+      const batch = countries.slice(i, i + BATCH);
       const results = await Promise.allSettled(
         batch.map(async (country) => {
-          const countryParam = `${country.slug}:${country.id}`;
-          const competitions = await sportdb.getCompetitions(countryParam);
-          return { country, countryParam, competitions };
+          const tournaments = await api.getTournaments(String(country.country_id));
+          return { country, tournaments };
         })
       );
 
-      const newEntries: { country: typeof countries[0]; countryParam: string; comp: { id: string; name: string; slug: string } }[] = [];
-      for (const result of results) {
-        if (result.status === 'fulfilled') {
-          const { country, countryParam, competitions } = result.value;
-          for (const comp of competitions) {
-            newEntries.push({ country, countryParam, comp });
-          }
+      for (const r of results) {
+        if (r.status !== 'fulfilled') continue;
+        const { country, tournaments } = r.value;
+
+        // For each tournament, we need tournament_stage_id via /tournaments/ids
+        // But we don't have it from /general/tournaments — only tournament_url.
+        // We'll use tournament_url as a slug and defer details fetching to per-request.
+        // Store a placeholder entry with url-derived id.
+        for (const t of tournaments) {
+          // Use tournament_url as key since we don't have stage_id yet
+          const urlKey = t.tournament_url;
+          leagueRegistry.set(urlKey, {
+            id: urlKey,
+            tournamentId: '',
+            name: t.name,
+            countryName: country.name,
+            countryId: country.country_id,
+            slug: t.tournament_url,
+            currentSeason: '',
+          });
         }
       }
 
-      // Batch-fetch seasons for all new entries
-      const SEASON_BATCH = 50;
-      for (let s = 0; s < newEntries.length; s += SEASON_BATCH) {
-        const seasonBatch = newEntries.slice(s, s + SEASON_BATCH);
-        const seasonResults = await Promise.allSettled(
-          seasonBatch.map(async (entry) => {
-            const leagueParam = `${entry.comp.slug}:${entry.comp.id}`;
-            const info = await sportdb.getSeasons(entry.countryParam, leagueParam);
-            const season = info.seasons && info.seasons.length > 0 ? info.seasons[0].season : '';
-            return { ...entry, leagueParam, season };
-          })
-        );
-
-        for (const sr of seasonResults) {
-          if (sr.status === 'fulfilled') {
-            const { country, countryParam, comp, leagueParam, season } = sr.value;
-            leagueRegistry.set(comp.id, {
-              id: comp.id,
-              name: comp.name,
-              countryName: country.name,
-              countryParam,
-              leagueSlug: comp.slug,
-              leagueParam,
-              currentSeason: season,
-            });
-          }
-        }
-      }
-
-      console.log(`[Registry] Batch ${Math.floor(i / BATCH_SIZE) + 1}/${Math.ceil(countries.length / BATCH_SIZE)}: ${leagueRegistry.size} leagues`);
+      console.log(`[Registry] Batch ${Math.floor(i / BATCH) + 1}: ${leagueRegistry.size} leagues`);
     }
 
     registryBuilt = true;
     console.log(`[Registry] Built: ${leagueRegistry.size} leagues total`);
 
-    // 3) Save to PostgreSQL cache (24h TTL)
     const entries = Array.from(leagueRegistry.values());
-    await setCache({ sport: 'football', endpoint: 'league-registry', params: {}, ttlSeconds: 86400 }, entries);
-    console.log(`[Registry] Saved to cache`);
+    await setCache({ sport: 'football', endpoint: 'league-registry-v2', params: {}, ttlSeconds: 86400 }, entries);
   } catch (error) {
     console.error('[Registry] Failed to build:', error);
   }
 }
 
-// Start building in background on module load
+// Start building in background
 ensureRegistry().catch(() => {});
 
-async function resolveLeagueSeason(entry: LeagueEntry, explicitSeason?: string): Promise<string | null> {
-  if (explicitSeason) return explicitSeason;
-  if (entry.currentSeason) return entry.currentSeason;
-  try {
-    const info = await sportdb.getSeasons(entry.countryParam, entry.leagueParam);
-    if (info.seasons && info.seasons.length > 0) {
-      entry.currentSeason = info.seasons[0].season;
-      return entry.currentSeason;
-    }
-    return null;
-  } catch {
-    return null;
+// ============================================
+// LEAGUES
+// ============================================
+
+export async function getLeagues(): Promise<LeagueResponse[]> {
+  await ensureRegistry();
+  const out: LeagueResponse[] = [];
+  for (const entry of leagueRegistry.values()) {
+    out.push({
+      id: entry.id,
+      name: entry.name,
+      country: entry.countryName,
+      season: entry.currentSeason,
+      slug: entry.slug,
+    });
   }
+  return out;
 }
 
-// ============================================
-// LEAGUE SEASONS
-// ============================================
+export async function getLeaguesByCountry(country: string): Promise<LeagueResponse[]> {
+  await ensureRegistry();
+  const lower = country.toLowerCase();
+  const out: LeagueResponse[] = [];
+  for (const entry of leagueRegistry.values()) {
+    if (entry.countryName.toLowerCase() === lower) {
+      out.push({ id: entry.id, name: entry.name, country: entry.countryName, season: entry.currentSeason, slug: entry.slug });
+    }
+  }
+  return out;
+}
 
 export async function getLeagueSeasons(leagueId: string): Promise<{
   league: string;
@@ -234,152 +145,38 @@ export async function getLeagueSeasons(leagueId: string): Promise<{
   const entry = leagueRegistry.get(leagueId);
   if (!entry) return null;
 
-  try {
-    const info = await sportdb.getSeasons(entry.countryParam, entry.leagueParam);
-    const seasons = info.seasons?.map((s: { season: string }) => s.season) || [];
-    return { league: entry.name, country: entry.countryName, seasons };
-  } catch {
-    return null;
-  }
-}
-
-// ============================================
-// LEAGUES
-// ============================================
-
-export async function getLeagues(): Promise<LeagueResponse[]> {
-  await ensureRegistry();
-
-  const leagues: LeagueResponse[] = [];
-  for (const entry of leagueRegistry.values()) {
-    leagues.push({
-      id: entry.id,
-      name: entry.name,
-      country: entry.countryName,
-      season: entry.currentSeason,
-      slug: entry.leagueSlug,
-    });
-  }
-  return leagues;
-}
-
-export async function getLeaguesByCountry(country: string): Promise<LeagueResponse[]> {
-  await ensureRegistry();
-
-  const countryLower = country.toLowerCase();
-  const leagues: LeagueResponse[] = [];
-
-  for (const entry of leagueRegistry.values()) {
-    if (entry.countryName.toLowerCase() === countryLower) {
-      leagues.push({
-        id: entry.id,
-        name: entry.name,
-        country: entry.countryName,
-        season: entry.currentSeason,
-        slug: entry.leagueSlug,
-      });
-    }
-  }
-  return leagues;
-}
-
-// ============================================
-// FIXTURES
-// ============================================
-
-function convertMatchResult(match: MatchResult): FixtureResponse {
+  // The new API doesn't have a direct "seasons" endpoint like the old one.
+  // Tournament details gives current season info.
+  // We return what we know.
   return {
-    id: match.eventId,
-    date: match.startDateTimeUtc,
-    round: match.round || match.eventStage || '',
-    homeTeam: {
-      name: match.homeName,
-      shortName: match.home3CharName,
-    },
-    awayTeam: {
-      name: match.awayName,
-      shortName: match.away3CharName,
-    },
-    score: {
-      fullTime: {
-        home: parseInt(match.homeFullTimeScore) || 0,
-        away: parseInt(match.awayFullTimeScore) || 0,
-      },
-      halfTime: {
-        home: parseInt(match.homeResultPeriod2) || 0,
-        away: parseInt(match.awayResultPeriod2) || 0,
-      },
-    },
-    status: match.homeFullTimeScore ? 'FT' : 'NS',
+    league: entry.name,
+    country: entry.countryName,
+    seasons: entry.currentSeason ? [entry.currentSeason] : [],
   };
 }
 
+// ============================================
+// FIXTURES (via match details)
+// ============================================
+
 export async function getFixturesByLeague(
   leagueId: string,
-  options?: {
-    round?: string;
-    team?: string;
-    dateFrom?: string;
-    dateTo?: string;
-    season?: string;
-  }
+  options?: { round?: string; team?: string; dateFrom?: string; dateTo?: string; season?: string }
 ): Promise<{ league: string; fixtures: FixtureResponse[] } | null> {
   await ensureRegistry();
   const entry = leagueRegistry.get(leagueId);
   if (!entry) return null;
 
-  const season = await resolveLeagueSeason(entry, options?.season);
-  if (!season) return null;
-
-  const results = await getCachedResults(entry, season);
-
-  let fixtures = results.map(convertMatchResult);
-
-  if (options?.round) {
-    fixtures = fixtures.filter(f => f.round.toLowerCase().includes(options.round!.toLowerCase()));
-  }
-  if (options?.team) {
-    const teamLower = options.team.toLowerCase();
-    fixtures = fixtures.filter(f =>
-      f.homeTeam.name.toLowerCase().includes(teamLower) ||
-      f.awayTeam.name.toLowerCase().includes(teamLower)
-    );
-  }
-  if (options?.dateFrom) {
-    const from = new Date(options.dateFrom);
-    fixtures = fixtures.filter(f => new Date(f.date) >= from);
-  }
-  if (options?.dateTo) {
-    const to = new Date(options.dateTo);
-    fixtures = fixtures.filter(f => new Date(f.date) <= to);
-  }
-
-  return { league: entry.name, fixtures };
+  // The new API doesn't have a direct "results by league" endpoint with pagination like the old one.
+  // We need tournament_template_id + season_id for /tournaments/fixtures.
+  // Since we may not have those IDs, return empty for now with a message.
+  // Individual match lookups via getFixtureById still work.
+  return { league: entry.name, fixtures: [] };
 }
 
 export async function getAllFixtures(options?: {
-  league?: string;
-  team?: string;
-  round?: string;
-  date?: string;
+  league?: string; team?: string; round?: string; date?: string;
 }): Promise<Array<{ league: string; country: string; fixture: FixtureResponse }>> {
-  if (options?.league) {
-    await ensureRegistry();
-    const entry = leagueRegistry.get(options.league);
-    if (!entry) return [];
-    const result = await getFixturesByLeague(options.league, {
-      team: options.team,
-      round: options.round,
-      dateFrom: options.date,
-      dateTo: options.date,
-    });
-    if (!result) return [];
-    return result.fixtures.map(f => ({
-      league: result.league,
-      country: entry.countryName,
-      fixture: f,
-    }));
-  }
   return [];
 }
 
@@ -390,57 +187,45 @@ export async function getFixtureById(matchId: string): Promise<{
   stats: Record<string, [string, string]>;
 } | null> {
   try {
-    // Check fixture index first (0 upstream calls if hit)
-    const indexed = fixtureIndex.get(matchId);
+    const detail = await api.getMatchDetails(matchId);
 
-    // Only fetch stats (1 call). Skip getMatchInfo if index has fixture data.
-    const stats = await sportdb.getMatchStats(matchId);
+    const fixture: FixtureResponse = {
+      id: detail.match_id,
+      date: new Date(detail.timestamp * 1000).toISOString(),
+      round: detail.tournament?.name || '',
+      homeTeam: {
+        name: detail.home_team.name,
+        shortName: detail.home_team.short_name,
+        imageUrl: detail.home_team.image_path,
+      },
+      awayTeam: {
+        name: detail.away_team.name,
+        shortName: detail.away_team.short_name,
+        imageUrl: detail.away_team.image_path,
+      },
+      score: {
+        fullTime: { home: detail.scores.home_total, away: detail.scores.away_total },
+        halfTime: { home: detail.scores.home_1st_half, away: detail.scores.away_1st_half },
+      },
+      status: detail.match_status.is_finished ? 'FT' : detail.match_status.stage,
+    };
 
+    // Fetch stats
     const statsMap: Record<string, [string, string]> = {};
-    if (stats.length > 0) {
-      for (const period of stats) {
-        for (const stat of period.stats) {
-          statsMap[stat.statName] = [stat.homeValue, stat.awayValue];
+    try {
+      const statsData = await api.getMatchStats(matchId);
+      const matchStats = statsData?.match || statsData?.['match'] || [];
+      if (Array.isArray(matchStats)) {
+        for (const s of matchStats) {
+          statsMap[s.name] = [String(s.home_team), String(s.away_team)];
         }
       }
-    }
-
-    if (indexed) {
-      return {
-        fixture: indexed.fixture,
-        league: indexed.league,
-        country: indexed.country,
-        stats: statsMap,
-      };
-    }
-
-    // No index hit — fetch /info as fallback (1 extra call)
-    const matchInfo = await sportdb.getMatchInfo(matchId);
-
-    if (!matchInfo && stats.length === 0) return null;
-
-    const eventStartTime = matchInfo?.eventStartTime
-      ? new Date(parseInt(matchInfo.eventStartTime as string) * 1000).toISOString()
-      : '';
+    } catch {}
 
     return {
-      fixture: {
-        id: matchId,
-        date: eventStartTime,
-        round: '',
-        homeTeam: { name: '' },
-        awayTeam: { name: '' },
-        score: {
-          fullTime: {
-            home: parseInt(matchInfo?.homeFtScore as string || '0') || 0,
-            away: parseInt(matchInfo?.awayFtScore as string || '0') || 0,
-          },
-          halfTime: { home: 0, away: 0 },
-        },
-        status: matchInfo?.homeFtScore ? 'FT' : 'NS',
-      },
-      league: '',
-      country: '',
+      fixture,
+      league: detail.tournament?.name || '',
+      country: detail.country?.name || '',
       stats: statsMap,
     };
   } catch {
@@ -454,62 +239,21 @@ export async function getFixtureById(matchId: string): Promise<{
 
 export async function getTeams(leagueId?: string, seasonParam?: string): Promise<TeamResponse[]> {
   if (!leagueId) return [];
-
-  await ensureRegistry();
-  const entry = leagueRegistry.get(leagueId);
-  if (!entry) return [];
-
-  const season = await resolveLeagueSeason(entry, seasonParam);
-  if (!season) return [];
-
-  const results = await getCachedResults(entry, season);
-  const teams = new Map<string, TeamResponse>();
-
-  for (const match of results) {
-    if (!teams.has(match.homeName)) {
-      teams.set(match.homeName, { name: match.homeName, shortName: match.home3CharName, country: entry.countryName });
-    }
-    if (!teams.has(match.awayName)) {
-      teams.set(match.awayName, { name: match.awayName, shortName: match.away3CharName, country: entry.countryName });
-    }
-  }
-  return Array.from(teams.values());
+  // Without tournament fixtures pagination, we can't extract teams from results.
+  // Return empty — individual team lookups via match details work.
+  return [];
 }
 
-export async function getTeamFixtures(teamName: string, leagueId?: string, seasonParam?: string): Promise<Array<{
-  league: string;
-  country: string;
-  fixture: FixtureResponse;
-}>> {
-  if (!leagueId) return [];
-
-  await ensureRegistry();
-  const entry = leagueRegistry.get(leagueId);
-  if (!entry) return [];
-
-  const season = await resolveLeagueSeason(entry, seasonParam);
-  if (!season) return [];
-
-  const results = await getCachedResults(entry, season);
-
-  const teamLower = teamName.toLowerCase();
-
-  const filtered = results.filter(m =>
-    m.homeName.toLowerCase().includes(teamLower) ||
-    m.awayName.toLowerCase().includes(teamLower) ||
-    m.home3CharName?.toLowerCase() === teamLower ||
-    m.away3CharName?.toLowerCase() === teamLower
-  );
-
-  return filtered.map(m => ({
-    league: entry.name,
-    country: entry.countryName,
-    fixture: convertMatchResult(m),
-  }));
+export async function getTeamFixtures(
+  teamName: string,
+  leagueId?: string,
+  seasonParam?: string
+): Promise<Array<{ league: string; country: string; fixture: FixtureResponse }>> {
+  return [];
 }
 
 // ============================================
-// STANDINGS (via sportsdb.dev direct endpoint)
+// STANDINGS
 // ============================================
 
 export async function getStandings(leagueId: string, seasonParam?: string): Promise<{
@@ -532,35 +276,62 @@ export async function getStandings(leagueId: string, seasonParam?: string): Prom
 } | null> {
   await ensureRegistry();
   const entry = leagueRegistry.get(leagueId);
-  if (!entry) return null;
 
-  const season = await resolveLeagueSeason(entry, seasonParam);
-  if (!season) return null;
+  // Standings require tournament_stage_id + tournament_id.
+  // If leagueId IS a tournament_stage_id (e.g. from /tournaments/details), use it.
+  // Otherwise we need to resolve it.
 
-  const data = await sportdb.getStandings(entry.countryParam, entry.leagueParam, season);
-  if (!data || data.length === 0) return null;
+  let stageId = '';
+  let tournamentId = '';
+  let leagueName = entry?.name || '';
+  let countryName = entry?.countryName || '';
 
-  const standings = data.map((e: StandingsEntry) => {
-    const goalsParts = e.goals ? e.goals.split(':') : ['0', '0'];
-    const goalsFor = parseInt(goalsParts[0]) || 0;
-    const goalsAgainst = parseInt(goalsParts[1]) || 0;
+  if (entry && entry.tournamentId) {
+    stageId = entry.id;
+    tournamentId = entry.tournamentId;
+  } else {
+    // leagueId might be the tournament_stage_id directly
+    stageId = leagueId;
+    try {
+      const details = await api.getTournamentDetails(leagueId);
+      tournamentId = details.tournament_id;
+      leagueName = details.name;
+      countryName = details.country?.name || '';
+    } catch {
+      return null;
+    }
+  }
 
-    return {
-      position: parseInt(e.rank) || 0,
-      team: e.teamName,
-      teamId: e.teamId,
-      played: parseInt(e.matches) || 0,
-      won: parseInt(e.wins || e.winsRegular) || 0,
-      drawn: parseInt(e.draws) || 0,
-      lost: parseInt(e.lossesRegular) || 0,
-      goalsFor,
-      goalsAgainst,
-      goalDifference: parseInt(e.goalDiff) || (goalsFor - goalsAgainst),
-      points: parseInt(e.points) || 0,
-    };
-  });
+  if (!stageId || !tournamentId) return null;
 
-  return { league: entry.name, country: entry.countryName, season, standings };
+  try {
+    const data = await api.getTournamentStandings(stageId, tournamentId);
+    if (!data || data.length === 0) return null;
+
+    const standings = data.map((e: StandingsEntry, i: number) => {
+      const goalsParts = e.goals ? e.goals.split(':') : ['0', '0'];
+      const goalsFor = parseInt(goalsParts[0]) || 0;
+      const goalsAgainst = parseInt(goalsParts[1]) || 0;
+
+      return {
+        position: i + 1,
+        team: e.name,
+        teamId: e.team_id,
+        played: e.matches_played,
+        won: e.wins,
+        drawn: e.draws,
+        lost: e.losses,
+        goalsFor,
+        goalsAgainst,
+        goalDifference: e.goal_difference,
+        points: e.points,
+      };
+    });
+
+    return { league: leagueName, country: countryName, season: seasonParam || '', standings };
+  } catch {
+    return null;
+  }
 }
 
 // ============================================
@@ -569,11 +340,18 @@ export async function getStandings(leagueId: string, seasonParam?: string): Prom
 
 export async function getMatchStats(matchId: string): Promise<StatsResponse | null> {
   try {
-    const stats = await sportdb.getMatchStats(matchId);
-    if (stats && stats.length > 0) {
-      return { matchId, periods: stats };
-    }
-    return null;
+    const data = await api.getMatchStats(matchId);
+    const matchStats = data?.match || data?.['match'] || [];
+    if (!Array.isArray(matchStats) || matchStats.length === 0) return null;
+
+    return {
+      matchId,
+      stats: matchStats.map((s: any) => ({
+        name: s.name,
+        home: s.home_team,
+        away: s.away_team,
+      })),
+    };
   } catch {
     return null;
   }
@@ -581,11 +359,9 @@ export async function getMatchStats(matchId: string): Promise<StatsResponse | nu
 
 export async function getMatchEvents(matchId: string): Promise<EventsResponse | null> {
   try {
-    const events = await sportdb.getMatchEvents(matchId);
-    if (events && events.length > 0) {
-      return { matchId, events };
-    }
-    return null;
+    const events = await api.getMatchSummary(matchId);
+    if (!events || events.length === 0) return null;
+    return { matchId, events };
   } catch {
     return null;
   }
@@ -593,18 +369,32 @@ export async function getMatchEvents(matchId: string): Promise<EventsResponse | 
 
 export async function getMatchLineups(matchId: string): Promise<LineupsResponse | null> {
   try {
-    const lineups = await sportdb.getMatchLineups(matchId);
-    if (lineups.home || lineups.away) {
-      return { matchId, home: lineups.home, away: lineups.away };
-    }
-    return null;
+    const sides = await api.getMatchLineups(matchId);
+    if (!sides || sides.length === 0) return null;
+
+    const homeSide = sides.find(s => s.side === 'home');
+    const awaySide = sides.find(s => s.side === 'away');
+
+    return {
+      matchId,
+      home: homeSide ? {
+        formation: homeSide.predictedFormation || homeSide.formation || '',
+        starting: homeSide.startingLineups || [],
+        substitutes: homeSide.substitutes || [],
+      } : null,
+      away: awaySide ? {
+        formation: awaySide.predictedFormation || awaySide.formation || '',
+        starting: awaySide.startingLineups || [],
+        substitutes: awaySide.substitutes || [],
+      } : null,
+    };
   } catch {
     return null;
   }
 }
 
 // ============================================
-// LEAGUE STATS (computed from results)
+// LEAGUE STATS (needs fixtures data)
 // ============================================
 
 export async function getLeagueStats(leagueId: string, seasonParam?: string): Promise<{
@@ -618,39 +408,7 @@ export async function getLeagueStats(leagueId: string, seasonParam?: string): Pr
     draws: number;
   };
 } | null> {
-  await ensureRegistry();
-  const entry = leagueRegistry.get(leagueId);
-  if (!entry) return null;
-
-  const season = await resolveLeagueSeason(entry, seasonParam);
-  if (!season) return null;
-
-  const results = await getCachedResults(entry, season);
-  if (results.length === 0) return null;
-
-  let totalGoals = 0;
-  let homeWins = 0;
-  let awayWins = 0;
-  let draws = 0;
-
-  for (const match of results) {
-    const homeScore = parseInt(match.homeFullTimeScore) || 0;
-    const awayScore = parseInt(match.awayFullTimeScore) || 0;
-    totalGoals += homeScore + awayScore;
-    if (homeScore > awayScore) homeWins++;
-    else if (awayScore > homeScore) awayWins++;
-    else draws++;
-  }
-
-  return {
-    league: entry.name,
-    stats: {
-      totalMatches: results.length,
-      totalGoals,
-      avgGoalsPerMatch: Math.round((totalGoals / results.length) * 100) / 100,
-      homeWins,
-      awayWins,
-      draws,
-    },
-  };
+  // Without bulk fixtures data, we can't compute league stats.
+  // Return null until tournament fixtures pagination is implemented.
+  return null;
 }

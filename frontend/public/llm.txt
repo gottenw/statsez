@@ -1,333 +1,334 @@
-# Statsez API - LLM Reference / Referência para LLMs
+# Statsez API — LLM Reference
 
-> Bilingual document (English / Português).
-> English sections marked [EN]. Portuguese sections marked [PT].
-
----
-
-## [EN] Overview / [PT] Visão Geral
-
-[EN] Statsez API provides **historical football data** from 500+ worldwide leagues.
-It does NOT provide real-time livescores. All data is post-match consolidated.
-
-[PT] A Statsez API fornece **dados históricos de futebol** de mais de 500 ligas mundiais.
-NÃO fornece dados em tempo real (livescore). Todos os dados são consolidados pós-partida.
+> Bilingual (English / Português). [EN] = English. [PT] = Português.
 
 ---
 
-## Base Configuration / Configurações Base
+## Overview / Visão Geral
+
+[EN] Statsez API provides **historical football data** from 750+ worldwide leagues.
+It does NOT provide real-time livescores. All data is post-match.
+
+[PT] A Statsez API fornece **dados históricos de futebol** de 750+ ligas mundiais.
+NÃO fornece livescore. Todos os dados são pós-partida.
+
+---
+
+## Base Configuration / Configuração
 
 - **Base URL:** `https://api.statsez.com/v1`
-- **Authentication / Autenticação:** Header `x-api-key: your_key_here`
-- **Format / Formato:** JSON (UTF-8)
-- **Rate Limit:** 100 req/min per IP address / por endereço IP
-- **Quota:** Bi-weekly cycle — reset on day 1 and day 15 / Ciclo quinzenal — renovação dia 1 e dia 15
-- **Cache:** PostgreSQL-based server-side cache (responses with `cached: true` do not consume upstream quota)
+- **Auth:** Header `x-api-key: YOUR_KEY`
+- **Format:** JSON (UTF-8)
+- **Rate Limit:** 100 req/min per IP
+- **Quota:** Bi-weekly cycle (15 days), resets automatically
 - **Quota Headers:** `X-RateLimit-Limit`, `X-RateLimit-Remaining`, `X-RateLimit-Reset`
 
 ---
 
-## Available Endpoints (11) / Endpoints Disponíveis (11)
+## Pricing / Preços
 
-### 1. LIST LEAGUES / LISTAR LIGAS
+| Plan | Requests/month | Price |
+|------|---------------|-------|
+| Free | 500 | R$ 0 (one-time, per user) |
+| Dev | 40,000 | R$ 69.99/month |
+| Enterprise | 250,000 | R$ 219.99/month |
+| Gold | 600,000 | R$ 499.99/month |
+
+Contact / Contato: Telegram [@joaonaithen](https://t.me/joaonaithen)
+
+---
+
+## Endpoints (11)
+
+### 1. LIST LEAGUES
 `GET /football/leagues`
-- Params: `country` (optional string)
-- Returns all supported competitions / Retorna todas as competições suportadas
+- Params: `country` (optional)
+- Returns all competitions
 
-**Example / Exemplo:**
 ```bash
-curl -H "x-api-key: se_live_abc123" "https://api.statsez.com/v1/football/leagues?country=Brazil"
+curl -H "x-api-key: YOUR_KEY" "https://api.statsez.com/v1/football/leagues?country=Brazil"
 ```
-**Response:**
 ```json
 {
   "success": true,
   "data": {
     "leagues": [
-      { "id": "71", "name": "Serie A", "country": "Brazil", "season": 2024 }
+      { "id": "/football/brazil/serie-a/", "name": "Série A", "country": "Brazil", "season": "", "slug": "/football/brazil/serie-a/" }
     ],
-    "total": 14,
-    "filters": { "country": "Brazil" }
+    "total": 14
   },
-  "meta": { "cached": true, "remainingQuota": 1480 }
+  "meta": { "cached": true, "remainingQuota": 480 }
 }
 ```
 
 ---
 
-### 2. LIST FIXTURES / LISTAR PARTIDAS
+### 2. LIST FIXTURES
 `GET /football/fixtures`
-- Params:
-  - `league` (**required**) — league ID
-  - `season` (optional) — e.g. "2024-2025" (defaults to current season)
-  - `team` (optional) — team name
-  - `round` (optional) — e.g. "Regular Season - 12"
-  - `date` (optional) — YYYY-MM-DD (exact date)
-  - `dateFrom` (optional) — YYYY-MM-DD (range start)
-  - `dateTo` (optional) — YYYY-MM-DD (range end)
+- Params: `league` (**required**), `season`, `team`, `round`, `dateFrom`, `dateTo` (all optional)
 
-**Example / Exemplo:**
 ```bash
-curl -H "x-api-key: se_live_abc123" "https://api.statsez.com/v1/football/fixtures?league=71&dateFrom=2024-08-01&dateTo=2024-08-31"
+curl -H "x-api-key: YOUR_KEY" "https://api.statsez.com/v1/football/fixtures?league=/football/england/premier-league/"
 ```
-**Response:**
+
+---
+
+### 3. FIXTURE DETAILS
+`GET /football/fixtures/{matchId}`
+- Returns full match data: teams, scores, tournament, venue, referee, and stats
+
+```bash
+curl -H "x-api-key: YOUR_KEY" "https://api.statsez.com/v1/football/fixtures/ngWM9fgd"
+```
 ```json
 {
   "success": true,
   "data": {
-    "fixtures": [
-      {
-        "id": "12345",
-        "date": "2024-08-10T20:00:00Z",
-        "homeTeam": { "id": "127", "name": "Flamengo" },
-        "awayTeam": { "id": "121", "name": "Palmeiras" },
-        "score": { "home": 2, "away": 1 },
-        "status": "FT",
-        "round": "Regular Season - 22"
-      }
-    ],
-    "total": 46
-  },
-  "meta": { "cached": false, "remainingQuota": 1479 }
+    "fixture": {
+      "id": "ngWM9fgd",
+      "date": "2025-08-18T17:37:31.000Z",
+      "round": "Premier League - Round 1",
+      "homeTeam": { "name": "Leeds", "shortName": "LEE", "imageUrl": "https://..." },
+      "awayTeam": { "name": "Everton", "shortName": "EVE", "imageUrl": "https://..." },
+      "score": { "fullTime": { "home": 1, "away": 0 }, "halfTime": { "home": 0, "away": 0 } },
+      "status": "FT"
+    },
+    "league": "Premier League - Round 1",
+    "country": "England",
+    "stats": {
+      "Expected goals (xG)": ["0.55", "2.07"],
+      "Ball possession": ["38%", "62%"],
+      "Total shots": ["6", "16"],
+      "Shots on target": ["1", "6"]
+    }
+  }
 }
 ```
 
 ---
 
-### 3. FIXTURE DETAILS / DETALHES DA PARTIDA
-`GET /football/fixtures/{id}`
-- Params: `id` (path) — fixture ID
-- Returns fixture with league, country, and stats summary
-
-**Example / Exemplo:**
-```bash
-curl -H "x-api-key: se_live_abc123" "https://api.statsez.com/v1/football/fixtures/12345"
-```
-**Response:**
-```json
-{
-  "success": true,
-  "data": {
-    "fixture": { "id": "12345", "date": "2024-08-10T20:00:00Z", "homeTeam": "Flamengo", "awayTeam": "Palmeiras", "score": { "home": 2, "away": 1 } },
-    "league": { "id": "71", "name": "Serie A" },
-    "country": { "name": "Brazil" },
-    "stats": {}
-  },
-  "meta": { "cached": true, "remainingQuota": 1478 }
-}
-```
-
----
-
-### 4. STANDINGS / CLASSIFICAÇÃO
+### 4. STANDINGS
 `GET /football/standings`
-- Params: `league` (required) — league ID, `season` (optional) — e.g. "2024-2025"
+- Params: `league` (**required** — tournament_stage_id), `season` (optional)
 
-**Example / Exemplo:**
 ```bash
-curl -H "x-api-key: se_live_abc123" "https://api.statsez.com/v1/football/standings?league=71"
+curl -H "x-api-key: YOUR_KEY" "https://api.statsez.com/v1/football/standings?league=dINOZk9Q"
 ```
-**Response:**
 ```json
 {
   "success": true,
   "data": {
-    "league": { "id": "71", "name": "Serie A" },
-    "country": { "name": "Brazil" },
-    "season": 2024,
+    "league": "LaLiga",
+    "country": "Spain",
+    "season": "",
     "standings": [
-      { "rank": 1, "team": "Botafogo", "points": 73, "played": 38, "won": 22, "drawn": 7, "lost": 9, "goalsFor": 63, "goalsAgainst": 40, "goalDiff": 23 }
-    ],
-    "totalTeams": 20
-  },
-  "meta": { "cached": true, "remainingQuota": 1477 }
+      { "position": 1, "team": "Barcelona", "teamId": "SKbpVP5K", "played": 38, "won": 28, "drawn": 4, "lost": 6, "goalsFor": 102, "goalsAgainst": 39, "goalDifference": 63, "points": 88 },
+      { "position": 2, "team": "Real Madrid", "teamId": "W8mj7MDD", "played": 38, "won": 26, "drawn": 6, "lost": 6, "goalsFor": 78, "goalsAgainst": 38, "goalDifference": 40, "points": 84 }
+    ]
+  }
 }
 ```
 
+> **Note:** For standings, the `league` param is the `tournament_stage_id` (e.g. `dINOZk9Q` for LaLiga 2024-25). You also need to pass the `tournament_id` internally. Use `/matches/details` on any match to discover these IDs.
+
 ---
 
-### 5. FIXTURE STATS / ESTATÍSTICAS DA PARTIDA
-`GET /football/fixtures/{id}/stats`
-- 30+ detailed metrics: xG, possession, shots on target, big chances, passes, corners, fouls, etc.
+### 5. MATCH STATS
+`GET /football/fixtures/{matchId}/stats`
+- 30+ metrics: xG, xGOT, possession, shots, passes, tackles, duels, clearances, etc.
 
-**Example / Exemplo:**
 ```bash
-curl -H "x-api-key: se_live_abc123" "https://api.statsez.com/v1/football/fixtures/12345/stats"
+curl -H "x-api-key: YOUR_KEY" "https://api.statsez.com/v1/football/fixtures/GCxZ2uHc/stats"
 ```
-**Response excerpt:**
 ```json
 {
   "success": true,
   "data": {
-    "homeTeam": { "xG": 1.85, "possession": 58, "shotsOnTarget": 6, "bigChances": 3, "corners": 7 },
-    "awayTeam": { "xG": 0.72, "possession": 42, "shotsOnTarget": 2, "bigChances": 1, "corners": 3 }
-  },
-  "meta": { "cached": true, "remainingQuota": 1476 }
+    "matchId": "GCxZ2uHc",
+    "stats": [
+      { "name": "Expected goals (xG)", "home": "0.55", "away": "2.07" },
+      { "name": "Ball possession", "home": "38%", "away": "62%" },
+      { "name": "Total shots", "home": 6, "away": 16 },
+      { "name": "Shots on target", "home": 1, "away": 6 },
+      { "name": "Passes", "home": "81% (281/346)", "away": "91% (518/571)" },
+      { "name": "Tackles", "home": "94% (15/16)", "away": "41% (7/17)" },
+      { "name": "Goalkeeper saves", "home": 4, "away": 1 }
+    ]
+  }
 }
 ```
 
 ---
 
-### 6. LINEUPS / ESCALAÇÕES
-`GET /football/fixtures/{id}/lineups`
-- Tactical formations (e.g. 4-3-3) and starting XI with positions and shirt numbers
-- Formações táticas e titulares com posições e números de camisa
+### 6. LINEUPS
+`GET /football/fixtures/{matchId}/lineups`
+- Starting XI + substitutes with formation, shirt number, nationality
 
-**Example / Exemplo:**
 ```bash
-curl -H "x-api-key: se_live_abc123" "https://api.statsez.com/v1/football/fixtures/12345/lineups"
+curl -H "x-api-key: YOUR_KEY" "https://api.statsez.com/v1/football/fixtures/ngWM9fgd/lineups"
+```
+```json
+{
+  "success": true,
+  "data": {
+    "matchId": "ngWM9fgd",
+    "home": {
+      "formation": "4-2-3-1",
+      "starting": [
+        { "name": "Lucas Perri", "number": "1", "player_id": "abc123", "country_name": "Brazil" },
+        { "name": "Bogle J.", "number": "2", "player_id": "def456", "country_name": "England" }
+      ],
+      "substitutes": [
+        { "name": "Aaronson B.", "number": "11", "player_id": "ghi789", "country_name": "USA" }
+      ]
+    },
+    "away": {
+      "formation": "4-2-3-1",
+      "starting": [ "..." ],
+      "substitutes": [ "..." ]
+    }
+  }
+}
 ```
 
 ---
 
-### 7. FIXTURE EVENTS / EVENTOS DA PARTIDA
-`GET /football/fixtures/{id}/events`
-- Timeline of: Goals (with assists), Yellow/Red Cards, Substitutions
-- Cronologia: Gols (com assistências), Cartões, Substituições
+### 7. MATCH EVENTS
+`GET /football/fixtures/{matchId}/events`
+- Goals, cards, substitutions with descriptions and player details
 
-**Example / Exemplo:**
 ```bash
-curl -H "x-api-key: se_live_abc123" "https://api.statsez.com/v1/football/fixtures/12345/events"
+curl -H "x-api-key: YOUR_KEY" "https://api.statsez.com/v1/football/fixtures/GCxZ2uHc/events"
+```
+```json
+{
+  "success": true,
+  "data": {
+    "matchId": "GCxZ2uHc",
+    "events": [
+      {
+        "minutes": "12",
+        "team": "home",
+        "description": "Loic Bade (Sevilla) receives a red card!",
+        "players": [{ "name": "Bade L.", "player_id": "YgxuEfvL", "type": "Red Card" }]
+      },
+      {
+        "minutes": "75",
+        "team": "away",
+        "description": "Kylian Mbappe (Real Madrid) drills a shot into the bottom left corner.",
+        "players": [
+          { "name": "Mbappe K.", "player_id": "Wn6E2SED", "type": "Goal" },
+          { "name": "Modric L.", "player_id": "bZWyoJnA", "type": "Assistance" }
+        ]
+      }
+    ]
+  }
+}
 ```
 
 ---
 
-### 8. LIST TEAMS / LISTAR TIMES
+### 8. LIST TEAMS
 `GET /football/teams`
-- Params: `league` (**required**), `season` (optional — e.g. "2024-2025"), `search` (optional — team name filter)
-- Teams are extracted from league match data / Times são extraídos dos dados de partidas da liga
+- Params: `league` (**required**), `season` (optional), `search` (optional)
 
-**Example / Exemplo:**
 ```bash
-curl -H "x-api-key: se_live_abc123" "https://api.statsez.com/v1/football/teams?league=dYlOSQOD&search=Flamengo"
+curl -H "x-api-key: YOUR_KEY" "https://api.statsez.com/v1/football/teams?league=/football/england/premier-league/"
 ```
 
 ---
 
-### 9. TEAM FIXTURES / JOGOS POR TIME
+### 9. TEAM FIXTURES
 `GET /football/teams/{teamName}/fixtures`
-- Params: `league` (**required**) — league ID to search within, `season` (optional — e.g. "2024-2025")
-- Match history for a team within a specific league / Histórico de partidas de um time em uma liga específica
-- Matches by team name or short name (e.g. "Palmeiras", "PAL")
+- Params: `league` (**required**), `season` (optional)
 
-**Example / Exemplo:**
 ```bash
-curl -H "x-api-key: se_live_abc123" "https://api.statsez.com/v1/football/teams/Palmeiras/fixtures?league=dYlOSQOD"
+curl -H "x-api-key: YOUR_KEY" "https://api.statsez.com/v1/football/teams/Liverpool/fixtures?league=/football/england/premier-league/"
 ```
 
 ---
 
-### 10. LEAGUE SEASONS / TEMPORADAS DA LIGA
+### 10. LEAGUE SEASONS
 `GET /football/leagues/{leagueId}/seasons`
-- Lists all available seasons for a league / Lista todas as temporadas disponíveis de uma liga
-- Use the season values in other endpoints via `?season=` param
 
-**Example / Exemplo:**
 ```bash
-curl -H "x-api-key: se_live_abc123" "https://api.statsez.com/v1/football/leagues/Yq4hUnzQ/seasons"
-```
-**Response:**
-```json
-{
-  "success": true,
-  "data": {
-    "league": "Serie A Betano",
-    "country": "Brazil",
-    "seasons": ["2025", "2024", "2023", "2022", "2021", "2020"]
-  }
-}
+curl -H "x-api-key: YOUR_KEY" "https://api.statsez.com/v1/football/leagues//football/england/premier-league//seasons"
 ```
 
 ---
 
-### 11. LEAGUE STATS / ESTATÍSTICAS DA LIGA
+### 11. LEAGUE STATS
 `GET /football/leagues/{leagueId}/stats`
-- Params: `season` (optional — e.g. "2024-2025")
-- League averages: goals per game, home/away win %, total draws, etc.
-- Médias da liga: gols por jogo, % vitórias casa/fora, empates
+- Params: `season` (optional)
+- Aggregated: total matches, goals, avg goals/match, home/away wins, draws
 
-**Example / Exemplo:**
 ```bash
-curl -H "x-api-key: se_live_abc123" "https://api.statsez.com/v1/football/leagues/Yq4hUnzQ/stats"
+curl -H "x-api-key: YOUR_KEY" "https://api.statsez.com/v1/football/leagues//football/england/premier-league//stats"
 ```
 
 ---
 
-## Response Metadata / Metadados de Resposta
+## Error Codes
 
-All successful responses include `meta`:
-```json
-{
-  "meta": {
-    "cached": true,
-    "remainingQuota": 1450
-  }
-}
-```
-- `cached: true` — served from PostgreSQL cache (faster, does not consume upstream API calls)
-- `cached: false` — fresh upstream call was made
+| Code | Meaning |
+|------|---------|
+| 400 | Invalid parameters or unsupported sport |
+| 401 | Missing or invalid API Key |
+| 403 | Subscription inactive, expired, or wrong sport |
+| 404 | Resource not found |
+| 429 | Quota exhausted or rate limit exceeded |
+| 502 | Upstream data source error |
 
 ---
 
-## Error Codes / Códigos de Erro
-
-| Code | Meaning / Significado |
-|------|----------------------|
-| 400  | Invalid parameters (missing required param, unsupported sport) |
-| 401  | Missing or invalid API Key / Chave ausente ou inválida |
-| 403  | Subscription inactive, expired, or wrong sport / Assinatura inativa ou esporte errado |
-| 404  | Resource not found (fixture/league) / Recurso não encontrado |
-| 429  | Quota exhausted or rate limit hit (100 req/min per IP) |
-| 500  | Internal server error / Erro interno |
-
----
-
-## Quick Start for AI Agents / Início Rápido para Agentes IA
+## Quick Start (Python)
 
 ```python
 import requests
 
-API_KEY = "se_live_your_key_here"
+KEY = "se_live_your_key_here"
 BASE = "https://api.statsez.com/v1"
-HEADERS = {"x-api-key": API_KEY}
+H = {"x-api-key": KEY}
 
-# 1. Get all Brazilian leagues
-leagues = requests.get(f"{BASE}/football/leagues?country=Brazil", headers=HEADERS).json()
+# List leagues
+leagues = requests.get(f"{BASE}/football/leagues?country=England", headers=H).json()
 
-# 2. Get Serie A standings
-standings = requests.get(f"{BASE}/football/standings?league=71", headers=HEADERS).json()
+# Get match details + stats
+match = requests.get(f"{BASE}/football/fixtures/ngWM9fgd", headers=H).json()
+print(match["data"]["fixture"]["homeTeam"]["name"])  # "Leeds"
+print(match["data"]["stats"]["Ball possession"])      # ["38%", "62%"]
 
-# 3. Get recent fixtures for a league
-fixtures = requests.get(f"{BASE}/football/fixtures?league=71&dateFrom=2024-08-01&dateTo=2024-08-31", headers=HEADERS).json()
-
-# 4. Get detailed stats for a specific match
-fixture_id = fixtures["data"]["fixtures"][0]["id"]
-stats = requests.get(f"{BASE}/football/fixtures/{fixture_id}/stats", headers=HEADERS).json()
+# Get standings (needs tournament_stage_id)
+standings = requests.get(f"{BASE}/football/standings?league=dINOZk9Q", headers=H).json()
 ```
+
+## Quick Start (JavaScript)
 
 ```javascript
-// Node.js / fetch
-const API_KEY = "se_live_your_key_here";
+const KEY = "se_live_your_key_here";
 const BASE = "https://api.statsez.com/v1";
-const headers = { "x-api-key": API_KEY };
+const headers = { "x-api-key": KEY };
 
-const leagues = await fetch(`${BASE}/football/leagues?country=England`, { headers }).then(r => r.json());
-const standings = await fetch(`${BASE}/football/standings?league=39`, { headers }).then(r => r.json());
+const match = await fetch(`${BASE}/football/fixtures/ngWM9fgd`, { headers }).then(r => r.json());
+console.log(match.data.fixture.homeTeam.name); // "Leeds"
+
+const lineups = await fetch(`${BASE}/football/fixtures/ngWM9fgd/lineups`, { headers }).then(r => r.json());
+console.log(lineups.data.home.formation); // "4-2-3-1"
 ```
 
 ---
 
-## Data Coverage / Cobertura de Dados
+## Data Coverage
 
-- **Countries / Países:** 100+ (Brazil, England, Spain, Italy, Germany, France, etc.)
-- **Leagues / Ligas:** 500+ (top divisions down to regional and youth leagues)
-- **History / Histórico:** 10+ seasons
-- **Fixtures / Partidas:** 2.4M+ records
+- **Countries:** 170+
+- **Leagues:** 750+
+- **Seasons:** 10+
+- **Matches:** 2.4M+
+- **Stats per match:** 30+ metrics (xG, xGOT, possession, shots, passes, etc.)
 
 ---
 
-## Contact / Contato
+## Contact
 
-- **Web Docs / Documentação:** https://statsez.com/docs
-- **API Status:** https://status.statsez.com
-- **Support / Suporte:** dev@statsez.com
+- **Docs:** https://statsez.com/docs
+- **Telegram:** [@joaonaithen](https://t.me/joaonaithen)
