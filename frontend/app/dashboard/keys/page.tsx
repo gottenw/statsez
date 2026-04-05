@@ -23,10 +23,11 @@ export default function ApiKeysPage() {
   const [keys, setKeys] = useState<ApiKeyData[]>([]);
   const [loading, setLoading] = useState(true);
   const [error, setError] = useState<string | null>(null);
-  const [showKey, setShowKey] = useState<string | null>(null);
   const [rotating, setRotating] = useState<string | null>(null);
   const [copied, setCopied] = useState<string | null>(null);
   const [generating, setGenerating] = useState(false);
+  // Raw key is only available right after create/rotate — never stored on server
+  const [rawKey, setRawKey] = useState<string | null>(null);
 
   const fetchKeys = async () => {
     try {
@@ -63,6 +64,9 @@ export default function ApiKeysPage() {
       const data = await res.json();
 
       if (data.success) {
+        if (data.data?.key) {
+          setRawKey(data.data.key);
+        }
         await fetchKeys();
       } else {
         alert(`Erro: ${data.error}`);
@@ -81,6 +85,9 @@ export default function ApiKeysPage() {
     try {
       const data = await rotateApiKey(subscriptionId);
       if (data.success) {
+        if (data.data?.key) {
+          setRawKey(data.data.key);
+        }
         await fetchKeys();
       } else {
         alert(`Erro: ${data.error}`);
@@ -264,23 +271,36 @@ export default function ApiKeysPage() {
                 {/* Key Display */}
                 <div className="p-8 border-b border-border">
                   <span className="data-label text-xs opacity-50 block mb-4">CHAVE DE API</span>
-                  <div className="flex gap-2">
-                    <div className="flex-1 bg-foreground/[0.02] border border-border p-5 font-mono text-base truncate">
-                      {showKey === key.id ? key.key : "•".repeat(40)}
+                  {rawKey ? (
+                    <>
+                      <div className="p-4 border border-green-500/30 bg-green-500/5 mb-4">
+                        <span className="data-label text-xs text-green-500 block mb-1">NOVA CHAVE GERADA</span>
+                        <p className="font-mono text-xs text-muted-foreground">
+                          Copie agora — esta chave não será exibida novamente.
+                        </p>
+                      </div>
+                      <div className="flex gap-2">
+                        <div className="flex-1 bg-foreground/[0.02] border border-green-500/30 p-5 font-mono text-sm break-all">
+                          {rawKey}
+                        </div>
+                        <button
+                          onClick={() => copyToClipboard(rawKey, key.id)}
+                          className="font-mono text-xs font-bold uppercase tracking-[0.2em] px-6 border border-border hover:bg-foreground hover:text-background transition-all shrink-0"
+                        >
+                          {copied === key.id ? "COPIADO!" : "COPIAR"}
+                        </button>
+                      </div>
+                    </>
+                  ) : (
+                    <div className="flex gap-2 items-center">
+                      <div className="flex-1 bg-foreground/[0.02] border border-border p-5 font-mono text-base text-muted-foreground">
+                        {"•".repeat(40)}
+                      </div>
+                      <span className="font-mono text-xs text-muted-foreground shrink-0 px-4">
+                        Rotacione para ver
+                      </span>
                     </div>
-                    <button
-                      onClick={() => setShowKey(showKey === key.id ? null : key.id)}
-                      className="font-mono text-xs font-bold uppercase tracking-[0.2em] px-6 border border-border hover:bg-foreground hover:text-background transition-all"
-                    >
-                      {showKey === key.id ? "OCULTAR" : "MOSTRAR"}
-                    </button>
-                    <button
-                      onClick={() => copyToClipboard(key.key, key.id)}
-                      className="font-mono text-xs font-bold uppercase tracking-[0.2em] px-6 border border-border hover:bg-foreground hover:text-background transition-all"
-                    >
-                      {copied === key.id ? "COPIADO!" : "COPIAR"}
-                    </button>
-                  </div>
+                  )}
                 </div>
 
                 {/* Usage */}

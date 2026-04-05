@@ -34,7 +34,7 @@ app.use('*', cors({
     }
     return 'https://statsez.com';
   },
-  allowMethods: ['GET', 'POST', 'PUT', 'DELETE', 'OPTIONS'],
+  allowMethods: ['GET', 'POST', 'PATCH', 'DELETE', 'OPTIONS'],
   allowHeaders: ['Content-Type', 'Authorization', 'x-api-key', 'Accept'],
   credentials: true,
   maxAge: 600,
@@ -83,11 +83,18 @@ app.get('/', (c) => {
 })
 
 app.onError((err, c) => {
-  console.error('Erro interno do servidor')
+  // Log com contexto para debug mas sem vazar para o cliente
+  const path = c.req.path
+  const method = c.req.method
+  console.error(`[Error] ${method} ${path}:`, err.message || err)
+
+  // Diferenciar entre erros de conectividade (502) e erros internos (500)
+  const isUpstream = err.message?.includes('fetch') || err.message?.includes('ECONNREFUSED') || err.message?.includes('timeout')
+
   return c.json({
     success: false,
-    error: 'Erro interno do servidor'
-  }, 500)
+    error: isUpstream ? 'Upstream service unavailable. Try again.' : 'Internal server error'
+  }, isUpstream ? 502 : 500)
 })
 
 const port = parseInt(process.env.PORT || '3001')
