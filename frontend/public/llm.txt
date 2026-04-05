@@ -7,10 +7,10 @@
 ## Overview / Visão Geral
 
 [EN] Statsez API provides **historical football data** from 750+ worldwide leagues.
-It does NOT provide real-time livescores. All data is post-match.
+All data is post-match — no livescores.
 
-[PT] A Statsez API fornece **dados históricos de futebol** de 750+ ligas mundiais.
-NÃO fornece livescore. Todos os dados são pós-partida.
+[PT] A Statsez API fornece **dados históricos de futebol** de 750+ ligas.
+Todos os dados são pós-partida — sem livescore.
 
 ---
 
@@ -29,53 +29,51 @@ NÃO fornece livescore. Todos os dados são pós-partida.
 
 | Plan | Requests/month | Price |
 |------|---------------|-------|
-| Free | 500 | R$ 0 (one-time, per user) |
+| Free | 500 | R$ 0 (one-time per user) |
 | Dev | 40,000 | R$ 69.99/month |
 | Enterprise | 250,000 | R$ 219.99/month |
 | Gold | 600,000 | R$ 499.99/month |
 
-Contact / Contato: Telegram [@joaonaithen](https://t.me/joaonaithen)
+Contact: Telegram [@joaonaithen](https://t.me/joaonaithen)
 
 ---
 
-## Endpoints (11)
+## Endpoints
 
 ### 1. LIST LEAGUES
 `GET /football/leagues`
-- Params: `country` (optional)
-- Returns all competitions
+- Params: `country` (optional — filter by country name, e.g. "Brazil")
+- Returns all competitions from 750+ leagues across 170+ countries
 
 ```bash
-curl -H "x-api-key: YOUR_KEY" "https://api.statsez.com/v1/football/leagues?country=Brazil"
+curl -H "x-api-key: YOUR_KEY" "https://api.statsez.com/v1/football/leagues?country=England"
 ```
 ```json
 {
   "success": true,
   "data": {
     "leagues": [
-      { "id": "/football/brazil/serie-a/", "name": "Série A", "country": "Brazil", "season": "", "slug": "/football/brazil/serie-a/" }
+      {
+        "id": "/football/england/premier-league/",
+        "name": "Premier League",
+        "country": "England",
+        "season": "",
+        "slug": "/football/england/premier-league/"
+      }
     ],
-    "total": 14
+    "total": 42
   },
-  "meta": { "cached": true, "remainingQuota": 480 }
+  "meta": { "cached": true, "remainingQuota": 490 }
 }
 ```
 
 ---
 
-### 2. LIST FIXTURES
-`GET /football/fixtures`
-- Params: `league` (**required**), `season`, `team`, `round`, `dateFrom`, `dateTo` (all optional)
-
-```bash
-curl -H "x-api-key: YOUR_KEY" "https://api.statsez.com/v1/football/fixtures?league=/football/england/premier-league/"
-```
-
----
-
-### 3. FIXTURE DETAILS
+### 2. FIXTURE DETAILS
 `GET /football/fixtures/{matchId}`
-- Returns full match data: teams, scores, tournament, venue, referee, and stats
+- Returns full match data: teams (with logos), scores (FT + HT), tournament, venue, referee
+- Also fetches match stats automatically (xG, possession, shots, etc.)
+- **This is the primary endpoint for match data**
 
 ```bash
 curl -H "x-api-key: YOUR_KEY" "https://api.statsez.com/v1/football/fixtures/ngWM9fgd"
@@ -88,9 +86,12 @@ curl -H "x-api-key: YOUR_KEY" "https://api.statsez.com/v1/football/fixtures/ngWM
       "id": "ngWM9fgd",
       "date": "2025-08-18T17:37:31.000Z",
       "round": "Premier League - Round 1",
-      "homeTeam": { "name": "Leeds", "shortName": "LEE", "imageUrl": "https://..." },
-      "awayTeam": { "name": "Everton", "shortName": "EVE", "imageUrl": "https://..." },
-      "score": { "fullTime": { "home": 1, "away": 0 }, "halfTime": { "home": 0, "away": 0 } },
+      "homeTeam": { "name": "Leeds", "shortName": "LEE", "imageUrl": "https://static.flashscore.com/..." },
+      "awayTeam": { "name": "Everton", "shortName": "EVE", "imageUrl": "https://static.flashscore.com/..." },
+      "score": {
+        "fullTime": { "home": 1, "away": 0 },
+        "halfTime": { "home": 0, "away": 0 }
+      },
       "status": "FT"
     },
     "league": "Premier League - Round 1",
@@ -99,17 +100,21 @@ curl -H "x-api-key: YOUR_KEY" "https://api.statsez.com/v1/football/fixtures/ngWM
       "Expected goals (xG)": ["0.55", "2.07"],
       "Ball possession": ["38%", "62%"],
       "Total shots": ["6", "16"],
-      "Shots on target": ["1", "6"]
+      "Shots on target": ["1", "6"],
+      "Passes": ["81% (281/346)", "91% (518/571)"]
     }
-  }
+  },
+  "meta": { "cached": false, "remainingQuota": 489 }
 }
 ```
 
 ---
 
-### 4. STANDINGS
+### 3. STANDINGS
 `GET /football/standings`
 - Params: `league` (**required** — tournament_stage_id), `season` (optional)
+- Returns full league table: position, team, W/D/L, goals, points
+- **Important:** The `league` param here is the `tournament_stage_id`, not the league slug. You can find this ID from fixture details (`tournament.tournament_stage_id`).
 
 ```bash
 curl -H "x-api-key: YOUR_KEY" "https://api.statsez.com/v1/football/standings?league=dINOZk9Q"
@@ -122,20 +127,30 @@ curl -H "x-api-key: YOUR_KEY" "https://api.statsez.com/v1/football/standings?lea
     "country": "Spain",
     "season": "",
     "standings": [
-      { "position": 1, "team": "Barcelona", "teamId": "SKbpVP5K", "played": 38, "won": 28, "drawn": 4, "lost": 6, "goalsFor": 102, "goalsAgainst": 39, "goalDifference": 63, "points": 88 },
-      { "position": 2, "team": "Real Madrid", "teamId": "W8mj7MDD", "played": 38, "won": 26, "drawn": 6, "lost": 6, "goalsFor": 78, "goalsAgainst": 38, "goalDifference": 40, "points": 84 }
+      {
+        "position": 1,
+        "team": "Barcelona",
+        "teamId": "SKbpVP5K",
+        "played": 38,
+        "won": 28,
+        "drawn": 4,
+        "lost": 6,
+        "goalsFor": 102,
+        "goalsAgainst": 39,
+        "goalDifference": 63,
+        "points": 88
+      }
     ]
-  }
+  },
+  "meta": { "cached": true, "remainingQuota": 488 }
 }
 ```
 
-> **Note:** For standings, the `league` param is the `tournament_stage_id` (e.g. `dINOZk9Q` for LaLiga 2024-25). You also need to pass the `tournament_id` internally. Use `/matches/details` on any match to discover these IDs.
-
 ---
 
-### 5. MATCH STATS
+### 4. MATCH STATS
 `GET /football/fixtures/{matchId}/stats`
-- 30+ metrics: xG, xGOT, possession, shots, passes, tackles, duels, clearances, etc.
+- 30+ metrics per match: xG, xGOT, possession, shots, passes, tackles, duels, clearances, goalkeeper saves, etc.
 
 ```bash
 curl -H "x-api-key: YOUR_KEY" "https://api.statsez.com/v1/football/fixtures/GCxZ2uHc/stats"
@@ -154,15 +169,16 @@ curl -H "x-api-key: YOUR_KEY" "https://api.statsez.com/v1/football/fixtures/GCxZ
       { "name": "Tackles", "home": "94% (15/16)", "away": "41% (7/17)" },
       { "name": "Goalkeeper saves", "home": 4, "away": 1 }
     ]
-  }
+  },
+  "meta": { "cached": true, "remainingQuota": 487 }
 }
 ```
 
 ---
 
-### 6. LINEUPS
+### 5. MATCH LINEUPS
 `GET /football/fixtures/{matchId}/lineups`
-- Starting XI + substitutes with formation, shirt number, nationality
+- Starting XI + substitutes with formation, shirt number, nationality, player photo
 
 ```bash
 curl -H "x-api-key: YOUR_KEY" "https://api.statsez.com/v1/football/fixtures/ngWM9fgd/lineups"
@@ -184,18 +200,19 @@ curl -H "x-api-key: YOUR_KEY" "https://api.statsez.com/v1/football/fixtures/ngWM
     },
     "away": {
       "formation": "4-2-3-1",
-      "starting": [ "..." ],
-      "substitutes": [ "..." ]
+      "starting": [],
+      "substitutes": []
     }
-  }
+  },
+  "meta": { "cached": true, "remainingQuota": 486 }
 }
 ```
 
 ---
 
-### 7. MATCH EVENTS
+### 6. MATCH EVENTS
 `GET /football/fixtures/{matchId}/events`
-- Goals, cards, substitutions with descriptions and player details
+- Goals, red/yellow cards, substitutions — with detailed descriptions and player info
 
 ```bash
 curl -H "x-api-key: YOUR_KEY" "https://api.statsez.com/v1/football/fixtures/GCxZ2uHc/events"
@@ -210,7 +227,9 @@ curl -H "x-api-key: YOUR_KEY" "https://api.statsez.com/v1/football/fixtures/GCxZ
         "minutes": "12",
         "team": "home",
         "description": "Loic Bade (Sevilla) receives a red card!",
-        "players": [{ "name": "Bade L.", "player_id": "YgxuEfvL", "type": "Red Card" }]
+        "players": [
+          { "name": "Bade L.", "player_id": "YgxuEfvL", "type": "Red Card" }
+        ]
       },
       {
         "minutes": "75",
@@ -222,49 +241,45 @@ curl -H "x-api-key: YOUR_KEY" "https://api.statsez.com/v1/football/fixtures/GCxZ
         ]
       }
     ]
-  }
+  },
+  "meta": { "cached": true, "remainingQuota": 485 }
 }
 ```
 
 ---
 
-### 8. LIST TEAMS
-`GET /football/teams`
-- Params: `league` (**required**), `season` (optional), `search` (optional)
+### 7. FIXTURES BY LEAGUE
+`GET /football/fixtures`
+- Params: `league` (**required**), `season`, `team`, `round`, `dateFrom`, `dateTo` (all optional)
+- **Note:** This endpoint currently returns empty results. Use fixture details (endpoint 2) with a known match ID instead.
 
-```bash
-curl -H "x-api-key: YOUR_KEY" "https://api.statsez.com/v1/football/teams?league=/football/england/premier-league/"
-```
+---
+
+### 8. TEAMS
+`GET /football/teams`
+- Params: `league` (**required**), `season`, `search` (all optional)
+- **Note:** This endpoint currently returns empty results. Team data is available via fixture details and standings.
 
 ---
 
 ### 9. TEAM FIXTURES
 `GET /football/teams/{teamName}/fixtures`
 - Params: `league` (**required**), `season` (optional)
-
-```bash
-curl -H "x-api-key: YOUR_KEY" "https://api.statsez.com/v1/football/teams/Liverpool/fixtures?league=/football/england/premier-league/"
-```
+- **Note:** This endpoint currently returns empty results.
 
 ---
 
 ### 10. LEAGUE SEASONS
 `GET /football/leagues/{leagueId}/seasons`
-
-```bash
-curl -H "x-api-key: YOUR_KEY" "https://api.statsez.com/v1/football/leagues//football/england/premier-league//seasons"
-```
+- Returns available seasons for a league
+- **Note:** Currently returns limited data (0-1 seasons).
 
 ---
 
 ### 11. LEAGUE STATS
 `GET /football/leagues/{leagueId}/stats`
 - Params: `season` (optional)
-- Aggregated: total matches, goals, avg goals/match, home/away wins, draws
-
-```bash
-curl -H "x-api-key: YOUR_KEY" "https://api.statsez.com/v1/football/leagues//football/england/premier-league//stats"
-```
+- **Note:** This endpoint currently returns null. League-level aggregation is not yet available.
 
 ---
 
@@ -290,16 +305,21 @@ KEY = "se_live_your_key_here"
 BASE = "https://api.statsez.com/v1"
 H = {"x-api-key": KEY}
 
-# List leagues
+# List leagues in England
 leagues = requests.get(f"{BASE}/football/leagues?country=England", headers=H).json()
 
-# Get match details + stats
+# Get match details + stats (primary way to get match data)
 match = requests.get(f"{BASE}/football/fixtures/ngWM9fgd", headers=H).json()
 print(match["data"]["fixture"]["homeTeam"]["name"])  # "Leeds"
 print(match["data"]["stats"]["Ball possession"])      # ["38%", "62%"]
 
-# Get standings (needs tournament_stage_id)
+# Get lineups
+lineups = requests.get(f"{BASE}/football/fixtures/ngWM9fgd/lineups", headers=H).json()
+print(lineups["data"]["home"]["formation"])  # "4-2-3-1"
+
+# Get standings (requires tournament_stage_id)
 standings = requests.get(f"{BASE}/football/standings?league=dINOZk9Q", headers=H).json()
+print(standings["data"]["standings"][0]["team"])  # "Barcelona"
 ```
 
 ## Quick Start (JavaScript)
@@ -309,11 +329,13 @@ const KEY = "se_live_your_key_here";
 const BASE = "https://api.statsez.com/v1";
 const headers = { "x-api-key": KEY };
 
+// Get match with stats
 const match = await fetch(`${BASE}/football/fixtures/ngWM9fgd`, { headers }).then(r => r.json());
 console.log(match.data.fixture.homeTeam.name); // "Leeds"
 
-const lineups = await fetch(`${BASE}/football/fixtures/ngWM9fgd/lineups`, { headers }).then(r => r.json());
-console.log(lineups.data.home.formation); // "4-2-3-1"
+// Get events
+const events = await fetch(`${BASE}/football/fixtures/GCxZ2uHc/events`, { headers }).then(r => r.json());
+console.log(events.data.events[0].description); // "Loic Bade receives a red card!"
 ```
 
 ---
@@ -324,7 +346,15 @@ console.log(lineups.data.home.formation); // "4-2-3-1"
 - **Leagues:** 750+
 - **Seasons:** 10+
 - **Matches:** 2.4M+
-- **Stats per match:** 30+ metrics (xG, xGOT, possession, shots, passes, etc.)
+- **Stats per match:** 30+ metrics (xG, xGOT, possession, shots, passes, tackles, etc.)
+
+---
+
+## Known Limitations
+
+- Fixtures by league, teams list, team fixtures, and league stats endpoints return empty data during the API migration period. Use **fixture details by match ID** as the primary data source.
+- Standings require `tournament_stage_id` (not the league slug). Find this ID via fixture details response (`tournament.tournament_stage_id`).
+- League seasons returns limited data (0-1 seasons per league).
 
 ---
 
